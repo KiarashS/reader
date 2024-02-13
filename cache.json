@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/465970a969e0",
+          "author": "Ugur Yildirim",
+          "description": "How to know the unknowable in observational studies",
+          "link": "https://towardsdatascience.com/sensitivity-analysis-for-unobserved-confounding-465970a969e0?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-13T00:27:50.000Z",
+          "wordCount": 5372,
+          "title": "Sensitivity Analysis for Unobserved Confounding",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*pw5JJ7_hGcYcTWNoyZsfzQ.png"
+        },
+        {
+          "id": "https://medium.com/p/2902224aabf3",
+          "author": "Stefano Bosisio",
+          "description": "In this first article, we’re exploring Apache Beam, from a simple pipeline to a more complicated one, using GCP Dataflow. Let’s learn what…\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/apache-beam-data-processing-data-pipelines-dataflow-and-flex-templates-2902224aabf3?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-12T19:40:21.000Z",
+          "wordCount": 1464,
+          "title": "Apache Beam: Data Processing, Data Pipelines, Dataflow and Flex Templates",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*qDe_sNC7PPh3fU0KWs04Ug.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a7dc47723788",
+          "author": "Claudia Ng",
+          "description": "Learn to build a Graph Convolutional Network that can handle heterogeneous graph data for link prediction\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/how-to-build-a-graph-based-neural-network-for-anomaly-detection-in-6-steps-a7dc47723788?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-12T19:22:38.000Z",
+          "wordCount": 1414,
+          "title": "How to Build a Graph-based Neural Network for Anomaly Detection in 6 Steps",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/1*Lb_4cCQckr6i7aDoJ2SN5w.png"
+        },
+        {
+          "id": "https://medium.com/p/17f84378430b",
+          "author": "Toon Beerten",
+          "description": "A hands-on marketing use case\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/powerful-collaboration-of-ai-agents-with-crewai-17f84378430b?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-12T19:12:44.000Z",
+          "wordCount": 1355,
+          "title": "Powerful Collaboration of AI Agents with CrewAI",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*40kwxJ7oZ1kTAJsRt_2bow.png"
+        },
+        {
+          "id": "https://medium.com/p/a4e876f9a532",
+          "author": "Mohammed Mohammed",
+          "description": "A constructive approach to measuring distribution differences.",
+          "link": "https://towardsdatascience.com/understanding-kl-divergence-intuitively-a4e876f9a532?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-12T19:05:57.000Z",
+          "wordCount": 3032,
+          "title": "Understanding KL Divergence Intuitively",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*RlzqwDFtqqNYQjD2"
+        },
+        {
           "id": "https://medium.com/p/a57512cabd69",
           "author": "Mahyar Aboutalebi, Ph.D.",
           "description": "Learn how to work with Lexcube, a Python package for data visualization in the space-time domain!\nContinue reading on Towards Data Science »",
@@ -192,6 +242,16 @@
           "publishedOn": "2024-01-29T00:00:00.000Z",
           "wordCount": 3172,
           "title": "User-level Differentially Private Stochastic Convex Optimization: Efficient Algorithms with Optimal Rates",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
+          "id": "transport-solvers",
+          "author": null,
+          "description": "Two salient limitations have long hindered the relevance of optimal transport methods to machine learning. First, the  computational cost of standard sample-based solvers (when used on batches of  samples) is prohibitive. Second, the mass conservation constraint makes OT solvers too rigid in practice: because they must match \\textit{all} points from both measures, their output can be heavily influenced by outliers. A flurry of recent works has addressed these computational and modeling limitations. Still it has resulted in two separate strains of methods: While the computational outlook was…",
+          "link": "https://machinelearning.apple.com/research/transport-solvers",
+          "publishedOn": "2024-01-22T00:00:00.000Z",
+          "wordCount": 2210,
+          "title": "Unbalanced Low-Rank Optimal Transport Solvers",
           "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
         },
         {

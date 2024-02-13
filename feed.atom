@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-02-12T16:55:03.623Z</updated>
+    <updated>2024-02-13T00:50:00.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sensitivity Analysis for Unobserved Confounding]]></title>
+        <id>https://medium.com/p/465970a969e0</id>
+        <link href="https://towardsdatascience.com/sensitivity-analysis-for-unobserved-confounding-465970a969e0?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-13T00:27:50.000Z</updated>
+        <summary type="html"><![CDATA[How to know the unknowable in observational studies]]></summary>
+        <author>
+            <name>Ugur Yildirim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Beam: Data Processing, Data Pipelines, Dataflow and Flex Templates]]></title>
+        <id>https://medium.com/p/2902224aabf3</id>
+        <link href="https://towardsdatascience.com/apache-beam-data-processing-data-pipelines-dataflow-and-flex-templates-2902224aabf3?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-12T19:40:21.000Z</updated>
+        <summary type="html"><![CDATA[In this first article, we’re exploring Apache Beam, from a simple pipeline to a more complicated one, using GCP Dataflow. Let’s learn what…
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Stefano Bosisio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Graph-based Neural Network for Anomaly Detection in 6 Steps]]></title>
+        <id>https://medium.com/p/a7dc47723788</id>
+        <link href="https://towardsdatascience.com/how-to-build-a-graph-based-neural-network-for-anomaly-detection-in-6-steps-a7dc47723788?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-12T19:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build a Graph Convolutional Network that can handle heterogeneous graph data for link prediction
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Claudia Ng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Collaboration of AI Agents with CrewAI]]></title>
+        <id>https://medium.com/p/17f84378430b</id>
+        <link href="https://towardsdatascience.com/powerful-collaboration-of-ai-agents-with-crewai-17f84378430b?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-12T19:12:44.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on marketing use case
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Toon Beerten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding KL Divergence Intuitively]]></title>
+        <id>https://medium.com/p/a4e876f9a532</id>
+        <link href="https://towardsdatascience.com/understanding-kl-divergence-intuitively-a4e876f9a532?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-12T19:05:57.000Z</updated>
+        <summary type="html"><![CDATA[A constructive approach to measuring distribution differences.]]></summary>
+        <author>
+            <name>Mohammed Mohammed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Visualization of Geospatial Big Data by Lexcube! (Python)]]></title>
         <id>https://medium.com/p/a57512cabd69</id>
@@ -180,6 +233,16 @@ To this end, we outline a set of four data design practices (DDPs) for designing
         <link href="https://machinelearning.apple.com/research/user-level-differentially"/>
         <updated>2024-01-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We study differentially private stochastic convex optimization (DP-SCO) under user-level privacy where each user may hold multiple data items. Existing work for  user-level DP-SCO either requires super-polynomial runtime or requires number of users that grows polynomially with the dimensionality of the problem. We develop new algorithms for user-level DP-SCO that obtain optimal rates, run in polynomial time, and require a number of users that grow logarithmically in the dimension. Moreover, our algorithms are the first  to obtain optimal rates for non-smooth functions in polynomial time. These…]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbalanced Low-Rank Optimal Transport Solvers]]></title>
+        <id>transport-solvers</id>
+        <link href="https://machinelearning.apple.com/research/transport-solvers"/>
+        <updated>2024-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Two salient limitations have long hindered the relevance of optimal transport methods to machine learning. First, the  computational cost of standard sample-based solvers (when used on batches of  samples) is prohibitive. Second, the mass conservation constraint makes OT solvers too rigid in practice: because they must match \textit{all} points from both measures, their output can be heavily influenced by outliers. A flurry of recent works has addressed these computational and modeling limitations. Still it has resulted in two separate strains of methods: While the computational outlook was…]]></summary>
         <author>
             <name>Apple Machine Learning Research</name>
         </author>
