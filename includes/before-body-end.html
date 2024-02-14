@@ -4,6 +4,6 @@
     try {
       const parsed = JSON.parse(stateString);
       if (!parsed?.length) document.querySelectorAll("[data-action]")[0].dispatchEvent(new MouseEvent("click", {ctrlKey: true, bubbles: true}));
-    }
+    } catch {}
   }, false);
 </script>
