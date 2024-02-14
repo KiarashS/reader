@@ -3,7 +3,11 @@
     const stateString = localStorage.getItem("closedAccordionIds");
     try {
       const parsed = JSON.parse(stateString);
-      if (!parsed?.length) document.querySelectorAll("[data-action]")[0].dispatchEvent(new MouseEvent("click", {ctrlKey: true, bubbles: true}));
+      if (!parsed?.length) {
+        document.querySelectorAll("[data-action]").forEach(function(btn) {
+          btn.dispatchEvent(new MouseEvent("click", {bubbles: true}));
+        }
+      }
     } catch {}
   }, false);
 </script>
