@@ -11312,17 +11312,21 @@ Means of means bounding the logarithmic mean first appeared on John D. Cook.</sp
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/7901533058">
-        <time id="build-timestamp" datetime="2024-02-14T12:56:45.938Z">2024-02-14T12:56:45.938Z</time>
+      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/7901588836">
+        <time id="build-timestamp" datetime="2024-02-14T13:01:06.647Z">2024-02-14T13:01:06.647Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
     <script src="index.js?v1.14.4"></script>
-    <!--script>
+    <script>
   document.addEventListener('DOMContentLoaded', function() {
-     document.querySelectorAll("[data-action]")[0].dispatchEvent(new MouseEvent("click", {ctrlKey: true, bubbles: true}));
+    const stateString = localStorage.getItem("closedAccordionIds");
+    try {
+      const parsed = JSON.parse(stateString);
+      if (!parsed?.length) document.querySelectorAll("[data-action]")[0].dispatchEvent(new MouseEvent("click", {ctrlKey: true, bubbles: true}));
+    }
   }, false);
-</script-->
+</script>
 
   </body>
 
