@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.0.2
         with:
-          node-version: "latest"
+          node-version: "20"
       - name: Install dependencies
         run: npm i
       - name: Build the feed
@@ -27,6 +27,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3.9.3
         with:
-          node-version: "latest"
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
