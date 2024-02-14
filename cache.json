@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/41425a40d7d0",
+          "author": "Vincent Koc",
+          "description": "Architecture patterns and mental models for working with Large Language Models",
+          "link": "https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-13T23:19:59.000Z",
+          "wordCount": 3759,
+          "title": "Generative AI Design Patterns: A Comprehensive Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2tBQkVvC-_sHACgSs0ouug.png"
+        },
+        {
+          "id": "https://medium.com/p/ee11ab5f9f20",
+          "author": "Sachin Date",
+          "description": "The life and times of Abraham De Moivre, his famous theorem, and how it set the stage for the discovery of the Central Limit Theorem",
+          "link": "https://towardsdatascience.com/abraham-de-moivre-his-famous-theorem-and-the-birth-of-the-normal-curve-ee11ab5f9f20?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-13T21:37:50.000Z",
+          "wordCount": 8015,
+          "title": "Abraham De Moivre, His Famous Theorem, and the Birth of the Normal Curve",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SoJHemrSFz0wWPxZl3q4wg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/cf3682f8563b",
+          "author": "Robert A. Gonsalves",
+          "description": "Transforming your ideas into tangible artifacts using Midjourney and open-source projects: Shap-E, MVDream, and threestudio\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/molding-the-imagination-using-ai-to-create-new-3d-printable-objects-cf3682f8563b?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-13T21:31:18.000Z",
+          "wordCount": 1497,
+          "title": "Molding the Imagination: Using AI to Create New 3D-Printable Objects",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sao9nlpIadkA3dzQig2qHQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e823535e0eb1",
+          "author": "LucianoSphere (Luciano Abriata, PhD)",
+          "description": "A careful selection looking for performance, flexibility, and richness of features.\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/the-most-advanced-libraries-for-data-visualization-and-analysis-on-the-web-e823535e0eb1?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-13T20:39:41.000Z",
+          "wordCount": 1520,
+          "title": "The Most Advanced Libraries for Data Visualization and Analysis on the Web",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Cpgpk7Sl0hGofvcE7OEWMA.png"
+        },
+        {
           "id": "https://medium.com/p/cb1bd2f3f4bb",
           "author": "Yennie Jun",
           "description": "How well can AI models solve (and create) rebus puzzles?\nContinue reading on Towards Data Science »",
@@ -391,6 +431,16 @@
       "feedUrl": "https://blog.research.google/atom.xml",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+          "author": null,
+          "description": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research\n\n\n\n\n\nDifferential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while processing and analyzing data. DP offers a robust solution to address growing concerns about data protection, enabling technologies across industries and government applications (e.g., the US census) without compromising individual user identities.  As its adoption increases, it’s important to identify the potential risks of developing mechanisms with faulty implementations. Researchers have recently found errors in the mathematical proofs of private mechanisms, and their implementations. For example, researchers compared six sparse vector technique (SVT) variations and found that only two…",
+          "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+          "publishedOn": "2024-02-13T22:11:00.000Z",
+          "wordCount": 27935,
+          "title": "DP-Auditorium: A flexible library for auditing differential privacy",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNVpxjk-jj1rIYQ8AM3A-Syqxd3d8L8-wIy8NWwyobCXmTRK7mY9h94aJYgFCiC0gnehVFFoM8-in8HsOZjfhoNce03nbsrN5fxY07wADV6ULPC0POGmCc-8eL3OqA9KrDyzQxN38JKvh6xCmLV6FZ1g0UfaXtKORhtTy0WuJexlPqV6P2c9rPdg_W_5zP/w1200-h630-p-k-no-nu/hero.jpg"
+        },
         {
           "id": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
           "author": null,
@@ -1401,6 +1451,16 @@
       "feedUrl": "https://www.reddit.com/r/LanguageTechnology.rss",
       "siteUrl": "https://www.reddit.com/r/LanguageTechnology",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/LanguageTechnology/comments/1aq58wq/diffusion_of_thoughts_chainofthought_reasoning_in/",
+          "author": null,
+          "description": "Paper: https://arxiv.org/abs/2402.07754\n Code: https://github.com/HKUNLP/diffusion-of-thoughts\n Abstract:\n  \nDiffusion models have gained attention in text processing, offering many potential advantages over traditional autoregressive models. This work explores the integration of diffusion models and Chain-of-Thought (CoT), a well-established technique to improve the reasoning ability in autoregressive language models. We propose Diffusion-of-Thought (DoT), allowing reasoning steps to diffuse over time through the diffusion process. In contrast to traditional autoregressive language models that make decisions in a left-to-right, token-by-token manner, DoT offers more flexibility in the trade-off between computation and reasoning performance. Our experimental results demonstrate the effectiveness of DoT in multi-digit multiplication and grade school math problems. Additionally, DoT showcases promising self-correction abilities and benefits from existing reasoning-enhancing techniques like self-consistency decoding. Our findings contribute to the understanding and development of reasoning capabilities in diffusion language models.\n  \n   submitted by    /u/FastestGPU  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/LanguageTechnology/comments/1aq58wq/diffusion_of_thoughts_chainofthought_reasoning_in/",
+          "publishedOn": "2024-02-13T21:34:33.000Z",
+          "wordCount": null,
+          "title": "Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/LanguageTechnology/comments/1apxedy/deploy_llama_2_mistral_and_mixtral_on_aws_ec2/",
           "author": null,
@@ -2424,16 +2484,6 @@
           "wordCount": 1490,
           "title": "Means of means bounding the logarithmic mean",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.johndcook.com/blog/?p=235582",
-          "author": "John",
-          "description": "I’ve mentioned base 64 encoding a few times here, but I’ve left out a detail. This post fills in that detail. Base 64 encoding comes up in multiple contexts in which you want to represent binary data in text form. I’ve mentioned base 64 encoding in the context of Gnu ASCII armor. A more common […]\nBase 64 encoding remainder problem first appeared on John D. Cook.",
-          "link": "https://www.johndcook.com/blog/2024/01/15/base-64-remainder/",
-          "publishedOn": "2024-01-15T12:16:57.000Z",
-          "wordCount": 1717,
-          "title": "Base 64 encoding remainder problem",
-          "imageUrl": null
         }
       ]
     },
@@ -2485,6 +2535,56 @@
       "feedUrl": "https://www.reddit.com/r/learnmachinelearning.rss",
       "siteUrl": "https://www.reddit.com/r/learnmachinelearning",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/learnmachinelearning/comments/1aq9lh6/overfitting/",
+          "author": null,
+          "description": "Hello everyone,\n I've been trying to understand how to detect an overfitting model, but the explanations I've come across are often overly complex. I know that it's easy to spot an underfitting model when metrics like accuracy, recall, and F1 score are low, for example, around 0.5 in a classification model. But how do you detect overfitting using this approach? Or perhaps you use another method?\n    submitted by    /u/Esmasta97  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/learnmachinelearning/comments/1aq9lh6/overfitting/",
+          "publishedOn": "2024-02-14T00:38:09.000Z",
+          "wordCount": null,
+          "title": "Overfitting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/learnmachinelearning/comments/1aq8nu6/practical_tips_or_learned_experiences_fine_tuning/",
+          "author": null,
+          "description": "Hi,\n I'm currently working with a pre-trained ViT (ViT_B_16) for downstream tasks. I'm in the process of fine-tuning it with approximately 13,000 images distributed across 100 classes. My approach involves following PyTorch official tutorials and conducting training on a Cloud Tesla T4 (g4dn.8xlarge). Each epoch takes around 14 minutes, and for the initial run, I've arbitrarily set 20 epochs.\n For additional context, my model specifications include a batch size of 32, and I'm utilizing an Adam optimizer with a learning rate set to 1e-3. I have a few questions:\n  \nIs a 14-minute duration per epoch reasonable?\n Are there ways to decrease the training duration? Would you suggest a linear learning rate scheduler, increasing the batch size, or adjusting the DataLoader number of workers?\n Did I overlook anything by not incorporating weight decay, epsilon, or betas?\n  \nI'm feeling a bit anxious about the setup and would greatly appreciate any advice.\n Many thanks for your time.\n    submitted by    /u/Numerous_Speed_9107  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/learnmachinelearning/comments/1aq8nu6/practical_tips_or_learned_experiences_fine_tuning/",
+          "publishedOn": "2024-02-13T23:57:05.000Z",
+          "wordCount": null,
+          "title": "Practical tips or learned experiences fine tuning a ViT for a classification exercise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/learnmachinelearning/comments/1aq8lm6/alternative_for_a_securities_price_prediction/",
+          "author": null,
+          "description": "I really enjoy learning about finance and I've been wanting to apply my machine learning on a project in that field. I understand that time-series forecasting of stocks and such has been done billions of times, and that there are algorithms which simplify that task a lot, so for both of those reasons my project would be pointless. I really wanted to do something related to this segment, but any way i turn i end up bumping my head into \"too simple\" or \"not a good concept\" for ML.\n Any ideas? I'm really all out of luck.\n    submitted by    /u/avaqueue  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/learnmachinelearning/comments/1aq8lm6/alternative_for_a_securities_price_prediction/",
+          "publishedOn": "2024-02-13T23:54:25.000Z",
+          "wordCount": null,
+          "title": "Alternative for a securities price prediction project?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/learnmachinelearning/comments/1aq7gh4/i_have_an_unorthodox_genetic_algorithm_and_im/",
+          "author": null,
+          "description": "I developed a genetic algorithm that, in my opinion, has some unorthodox characteristics and I would like to find out if there is something similar already published in the literature. I don't have much experience with genetic algorithms so I don't really know where to start searching, so I'm wondering if anyone here has heard or seen of an algorithm with characteristics similar to the following:\n  \nThe population of size M is divided into two disjoint groups; the top K individuals (\"top\" in terms of their fitness value) constitute the \"upper bin\", and the rest M - K individuals constitute the \"lower bin\".\n During parent selection (before performing crossover), a pair of individuals is chosen in one of three possible ways: both individuals are randomly chosen from the upper bin, both indiv…",
+          "link": "https://www.reddit.com/r/learnmachinelearning/comments/1aq7gh4/i_have_an_unorthodox_genetic_algorithm_and_im/",
+          "publishedOn": "2024-02-13T23:05:55.000Z",
+          "wordCount": null,
+          "title": "I have an unorthodox genetic algorithm and I'm wondering if there is already something published in the literature that explains a similar algorithm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/learnmachinelearning/comments/1aq516w/vectorbt_for_quantitative_analysis_in_python/",
+          "author": null,
+          "description": "submitted by    /u/fancypigollo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/learnmachinelearning/comments/1aq516w/vectorbt_for_quantitative_analysis_in_python/",
+          "publishedOn": "2024-02-13T21:25:47.000Z",
+          "wordCount": null,
+          "title": "VectorBT for Quantitative Analysis in Python",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/learnmachinelearning/comments/1aq2dya/predicted_output_after_decoding_is_always_empty/",
           "author": null,
@@ -2778,6 +2878,106 @@
       "siteUrl": "https://old.reddit.com/r/MachineLearning/",
       "articles": [
         {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq8p38/d_if_i_have_a_sampling_strategy_a_b_and_c_and_b/",
+          "author": null,
+          "description": "So I've been testing different sampling strategies for NLP data with binary labels (Even, stratified, and the middle between the two on the label). I've been testing them on 20% of the data and have found that the middle sampling strategy has done the best so far. If I scale to 100% of the data what reasons might the middle one no longer be the best?\n    submitted by    /u/DolantheMFWizard  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq8p38/d_if_i_have_a_sampling_strategy_a_b_and_c_and_b/",
+          "publishedOn": "2024-02-13T23:58:36.000Z",
+          "wordCount": 1809,
+          "title": "[D] If I have a sampling strategy A, B, and C and B perform the best. Would that still be true if data scaled?",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq8dvw/d_information_retrievalsearch/",
+          "author": null,
+          "description": "I am looking for documentation on building a search engine. Specifically around handling queries and building embeddings for them.\n Some of the use cases can be long queries, maintaining long context, spelling mistakes, handling multiple conditions, rewriting, expansion, query intent , NLU.\n I will probably build it using RAG+LLM but I think the basic principles will still apply. Any suggestions on where/what to read up?\n    submitted by    /u/Worldly-Pen-8101  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq8dvw/d_information_retrievalsearch/",
+          "publishedOn": "2024-02-13T23:45:16.000Z",
+          "wordCount": 1611,
+          "title": "[D] Information retrieval/search",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq8cm5/p_what_is_a_robust_pretrained_word2vec_model/",
+          "author": null,
+          "description": "I'm trying to build an RNN to predict sentences, but I need to start with a good Word2Vec model that is robust to things like numbers (in non-word form so: 1,2,3), human names, and so on. I have data, but new data can come in with words not previously seen, thus the need for a robust Word2Vec model. Any suggestions?\n Note: I can't use Transformers for this problem due to certain problem constraints since I know the most common response will be to use a pre-trained Transformer.\n    submitted by    /u/DolantheMFWizard  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq8cm5/p_what_is_a_robust_pretrained_word2vec_model/",
+          "publishedOn": "2024-02-13T23:43:46.000Z",
+          "wordCount": 1643,
+          "title": "[P] What is a robust pre-trained Word2Vec model?",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq8aw9/python_code_for_chatgpt_api_r/",
+          "author": null,
+          "description": "My Python code interacts successfully with the ChatGPT API; however, the results it yields differ from what I expect. Outputs from ChatGPT are typically more elaborate and extended, but the responses I receive from my API calls are brief and lack detail. Despite tweaking the temperature and token values, I haven't seen an improvement. I would appreciate any assistance with this issue.\n def get_completion(prompt, model=\"gpt-4\", temperature=0.7, max_tokens=5000):\n messages = [{\"role\": \"user\", \"content\": prompt}]\n response = openai.ChatCompletion.create(\n model=model,\n messages=messages,\n temperature=temperature,\n max_tokens=max_tokens,\n )\n return response.choices[0].message[\"content\"]\n ​\n ChatGPT API response : Plano, Texas is known for its affluent population and highly prioritized educatio…",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq8aw9/python_code_for_chatgpt_api_r/",
+          "publishedOn": "2024-02-13T23:41:42.000Z",
+          "wordCount": 2059,
+          "title": "Python code for chatgpt API [R]",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq7rd5/p_speech_synthesis_with_mamba_beginner_friendly/",
+          "author": null,
+          "description": "Hi all, I came across this post last month and found it super interesting. I'm a developer advocate at Determined AI and am always looking to learn new things, so I wanted to work through it myself. Super well written blog post by u/ExaminationNo8522 helped too.\n Anyways, I wanted to go through it and reproduce for myself on a different dataset, and port to Determined. The result is a beginner friendly notebook + blog post. Check these out if you're interested.\n And of course, let me know if you have thoughts/feedback/comments/issues!\n    submitted by    /u/ishabytes  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq7rd5/p_speech_synthesis_with_mamba_beginner_friendly/",
+          "publishedOn": "2024-02-13T23:18:44.000Z",
+          "wordCount": 1728,
+          "title": "[P] Speech Synthesis with Mamba: Beginner friendly notebook + code",
+          "imageUrl": "https://external-preview.redd.it/TkgxTNDh7DxverobqDJQELlZpjix8Uy3b72eStqY3hU.jpg?width=728&height=381.151832461&auto=webp&crop=728:381.151832461,smart&s=dbddfdbe4595c5f6b012425614d95f4ea4231cf7"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq7n16/d_yolov5_memory_usage/",
+          "author": null,
+          "description": "Hi r/MachineLearning,\n ​\n I have recently been training a custom YOLOv5 dataset for a project I am working on. I notice that when I run train.py, initially the system loads up my RAM with what I assume are the model weights before running the training? \n ​\n I say this because my GPU has near-zero usage for the first minute or so while my RAM usage goes from baseline to almost 16 GB used by Vscode. Is this normal behavior? I am running the YOLOv5m pretrained weights which is a 21.2 M parameter model. GPU memory usage peaks at around 8.3 GB/12 GB. \n ​\n I am training on 1280x1280 px images and a batch size of 4. The larger images are required for my application as I need to identify small features. The batch size is limited by my GPU memory as far as I can tell. \n ​\n Just wanted to see if anyone else has seen this or if the high RAM usage points to some inefficiency or memory leak.\n ​\n Thanks!\n ​\n ​\n ​\n    submitted by    /u/LuckyBucky77  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq7n16/d_yolov5_memory_usage/",
+          "publishedOn": "2024-02-13T23:13:42.000Z",
+          "wordCount": 1725,
+          "title": "[D] YOLOv5 - Memory Usage",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq78ao/d_whats_the_standard_practice_for_setting/",
+          "author": null,
+          "description": "Hi I am trying to build a modularized LLM application using Langchain where within any individual conversation the app can seamless switch between multiple LLMs to respond to the query, for example:\n  \nUser: What's 1+ 1?\n App (GPT-3.5): 1+1 is 2\n User: Concatenate the last name of the current president of the US with the answer from your last response\n App (Gemini Ultra): Biden2\n  \nI have two technical questions that I hope this subreddit can help answer:\n  \nWhat's the standard practice for setting the initialization prompts or background prompts? For example I want to tell this App that \"your name is Bob\", and I want this App to continuously remember it's Bob regardless how long the conversation has gotten or any switching between LLMs. Do I set this at the beginning of the conversation or before every single response?\n What's the standard practice for conversation memory management when there's switching of LLM involved within one conversation? Do I store all the conversation history within a vector database and do a index search prior to any individual response?\n  \n   submitted by    /u/Try_StockAnalystGPT  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq78ao/d_whats_the_standard_practice_for_setting/",
+          "publishedOn": "2024-02-13T22:56:36.000Z",
+          "wordCount": 1774,
+          "title": "[D] What's the standard practice for setting initialization prompts and maintaining context when switching LLMs within the same conversation?",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq572l/r_diffusion_of_thoughts_chainofthought_reasoning/",
+          "author": null,
+          "description": "Paper: https://arxiv.org/abs/2402.07754\n Code: https://github.com/HKUNLP/diffusion-of-thoughts\n Abstract:\n  \nDiffusion models have gained attention in text processing, offering many potential advantages over traditional autoregressive models. This work explores the integration of diffusion models and Chain-of-Thought (CoT), a well-established technique to improve the reasoning ability in autoregressive language models. We propose Diffusion-of-Thought (DoT), allowing reasoning steps to diffuse over time through the diffusion process. In contrast to traditional autoregressive language models that make decisions in a left-to-right, token-by-token manner, DoT offers more flexibility in the trade-off between computation and reasoning performance. Our experimental results demonstrate the effectiveness of DoT in multi-digit multiplication and grade school math problems. Additionally, DoT showcases promising self-correction abilities and benefits from existing reasoning-enhancing techniques like self-consistency decoding. Our findings contribute to the understanding and development of reasoning capabilities in diffusion language models.\n  \n   submitted by    /u/FastestGPU  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq572l/r_diffusion_of_thoughts_chainofthought_reasoning/",
+          "publishedOn": "2024-02-13T21:32:22.000Z",
+          "wordCount": 1692,
+          "title": "[R] Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq4sp9/r_scaling_laws_for_finegrained_mixture_of_experts/",
+          "author": null,
+          "description": "Paper: https://arxiv.org/abs/2402.07871\n Code: https://github.com/llm-random/llm-random\n Abstract:\n  \nMixture of Experts (MoE) models have emerged as a primary solution for reducing the computational cost of Large Language Models. In this work, we analyze their scaling properties, incorporating an expanded range of variables. Specifically, we introduce a new hyperparameter, granularity, whose adjustment enables precise control over the size of the experts. Building on this, we establish scaling laws for fine-grained MoE, taking into account the number of training tokens, model size, and granularity. Leveraging these laws, we derive the optimal training configuration for a given computational budget. Our findings not only show that MoE models consistently outperform dense Transformers but also highlight that the efficiency gap between dense and MoE models widens as we scale up the model size and training budget. Furthermore, we demonstrate that the common practice of setting the size of experts in MoE to mirror the feed-forward layer is not optimal at almost any computational budget.\n  \n   submitted by    /u/FastestGPU  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq4sp9/r_scaling_laws_for_finegrained_mixture_of_experts/",
+          "publishedOn": "2024-02-13T21:16:20.000Z",
+          "wordCount": 1713,
+          "title": "[R] Scaling Laws for Fine-Grained Mixture of Experts",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
+          "id": "https://old.reddit.com/r/MachineLearning/comments/1aq40xo/mutual_information_regularized_offline/",
+          "author": null,
+          "description": "submitted by    /u/LushousLightfoot  \n [link]   [comments]",
+          "link": "https://old.reddit.com/r/MachineLearning/comments/1aq40xo/mutual_information_regularized_offline/",
+          "publishedOn": "2024-02-13T20:45:03.000Z",
+          "wordCount": 1605,
+          "title": "Mutual Information Regularized Offline Reinforcement Learning",
+          "imageUrl": "https://www.redditstatic.com/new-icon.png"
+        },
+        {
           "id": "https://old.reddit.com/r/MachineLearning/comments/1aq2czi/predicted_output_after_decoding_is_always_empty/",
           "author": null,
           "description": "Predicted output after decoding is always empty strings in a list of tokens, but prediction looks fine.\n I created a new project to debug with, my real one is much more complicated, but this code is just to show my issue:\n ```import tensorflow as tf\n import numpy as np\n from keras.callbacks import EarlyStopping\n from keras.layers import Bidirectional, Dropout, BatchNormalization, Embedding, LSTM, Dense\n from keras.optimizers import Adam\n from keras.regularizers import l2\n from keras.models import Sequential\n from keras.preprocessing.sequence import pad_sequences\n from sklearn.model_selection import train_test_split\n user_prompts = np.array([\n \"What's your favorite animal?\",\n \"What's your favorite movie?\",\n \"What's your favorite book?\",\n \"What's your favorite season?\",\n \"What's your favorit…",
@@ -3044,6 +3244,26 @@
       "feedUrl": "https://www.reddit.com/r/MLQuestions.rss",
       "siteUrl": "https://www.reddit.com/r/MLQuestions",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/MLQuestions/comments/1aq7894/how_do_you_reassemble_full_images_from_models/",
+          "author": null,
+          "description": "In order to do image processing on large or irregularly shaped images one strategy is to divide the input image into patches, say 64x64 pixels. How do you reassemble those patches into a large image again after inference? Obviously you can just concatenate them, but that would risk edges where the patches meet. Sliding windows with overlap and averaging can result in blurring. This is less of a problem when doing segmentation, but what about other image processing?\n If you're doing super resolution or style transfer or anything that results in a new natural image, how would you merge patches back into a full size image? Are there any standard ways of doing it, or even comparisons between multiple methods?\n I tried searching, but all I can find is how to split images into patches, not the other way around.\n    submitted by    /u/bearnaisepudding  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/MLQuestions/comments/1aq7894/how_do_you_reassemble_full_images_from_models/",
+          "publishedOn": "2024-02-13T22:56:32.000Z",
+          "wordCount": null,
+          "title": "How do you reassemble full images from models that use patches?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/MLQuestions/comments/1aq3jke/train_a_model_with_our_voices_and_music/",
+          "author": null,
+          "description": "Hello,\n In my family, we have this special kind of music and singing that is from a really small part in Europe, and I really want to keep it safe for the future and experiment with on an AI/LLM model (I don’t know that exact name).\n Is there any kind of model where I can teach it to use our voices and music, so I can make songs with it using my and family’s own voice and our music?\n Many thanks in advance!\n    submitted by    /u/magicmetagic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/MLQuestions/comments/1aq3jke/train_a_model_with_our_voices_and_music/",
+          "publishedOn": "2024-02-13T20:25:14.000Z",
+          "wordCount": null,
+          "title": "Train a model with our voices and music?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/MLQuestions/comments/1aq2y9q/can_someone_explain_bert_to_me_i_am_having/",
           "author": null,
@@ -3313,6 +3533,66 @@
       "feedUrl": "https://medium.com/feed/tag/deep-learning",
       "siteUrl": "https://medium.com/tag/deep-learning/latest?source=rss------deep_learning-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2f2a0c44dd46",
+          "author": "Mfavianardrarazan",
+          "description": "Definisi Machine Learning\nContinue reading on Medium »",
+          "link": "https://medium.com/@mfavianardrarazan/penerapan-algoritma-machine-learning-pada-visualisasi-data-2f2a0c44dd46?source=rss------deep_learning-5",
+          "publishedOn": "2024-02-13T23:46:19.000Z",
+          "wordCount": 4495,
+          "title": "Penerapan Algoritma Machine Learning pada Visualisasi Data",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*LVsUo2GlC76S3JC7iKNSbg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e15237239f47",
+          "author": "Everton Gomede, PhD",
+          "description": "Introduction\nContinue reading on  . »",
+          "link": "https://medium.com/aimonks/shufflenet-revolutionizing-mobile-deep-learning-e15237239f47?source=rss------deep_learning-5",
+          "publishedOn": "2024-02-13T22:18:18.000Z",
+          "wordCount": 3898,
+          "title": "ShuffleNet: Revolutionizing Mobile Deep Learning",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*iWjcxBENO7Ids6WA.jpg"
+        },
+        {
+          "id": "https://medium.com/p/185ae0d6fc7b",
+          "author": "Najma David Tryggvason",
+          "description": "Loving through healing  \nContinue reading on Medium »",
+          "link": "https://medium.com/@tryggvason.david.najma/healing-through-love-%EF%B8%8F-185ae0d6fc7b?source=rss------deep_learning-5",
+          "publishedOn": "2024-02-13T22:16:01.000Z",
+          "wordCount": 2070,
+          "title": "Healing through love ❤️",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1103/1*Hi7B1m97HjxjveLGjFiRwg@2x.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/9978f54bf441",
+          "author": "Harsh Vardhan",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@harsh.vardhan7695/machine-learning-and-ai-for-healthcare-9978f54bf441?source=rss------deep_learning-5",
+          "publishedOn": "2024-02-13T20:57:44.000Z",
+          "wordCount": 5603,
+          "title": "Machine learning and AI for healthcare",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*B4rRakUotxB7z2Le.jpg"
+        },
+        {
+          "id": "https://medium.com/p/72174b78e560",
+          "author": "Jhoan Sebastián Fuentes Hernández",
+          "description": "1- Deep Learning for protein design\nContinue reading on Medium »",
+          "link": "https://medium.com/@jhoansfuentes1999/seven-technologies-to-watch-in-2024-according-to-nature-72174b78e560?source=rss------deep_learning-5",
+          "publishedOn": "2024-02-13T20:51:33.000Z",
+          "wordCount": 1641,
+          "title": "Seven Technologies to Watch in 2024 According to Nature",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:619/1*x98ebeVCaSpCQ7JdUgbj9Q.png"
+        },
+        {
+          "id": "https://medium.com/p/5272c8c53d0d",
+          "author": "Debaprasann Bhoi",
+          "description": "A turning point for AI?\nContinue reading on GoPenAI »",
+          "link": "https://blog.gopenai.com/chatgpt-vs-gemini-5272c8c53d0d?source=rss------deep_learning-5",
+          "publishedOn": "2024-02-13T20:35:00.000Z",
+          "wordCount": 2142,
+          "title": "ChatGPT Vs Gemini",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*ivto5WmOjrodIzth"
+        },
         {
           "id": "https://medium.com/p/8968f77bcd15",
           "author": "Gobi Shangar",
