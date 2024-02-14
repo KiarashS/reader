@@ -11395,8 +11395,8 @@ Means of means bounding the logarithmic mean first appeared on John D. Cook.</sp
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/7901982041">
-        <time id="build-timestamp" datetime="2024-02-14T13:32:57.051Z">2024-02-14T13:32:57.051Z</time>
+      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/7901791052">
+        <time id="build-timestamp" datetime="2024-02-14T13:35:30.452Z">2024-02-14T13:35:30.452Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
@@ -11406,11 +11406,7 @@ Means of means bounding the logarithmic mean first appeared on John D. Cook.</sp
     const stateString = localStorage.getItem("closedAccordionIds");
     try {
       const parsed = JSON.parse(stateString);
-      if (!parsed?.length) {
-        document.querySelectorAll("[data-action]").forEach(function(btn) {
-          btn.dispatchEvent(new MouseEvent("click", {bubbles: true}));
-        })
-      }
+      if (!parsed?.length) document.querySelectorAll("[data-action]")[0].dispatchEvent(new MouseEvent("click", {ctrlKey: true, bubbles: true}));
     } catch {}
   }, false);
 </script>
