@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-02-14T16:50:50.626Z</updated>
+    <updated>2024-02-15T00:50:04.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Improve AI Performance By Understanding Embedding Quality]]></title>
+        <id>https://medium.com/p/8bcbcb37a60f</id>
+        <link href="https://towardsdatascience.com/how-to-improve-ai-performance-by-understanding-embedding-quality-8bcbcb37a60f?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-14T19:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Creating quality embeddings is an essential part of most AI systems, and so this article walks you through how to ensure their quality.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Data Person’s Guide to Tackling Analysis Paralysis]]></title>
+        <id>https://medium.com/p/96df01873023</id>
+        <link href="https://towardsdatascience.com/a-data-persons-guide-to-tackling-analysis-paralysis-96df01873023?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-14T19:28:06.000Z</updated>
+        <summary type="html"><![CDATA[A simple and effective Framework to build confidence in your data presentations]]></summary>
+        <author>
+            <name>Nithhyaa Ramamoorthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning the importance of training data under concept drift]]></title>
+        <id>http://blog.research.google/2024/02/learning-importance-of-training-data.html</id>
+        <link href="http://blog.research.google/2024/02/learning-importance-of-training-data.html"/>
+        <updated>2024-02-14T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research
+
+
+
+
+The constantly changing nature of the world around us poses a significant challenge for the development of AI models. Often, models are trained on longitudinal data with the hope that the training data used will accurately represent inputs the model may receive in the future. More generally, the default assumption that all training data are equally relevant often breaks in practice. For example, the figure below shows images from the CLEAR nonstationary learning benchmark, and it illustrates how visual features of objects evolve significantly over a 10 year span (a phenomenon we refer to as slow concept drift), posing a challenge for object categorization models. 
+
+
+
+
+
+
+
+
+Sample ima…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dummy models of Scikit-learn]]></title>
         <id>https://medium.com/p/3001f54c48e9</id>
