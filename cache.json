@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a4bbd2d85841",
+          "author": "Matthew Gunton",
+          "description": "This blog post will look at the “Direct Preference Optimization:\nYour Language Model is Secretly a Reward Model” paper and its findings.",
+          "link": "https://towardsdatascience.com/understanding-the-implications-of-direct-preference-optimization-a4bbd2d85841?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-23T22:47:51.000Z",
+          "wordCount": 3925,
+          "title": "Understanding Direct Preference Optimization",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*L5Fx8l3DZ5LxZVSwBzlEdg.png"
+        },
+        {
+          "id": "https://medium.com/p/f363a3be1f9a",
+          "author": "Roman Paolucci",
+          "description": "Correcting violations of independence with dependent models\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/modeling-dependent-random-variables-using-markov-chains-f363a3be1f9a?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-23T22:09:22.000Z",
+          "wordCount": 1368,
+          "title": "Modeling Dependent Random Variables Using Markov Chains",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KQeWceYdZc9EAZr4X_WoJw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/b63bf99169d8",
+          "author": "Celia Banks, Ph.D.",
+          "description": "What not to do with statistics",
+          "link": "https://towardsdatascience.com/spurious-correlations-the-comedy-and-drama-of-statistics-b63bf99169d8?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-23T19:29:20.000Z",
+          "wordCount": 8013,
+          "title": "Spurious Correlations: The Comedy and Drama of Statistics",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:646/1*88zVz1hdLds5g9kpthBGNg.png"
+        },
+        {
+          "id": "https://medium.com/p/03dee75d8b9c",
+          "author": "Julia Turc",
+          "description": "Research Review for Scene Text Editing: STEFANN, SRNet, TextDiffuser, AnyText and more.",
+          "link": "https://towardsdatascience.com/editing-text-in-images-with-ai-03dee75d8b9c?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-23T19:25:38.000Z",
+          "wordCount": 7358,
+          "title": "Editing Text in Images with AI",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:771/1*1faHKrDW96xnFpVUHrEfkQ.png"
+        },
+        {
+          "id": "https://medium.com/p/234d051a52ae",
+          "author": "James Koh, PhD",
+          "description": "As a bonus, get the code to apply feature extraction anywhere\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/grey-wolf-optimizer-how-it-can-be-used-with-computer-vision-234d051a52ae?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-23T06:39:11.000Z",
+          "wordCount": 1481,
+          "title": "Grey Wolf Optimizer — How it can be used with Computer Vision",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*WrHj8jJV42hZSLsd4H4msA.png"
+        },
+        {
           "id": "https://medium.com/p/02dd62cd4bda",
           "author": "Matthew Turk",
           "description": "Featurizing time series data into a standard tabular format for classical ML models and improving accuracy using AutoML",
@@ -1280,16 +1330,6 @@
           "wordCount": 27947,
           "title": "Mixed-input matrix multiplication performance optimizations",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKJJf1R773hab0veY6zffF2Nf_yfV2mk8YU9yRnuBDD3ak1o0iXecWlJw2x7bL-Ez2MX1c21MXk65VMK5IsoLpJ1H6BTC6k7BvVWl_gHJpJIOG2cm3BwP4V-HCScGHYIynuskbhvu1uorQGprHGbOFmfGI7E5UWemJcZ0xSC3tC5DolBYgyBwugl6OOLr/w1200-h630-p-k-no-nu/matrixhero.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-          "author": null,
-          "description": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google\n\n\n\n\nGraphs, in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properties of nodes, edges, or entire graphs. \n\n\n\n\nA common approach to learning on graphs are graph neural networks (GNNs), which operate on graph data by applying an optimizable transformation on node, edge, and global attributes. The most typical class of GNNs operates via a message-passing framework,…",
-          "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-          "publishedOn": "2024-01-23T22:27:00.000Z",
-          "wordCount": 27895,
-          "title": "Exphormer: Scaling transformers for graph-structured data",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbovKreBr7RlKc4L36E6rLqiZBZzJSq5GLijCkomHREon5tYXd-7C2pppMXnL5Mj2d82kZGnPlarrrMzQOfRnN8kVvqDh1GnadIJ-hbaaS8VjYzCpaD-DgYor5cKx-OhTGZk9iCy5MjtwG2Q9eTyQiipDr5ViMdl2vkxfbLzWnB3wmLb8YfvVsTJ1FnOmw/w1200-h630-p-k-no-nu/EXPHORMER%2005large.gif"
         }
       ]
     },
@@ -1438,16 +1478,6 @@
           "wordCount": 2584,
           "title": "Research Focus: Week of January 22, 2024",
           "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2024/01/RF33-FB-TWITTER-LI1200x627.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=999873",
-          "author": "Alyssa Hughes",
-          "description": "MetaOpt helps analyze, explain, and improve heuristic performance before deployment in production systems. Learn how it works, particularly in traffic engineering, packet scheduling, and VM placement.\nThe post MetaOpt: Examining, explaining, and improving heuristic performance appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/metaopt-examining-explaining-and-improving-heuristic-performance/",
-          "publishedOn": "2024-01-23T17:00:00.000Z",
-          "wordCount": 2980,
-          "title": "MetaOpt: Examining, explaining, and improving heuristic performance",
-          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MetaOpt-TWLIFB-1200x627-1.png"
         }
       ]
     },

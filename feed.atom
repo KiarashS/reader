@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-02-23T00:48:28.050Z</updated>
+    <updated>2024-02-24T00:46:41.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Direct Preference Optimization]]></title>
+        <id>https://medium.com/p/a4bbd2d85841</id>
+        <link href="https://towardsdatascience.com/understanding-the-implications-of-direct-preference-optimization-a4bbd2d85841?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-23T22:47:51.000Z</updated>
+        <summary type="html"><![CDATA[This blog post will look at the “Direct Preference Optimization:
+Your Language Model is Secretly a Reward Model” paper and its findings.]]></summary>
+        <author>
+            <name>Matthew Gunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling Dependent Random Variables Using Markov Chains]]></title>
+        <id>https://medium.com/p/f363a3be1f9a</id>
+        <link href="https://towardsdatascience.com/modeling-dependent-random-variables-using-markov-chains-f363a3be1f9a?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-23T22:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Correcting violations of independence with dependent models
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Roman Paolucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spurious Correlations: The Comedy and Drama of Statistics]]></title>
+        <id>https://medium.com/p/b63bf99169d8</id>
+        <link href="https://towardsdatascience.com/spurious-correlations-the-comedy-and-drama-of-statistics-b63bf99169d8?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-23T19:29:20.000Z</updated>
+        <summary type="html"><![CDATA[What not to do with statistics]]></summary>
+        <author>
+            <name>Celia Banks, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editing Text in Images with AI]]></title>
+        <id>https://medium.com/p/03dee75d8b9c</id>
+        <link href="https://towardsdatascience.com/editing-text-in-images-with-ai-03dee75d8b9c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-23T19:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Research Review for Scene Text Editing: STEFANN, SRNet, TextDiffuser, AnyText and more.]]></summary>
+        <author>
+            <name>Julia Turc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grey Wolf Optimizer — How it can be used with Computer Vision]]></title>
+        <id>https://medium.com/p/234d051a52ae</id>
+        <link href="https://towardsdatascience.com/grey-wolf-optimizer-how-it-can-be-used-with-computer-vision-234d051a52ae?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-23T06:39:11.000Z</updated>
+        <summary type="html"><![CDATA[As a bonus, get the code to apply feature extraction anywhere
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>James Koh, PhD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Forecast Time Series Data using any Supervised Learning Model]]></title>
         <id>https://medium.com/p/02dd62cd4bda</id>
@@ -1524,37 +1577,6 @@ The post Abstracts: January 25, 2024 appeared first on Microsoft Research.]]></s
         <updated>2024-01-24T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to Research Focus, a series of blog posts that highlights notable publications, events, code/datasets, new hires and other milestones from across the research community at Microsoft. Join Microsoft Research Forum (opens in new tab) for a continuous exchange of ideas about science and technology research in the era of general AI. This series, which begins […]
 The post Research Focus: Week of January 22, 2024 appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exphormer: Scaling transformers for graph-structured data]]></title>
-        <id>http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html</id>
-        <link href="http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html"/>
-        <updated>2024-01-23T22:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google
-
-
-
-
-Graphs, in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properties of nodes, edges, or entire graphs. 
-
-
-
-
-A common approach to learning on graphs are graph neural networks (GNNs), which operate on graph data by applying an optimizable transformation on node, edge, and global attributes. The most typical class of GNNs operates via a message-passing framework,…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaOpt: Examining, explaining, and improving heuristic performance]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=999873</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/metaopt-examining-explaining-and-improving-heuristic-performance/"/>
-        <updated>2024-01-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MetaOpt helps analyze, explain, and improve heuristic performance before deployment in production systems. Learn how it works, particularly in traffic engineering, packet scheduling, and VM placement.
-The post MetaOpt: Examining, explaining, and improving heuristic performance appeared first on Microsoft Research.]]></summary>
         <author>
             <name>Alyssa Hughes</name>
         </author>
