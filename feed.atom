@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-02-25T00:53:02.639Z</updated>
+    <updated>2024-02-26T00:50:46.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mapping out the connections of Oscar Winners]]></title>
+        <id>https://medium.com/p/2690a571fe7e</id>
+        <link href="https://towardsdatascience.com/mapping-out-the-connections-of-oscar-winners-2690a571fe7e?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-25T16:16:26.000Z</updated>
+        <summary type="html"><![CDATA[In this short piece, I use public Wikipedia data, Python programming, and network analysis to extract and draw up a network of…
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Milan Janosov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s The Story With HNSW?]]></title>
+        <id>https://medium.com/p/d1402c37a44e</id>
+        <link href="https://towardsdatascience.com/whats-the-story-with-hnsw-d1402c37a44e?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-25T16:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the path to fast nearest neighbour search with Hierarchical Navigable Small Worlds]]></summary>
+        <author>
+            <name>Ryan McDermott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking Snowflake Cortex against Scikit-Learn on a real-life forecasting use-case.]]></title>
+        <id>https://medium.com/p/3f0e8c1ca934</id>
+        <link href="https://towardsdatascience.com/benchmarking-snowflake-cortex-against-scikit-learn-on-a-real-life-forecasting-use-case-3f0e8c1ca934?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-25T15:52:53.000Z</updated>
+        <summary type="html"><![CDATA[One of the most trending cloud-based Data platforms, Snowflake, now embeds advanced modeling features and I gave a shot to the forecasting…
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Pierre-Louis Bescond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Prompting for LLMs]]></title>
+        <id>https://medium.com/p/61d36aec2048</id>
+        <link href="https://towardsdatascience.com/an-introduction-to-prompting-for-llms-61d36aec2048?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-02-25T15:41:25.000Z</updated>
+        <summary type="html"><![CDATA[How do we communicate effectively with LLMs?]]></summary>
+        <author>
+            <name>Anand Subramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI vs Open-Source Multilingual Embedding Models]]></title>
         <id>https://medium.com/p/e5ccb7c90f05</id>
@@ -1745,17 +1787,6 @@ AI-driven technologies are weaving themselves into the fabric of our daily routi
 The bulk of an LLM’s memory and compute are consumed by weights in matrix multiplication operations. Using narrower data types reduces memory consumption. For example, storing weights in the 8-bit integer (i.e., U8 or S8)…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abstracts: January 25, 2024]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1000743</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/abstracts-january-25-2024/"/>
-        <updated>2024-01-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On “Abstracts,” Jordan Ash & Dipendra Misra discuss the parameter reduction method LASER. Tune in to learn how selective removal of stored data alone can boost LLM performance, then sign up for Microsoft Research Forum for more on LASER & related topics.
-The post Abstracts: January 25, 2024 appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes</name>
         </author>
     </entry>
 </feed>
