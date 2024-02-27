@@ -12,6 +12,76 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/170dce433f70",
+          "author": "Thu Vu",
+          "description": "2024 is thought to be the “year of AI”, where we will see even more breakthroughs than in 2023.\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/7-books-to-read-on-artificial-intelligence-170dce433f70?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-27T00:13:40.000Z",
+          "wordCount": 1269,
+          "title": "7 Books to Read on Artificial Intelligence",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*hx_R8AsY3-4ETnujLMrlaA.png"
+        },
+        {
+          "id": "https://medium.com/p/2ee52b387f8c",
+          "author": "Aayush Agarwal",
+          "description": "Understanding why entropy is a measure of chaos\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/understanding-entropy-2ee52b387f8c?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-27T00:09:23.000Z",
+          "wordCount": 1423,
+          "title": "An Intuitive Guide To Entropy",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*K8v5y5UvNwvS-vSy7J0zww.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/3e33a99560ea",
+          "author": "Khin Yadanar Lin",
+          "description": "Common mistakes to avoid when you transition from statistical modelling to Machine Learning",
+          "link": "https://towardsdatascience.com/two-rookie-mistakes-i-made-in-machine-learning-improper-data-splitting-and-data-leakage-3e33a99560ea?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-27T00:08:33.000Z",
+          "wordCount": 3566,
+          "title": "Lessons From My ML Journey: Data Splitting and Data Leakage",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*mZrJghgnnYrw_Moe"
+        },
+        {
+          "id": "https://medium.com/p/4e000b03fe5c",
+          "author": "Jose D. Hernandez-Betancur",
+          "description": "Let’s create Python data objects in a few lines of code!\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/working-with-python-dataclasses-and-dataclass-wizard-4e000b03fe5c?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-26T19:19:08.000Z",
+          "wordCount": 1467,
+          "title": "Working with Python Dataclasses and Dataclass Wizard",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*jo57KwQhVmPAuE79PArDSg.png"
+        },
+        {
+          "id": "https://medium.com/p/f18bd47207de",
+          "author": "Nikolaus Correll",
+          "description": "Formal methods to tackle “Trial-and-Error” problems\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/reasoning-about-uncertainty-using-markov-chains-f18bd47207de?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-26T16:54:33.000Z",
+          "wordCount": 1505,
+          "title": "Reasoning About Uncertainty using Markov Chains",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9PqPgOZRqGPCzLF8XtlXmQ.png"
+        },
+        {
+          "id": "https://medium.com/p/332a63d1e5c5",
+          "author": "P.G. Baumstarck",
+          "description": "Prying behind the interface to see the effects of SGD parameters on your model training",
+          "link": "https://towardsdatascience.com/visualizing-gradient-descent-parameters-in-torch-332a63d1e5c5?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-26T15:50:13.000Z",
+          "wordCount": 3634,
+          "title": "Visualizing Gradient Descent Parameters in Torch",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*x6pKNbi-mznjKWFYrUDgfw.png"
+        },
+        {
+          "id": "https://medium.com/p/744829da6248",
+          "author": "Christopher Tao",
+          "description": "Do you what happens if we put conditions after LEFT JOIN ON?\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/do-not-put-filtering-conditions-in-the-where-clause-in-some-scenarios-744829da6248?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-02-26T15:43:55.000Z",
+          "wordCount": 1248,
+          "title": "Do Not Put Filtering Conditions In the “WHERE” Clause in Some Scenarios",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1022/1*Xfe6UOhiYebxGWxkfSWwRw.png"
+        },
+        {
           "id": "https://medium.com/p/2690a571fe7e",
           "author": "Milan Janosov",
           "description": "In this short piece, I use public Wikipedia data, Python programming, and network analysis to extract and draw up a network of…\nContinue reading on Towards Data Science »",
@@ -1305,6 +1375,16 @@
       "siteUrl": "https://machinelearning.apple.com",
       "articles": [
         {
+          "id": "multichannel-voice-trigger",
+          "author": null,
+          "description": "This paper was accepted at the workshop HSCMA at ICASSP 2024.\nVoice triggering (VT) enables users to activate their devices by just speaking a trigger phrase. A front-end system is typically used to perform speech enhancement and/or separation, and produces multiple enhanced and/or separated signals. Since conventional VT systems take only single-channel audio as input, channel selection is performed. A drawback of this approach is that unselected channels are discarded, even if the discarded channels could contain useful information for VT. In this work, we propose multichannel acoustic…",
+          "link": "https://machinelearning.apple.com/research/multichannel-voice-trigger",
+          "publishedOn": "2024-02-26T00:00:00.000Z",
+          "wordCount": 8037,
+          "title": "Multichannel Voice Trigger Detection Based on Transform-average-concatenate",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
           "id": "keyframer",
           "author": null,
           "description": "Large language models (LLMs) have the potential to impact a wide range of creative domains, as exemplified in popular text-to-image generators like DALL·E and Midjourney. However, the application of LLMs to motion-based visual design has not yet been explored and presents novels challenges such as how users might effectively describe motion in natural language. Further, many existing generative design tools lack support for iterative refinement of designs beyond prompt engineering. In this paper, we present Keyframer, a design tool that leverages the code generation capabilities of LLMs to…",
@@ -1490,16 +1570,6 @@
           "wordCount": 27727,
           "title": "MobileDiffusion: Rapid text-to-image generation on-device",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOndf55Pc7tkXJektbVBEYRsOlxbUVui2uwOdXvuHj9cNpoNw2One4-68fqFNl2_fvv11CcgYfoI1XVQIkpjA9DosaOeqdkIRj9aZZJNoDy8KqB_XCVDtDd_EvT5UGL2ZhXvL2PU3RjN8XBjI0eQe8VIJCKI0-20AG0TKGK58mO9tBZa80P58KSjTU_liK/w1200-h630-p-k-no-nu/InstantTIGO%20hero.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-          "author": null,
-          "description": "Posted by Manish Gupta, Staff Software Engineer, Google Research\n\n\n\n\nAI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowledge and boost our overall productivity. The backbone of these applications lies in large language models (LLMs).  LLMs are memory-intensive and typically require specialized hardware accelerators to efficiently deliver tens of exaflops of computing power. This blog post shows how we can start addressing the computational challenges by utilizing memory more effectively.\n\n\n\nThe bulk of an LLM’s memory and compute are consumed by weights in matrix multiplication operations. Using narrower data types reduces memory consumption. For example, storing weights in the 8-bit integer (i.e., U8 or S8)…",
-          "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-          "publishedOn": "2024-01-26T19:56:00.000Z",
-          "wordCount": 27947,
-          "title": "Mixed-input matrix multiplication performance optimizations",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKJJf1R773hab0veY6zffF2Nf_yfV2mk8YU9yRnuBDD3ak1o0iXecWlJw2x7bL-Ez2MX1c21MXk65VMK5IsoLpJ1H6BTC6k7BvVWl_gHJpJIOG2cm3BwP4V-HCScGHYIynuskbhvu1uorQGprHGbOFmfGI7E5UWemJcZ0xSC3tC5DolBYgyBwugl6OOLr/w1200-h630-p-k-no-nu/matrixhero.png"
         }
       ]
     },
