@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a830cdc8db50",
+          "author": "Chris Taylor",
+          "description": "A Brief Tutorial",
+          "link": "https://towardsdatascience.com/comparison-of-methods-to-inform-k-means-clustering-a830cdc8db50?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-03-04T22:43:45.000Z",
+          "wordCount": 5545,
+          "title": "Comparison of Methods to Inform K-Means Clustering",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*BT-ygfGIhyo7EEkj"
+        },
+        {
+          "id": "https://medium.com/p/86c6643b0c59",
+          "author": "Egor Howell",
+          "description": "A breakdown of the three fundamental math fields required for data science: statistics, linear algebra and calculus.\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/how-to-learn-the-math-needed-for-data-science-86c6643b0c59?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-03-04T19:23:16.000Z",
+          "wordCount": 1380,
+          "title": "How to Learn the Math Needed for Data Science",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*G9iRKQHRSAPzmZ1uYsereg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/02ac6932d55d",
+          "author": "Sarthak Handa",
+          "description": "The playbook for selecting right optimization strategy guided by clear business objectives to better meet the needs of customers.",
+          "link": "https://towardsdatascience.com/framework-for-optimizing-generative-ai-to-meet-business-needs-02ac6932d55d?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-03-04T19:16:26.000Z",
+          "wordCount": 5556,
+          "title": "Framework for Optimizing Generative AI to Meet Business Needs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6TrKiWlMQNwaFUKIq_08xg.png"
+        },
+        {
+          "id": "https://medium.com/p/f58580a69c6a",
+          "author": "Eden B.",
+          "description": "The probabilistic approach to self-locate under uncertainty",
+          "link": "https://towardsdatascience.com/how-to-find-yourself-in-a-digital-world-f58580a69c6a?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-03-04T15:50:41.000Z",
+          "wordCount": 4502,
+          "title": "How to find yourself in a digital world?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WH1Crgf0TmCRXNicnssGUw.png"
+        },
+        {
           "id": "https://medium.com/p/241d15f22702",
           "author": "Lee Vaughan",
           "description": "Learn graphical text analysis with NLTK\nContinue reading on Towards Data Science »",
@@ -1921,6 +1961,26 @@
       "siteUrl": "https://machinelearning.apple.com",
       "articles": [
         {
+          "id": "clip-experts",
+          "author": null,
+          "description": "This paper has been accepted to the UniReps Workshop in NeurIPS 2023.\nContrastive language image pretraining has become the standard approach for training vision language models.  Despite the utility of CLIP visual features as global representations for images, they have limitations when it comes to tasks involving object localization, pixel-level understanding of the image, or 3D perception. Multi-task training is a popular solution to address this drawback, but collecting a large-scale annotated multi-task dataset incurs significant costs. Furthermore, training on separate task specific…",
+          "link": "https://machinelearning.apple.com/research/clip-experts",
+          "publishedOn": "2024-03-04T00:00:00.000Z",
+          "wordCount": 1064,
+          "title": "What Can CLIP Learn From Task-specific Experts?",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
+          "id": "privacy-preserving-quantile",
+          "author": null,
+          "description": "In accordance with the principle of \"data minimization,\" many internet companies are opting to record less data. However, this is often at odds with A/B testing efficacy. For experiments with units with multiple observations, one popular data-minimizing technique is to aggregate data for each unit. However, exact quantile estimation requires the full observation-level data. In this paper, we develop a method for approximate Quantile Treatment Effect (QTE) analysis using histogram aggregation. In addition, we can also achieve formal privacy guarantees using differential privacy.",
+          "link": "https://machinelearning.apple.com/research/privacy-preserving-quantile",
+          "publishedOn": "2024-03-04T00:00:00.000Z",
+          "wordCount": 788,
+          "title": "Privacy-Preserving Quantile Treatment Effect Estimation for Randomized Controlled Trials",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
           "id": "synthdst",
           "author": null,
           "description": "In-context learning with Large Language Models (LLMs) has emerged as a promising avenue of research in Dialog State Tracking (DST). However, the best-performing in-context learning methods involve retrieving and adding similar examples to the prompt, requiring access to labeled training data. Procuring such training data for a wide range of domains and applications is time-consuming, expensive, and, at times, infeasible. While zero-shot learning requires no training data, it significantly lags behind the few-shot setup. Thus, 'Can we efficiently generate synthetic data for any dialogue schema…",
@@ -1978,6 +2038,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/google-at-aps-2024.html",
+          "author": null,
+          "description": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team\n\n\n\n\nToday the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics ranging across physics and related fields, APS 2024 brings together researchers, students, and industry professionals to share their discoveries and build partnerships with the goal of realizing fundamental advances in physics-related sciences and technology. \n\n\n\nThis year, Google has a strong presence at APS with a booth hosted by the Google Quantum AI team, 50+ talks throughout the conference, and participation in conference organizing activities, special sessions and events. Attending APS 2024 in person? Come visit Google’s Quantum AI booth to learn more about the exciting work we’re d…",
+          "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
+          "publishedOn": "2024-03-04T15:06:00.000Z",
+          "wordCount": 28584,
+          "title": "Google at APS 2024",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy22Hfq3RN4qRUJcSMUpIau4ueOIcQ219mDvfu4FNJ9kf5PBMUI0x4Uf9BhoIHtnFUhtvE72GCVYixldOZRSeePJfef0P87Pc_djQeGIZOhyxv9nKsQCc57357tr3npWdS5fyWxiGjex4NxMpOIB2JE1Z2qXdLnzLkFM075WstFJD77xVNS2T9hckWZyLf/w1200-h630-p-k-no-nu/lockup_GoogleResearch_FullColor_Hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
           "author": null,
           "description": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research\n\n\n\n\nAn astounding number of videos are available on the Web, covering a variety of content from everyday moments people share to historical moments to scientific observations, each of which contains a unique record of the world. The right tools could help researchers analyze these videos, transforming how we understand the world around us.\n\n \n\nVideos offer dynamic visual content far more rich than static images, capturing movement, changes, and dynamic relationships between entities. Analyzing this complexity, along with the immense diversity of publicly available video data, demands models that go beyond traditional image understanding. Consequently, many of the approaches that be…",
@@ -2026,26 +2096,6 @@
           "wordCount": 27781,
           "title": "Graph neural networks in TensorFlow",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcnTwrjg8cyZhVY1c-qi2ZEenIrDlkmlKlX0GsAuiKiIoxUu6i-phANh8tsCG4mUm5i-7t3zdLwuwn5DCcuQI5FKq-C3eibPnuqfoLuKFUsx-I3Ovim1Teps_JKiKZH7XqgHupnsOa2Y3peUgWcPNYG4ZIqA2_KQwxJpflo0WM6gNW8tXg5eDndiWx_dKK/w1200-h630-p-k-no-nu/TFGNN%20hero.gif"
-        },
-        {
-          "id": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-          "author": null,
-          "description": "Posted by Rajat Sen and Yichen Zhou, Google Research\n\n\n\n\n\nTime-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. Deep learning (DL) models have emerged as a popular approach for forecasting rich, multivariate, time-series data because they have proven to perform well in a variety of settings (e.g., DL models performed well in the M5 competition).\n\n\n\nAt the same time, there has been rapid progress in large foundation language models used for natural language processing (NLP) tasks, such as translation, retrieval-augmented generation, and code completion. Thes…",
-          "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-          "publishedOn": "2024-02-02T19:07:00.000Z",
-          "wordCount": 27728,
-          "title": "A decoder-only foundation model for time-series forecasting",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjLAVI4q3e6yNyTPTCFiLZVQfFm71GOX1TosHg_Sb8M6tVSO1hyphenhyphenZccOlufnqSuXP1rVWHmqHcely6fgW1vex4JdxenniJcaJ7TOomZolUFut8RUdxnOFZDrbt0hrIHkcrK7rl6cq5-kUuWGrOYqIirPAKtnf4vMDauPX4lFAz2PQjiqzqHxMna7eja9gOF/w1200-h630-p-k-no-nu/hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-          "author": null,
-          "description": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research\n\n\n\n\nMachine learning models in the real world are often trained on limited data that may contain unintended statistical biases. For example, in the CELEBA celebrity image dataset, a disproportionate number of female celebrities have blond hair, leading to classifiers incorrectly predicting “blond” as the hair color for most female faces — here, gender is a spurious feature for predicting hair color. Such unfair biases could have significant consequences in critical applications such as medical diagnosis. \n\n\n\n\n\nSurprisingly, recent work has also discovered an inherent tendency of deep networks to amplify such statistical biases, through the so-called simplicity bias of deep learning. T…",
-          "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-          "publishedOn": "2024-02-02T17:49:00.000Z",
-          "wordCount": 27761,
-          "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBd5rMRA2U1nd8fetuEweTgmHncn49ASMQtPlm6dfsr5V29RwsoUR8UtK4B7oSE1eiIdW-vD-gjCUK4tGZTbsY4XdO0adL2YtAjpgbF1S3mL_Jw3f31SwLKYUtCOLJ807gdXdRmD5iVsrtc_Ii-BiqQacv89vbtRbNAIINa9PhKAF_sDAZu09FLs4599T/w1200-h630-p-k-no-nu/SiFer%20Hero.png"
         }
       ]
     },
@@ -2390,6 +2440,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:65e5a06830edde0524d8c70e",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/gf6p33bptlzm33p-kxsw9-5jlhh-44dxp-h9nbn-gj5zf-cja2x-r35j4-ndyzh-n33hp-5lw6m-c5xxc-7njj7-xhwe4-p82pz-sszl2-twjcd-etta3-dpjej-psgmj-x9rtl",
+          "publishedOn": "2024-03-04T10:22:23.000Z",
+          "wordCount": null,
+          "title": "Week Ending 3.4.2024",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:65dc644c0d1b4b7a8c7ed2c1",
           "author": "Craig Smith",
