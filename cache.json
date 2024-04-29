@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e099225abaaf",
+          "author": "Krzysztof K. Zdeb",
+          "description": "From 512 to 1M+ tokens in 5 years — LLMs have rapidly expanded their context windows. Where’s the limit?\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/towards-infinite-llm-context-windows-e099225abaaf?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-04-28T14:00:35.000Z",
+          "wordCount": 894,
+          "title": "Towards infinite LLM context windows",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*CLgP5Co0HELIaKO3zvGvLA.gif"
+        },
+        {
+          "id": "https://medium.com/p/b8054c1ee29a",
+          "author": "Raul Vizcarra Chirinos",
+          "description": "AI solutions aren’t just a tool approach; it’s about well-understood use cases and ways to measure their impact",
+          "link": "https://towardsdatascience.com/capture-and-unlock-knowledge-a-guide-to-foster-your-ai-business-plan-b8054c1ee29a?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-04-28T13:51:28.000Z",
+          "wordCount": 5950,
+          "title": "Capture and Unlock Knowledge: A guide to foster your AI Business Plan",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Om-y_Gub1umfThuo"
+        },
+        {
+          "id": "https://medium.com/p/419b9403236e",
+          "author": "Guillaume Colley",
+          "description": "The author outlines three ways to expand your machine learning feature set with features that represent explainable behaviors and that…\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/feature-engineering-that-makes-business-sense-419b9403236e?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-04-28T13:51:11.000Z",
+          "wordCount": 894,
+          "title": "Feature Engineering that Makes Business Sense",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*keTFZFi7GGyxlbT8wGTTqg.png"
+        },
+        {
           "id": "https://medium.com/p/aad399eab180",
           "author": "Rafe Brena, Ph.D.",
           "description": "The cause of their demise could surprise you.\nContinue reading on Towards Data Science »",
@@ -599,16 +629,6 @@
           "wordCount": 1089,
           "title": "Streaming Anchor Loss: Augmenting Supervision with Temporal Significance",
           "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
-        },
-        {
-          "id": "world-english-language-model",
-          "author": null,
-          "description": "Neural Network Language Models (NNLMs) of Virtual Assistants (VAs) are generally language-, region-, and in some cases, device-dependent, which increases the effort to scale and maintain them. Combining NNLMs for one or more of the categories could be one way to improve scalability. In this work, we combine regional variants of English by building a \"World English\" NNLM. We examine three data sampling techniques and we experiment with adding adapter bottlenecks to the existing production NNLMs to model dialect-specific characteristics and investigate different strategies to train adapters. We…",
-          "link": "https://machinelearning.apple.com/research/world-english-language-model",
-          "publishedOn": "2024-03-29T00:00:00.000Z",
-          "wordCount": 3805,
-          "title": "Towards a World-English Language Model",
-          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
         }
       ]
     },
@@ -625,16 +645,6 @@
           "publishedOn": "2024-03-29T18:03:00.000Z",
           "wordCount": 2521,
           "title": "Generative AI to quantify uncertainty in weather forecasting",
-          "imageUrl": null
-        },
-        {
-          "id": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-          "author": null,
-          "description": "Posted by Urs Köster, Software Engineer, Google Research\n\n\n\n\nTime series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it …",
-          "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-          "publishedOn": "2024-03-28T20:53:00.000Z",
-          "wordCount": 2218,
-          "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
           "imageUrl": null
         }
       ]
@@ -754,16 +764,6 @@
           "wordCount": 3010,
           "title": "Research Focus: Week of April 1, 2024",
           "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prodnew/2024/04/RF38-FB-TWITTER-LI-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1018449",
-          "author": "Alyssa Hughes",
-          "description": "Principal Researcher Ida Momennejad brings her expertise in cognitive neuroscience and computer science to this in-depth conversation about general intelligence and what the evolution of the brain across species can teach us about building AI.\nThe post AI Frontiers: Rethinking intelligence with Ashley Llorens and Ida Momennejad appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/podcast/ai-frontiers-rethinking-intelligence-with-ashley-llorens-and-ida-momennejad/",
-          "publishedOn": "2024-03-28T13:00:00.000Z",
-          "wordCount": 9410,
-          "title": "AI Frontiers: Rethinking intelligence with Ashley Llorens and Ida Momennejad",
-          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/Ida-Momennejad_AI_Frontiers_TW_LI_FB_1200x627_With_Name.png"
         }
       ]
     },
@@ -948,24 +948,6 @@
           "enclosure": {
             "url": "https://www.nasa.gov/wp-content/uploads/2024/04/ep-330-eclipse-across-north-america-2024.mp3",
             "length": "65477888",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "c801e1d9e1786f879fbd1f28910937bc",
-          "author": null,
-          "description": "The CHAPEA crew checks in on their eighth month in a Mars simulated habitat and a NASA biostatistician discusses the process of analysis, interpretation, and presentation of scientific data. HWHAP Episode 329.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/mars-audio-log-8/",
-          "publishedOn": "2024-03-29T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Mars Audio Log #8",
-          "itunes": {
-            "duration": "3640"
-          },
-          "enclosure": {
-            "url": "https://www.nasa.gov/wp-content/uploads/2024/03/ep329-mars-audio-log-8.mp3",
-            "length": "145607168",
             "type": "audio/mpeg"
           },
           "imageUrl": null

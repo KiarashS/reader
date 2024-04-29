@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-04-28T00:58:36.324Z</updated>
+    <updated>2024-04-29T00:55:38.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Towards infinite LLM context windows]]></title>
+        <id>https://medium.com/p/e099225abaaf</id>
+        <link href="https://towardsdatascience.com/towards-infinite-llm-context-windows-e099225abaaf?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-04-28T14:00:35.000Z</updated>
+        <summary type="html"><![CDATA[From 512 to 1M+ tokens in 5 years — LLMs have rapidly expanded their context windows. Where’s the limit?
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Krzysztof K. Zdeb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capture and Unlock Knowledge: A guide to foster your AI Business Plan]]></title>
+        <id>https://medium.com/p/b8054c1ee29a</id>
+        <link href="https://towardsdatascience.com/capture-and-unlock-knowledge-a-guide-to-foster-your-ai-business-plan-b8054c1ee29a?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-04-28T13:51:28.000Z</updated>
+        <summary type="html"><![CDATA[AI solutions aren’t just a tool approach; it’s about well-understood use cases and ways to measure their impact]]></summary>
+        <author>
+            <name>Raul Vizcarra Chirinos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Engineering that Makes Business Sense]]></title>
+        <id>https://medium.com/p/419b9403236e</id>
+        <link href="https://towardsdatascience.com/feature-engineering-that-makes-business-sense-419b9403236e?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-04-28T13:51:11.000Z</updated>
+        <summary type="html"><![CDATA[The author outlines three ways to expand your machine learning feature set with features that represent explainable behaviors and that…
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Guillaume Colley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Happened With Expert Systems?]]></title>
         <id>https://medium.com/p/aad399eab180</id>
@@ -827,52 +859,6 @@ The post Research Focus: Week of April 1, 2024 appeared first on Microsoft Resea
 Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting people in the face of hazardous weather conditions. The importance of accurate and timely weather forecasts will only increase as the climate changes. Recognizing this, we at Google have been investing in weather and climate research to help ensure that the forecasting technology of tomorrow can meet the demand for reliable weather information. Some of our recent innovations include MetNet-3, Google's high-resolution forecasts up to 24-hours into the future, and GraphCast, a weather model …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mars Audio Log #8]]></title>
-        <id>c801e1d9e1786f879fbd1f28910937bc</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/mars-audio-log-8/"/>
-        <updated>2024-03-29T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The CHAPEA crew checks in on their eighth month in a Mars simulated habitat and a NASA biostatistician discusses the process of analysis, interpretation, and presentation of scientific data. HWHAP Episode 329.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards a World-English Language Model]]></title>
-        <id>world-english-language-model</id>
-        <link href="https://machinelearning.apple.com/research/world-english-language-model"/>
-        <updated>2024-03-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Neural Network Language Models (NNLMs) of Virtual Assistants (VAs) are generally language-, region-, and in some cases, device-dependent, which increases the effort to scale and maintain them. Combining NNLMs for one or more of the categories could be one way to improve scalability. In this work, we combine regional variants of English by building a "World English" NNLM. We examine three data sampling techniques and we experiment with adding adapter bottlenecks to the existing production NNLMs to model dialect-specific characteristics and investigate different strategies to train adapters. We…]]></summary>
-        <author>
-            <name>Apple Machine Learning Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks]]></title>
-        <id>http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html</id>
-        <link href="http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html"/>
-        <updated>2024-03-28T20:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Urs Köster, Software Engineer, Google Research
-
-
-
-
-Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Frontiers: Rethinking intelligence with Ashley Llorens and Ida Momennejad]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1018449</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/ai-frontiers-rethinking-intelligence-with-ashley-llorens-and-ida-momennejad/"/>
-        <updated>2024-03-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Principal Researcher Ida Momennejad brings her expertise in cognitive neuroscience and computer science to this in-depth conversation about general intelligence and what the evolution of the brain across species can teach us about building AI.
-The post AI Frontiers: Rethinking intelligence with Ashley Llorens and Ida Momennejad appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes</name>
         </author>
     </entry>
 </feed>
