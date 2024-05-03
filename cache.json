@@ -12,6 +12,86 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/279300a24184",
+          "author": "Stephanie Kirmer",
+          "description": "",
+          "link": "https://towardsdatascience.com/environmental-implications-of-the-ai-boom-279300a24184?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Environmental Implications of the AI Boom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b97bbef050a5",
+          "author": "Shaw Talebi",
+          "description": "",
+          "link": "https://towardsdatascience.com/how-to-build-data-pipelines-for-machine-learning-b97bbef050a5?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T20:20:10.000Z",
+          "wordCount": null,
+          "title": "How to Build Data Pipelines for Machine Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cf24cbe163b3",
+          "author": "Anna Via",
+          "description": "",
+          "link": "https://towardsdatascience.com/starting-ml-product-initiatives-on-the-right-foot-cf24cbe163b3?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T20:02:23.000Z",
+          "wordCount": null,
+          "title": "Starting ML Product Initiatives on the Right Foot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9cc87c9df3c6",
+          "author": "Matt Chapman",
+          "description": "8 years ago I started my bachelor’s degree in Geography. Now I’m a Data Scientist; this is the story of how (and why) I’ve got here\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/from-social-science-to-data-science-9cc87c9df3c6?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T19:17:52.000Z",
+          "wordCount": null,
+          "title": "From Social Science to Data Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/27366297c814",
+          "author": "Murray Gillin",
+          "description": "A Statistical Review of the Universities Accord Recommendations\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/simulating-student-loan-maturity-in-australia-27366297c814?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T19:10:45.000Z",
+          "wordCount": null,
+          "title": "HELP! We’ve Been HECS’d",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b1325bf78fce",
+          "author": "TDS Editors",
+          "description": "",
+          "link": "https://towardsdatascience.com/data-science-unicorns-rag-pipelines-a-new-coefficient-of-correlation-and-other-april-must-reads-b1325bf78fce?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T13:32:11.000Z",
+          "wordCount": null,
+          "title": "Data Science Unicorns, RAG Pipelines, a New Coefficient of Correlation, and Other April Must-Reads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/243f89414266",
+          "author": "Dr. Leon Eversberg",
+          "description": "Building an advanced local LLM RAG pipeline with two-step retrieval using open-source bi-encoders and cross-encoders\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/how-to-use-re-ranking-for-better-llm-rag-retrieval-243f89414266?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T07:36:12.000Z",
+          "wordCount": null,
+          "title": "How to Use Re-Ranking for Better LLM RAG Retrieval",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/81d888f471bd",
+          "author": "Daniel Pazmiño Vernaza",
+          "description": "",
+          "link": "https://towardsdatascience.com/introduction-to-computer-vision-for-climate-change-81d888f471bd?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-02T05:48:47.000Z",
+          "wordCount": null,
+          "title": "Introduction to Computer Vision for Climate Change",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/4447824c1cb4",
           "author": "Mateus Trentz",
           "description": "",
@@ -811,6 +891,16 @@
       "siteUrl": "https://machinelearning.apple.com",
       "articles": [
         {
+          "id": "poly-view-contrastive-learning",
+          "author": null,
+          "description": "Contrastive learning typically matches pairs of related views among a number of unrelated negative views.\nViews can be generated (e.g. by augmentations) or be observed. We investigate matching when there are more than two related views which we call poly-view tasks, and derive new representation learning objectives using information maximization and sufficient statistics.\nWe show that with unlimited computation, one should maximize the number of related views, and with a fixed compute budget, it is beneficial to decrease the number of unique samples whilst increasing the number of views of…",
+          "link": "https://machinelearning.apple.com/research/poly-view-contrastive-learning",
+          "publishedOn": "2024-05-01T00:00:00.000Z",
+          "wordCount": 1250,
+          "title": "Poly-View Contrastive Learning",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
           "id": "transformers-reason-abstract-symbols",
           "author": null,
           "description": "We investigate the capabilities of transformer models on relational reasoning tasks. In these tasks, models are trained on a set of strings encoding abstract relations, and are then tested out-of-distribution on data that contains symbols that did not appear in the training dataset. We prove that for any relational reasoning task in a large family of tasks, transformers learn the abstract relations and generalize to the test set when trained by gradient descent on sufficiently large quantities of training data. This is in contrast to classical fully-connected networks, which we prove fail to…",
@@ -848,6 +938,16 @@
           "publishedOn": "2024-04-25T00:00:00.000Z",
           "wordCount": 878,
           "title": "CatLIP: CLIP-level Visual Recognition Accuracy with 2.7× Faster Pre-training on Web-scale Image-Text Data",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
+          "id": "human-motion-understanding",
+          "author": null,
+          "description": "Understanding human motion from video is crucial for applications such as pose estimation, mesh recovery, and action recognition. While state-of-the-art methods predominantly rely on Transformer-based architectures, these approaches have limitations in practical scenarios. They are notably slower when processing a continuous stream of video frames in real time and do not adapt to new frame rates. Given these challenges, we propose an attention free spatiotemporal model for human motion understanding, building upon recent advancements diagonal state space models. Our model performs comparably…",
+          "link": "https://machinelearning.apple.com/research/human-motion-understanding",
+          "publishedOn": "2024-04-24T00:00:00.000Z",
+          "wordCount": 1467,
+          "title": "HumMUSS: Human Motion Understanding using State Space Models",
           "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
         },
         {
@@ -1024,6 +1124,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1029624",
+          "author": "Brenda Potts",
+          "description": "In this edition: Can LLMs transform natural language into formal method postconditions; Semantically aligned question + code generation for automated insight generation; Explaining CLIP performance disparities on blind/low vision data; plus recent news.\nThe post Research Focus: Week of April 29, 2024 appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/research-focus-week-of-april-29-2024/",
+          "publishedOn": "2024-05-02T16:50:43.000Z",
+          "wordCount": 3606,
+          "title": "Research Focus: Week of April 29, 2024",
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prodnew/2024/04/RF40-FB-TWITTER-LI-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1029186",
           "author": "Alyssa Hughes",
