@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-05-06T00:56:15.214Z</updated>
+    <updated>2024-05-07T00:55:12.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How does temperature impact next token prediction in LLMs?]]></title>
+        <id>https://medium.com/p/779bd908f2cf</id>
+        <link href="https://towardsdatascience.com/how-does-temperature-impact-next-token-prediction-in-llms-779bd908f2cf?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-05-06T22:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Exploration vs. Exploitation]]></summary>
+        <author>
+            <name>Ankur Manikandan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 5.5.2024]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6638f0bee66eee184b4955c7</id>
+        <link href="https://www.eye-on.ai/ai-articles/gf6p33bptlzm33p-kxsw9-5jlhh-44dxp-h9nbn-gj5zf-cja2x-r35j4-ndyzh-n33hp-5lw6m-c5xxc-7njj7-xhwe4-p82pz-sszl2-twjcd-etta3-dpjej-psgmj-x9rtl-xnx22-ax2tp-9fp4n-tygla-7dmc5-9r4ft-mpshx-4yb27-glkw3"/>
+        <updated>2024-05-06T15:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Race Conditions In the Context of Python]]></title>
+        <id>https://medium.com/p/c76740a214d0</id>
+        <link href="https://towardsdatascience.com/understanding-race-conditions-in-the-context-of-python-c76740a214d0?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-05-06T14:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Python GIL can’t guarantee thread safety
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Christopher Tao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstracts: May 6, 2024]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1030317</id>
+        <link href="https://www.microsoft.com/en-us/research/podcast/abstracts-may-6-2024/"/>
+        <updated>2024-05-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researcher Michel Galley explores how he and fellow researchers combined new and existing data to create MathVista, an open-source benchmark for measuring the mathematical reasoning capabilities of foundation models in scenarios that involve text and images.
+The post Abstracts: May 6, 2024 appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Alyssa Hughes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lunar Crater Detection: Computer Vision in Space]]></title>
         <id>https://medium.com/p/04e1ee416826</id>
@@ -25,6 +67,26 @@ Continue reading on Towards Data Science »]]></summary>
         <summary type="html"><![CDATA[A user guide to mapping golf courses in Google Earth and bringing them to life in R.]]></summary>
         <author>
             <name>Adam Beaudet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACM Human-Computer Interaction conference (CHI) 2024]]></title>
+        <id>apple-at-chi-2024</id>
+        <link href="https://machinelearning.apple.com/updates/apple-at-chi-2024"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple is sponsoring the ACM Human-Computer Interaction Conference (CHI), which is taking place in person from May 11 to May 16, 2024 in Honolulu, Hawai'i.]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Conference on Learning Representations (ICLR) 2024]]></title>
+        <id>apple-at-iclr-2024</id>
+        <link href="https://machinelearning.apple.com/updates/apple-at-iclr-2024"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple is sponsoring the International Conference on Learning Representations (ICLR), which is taking place in person from May 7 to 11 in Vienna Austria. ICLR brings together professionals dedicated to the advancement of deep learning.]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
         </author>
     </entry>
     <entry>
@@ -469,6 +531,17 @@ Continue reading on Towards Data Science »]]></summary>
         <updated>2024-05-01T05:37:45.000Z</updated>
         <author>
             <name>Gael Close</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Far Are We from Intelligent Visual Deductive Reasoning?]]></title>
+        <id>intelligent-visual-deductive-reasoning</id>
+        <link href="https://machinelearning.apple.com/research/intelligent-visual-deductive-reasoning"/>
+        <updated>2024-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This paper was accepted at the How Far Are We from AGI? workshop at ICLR 2024.
+Vision-Language Models (VLMs) such as GPT-4V have recently demonstrated incredible strides on diverse vision language tasks. We dig into vision-based deductive reasoning, a more sophisticated but less explored realm, and find previously unexposed blindspots in the current SOTA VLMs. Specifically, we leverage Raven’s Progressive Matrices (RPMs), to assess VLMs' abilities to perform multi-hop relational and deductive reasoning relying solely on visual clues. We perform comprehensive evaluations of several popular VLMs…]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
         </author>
     </entry>
     <entry>
