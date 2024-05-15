@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-05-14T08:45:39.580Z</updated>
+    <updated>2024-05-15T00:56:07.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Graduate School Guidebook — How I funded (most of) my Master’s degree!]]></title>
+        <id>https://medium.com/p/e99e2c85b708</id>
+        <link href="https://towardsdatascience.com/the-graduate-school-guidebook-how-i-funded-most-of-my-masters-degree-e99e2c85b708?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-05-14T22:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The inside scoop on the University of Washington, Seattle!
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Ananya Bajaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Abstractions in Neural Networks]]></title>
+        <id>https://medium.com/p/22cc2cd54597</id>
+        <link href="https://towardsdatascience.com/understanding-abstractions-in-neural-networks-22cc2cd54597?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-05-14T17:26:00.000Z</updated>
+        <author>
+            <name>林育任 (Yu-Jen Lin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating PyTorch from scratch (with GPU support and automatic differentiation)]]></title>
+        <id>https://medium.com/p/8f565122a3cc</id>
+        <link href="https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-05-14T17:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Build your own deep learning framework based on C/C++, CUDA and Python, with GPU support and automatic differentiation!]]></summary>
+        <author>
+            <name>Lucas de Lima Nogueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RASCAL: Novel robotics for scalable and highly available automated storage and retrieval]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1032576</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/rascal-novel-robotics-for-scalable-and-highly-available-automated-storage-and-retrieval/"/>
+        <updated>2024-05-14T16:00:17.000Z</updated>
+        <summary type="html"><![CDATA[RASCAL is an untethered robot with a modular design, allowing it to move flexibly along and between evenly spaced storage shelves. Discover how it can address the availability and scalability challenges of existing automated storage and retrieval systems.
+The post RASCAL: Novel robotics for scalable and highly available automated storage and retrieval appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kolmogorov-Arnold Networks (KANs) for Time Series Forecasting]]></title>
+        <id>https://medium.com/p/9d49318c3172</id>
+        <link href="https://towardsdatascience.com/kolmogorov-arnold-networks-kans-for-time-series-forecasting-9d49318c3172?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-05-14T13:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Kolmogorov-Arnold Networks (KANs) and apply them for time series forecasting using Python
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Marco Peixeiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can (And Should) Management Dashboards Tell Stories?]]></title>
         <id>https://medium.com/p/68e908c904b7</id>
@@ -68,6 +120,17 @@ Continue reading on Towards Data Science »]]></summary>
 Continue reading on Towards Data Science »]]></summary>
         <author>
             <name>Hussein Jundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pfl-research: Simulation Framework for Accelerating Research in Private Federated Learning]]></title>
+        <id>pfl-research</id>
+        <link href="https://machinelearning.apple.com/research/pfl-research"/>
+        <updated>2024-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Federated Learning (FL) is an emerging ML training paradigm where clients own their data and collaborate to train a global model without revealing any data to the server and other participants.
+Researchers commonly perform experiments in a simulation environment to quickly iterate on ideas. However, existing open-source tools do not offer the efficiency required to simulate FL on larger and more realistic FL datasets. We introduce pfl-research, a fast, modular, and easy-to-use Python framework for simulating FL. It supports TensorFlow, PyTorch, and non-neural network models, and is tightly…]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
         </author>
     </entry>
     <entry>
@@ -2285,16 +2348,6 @@ The proposed model is designed with three key features: (i) A frequency-aware ar
         <link href="https://machinelearning.apple.com/research/hierarchical-dynamic-prompt"/>
         <updated>2024-04-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Long prompts present a significant challenge for practical LLM-based systems that need to operate with low latency and limited resources. We investigate prompt compression for zero-shot dialogue systems that learn to use unseen APIs directly in-context from their documentation, which may take up hundreds of prompt tokens per API. We start from a recently introduced approach (Mu et al., 2023) that learns to compress the prompt into a few “gist token” activations during finetuning. However, this simple idea is ineffective in compressing API documentation, resulting in low accuracy compared to…]]></summary>
-        <author>
-            <name>Apple Machine Learning Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024]]></title>
-        <id>apple-at-icassp-2024</id>
-        <link href="https://machinelearning.apple.com/updates/apple-at-icassp-2024"/>
-        <updated>2024-04-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple is sponsoring the International Conference on Acoustics, Speech and Signal Processing (ICASSP), which is taking place in person from April 14 to 19 in Seoul, South Korea. ICASSP is the IEEE Signal Processing Society's flagship conference on signal processing and its applications.]]></summary>
         <author>
             <name>Apple Machine Learning Research</name>
         </author>

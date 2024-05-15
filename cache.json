@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e99e2c85b708",
+          "author": "Ananya Bajaj",
+          "description": "The inside scoop on the University of Washington, Seattle!\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/the-graduate-school-guidebook-how-i-funded-most-of-my-masters-degree-e99e2c85b708?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-14T22:00:48.000Z",
+          "wordCount": 945,
+          "title": "The Graduate School Guidebook — How I funded (most of) my Master’s degree!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1134/1*xzxVjE0lXvBz5fugRrXjWw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/22cc2cd54597",
+          "author": "林育任 (Yu-Jen Lin)",
+          "description": "",
+          "link": "https://towardsdatascience.com/understanding-abstractions-in-neural-networks-22cc2cd54597?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-14T17:26:00.000Z",
+          "wordCount": null,
+          "title": "Understanding Abstractions in Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8f565122a3cc",
+          "author": "Lucas de Lima Nogueira",
+          "description": "Build your own deep learning framework based on C/C++, CUDA and Python, with GPU support and automatic differentiation!",
+          "link": "https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-14T17:00:52.000Z",
+          "wordCount": 11272,
+          "title": "Recreating PyTorch from scratch (with GPU support and automatic differentiation)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1023/1*nD4KJG4Jk0sFb5uTujNoPA.png"
+        },
+        {
+          "id": "https://medium.com/p/9d49318c3172",
+          "author": "Marco Peixeiro",
+          "description": "Discover the Kolmogorov-Arnold Networks (KANs) and apply them for time series forecasting using Python\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/kolmogorov-arnold-networks-kans-for-time-series-forecasting-9d49318c3172?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-05-14T13:39:02.000Z",
+          "wordCount": 876,
+          "title": "Kolmogorov-Arnold Networks (KANs) for Time Series Forecasting",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*orj3F5DNiq2w-dCF"
+        },
+        {
           "id": "https://medium.com/p/68e908c904b7",
           "author": "Michal Szudejko",
           "description": "Employing data storytelling to increase user engagement & informative power of management dashboards\nContinue reading on Towards Data Science »",
@@ -1715,6 +1755,16 @@
       "siteUrl": "https://machinelearning.apple.com",
       "articles": [
         {
+          "id": "pfl-research",
+          "author": null,
+          "description": "Federated Learning (FL) is an emerging ML training paradigm where clients own their data and collaborate to train a global model without revealing any data to the server and other participants.\nResearchers commonly perform experiments in a simulation environment to quickly iterate on ideas. However, existing open-source tools do not offer the efficiency required to simulate FL on larger and more realistic FL datasets. We introduce pfl-research, a fast, modular, and easy-to-use Python framework for simulating FL. It supports TensorFlow, PyTorch, and non-neural network models, and is tightly…",
+          "link": "https://machinelearning.apple.com/research/pfl-research",
+          "publishedOn": "2024-05-14T00:00:00.000Z",
+          "wordCount": 1376,
+          "title": "pfl-research: Simulation Framework for Accelerating Research in Private Federated Learning",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
           "id": "generative-modeling",
           "author": null,
           "description": "This paper introduces a novel generative modeling framework grounded in phase space dynamics, taking inspiration from the principles underlying Critically Damped Langevin Dynamics (CLD). Leveraging insights from stochastic optimal control, we construct a favorable path measure in the phase space that proves highly advantageous for generative sampling. A distinctive feature of our approach is the early-stage data prediction capability within the context of propagating generating Ordinary Differential Equations (ODEs) or Stochastic Differential Equations (SDEs) processes. This early prediction…",
@@ -1983,16 +2033,6 @@
           "wordCount": 1165,
           "title": "Hierarchical and Dynamic Prompt Compression for Efficient Zero-shot API Usage",
           "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
-        },
-        {
-          "id": "apple-at-icassp-2024",
-          "author": null,
-          "description": "Apple is sponsoring the International Conference on Acoustics, Speech and Signal Processing (ICASSP), which is taking place in person from April 14 to 19 in Seoul, South Korea. ICASSP is the IEEE Signal Processing Society's flagship conference on signal processing and its applications.",
-          "link": "https://machinelearning.apple.com/updates/apple-at-icassp-2024",
-          "publishedOn": "2024-04-14T00:00:00.000Z",
-          "wordCount": 3928,
-          "title": "International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024",
-          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
         }
       ]
     },
@@ -2037,6 +2077,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1032576",
+          "author": "Brenda Potts",
+          "description": "RASCAL is an untethered robot with a modular design, allowing it to move flexibly along and between evenly spaced storage shelves. Discover how it can address the availability and scalability challenges of existing automated storage and retrieval systems.\nThe post RASCAL: Novel robotics for scalable and highly available automated storage and retrieval appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/rascal-novel-robotics-for-scalable-and-highly-available-automated-storage-and-retrieval/",
+          "publishedOn": "2024-05-14T16:00:17.000Z",
+          "wordCount": 2945,
+          "title": "RASCAL: Novel robotics for scalable and highly available automated storage and retrieval",
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prodnew/2024/05/ICRA_RASCAL2024-TWLIFB-1200x627-1.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1031883",
           "author": "Brenda Potts",
