@@ -2320,36 +2320,6 @@
           "wordCount": 887,
           "title": "The Math Behind Recurrent Neural Networks",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*YbZVpYFdO34asvop"
-        },
-        {
-          "id": "https://medium.com/p/6df34fa324d2",
-          "author": "Jeff Braun",
-          "description": "Features Needed to Make this A Compelling Solution\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-case-for-python-in-excel-6df34fa324d2?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-04-26T20:03:27.000Z",
-          "wordCount": null,
-          "title": "The Case for Python in Excel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/930b5f8943af",
-          "author": "Hans Christian Ekne",
-          "description": "",
-          "link": "https://towardsdatascience.com/robust-one-hot-encoding-930b5f8943af?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-04-26T17:28:58.000Z",
-          "wordCount": null,
-          "title": "Robust One-Hot Encoding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/21212cc5dddb",
-          "author": "Mike Cvet",
-          "description": "",
-          "link": "https://towardsdatascience.com/temperature-scaling-and-beam-search-text-generation-in-llms-for-the-ml-adjacent-21212cc5dddb?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-04-26T17:18:58.000Z",
-          "wordCount": null,
-          "title": "Temperature Scaling and Beam Search Text Generation in LLMs, for the ML-Adjacent",
-          "imageUrl": null
         }
       ]
     },
@@ -2986,6 +2956,378 @@
       "title": "Machine Learns",
       "feedUrl": "https://erogol.com/atom.xml",
       "siteUrl": "/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "LearnOpenCV",
+      "feedUrl": "https://learnopencv.com/feed/",
+      "siteUrl": "https://learnopencv.com",
+      "articles": [
+        {
+          "id": "https://learnopencv.com/?p=55391",
+          "author": "Ankan Ghosh",
+          "description": "Recommendation systems (recommender systems) suggest content based on user preferences and behaviors. This guide explores their types, traditional ML techniques like matrix factorization, and advanced deep learning methods like neural collaborative filtering. Discover how these systems enhance user experiences on platforms like Netflix, Spotify, and Amazon.\nMastering Recommendation System: A Complete Guide first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/recommendation-system/",
+          "publishedOn": "2024-05-21T13:00:00.000Z",
+          "wordCount": 11743,
+          "title": "Mastering Recommendation System: A Complete Guide",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2024/05/mastering-recommendation-systems.gif"
+        },
+        {
+          "id": "https://learnopencv.com/?p=54980",
+          "author": "Jaykumaran",
+          "description": "This article presents ASR with Diarization using OpenAI Whisper and Nvidia Nemo Toolkit.\nAutomatic Speech Recognition (ASR) with Diarization : Speech-to-Text first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/automatic-speech-recognition/",
+          "publishedOn": "2024-05-14T13:00:00.000Z",
+          "wordCount": 13200,
+          "title": "Automatic Speech Recognition (ASR) with Diarization : Speech-to-Text",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2024/05/ASR-Diarization-video-Automatic-Speech-Recognition.mp4",
+            "length": "1530708",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2024/05/Automatic-Speech-Recognition-with-Diarization-Speech-to-Text.gif"
+        },
+        {
+          "id": "https://learnopencv.com/?p=54989",
+          "author": "Vaibhav Singh",
+          "description": "In the rapidly evolving field of deep learning, the challenge often lies not just in designing powerful models but also in making them accessible and efficient for practical use, especially on devices with limited computational power. This blog post addresses this challenge by focusing on the MobileViT model, a compact yet robust alternative to the […]\nBuilding MobileViT Image Classification Model from Scratch In Keras 3 first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/mobilevit-keras-3/",
+          "publishedOn": "2024-05-07T13:00:00.000Z",
+          "wordCount": 12910,
+          "title": "Building MobileViT Image Classification Model from Scratch In Keras 3",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2024/05/MobileViT_feature_2.gif"
+        },
+        {
+          "id": "https://learnopencv.com/?p=54826",
+          "author": "Ankan Ghosh",
+          "description": "Discover the power of SDXL Inpainting, an advanced AI model that restores and enhances photos with precision. Learn how this technology repairs damaged images and fosters creative digital editing, making professional-quality results accessible to everyone. Embrace the future of image editing with SDXL's robust and innovative capabilities.\nSDXL Inpainting: Fusing Image Inpainting with Stable Diffusion first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/sdxl-inpainting/",
+          "publishedOn": "2024-04-30T13:00:00.000Z",
+          "wordCount": 10333,
+          "title": "SDXL Inpainting: Fusing Image Inpainting with Stable Diffusion",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2024/04/sdxl-inpainting.gif"
+        }
+      ]
+    },
+    {
+      "title": "iMerit",
+      "feedUrl": "https://imerit.net/feed/",
+      "siteUrl": "https://imerit.net/",
+      "articles": [
+        {
+          "id": "https://imerit.net/?p=23021",
+          "author": "Katakam Sree Harshita",
+          "description": "Understand common challenges faced in de-identifying a variety of healthcare data and explore the best strategies to overcome these challenges.\nThe post Tackling Healthcare Data De-identification: Structured vs Unstructured appeared first on iMerit.",
+          "link": "https://imerit.net/blog/tackling-healthcare-data-de-identification-structured-vs-unstructured/",
+          "publishedOn": "2024-05-21T14:05:24.000Z",
+          "wordCount": 1943,
+          "title": "Tackling Healthcare Data De-identification: Structured vs Unstructured",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2024/05/OG_Tackling-Healthcare-Data-De-identification-Structured-vs-Unstructured.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=22981",
+          "author": "Riddhy Mehta",
+          "description": "Learn how de-identification services help hospitals, researchers, and more to securely utilize patient data while ensuring HIPAA compliance.\nThe post HIPAA and De-identification: Navigating Privacy Laws for Healthcare Data appeared first on iMerit.",
+          "link": "https://imerit.net/blog/hipaa-and-de-identification-navigating-privacy-laws-for-healthcare-data/",
+          "publishedOn": "2024-05-03T17:51:37.000Z",
+          "wordCount": 2428,
+          "title": "HIPAA and De-identification: Navigating Privacy Laws for Healthcare Data",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2024/05/OG_HIPAA-and-De-identification-Navigating-Privacy-Laws-for-Healthcare-Data.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=22967",
+          "author": "Riddhy Mehta",
+          "description": "Discover the top de-identification software tools for healthcare data. Explore features, benefits, and regulatory aspects of leading solutions like iMerit.\nThe post De-Identification Software Tools for Healthcare Data: A Comparative Review appeared first on iMerit.",
+          "link": "https://imerit.net/blog/de-identification-software-tools-for-healthcare-data-a-comparative-review/",
+          "publishedOn": "2024-05-01T17:02:35.000Z",
+          "wordCount": 2229,
+          "title": "De-Identification Software Tools for Healthcare Data: A Comparative Review",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2024/04/OG_Medical-Data-De-identification-Ensuring-Privacy-and-Compliance-in-2024-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Analytics Vidhya",
+      "feedUrl": "https://www.analyticsvidhya.com/feed/",
+      "siteUrl": "https://www.analyticsvidhya.com/",
+      "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=171051",
+          "author": "K. C. Sabreena Basheer",
+          "description": "News at a Glance The Browser Company has rolled out a unique feature for its iPhone-only Arc Search app, named “Call Arc.” This novel feature lets users ask questions and receive verbal answers by holding their phone to their ear, just like a phone call. It stands out as an innovative twist on traditional voice […]\nThe post Call AI From Your Phone With Arc Search’s ‘Call Arc’ Feature appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/arc-search-new-call-arc-feature-brings-ai-search-over-a-phone-call/",
+          "publishedOn": "2024-05-24T11:24:23.000Z",
+          "wordCount": null,
+          "title": "Call AI From Your Phone With Arc Search’s ‘Call Arc’ Feature",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170957",
+          "author": "Pankaj Singh",
+          "description": "Tech visionary and entrepreneur extraordinaire Elon Musk has whipped up a storm again after making his latest prediction at a startup and tech event in Paris – Viva Tech Event. Speaking remotely via webcam at the Viva Tech event, Musk has also boldly claimed that Artificial Intelligence (AI) would literally “take your jobs away,” prompting […]\nThe post Elon Musk’s Bold Prediction: Artificial Intelligence to Eradicate All Jobs in the Future appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/elon-musks-artificial-intelligence-to-take-all-jobs/",
+          "publishedOn": "2024-05-24T06:36:45.000Z",
+          "wordCount": null,
+          "title": "Elon Musk’s Bold Prediction: Artificial Intelligence to Eradicate All Jobs in the Future",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170852",
+          "author": "Deepak K",
+          "description": "Introduction LlamaParse is a document parsing library developed by Llama Index to efficiently and effectively parse documents such as PDFs, PPTs, etc. Creating RAG applications on top of PDF documents presents a significant challenge many of us face, specifically with the complex task of parsing embedded objects such as tables, figures, etc. The nature of […]\nThe post Simplifying Document Parsing: Extracting Embedded Objects with LlamaParse appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/document-parsing-with-llamaparse/",
+          "publishedOn": "2024-05-23T16:25:34.000Z",
+          "wordCount": null,
+          "title": "Simplifying Document Parsing: Extracting Embedded Objects with LlamaParse",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170897",
+          "author": "K. C. Sabreena Basheer",
+          "description": "News at a Glance Meta is making strides in artificial intelligence (AI) with a new multimodal LLM named Chameleon. This model, based on early-fusion architecture, promises to integrate different types of information better than its predecessors. With this move, Meta is positioning itself as a strong contender in the AI world. Also Read: Ray-Ban Meta […]\nThe post Meta’s Chameleon: A New Player in the Multimodal AI Race appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/meta-chameleon-a-new-player-in-the-multimodal-ai-race/",
+          "publishedOn": "2024-05-23T13:38:59.000Z",
+          "wordCount": null,
+          "title": "Meta’s Chameleon: A New Player in the Multimodal AI Race",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170889",
+          "author": "Pankaj Singh",
+          "description": "With the implementation of advanced artificial intelligence technology, Mastercard is forever changing how it approaches preventing credit card fraud. Their goal with this unique approach is to rapidly detect which cards were compromised to prevent them from being used in criminal activities. With the help of machine learning algorithms and real-time data analysis, Mastercard’s AI […]\nThe post Mastercard AI: It Detects Compromised Cards Faster, Thwarting Criminals appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/mastercard-ai-detect-compromised-cards/",
+          "publishedOn": "2024-05-23T13:09:33.000Z",
+          "wordCount": null,
+          "title": "Mastercard AI: It Detects Compromised Cards Faster, Thwarting Criminals",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170756",
+          "author": "Pankaj Singh",
+          "description": "AI is bridging the gap between human knowledge and human understanding. Likewise, various AI tools personalize teaching and help make learning fun for both teachers and students.  After the release of GPT 4o, which features Sal Khan solving math problems, it became clear that the education sector is ready to take a giant leap in […]\nThe post Khan Academy X Microsoft: Khanmigo AI For Teachers is Now 100% Free appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/khan-academy-microsoft-khanmigo-ai/",
+          "publishedOn": "2024-05-23T11:03:47.000Z",
+          "wordCount": null,
+          "title": "Khan Academy X Microsoft: Khanmigo AI For Teachers is Now 100% Free",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170669",
+          "author": "Himanshi Singh",
+          "description": "Introduction With so many AI tools available today, it can be hard to know which ones are worth your time. While we can’t try them all, it’s helpful to know which ones are best for everyday tasks like programming, planning, and handling long texts. Lex Fridman, a well-known AI researcher and podcaster, recently tweeted about […]\nThe post Top 5 AI Tools for Your Everyday Use appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/top-ai-tools-for-your-everyday-use/",
+          "publishedOn": "2024-05-23T07:56:35.000Z",
+          "wordCount": null,
+          "title": "Top 5 AI Tools for Your Everyday Use",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170657",
+          "author": "Ritika Gupta",
+          "description": "Introduction LLM Agents play an increasingly important role in the generative landscape as reasoning engines. But most of the agents have the shortcomings of failing or going into hallucinations. However, agents face formidable challenges within Large Language Models (LLMs), including context understanding, coherence maintenance, and dynamic adaptability. LangGraph, a sophisticated graph-based representation of language, aids […]\nThe post Building Reliable Agent using Advanced Rag Techniques, LangGraph, and Cohere LLM appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/building-llm-agent-using-advanced-rag-techniques/",
+          "publishedOn": "2024-05-23T07:15:32.000Z",
+          "wordCount": null,
+          "title": "Building Reliable Agent using Advanced Rag Techniques, LangGraph, and Cohere LLM",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170611",
+          "author": "Swati Sharma",
+          "description": "With all the anticipation and news surrounding AI advancements, we’re excited to announce the 5th edition of our much-anticipated GenAI event of the year. Yes, the DataHack Summit is coming this August, bigger and better than ever before. The recent trend is that there isn’t a day that goes by without some new development in […]\nThe post DataHack Summit 2024: The Ultimate GenAI Event of the Year appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/datahack-summit-2024/",
+          "publishedOn": "2024-05-22T18:34:17.000Z",
+          "wordCount": null,
+          "title": "DataHack Summit 2024: The Ultimate GenAI Event of the Year",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=170627",
+          "author": "NISHANT TIWARI",
+          "description": "Introduction Microsoft has pushed the boundaries with its latest AI offerings, the Phi-3 family of models. These compact yet mighty models were unveiled at the recent Microsoft Build 2024 conference and promise to deliver exceptional AI performance across diverse applications. The family includes the bite-sized Phi-3-mini, the slightly larger Phi-3-small, the midrange Phi-3-medium, and the […]\nThe post Microsoft Phi-3: From Language to Vision, this New AI Model is Transforming AI appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/05/microsoft-phi3/",
+          "publishedOn": "2024-05-22T16:59:41.000Z",
+          "wordCount": null,
+          "title": "Microsoft Phi-3: From Language to Vision, this New AI Model is Transforming AI",
+          "itunes": {},
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Paperspace Blog",
+      "feedUrl": "https://blog.paperspace.com/rss/",
+      "siteUrl": "https://blog.paperspace.com/",
+      "articles": [
+        {
+          "id": "6647e33ec51eb30001bd70a4",
+          "author": "James Skelton",
+          "description": "in this tutorial, we look at the new StoryDiffusion technique for generating consistent images in a series.",
+          "link": "https://blog.paperspace.com/storydiffusion/",
+          "publishedOn": "2024-05-24T22:54:04.000Z",
+          "wordCount": 3960,
+          "title": "StoryDiffusion with Paperspace Notebooks",
+          "imageUrl": "https://blog.paperspace.com/content/images/size/w1200/2024/05/Banner-Option-3-2.png"
+        },
+        {
+          "id": "66509b71805a9c000195dfe7",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article, we will learn how to make predictions using the 4-bit quantized 🤗 Idefics-9B model and fine-tune it on a specific dataset.",
+          "link": "https://blog.paperspace.com/finetune-llm-idefics-9b-a100/",
+          "publishedOn": "2024-05-24T22:03:04.000Z",
+          "wordCount": 4732,
+          "title": "Finetune Multimodel LLM:IDEFICS 9B using A100",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Group-143--1-.png"
+        },
+        {
+          "id": "664f1d65805a9c000195deba",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article, we review the paper on MambaOut and explore the nature of Mamba. We will delve into the potential of MambaOut and test the model using Paperspace.",
+          "link": "https://blog.paperspace.com/mambaout/",
+          "publishedOn": "2024-05-24T01:34:16.000Z",
+          "wordCount": 4794,
+          "title": "Evaluating the Necessity of Mamba Mechanisms in Visual Recognition Tasks-MambaOut",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Group-143.png"
+        },
+        {
+          "id": "664c4fc4805a9c000195dd71",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article we will explore an open-access version of Deepmind's visual language model, IDEFICS2. In this article, we'll show you how to use the IDEFICS model for image-text tasks.",
+          "link": "https://blog.paperspace.com/idefics2/",
+          "publishedOn": "2024-05-22T00:47:13.000Z",
+          "wordCount": 3925,
+          "title": "IDEFICS2: Multimodal Language Models for the Future",
+          "imageUrl": "https://blog.paperspace.com/content/images/size/w1200/2024/05/Frame-1-2.png"
+        },
+        {
+          "id": "66471cfbc51eb30001bd6fa7",
+          "author": "Shaoni Mukherjee",
+          "description": "In this tutorial we will explore Google's vision-model PaliGemma. A lightweight, open model designed for easy fine-tuning, training and deploying.",
+          "link": "https://blog.paperspace.com/paligemma-a-lightweight-open-vision-language-model-vlm/",
+          "publishedOn": "2024-05-17T23:07:00.000Z",
+          "wordCount": 4272,
+          "title": "PaliGemma: A lightweight open vision-language model (VLM)",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Frame-40--6-.png"
+        },
+        {
+          "id": "6642fc796a68cb0001dfd095",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article, we'll explore a recently introduced ML algorithm and examine whether Kolmogorov-Arnold Networks have the potential to replace Multi-layer Perceptrons.",
+          "link": "https://blog.paperspace.com/kolmogorov-arnold-networks-kan-revolutionizing-deep-learning/",
+          "publishedOn": "2024-05-15T23:38:23.000Z",
+          "wordCount": 5133,
+          "title": "Kolmogorov-Arnold Networks (KAN): Promising Alternative to Multi-Layer Perceptron?",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Frame-40--4-.png"
+        },
+        {
+          "id": "663cb7aa6a68cb0001dfceb1",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article we introduce pyreft, a novel fine-tuning method called Representation Fine-Tuning (ReFT), which offers superior efficiency and interpretability compared to state-of-the-art methods like PEFTs.",
+          "link": "https://blog.paperspace.com/reft-representation-finetuning-for-language-models/",
+          "publishedOn": "2024-05-10T22:20:32.000Z",
+          "wordCount": 4817,
+          "title": "ReFT: Representation Finetuning for Language Models",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Frame-40--3-.png"
+        },
+        {
+          "id": "663d405b6a68cb0001dfcec2",
+          "author": "James Skelton",
+          "description": "In this tutorial, we discuss the new IDM-VTON application, discuss some improvements we have added with Grounded Segment Anything, and show off some examples of the models potential.",
+          "link": "https://blog.paperspace.com/grounded-segment-anything-idm-vton/",
+          "publishedOn": "2024-05-10T02:55:22.000Z",
+          "wordCount": 4117,
+          "title": "Expanding the Versatility of IDM-VTON with Grounded Segment Anything",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/asfad.png"
+        },
+        {
+          "id": "663b202f9742910001bcc765",
+          "author": "Shaoni Mukherjee",
+          "description": "In this short tutorial, we will learn how to prepare a balanced dataset that can be used to train a large language model (LLM).",
+          "link": "https://blog.paperspace.com/create-llm-dataset-for-training-and-validation/",
+          "publishedOn": "2024-05-09T15:00:13.000Z",
+          "wordCount": 3860,
+          "title": "Prepare a dataset for training and validation of a Large Language Model (LLM)",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Frame-40--2-.png"
+        },
+        {
+          "id": "6634db800478d5000168077d",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article, we will understand how to fine-tune Llama3 using the Llama Index. Moreover, one of the best parts is that you can achieve that with very few easy steps and just few lines of code.",
+          "link": "https://blog.paperspace.com/fine-tune/",
+          "publishedOn": "2024-05-07T01:02:32.000Z",
+          "wordCount": 4517,
+          "title": "Train & Finetune LLama3 using LLama-Factory",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Frame-40--1-.png"
+        },
+        {
+          "id": "663095362ca22b000187ce42",
+          "author": "Shaoni Mukherjee",
+          "description": "In this article, we look at PyTorch and JAX to compare and contrast their capabilities for developing Deep Learning models on Paperspace.",
+          "link": "https://blog.paperspace.com/pytorch-vs-jax/",
+          "publishedOn": "2024-05-02T22:57:56.000Z",
+          "wordCount": 4400,
+          "title": "Comparing PyTorch and JAX",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/04/Frame-41.png"
+        },
+        {
+          "id": "662c1e092ca22b000187cd5c",
+          "author": "James Skelton",
+          "description": "In this tutorial, we show how to run STORM with Open-Source models like Mistral on Paperspace Notebooks.",
+          "link": "https://blog.paperspace.com/stanford-oval-storm-wikipedia-writer-llm/",
+          "publishedOn": "2024-05-01T01:00:39.000Z",
+          "wordCount": 4805,
+          "title": "Running Stanford OVAL's STORM Mistral demo with Paperspace and DSPy",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/oval.png"
+        },
+        {
+          "id": "662a42732ca22b000187cc16",
+          "author": "Shaoni Mukherjee",
+          "description": "Experiment with new hairstyle and haircolor, with HairFastGAN. A novel approach to transfer a hairstyle from a reference image to another for virtual hair try-on.",
+          "link": "https://blog.paperspace.com/change-your-hairstyle-in-minutes-hairfastgan/",
+          "publishedOn": "2024-04-26T22:39:01.000Z",
+          "wordCount": 5078,
+          "title": "Instant Hair Transformation: HairFastGAN Revolutionizes Realistic and Rapid Hairstyle Changes",
+          "imageUrl": "https://blog.paperspace.com/content/images/2024/04/Frame-41--4-.png"
+        }
+      ]
+    },
+    {
+      "title": "Machine Vision Blog",
+      "feedUrl": "https://www.clearview-imaging.com/en/blog/rss.xml",
+      "siteUrl": "https://www.clearview-imaging.com/en/blog",
+      "articles": []
+    },
+    {
+      "title": "RSIP Vision",
+      "feedUrl": "https://www.rsipvision.com/feed/",
+      "siteUrl": "https://www.rsipvision.com/",
+      "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=16131",
+          "author": "visioneditor",
+          "description": "You have requested the PDF version of Computer Vision News of May 2024. Download will start in only a few seconds. If it doesn’t, please click here. Enjoy!  \nThe post Computer Vision News – 2024 May (PDF) appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/computer-vision-news-2024-may-pdf/",
+          "publishedOn": "2024-04-30T21:22:14.000Z",
+          "wordCount": 5200,
+          "title": "Computer Vision News – 2024 May (PDF)",
+          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2024/04/Computer-Vision-News-May-2024-M.jpg"
+        }
+      ]
+    },
+    {
+      "title": "RSIP Vision Learns Archives - RSIP Vision",
+      "feedUrl": "https://www.rsipvision.com/rsip-vision-learns/feed/",
+      "siteUrl": "https://www.rsipvision.com/rsip-vision-learns/",
       "articles": []
     }
   ],
