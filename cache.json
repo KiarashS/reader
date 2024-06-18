@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/603eb5803586",
+          "author": "Thauri Dattadeen",
+          "description": "Real-world data can be tricky! Guide to choosing and applying the Right Statistical Test (using Python)\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/a-b-testing-like-a-pro-master-the-art-of-statistical-test-selection-603eb5803586?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-06-17T18:15:08.000Z",
+          "wordCount": 884,
+          "title": "A/B Testing Like a Pro: Master the Art of Statistical Test Selection",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*HZJ61iZbG77m12aV"
+        },
+        {
+          "id": "https://medium.com/p/dfd79515b85e",
+          "author": "Daniel Miller",
+          "description": "Training LSTMs to understand the usage of online platforms.\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/deep-learning-to-predict-engagement-in-online-platforms-dfd79515b85e?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-06-17T18:10:57.000Z",
+          "wordCount": 879,
+          "title": "Deep Learning to Predict Engagement in Online Platforms",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*omBWS98wl1Vi2s478ViCVQ.png"
+        },
+        {
+          "id": "https://medium.com/p/6c8ae46e72e4",
+          "author": "Sean Sheng",
+          "description": "Comparing Llama 3 serving performance on vLLM, LMDeploy, MLC-LLM, TensorRT-LLM, and TGI",
+          "link": "https://towardsdatascience.com/benchmarking-llm-inference-backends-6c8ae46e72e4?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-06-17T18:08:16.000Z",
+          "wordCount": 5161,
+          "title": "Benchmarking LLM Inference Backends",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QJ5fp3OsIR1PJkBi9jhUcA.png"
+        },
+        {
           "id": "https://medium.com/p/bac58e3bcc47",
           "author": "Mariya Mansurova",
           "description": "",
@@ -2300,26 +2330,6 @@
           "wordCount": null,
           "title": "Are GPTs Good Embedding Models",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/47c4f1b0356a",
-          "author": "Kate Minogue",
-          "description": "Demystifying the term “accuracy” in Data Science and Artificial Intelligence\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/please-make-this-ai-less-accurate-47c4f1b0356a?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-05-18T06:15:15.000Z",
-          "wordCount": 936,
-          "title": "Please Make this AI Less Accurate",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:960/1*84t9rpoeWESRf4LQm4HyjQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/17113406f9f8",
-          "author": "Ivo Bernardo",
-          "description": "Let’s learn how to identify and deal with the common causes of data leakage in ML models\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/common-causes-of-data-leakage-and-how-to-spot-them-17113406f9f8?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-05-18T05:59:44.000Z",
-          "wordCount": 948,
-          "title": "Common Causes of Data Leakage and how to Spot Them",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*Oq_OdOVeEcDLA98V"
         }
       ]
     },
@@ -2334,6 +2344,36 @@
       "feedUrl": "https://machinelearning.apple.com/rss.xml",
       "siteUrl": "https://machinelearning.apple.com",
       "articles": [
+        {
+          "id": "hypernetworks-personalizing-asr",
+          "author": null,
+          "description": "*Equal Contributors\nParameter-efficient fine-tuning (PEFT) for personalizing automatic speech recognition (ASR) has recently shown promise for adapting general population models to atypical speech. However, these approaches assume a priori knowledge of the atypical speech disorder being adapted for -- the diagnosis of which requires expert knowledge that is not always available. Even given this knowledge, data scarcity and high inter/intra-speaker variability further limit the effectiveness of traditional fine-tuning. To circumvent these challenges, we first identify the minimal set of model…",
+          "link": "https://machinelearning.apple.com/research/hypernetworks-personalizing-asr",
+          "publishedOn": "2024-06-14T00:00:00.000Z",
+          "wordCount": 3239,
+          "title": "Hypernetworks for Personalizing ASR to Atypical Speech",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
+          "id": "time-sensitive-finetuning",
+          "author": null,
+          "description": "Large Language Models (LLMs) have demonstrated impressive capability in different tasks and are bringing transformative changes to many domains. However, keeping the knowledge in LLMs up-to-date remains a challenge once pretraining is complete. It is thus essential to design effective methods to both update obsolete knowledge and induce new knowledge into LLMs. Existing locate-and-edit knowledge editing (KE) method suffers from two limitations. First, the post-edit LLMs by such methods generally have poor capability in answering complex queries that require multi-hop reasoning. Second, the…",
+          "link": "https://machinelearning.apple.com/research/time-sensitive-finetuning",
+          "publishedOn": "2024-06-14T00:00:00.000Z",
+          "wordCount": 1105,
+          "title": "Time Sensitive Knowledge Editing through Efficient Finetuning",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
+          "id": "asr-n-best-rescoring",
+          "author": null,
+          "description": "Voice assistants increasingly use on-device Automatic Speech Recognition (ASR) to ensure speed and privacy. However, due to resource constraints on the device, queries pertaining to complex information domains often require further processing by a search engine. For such applications, we propose a novel Transformer based model capable of rescoring and rewriting, by exploring full context of the N-best hypotheses in parallel. We also propose a new discriminative sequence training objective that can work well for both rescore and rewrite tasks. We show that our Rescore+Rewrite model outperforms…",
+          "link": "https://machinelearning.apple.com/research/asr-n-best-rescoring",
+          "publishedOn": "2024-06-14T00:00:00.000Z",
+          "wordCount": 872,
+          "title": "Transformer-based Model for ASR N-Best Rescoring and Rewriting",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
         {
           "id": "evaluating-iwslt2023-tasks",
           "author": null,
@@ -2373,6 +2413,26 @@
           "wordCount": 11568,
           "title": "Introducing Apple’s On-Device and Server Foundation Models",
           "imageUrl": "https://mlr.cdn-apple.com/media/Social_1200x630_97d5eae4c9.jpg"
+        },
+        {
+          "id": "entity-disambiguation-fusion-decoding",
+          "author": null,
+          "description": "Entity disambiguation (ED), which links the mentions of ambiguous entities to their referent entities in a knowledge base, serves as a core component in entity linking (EL). Existing generative approaches demonstrate improved accuracy compared to classification approaches under the standardized ZELDA benchmark. Nevertheless, generative approaches suffer from the need for large-scale pre-training and inefficient generation. Most importantly, entity descriptions, which could contain crucial information to distinguish similar entities from each other, are often overlooked. We propose an…",
+          "link": "https://machinelearning.apple.com/research/entity-disambiguation-fusion-decoding",
+          "publishedOn": "2024-06-04T00:00:00.000Z",
+          "wordCount": 1938,
+          "title": "Entity Disambiguation via Fusion Entity Decoding",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
+        {
+          "id": "agrame",
+          "author": null,
+          "description": "Ranking is a fundamental and popular problem in search. However, existing ranking algorithms usually restrict the granularity of ranking to full passages or require a specific dense index for each desired level of granularity. Such lack of flexibility in granularity negatively affects many applications that can benefit from more granular ranking, such as sentence-level ranking for open-domain question-answering, or proposition-level ranking for attribution. In this work, we introduce the idea of any-granularity ranking which leverages multi-vector approaches to rank at varying levels of…",
+          "link": "https://machinelearning.apple.com/research/agrame",
+          "publishedOn": "2024-06-04T00:00:00.000Z",
+          "wordCount": 1454,
+          "title": "AGRaME: Any Granularity Ranking with Multi-Vector Embeddings",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
         },
         {
           "id": "embedding-pose-graph",
@@ -2527,6 +2587,26 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1045767",
+          "author": "Alyssa Hughes",
+          "description": "Microsoft is proud to sponsor the 41st annual Conference on Computer Vision and Pattern Recognition (CVPR 2024), held from June 17 to June 21. This premier conference covers a broad spectrum of topics in the field, including 3D reconstruction and modeling, action and motion analysis, video and image processing, synthetic data generation, neural networks, and […]\nThe post Microsoft at CVPR 2024: Innovations in computer vision and AI research appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-cvpr-2024-innovations-in-computer-vision-and-ai-research/",
+          "publishedOn": "2024-06-17T16:30:00.000Z",
+          "wordCount": 3036,
+          "title": "Microsoft at CVPR 2024: Innovations in computer vision and AI research",
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prodnew/2024/06/CVPR_X_1200x627.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1045743",
+          "author": "Brenda Potts",
+          "description": "AutoGen Studio, built on Microsoft’s flexible open-source AutoGen framework for orchestrating AI agents, provides an intuitive user-friendly interface that enables developers to rapidly build, test, customize, and share multi-agent AI solutions—with little or no coding.\nThe post Introducing AutoGen Studio: A low-code interface for building multi-agent workflows appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/",
+          "publishedOn": "2024-06-17T16:00:00.000Z",
+          "wordCount": 4315,
+          "title": "Introducing AutoGen Studio: A low-code interface for building multi-agent workflows",
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prodnew/2024/06/New_AutoGen-2024-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1044183",
           "author": "Alyssa Hughes",
@@ -2749,7 +2829,18 @@
       "title": "Deep Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/",
+          "author": "Oyedele Tioluwani Taiwo",
+          "description": "Attention mechanism is a fundamental invention in artificial intelligence and machine learning, redefining the capabilities of deep learning models. This mechanism, inspired by the human mental process of selective focus, has emerged as a pillar in a variety of applications, accelerating developments in natural language processing, computer vision, and beyond.",
+          "link": "https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/",
+          "publishedOn": "2024-06-17T05:46:08.000Z",
+          "wordCount": 2789,
+          "title": "What are Attention Mechanisms in Deep Learning?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/andrea-de-santis-zwd435-ewb4-unsplash-1.jpg"
+        }
+      ]
     },
     {
       "title": "colah's blog",
@@ -2841,6 +2932,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:667005cd68c490694b0f3ce5",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/7ajkpe9pcng9rwg-bxpe5-7h2mr-96m8j-ht475",
+          "publishedOn": "2024-06-17T09:46:47.000Z",
+          "wordCount": null,
+          "title": "Week Ending 6.16.2024",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6667053e4d31851300831761",
           "author": "Craig Smith",
@@ -2988,6 +3090,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=176349",
+          "author": "Yana Khare",
+          "description": "Introduction The log-normal distribution is a fascinating statistical concept commonly used to model data that exhibit right-skewed behavior. This distribution has wide-ranging applications in various fields, such as biology, finance, and engineering. In this article, we will delve into the log-normal distribution, its key parameters, and how to interpret them, as well as explore some […]\nThe post Understanding the Log-normal Distribution appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/06/log-normal-distribution/",
+          "publishedOn": "2024-06-17T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Understanding the Log-normal Distribution",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=176340",
+          "author": "Yana Khare",
+          "description": "Introduction A fundamental component of statistical technique, regression analysis is essential for examining and measuring connections between variables. Its uses are numerous and diverse, from forecasting financial trends to evaluating medical results. This in-depth manual explores the essence of regression analysis, explaining its various kinds, applications, and underlying concepts. Overview What is Regression Analysis? Regression analysis […]\nThe post What is Regression Analysis? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/06/regression-analysis/",
+          "publishedOn": "2024-06-17T08:54:59.000Z",
+          "wordCount": null,
+          "title": "What is Regression Analysis?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=176378",
           "author": "K. C. Sabreena Basheer",
@@ -4348,16 +4472,6 @@
           "wordCount": 3925,
           "title": "IDEFICS2: Multimodal Language Models for the Future",
           "imageUrl": "https://blog.paperspace.com/content/images/size/w1200/2024/05/Frame-1-2.png"
-        },
-        {
-          "id": "66471cfbc51eb30001bd6fa7",
-          "author": "Shaoni Mukherjee",
-          "description": "In this tutorial we will explore Google's vision-model PaliGemma. A lightweight, open model designed for easy fine-tuning, training and deploying.",
-          "link": "https://blog.paperspace.com/paligemma-a-lightweight-open-vision-language-model-vlm/",
-          "publishedOn": "2024-05-17T23:07:00.000Z",
-          "wordCount": 4272,
-          "title": "PaliGemma: A lightweight open vision-language model (VLM)",
-          "imageUrl": "https://blog.paperspace.com/content/images/2024/05/Frame-40--6-.png"
         }
       ]
     },
