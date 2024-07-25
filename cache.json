@@ -12,6 +12,96 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/176156f20f61",
+          "author": "Krzysztof K. Zdeb",
+          "description": "Hierarchies play a crucial role in dimensional modeling for Data Warehouses. See my recommendations on how to handle them effectively.\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/handling-hierarchies-in-dimensional-modeling-176156f20f61?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T22:50:47.000Z",
+          "wordCount": 1115,
+          "title": "Handling Hierarchies in Dimensional Modeling",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:810/1*MwkkYIz3xkpev7qi6wqHNw.png"
+        },
+        {
+          "id": "https://medium.com/p/1e5e02e41648",
+          "author": "Carl M. Kadie",
+          "description": "",
+          "link": "https://towardsdatascience.com/nine-rust-cargo-toml-wats-and-wat-nots-1e5e02e41648?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T22:44:09.000Z",
+          "wordCount": null,
+          "title": "Nine Rust Cargo.toml Wats and Wat Nots",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2569f520c066",
+          "author": "Wei Yi",
+          "description": "Use the loss function of the Policy Gradient algorithm to understand REINFORCE, Actor-Critic, and Proximal Policy Optimization (PPO).\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/understand-reinforce-actor-critic-and-ppo-in-one-go-2569f520c066?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T21:29:54.000Z",
+          "wordCount": null,
+          "title": "Understand REINFORCE, Actor-Critic and PPO in one go",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/056d9c883f46",
+          "author": "Marco Peixeiro",
+          "description": "Discover and understand the inner workings of TimeMixer and apply it in your own forecasting project using Python\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/timemixer-exploring-the-latest-model-in-time-series-forecasting-056d9c883f46?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T21:12:52.000Z",
+          "wordCount": null,
+          "title": "TimeMixer: Exploring the Latest Model in Time Series Forecasting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/930ebcd9be94",
+          "author": "Maarten Grootendorst",
+          "description": "",
+          "link": "https://towardsdatascience.com/a-visual-guide-to-quantization-930ebcd9be94?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T20:47:37.000Z",
+          "wordCount": null,
+          "title": "A Visual Guide to Quantization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bc00ead9e540",
+          "author": "Jillian Rowe",
+          "description": "",
+          "link": "https://towardsdatascience.com/using-llms-to-query-pubmed-knowledge-bases-for-biomedical-research-bc00ead9e540?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T20:26:30.000Z",
+          "wordCount": null,
+          "title": "Using LLMs to Query PubMed Knowledge Bases for BioMedical Research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/62f3f794d690",
+          "author": "Dron Mongia",
+          "description": "",
+          "link": "https://towardsdatascience.com/forecasting-us-gdp-using-machine-learning-and-mathematics-62f3f794d690?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T06:39:29.000Z",
+          "wordCount": null,
+          "title": "Forecasting US GDP using Machine Learning and Mathematics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0fda53231011",
+          "author": "Sandi Besen",
+          "description": "",
+          "link": "https://towardsdatascience.com/the-intersection-of-memory-and-grounding-in-ai-systems-0fda53231011?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T06:27:01.000Z",
+          "wordCount": null,
+          "title": "The Intersection of Memory and Grounding in AI Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/54b6775abc9f",
+          "author": "Avishek Biswas",
+          "description": "",
+          "link": "https://towardsdatascience.com/monocular-depth-estimation-with-depth-anything-v2-54b6775abc9f?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-07-24T06:24:11.000Z",
+          "wordCount": null,
+          "title": "Monocular Depth Estimation with Depth Anything V2",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/aca39463fe9f",
           "author": "Adesh Nalpet Adimurthy",
           "description": "Use of Tessellation for Spatial Indexing and how Uber H3 works\nContinue reading on Towards Data Science »",
@@ -2170,56 +2260,6 @@
           "wordCount": null,
           "title": "Data Science for Schools, Part 2: Student Electives Allocation with Python",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/77f6a2e3af8c",
-          "author": "Yanli Liu",
-          "description": "Achieving Better Results and Efficiency in Language Model Fine-Tuning\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/combining-orpo-and-representation-fine-tuning-for-efficient-llama3-alignment-77f6a2e3af8c?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-06-24T01:32:24.000Z",
-          "wordCount": null,
-          "title": "Combining ORPO and Representation Fine-Tuning for Efficient LLAMA3 Alignment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2073dfb33d7e",
-          "author": "Jonathan R. Williford, PhD",
-          "description": "",
-          "link": "https://towardsdatascience.com/clip-llava-and-the-brain-2073dfb33d7e?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-06-24T01:28:58.000Z",
-          "wordCount": null,
-          "title": "CLIP, LLaVA, and the Brain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e32c5305da2a",
-          "author": "Ivo Bernardo",
-          "description": "Learn some of the concepts behind machine learning models drift and understand why MLOps is so important in today’s world\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/model-drift-introduction-and-concepts-e32c5305da2a?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-06-24T01:27:14.000Z",
-          "wordCount": null,
-          "title": "Model Drift Introduction and Concepts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b99a11255c5d",
-          "author": "Amy Ma",
-          "description": "For anyone job hunting, not just tech folks\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/my-learning-to-being-hired-again-after-a-year-part-i-b99a11255c5d?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-06-23T15:50:34.000Z",
-          "wordCount": null,
-          "title": "My learning to being hired again after a year… Part I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9039505b9a15",
-          "author": "Egor Howell",
-          "description": "A breakdown of how you should structure a data science resume\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-data-science-resume-that-got-me-jobs-interviews-9039505b9a15?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-06-23T15:49:13.000Z",
-          "wordCount": null,
-          "title": "The Data Science Resume That Got Me Jobs & Interviews",
-          "imageUrl": null
         }
       ]
     },
@@ -2234,6 +2274,16 @@
       "feedUrl": "https://machinelearning.apple.com/rss.xml",
       "siteUrl": "https://machinelearning.apple.com",
       "articles": [
+        {
+          "id": "fed-learning-diff-privacy",
+          "author": null,
+          "description": "*Equal Contributors\nWhile federated learning (FL) has recently emerged as a promising approach to train machine learning models, it is limited to only preliminary explorations in the domain of automatic speech recognition (ASR). Moreover, FL does not inherently guarantee user privacy and requires the use of differential privacy (DP) for robust privacy guarantees. However, we are not aware of prior work on applying DP to FL for ASR. In this paper, we aim to bridge this research gap by formulating an ASR benchmark for FL with DP and establishing the first baselines. First, we extend the existing…",
+          "link": "https://machinelearning.apple.com/research/fed-learning-diff-privacy",
+          "publishedOn": "2024-07-24T00:00:00.000Z",
+          "wordCount": 1541,
+          "title": "Federated Learning With Differential Privacy for End-to-End Speech Recognition",
+          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
+        },
         {
           "id": "samplable-anon-aggregation",
           "author": null,
@@ -2782,6 +2832,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/",
+          "author": "Tiago Monteiro",
+          "description": "Artificial Intelligence is being used everywhere these days. And many of the groundbreaking applications come from Machine Learning, a subfield of AI. Within Machine Learning, a field called Deep Learning represents one of the main areas of research. It is from Deep Learning that most new, truly effective AI systems",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/",
+          "publishedOn": "2024-07-23T22:11:31.000Z",
+          "wordCount": 2784,
+          "title": "How to Build an Interpretable Artificial Intelligence Model – Simple Python Code Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/pexels-dmitry-demidov-515774-3852577.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/",
           "author": "Tiago Monteiro",
           "description": "Machine learning (ML) is one of the most important subareas of AI used in building great AI systems. In ML, deep learning is a narrow area focused solely on neural networks. Through the field of deep learning, systems like ChatGPT and many other AI models can be created. In other",
@@ -3076,6 +3136,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=184450",
+          "author": "DJ Sarkar",
+          "description": "Introduction The year 2024 is turning out to be one of the best years in terms of progress on Generative AI. Just last week, we had Open AI launch GPT-4o mini, and just yesterday (23rd July 2024), we had Meta launch Llama 3.1, which has yet again taken the world by storm. What could be […]\nThe post Meta Llama 3.1: Latest Open-Source AI Model Takes on GPT-4o mini appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/07/meta-llama-3-1/",
+          "publishedOn": "2024-07-24T15:31:21.000Z",
+          "wordCount": null,
+          "title": "Meta Llama 3.1: Latest Open-Source AI Model Takes on GPT-4o mini",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=184113",
+          "author": "Ayushi Trivedi",
+          "description": "Introduction Imagine leading the charge on the data revolution, where your insights influence important business choices and spur expansion. You may believe that starting a career in this interesting field will cost a significant sum of money, but what if you could do it for nothing? This article will show you five excellent free data […]\nThe post 5 Free Data Analytics Courses to Kickstart Your Career appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/07/free-data-analytics-courses/",
+          "publishedOn": "2024-07-24T13:10:20.000Z",
+          "wordCount": null,
+          "title": "5 Free Data Analytics Courses to Kickstart Your Career",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=184055",
+          "author": "Soumyadarshani Dash",
+          "description": "Introduction Imagine launching a high-power rocket, its trajectory soaring into the sky, with every detail meticulously planned and analyzed. This article will guide you through that very process using RocketPy, a cutting-edge Python library for simulating rocket flights. From setting up your rocket’s components to running simulations and visualizing data, we’ll cover each step to […]\nThe post Rocket Launch Simulation and Analysis using RocketPy appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/07/rocket-launch-simulation-and-analysis-using-rocketpy/",
+          "publishedOn": "2024-07-24T08:56:11.000Z",
+          "wordCount": null,
+          "title": "Rocket Launch Simulation and Analysis using RocketPy",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=183888",
+          "author": "Yana Khare",
+          "description": "Introduction Search engine optimization (SEO) has been impacted by the significant changes brought about by AI growth in many different areas. As businesses strive to improve their online presence and achieve higher search engine rankings, AI emerges as a game-changer, offering innovative solutions to streamline and enhance SEO practices. From automating mundane tasks to providing […]\nThe post Top 11 AI Tools to Replace SEO Agencies appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/07/ai-tools-to-replace-seo-agencies/",
+          "publishedOn": "2024-07-24T08:53:10.000Z",
+          "wordCount": null,
+          "title": "Top 11 AI Tools to Replace SEO Agencies",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=184197",
           "author": "Mounish V",
@@ -4877,61 +4981,6 @@
           "publishedOn": "2024-06-24T13:07:30.000Z",
           "wordCount": null,
           "title": "Mastering the Not Equal Operator in SQL: Syntax, Usage, and Practical Examples",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=177586",
-          "author": "Shikha Sen",
-          "description": "Introduction Stability AI created the Stable Diffusion model, one of the most sophisticated text-to-image generating systems. It uses diffusion models, a subclass of generative models that produce high-quality images based on textual descriptions by iteratively refining noisy images. Overview What is the Stable Diffusion Model? A particular kind of deep learning model called stable diffusion […]\nThe post Stable Diffusion 3: Guide to the Latest Text-to-Image Model by Stability AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/06/stable-diffusion-3/",
-          "publishedOn": "2024-06-24T11:08:29.000Z",
-          "wordCount": null,
-          "title": "Stable Diffusion 3: Guide to the Latest Text-to-Image Model by Stability AI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=177611",
-          "author": "Adil Mohammed",
-          "description": "Introduction Pydeck is a Python library that is by far the most powerful tool for creating an interactive map using Python. It works seamlessly with the PyData stack and Pandas, making it an easy-to-use option for plotting geospatial data. Pydeck is known for its feature of allowing us to create custom layers or even stack […]\nThe post Geospatial Data Visualization Using Pydeck appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/06/geospatial-data-visualization-using-pydeck/",
-          "publishedOn": "2024-06-24T10:40:45.000Z",
-          "wordCount": null,
-          "title": "Geospatial Data Visualization Using Pydeck",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=177550",
-          "author": "Abhishek Kumar",
-          "description": "Introduction Imagine a filing cabinet for data, with drawers for different categories of information. The “CREATE TABLE” statement in SQL is like building a new drawer in that cabinet. You give it a name and define how you’ll organize the information inside, like separate sections for names, dates, and amounts. SQL also lets you copy […]\nThe post Guide to SQL CREATE TABLE Statement and Table Operations appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/06/sql-create-table-statement/",
-          "publishedOn": "2024-06-24T08:07:49.000Z",
-          "wordCount": null,
-          "title": "Guide to SQL CREATE TABLE Statement and Table Operations",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=177541",
-          "author": "Mounish V",
-          "description": "Introduction Data Control Language (DCL) commands are fundamental in SQL for managing access and permissions within the database. These commands allow database administrators to regulate data access for various users, ensuring security and effective data management. This article discusses the primary DCL commands, their purposes, and practical applications. Overview Applications of DCL Commands Let’s start […]\nThe post What are SQL DCL(Data Control Language) Commands? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/06/sql-dcl-data-control-language-commands/",
-          "publishedOn": "2024-06-24T06:22:57.000Z",
-          "wordCount": null,
-          "title": "What are SQL DCL(Data Control Language) Commands?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=177495",
-          "author": "Sahitya Arya",
-          "description": "Introduction If you’ve been learning Python, I’m sure you have come across the term ‘self.’ This small word plays a big role in how Python classes work. Whenever you create a method inside a class, you use ‘self’ to refer to the instance that calls the method. This helps you access and modify the instance […]\nThe post Self in Python Class appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/06/self-in-python-class/",
-          "publishedOn": "2024-06-23T14:08:28.000Z",
-          "wordCount": null,
-          "title": "Self in Python Class",
           "itunes": {},
           "imageUrl": null
         }
