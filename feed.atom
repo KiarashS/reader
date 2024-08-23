@@ -2,10 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-08-22T01:03:05.484Z</updated>
+    <updated>2024-08-23T01:01:47.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Causal Inference under Incentives: An Annotated Reading List]]></title>
+        <id>https://blog.ml.cmu.edu/?p=19907</id>
+        <link href="https://blog.ml.cmu.edu/2024/08/22/causal-inference-under-incentives-an-annotated-reading-list/"/>
+        <updated>2024-08-23T00:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference is the process of determining whether and how a cause leads to an effect, typically using statistical methods to distinguish correlation from causation. Learning causal relationships from data is an important task across a wide variety of domains ranging from healthcare and drug development, to online advertising and e-commerce. As a result, there has been much work in the literature on economics, statistics, computer science, and public policy on designing algorithms and methodologies for causal inference. While most of the focus has been on questions which are statistical in nature, one must also take game-theoretic incentives into consideration when doing causal inference about strategic individuals who have a preference over the treatment they receive. For example, it may be hard to infer causal relationships in randomized control trials when there is non-compliance by participants in the study (i.e. when participants do not adhere to the treatment they are assigned). More generally, causal learning may be difficult whenever individuals are free to self-select their own treatments and there is sufficient heterogeneity between individuals with different preferences. Even when compliance can be enforced, individuals may strategize by modifying the attributes they present to the causal inference process in order to […]]]></summary>
+        <author>
+            <name>Keegan Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning, Part 7: Introduction to Value-Function Approximation]]></title>
+        <id>https://medium.com/p/2e22495f7008</id>
+        <link href="https://towardsdatascience.com/reinforcement-learning-part-7-introduction-to-value-function-approximation-2e22495f7008?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T21:01:04.000Z</updated>
+        <author>
+            <name>Vyacheslav Efimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does Position-Based Chunking Lead to Poor Performance in RAGs?]]></title>
+        <id>https://medium.com/p/35b7675ffafd</id>
+        <link href="https://towardsdatascience.com/semantic-chunking-for-rag-35b7675ffafd?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T20:57:03.000Z</updated>
+        <summary type="html"><![CDATA[How to implement semantic chunking and gain better results.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Data Science Leader’s Guide to Ensuring Every Project Drives Business Value]]></title>
+        <id>https://medium.com/p/ed92c6b3606c</id>
+        <link href="https://towardsdatascience.com/a-data-science-leaders-guide-to-ensuring-every-project-drives-business-value-ed92c6b3606c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T20:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from someone who manages a team of 8
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Zachary Raicik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph RAG — A conceptual introduction]]></title>
+        <id>https://medium.com/p/41cd0d431375</id>
+        <link href="https://towardsdatascience.com/graph-rag-a-conceptual-introduction-41cd0d431375?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T20:16:45.000Z</updated>
+        <author>
+            <name>Jakob Pörschmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What It Takes To Build a Great Graph]]></title>
+        <id>https://medium.com/p/79dfcb715df4</id>
+        <link href="https://towardsdatascience.com/what-it-takes-to-build-a-great-graph-79dfcb715df4?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T19:34:09.000Z</updated>
+        <author>
+            <name>Mel Richey, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Train/Fine-Tune Segment Anything 2 (SAM 2) in 60 Lines of Code]]></title>
+        <id>https://medium.com/p/928dd29a63b3</id>
+        <link href="https://towardsdatascience.com/train-fine-tune-segment-anything-2-sam-2-in-60-lines-of-code-928dd29a63b3?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T19:27:45.000Z</updated>
+        <author>
+            <name>Sagi eppel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama-3.1-Storm-8B: The 8B LLM Powerhouse Surpassing Meta and Hermes Across Benchmarks]]></title>
+        <id>https://www.analyticsvidhya.com/?p=189383</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/llama-3-1-storm-8b/"/>
+        <updated>2024-08-22T19:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In language models, where the quest for efficiency and precision is paramount, Llama 3.1 Storm 8B emerges as a notable achievement. This fine-tuned version of Meta’s Llama 3.1 8B Instruct represents a leap forward in enhancing conversational and function-calling capabilities within the 8B parameter model class. The journey to this advancement is rooted in […]
+The post Llama-3.1-Storm-8B: The 8B LLM Powerhouse Surpassing Meta and Hermes Across Benchmarks appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Badrinarayan M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Floyd-Warshall Algorithm From Graph Theory, Applied to Parsing Molecular Structures]]></title>
+        <id>https://medium.com/p/39f8c99c9fe1</id>
+        <link href="https://towardsdatascience.com/the-floyd-warshall-algorithm-from-graph-theory-applied-to-parsing-molecular-structures-39f8c99c9fe1?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T17:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Hands-on explanations assisted by simple JavaScript code
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>LucianoSphere (Luciano Abriata, PhD)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Document Extraction is GenAI’s Killer App]]></title>
+        <id>https://medium.com/p/9e9c816e6caf</id>
+        <link href="https://towardsdatascience.com/document-extraction-is-genais-killer-app-9e9c816e6caf?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T15:38:00.000Z</updated>
+        <author>
+            <name>Uri Merhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing AI Agents Using LlamaIndex]]></title>
+        <id>https://www.analyticsvidhya.com/?p=189210</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/implementing-ai-agents-using-llamaindex/"/>
+        <updated>2024-08-22T15:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Imagine having a personal assistant that not only understands your requests but also knows exactly how to execute them, whether it’s performing a quick calculation or fetching the latest stock market news. In this article, we delve into the fascinating world of AI agents, exploring how you can build your own using the LlamaIndex […]
+The post Implementing AI Agents Using LlamaIndex appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Deepak K</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Alteryx? An Introductory Guide]]></title>
+        <id>https://www.analyticsvidhya.com/?p=189035</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/what-is-alteryx/"/>
+        <updated>2024-08-22T15:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Think of yourself standing in an examination hall writing an exam paper the topic of which is a complicated mystery that requires investigation. But instead of fingers and feet, the clues are subtle and they are embedded in rows and columns of statistical figures. As it is the case with any detective, data professionals […]
+The post What is Alteryx? An Introductory Guide appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Ayushi Trivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Pictogram Graph?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=188868</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/what-is-pictogram-graph/"/>
+        <updated>2024-08-22T15:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the field of analytics and statistics where figures dominate, there is an important need to provide the way in how best to pass information to the larger community. Now this is where pictogram graphs are useful—a form of data and visual that qualifies as being easy to look at and understand rather than […]
+The post What is Pictogram Graph? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Ayushi Trivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Git?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=189175</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/how-to-install-git/"/>
+        <updated>2024-08-22T15:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Git is an essential tool for developers, streamlining project collaboration and version control. Getting Git up and running on your machine is straightforward, whether you’re on Linux, macOS, or Windows. This guide will walk you through each step, ensuring you can efficiently manage your projects. Ready to take control of your code? Let’s get […]
+The post How to Install Git? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swiggy’s Hermes: AI Solution for Seamless Data-Driven Decisions]]></title>
+        <id>https://www.analyticsvidhya.com/?p=188968</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/swiggy-hermes/"/>
+        <updated>2024-08-22T15:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In today’s data-driven world, Swiggy, a leading player in India’s food delivery industry, is transforming how its team accesses and interprets data with Hermes, a generative AI tool. Recognizing the need for timely and accurate information for informed decision-making, Swiggy developed Hermes to make data retrieval fast and accessible across the organization. Unlike many […]
+The post Swiggy’s Hermes: AI Solution for Seamless Data-Driven Decisions appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Fraud in Crowd Evaluators for LLMs?]]></title>
+        <id>https://imerit.net/?p=24099</id>
+        <link href="https://imerit.net/blog/how-to-avoid-fraud-in-crowd-evaluators-for-llms/"/>
+        <updated>2024-08-22T14:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn effective strategies to prevent fraud in expert and crowd evaluator systems, ensuring reliable evaluations and maintaining data integrity.
+The post How to Avoid Fraud in Crowd Evaluators for LLMs? appeared first on iMerit.]]></summary>
+        <author>
+            <name>Inkline Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Agents, Text Vectorization, Advanced SQL, and Other Must-Reads by Our Newest Authors]]></title>
+        <id>https://medium.com/p/3263a1bdd7eb</id>
+        <link href="https://towardsdatascience.com/llm-agents-text-vectorization-advanced-sql-and-other-must-reads-by-our-newest-authors-3263a1bdd7eb?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T13:31:49.000Z</updated>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s Your Story: Lex Story]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1067118</id>
+        <link href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/"/>
+        <updated>2024-08-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Model maker and fabricator Lex Story helps bring research to life through prototyping. He discusses his take on failure; the encouragement and advice that has supported his pursuit of art and science; and the sabbatical that might inspire his next career move. 
+The post What’s Your Story: Lex Story appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(SAMPLE) How Generative AI is Revolutionizing Software Development?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=189179</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/08/sample-how-generative-ai-is-revolutionizing-software-development/"/>
+        <updated>2024-08-22T09:25:14.000Z</updated>
+        <summary type="html"><![CDATA[(SAMPLE) How Generative AI is Revolutionizing Software Development? Introduction Welcome to the future of software development! Generative AI (GenAI) has evolved from a mere buzzword into a powerful force that is fundamentally changing how we create software. No longer limited to theoretical concepts, GenAI is now at the forefront of innovation, automating tasks, generating code, […]
+The post (SAMPLE) How Generative AI is Revolutionizing Software Development?  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Himanshi Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Required Work: Universal Basic Income and AI-Driven Prosperity]]></title>
+        <id>https://medium.com/p/df7189b371fe</id>
+        <link href="https://towardsdatascience.com/the-end-of-required-work-universal-basic-income-and-ai-driven-prosperity-df7189b371fe?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-08-22T05:40:09.000Z</updated>
+        <author>
+            <name>James F. O'Brien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fine-Tune a FLUX Model in under an hour with AI Toolkit and a DigitalOcean H100 GPU]]></title>
         <id>66ba6f6efce4a70001112df5</id>
@@ -288,6 +493,16 @@ The post How Does AI Work? appeared first on Analytics Vidhya.]]></summary>
         <summary type="html"><![CDATA[A novel method in privacy-preserving speech processing which anonymizes the speaker attributes using space-filling vector quantization]]></summary>
         <author>
             <name>Mohammad Hassan Vali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Benefits of Pixel-Based Hierarchical Policies for Task Generalization]]></title>
+        <id>pixel-hierarchies</id>
+        <link href="https://machinelearning.apple.com/research/pixel-hierarchies"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reinforcement learning practitioners often avoid hierarchical policies, especially in image-based observation spaces. Typically, the single-task performance improvement over flat-policy counterparts does not justify the additional complexity associated with implementing a hierarchy. However, by introducing multiple decision-making levels, hierarchical policies can compose lower-level policies to more effectively generalize between tasks, highlighting the need for multi-task evaluations. We analyze the benefits of hierarchy through simulated multi-task robotic control experiments from pixels…]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
         </author>
     </entry>
     <entry>
@@ -629,6 +844,16 @@ Continue reading on Towards Data Science »]]></summary>
 Continue reading on Towards Data Science »]]></summary>
         <author>
             <name>Luigi Battistoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReALM: Reference Resolution as Language Modeling]]></title>
+        <id>realm-reference</id>
+        <link href="https://machinelearning.apple.com/research/realm-reference"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reference resolution is an important problem, one that is essential to understand and successfully handle contexts of different kinds. This context includes both previous turns and context that pertains to non-conversational entities, such as entities on the user's screen or those running in the background. While LLMs have been shown to be extremely powerful for a variety of tasks, their use in reference resolution, particularly for non-conversational entities, remains underutilized. This paper demonstrates how LLMs can be used to create an effective system to resolve references of various…]]></summary>
+        <author>
+            <name>Apple Machine Learning Research</name>
         </author>
     </entry>
     <entry>
@@ -4349,201 +4574,6 @@ The post Nikhil Mishra’s Journey to Becoming a Kaggle Grandmaster appeared fir
 Introduction to Feature Matching Using Neural Networks first appeared on LearnOpenCV.]]></summary>
         <author>
             <name>Ankan Ghosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Reverse Diffusion Process?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=184146</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/reverse-diffusion-process/"/>
-        <updated>2024-07-23T11:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Stable diffusion is a powerful (generative model) tool to create high-quality images from noise. Stable diffusion consists of two steps: a forward diffusion process and a reverse diffusion process. In the forward diffusion process, noise is progressively added to an image, effectively degrading its quality. This step is crucial for training the model, as […]
-The post What is the Reverse Diffusion Process? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Badrinarayan M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial Index: Space-Filling Curves]]></title>
-        <id>https://medium.com/p/e67baec2186a</id>
-        <link href="https://towardsdatascience.com/spatial-index-space-filling-curves-e67baec2186a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-07-23T11:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Spatial Index and Space Filling Curves for Multi-dimensional data
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Adesh Nalpet Adimurthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Ephemeral to Persistence with LangChain: Building Long-Term Memory in Chatbots]]></title>
-        <id>https://medium.com/p/57637afedbe6</id>
-        <link href="https://towardsdatascience.com/from-ephemeral-to-persistence-with-langchain-building-long-term-memory-in-chatbots-57637afedbe6?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-07-23T10:34:38.000Z</updated>
-        <summary type="html"><![CDATA[A detailed walkthrough on transforming simple chatbots into sophisticated AI assistants with long-term memory and contextual understanding
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Deepsha Menghani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Computer Vision Tasks with Florence-2]]></title>
-        <id>https://www.analyticsvidhya.com/?p=183792</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/how-to-perform-computer-vision-tasks-with-florence-2/"/>
-        <updated>2024-07-23T10:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Introduction The introduction of the original transformers paved the way for the current Large Language Models. Similarly, after the introduction of the transformer model, the vision transformer (ViT) was introduced. Like the transformers which excel at understanding text and generating text given a response, vision transformer models were developed to understand images and provide information […]
-The post How to Perform Computer Vision Tasks with Florence-2 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ajay Kumar Reddy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune Large Language Models with MonsterAPI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=183960</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/how-to-fine-tune-large-language-models-with-monsterapi/"/>
-        <updated>2024-07-23T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Imagine if your virtual assistant could understand and anticipate your needs perfectly. This vision is becoming a reality with advancements in large language models (LLMs). However, to tailor these models to specific tasks, fine-tuning is essential. Think of it as sculpting a rough block into a precise masterpiece. MonsterAPI simplifies this process, making fine-tuning […]
-The post How to Fine-Tune Large Language Models with MonsterAPI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Avikumar Talaviya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PyVista for Interactive 3D Medical Visualizations]]></title>
-        <id>https://www.analyticsvidhya.com/?p=183946</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/how-to-use-pyvista-for-interactive-3d-medical-visualizations/"/>
-        <updated>2024-07-23T10:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Imagine being a medical student needing to visualize complex anatomical structures or a data scientist creating interactive 3D models. PyVista offers the precision and interactivity required to make these tasks engaging and insightful. We’ll start by exploring PyVista’s features and installation, then create stunning human anatomy visualizations, such as the brain, chest, and whole […]
-The post How to Use PyVista for Interactive 3D Medical Visualizations appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ananya Manjunath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Function Calling: Fine-Tuning Llama 3 on xLAM]]></title>
-        <id>https://medium.com/p/f9b490d4f063</id>
-        <link href="https://towardsdatascience.com/function-calling-fine-tuning-llama-3-on-xlam-f9b490d4f063?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-07-23T10:13:40.000Z</updated>
-        <summary type="html"><![CDATA[Fast and memory-efficient thanks to QLoRA
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Benjamin Marie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Olympic Games Through the Lens of Data]]></title>
-        <id>https://medium.com/p/2dadd05993fc</id>
-        <link href="https://towardsdatascience.com/summer-olympic-games-through-the-lens-of-data-2dadd05993fc?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-07-23T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Using Python and Wikipedia to draw geographical and network maps of the medal-winning countries.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Milan Janosov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a QA Model with Universal Sentence Encoder and WikiQA]]></title>
-        <id>https://www.analyticsvidhya.com/?p=183612</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/creating-a-qa-model-with-universal-sentence-encoder-and-wikiqa/"/>
-        <updated>2024-07-23T09:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In an era where information is at our fingertips, the ability to ask a question and receive a precise answer has become crucial. Imagine having a system that understands the intricacies of language and delivers accurate responses to your queries in an instant. This article explores how to build such a powerful question-answer model […]
-The post Creating a QA Model with Universal Sentence Encoder and WikiQA appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Aadya Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enterprise Use Case-Based Evaluation of LLMs]]></title>
-        <id>https://medium.com/p/abcf8292889f</id>
-        <link href="https://towardsdatascience.com/enterprise-use-case-based-evaluation-of-llms-abcf8292889f?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-07-23T09:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI evaluation strategy
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Debmalya Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Ways to Employ LangChain Text Splitters for Enhanced Data Processing]]></title>
-        <id>https://www.analyticsvidhya.com/?p=183929</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/langchain-text-splitters/"/>
-        <updated>2024-07-23T09:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In our previous article about LangChain Document Loaders, we explored how LangChain’s document loaders facilitate loading various file types and data sources into an LLM application. Can we send the data to the LLM now? Not so fast. LLMs have limits on context window size in terms of token numbers, so any data more […]
-The post 7 Ways to Employ LangChain Text Splitters for Enhanced Data Processing appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Dsanr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effortlessly Rent GPUs: A Comprehensive Tutorial on Paperspace Graph RAG with Ollama]]></title>
-        <id>6698b9278ca3910001545b7c</id>
-        <link href="https://blog.paperspace.com/effortlessly-rent-gpus-a-comprehensive-tutorial-on-paperspace-graph-rag-with-ollama/"/>
-        <updated>2024-07-23T04:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this insightful article where we'll explore the concept of Graph RAG. Additionally, we'll discover how to effortlessly run Graph RAG web UI using Paperspace. Get amazed by Graph RAG's ability to provide in-depth and varied answers, surpassing traditional RAG methods.]]></summary>
-        <author>
-            <name>Shaoni Mukherjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instance Optimal Private Density Estimation in the Wasserstein Distance]]></title>
-        <id>private-density-estimation</id>
-        <link href="https://machinelearning.apple.com/research/private-density-estimation"/>
-        <updated>2024-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Estimating the density of a distribution from samples is a fundamental problem in statistics. In many practical settings, the Wasserstein distance is an appropriate error metric for density estimation. For example, when estimating population densities in a geographic region, a small Wasserstein distance means that the estimate is able to capture roughly where the population mass is. In this work we study differentially private density estimation in the Wasserstein distance. We design and analyze instance-optimal algorithms for this problem that can adapt to easy instances.
-For distributions…]]></summary>
-        <author>
-            <name>Apple Machine Learning Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrieval-Augmented Generation on Paperspace + DigitalOcean: Help Your Models Give Their Best Answers]]></title>
-        <id>665a3cdb6b73dd000155e229</id>
-        <link href="https://blog.paperspace.com/retrieval-augmented-generation-on-paperspace-digitalocean-help-your-models-give-their-best-answers/"/>
-        <updated>2024-07-22T17:35:58.000Z</updated>
-        <summary type="html"><![CDATA[This blogpost shows how to augment a foundation Large Language Model with any webpage or PDF of your own, which effectively turns our LLMs context aware.]]></summary>
-        <author>
-            <name>Nick Ball</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run LLM Models Locally with Ollama?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=183795</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/07/local-llm-deployment-with-ollama/"/>
-        <updated>2024-07-22T16:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Running large language models (LLMs) locally can be a game-changer, whether you’re experimenting with AI or building advanced applications. But let’s be honest—setting up your environment and getting these models to run smoothly on your machine can be a real headache. Enter Ollama, the platform that makes working with open-source LLMs a breeze. Imagine […]
-The post How to Run LLM Models Locally with Ollama? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Switch from Data Analytics to Data Science – From a Big Tech Data Scientist]]></title>
-        <id>https://medium.com/p/8e2922c4f774</id>
-        <link href="https://towardsdatascience.com/how-to-switch-from-data-analytics-to-data-science-from-a-big-tech-data-scientist-8e2922c4f774?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-07-22T16:13:33.000Z</updated>
-        <summary type="html"><![CDATA[The only 5-steps roadmap you need. Your new career journey starts here!
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Khouloud El Alami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft at ICML 2024: Innovations in machine learning]]></title>
-        <id>https://www.microsoft.com/en-us/research/blog/microsoft-at-icml-2024-innovations-in-machine-learning/</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/microsoft-at-icml-2024-innovations-in-machine-learning/"/>
-        <updated>2024-07-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The competitive dynamics of AI agents and a method for learning and applying temporal action abstractions represent just some of Microsoft’s contributions to ICML 2024.
-The post Microsoft at ICML 2024: Innovations in machine learning appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Brenda Potts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 7.21.2024]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:669e6959abc44a56d19e15c0</id>
-        <link href="https://www.eye-on.ai/ai-articles/7ajkpe9pcng9rwg-bxpe5-7h2mr-96m8j-ht475-rt6x9-gntwf-t3y9c-2dpnt-gc9gb"/>
-        <updated>2024-07-22T14:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
         </author>
     </entry>
 </feed>
