@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
       "articles": [
         {
+          "id": "https://medium.com/p/4e5c96e77937",
+          "author": "Mary Ara",
+          "description": "Learn how to automate a daily data transfer process on Windows, from PostgreSQL database to a remote server\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/automating-etl-to-sftp-server-using-python-and-sql-4e5c96e77937?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-08-24T14:06:04.000Z",
+          "wordCount": null,
+          "title": "Automating ETL to SFTP Server Using Python and SQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/43a045ae4143",
+          "author": "Mike Shakhomirov",
+          "description": "Expert techniques to elevate your analysis\nContinue reading on Towards Data Science »",
+          "link": "https://towardsdatascience.com/advanced-sql-for-data-science-43a045ae4143?source=rss----7f60cf5620c9---4",
+          "publishedOn": "2024-08-24T04:54:53.000Z",
+          "wordCount": null,
+          "title": "Advanced SQL for Data Science",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/25631c6d8fcb",
           "author": "Piero Paialunga",
           "description": "Here’s everything you need to know when extracting features for Time Series analysis\nContinue reading on Towards Data Science »",
@@ -2200,116 +2220,6 @@
           "wordCount": null,
           "title": "How to Approach Complex Data Science Topics as a Beginner",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e2459ef527a8",
-          "author": "Stefan Krawczyk",
-          "description": "",
-          "link": "https://towardsdatascience.com/how-to-build-a-streaming-agent-with-burr-fastapi-and-react-e2459ef527a8?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-25T11:51:16.000Z",
-          "wordCount": null,
-          "title": "How to Build a Streaming Agent with Burr, FastAPI, and React",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9229fda09cdf",
-          "author": "Zoumana Keita",
-          "description": "You will not think about using Regular Expressions anymore.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/document-parsing-using-large-language-models-with-code-9229fda09cdf?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-25T09:37:11.000Z",
-          "wordCount": null,
-          "title": "Document Parsing Using Large Language Models — With Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2cb5c3544f1c",
-          "author": "Thomas Rouch",
-          "description": "",
-          "link": "https://towardsdatascience.com/unit-disk-and-2d-bounded-kde-2cb5c3544f1c?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-25T09:06:19.000Z",
-          "wordCount": null,
-          "title": "Unit Disk and 2D Bounded KDE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4a36436c1e66",
-          "author": "Michael Grogan",
-          "description": "Multilevel modelling allows for analysis of data that have hierarchical or clustered structures.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/multilevel-modelling-with-lme4-analysing-e-commerce-sales-4a36436c1e66?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-25T08:59:24.000Z",
-          "wordCount": null,
-          "title": "Multilevel Modelling with lme4: Analysing e-Commerce Sales",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6e3658bb8b19",
-          "author": "Ivo Bernardo",
-          "description": "Embedding ML systems into production is still a hard thing to do (for most companies)\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/organizations-machine-learning-investment-is-or-should-be-incremental-6e3658bb8b19?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-25T07:40:15.000Z",
-          "wordCount": null,
-          "title": "Organizations’ Machine Learning Investment Is (or Should Be) Incremental",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/176156f20f61",
-          "author": "Krzysztof K. Zdeb",
-          "description": "Hierarchies play a crucial role in dimensional modeling for Data Warehouses. See my recommendations on how to handle them effectively.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/handling-hierarchies-in-dimensional-modeling-176156f20f61?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-24T22:50:47.000Z",
-          "wordCount": 1115,
-          "title": "Handling Hierarchies in Dimensional Modeling",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:810/1*MwkkYIz3xkpev7qi6wqHNw.png"
-        },
-        {
-          "id": "https://medium.com/p/1e5e02e41648",
-          "author": "Carl M. Kadie",
-          "description": "",
-          "link": "https://towardsdatascience.com/nine-rust-cargo-toml-wats-and-wat-nots-1e5e02e41648?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-24T22:44:09.000Z",
-          "wordCount": null,
-          "title": "Nine Rust Cargo.toml Wats and Wat Nots",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2569f520c066",
-          "author": "Wei Yi",
-          "description": "Use the loss function of the Policy Gradient algorithm to understand REINFORCE, Actor-Critic, and Proximal Policy Optimization (PPO).\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/understand-reinforce-actor-critic-and-ppo-in-one-go-2569f520c066?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-24T21:29:54.000Z",
-          "wordCount": null,
-          "title": "Understand REINFORCE, Actor-Critic and PPO in one go",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/056d9c883f46",
-          "author": "Marco Peixeiro",
-          "description": "Discover and understand the inner workings of TimeMixer and apply it in your own forecasting project using Python\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/timemixer-exploring-the-latest-model-in-time-series-forecasting-056d9c883f46?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-24T21:12:52.000Z",
-          "wordCount": null,
-          "title": "TimeMixer: Exploring the Latest Model in Time Series Forecasting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/930ebcd9be94",
-          "author": "Maarten Grootendorst",
-          "description": "",
-          "link": "https://towardsdatascience.com/a-visual-guide-to-quantization-930ebcd9be94?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-24T20:47:37.000Z",
-          "wordCount": null,
-          "title": "A Visual Guide to Quantization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bc00ead9e540",
-          "author": "Jillian Rowe",
-          "description": "",
-          "link": "https://towardsdatascience.com/using-llms-to-query-pubmed-knowledge-bases-for-biomedical-research-bc00ead9e540?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2024-07-24T20:26:30.000Z",
-          "wordCount": null,
-          "title": "Using LLMs to Query PubMed Knowledge Bases for BioMedical Research",
-          "imageUrl": null
         }
       ]
     },
@@ -2573,26 +2483,6 @@
           "publishedOn": "2024-07-26T00:00:00.000Z",
           "wordCount": 3530,
           "title": "DataComp-LM: In Search of the Next Generation of Training Sets for Language Models",
-          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
-        },
-        {
-          "id": "dynamic-token-pruning",
-          "author": null,
-          "description": "This paper was accepted at the Efficient Systems for Foundation Models Workshop at ICML 2024\nThe inference of transformer-based large language models consists of two sequential stages: 1) a prefilling stage to compute the KV cache of prompts and generate the first token, and 2) a decoding stage to generate subsequent tokens. For long prompts, the KV cache must be computed for all tokens during the prefilling stage, which can significantly increase the time needed to generate the first token. Consequently, the prefilling stage may become a bottleneck in the generation process. An open question…",
-          "link": "https://machinelearning.apple.com/research/dynamic-token-pruning",
-          "publishedOn": "2024-07-25T00:00:00.000Z",
-          "wordCount": 1227,
-          "title": "LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference",
-          "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
-        },
-        {
-          "id": "pre-trained-foundation-model",
-          "author": null,
-          "description": "The process of human speech production involves coordinated respiratory action to elicit acoustic speech signals. Typically, speech is produced when air is forced from the lungs and is modulated by the vocal tract, where such actions are interspersed by moments of breathing in air (inhalation) to refill the lungs again. Respiratory rate (𝑅𝑅) is a vital metric that is used to assess the overall health, fitness, and general well-being of an individual. Existing approaches to measure 𝑅𝑅 (number of breaths one takes in a minute) are performed using specialized equipment or training. Studies…",
-          "link": "https://machinelearning.apple.com/research/pre-trained-foundation-model",
-          "publishedOn": "2024-07-25T00:00:00.000Z",
-          "wordCount": 1130,
-          "title": "Pre-Trained Foundation Model Representations to Uncover Breathing Patterns in Speech",
           "imageUrl": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png"
         }
       ]
@@ -3107,6 +2997,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=189595",
+          "author": "Santhosh Reddy Dandavolu",
+          "description": "Introduction In artificial intelligence, a groundbreaking development has emerged that promises to reshape the very process of scientific discovery. In collaboration with the Foerster Lab for AI Research at the University of Oxford and researchers from the University of British Columbia, Sakana AI has introduced “The AI Scientist” – a comprehensive system designed for fully […]\nThe post Sakana AI’s “AI Scientist”: The Next Einstein or Just a Tool? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2024/08/ai-scientist/",
+          "publishedOn": "2024-08-24T17:32:57.000Z",
+          "wordCount": null,
+          "title": "Sakana AI’s “AI Scientist”: The Next Einstein or Just a Tool?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=189578",
           "author": "Pankaj Singh",
@@ -4435,116 +4336,6 @@
           "publishedOn": "2024-07-25T15:40:38.000Z",
           "wordCount": null,
           "title": "Top 5 Frameworks for Building AI Agents in 2024",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184417",
-          "author": "Badrinarayan M",
-          "description": "Introduction Have you ever been captivated by stunning digital art and wondered how it’s crafted? The secret lies in something called noise schedules. Intrigued? You should be! Noise schedules play a crucial role in the steady diffusion process, dictating how noise is added and removed from data during both forward and reverse processes. This article […]\nThe post What are Noise Schedules in Stable Diffusion? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/noise-schedules-in-stable-diffusion/",
-          "publishedOn": "2024-07-25T11:48:10.000Z",
-          "wordCount": null,
-          "title": "What are Noise Schedules in Stable Diffusion?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184502",
-          "author": "Ayushi Trivedi",
-          "description": "Introduction Try to think of yourself as a student entering the first day at a new school. You are learning with enthusiasm but there are so many things which are new to you and this easily leads to the mistakes. The AI same is somewhat like that for a beginner – the world is interesting […]\nThe post Avoid These 5 Common Mistakes in AI that Every Novice Makes appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/common-mistakes-in-ai/",
-          "publishedOn": "2024-07-25T11:20:31.000Z",
-          "wordCount": null,
-          "title": "Avoid These 5 Common Mistakes in AI that Every Novice Makes",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184344",
-          "author": "atharva2122854",
-          "description": "Introduction Imagine waking up to the smell of smoke, heart racing as you ensure your family’s safety. Early detection is crucial, and “Flame Guardian,” a deep learning-powered fire detection system, aims to make a life-saving difference. This article guides you through creating this technology using CNNs and TensorFlow, from data gathering and augmentation to model […]\nThe post Flame Guardian: Developing a Deep Learning-Based Fire Detection System appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/flame-guardian/",
-          "publishedOn": "2024-07-25T11:15:12.000Z",
-          "wordCount": null,
-          "title": "Flame Guardian: Developing a Deep Learning-Based Fire Detection System",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184342",
-          "author": "Bhaskarjit Sarmah",
-          "description": "Introduction Vector databases are specialized databases that store data as high-dimensional vectors. These vectors serve as mathematical representations of features or attributes, with dimensions ranging from tens to thousands based on the complexity of the data. They are designed to manage high-dimensional data that traditional Database Management Systems (DBMS) struggle to handle effectively. Vector databases […]\nThe post A Comprehensive Guide on Indexing Algorithms in Vector Databases appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/indexing-algorithms-in-vector-databases/",
-          "publishedOn": "2024-07-25T08:57:23.000Z",
-          "wordCount": null,
-          "title": "A Comprehensive Guide on Indexing Algorithms in Vector Databases",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184349",
-          "author": "Sriniketh J",
-          "description": "Introduction Imagine that you are about to produce a Python package that has the potential to completely transform the way developers and data analysts assess their models. The trip begins with a straightforward concept: a flexible RAG evaluation tool that can manage a variety of metrics and edge circumstances. You’ll go from initializing your package […]\nThe post How to Build a RAG Evaluator Python Package with Poetry? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/how-to-build-a-rag-evaluator-python-package-with-poetry/",
-          "publishedOn": "2024-07-25T08:52:53.000Z",
-          "wordCount": null,
-          "title": "How to Build a RAG Evaluator Python Package with Poetry?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184561",
-          "author": "Nitika Sharma",
-          "description": "In this session of Leading with Data, we have the honor of hosting Dr. Geetha Manjunath, the Founder and CEO of Niramai Analytix. With a distinguished career spanning over 25 years, Dr. Geetha has made significant strides in the field of artificial intelligence and healthcare. Holding a PhD from the Indian Institute of Science and […]\nThe post From Tech Innovator to Healthcare Pioneer: Dr. Geetha Manjunath’s AI Story appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/dr-geetha-manjunaths-ai-story/",
-          "publishedOn": "2024-07-25T08:05:50.000Z",
-          "wordCount": null,
-          "title": "From Tech Innovator to Healthcare Pioneer: Dr. Geetha Manjunath’s AI Story",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184511",
-          "author": "Sahitya Arya",
-          "description": "Introduction Artificial Intelligence(AI) understands your words and senses your emotions, responding with a human touch that resonates deeply. In the rapidly advancing realm of AI and natural language processing, achieving this level of interaction has become crucial. Enter the Chain of Emotion—a groundbreaking technique that enhances AI’s ability to generate emotionally intelligent and nuanced responses. […]\nThe post What is the Chain of Emotion in Prompt Engineering? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/chain-of-emotion-in-prompt-engineering/",
-          "publishedOn": "2024-07-25T06:57:04.000Z",
-          "wordCount": null,
-          "title": "What is the Chain of Emotion in Prompt Engineering?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184275",
-          "author": "Yana Khare",
-          "description": "Introduction Today’s world is focused on data; businesses must utilize advanced AI technology to stay ahead and improve efficiency. Some instruments assist data scientists, analysts, and developers in efficiently creating, deploying, and overseeing machine learning models. This article explores some of the leading AI tools and platforms in the data science workflow. Cloud Platforms Amazon […]\nThe post 12 Best AI Tools for Data Science Workflow appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/ai-tools-for-data-science-workflow/",
-          "publishedOn": "2024-07-24T18:31:25.000Z",
-          "wordCount": null,
-          "title": "12 Best AI Tools for Data Science Workflow",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184450",
-          "author": "DJ Sarkar",
-          "description": "Introduction The year 2024 is turning out to be one of the best years in terms of progress on Generative AI. Just last week, we had Open AI launch GPT-4o mini, and just yesterday (23rd July 2024), we had Meta launch Llama 3.1, which has yet again taken the world by storm. What could be […]\nThe post Meta Llama 3.1: Latest Open-Source AI Model Takes on GPT-4o mini appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/meta-llama-3-1/",
-          "publishedOn": "2024-07-24T15:31:21.000Z",
-          "wordCount": null,
-          "title": "Meta Llama 3.1: Latest Open-Source AI Model Takes on GPT-4o mini",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=184113",
-          "author": "Ayushi Trivedi",
-          "description": "Introduction Imagine leading the charge on the data revolution, where your insights influence important business choices and spur expansion. You may believe that starting a career in this interesting field will cost a significant sum of money, but what if you could do it for nothing? This article will show you five excellent free data […]\nThe post 5 Free Data Analytics Courses to Kickstart Your Career appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2024/07/free-data-analytics-courses/",
-          "publishedOn": "2024-07-24T13:10:20.000Z",
-          "wordCount": null,
-          "title": "5 Free Data Analytics Courses to Kickstart Your Career",
           "itunes": {},
           "imageUrl": null
         }
