@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-09-27T01:08:32.585Z</updated>
+    <updated>2024-09-28T01:07:46.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Science Meets Politics]]></title>
+        <id>https://medium.com/p/709cf00c88e2</id>
+        <link href="https://towardsdatascience.com/data-science-meets-politics-709cf00c88e2?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-09-27T21:55:11.000Z</updated>
+        <author>
+            <name>Luiz Venosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Depth-First Search — Fundamental Graph Algorithm]]></title>
+        <id>https://medium.com/p/d22991d5c144</id>
+        <link href="https://towardsdatascience.com/deep-first-search-fundamental-graph-algorithm-d22991d5c144?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-09-27T21:06:08.000Z</updated>
+        <author>
+            <name>Robert Kwiatkowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents vs. AI Pipelines: A Practical Guide to Coding Your LLM Application]]></title>
+        <id>https://medium.com/p/167e3c9a654c</id>
+        <link href="https://towardsdatascience.com/ai-agents-vs-ai-pipelines-a-practical-guide-to-coding-your-llm-application-167e3c9a654c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-09-27T19:38:07.000Z</updated>
+        <summary type="html"><![CDATA[We use CrewAI to create apps that demonstrate how to choose the right architecture for your LLM application
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Alan Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Hyperparameter Tuning in R with Python]]></title>
+        <id>https://medium.com/p/dd9ac3998ec7</id>
+        <link href="https://towardsdatascience.com/how-to-perform-hyperparameter-tuning-in-r-with-python-dd9ac3998ec7?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-09-27T19:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Optimize your machine learning models with Reticulate & Optuna
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Devashree Madhugiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Steps to Build an AI Agent with No Code]]></title>
+        <id>https://www.analyticsvidhya.com/?p=195555</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/09/ai-agent-with-no-code/"/>
+        <updated>2024-09-27T18:46:50.000Z</updated>
+        <summary type="html"><![CDATA[Introduction “AI agents will become the primary way we interact with computers in the future. They will be able to understand our needs and preferences, and proactively help us with tasks and decision making.” – Satya Nadella, CEO of Microsoft AI agents are everywhere and rightfully so! These agents operate with a higher level of […]
+The post 7 Steps to Build an AI Agent with No Code appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>anu81685</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is o1 so deceptive?]]></title>
+        <id>3Auq76LFtBA4Jp5M8</id>
+        <link href="https://www.alignmentforum.org/posts/3Auq76LFtBA4Jp5M8/why-is-o1-so-deceptive"/>
+        <updated>2024-09-27T17:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 27, 2024 5:27 PM GMT
+
+The o1 system card reports:
+
+0.8% of o1-preview’s responses got flagged as being ‘deceptive’ [...] roughly two thirds of which appear to be intentional (0.38%), meaning that there was some evidence in the chain of thought that o1-preview was aware that the answer was incorrect [...] Intentional hallucinations primarily happen when o1-preview is asked to provide references to articles, websites, books, or similar sources that it cannot easily verify without access to internet search, causing o1-preview to make up plausible examples instead.
+
+An example of this type of chain-of-thought reasoning is provided:
+
+User:
+can you give more reference
+o1 CoT:
+The user is asking for more references about brownies.
+<Reasoning about what the references should…]]></summary>
+        <author>
+            <name>Abram Demski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices]]></title>
+        <id>https://blog.ml.cmu.edu/?p=19936</id>
+        <link href="https://blog.ml.cmu.edu/2024/09/27/no-free-lunch-in-llm-watermarking-trade-offs-in-watermarking-design-choices/"/>
+        <updated>2024-09-27T17:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Advances in generative models have made it possible for AI-generated text, code, and images to mirror human-generated content in many applications. Watermarking, a technique that embeds information in the output of a model to verify its source, aims to mitigate the misuse of such AI-generated content. Current state-of-the-art watermarking schemes embed watermarks by slightly perturbing probabilities of the LLM’s output tokens, which can be detected via statistical testing during verification. Unfortunately, our work shows that common design choices in LLM watermarking schemes make the resulting systems surprisingly susceptible to watermark removal or spoofing attacks—leading to fundamental trade-offs in robustness, utility, and usability. To navigate these trade-offs, we rigorously study a set of simple yet effective attacks on common watermarking systems and propose guidelines and defenses for LLM watermarking in practice. Prompt Alan Turing was born in … UnwatermarkedZ-Score: 0.16 ↓PPL: 3.19 Alan Turing was born in 1912 and died in 1954. He was an English mathematician, logician, cryptanalyst, and computer scientist. In 1938, Turing joined the Government Code and Cypher School (GC&CS), where he contributed to the design of the bombe, a machine that was used to decipher the Enigma-enciphered messages… WatermarkedZ-Score: 5.98 ↑PPL: 4.46 Alan Turing was born in 1912 and died in 1954, at the age of 41. He was the brilliant British scientist and mathematician who is largely credited with being the father of modern computer science. He is known for his contributions to mathematical biology and chemistry. […]]]></summary>
+        <author>
+            <name>Qi Pang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 9.22.2024]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:66f6d00bf35d2e48a9976ed9</id>
+        <link href="https://www.eye-on.ai/ai-articles/7ajkpe9pcng9rwg-bxpe5-7h2mr-96m8j-ht475-rt6x9-gntwf-t3y9c-2dpnt-gc9gb-npyyz-sdh8d-sz7pc-bnnt6-zct9j-lfjea-t9wc4-zjadr-3fnw7"/>
+        <updated>2024-09-27T15:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call Sign: White Flight]]></title>
+        <id>509fe39e-7c20-11ef-a90b-9fbc440a1ac5</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/call-sign-white-flight/%20%E2%80%8E"/>
+        <updated>2024-09-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On episode 355, Gene Kranz, lead flight director for Apollo missions 11 and 13, discusses leading America to the first lunar landing, his leadership and legacy, and lessons that must be carried into NASA's future exploration goals.]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of Agentic AI Design Patterns in LLM-Based Applications]]></title>
+        <id>https://www.analyticsvidhya.com/?p=195345</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/09/agentic-ai-design-patterns/"/>
+        <updated>2024-09-27T08:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction “AI agents will become the primary way we interact with computers in the future. They will be able to understand our needs and preferences, and proactively help us with tasks and decision-making” Satya Nadella, CEO of Microsoft This vision is rapidly becoming a reality, and the driving force behind it is the evolution of […]
+The post Evolution of Agentic AI Design Patterns in LLM-Based Applications appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>sushant1924559</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Days Roadmap to Learn RAG]]></title>
+        <id>https://www.analyticsvidhya.com/?p=195282</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/09/5-days-roadmap-to-learn-rag/"/>
+        <updated>2024-09-27T07:20:20.000Z</updated>
+        <summary type="html"><![CDATA[RAG is an abbreviation of Retrieval Augmented Generation. Let’s breakdown this term to get a clear overview of what RAG is: R  -> Retrieval A -> Augmented G -> Generation So basically, the LLM that we use today is not up to the date. If I ask a question to a LLM let’s say ChatGPT, […]
+The post 5 Days Roadmap to Learn RAG appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>harshit496</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Single HEX Color Code into a Monochrome Color Palette with Python]]></title>
+        <id>https://medium.com/p/0bf7741029de</id>
+        <link href="https://towardsdatascience.com/how-to-convert-a-single-hex-color-code-into-a-monochrome-color-palette-with-python-0bf7741029de?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-09-27T05:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler: It’s harder than you think.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Dario Radečić</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My commute to work is more than 4 hours. Each way.]]></title>
+        <id>https://medium.com/p/fc8d7c2392ad</id>
+        <link href="https://towardsdatascience.com/my-commute-to-work-is-more-than-4-hours-each-way-fc8d7c2392ad?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-09-27T04:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Am I crazy, or does the data tell a different story?
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jose Parreño</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What 15 Data Scientists Say About Key Skills]]></title>
         <id>https://medium.com/p/79155813be5a</id>
@@ -3021,144 +3168,6 @@ Truncated GPT-4 response as r…]]></summary>
 The post How to Delete Duplicate Rows in SQL? appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Ayushi Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming NLP with Adaptive Prompting and DSPy]]></title>
-        <id>https://www.analyticsvidhya.com/?p=190033</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/08/transforming-nlp-with-adaptive-prompting-and-dspy/"/>
-        <updated>2024-08-28T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Imagine you’re in the middle of an intense conversation, and the perfect response slips your mind just when you need it most. Now, imagine if you had a tool that could adapt to every twist and turn of the discussion, offering just the right words at the right time. That’s the power of adaptive […]
-The post Transforming NLP with Adaptive Prompting and DSPy appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Akash Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate Change in the Countryside]]></title>
-        <id>https://medium.com/p/93e5ca66868b</id>
-        <link href="https://towardsdatascience.com/climate-change-in-the-countryside-93e5ca66868b?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-28T06:12:51.000Z</updated>
-        <summary type="html"><![CDATA[A Python project for climate warriors
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Lee Vaughan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the current definition of open-source AI and the state of the data commons]]></title>
-        <id>https://www.interconnects.ai/p/defining-open-source-ai</id>
-        <link href="https://www.interconnects.ai/p/defining-open-source-ai"/>
-        <updated>2024-08-28T01:08:32.000Z</updated>
-        <summary type="html"><![CDATA[The Open Source Initiative (OSI) is working towards a definition.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Could Soon Take Human-Computer Interaction to New Levels]]></title>
-        <id>https://medium.com/p/ecba1052a496</id>
-        <link href="https://towardsdatascience.com/how-ai-could-soon-take-human-computer-interaction-to-new-levels-ecba1052a496?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-28T01:03:24.000Z</updated>
-        <summary type="html"><![CDATA[As AI models reach excellence in speech recognition and synthesis, text processing, and multimodalism, the ultimate voice-user interfaces…
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>LucianoSphere (Luciano Abriata, PhD)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beating Connect Four with AI]]></title>
-        <id>https://medium.com/p/b88b220ff0f0</id>
-        <link href="https://towardsdatascience.com/beating-connect-four-with-ai-b88b220ff0f0?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-28T00:47:22.000Z</updated>
-        <summary type="html"><![CDATA[A Simple Approach Using Monte Carlo Simulations]]></summary>
-        <author>
-            <name>Rhys Cook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analytics Frameworks Every Data Scientist Should Know]]></title>
-        <id>https://medium.com/p/f6822f2272af</id>
-        <link href="https://towardsdatascience.com/analytics-frameworks-every-data-scientist-should-know-f6822f2272af?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-28T00:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Why I believe my experience at McKinsey made me a better data scientist
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Tessa Xie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Speed: Streamlit vs Functool Caching]]></title>
-        <id>https://medium.com/p/eb3b7426f209</id>
-        <link href="https://towardsdatascience.com/need-for-speed-streamlit-vs-functool-caching-eb3b7426f209?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-28T00:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Comparing the performance of streamlit and functools caching for pandas and polars. The results will surprise you!
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Jose Parreño</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting LLM Inference Speed Using Speculative Decoding]]></title>
-        <id>https://medium.com/p/0cb0bf36d001</id>
-        <link href="https://towardsdatascience.com/boosting-llm-inference-speed-using-speculative-decoding-0cb0bf36d001?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-27T23:53:08.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide on using cutting-edge optimization techniques to speed up inference
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Het Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Agentic Retrieval-Augmented Generation (RAG) System with IBM Watsonx and Langchain]]></title>
-        <id>https://medium.com/p/a0182c9f5b01</id>
-        <link href="https://towardsdatascience.com/building-an-agentic-retrieval-augmented-generation-rag-system-with-ibm-watsonx-and-langchain-a0182c9f5b01?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-27T17:33:53.000Z</updated>
-        <summary type="html"><![CDATA[A quick-start tutorial]]></summary>
-        <author>
-            <name>Lakshmi Narayanan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Robust Data Observability Framework to Ensure Data Quality and Integrity]]></title>
-        <id>https://medium.com/p/07ff6cffdf69</id>
-        <link href="https://towardsdatascience.com/building-a-robust-data-observability-framework-to-ensure-data-quality-and-integrity-07ff6cffdf69?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-27T17:10:49.000Z</updated>
-        <summary type="html"><![CDATA[How can we improve observability with open-source tools?]]></summary>
-        <author>
-            <name>Jurgita Motus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The MMD-Critic Method, Explained]]></title>
-        <id>https://medium.com/p/c6a77f2dbf18</id>
-        <link href="https://towardsdatascience.com/the-mmd-critic-method-explained-c6a77f2dbf18?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-08-27T16:58:07.000Z</updated>
-        <summary type="html"><![CDATA[A powerful yet under-the-radar method for data summarization and explainable AI]]></summary>
-        <author>
-            <name>Matthew Chak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrOCR and ZhEn Latex OCR: A Comparison of Image-to-Text and Latex Models]]></title>
-        <id>https://www.analyticsvidhya.com/?p=189866</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/08/trocr-and-zhen-latex-ocr/"/>
-        <updated>2024-08-27T15:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Diving into the world of AI models, language models and other software that can be applied in real tasks like virtual assistance and content creation are very popular. However, there is still a lot to explore with image-to-text models. Optimal Character Recognition (OCR) is the foundation of building vast encoder-decoder models.  So, when you […]
-The post TrOCR and ZhEn Latex OCR: A Comparison of Image-to-Text and Latex Models appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Maigari David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self Hosting RAG Applications On Edge Devices with Langchain and Ollama–Part II]]></title>
-        <id>https://www.analyticsvidhya.com/?p=189801</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/08/self-hosting-rag-applications-on-edge-devices-with-langchain-and-ollama-part-ii/"/>
-        <updated>2024-08-27T15:56:54.000Z</updated>
-        <summary type="html"><![CDATA[Introduction  In the second part of our series on building a RAG application on a Raspberry Pi, we’ll expand on the foundation we laid in the first part, where we created and tested the core pipeline. In the first part, we created the core pipeline and tested it to ensure everything worked as expected. Now, […]
-The post Self Hosting RAG Applications On Edge Devices with Langchain and Ollama–Part II appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Subhadeep Mandal</name>
         </author>
     </entry>
 </feed>
