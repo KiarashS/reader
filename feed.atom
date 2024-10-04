@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-10-03T01:08:33.993Z</updated>
+    <updated>2024-10-04T01:08:25.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Architecture: Lessons Learned]]></title>
+        <id>https://medium.com/p/3589b152a8a6</id>
+        <link href="https://towardsdatascience.com/data-architecture-lessons-learned-3589b152a8a6?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-04T00:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Three important lessons I have learned on my journey as data engineer and architect
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Bernd Wessely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Architecture for Your GenAI Application]]></title>
+        <id>https://medium.com/p/6053e862c457</id>
+        <link href="https://towardsdatascience.com/how-to-choose-the-architecture-for-your-genai-application-6053e862c457?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T20:20:08.000Z</updated>
+        <author>
+            <name>Lak Lakshmanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know Before Switching to a Data Science Career in 2024]]></title>
+        <id>https://medium.com/p/9d6d623f1438</id>
+        <link href="https://towardsdatascience.com/what-you-need-to-know-before-switching-to-a-data-science-career-in-2024-9d6d623f1438?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T17:32:40.000Z</updated>
+        <summary type="html"><![CDATA[How the market has changed (and the roadmap I’d follow if I started my journey today)
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Sabrine Bendimerad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Really Owns the Airbnbs You’re Booking? — Marketing Perception vs Data Analytics Reality]]></title>
+        <id>https://medium.com/p/94407a32679c</id>
+        <link href="https://towardsdatascience.com/who-really-owns-the-airbnbs-youre-booking-marketing-perception-vs-data-analytics-reality-94407a32679c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T17:28:21.000Z</updated>
+        <author>
+            <name>Anna Gordun Peiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSV in Pandas: A How-To Guide]]></title>
+        <id>https://medium.com/p/1854b4b86c7f</id>
+        <link href="https://towardsdatascience.com/tsv-in-pandas-a-how-to-guide-1854b4b86c7f?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T17:02:24.000Z</updated>
+        <summary type="html"><![CDATA[The Correct Way of Loading and Writing TSV Files with Pandas
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Michał Marcińczuk, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMs For Healthcare: Exploring the Current Scenario]]></title>
+        <id>https://www.analyticsvidhya.com/?p=196866</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/llms-for-healthcare/"/>
+        <updated>2024-10-03T16:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In recent years, large language models (LLMs have attracted significant attention in the healthcare sector. As interest in this technology expands, health-tech companies are exploring innovative ways to integrate generative artificial intelligence (GenAI) into clinical applications. Medical LLMs are enhancing clinical workflows, streamlining patient interactions, and improving diagnostic accuracy. This article will delve into […]
+The post LLMs For Healthcare: Exploring the Current Scenario appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>abhishek9277035</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding SQL Data Type Conversion]]></title>
+        <id>https://www.analyticsvidhya.com/?p=195322</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/sql-data-type-conversion/"/>
+        <updated>2024-10-03T16:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Introduction When it comes to databases, the handling of enormous and different sorts of data is unavoidable. Think of what it would be like to try to add dates to dates or text to binary information – neither of these is easy and both of them have to be done right if the data is […]
+The post Understanding SQL Data Type Conversion appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>ayushi9821704</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Multi-Document Agentic RAG to Handle 10+ Documents with LLamaIndex]]></title>
+        <id>https://www.analyticsvidhya.com/?p=196614</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/scaling-multi-document-agentic-rag/"/>
+        <updated>2024-10-03T15:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In my previous blog post, Building Multi-Document Agentic RAG using LLamaIndex, I demonstrated how to create a retrieval-augmented generation (RAG) system that could handle and query across three documents using LLamaIndex. While that was a powerful start, real-world applications often require the ability to handle a larger corpus of documents. This blog will focus […]
+The post Scaling Multi-Document Agentic RAG to Handle 10+ Documents with LLamaIndex appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>ketan_3101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating CSV to PostgreSQL Ingestion with Airflow and Docker]]></title>
+        <id>https://www.analyticsvidhya.com/?p=196604</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/automating-csv-to-postgresql/"/>
+        <updated>2024-10-03T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Managing a data pipeline, such as transferring data from CSV to PostgreSQL, is like orchestrating a well-timed process where each step relies on the previous one. Apache Airflow streamlines this process by automating the workflow, making it easy to manage complex data tasks. In this article, we’ll build a robust data pipeline using Apache […]
+The post Automating CSV to PostgreSQL Ingestion with Airflow and Docker appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>aditya3172788</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph RAG, Automated Prompt Engineering, Agent Frameworks, and Other September Must-Reads]]></title>
+        <id>https://medium.com/p/18ae79f105a7</id>
+        <link href="https://towardsdatascience.com/graph-rag-automated-prompt-engineering-agent-frameworks-and-other-september-must-reads-18ae79f105a7?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T13:31:47.000Z</updated>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-tune LLMs to 1.58 bits?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=196709</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/fine-tune-llms-to-1-58-bits/"/>
+        <updated>2024-10-03T11:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Introduction We all know that Large Language Models are growing in size and complexity. Finding ways to reduce their computational and energy cost is getting difficult. One popular method to reduce cost is quantization. In quantization, we reduce the precision of parameters from the standard 16-bit floating point (FP16) or 32-bit floating point (FP32) to […]
+The post How to Fine-tune LLMs to 1.58 bits? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Badrinarayan M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 LLM Parameters to Enhance Model Performance (With Practical Implementation)]]></title>
+        <id>https://www.analyticsvidhya.com/?p=196611</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/llm-parameters/"/>
+        <updated>2024-10-03T09:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Let’s say you’re interacting with an AI that not only answers your questions but understands the nuances of your intent. It crafts tailored, coherent responses that almost feel human. How does this happen? Most people don’t even realize the secret lies in LLM parameters. If you’ve ever wondered how AI models like ChatGPT generate […]
+The post 7 LLM Parameters to Enhance Model Performance (With Practical Implementation) appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Imbalanced Datasets in Machine Learning Projects]]></title>
+        <id>https://medium.com/p/a95fa2cd491a</id>
+        <link href="https://towardsdatascience.com/how-to-handle-imbalanced-datasets-in-machine-learning-projects-a95fa2cd491a?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T07:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Techniques to handle imbalanced datasets, examples, and Python snippets
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jiayan Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate the Elasticity of Bids in PPC Marketing]]></title>
+        <id>https://medium.com/p/1a989c0b46cd</id>
+        <link href="https://towardsdatascience.com/how-to-calculate-the-elasticity-of-bids-in-ppc-marketing-1a989c0b46cd?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T07:26:13.000Z</updated>
+        <summary type="html"><![CDATA[Elasticity of prices is the bread and butter of econometrics. But, how can we apply elasticity to bidding?
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jose Parreño</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series — ARIMA vs. SARIMA vs. LSTM: Hands-On Tutorial]]></title>
+        <id>https://medium.com/p/bd5630298da3</id>
+        <link href="https://towardsdatascience.com/time-series-arima-vs-sarima-vs-lstm-hands-on-tutorial-bd5630298da3?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T07:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Let’s forecast the future step by step
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Farzad Nobar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Complexity Analysis of Perfect Binary Tree Traversal]]></title>
+        <id>https://medium.com/p/c2e4cccf6c97</id>
+        <link href="https://towardsdatascience.com/time-complexity-analysis-of-perfect-binary-tree-traversal-c2e4cccf6c97?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-03T06:55:09.000Z</updated>
+        <author>
+            <name>Daniel García Solla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Transformers Solve Everything?]]></title>
         <id>https://medium.com/p/0421ebaf9f8e</id>
@@ -3177,100 +3345,6 @@ Continue reading on Towards Data Science »]]></summary>
         <summary type="html"><![CDATA[Customizable R package for Graph / Network visualization]]></summary>
         <author>
             <name>Jinhwan Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handwritten Text Recognition using OCR]]></title>
-        <id>https://learnopencv.com/?p=58749</id>
-        <link href="https://learnopencv.com/handwritten-text-recognition-using-ocr/"/>
-        <updated>2024-09-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we carry out handwritten text recognition using OCR. We fine tune the TrOCR model on the GNHK dataset.
-Handwritten Text Recognition using OCR first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Sovit Rath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Civitai: Models, LoRA, and Creative Possibilities]]></title>
-        <id>https://www.analyticsvidhya.com/?p=190657</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/civitai/"/>
-        <updated>2024-09-03T09:42:56.000Z</updated>
-        <summary type="html"><![CDATA[Introduction How cool would it be if there was a platform where your creative visions come to life with just a few clicks—a world where you can fine-tune cutting-edge AI models to craft stunning images uniquely yours? Welcome to Civitai, a vibrant platform dedicated to empowering creators by providing access to a vast and ever-growing […]
-The post Exploring Civitai: Models, LoRA, and Creative Possibilities appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>mounish12439</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training AI Models on CPU]]></title>
-        <id>https://medium.com/p/3903adc9f388</id>
-        <link href="https://towardsdatascience.com/training-ai-models-on-cpu-3903adc9f388?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-02T15:15:39.000Z</updated>
-        <author>
-            <name>Chaim Rand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve LLM Responses With Better Sampling Parameters]]></title>
-        <id>https://medium.com/p/b31a348381f7</id>
-        <link href="https://towardsdatascience.com/how-to-improve-llm-responses-with-better-sampling-parameters-b31a348381f7?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-02T15:06:31.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into stochastic decoding with temperature, top_p, top_k, and min_p
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Dr. Leon Eversberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encoding Categorical Data, Explained: A Visual Guide with Code Example for Beginners]]></title>
-        <id>https://medium.com/p/b169ac4193ae</id>
-        <link href="https://towardsdatascience.com/encoding-categorical-data-explained-a-visual-guide-with-code-example-for-beginners-b169ac4193ae?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-02T15:03:59.000Z</updated>
-        <author>
-            <name>Samy Baladram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Easy Way to Remove Tourists from Photos]]></title>
-        <id>https://medium.com/p/8cf18e1c569d</id>
-        <link href="https://towardsdatascience.com/an-easy-way-to-remove-tourists-from-photos-8cf18e1c569d?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-02T15:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Image cleanup with Python, PIL, and OpenCV
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Lee Vaughan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tips To Make Your Resume *Really* Stand Out in FAANG Applications]]></title>
-        <id>https://medium.com/p/853c87cc7d90</id>
-        <link href="https://towardsdatascience.com/5-tips-to-make-your-resume-really-stand-out-in-faang-applications-853c87cc7d90?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-02T14:50:15.000Z</updated>
-        <summary type="html"><![CDATA[How to Make Recruiters Say ‘WOW!’ in Just 6 Seconds
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Khouloud El Alami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematics of love Optimizing a Dining-Room-Seating Arrangement for Weddings with Python]]></title>
-        <id>https://medium.com/p/f9c57cc5c2ce</id>
-        <link href="https://towardsdatascience.com/mathematics-of-love-optimizing-a-dining-room-seating-arrangement-for-weddings-with-python-f9c57cc5c2ce?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-02T14:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Solving the Restricted Quadratic Multi-Knapsack Problem (RQMKP) with mathematical programming and Python
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Luis Fernando PÉREZ ARMAS, Ph.D.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 9.1.2024]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:66d5bc2e0e655f3c921b21a4</id>
-        <link href="https://www.eye-on.ai/ai-articles/7ajkpe9pcng9rwg-bxpe5-7h2mr-96m8j-ht475-rt6x9-gntwf-t3y9c-2dpnt-gc9gb-npyyz-sdh8d-sz7pc-bnnt6-zct9j-lfjea"/>
-        <updated>2024-09-02T13:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
         </author>
     </entry>
 </feed>
