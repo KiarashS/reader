@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-10-12T01:06:48.347Z</updated>
+    <updated>2024-10-13T01:13:10.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Python pop() Method]]></title>
+        <id>https://www.analyticsvidhya.com/?p=198130</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/understanding-python-pop-method/"/>
+        <updated>2024-10-12T18:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Ever wanted to remove an item from a list but not just any item, specifically the one at a certain index? Enter Python pop() method. This built-in function helps you achieve exactly that. It removes an element from a list based on its index and, most importantly, returns the removed element, giving you control […]
+The post Understanding Python pop() Method appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Ayushi Trivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Agentic Chatbots Using AutoGen]]></title>
+        <id>https://www.analyticsvidhya.com/?p=198476</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/building-agentic-chatbots-using-autogen/"/>
+        <updated>2024-10-12T17:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Chatbots have transformed the way we engage with technology, enabling automated, intelligent conversations across various domains. Building these chat systems can be challenging, especially when aiming for flexibility and scalability. AutoGen simplifies this process by leveraging AI agents, which handle complex dialogues and tasks autonomously. In this article, we’ll explore how to build agentic […]
+The post Building Agentic Chatbots Using AutoGen appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Santhosh Reddy Dandavolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19 Free Data Science Courses by Harvard and IBM]]></title>
+        <id>https://www.analyticsvidhya.com/?p=198189</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/19-free-data-science-courses-by-harvard-and-ibm/"/>
+        <updated>2024-10-12T17:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Data science is a rapidly growing tech field that’s transforming business decision-making. To break into this field, you need the right skills. Fortunately, top institutions like Harvard and IBM offer free online courses. These courses cover everything from basic programming to advanced machine learning. In this article, we’ve listed some of the best free […]
+The post 19 Free Data Science Courses by Harvard and IBM appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Aayush Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM vs LLM: Codenames Tournament]]></title>
+        <id>https://medium.com/p/f8170dd1c8fb</id>
+        <link href="https://towardsdatascience.com/llm-vs-llm-codenames-tournament-f8170dd1c8fb?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-12T15:01:54.000Z</updated>
+        <summary type="html"><![CDATA[A mini multi-agent competition among 3 different LLM agents
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Yennie Jun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAE features for refusal and sycophancy steering vectors]]></title>
+        <id>k8bBx4HcTF9iyikma</id>
+        <link href="https://www.alignmentforum.org/posts/k8bBx4HcTF9iyikma/sae-features-for-refusal-and-sycophancy-steering-vectors"/>
+        <updated>2024-10-12T14:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Published on October 12, 2024 2:54 PM GMT
+
+TL;DR
+
+Steering vectors provide evidence that linear directions in LLMs are interpretable. Since SAEs decompose linear directions, they should be able to interpret steering vectors.
+We apply the gradient pursuit algorithm suggested by Smith et al to decompose steering vectors, and find that they contain many interpretable and promising-looking features. This builds off our prior work, which applies ITO and derivatives to steering vectors with less success.
+Notably, we find several abstract features in Phi-3 Mini for refusal and steer with linear combinations of these features. We find interesting features when decomposing sycophancy steering vectors and apply the same technique to MELBO vectors with mixed success (an unsupervised technique that fi…]]></summary>
+        <author>
+            <name>neverix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the 2024 Nobel Prize in (AI for) Chemistry Matters So Much]]></title>
+        <id>https://medium.com/p/a06126cb5ca3</id>
+        <link href="https://towardsdatascience.com/why-the-2024-nobel-prize-in-ai-for-chemistry-matters-so-much-a06126cb5ca3?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-12T12:01:53.000Z</updated>
+        <summary type="html"><![CDATA[To Demis Hassabis and John Jumper, from DeepMind, and to David Baker, leader of the Institute for Protein Design
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>LucianoSphere (Luciano Abriata, PhD)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My theory of change for working in AI healthtech]]></title>
         <id>Kobbt3nQgv3yn29pr</id>
@@ -3835,38 +3906,6 @@ Ethan Mollick (>200k fol…]]></summary>
 The post Research Focus: Week of September 9, 2024 appeared first on Microsoft Research.]]></summary>
         <author>
             <name>Brenda Potts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating The Pace Of HD Map Production With Human-In-The-Loop]]></title>
-        <id>https://imerit.net/?p=24154</id>
-        <link href="https://imerit.net/blog/accelerating-the-pace-of-hd-map-production-with-human-in-the-loop/"/>
-        <updated>2024-09-12T09:05:41.000Z</updated>
-        <summary type="html"><![CDATA[How does the human-in-the-loop approach accelerate HD map production for autonomous vehicles? Explore the role of human expertise in improving the accuracy, quality, and efficiency of HD mapping, overcoming challenges faced by automated systems, and driving innovation in self-driving technology.
-The post Accelerating The Pace Of HD Map Production With Human-In-The-Loop appeared first on iMerit.]]></summary>
-        <author>
-            <name>Katakam Sree Harshita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role Of Human Feedback In Improving LLM Precision]]></title>
-        <id>https://imerit.net/?p=24139</id>
-        <link href="https://imerit.net/blog/the-role-of-human-feedback-in-improving-llm-precision/"/>
-        <updated>2024-09-11T20:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Human-centered strategies improve accuracy, ethics, and reliability in AI systems, bridging the gap between computational power and nuanced human communication. Explore the critical role of human judgment in refining AI and LLMs and the importance of evaluator perspectives in creating trustworthy AI.
-The post The Role Of Human Feedback In Improving LLM Precision appeared first on iMerit.]]></summary>
-        <author>
-            <name>Katakam Sree Harshita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futures of the data foundry business model]]></title>
-        <id>https://www.interconnects.ai/p/futures-of-the-data-foundry-business-70d</id>
-        <link href="https://www.interconnects.ai/p/futures-of-the-data-foundry-business-70d"/>
-        <updated>2024-09-11T14:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Scale AI's future versus further scaling of language model performance.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
         </author>
     </entry>
 </feed>
