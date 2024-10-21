@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-10-20T01:14:31.968Z</updated>
+    <updated>2024-10-21T01:08:21.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Model Retraining Strategies]]></title>
+        <id>https://medium.com/p/9c337d95409a</id>
+        <link href="https://towardsdatascience.com/evaluating-model-retraining-strategies-9c337d95409a?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-20T17:01:37.000Z</updated>
+        <author>
+            <name>Reinhard Sellmair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETL Pipelines in Python: Best Practices and Techniques]]></title>
+        <id>https://medium.com/p/0c148452cc68</id>
+        <link href="https://towardsdatascience.com/etl-pipelines-in-python-best-practices-and-techniques-0c148452cc68?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-20T14:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Strategies for Enhancing Generalizability, Scalability, and Maintainability in Your ETL Pipelines
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Robin von Malottki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Explainability Matters in AI]]></title>
+        <id>https://medium.com/p/840144df418e</id>
+        <link href="https://towardsdatascience.com/why-explainability-matters-in-ai-840144df418e?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-20T11:01:48.000Z</updated>
+        <author>
+            <name>Uri Merhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structuring Inputs and Outputs in Multi-agent systems Using CrewAI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=200714</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/structuring-inputs-and-outputs-in-multi-agent-systems/"/>
+        <updated>2024-10-20T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to enhance the performance of your agent-based systems? One of the most effective strategies is to structure both the inputs and intermediate outputs shared between agents. In this article, we’ll explore how to organize inputs, manage placeholders for passing data, and structure outputs to ensure that each agent delivers the desired results. Let’s start […]
+The post Structuring Inputs and Outputs in Multi-agent systems Using CrewAI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Mounish V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Face Parsing: A Deep Dive into Semantic Segmentation Technology]]></title>
+        <id>https://www.analyticsvidhya.com/?p=200438</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/understanding-face-parsing/"/>
+        <updated>2024-10-20T06:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Image segmentation has become a popular technology, with different fine-tuned models available for various purposes. The model labels every pixel in an image by streaming every region of the input image; this concept makes the idea of semantic segmentation into reality and application.  This Face parsing model is a semantic segmentation technology fine-tuned from Nvidia’s […]
+The post Understanding Face Parsing: A Deep Dive into Semantic Segmentation Technology appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Maigari David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OpenAI Swarm Enhances Multi-Agent Collaboration?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=200694</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/openai-swarm/"/>
+        <updated>2024-10-20T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s Swarm framework is designed to create a user-friendly and flexible environment for coordinating multiple agents. While it’s primarily intended for educational and experimental use, OpenAI advises against using Swarm in production settings, but it is a framework worth exploring. Its core purpose is to demonstrate the concepts of “handoffs” and “routines,” patterns that help […]
+The post How OpenAI Swarm Enhances Multi-Agent Collaboration? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Badrinarayan M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Simple LLM Application with LCEL?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=200633</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/llm-application-with-lcel/"/>
+        <updated>2024-10-20T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how to build a multilingual application that can effortlessly translate text from English to other languages? Imagine creating your very own translation tool, leveraging the power of LangChain to handle the heavy lifting. In this article, we will learn how to build a basic application using LangChain to translate text from […]
+The post How to Build a Simple LLM Application with LCEL? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visualization of Data with Pie Charts in Matplotlib]]></title>
         <id>https://medium.com/p/024ed64edca1</id>
@@ -4258,187 +4331,6 @@ The post What is PaperQA and How Does it Assist in Scientific Research? appeared
         <summary type="html"><![CDATA[On episode 354, NASA astronaut Nick Hague and Roscosmos cosmonaut Aleksandr Gorbunov of discuss their mission, personal life, and preparation ahead of their launch to the station.]]></summary>
         <author>
             <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering t-SNE: A Comprehensive Guide to Understanding and Implementation in Python]]></title>
-        <id>https://medium.com/p/480929bfe6f4</id>
-        <link href="https://towardsdatascience.com/mastering-t-sne-a-comprehensive-guide-to-understanding-and-implementation-in-python-480929bfe6f4?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-20T12:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the power of t-SNE for visualizing high-dimensional data, with a step-by-step Python implementation and in-depth explanations.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Niklas Lang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DataGemma: Grounding LLMs Against Hallucinations]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193612</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/datagemma/"/>
-        <updated>2024-09-20T10:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Large Language Models are rapidly transforming industries—today, they power everything from personalized customer service in banking to real-time language translation in global communication. They can answer questions in natural language, summarize information, write essays, generate code, and much more, making them invaluable tools in today’s world. But despite their many advantages, they suffer from a […]
-The post DataGemma: Grounding LLMs Against Hallucinations appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>aditi3807991</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linguistic Bias in ChatGPT: Language Models Reinforce Dialect Discrimination]]></title>
-        <id>http://bair.berkeley.edu/blog/2024/09/20/linguistic-bias/</id>
-        <link href="http://bair.berkeley.edu/blog/2024/09/20/linguistic-bias/"/>
-        <updated>2024-09-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sample language model responses to different varieties of English and native speaker reactions.
-
-
-ChatGPT does amazingly well at communicating with people in English. But whose English?
-Only 15% of ChatGPT users are from the US, where Standard American English is the default. But the model is also commonly used in countries and communities where people speak other varieties of English. Over 1 billion people around the world speak varieties such as Indian English, Nigerian English, Irish English, and African-American English.
-Speakers of these non-“standard” varieties often face discrimination in the real world. They’ve been told that the way they speak is unprofessional or incorrect, discredited as witnesses, and denied housing–despite extensive research indicating that all language variet…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rohan Rao’s Framework for Selecting the Right LLMs for Business Needs!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193905</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/rohan-rao/"/>
-        <updated>2024-09-20T07:55:20.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Leading with Data, we dive into the fascinating world of data science with Rohan Rao, a Quadruple Kaggle Grandmaster and expert in machine learning solutions. Rohan shares insights on strategic partnerships, the evolution of data tools, and the future of large language models, shedding light on the challenges and innovations shaping […]
-The post Rohan Rao’s Framework for Selecting the Right LLMs for Business Needs! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL: Mastering Data Engineering Essentials (Part. I)]]></title>
-        <id>https://medium.com/p/693d683c5b54</id>
-        <link href="https://towardsdatascience.com/sql-mastering-data-engineering-essentials-part-i-693d683c5b54?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-20T00:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Unlocking the power of SQL for data-driven decision-making
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Leonardo Anello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Through the Uncanny Mirror: Do LLMs Remember Like the Human Mind?]]></title>
-        <id>https://medium.com/p/cc9c63677610</id>
-        <link href="https://towardsdatascience.com/through-the-uncanny-mirror-do-llms-remember-like-the-human-mind-cc9c63677610?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T23:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the Eerie Parallels and Profound Differences Between AI and Human Memory
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Salvatore Raieli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Code Quality with Array and DataFrame Type Hints]]></title>
-        <id>https://medium.com/p/cac0fb75cc11</id>
-        <link href="https://towardsdatascience.com/improving-code-quality-with-array-and-dataframe-type-hints-cac0fb75cc11?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T19:37:42.000Z</updated>
-        <author>
-            <name>Christopher Ariza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shared Nearest Neighbors: A More Robust Distance Metric]]></title>
-        <id>https://medium.com/p/064d7f99ffb7</id>
-        <link href="https://towardsdatascience.com/shared-nearest-neighbors-a-more-robust-distance-metric-064d7f99ffb7?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T19:19:51.000Z</updated>
-        <author>
-            <name>W Brett Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdEMAMix: A Deep Dive into a New Optimizer for Your Deep Neural Network]]></title>
-        <id>https://medium.com/p/6168e2c1da35</id>
-        <link href="https://towardsdatascience.com/ademamix-a-deep-dive-into-a-new-optimizer-for-your-deep-neural-network-6168e2c1da35?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T19:10:17.000Z</updated>
-        <summary type="html"><![CDATA[A better and faster option than the ADAM optimizer, from Apple Research
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Saptashwa Bhattacharyya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of Text to Video Models]]></title>
-        <id>https://medium.com/p/1577878043bd</id>
-        <link href="https://towardsdatascience.com/the-evolution-of-text-to-video-models-1577878043bd?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T19:04:03.000Z</updated>
-        <author>
-            <name>Avishek Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI o1: Is This the Enigmatic Force That Will Reshape Every Knowledge Sector We Know?]]></title>
-        <id>https://medium.com/p/99396d641fff</id>
-        <link href="https://towardsdatascience.com/openai-o1-the-enigmatic-force-that-will-reshape-every-knowledge-sector-that-we-know-of-or-99396d641fff?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T17:01:27.000Z</updated>
-        <author>
-            <name>Abhinav Prasad Yasaswi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polars + NVIDIA GPU Tutorial]]></title>
-        <id>https://medium.com/p/483b83d7f899</id>
-        <link href="https://towardsdatascience.com/polars-nvidia-gpu-tutorial-483b83d7f899?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T16:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Using Polars with NVIDIA GPU can speed up your data pipelines
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Ivo Bernardo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to Building Multimodal RAG Systems]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193388</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/"/>
-        <updated>2024-09-19T15:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Retrieval Augmented Generation systems, better known as RAG systems, have become the de-facto standard for building intelligent AI assistants answering questions on custom enterprise data without the hassles of expensive fine-tuning of large language models (LLMs). One of the key advantages of RAG systems is you can easily integrate your own data and augment […]
-The post A Comprehensive Guide to Building Multimodal RAG Systems appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Dipanjan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s o1-preview vs o1-mini: A Step Forward to AGI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193688</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/o1-preview-vs-o1-mini/"/>
-        <updated>2024-09-19T15:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Introduction On September 12th, OpenAI released an update titled “Learning to Reason with LLMs.” They introduced the o1 model, which is trained using reinforcement learning to tackle complex reasoning tasks. What sets this model apart is its ability to think before it answers. It generates a lengthy internal chain of thought before responding, allowing for […]
-The post OpenAI’s o1-preview vs o1-mini: A Step Forward to AGI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj9786</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100-Day GenAI Implementation Plan for Enterprises]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193741</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/generative-ai-for-enterprises/"/>
-        <updated>2024-09-19T15:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Adopting generative AI can be a transformative journey for any company. However, the process of GenAI implementation can often be cumbersome and confusing. Rajendra Singh Pawar, chairman and co-founder of NIIT Limited, joined us at the DataHack Summit 2024, to share some valuable insights into how enterprises can implement GenAI. He has formulated a […]
-The post 100-Day GenAI Implementation Plan for Enterprises appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sabreena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Role of Generative AI in Personalizing Ad Content?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193001</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/generative-ai-for-ad-personalization/"/>
-        <updated>2024-09-19T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction The world of advertisement has been under evolution since the conception of the barter system. Advertisers have found creative ways to bring their products to our attention. In the current age, consumers expect brands to understand their unique preferences, needs, and desires. With GenAI solutions, advertisers can engage users and drive business outcomes by […]
-The post What is the Role of Generative AI in Personalizing Ad Content? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sagar Ganapaneni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Roadmap for a Successful Data Science Career]]></title>
-        <id>https://medium.com/p/c0369ee58eda</id>
-        <link href="https://towardsdatascience.com/how-to-build-your-own-roadmap-for-a-successful-data-science-career-c0369ee58eda?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-19T13:32:01.000Z</updated>
-        <author>
-            <name>TDS Editors</name>
         </author>
     </entry>
 </feed>
