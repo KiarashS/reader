@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-10-27T01:13:44.146Z</updated>
+    <updated>2024-10-28T01:12:02.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Source Replication of Anthropic’s Crosscoder paper for model-diffing]]></title>
+        <id>srt6JXsRMtmqAJavD</id>
+        <link href="https://www.alignmentforum.org/posts/srt6JXsRMtmqAJavD/open-source-replication-of-anthropic-s-crosscoder-paper-for"/>
+        <updated>2024-10-27T18:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Published on October 27, 2024 6:46 PM GMT
+
+Intro
+Anthropic recently released an exciting mini-paper on crosscoders (Lindsey et al.). In this post, we open source a model-diffing crosscoder trained on the middle layer residual stream of the Gemma-2 2B base and IT models, along with code, implementation details / tips, and a replication of the core results in Anthropic’s paper.
+While Anthropic highlights several potential applications of crosscoders, in this post we focus solely on “model-diffing”. That is, localizing and interpreting a small “diff” between two different models. We think this is a particularly exciting application, because it can let us examine what changed as a model was fine-tuned, which seems likely to capture most safety-relevant circuitry, while leaving out many less re…]]></summary>
+        <author>
+            <name>Connor Kissane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Negotiate Your Salary as a Data Scientist]]></title>
+        <id>https://medium.com/p/4c6ce176b2a5</id>
+        <link href="https://towardsdatascience.com/how-to-negotiate-your-salary-as-a-data-scientist-4c6ce176b2a5?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-27T16:02:10.000Z</updated>
+        <summary type="html"><![CDATA[And how much I made my first year
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Haden Pelletier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Productivity Paradox: Why Aren’t More Workers Using ChatGPT?]]></title>
+        <id>https://medium.com/p/a1dfe96a9460</id>
+        <link href="https://towardsdatascience.com/the-ai-productivity-paradox-why-arent-more-workers-using-chatgpt-a1dfe96a9460?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-27T13:02:12.000Z</updated>
+        <author>
+            <name>Julia Winn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video lectures on the learning-theoretic agenda]]></title>
+        <id>NWKk2eQwfuGzRXusJ</id>
+        <link href="https://www.alignmentforum.org/posts/NWKk2eQwfuGzRXusJ/video-lectures-on-the-learning-theoretic-agenda"/>
+        <updated>2024-10-27T12:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Published on October 27, 2024 12:01 PM GMT
+
+This is a YouTube playlist of recorded lectures on the learning-theoretic AI alignment agenda (LTA) I gave for my MATS scholars of the Winter 2024 cohort, edited by my beloved spouse @Marcus Ogren. H/t William Brewer for helping with the recording, and the rest of the MATS team for making this possible.
+I hope these will become a useful resource for anyone who wants to get up to speed on the LTA, complementary to the reading list. Notable topics that aren't covered include metacognitive agents (although there is an older recorded talk on that) and infra-Bayesian physicalism. In the future, I might record more lectures to expand this playlist.
+EDIT: I know the audio quality is bad, and I apologize. I will try to do better next time.
+Table of Contents
+
+Agents and AIXI
+Hidden rewards and the problem of privilege
+Compositionality
+Nonrealizability
+It's a trap!
+Traps, continued
+Traps and frequentist guarantees
+Game theory and learning theory
+Hidden rewards
+Algorithmic Descriptive Agency Measure (ADAM)
+General reinforcement learning
+Infra-Bayesianism
+Learnability
+Infra-Bandits
+Newcombian problems
+Ultradistributions and semi-environments
+Formalizing Newcombian problems
+Pseudocausality and a general formulation of Newcombian problems
+Decision rules and pseudocausality
+Instrumental reward functions
+Infra-Bayesian haggling, part 1
+Infra-Bayesian haggling, part 2
+Anytime algorithms in multi-agent settings
+Bounded inductive rationality
+
+Discuss]]></summary>
+        <author>
+            <name>Vanessa Kosoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice and Staff Separation in Symbolic Piano Music with GNNs]]></title>
+        <id>https://medium.com/p/0cab100629cf</id>
+        <link href="https://towardsdatascience.com/voice-and-staff-separation-in-symbolic-piano-music-with-gnns-0cab100629cf?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-10-27T11:02:10.000Z</updated>
+        <author>
+            <name>Emmanouil Karystinaios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Virtual Try-On Chatbot on WhatsApp with Flask, Twilio, and Gradio API]]></title>
+        <id>https://www.analyticsvidhya.com/?p=201853</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/10/virtual-try-on-chatbot-on-whatsapp/"/>
+        <updated>2024-10-27T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s age of rapid technological advancements, virtual try-on chatbot are revolutionizing how users experience shopping by allowing them to “try on” garments before making a purchase. This article will walk you through a virtual try-on prototype built using Flask, Twilio’s WhatsApp API, and Hugging Face’s Gradio API, which enables users to send photos via WhatsApp and […]
+The post Building a Virtual Try-On Chatbot on WhatsApp with Flask, Twilio, and Gradio API appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Adarsh Balan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gen-AI Safety Landscape: A Guide to the Mitigation Stack for Text-to-Image Models]]></title>
         <id>https://medium.com/p/0848eb613ce5</id>
@@ -4280,197 +4376,6 @@ The user is asking for more references about brownies.
         <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
         <author>
             <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Sign: White Flight]]></title>
-        <id>509fe39e-7c20-11ef-a90b-9fbc440a1ac5</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/call-sign-white-flight/%20%E2%80%8E"/>
-        <updated>2024-09-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On episode 355, Gene Kranz, lead flight director for Apollo missions 11 and 13, discusses leading America to the first lunar landing, his leadership and legacy, and lessons that must be carried into NASA's future exploration goals.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution of Agentic AI Design Patterns in LLM-Based Applications]]></title>
-        <id>https://www.analyticsvidhya.com/?p=195345</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/agentic-ai-design-patterns/"/>
-        <updated>2024-09-27T08:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Introduction “AI agents will become the primary way we interact with computers in the future. They will be able to understand our needs and preferences, and proactively help us with tasks and decision-making” Satya Nadella, CEO of Microsoft This vision is rapidly becoming a reality, and the driving force behind it is the evolution of […]
-The post Evolution of Agentic AI Design Patterns in LLM-Based Applications appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>sushant1924559</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Days Roadmap to Learn RAG]]></title>
-        <id>https://www.analyticsvidhya.com/?p=195282</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/5-days-roadmap-to-learn-rag/"/>
-        <updated>2024-09-27T07:20:20.000Z</updated>
-        <summary type="html"><![CDATA[RAG is an abbreviation of Retrieval Augmented Generation. Let’s breakdown this term to get a clear overview of what RAG is: R  -> Retrieval A -> Augmented G -> Generation So basically, the LLM that we use today is not up to the date. If I ask a question to a LLM let’s say ChatGPT, […]
-The post 5 Days Roadmap to Learn RAG appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>harshit496</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a Single HEX Color Code into a Monochrome Color Palette with Python]]></title>
-        <id>https://medium.com/p/0bf7741029de</id>
-        <link href="https://towardsdatascience.com/how-to-convert-a-single-hex-color-code-into-a-monochrome-color-palette-with-python-0bf7741029de?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-27T05:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler: It’s harder than you think.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Dario Radečić</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My commute to work is more than 4 hours. Each way.]]></title>
-        <id>https://medium.com/p/fc8d7c2392ad</id>
-        <link href="https://towardsdatascience.com/my-commute-to-work-is-more-than-4-hours-each-way-fc8d7c2392ad?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-27T04:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Am I crazy, or does the data tell a different story?
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Jose Parreño</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What 15 Data Scientists Say About Key Skills]]></title>
-        <id>https://medium.com/p/79155813be5a</id>
-        <link href="https://towardsdatascience.com/what-15-data-scientists-say-about-key-skills-79155813be5a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T23:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Going over the main skills you need to be a “good” data scientist
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Data Scientist’s Guide to Stakeholders]]></title>
-        <id>https://medium.com/p/ed81b573e6be</id>
-        <link href="https://towardsdatascience.com/a-data-scientists-guide-to-stakeholders-ed81b573e6be?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T23:29:01.000Z</updated>
-        <summary type="html"><![CDATA[How data scientists can best communicate with non-DS people
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Haden Pelletier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Marketing Mix Modelling In Python]]></title>
-        <id>https://medium.com/p/7bbfe31360f9</id>
-        <link href="https://towardsdatascience.com/mastering-marketing-mix-modelling-in-python-7bbfe31360f9?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T23:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Part 1 of a hands-on guide to help you master MMM in pymc]]></summary>
-        <author>
-            <name>Ryan O'Sullivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Named Entity Disambiguation with Graph Embeddings]]></title>
-        <id>https://medium.com/p/ef164aaad37c</id>
-        <link href="https://towardsdatascience.com/towards-named-entity-disambiguation-with-graph-embeddings-ef164aaad37c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T19:28:33.000Z</updated>
-        <summary type="html"><![CDATA[How to distill knowledge from biomedical text combining pre-trained language models with graph machine learning
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Giuseppe Futia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pareto Principle in Data Engineering]]></title>
-        <id>https://medium.com/p/93e7129d9630</id>
-        <link href="https://towardsdatascience.com/the-pareto-principle-in-data-engineering-93e7129d9630?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T19:23:09.000Z</updated>
-        <summary type="html"><![CDATA[One step forward; no steps back
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Hugo Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Tokenization: Breaking Down Text for AI]]></title>
-        <id>https://medium.com/p/43c7bccaed25</id>
-        <link href="https://towardsdatascience.com/the-art-of-tokenization-breaking-down-text-for-ai-43c7bccaed25?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T17:08:21.000Z</updated>
-        <author>
-            <name>Murilo Gustineli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling NULL Values in SQL]]></title>
-        <id>https://www.analyticsvidhya.com/?p=194830</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/handling-null-values-in-sql/"/>
-        <updated>2024-09-26T17:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In the world of databases, NULL values can often feel like the proverbial black sheep. They represent missing, undefined, or unknown data, and can pose unique challenges in data management and analysis. Imagine you’re analyzing a sales database, and some entries lack customer feedback or order quantities. Understanding how to effectively handle NULL values […]
-The post Handling NULL Values in SQL appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>ayushi9821704</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Your Own Meal Planner Using ChatGPT]]></title>
-        <id>https://medium.com/p/1dc4dfe3af7e</id>
-        <link href="https://towardsdatascience.com/create-your-own-meal-planner-using-chatgpt-1dc4dfe3af7e?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T16:58:44.000Z</updated>
-        <summary type="html"><![CDATA[A brief guide to prompt engineering]]></summary>
-        <author>
-            <name>Corné de Ruijt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reinforcement Learning from Human Feedback (RLHF) for LLMs]]></title>
-        <id>https://medium.com/p/9cd1288c9a50</id>
-        <link href="https://towardsdatascience.com/reinforcement-learning-from-human-feedback-rlhf-for-llms-9cd1288c9a50?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T16:50:47.000Z</updated>
-        <summary type="html"><![CDATA[An ultimate guide to the crucial technique behind Large Language Models
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Michał Oleszak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Language Models for Your Team’s Everyday Tasks]]></title>
-        <id>https://www.analyticsvidhya.com/?p=195241</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/small-language-models-for-teams/"/>
-        <updated>2024-09-26T16:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Just imagine you need to take a glass of water from your kitchen. You could design a complex robot to bring you a glass of water—  wait! That would be too much. What would you do instead? You would simply use your hands–it’s easier and more efficient. Similar to how you would prefer using […]
-The post Small Language Models for Your Team’s Everyday Tasks appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>diksha2822617</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End-to-End Machine Learning Course Project]]></title>
-        <id>https://www.freecodecamp.org/news/end-to-end-machine-learning-course-project/</id>
-        <link href="https://www.freecodecamp.org/news/end-to-end-machine-learning-course-project/"/>
-        <updated>2024-09-26T15:42:40.000Z</updated>
-        <summary type="html"><![CDATA[If you want to improve your skills in machine learning and MLOps, we have a great course for you. We just posted a comprehensive End-to-End Machine Learning course on the freeCodeCamp.org YouTube channel. It is designed to equip you with both foundat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Close Look at AI Pain Points, and How to (Sometimes) Resolve Them]]></title>
-        <id>https://medium.com/p/10102dd4309d</id>
-        <link href="https://towardsdatascience.com/a-close-look-at-ai-pain-points-and-how-to-sometimes-resolve-them-10102dd4309d?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-09-26T13:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Our weekly selection of must-read Editors’ Picks and original features]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Meta Llama 3.2]]></title>
-        <id>https://www.analyticsvidhya.com/?p=195183</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/09/llama-3-2-models/"/>
-        <updated>2024-09-26T13:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Introduction A few months ago, Meta released its AI model, LLaMA 3.1(405 Billion parameters),  outperforming OpenAI and other models on different benchmarks. That upgrade was built upon the capabilities of LLaMA 3, introducing improved reasoning, advanced natural language understanding, increased efficiency, and expanded language support. Now, again focusing on its “we believe openness drives innovation […]
-The post Getting Started With Meta Llama 3.2 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj9786</name>
         </author>
     </entry>
 </feed>
