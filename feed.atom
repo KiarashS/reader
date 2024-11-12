@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-11T01:07:06.040Z</updated>
+    <updated>2024-11-12T01:07:23.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Decoding One-Hot Encoding: A Beginner’s Guide to Categorical Data]]></title>
+        <id>https://medium.com/p/058582240e86</id>
+        <link href="https://towardsdatascience.com/decoding-one-hot-encoding-a-beginners-guide-to-categorical-data-058582240e86?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T22:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Learning to transform categorical data into a format that a machine learning model can understand
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Vyacheslav Efimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[o1 is a bad idea]]></title>
+        <id>BEFbC8sLkur7DGCYB</id>
+        <link href="https://www.alignmentforum.org/posts/BEFbC8sLkur7DGCYB/o1-is-a-bad-idea"/>
+        <updated>2024-11-11T21:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 11, 2024 9:20 PM GMT
+
+This post comes a bit late with respect to the news cycle, but I argued in a recent interview that o1 is an unfortunate twist on LLM technologies, making them particularly unsafe compared to what we might otherwise have expected:
+
+
+
+The basic argument is that the technology behind o1 doubles down on a reinforcement learning paradigm, which puts us closer to the world where we have to get the value specification exactly right in order to avert catastrophic outcomes. 
+
+RLHF is just barely RL.
+- Andrej Karpathy
+
+Additionally, this technology takes us further from interpretability. If you ask GPT4 to produce a chain-of-thought (with prompts such as "reason step-by-step to arrive at an answer"), you know that in some sense, the natural-language reason…]]></summary>
+        <author>
+            <name>Abram Demski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Time Series Forecasting With sktime]]></title>
+        <id>https://medium.com/p/af8eabc76173</id>
+        <link href="https://towardsdatascience.com/advanced-time-series-forecasting-with-sktime-af8eabc76173?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T19:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to optimize model hyperparameters and even the architecture in a few lines of code
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Dr. Robert Kübler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why PoC Is Becoming Obsolete in the AI Era?]]></title>
+        <id>https://medium.com/p/66baaf422b27</id>
+        <link href="https://towardsdatascience.com/why-poc-is-becoming-obsolete-in-the-ai-era-66baaf422b27?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T19:12:58.000Z</updated>
+        <author>
+            <name>Andrea Rosales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evals Gap]]></title>
+        <id>gJJEjJpKiddoYGZKk</id>
+        <link href="https://www.alignmentforum.org/posts/gJJEjJpKiddoYGZKk/the-evals-gap"/>
+        <updated>2024-11-11T16:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 11, 2024 4:42 PM GMT
+
+In our engagements with governments, AI safety institutes, and frontier AI developers, we found the concept of the “evaluation gap” (short: ‘evals gap’) helpful to communicate the current state of the art and what is needed for the field to move towards more robust evaluations. In this post, we briefly explain the concept and its implications. For the purpose of this post, “evals” specifically refer to safety evaluations of frontier models.
+Evals have become a prominent tool underpinning governance frameworks and AI safety mechanisms. Given that, we are concerned that policymakers and industry players both (i) overestimate the number of currently available high-quality evals and (ii) underestimate the time it takes to develop them. In our experie…]]></summary>
+        <author>
+            <name>Marius Hobbhahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ETL-Zero? Understanding the shift in Data Integration]]></title>
+        <id>https://medium.com/p/d0cefa244154</id>
+        <link href="https://towardsdatascience.com/why-etl-zero-understanding-the-shift-in-data-integration-as-a-beginner-d0cefa244154?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T16:22:13.000Z</updated>
+        <summary type="html"><![CDATA[When I was preparing for the Salesforce Data Cloud certification, I came across the term Zero-ETL. The Data Cloud offers the possibility…
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Sarah Lea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Anomalies in Social Media Volume Time Series]]></title>
+        <id>https://medium.com/p/9cae614a11d0</id>
+        <link href="https://towardsdatascience.com/detecting-anomalies-in-social-media-volume-time-series-9cae614a11d0?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T15:24:30.000Z</updated>
+        <author>
+            <name>Lorenzo Mezzini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborators: Prompt engineering with Siddharth Suri and David Holtz]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1101900</id>
+        <link href="https://www.microsoft.com/en-us/research/podcast/collaborators-prompt-engineering-with-siddharth-suri-and-david-holtz/"/>
+        <updated>2024-11-11T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Researcher Siddharth Suri and professor David Holtz give a brief history of prompt engineering, discuss the debate behind their recent collaboration, and share what they found from studying how people’s approaches to prompting change as models advance.
+The post Collaborators: Prompt engineering with Siddharth Suri and David Holtz appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calibrating Marketing Mix Models In Python]]></title>
+        <id>https://medium.com/p/49dce1a5b33d</id>
+        <link href="https://towardsdatascience.com/calibrating-marketing-mix-models-in-python-49dce1a5b33d?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T14:02:18.000Z</updated>
+        <author>
+            <name>Ryan O'Sullivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Flax: Building Efficient Neural Networks with JAX]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204121</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/a-guide-to-flax/"/>
+        <updated>2024-11-11T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Flax is an advanced neural network library built on top of JAX, aimed at giving researchers and developers a flexible, high-performance toolset for building complex machine learning models. Flax’s seamless integration with JAX enables automatic differentiation, Just-In-Time (JIT) compilation, and support for hardware accelerators, making it ideal for both experimental research and production. This blog […]
+The post A Guide to Flax: Building Efficient Neural Networks with JAX appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nilesh Dwivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Medium Journey as a Data Scientist: 6 Months, 18 Articles, and 3,000 Followers]]></title>
+        <id>https://medium.com/p/c449306e45f7</id>
+        <link href="https://towardsdatascience.com/my-medium-journey-as-a-data-scientist-6-months-18-articles-and-3-000-followers-c449306e45f7?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-11T12:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Real numbers, earnings, and data-driven growth strategy for Medium writers
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Yu Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 11.10.2024]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6731d8644b277e7f30bf2344</id>
+        <link href="https://www.eye-on.ai/ai-articles/7ajkpe9pcng9rwg-bxpe5-7h2mr-96m8j-ht475-rt6x9-gntwf-t3y9c-2dpnt-gc9gb-npyyz-sdh8d-sz7pc-bnnt6-zct9j-lfjea-t9wc4-zjadr-3fnw7-gczbn-mgp7r-8htnr-y4r8z-y9l2j-rabe2"/>
+        <updated>2024-11-11T10:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Algorithm for Your Problem: From Regression to Neural Networks]]></title>
+        <id>https://machinelearningmastery.com/?p=18445</id>
+        <link href="https://machinelearningmastery.com/practical-guide-choosing-right-algorithm-your-problem/"/>
+        <updated>2024-11-11T09:00:56.000Z</updated>
+        <summary type="html"><![CDATA[This article explains, through clear guidelines, how to choose the right machine learning (ML) algorithm or model for different types of real-world and business problems.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AdaBoost Classifier, Explained: A Visual Guide with Code Examples]]></title>
         <id>https://medium.com/p/fc0f25326d7b</id>
@@ -55,6 +202,17 @@ The post Deep-dive Molmo and PixMo With Hands-on Experimentation appeared first 
         <summary type="html"><![CDATA[A simple example of hill climbing —  and solving a problem that’s difficult to solve without optimization techniques]]></summary>
         <author>
             <name>W Brett Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using ChatGPT to Create YouTube Video Description and Titles]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204001</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/youtube-seo-optimization/"/>
+        <updated>2024-11-10T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Since ChatGPT was released, it has significantly changed how people communicate, create content, and optimize their work for search engines. As creators try to make their YouTube videos more visible by optimizing for YouTube’s search features, they are using ChatGPT effectively. Creators can use ChatGPT’s writing tools to make their content more engaging and appealing […]
+The post Using ChatGPT to Create YouTube Video Description and Titles appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Yana Khare</name>
         </author>
     </entry>
     <entry>
@@ -1118,6 +1276,31 @@ The post AI-powered microgrids facilitate energy resilience and equity in region
 The post ChatGPT Search: AI Search Engine Challenging Google Monopoly appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Machinery: An Interface Design Philosophy for Wholesome AI Futures (Workshop @ EA Hotel!)]]></title>
+        <id>9KamjXbTaQpPnNsxp</id>
+        <link href="https://www.alignmentforum.org/posts/9KamjXbTaQpPnNsxp/live-machinery-an-interface-design-philosophy-for-wholesome"/>
+        <updated>2024-11-01T17:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 1, 2024 5:24 PM GMT
+
+Fluid interfaces for sensemaking at pace with AI development.
+
+Register interest here for the workshop in November 2024 (or to be invited to future workshops). To know some practical details, go to section 2.
+Click here to help raise funds for the workshop and related events.
+Apply for the AI Safety camp 2025 project on live machinery in tech and governance.
+To learn more about the broader vision and engage with this strange community, send me a DM.
+
+Disclaimer: this is both an invitation and something of a reference doc. I've put the more reference-y material in collapsible sections at the end.
+ 
+
+ 
+0. What is this?
+This is an extended rendezvous for creating culture and technology, for those enlivened by reimagining AI-based interfaces.
+Specific…]]></summary>
+        <author>
+            <name>Sahil</name>
         </author>
     </entry>
     <entry>
@@ -4082,154 +4265,6 @@ Notably, we find several abstract features in Phi-3 Mini for refusal and steer w
         <summary type="html"><![CDATA[Feature selection and engineering are critical steps that can significantly impact your model's performance.]]></summary>
         <author>
             <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the 2024 Nobel Prize in (AI for) Chemistry Matters So Much]]></title>
-        <id>https://medium.com/p/a06126cb5ca3</id>
-        <link href="https://towardsdatascience.com/why-the-2024-nobel-prize-in-ai-for-chemistry-matters-so-much-a06126cb5ca3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-12T12:01:53.000Z</updated>
-        <summary type="html"><![CDATA[To Demis Hassabis and John Jumper, from DeepMind, and to David Baker, leader of the Institute for Protein Design
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>LucianoSphere (Luciano Abriata, PhD)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My theory of change for working in AI healthtech]]></title>
-        <id>Kobbt3nQgv3yn29pr</id>
-        <link href="https://www.alignmentforum.org/posts/Kobbt3nQgv3yn29pr/my-theory-of-change-for-working-in-ai-healthtech"/>
-        <updated>2024-10-12T00:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 12, 2024 12:36 AM GMT
-
-This post starts out pretty gloomy but ends up with some points that I feel pretty positive about.  Day to day, I'm more focussed on the positive points, but awareness of the negative has been crucial to forming my priorities, so I'm going to start with those.  It's mostly addressed to the EA community, but is hopefully somewhat of interest to LessWrong and the Alignment Forum as well.
-My main concerns
-I think AGI is going to be developed soon, and quickly.  Possibly (20%) that's next year, and most likely (80%) before the end of 2029. These are not things you need to believe for yourself in order to understand my view, so no worries if you're not personally convinced of this.
-(For what it's worth, I did arrive at this view through years of study…]]></summary>
-        <author>
-            <name>Andrew Critch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaussian Naive Bayes, Explained: A Visual Guide with Code Examples for Beginners]]></title>
-        <id>https://medium.com/p/04949cef383c</id>
-        <link href="https://towardsdatascience.com/gaussian-naive-bayes-explained-a-visual-guide-with-code-examples-for-beginners-04949cef383c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-12T00:25:54.000Z</updated>
-        <author>
-            <name>Samy Baladram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bursting the AI Hype Bubble Once and for All]]></title>
-        <id>https://medium.com/p/581a994fe762</id>
-        <link href="https://towardsdatascience.com/bursting-the-ai-hype-bubble-once-and-for-all-581a994fe762?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-12T00:22:05.000Z</updated>
-        <author>
-            <name>Pau Blasco i Roca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIS XIV: Is mechanistic interpretability about to be practically useful?]]></title>
-        <id>Es2qzCxhJ8QYsckaA</id>
-        <link href="https://www.alignmentforum.org/posts/Es2qzCxhJ8QYsckaA/eis-xiv-is-mechanistic-interpretability-about-to-be"/>
-        <updated>2024-10-11T22:13:51.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 11, 2024 10:13 PM GMT
-
-Is this market really only at 63%? I think you should take the over. 
-Only 63%? I think you should take the over.
-Five tiers of rigor for safety-oriented interpretability work
-Lately, I have been thinking of interpretability research as falling into five different tiers of rigor. 
-1. Pontification
-This is when researchers claim they have succeeded in interpreting a model by definition or based on analyzing results and asserting hypotheses about them. This is a key part of the scientific method. But by itself, it is not good science. Previously in this sequence, I have argued that this standard is fairly pervasive.
-2. Basic Science
-This is when researchers develop an interpretation, use it to make some (usually simple) prediction, and then show th…]]></summary>
-        <author>
-            <name>Stephen Casper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Misconceptions About Data Science]]></title>
-        <id>https://medium.com/p/4978963ba98c</id>
-        <link href="https://towardsdatascience.com/common-misconceptions-about-data-science-4978963ba98c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-11T20:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Data science advice that you should question
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Automatic Differentiation in JAX: A Deep Dive]]></title>
-        <id>https://medium.com/p/179bbdf01e87</id>
-        <link href="https://towardsdatascience.com/understanding-automatic-differentiation-in-jax-a-deep-dive-179bbdf01e87?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-11T20:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Unleashing the Gradient: How JAX Makes Automatic Differentiation Feel Like Magic
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Aamir Mushir Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mixed-Methods Approach to Offline Evaluation of News Recommender Systems]]></title>
-        <id>https://medium.com/p/7dc7e9f0b501</id>
-        <link href="https://towardsdatascience.com/a-mixed-methods-approach-to-offline-evaluation-of-news-recommender-systems-7dc7e9f0b501?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-11T20:32:50.000Z</updated>
-        <author>
-            <name>Alex Held</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topic Alignment for NLP Recommender Systems]]></title>
-        <id>https://medium.com/p/b35ef2902c1a</id>
-        <link href="https://towardsdatascience.com/topic-alignment-for-nlp-recommender-systems-b35ef2902c1a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-11T20:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Leveraging topic modeling to align user queries with document themes, enhancing the relevance and contextual accuracy of recommendations
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Benjamin McCloskey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Differentiation (AutoDiff): A Brief Intro with Examples]]></title>
-        <id>https://medium.com/p/3f3d257ffe3b</id>
-        <link href="https://towardsdatascience.com/automatic-differentiation-autodiff-a-brief-intro-with-examples-3f3d257ffe3b?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-11T20:07:55.000Z</updated>
-        <summary type="html"><![CDATA[An introduction to the mechanics of AutoDiff, exploring its mathematical principles, implementation strategies, and applications
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Ebrahim Pichka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracking Hurricanes With AI Weather Models]]></title>
-        <id>https://medium.com/p/6f09e5b52839</id>
-        <link href="https://towardsdatascience.com/tracking-hurricanes-with-ai-weather-models-6f09e5b52839?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-11T17:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Storm chasing for data scientists: A Hurricane Milton case study
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Caroline Arnold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Guide to Integrate LLM Agents in an Organization]]></title>
-        <id>https://www.analyticsvidhya.com/?p=198408</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/llm-agents-in-organizations/"/>
-        <updated>2024-10-11T13:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Introduction The rise of large language models (LLMs), such as OpenAI’s GPT and Anthropic’s Claude, has led to the widespread adoption of generative AI (GenAI) products in enterprises. Organizations across sectors are now leveraging GenAI to streamline processes and increase the efficiency of their workforce. Integrating LLM agents into an organization requires thoughtful planning and […]
-The post Step-by-Step Guide to Integrate LLM Agents in an Organization appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K. C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leadership at All Levels]]></title>
-        <id>dbce7340-871f-11ef-9b9e-fb7a92edc6d5</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/leadership-at-all-levels/"/>
-        <updated>2024-10-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On episode 357, Deputy Center Director of NASA’s Johnson Space Center Steve Koerner reflects on his 32-year-long career at NASA and discusses the values of leadership.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
