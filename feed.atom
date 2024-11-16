@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-15T01:12:38.752Z</updated>
+    <updated>2024-11-16T01:11:12.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Of LLMs, Gradients, and Quantum Mechanics]]></title>
+        <id>https://medium.com/p/bdcaaf940fbb</id>
+        <link href="https://towardsdatascience.com/of-llms-gradients-and-quantum-mechanics-bdcaaf940fbb?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-15T18:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Can Quantum Computing help improving our ability to train Large Neural Networks encoding language models (LLMs)?
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Riccardo Di Sipio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROI Worship Can Be Bad For Business]]></title>
+        <id>https://medium.com/p/1c752fca3896</id>
+        <link href="https://towardsdatascience.com/roi-worship-can-be-bad-for-business-1c752fca3896?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-15T17:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Watch out for these three ways too much of a good thing can be dangerous
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Kate Minogue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphRAG: Improving global search via dynamic community selection]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1101987</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/"/>
+        <updated>2024-11-15T16:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-augmented generation (RAG) helps AI systems provide more information to a large language model (LLM) when generating responses to user queries. A new method for conducting “global” queries can optimize the performance of global search in GraphRAG.
+The post GraphRAG: Improving global search via dynamic community selection appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win/continue/lose scenarios and execute/replace/audit protocols]]></title>
+        <id>jg3PuE3fYL9jq9zHB</id>
+        <link href="https://www.alignmentforum.org/posts/jg3PuE3fYL9jq9zHB/win-continue-lose-scenarios-and-execute-replace-audit"/>
+        <updated>2024-11-15T15:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 15, 2024 3:47 PM GMT
+
+In this post, I’ll make a technical point that comes up when thinking about risks from scheming AIs from a control perspective.
+In brief: Consider a deployment of an AI in a setting where it’s going to be given a sequence of tasks, and you’re worried about a safety failure that can happen suddenly. Every time the AI tries to attack, one of three things happens: we win, we lose, or the deployment continues (and the AI probably eventually attempts to attack again). So there’s two importantly different notions of attacks “failing”: we can catch the attack (in which case we win), or the attack can fail silently, either because it’s defective or because it’s defused by safety techniques, such that the attack doesn’t end up causing an unacceptable outc…]]></summary>
+        <author>
+            <name>Buck Shlegeris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Engineering Techniques for Healthcare Data Analysis — Part I.]]></title>
+        <id>https://medium.com/p/7dfeec78f2a2</id>
+        <link href="https://towardsdatascience.com/feature-engineering-techniques-for-healthcare-data-analysis-part-i-7dfeec78f2a2?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-15T13:02:47.000Z</updated>
+        <summary type="html"><![CDATA[Feature engineering techniques for healthcare data analysis, focusing on real-world challenges and practical solutions.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Leo Anello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing AI Conversations with LangChain Memory]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204462</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/langchain-memory/"/>
+        <updated>2024-11-15T12:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Imagine chatting with a virtual assistant that remembers not just your last question but the entire flow of your conversation—personal details, preferences, even follow-up queries. This memory transforms chatbots from simple Q&A machines into sophisticated conversational partners, capable of handling complex topics over multiple interactions. In this article, we dive into the fascinating world of […]
+The post Enhancing AI Conversations with LangChain Memory appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nibedita Dutta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field Boundary Detection in Satellite Imagery Using the SAM2 Model]]></title>
+        <id>https://medium.com/p/b556aa97bf7a</id>
+        <link href="https://towardsdatascience.com/field-boundary-detection-in-satellite-imagery-using-the-sam2-model-b556aa97bf7a?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-15T12:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Step-by-Step Tutorial on Applying Segment Anything Model Version 2 to Satellite Imagery for Detecting and Exporting Field Boundaries in…
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Mahyar Aboutalebi, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a RAG Pipeline for Hindi Documents with Indic LLMs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204742</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/rag-pipeline-for-hindi-documents/"/>
+        <updated>2024-11-15T09:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Namaste! I am from India, where there are four seasons: winter, summer, monsoon, and autumn. Can you guess which season I hate most? It’s tax season. This year, as usual, I scrambled to sift through various income tax sections and documents to maximize my savings (legally, of course, 😉). I watched countless videos and waded […]
+The post Building a RAG Pipeline for Hindi Documents with Indic LLMs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Abhishek Bairagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-shot Object Detection with Owl ViT Base Patch32]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204739</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/zero-shot-object-detection-with-owl-vit-base-patch32/"/>
+        <updated>2024-11-15T09:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Owl ViT is a computer vision model that has become very popular and has found applications across various industries. This model takes in an image and a text query as input. After the image processing, the output comes with a confidence score and the object’s location (from the text query) in the image.  This model’s […]
+The post Zero-shot Object Detection with Owl ViT Base Patch32 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Maigari David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Techniques for Chat Data Analytics with Python]]></title>
+        <id>https://medium.com/p/cfdbea358123</id>
+        <link href="https://towardsdatascience.com/techniques-for-chat-data-analytics-with-python-cfdbea358123?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-15T04:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Part II: Topic Extraction with BERTopic
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Robin von Malottki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ontology Reasoning in Knowledge Graphs]]></title>
         <id>https://medium.com/p/7e563cc5b62a</id>
@@ -57,6 +169,16 @@ Continue reading on Towards Data Science »]]></summary>
 The post Orca-AgentInstruct: Agentic flows can be effective synthetic-data generators appeared first on Microsoft Research.]]></summary>
         <author>
             <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the Art of Hyperparameter Tuning: Tips, Tricks, and Tools]]></title>
+        <id>https://machinelearningmastery.com/?p=18657</id>
+        <link href="https://machinelearningmastery.com/mastering-the-art-of-hyperparameter-tuning-tips-tricks-and-tools/"/>
+        <updated>2024-11-14T16:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning (ML) models contain numerous adjustable settings called hyperparameters that control how they learn from data.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -4217,248 +4339,6 @@ The post Automated Image Generation: Transforming Your Blog Creation Process app
         <summary type="html"><![CDATA[Exploring new features and notable changes in the latest version of the DRESS Kit]]></summary>
         <author>
             <name>Waihong Chung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Chatbot Without Coding?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199624</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/wordware-chatbot-without-coding/"/>
-        <updated>2024-10-16T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Chatbots have become an essential tool for most organisations. They provide excellent customer support and enhance user engagement. Are you interested in building a chatbot for your business but aren’t a developer? No problem! Thanks to rapid advancements in no-code platforms, building an AI agent chatbot without coding is now possible for anyone. In […]
-The post How to Build an AI Chatbot Without Coding? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Diksha Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dijkstra Algorithm in Python]]></title>
-        <id>https://www.analyticsvidhya.com/?p=198809</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/dijkstra-algorithm/"/>
-        <updated>2024-10-16T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Suppose you are over a map of roads, and you want to know how to get from one city to another using the fewest possible roads. When delivering products through city roads or searching for the most effective route in a network or other systems, the shortest route is crucial. However, one of the […]
-The post Dijkstra Algorithm in Python appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ayushi Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building on evaluation quicksand]]></title>
-        <id>https://www.interconnects.ai/p/building-on-evaluation-quicksand</id>
-        <link href="https://www.interconnects.ai/p/building-on-evaluation-quicksand"/>
-        <updated>2024-10-16T12:02:36.000Z</updated>
-        <summary type="html"><![CDATA[On the state of evaluation for language models.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Voiceover) Building on evaluation quicksand]]></title>
-        <id>https://www.interconnects.ai/p/voiceover-building-on-evaluation</id>
-        <link href="https://www.interconnects.ai/p/voiceover-building-on-evaluation"/>
-        <updated>2024-10-16T11:55:56.000Z</updated>
-        <summary type="html"><![CDATA[On the state of evaluation for language models.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Scikit-Learn Secrets You Probably Didn’t Know About]]></title>
-        <id>https://machinelearningmastery.com/?p=18431</id>
-        <link href="https://machinelearningmastery.com/7-scikit-learn-secrets-you-probably-didnt-know-about/"/>
-        <updated>2024-10-16T09:00:01.000Z</updated>
-        <summary type="html"><![CDATA[As data scientists with Python programming skills, we use Scikit-Learn a lot.]]></summary>
-        <author>
-            <name>Cornellius Yudha Wijaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Function Calling in AI Agents Using Mistral 7B]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199375</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/function-calling-in-ai-agents-using-mistral-7b/"/>
-        <updated>2024-10-16T06:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Function calling in large language models (LLMs) has transformed how AI agents interact with external systems, APIs, or tools, enabling structured decision-making based on natural language prompts. By using JSON schema-defined functions, these models can autonomously select and execute external operations, offering new levels of automation. This article will demonstrate how function calling can […]
-The post Function Calling in AI Agents Using Mistral 7B appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>ashish4768</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Generative AI in Marketing?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199507</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/generative-ai-in-marketing/"/>
-        <updated>2024-10-16T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction The marketing landscape has undergone a massive transformation with the rise of artificial intelligence (AI). Among the AI-driven innovations, generative AI (GenAI) is particularly revolutionizing how marketing teams create content, optimize activities, and deliver campaigns. From personalizing customer experiences to automating content creation, GenAI is capable of enhancing the productivity of the marketing team […]
-The post How to Use Generative AI in Marketing? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K. C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Accuracy vs Interpretability Trade-off Is a Lie]]></title>
-        <id>https://medium.com/p/0bf89c84f5b3</id>
-        <link href="https://towardsdatascience.com/the-accuracy-vs-interpretability-trade-off-is-a-lie-0bf89c84f5b3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T05:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Why, if we look at the bigger picture, black-box models are not more accurate
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Conor O'Sullivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Multi-Target Regression Model for Macroeconomic Prediction]]></title>
-        <id>https://medium.com/p/940109d1d364</id>
-        <link href="https://towardsdatascience.com/how-to-build-a-multi-target-regression-model-for-macroeconomic-prediction-940109d1d364?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T04:57:21.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide to predicting multiple economic indicators.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Leonardo Anello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Science Behind AI’s First Nobel Prize]]></title>
-        <id>https://medium.com/p/829c788f2202</id>
-        <link href="https://towardsdatascience.com/the-science-behind-ais-first-nobel-prize-829c788f2202?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T00:17:52.000Z</updated>
-        <summary type="html"><![CDATA[How Physics and Machine Learning Joined Forces to Win Physics Nobel 2024
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Tim Lou, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marketing Mix Modeling (MMM): How to Avoid Biased Channel Estimates]]></title>
-        <id>https://medium.com/p/f9201fc3e91d</id>
-        <link href="https://towardsdatascience.com/marketing-mix-modeling-mmm-how-to-avoid-biased-channel-estimates-f9201fc3e91d?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T00:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Learn which variables you should and should not take into account in your model.]]></summary>
-        <author>
-            <name>Felix Germaine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Your RAG Context Recall by 95% with an Adapted Embedding Model.]]></title>
-        <id>https://medium.com/p/5d4a8f583f32</id>
-        <link href="https://towardsdatascience.com/improve-your-rag-context-recall-by-40-with-an-adapted-embedding-model-5d4a8f583f32?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T00:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Step by Step Model Adaptation Code and Results Attached.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Vignesh Baskaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Naïve RAG: Advanced Techniques for Building Smarter and Reliable AI Systems]]></title>
-        <id>https://medium.com/p/c4fbcf8718b8</id>
-        <link href="https://towardsdatascience.com/beyond-na%C3%AFve-rag-advanced-techniques-for-building-smarter-and-reliable-ai-systems-c4fbcf8718b8?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T00:03:05.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into advanced indexing, pre-retrieval, retrieval, and post-retrieval techniques to enhance RAG performance
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Abhinav Kimothi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Your Vote Decide the Next President?]]></title>
-        <id>https://medium.com/p/0875a4927c75</id>
-        <link href="https://towardsdatascience.com/will-your-vote-decide-the-next-president-0875a4927c75?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-15T20:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Simulating the probability that your singular vote swings the election in November
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Jarom Hulet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Normalized Discounted Cumulative Gain (NDCG) — The Ultimate Ranking Metric]]></title>
-        <id>https://medium.com/p/437b03529f75</id>
-        <link href="https://towardsdatascience.com/normalized-discounted-cumulative-gain-ndcg-the-ultimate-ranking-metric-437b03529f75?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-15T20:44:51.000Z</updated>
-        <summary type="html"><![CDATA[NDCG — The Rank-Aware Metric for Evaluating Recommendation Systems
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Saankhya Mondal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Continual Learning: A Primer]]></title>
-        <id>https://medium.com/p/e328ed1d072f</id>
-        <link href="https://towardsdatascience.com/continual-learning-a-primer-e328ed1d072f?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-15T20:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Plus paper recommendations
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Pascal Janetzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Fine-Tuned the Tiny Llama 3.2 1B to Replace GPT-4o]]></title>
-        <id>https://medium.com/p/7ce1e5619f3d</id>
-        <link href="https://towardsdatascience.com/i-fine-tuned-the-tiny-llama-3-2-1b-to-replace-gpt-4o-7ce1e5619f3d?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-15T20:20:05.000Z</updated>
-        <summary type="html"><![CDATA[Is the fine-tuning effort worth more than few-shot prompting?
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Thuwarakesh Murallie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrading to Prefect Push Workers on AWS ECS]]></title>
-        <id>https://medium.com/p/64c5b5c11d0c</id>
-        <link href="https://towardsdatascience.com/upgrading-to-prefect-push-workers-on-aws-ecs-64c5b5c11d0c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-15T20:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade from Prefect 2.0 to 3.0 and use the new Push Work Pools that greatly simplify infrastructure management and reduce cost.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Brian Roepke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataflow Architecture-Derived Data Views and Eventual Consistency]]></title>
-        <id>https://medium.com/p/e3bc25176cf8</id>
-        <link href="https://towardsdatascience.com/dataflow-architecture-derived-data-views-and-eventual-consistency-e3bc25176cf8?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-15T18:20:23.000Z</updated>
-        <author>
-            <name>caleb lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's updated Responsible Scaling Policy]]></title>
-        <id>Q7caj7emnwWBxLECF</id>
-        <link href="https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy"/>
-        <updated>2024-10-15T16:46:48.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 15, 2024 4:46 PM GMT
-
-Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safety case methodologies), and new measures for internal governance and external input. By learning from our implementation experiences and drawing on risk mana…]]></summary>
-        <author>
-            <name>Zac Hatfield-Dodds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpreting and Communicating Data Science Results]]></title>
-        <id>https://machinelearningmastery.com/?p=18293</id>
-        <link href="https://machinelearningmastery.com/interpreting-and-communicating-data-science-results/"/>
-        <updated>2024-10-15T14:39:05.000Z</updated>
-        <summary type="html"><![CDATA[The first step in gaining meaningful insights from your project is to thoroughly understand what your model is telling you.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Opinionated Evals Reading List]]></title>
-        <id>Cur4n3gRGaqysKf5b</id>
-        <link href="https://www.alignmentforum.org/posts/Cur4n3gRGaqysKf5b/an-opinionated-evals-reading-list"/>
-        <updated>2024-10-15T14:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 15, 2024 2:38 PM GMT
-
-While you can make a lot of progress in evals with tinkering and paying little attention to the literature, we found that various other papers have saved us many months of research effort. The Apollo Research evals team thus compiled a list of what we felt were important evals-related papers. We likely missed some relevant papers, and our recommendations reflect our personal opinions.
-Our favorite papers
-
-Evaluating Frontier Models for Dangerous Capabilities (Phuong et al., 2024)
-Contains detailed descriptions of multiple LM agent evals across four categories. Also explores new methodologies for estimating evals success probabilities.
-We think it is the best “all around” evals paper, i.e. giving the best understanding of what frontier LM agent eva…]]></summary>
-        <author>
-            <name>Marius Hobbhahn</name>
         </author>
     </entry>
 </feed>
