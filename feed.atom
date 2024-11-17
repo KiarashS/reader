@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-16T01:11:12.631Z</updated>
+    <updated>2024-11-17T01:16:07.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cross-context abduction: LLMs make inferences about procedural training data leveraging declarative facts in earlier training data]]></title>
+        <id>zJkTdzzAM7hJKHunj</id>
+        <link href="https://www.alignmentforum.org/posts/zJkTdzzAM7hJKHunj/cross-context-abduction-llms-make-inferences-about"/>
+        <updated>2024-11-16T23:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 16, 2024 11:22 PM GMT
+
+Epistemic status: These are first positive results. I have not yet run extensive tests to verify repeatability, so take them with a grain of salt. This post is meant to disseminate early results and collect ideas for further experiments to concretise these findings.
+Tldr:
+I study whether LLMs understand their training data and can use that understanding to make inferences about later training data. Specifically, I measure whether LLMs can infer which declarative facts in their training data are relevant to the current context and then leverage them. I show that finetuning LLMs on declarative data describing different personas reduces the number of iterative finetuning steps (a proxy for reinforcement learning) required to display behaviour suffi…]]></summary>
+        <author>
+            <name>Sohaib Imran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open the Artificial Brain: Sparse Autoencoders for LLM Inspection]]></title>
+        <id>https://medium.com/p/c845f2a3f786</id>
+        <link href="https://towardsdatascience.com/open-the-artificial-brain-sparse-autoencoders-for-llm-inspection-c845f2a3f786?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-16T15:02:42.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into LLM visualization and interpretation using sparse autoencoders
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Salvatore Raieli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which evals resources would be good?]]></title>
+        <id>uoAAGzn4hPAHLeG2Y</id>
+        <link href="https://www.alignmentforum.org/posts/uoAAGzn4hPAHLeG2Y/which-evals-resources-would-be-good"/>
+        <updated>2024-11-16T14:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 16, 2024 2:24 PM GMT
+
+I want to make a serious effort to create a bigger evals field. I’m very interested in which resources you think would be most helpful. I’m also looking for others to contribute and potentially some funding. 
+
+Which resources would be most helpful? Suggestions include:
+Open Problems in Evals list: A long list of open relevant problems & projects in evals.
+More Inspect Tutorials/Examples: Specifically, examples with deep explanations, examples of complex agent setups, and more detailed examples of the components around the evals.
+Evals playbook: A detailed guide on how to build evals with detailed examples for agentic and non-agentic evals.
+Salient demos: I don’t even necessarily want to build scary demos, I just want normal people to be less hit-…]]></summary>
+        <author>
+            <name>Marius Hobbhahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most Cross-Validation Visualizations Are Wrong (And How to Fix Them)]]></title>
+        <id>https://medium.com/p/bdbbba74e263</id>
+        <link href="https://towardsdatascience.com/why-most-cross-validation-visualizations-are-wrong-and-how-to-fix-them-bdbbba74e263?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-16T13:01:57.000Z</updated>
+        <author>
+            <name>Samy Baladram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ways to Use GPT 4o Like a Pro with Canvas]]></title>
+        <id>https://www.analyticsvidhya.com/?p=205001</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/gpt-4o-with-canvas/"/>
+        <updated>2024-11-16T08:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Most of us today use ChatGPT for creating content, doing research, and a number of other daily tasks. Did you know you can now get more contextual responses and edit specific parts of the content on ChatGPT? Yes, this is now possible with the Canvas integration on OpenAI’s GPT-4o model. GPT-4o with Canvas lets you […]
+The post 3 Ways to Use GPT 4o Like a Pro with Canvas appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Of LLMs, Gradients, and Quantum Mechanics]]></title>
         <id>https://medium.com/p/bdcaaf940fbb</id>
@@ -4247,98 +4310,6 @@ Continue reading on Towards Data Science »]]></summary>
         <summary type="html"><![CDATA[Our weekly selection of must-read Editors’ Picks and original features]]></summary>
         <author>
             <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution of Agentic RAG: From Long-context, RAG to Agentic RAG]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199889</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/evolution-of-agentic-rag/"/>
-        <updated>2024-10-17T12:15:33.000Z</updated>
-        <summary type="html"><![CDATA[So far, various models have served distinct purposes in artificial intelligence. These models have significantly impacted human life, from understanding and generating text based on input to significantly striding in natural language processing. However, while these models set benchmarks for linguistic tasks, they fall short when it comes to adding real-world action and interactions. This […]
-The post Evolution of Agentic RAG: From Long-context, RAG to Agentic RAG appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sushant Thakur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-shot Object Detection Using Grounding DINO Base]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199980</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/grounding-dino-base/"/>
-        <updated>2024-10-17T12:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Detecting objects in an image requires some accuracy, especially when the image does not only take a box-like shape for easy detection. However, numerous models have provided solutions with state-of-the-art performance in object detection.  Zero-shot object detection with the Grounding DINO base is another efficient model that allows you to scan through out-of-box images. This […]
-The post Zero-shot Object Detection Using Grounding DINO Base appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Maigari David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interviewing Arvind Narayanan on making sense of AI hype]]></title>
-        <id>https://www.interconnects.ai/p/interviewing-arvind-narayanan</id>
-        <link href="https://www.interconnects.ai/p/interviewing-arvind-narayanan"/>
-        <updated>2024-10-17T12:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Interconnects Interview #8. AGI, reasoning, what LLMs, and what they don't.]]></summary>
-        <author>
-            <name>Arvind Narayanan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Critical Look at AI Image Generation]]></title>
-        <id>https://medium.com/p/45001f410147</id>
-        <link href="https://towardsdatascience.com/a-critical-look-at-ai-image-generation-45001f410147?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T07:36:08.000Z</updated>
-        <author>
-            <name>Stephanie Kirmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrewAI Multi-Agent System for Writing Article from YouTube Videos]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199525</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/crewai-multi-agent-system/"/>
-        <updated>2024-10-17T07:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In the era of an evolving digital world, automation redefines how humans approach everyday tasks, including research, content creation and much more. A new and exciting tool emerging in this field is CrewAI, which enables multiple AI agents to work together, solving complex problems with enhanced creativity and decision-making by prioritising collaborative intelligence. In […]
-The post CrewAI Multi-Agent System for Writing Article from YouTube Videos appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Akash Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Image Generation: Transforming Your Blog Creation Process]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199307</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/automated-image-generation/"/>
-        <updated>2024-10-17T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Creating visually engaging content can be a time-consuming task for bloggers and creators. After crafting a compelling article, finding the right images is often a separate challenge. But what if Blog Creation with AI could do it all for you? Imagine a seamless process where, alongside your writing, AI generates original, high-quality images tailored […]
-The post Automated Image Generation: Transforming Your Blog Creation Process appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mobarak Inuwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning BERT for Text Classification]]></title>
-        <id>https://medium.com/p/a01f89b179fc</id>
-        <link href="https://towardsdatascience.com/fine-tuning-bert-for-text-classification-a01f89b179fc?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T05:31:47.000Z</updated>
-        <author>
-            <name>Shaw Talebi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Novel Approach to Detect Coordinated Attacks Using Clustering]]></title>
-        <id>https://medium.com/p/3d20bf70839f</id>
-        <link href="https://towardsdatascience.com/a-novel-approach-to-detect-coordinated-attacks-using-clustering-3d20bf70839f?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T17:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling hidden patterns: grouping malicious behavior]]></summary>
-        <author>
-            <name>Trupti Bavalatti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring DRESS Kit V2]]></title>
-        <id>https://medium.com/p/75fa4cf74582</id>
-        <link href="https://towardsdatascience.com/exploring-dress-kit-v2-75fa4cf74582?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-16T17:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Exploring new features and notable changes in the latest version of the DRESS Kit]]></summary>
-        <author>
-            <name>Waihong Chung</name>
         </author>
     </entry>
 </feed>
