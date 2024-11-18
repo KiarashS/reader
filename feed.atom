@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-17T01:16:07.874Z</updated>
+    <updated>2024-11-18T01:13:59.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Python Runtime for Demanding Tasks]]></title>
+        <id>https://medium.com/p/2857efad0cec</id>
+        <link href="https://towardsdatascience.com/how-to-reduce-python-runtime-for-demanding-tasks-2857efad0cec?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-17T16:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Practical techniques to accelerate heavy workloads with GPU optimization in Python
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jiayan Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spoiler Alert: The Magic of RAG Does Not Come from AI]]></title>
+        <id>https://medium.com/p/8a0ed2ad4800</id>
+        <link href="https://towardsdatascience.com/spoiler-alert-the-magic-of-rag-does-not-come-from-ai-8a0ed2ad4800?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-17T14:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Why retrieval, not generation, makes RAG systems magical]]></summary>
+        <author>
+            <name>Frank Wittkampf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Music Transcription with Multi-Modal Language Models]]></title>
+        <id>https://medium.com/p/af352105db56</id>
+        <link href="https://towardsdatascience.com/exploring-music-transcription-with-multi-modal-language-models-af352105db56?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-17T12:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Using Qwen2-Audio to transcribe music into sheet music]]></summary>
+        <author>
+            <name>Jon Flynn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Social Media Writer Using xAI’s Grok LLM?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=205041</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/xai-api/"/>
+        <updated>2024-11-17T04:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s xAI recently released the Grok API for developers, offering $25 of free monthly credits. Currently, the API is available for the Grok-beta, enabling developers to explore and integrate advanced AI capabilities into their applications. The full rollout for the Grok-2 and Grok-2 mini models is anticipated soon, promising enhancements in performance and efficiency […]
+The post How to Create a Social Media Writer Using xAI’s Grok LLM? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-context abduction: LLMs make inferences about procedural training data leveraging declarative facts in earlier training data]]></title>
         <id>zJkTdzzAM7hJKHunj</id>
@@ -4145,171 +4187,6 @@ Summary of empirical results
 Discussion, including motivation, limit…]]></summary>
         <author>
             <name>Gabriel Wu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory-Efficient Model Weight Loading in PyTorch]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200343</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/memory-efficient-model-weight-loading-in-pytorch/"/>
-        <updated>2024-10-18T11:44:00.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across a post by Sebastian that caught my attention, and I wanted to dive deeper into its content. As models grow larger and more complex, efficiently managing memory during model loading becomes increasingly important, especially when working with limited GPU or CPU resources. In his post, Sebastian covers practical tips for loading […]
-The post Memory-Efficient Model Weight Loading in PyTorch appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide to Deploying Machine Learning Models]]></title>
-        <id>https://machinelearningmastery.com/?p=18439</id>
-        <link href="https://machinelearningmastery.com/a-practical-guide-to-deploying-machine-learning-models/"/>
-        <updated>2024-10-18T09:00:33.000Z</updated>
-        <summary type="html"><![CDATA[As a data scientist, you probably know how to build machine learning models.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Free and Paid APIs for Your LLM Applications]]></title>
-        <id>https://www.analyticsvidhya.com/?p=199897</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/free-and-paid-apis/"/>
-        <updated>2024-10-18T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s business applications, APIs (Application Programming Interfaces) are transforming how we integrate and leverage AI capabilities. They serve as crucial bridges, enabling the seamless integration of Large Language Models (LLMs) into diverse software ecosystems. By facilitating efficient data exchange and functionality sharing, APIs of both open and closed-source LLMs allow applications to harness the […]
-The post 8 Free and Paid APIs for Your LLM Applications appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Abhishek Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to RAG-to-SQL on Google Cloud]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200067</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/rag-to-sql-on-google-cloud/"/>
-        <updated>2024-10-18T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Text-to-SQL technologies frequently struggle to capture the complete context and meaning of a user’s request, resulting in queries that do not exactly match the intended. While developers work hard to enhance these systems, it is worth questioning if there is a better method. Enter RAG-to-SQL—a new approach that combines natural language understanding with powerful data […]
-The post A Comprehensive Guide to RAG-to-SQL on Google Cloud appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ritika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Smaller Models Struggle Often in High Order Thinking?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200119</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/complex-reasoning-in-llms/"/>
-        <updated>2024-10-18T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I was reading about the challenges that large language models (LLMs) face despite their impressive progress in recent years. I came across this research paper on Not All LLM Reasoners Are Created Equal by Arian Hosseini, Alessandro Sordoni, Daniel Toyama, Aaron Courville, and Rishabh Agarwal. It is from Mila, Google DeepMind, and Microsoft Research. This […]
-The post Do Smaller Models Struggle Often in High Order Thinking? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting Karpathy’s “State of Computer Vision and AI”]]></title>
-        <id>https://medium.com/p/794862a0e077</id>
-        <link href="https://towardsdatascience.com/revisiting-karpathys-state-of-computer-vision-and-ai-794862a0e077?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T05:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Looking back at AI progress since the 2012 blog post “The state of Computer Vision and AI: we are really, really far away”
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Dr. Leon Eversberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Digital Twins?]]></title>
-        <id>https://medium.com/p/65844333e25a</id>
-        <link href="https://towardsdatascience.com/what-are-digital-twins-artificial-intelligence-65844333e25a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T04:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Bridging the physical and digital worlds
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Andrea Valenzuela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Graph Too Far: Graph RAG Doesn’t Require Every Graph Tool]]></title>
-        <id>https://medium.com/p/5f9adb227bdf</id>
-        <link href="https://towardsdatascience.com/a-graph-too-far-graph-rag-doesnt-require-every-graph-tool-5f9adb227bdf?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T04:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Don’t complicate things with graph DBs, QLs, or graph analytics.]]></summary>
-        <author>
-            <name>Brian Godsey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your eCommerce product performance reports are probably misleading you]]></title>
-        <id>https://medium.com/p/d6146734639c</id>
-        <link href="https://towardsdatascience.com/your-ecommerce-product-performance-reports-are-probably-misleading-you-d6146734639c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T23:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Why single metrics in isolation fall short and how Weighted Composite Scoring can transform your business insights]]></summary>
-        <author>
-            <name>Hattie Biddlecombe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reinforcement Learning for Physics: ODEs and Hyperparameter Tuning]]></title>
-        <id>https://medium.com/p/2c0a29752a67</id>
-        <link href="https://towardsdatascience.com/reinforcement-learning-for-physics-odes-and-hyperparameter-tuning-2c0a29752a67?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T20:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Controlling differential equations with gymnasium and optimizing algorithm hyperparameters]]></summary>
-        <author>
-            <name>Robert Etter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Export a Stata “Notebook” to HTML]]></title>
-        <id>https://medium.com/p/02ec2984da18</id>
-        <link href="https://towardsdatascience.com/how-to-export-a-stata-notebook-to-html-02ec2984da18?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T18:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Create a shareable HTML document with your code, outputs, and graphs
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Bárbara A. Cancino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Be Hiring Methodologists]]></title>
-        <id>https://medium.com/p/1455384b43f8</id>
-        <link href="https://towardsdatascience.com/why-you-should-be-hiring-methodologists-1455384b43f8?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T18:11:18.000Z</updated>
-        <author>
-            <name>Mel Richey, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autoencoders: An Ultimate Guide for Data Scientists]]></title>
-        <id>https://medium.com/p/dca3e56a070e</id>
-        <link href="https://towardsdatascience.com/autoencoders-an-ultimate-guide-for-data-scientists-dca3e56a070e?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T17:36:20.000Z</updated>
-        <summary type="html"><![CDATA[A beginner’s guide to the architecture, Python implementation, and a glimpse into the future
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Niklas Lang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphMuse: A Python Library for Symbolic Music Graph Processing]]></title>
-        <id>https://medium.com/p/40dbd9baf319</id>
-        <link href="https://towardsdatascience.com/graphmuse-a-python-library-for-symbolic-music-graph-processing-40dbd9baf319?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T17:33:07.000Z</updated>
-        <author>
-            <name>Emmanouil Karystinaios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Multimodal Data into a Large Language Model]]></title>
-        <id>https://medium.com/p/d1965b8ab00c</id>
-        <link href="https://towardsdatascience.com/integrating-multimodal-data-into-a-large-language-model-d1965b8ab00c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T17:24:30.000Z</updated>
-        <author>
-            <name>Umair Ali Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does It Take to Get Your Foot in the Door as a Data Scientist?]]></title>
-        <id>https://medium.com/p/500ec3002a49</id>
-        <link href="https://towardsdatascience.com/what-does-it-take-to-get-your-foot-in-the-door-as-a-data-scientist-500ec3002a49?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-17T13:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Our weekly selection of must-read Editors’ Picks and original features]]></summary>
-        <author>
-            <name>TDS Editors</name>
         </author>
     </entry>
 </feed>
