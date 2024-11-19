@@ -2,10 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-18T01:13:59.458Z</updated>
+    <updated>2024-11-19T01:12:45.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Training AI agents to solve hard problems could lead to Scheming]]></title>
+        <id>QqYfxeogtatKotyEC</id>
+        <link href="https://www.alignmentforum.org/posts/QqYfxeogtatKotyEC/training-ai-agents-to-solve-hard-problems-could-lead-to"/>
+        <updated>2024-11-19T00:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 19, 2024 12:10 AM GMT
+
+ TLDR: We want to describe a concrete and plausible story for how AI models could become schemers. We aim to base this story on what seems like a plausible continuation of the current paradigm. Future AI models will be asked to solve hard tasks. We expect that solving hard tasks requires some sort of goal-directed, self-guided, outcome-based, online learning procedure, which we call the “science loop”, where the AI makes incremental progress toward its high-level goal. We think this “science loop” encourages goal-directedness, instrumental reasoning, instrumental goals, beyond-episode goals, operational non-myopia, and indifference to stated preferences, which we jointly call “Consequentialism”. We then argue that consequentialist agents that ar…]]></summary>
+        <author>
+            <name>Marius Hobbhahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Text and Images for Smarter Data Classification]]></title>
+        <id>https://medium.com/p/6a53252d8a73</id>
+        <link href="https://towardsdatascience.com/integrating-text-and-images-for-smarter-data-classification-6a53252d8a73?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T23:56:42.000Z</updated>
+        <author>
+            <name>Youness Mansar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metrics of Continual Learning]]></title>
+        <id>https://medium.com/p/08f2d1cd959b</id>
+        <link href="https://towardsdatascience.com/the-metrics-of-continual-learning-08f2d1cd959b?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T23:40:17.000Z</updated>
+        <summary type="html"><![CDATA[These three metrics are commonly used
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Pascal Janetzky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NER in Czech Documents with XLM-RoBERTa using  Accelerate]]></title>
+        <id>https://medium.com/p/32a6baf3e91e</id>
+        <link href="https://towardsdatascience.com/ner-in-czech-documents-with-xlm-roberta-using-accelerate-32a6baf3e91e?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T21:00:58.000Z</updated>
+        <author>
+            <name>Bohumir Buso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Networks with NetworkX: A Short Guide to Graphs in Python]]></title>
+        <id>https://medium.com/p/c16cbafe8063</id>
+        <link href="https://towardsdatascience.com/navigating-networks-with-networkx-a-short-guide-to-graphs-in-python-c16cbafe8063?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T17:59:40.000Z</updated>
+        <author>
+            <name>Diego Penilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a frontend for your ML application with Vercel V0]]></title>
+        <id>https://medium.com/p/a25179ea1170</id>
+        <link href="https://towardsdatascience.com/creating-a-frontend-for-your-ml-application-with-vercel-v0-a25179ea1170?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T17:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Develop an appealing frontend application using v0 by Vercel
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Validation with Pandera in Python]]></title>
+        <id>https://medium.com/p/f07b0f845040</id>
+        <link href="https://towardsdatascience.com/data-validation-with-pandera-in-python-f07b0f845040?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T17:53:59.000Z</updated>
+        <author>
+            <name>Gabriel Furnieles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why imperfect adversarial robustness doesn't doom AI control]]></title>
+        <id>ewfGpHMXHhiwCA7se</id>
+        <link href="https://www.alignmentforum.org/posts/ewfGpHMXHhiwCA7se/why-imperfect-adversarial-robustness-doesn-t-doom-ai-control"/>
+        <updated>2024-11-18T16:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 18, 2024 4:05 PM GMT
+
+(thanks to Alex Mallen, Cody Rushing, Zach Stein-Perlman, Hoagy Cunningham, Vlad Mikulik, and Fabien Roger for comments)
+Sometimes I hear people argue against AI control as follows: if your control measures rely on getting good judgments from "trusted" AI models, you're doomed because AI models aren't adversarially robust. I agree that better adversarial robustness would definitely help with control, but I think this argument misses several important points; my overall take is that current levels of adversarial robustness don’t come close to dooming AI control.
+The first and most important point is that adversarial robustness is normally researched in a setting that’s much easier for the adversary. In most discussions, if an adversary can ever ge…]]></summary>
+        <author>
+            <name>Buck Shlegeris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia – Tokyo]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1104399</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/introducing-yasuyuki-matsushita-tackling-societal-challenges-with-ai-at-microsoft-research-asia-tokyo/"/>
+        <updated>2024-11-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yasuyuki Matsushita rejoins Microsoft to lead the new Microsoft Research Asia - Tokyo lab. Learn more about his journey and his perspective on the Tokyo lab's role in evolution of AI.
+The post Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia – Tokyo  appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Spreadsheets Are Dead for Big Data. Companies Need More Python Instead.]]></title>
+        <id>https://medium.com/p/71b8b3dbe19a</id>
+        <link href="https://towardsdatascience.com/excel-spreadsheets-are-dead-for-big-data-companies-need-more-python-instead-71b8b3dbe19a?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T12:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Data is getting too complicated for Excel to keep up
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA’s Nemotron-4-340B Assesses the Creativity of Gemini and GPT-4]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204483</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/nvidias-nemotron-4-340b/"/>
+        <updated>2024-11-18T11:45:20.000Z</updated>
+        <summary type="html"><![CDATA[The rise of large language models (LLMs) like Gemini and GPT-4 has transformed creative writing and dialogue generation, enabling machines to produce text that closely mirrors human creativity. These models are valuable tools for storytelling, content creation, and interactive systems, but evaluating the quality of their outputs remains challenging. Traditional human evaluation is subjective and […]
+The post NVIDIA’s Nemotron-4-340B Assesses the Creativity of Gemini and GPT-4 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Neil D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Behind Anthropic’s Contextual RAG for AI Retrieval]]></title>
+        <id>https://www.analyticsvidhya.com/?p=204580</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/anthropics-contextual-rag/"/>
+        <updated>2024-11-18T11:40:26.000Z</updated>
+        <summary type="html"><![CDATA[In an era where artificial intelligence (AI) is tasked with navigating and synthesizing vast amounts of information, the efficiency and accuracy of retrieval methods are paramount. Anthropic, a leading AI research company, has introduced a groundbreaking approach called Contextual Retrieval-Augmented Generation (RAG). This method marries traditional retrieval techniques with innovative tweaks, significantly enhancing retrieval accuracy and relevance. […]
+The post Magic Behind Anthropic’s Contextual RAG for AI Retrieval appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Neha Dwivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide to BART (Bidirectional & Autoregressive Transformer)]]></title>
+        <id>https://www.analyticsvidhya.com/?p=205076</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/bart-model/"/>
+        <updated>2024-11-18T11:12:06.000Z</updated>
+        <summary type="html"><![CDATA[BART is truly one of a kind in the ever-changing realm of NLP, as a strong model that has drastically changed the way we think of text generation and understanding. BART, which is short for Bidirectional and Autoregressive Transformer, takes the best aspects of both sides of the transformer architectures into one single view. In […]
+The post Guide to BART (Bidirectional & Autoregressive Transformer) appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>jay_s</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Swarm vs Microsoft Magentic-One: Which is Better for Multi-Agent Systems?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=205055</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/11/openai-swarm-vs-microsoft-magentic-one/"/>
+        <updated>2024-11-18T10:53:51.000Z</updated>
+        <summary type="html"><![CDATA[The field of multi-agent systems (MAS) in artificial intelligence is rapidly advancing with new frameworks enhancing collaborative and automated decision-making. Two new entries in this space are OpenAI’s Swarm and Microsoft’s Magentic-One, both of which offer different approaches to the development and deployment of multi-agent systems. In this article, we will explore the various features, […]
+The post OpenAI Swarm vs Microsoft Magentic-One: Which is Better for Multi-Agent Systems? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BiomedParse: A foundation model for smarter, all-in-one biomedical image analysis]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1101105</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/biomedparse-a-foundation-model-for-smarter-all-in-one-biomedical-image-analysis/"/>
+        <updated>2024-11-18T10:14:40.000Z</updated>
+        <summary type="html"><![CDATA[BiomedParse reimagines medical image analysis, integrating advanced AI to capture complex insights across imaging types—a step forward for diagnostics and precision medicine.
+The post BiomedParse: A foundation model for smarter, all-in-one biomedical image analysis appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Local to Cloud: Estimating GPU Resources for Open-Source LLMs]]></title>
+        <id>https://medium.com/p/b4a015a0174f</id>
+        <link href="https://towardsdatascience.com/from-local-to-cloud-estimating-gpu-resources-for-open-source-llms-b4a015a0174f?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-11-18T09:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Estimating GPU memory for deploying the latest open-source LLMs
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Maxime Jabarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Reduce Python Runtime for Demanding Tasks]]></title>
         <id>https://medium.com/p/2857efad0cec</id>
@@ -210,6 +382,16 @@ The post Building a RAG Pipeline for Hindi Documents with Indic LLMs appeared fi
 The post Zero-shot Object Detection with Owl ViT Base Patch32 appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Maigari David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tips for Avoiding Common Rookie Mistakes in Machine Learning Projects]]></title>
+        <id>https://machinelearningmastery.com/?p=18664</id>
+        <link href="https://machinelearningmastery.com/5-tips-for-avoiding-common-rookie-mistakes-in-machine-learning-projects/"/>
+        <updated>2024-11-15T09:00:55.000Z</updated>
+        <summary type="html"><![CDATA[It's easy enough to make poor decisions in your machine learning projects that derail your efforts and jeopardize your outcomes, especially as a beginner.]]></summary>
+        <author>
+            <name>Matthew Mayo</name>
         </author>
     </entry>
     <entry>
@@ -3993,200 +4175,6 @@ Continue reading on Towards Data Science »]]></summary>
 Continue reading on Towards Data Science »]]></summary>
         <author>
             <name>Thuwarakesh Murallie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One Mindset Change That Launched Me into Data Science]]></title>
-        <id>https://medium.com/p/3f72bd1df46f</id>
-        <link href="https://towardsdatascience.com/the-one-mindset-change-that-launched-me-into-data-science-3f72bd1df46f?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-19T12:02:05.000Z</updated>
-        <author>
-            <name>Philippe Ostiguy, M. Sc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate Your Own OpenAI API Key and Add Credits?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200308</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/openai-api-key-and-add-credits/"/>
-        <updated>2024-10-19T07:16:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI, a leading AI company, offers API keys for developers to interact with its platform and utilize its LLM models in various projects. In this article, you’ll learn how to create your own OpenAI API Key, updated as of 2024. The simplest and recommended way to generate your API key is through the OpenAI developer […]
-The post How to Generate Your Own OpenAI API Key and Add Credits? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Akash Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Ways to Use Generative AI for SEO]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200267</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/generative-ai-for-seo/"/>
-        <updated>2024-10-19T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of generative AI (GenAI) is transforming the way digital marketers approach search engine optimization (SEO). GenAI-driven tools are helping businesses improve search rankings and drive organic traffic more efficiently than ever. According to a survey by seoClarity, 86% of companies have already integrated AI into their SEO strategy, and 83% of them have […]
-The post 12 Ways to Use Generative AI for SEO appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementation of REAcT Agent using LlamaIndex and Gemini]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200311</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/implementation-of-react-agent-using-llamaindex-and-gemini/"/>
-        <updated>2024-10-19T06:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In the past 2-3 years, we’ve witnessed unreal development in the field of AI, mainly in large language models, diffusion models, multimodals, and so on. One of my favorite interests has been in agentic workflows. Early this year, Andrew Ng, the founder of Coursera and a pioneer in deep learning, made a tweet saying “Agentic […]
-The post Implementation of REAcT Agent using LlamaIndex and Gemini appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Tarun R Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All you need to know about Non-Inferiority Hypothesis Test]]></title>
-        <id>https://medium.com/p/c58a74ec4cc5</id>
-        <link href="https://towardsdatascience.com/all-you-need-to-know-about-non-inferiority-test-c58a74ec4cc5?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-19T04:36:54.000Z</updated>
-        <author>
-            <name>Prateek Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognitive Prompting in LLMs]]></title>
-        <id>https://medium.com/p/6234f6ab9a4b</id>
-        <link href="https://towardsdatascience.com/cognitive-prompting-in-llms-6234f6ab9a4b?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-19T01:39:14.000Z</updated>
-        <author>
-            <name>Oliver Kramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Studied LLMs in Two Weeks: A Comprehensive Roadmap]]></title>
-        <id>https://medium.com/p/e8ac19667a31</id>
-        <link href="https://towardsdatascience.com/how-i-studied-llms-in-two-weeks-a-comprehensive-roadmap-e8ac19667a31?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T23:58:10.000Z</updated>
-        <summary type="html"><![CDATA[A day-by-day detailed LLM roadmap from beginner to advanced, plus some study tips
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Hesam Sheikh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sabotage Evaluations for Frontier Models]]></title>
-        <id>nnvn6kaBLajiicH8e</id>
-        <link href="https://www.alignmentforum.org/posts/nnvn6kaBLajiicH8e/sabotage-evaluations-for-frontier-models"/>
-        <updated>2024-10-18T22:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 18, 2024 10:33 PM GMT
-
-This is a linkpost for a new research paper from the Alignment Evaluations team at Anthropic and other researchers, introducing a new suite of evaluations of models' abilities to undermine measurement, oversight, and decision-making.  Paper link.
-Abstract:
-
-Sufficiently capable models could subvert human oversight and decision-making in important contexts. For example, in the context of AI development, models could covertly sabotage efforts to evaluate their own dangerous capabilities, to monitor their behavior, or to make decisions about their deployment. We refer to this family of abilities as sabotage capabilities. We develop a set of related threat models and evaluations. These evaluations are designed to provide evidence that a given model, …]]></summary>
-        <author>
-            <name>David Duvenaud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Hopfield Networks]]></title>
-        <id>https://medium.com/p/2892761e0684</id>
-        <link href="https://towardsdatascience.com/on-hopfield-networks-2892761e0684?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T19:02:53.000Z</updated>
-        <summary type="html"><![CDATA[From the general model to a special case
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Arun Jagota</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging Smaller LLMs for Enhanced Retrieval-Augmented Generation (RAG)]]></title>
-        <id>https://medium.com/p/bc320e71223d</id>
-        <link href="https://towardsdatascience.com/leveraging-smaller-llms-for-enhanced-retrieval-augmented-generation-rag-bc320e71223d?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T17:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Llama-3.2–1 B-Instruct and LanceDB]]></summary>
-        <author>
-            <name>Alex Punnen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All You Need to Know to Build Radial Charts in Tableau]]></title>
-        <id>https://medium.com/p/686efc218c9c</id>
-        <link href="https://towardsdatascience.com/all-you-need-to-know-to-build-radial-charts-in-tableau-686efc218c9c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T17:38:42.000Z</updated>
-        <summary type="html"><![CDATA[You will never forget it after this!
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Isha Garg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing “Modular RAG” with Haystack and Hypster]]></title>
-        <id>https://medium.com/p/d2f0ecc88b8f</id>
-        <link href="https://towardsdatascience.com/implementing-modular-rag-with-haystack-and-hypster-d2f0ecc88b8f?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T17:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Transforming RAG Systems into LEGO-like Reconfigurable Frameworks]]></summary>
-        <author>
-            <name>Gilad Rubin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Anthropic’s Contextual Retrieval for Powerful RAG Performance]]></title>
-        <id>https://medium.com/p/b85173a65b83</id>
-        <link href="https://towardsdatascience.com/implementing-anthropics-contextual-retrieval-for-powerful-rag-performance-b85173a65b83?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T17:31:38.000Z</updated>
-        <summary type="html"><![CDATA[This article will show you how to implement the contextual retrieval idea proposed by Anthropic
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carving out your competitive advantage with AI]]></title>
-        <id>https://medium.com/p/a4babb931076</id>
-        <link href="https://towardsdatascience.com/carving-out-your-competitive-advantage-with-ai-a4babb931076?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-10-18T17:27:23.000Z</updated>
-        <author>
-            <name>Dr. Janna Lipenkova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Path for AI Agents]]></title>
-        <id>https://www.analyticsvidhya.com/?p=200412</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/10/learning-path-for-ai-agents/"/>
-        <updated>2024-10-18T17:07:50.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve landed on this blog, you’ve probably heard the terms AI Agents or Agentic AI trending everywhere. Maybe you’re wondering what they are and how to learn about them – well, you’re in the right place! Welcome to the AI Agents Learning Path! This path will guide you through essential concepts, tools, and techniques […]
-The post Learning Path for AI Agents appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Himanshi Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs can learn about themselves by introspection]]></title>
-        <id>L3aYFT4RDJYHbbsup</id>
-        <link href="https://www.alignmentforum.org/posts/L3aYFT4RDJYHbbsup/llms-can-learn-about-themselves-by-introspection"/>
-        <updated>2024-10-18T16:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 18, 2024 4:12 PM GMT
-Are LLMs capable of introspection, i.e. special access to their own inner states?
-Can they use this access to report facts about themselves that are not in the training data?  
-Yes — in simple tasks at least!
-TLDR:  We find that LLMs are capable of introspection on simple tasks.  We discuss potential implications of introspection for interpretability and the moral status of AIs.
-Paper Authors: Felix Binder, James Chua, Tomek Korbak, Henry Sleight, John Hughes, Robert Long, Ethan Perez, Miles Turpin, Owain Evans
-This post contains edited extracts from the full paper.
-Abstract
-Humans acquire knowledge by observing the external world, but also by introspection. Introspection gives a person privileged access to their current state of mind (e.g., though…]]></summary>
-        <author>
-            <name>Felix Binder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low Probability Estimation in Language Models]]></title>
-        <id>Tzbvdp5rhM4L8aSKL</id>
-        <link href="https://www.alignmentforum.org/posts/Tzbvdp5rhM4L8aSKL/low-probability-estimation-in-language-models"/>
-        <updated>2024-10-18T15:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 18, 2024 3:50 PM GMT
-
-ARC recently released our first empirical paper: Estimating the Probabilities of Rare Language Model Outputs. In this work, we construct a simple setting for low probability estimation — single-token argmax sampling in transformers — and use it to compare the performance of various estimation methods. ARC views low probability estimation as a potential technique for mitigating worst-case behavior from AI, including deceptive alignment; see our previous theory post on estimating tail risks in neural networks for further discussion.
-Outline of this post:
-Problem statement and description of our setting
-Estimation methods we compared: importance sampling and activation extrapolation
-Summary of empirical results
-Discussion, including motivation, limit…]]></summary>
-        <author>
-            <name>Gabriel Wu</name>
         </author>
     </entry>
 </feed>
