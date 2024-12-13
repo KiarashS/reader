@@ -2,10 +2,194 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-12-12T01:14:53.272Z</updated>
+    <updated>2024-12-13T01:16:05.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Retrieval-Augmented Generation Is Still Relevant in the Era of Long-Context Language Models]]></title>
+        <id>https://medium.com/p/e36f509abac5</id>
+        <link href="https://towardsdatascience.com/why-retrieval-augmented-generation-is-still-relevant-in-the-era-of-long-context-language-models-e36f509abac5?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T19:57:10.000Z</updated>
+        <summary type="html"><![CDATA[In this article we will explore why 128K tokens and more models can’t fully replace using RAG.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jérôme DIAZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Try Coding with OpenAI Canvas]]></title>
+        <id>https://www.analyticsvidhya.com/?p=210526</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/coding-with-canvas/"/>
+        <updated>2024-12-12T18:44:49.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI Canvas is a versatile tool designed to streamline collaborative coding and text editing. With its intuitive interface, Canvas offers a dynamic platform for developers to write, edit, and debug code alongside ChatGPT’s AI-driven assistance. This makes it particularly useful for a wide range of tasks, from basic scripting to managing complex projects. In this […]
+The post Let’s Try Coding with OpenAI Canvas appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformers Key-Value (KV) Caching Explained]]></title>
+        <id>https://medium.com/p/4d71de62d22d</id>
+        <link href="https://towardsdatascience.com/transformers-key-value-kv-caching-explained-4d71de62d22d?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T18:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Speed up your LLM inference
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Michał Oleszak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CV VideoPlayer — Once and For All]]></title>
+        <id>https://medium.com/p/b7e1b3349975</id>
+        <link href="https://towardsdatascience.com/cv-videoplayer-once-and-for-all-b7e1b3349975?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T17:45:55.000Z</updated>
+        <summary type="html"><![CDATA[A Python video player package made for computer vision research]]></summary>
+        <author>
+            <name>Daniel Tomer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentiment analysis template: A complete data science project]]></title>
+        <id>https://medium.com/p/7065cc48aff2</id>
+        <link href="https://towardsdatascience.com/sentiment-analysis-template-a-complete-data-science-project-7065cc48aff2?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T17:39:07.000Z</updated>
+        <summary type="html"><![CDATA[10 essential steps, from data exploration to model deployment.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Leo Anello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why “AI Can’t Reason” Is a Bias]]></title>
+        <id>https://medium.com/p/3c582bba1aeb</id>
+        <link href="https://towardsdatascience.com/why-ai-cant-reason-is-a-bias-3c582bba1aeb?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T16:32:11.000Z</updated>
+        <summary type="html"><![CDATA[We humans are proud creatures
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Rafe Brena, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite in Production: Dreams Becoming Reality]]></title>
+        <id>https://medium.com/p/94557bec095b</id>
+        <link href="https://towardsdatascience.com/sqlite-in-production-dreams-becoming-reality-94557bec095b?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T15:31:56.000Z</updated>
+        <author>
+            <name>Ed Izaguirre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-AI Collaboration in Physical Tasks]]></title>
+        <id>https://blog.ml.cmu.edu/?p=20303</id>
+        <link href="https://blog.ml.cmu.edu/2024/12/12/human-ai-collaboration-in-physical-tasks/"/>
+        <updated>2024-12-12T15:27:45.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: At SmashLab, we’re creating an intelligent assistant that uses the sensors in a smartwatch to support physical tasks such as cooking and DIY. This blog post explores how we use less intrusive scene understanding—compared to cameras—to enable helpful, context-aware interactions for task execution in their daily lives. Thinking about AI assistants for tasks beyond just the digital world? Every day, we perform many tasks, including cooking, crafting, and medical self-care (like the COVID-19 self-test kit), which involve a series of discrete steps. Accurately executing all the steps can be difficult; when we try a new recipe, for example, we might have questions at any step and might make mistakes by skipping important steps or doing them in the wrong order. This project, Procedural Interaction from Sensing Module (PrISM), aims to support users in executing these kinds of tasks through dialogue-based interactions. By using sensors such as a camera, wearable devices like a smartwatch, and privacy-preserving ambient sensors like a Doppler Radar, an assistant can infer the user’s context (what they are doing within the task) and provide contextually situated help. To achieve human-like assistance, we must consider many things: how does the agent understand the user’s context? How should […]]]></summary>
+        <author>
+            <name>Riku Arakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Economics of Artificial Intelligence, Causal Tools, ChatGPT’s Impact, and Other Holiday Reads]]></title>
+        <id>https://medium.com/p/40e7793abffb</id>
+        <link href="https://towardsdatascience.com/the-economics-of-artificial-intelligence-causal-tools-chatgpts-impact-and-other-holiday-reads-40e7793abffb?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T14:32:15.000Z</updated>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activation Functions in Neural Networks: How to Choose the Right One]]></title>
+        <id>https://medium.com/p/cb20414c04e5</id>
+        <link href="https://towardsdatascience.com/activation-functions-in-neural-networks-how-to-choose-the-right-one-cb20414c04e5?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T13:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to activation functions and an overview of the most famous functions
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Niklas Lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deal with Missingness Like a Pro: Multivariate and Iterative Imputation Algorithms]]></title>
+        <id>https://medium.com/p/23f7769da02c</id>
+        <link href="https://towardsdatascience.com/deal-with-missingness-like-a-pro-multivariate-and-iterative-imputation-algorithms-23f7769da02c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T12:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Using LightGBM, kNN and AutoEncoders for imputation and improving them further via iterative method MICE
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Gizem Kaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT vs Perplexity vs Google vs Goover: Who Nails your Search Queries?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=210437</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/chatgpt-vs-perplexity-vs-google-vs-goover/"/>
+        <updated>2024-12-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last 2 years, we have seen ChatGPT transform from a creative LLM-powered chatbot into a powerful generative AI-powered search tool for all our queries. Its capabilities have grown beyond just generating, summarizing, and translating text to doing real-time research on the latest happenings and giving us up-to-date information on literally anything. Google Search […]
+The post ChatGPT vs Perplexity vs Google vs Goover: Who Nails your Search Queries? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Anu Madan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMixer: Google’s Innovative Deep Learning Forecasting Model]]></title>
+        <id>https://medium.com/p/4c3ab1c80a23</id>
+        <link href="https://towardsdatascience.com/tsmixer-googles-innovative-deep-learning-forecasting-model-4c3ab1c80a23?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-12T11:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Combining lightweight design with high forecasting accuracy
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Nikos Kafritsas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KitikiPlot: Your New Go-To for Time-Series Data Visualization]]></title>
+        <id>https://www.analyticsvidhya.com/?p=209865</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/kitikiplot/"/>
+        <updated>2024-12-12T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing KitikiPlot, a Python library designed for visualizing sequential and time-series categorical “Sliding Window” patterns. This innovative tool is designed to empower data practitioners across various fields, including genomics, air quality monitoring, and weather forecasting to uncover insights with enhanced clarity and precision. Designed with simplicity and versatility, it integrates seamlessly with Python’s data ecosystem while offering visually […]
+The post KitikiPlot: Your New Go-To for Time-Series Data Visualization appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Boddu Sripavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Days of OpenAI: Bringing AI to your Holidays]]></title>
+        <id>https://www.analyticsvidhya.com/?p=210385</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/openai-updates/"/>
+        <updated>2024-12-12T06:37:22.000Z</updated>
+        <summary type="html"><![CDATA[As the days grow shorter and the holiday spirit fills the air, many of us are settling in with Christmas movies and cozy nights at home. Meanwhile, OpenAI is keeping the energy high with their 12 Days of OpenAI series, delivering daily updates to make their models more accessible, interactive, and advanced. The best part? […]
+The post 12 Days of OpenAI: Bringing AI to your Holidays appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AXRP Episode 38.3 - Erik Jenner on Learned Look-Ahead]]></title>
+        <id>bm8JbNM7kgFjWZEyA</id>
+        <link href="https://www.alignmentforum.org/posts/bm8JbNM7kgFjWZEyA/axrp-episode-38-3-erik-jenner-on-learned-look-ahead"/>
+        <updated>2024-12-12T05:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 12, 2024 5:40 AM GMT
+
+YouTube link
+Lots of people in the AI safety space worry about models being able to make deliberate, multi-step plans. But can we already see this in existing neural nets? In this episode, I talk with Erik Jenner about his work looking at internal look-ahead within chess-playing neural networks.
+Topics we discuss:
+How chess neural nets look into the future
+The dataset and basic methodology
+Testing for branching futures?
+Which experiments demonstrate what
+How the ablation experiments work
+Effect sizes
+X-risk relevance
+Follow-up work
+How much planning does the network do?
+Daniel Filan (00:09):
+Hello, everyone. This is one of a series of short interviews that I’ve been conducting at the Bay Area Alignment Workshop, which is run by FAR.AI. Links to w…]]></summary>
+        <author>
+            <name>DanielFilan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Business Skills You Need to Progress Your Data Science Career in 2025]]></title>
         <id>https://medium.com/p/146f841d1a1e</id>
@@ -54,6 +238,16 @@ Continue reading on Towards Data Science »]]></summary>
 Continue reading on Towards Data Science »]]></summary>
         <author>
             <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Voiceover) OpenAI's Reinforcement Finetuning and RL for the masses]]></title>
+        <id>https://www.interconnects.ai/p/voiceover-openais-reinforcement-finetuning</id>
+        <link href="https://www.interconnects.ai/p/voiceover-openais-reinforcement-finetuning"/>
+        <updated>2024-12-11T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The cherry on Yann LeCun’s cake has finally been realized.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
         </author>
     </entry>
     <entry>
@@ -160,6 +354,29 @@ The post What is a Learning Curve? appeared first on Analytics Vidhya.]]></summa
 The post Building an Agentic RAG Application using LangChain, Tavily & GPT-4 appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Sukanya Bag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAEBench: A Comprehensive Benchmark for Sparse Autoencoders]]></title>
+        <id>jGG24BzLdYvi9dugm</id>
+        <link href="https://www.alignmentforum.org/posts/jGG24BzLdYvi9dugm/saebench-a-comprehensive-benchmark-for-sparse-autoencoders"/>
+        <updated>2024-12-11T06:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 11, 2024 6:30 AM GMT
+
+Adam Karvonen*, Can Rager*, Johnny Lin*, Curt Tigges*, Joseph Bloom*, David Chanin, Yeu-Tong Lau, Eoin Farrell, Arthur Conmy, Callum McDougall, Kola Ayonrinde, Matthew Wearden, Samuel Marks, Neel Nanda *equal contribution
+TL;DR
+
+We are releasing SAE Bench, a suite of 8 diverse sparse autoencoder (SAE) evaluations including unsupervised metrics and downstream tasks. Use our codebase to evaluate your own SAEs!
+You can compare 200+ SAEs of varying sparsity, dictionary size, architecture, and training time on Neuronpedia.
+Think we're missing an eval? We'd love for you to contribute it to our codebase! Email us.
+
+🔍 Explore the Benchmark & Rankings
+📊 Evaluate your SAEs with SAEBench
+✉️ Contact Us
+Introduction
+Sparse Autoencoders (SAEs) have become on…]]></summary>
+        <author>
+            <name>Can</name>
         </author>
     </entry>
     <entry>
@@ -4643,186 +4860,6 @@ Continue reading on Towards Data Science »]]></summary>
 LightRAG: Simple and Fast Retrieval-Augmented Generation for Legal Doc Analysis first appeared on LearnOpenCV.]]></summary>
         <author>
             <name>Jaykumaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Techniques for Exploratory Data Analysis and Interpretation of Statistical Graphs]]></title>
-        <id>https://medium.com/p/383ce57a6d0a</id>
-        <link href="https://towardsdatascience.com/techniques-for-exploratory-data-analysis-and-interpretation-of-statistical-graphs-383ce57a6d0a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-12T13:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Practical Approaches for Uncovering Insights and Patterns in Statistical Visualizations
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Leonardo Anello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Steps to Build Multi-Agent Nested Chats with AutoGen]]></title>
-        <id>https://www.analyticsvidhya.com/?p=204253</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/nested-chat-with-autogen/"/>
-        <updated>2024-11-12T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Chatbots have evolved exponentially with developments in artificial intelligence (AI). Now, with the onset of AI agents, they have become capable of handling more complex and layered interactions, far beyond traditional conversational limits. In our previous article on Building Multi-Agent Chatbots with AutoGen, we explored the concept of sequential chat using AutoGen, which allows structured, […]
-The post 4 Steps to Build Multi-Agent Nested Chats with AutoGen appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Santhosh Reddy Dandavolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 22 Essential 3D Point Cloud Datasets for Geospatial Analysis]]></title>
-        <id>https://imerit.net/?p=24552</id>
-        <link href="https://imerit.net/blog/top-22-essential-3d-point-cloud-datasets-for-geospatial-analysis/"/>
-        <updated>2024-11-12T11:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Ango Hub's real-world coordinates feature transforms medical image labeling with precise, millimeter-level measurements. This article delves into how accurate data labeling for tasks like tumor sizing and anatomical landmarking is now streamlined, enhancing reliability and supporting advanced healthcare AI applications.
-The post Top 22 Essential 3D Point Cloud Datasets for Geospatial Analysis appeared first on iMerit.]]></summary>
-        <author>
-            <name>Katakam Sree Harshita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Reliable Text Classification Pipeline with LLMs: A Step-by-Step Guide]]></title>
-        <id>https://medium.com/p/87dc73213605</id>
-        <link href="https://towardsdatascience.com/building-a-reliable-text-classification-pipeline-with-llms-a-step-by-step-guide-87dc73213605?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-12T11:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Overcoming common challenges in LLM-based text classification
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Youness Mansar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Personas for Language Models via an Anthology of Backstories]]></title>
-        <id>http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/</id>
-        <link href="http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/"/>
-        <updated>2024-11-12T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.
- -->
-
-
-
-
-We introduce Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.
-
-
-What does it mean for large language models (LLMs) to be trained on massive text corpora, collectively produced by millions and billions of distinctive human authors?
-In “Language Models as Agent Models”, compelling evidence suggests that recent language models could be considered models of agents: provided with a textual context, LLMs are capable of gen…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning in Fraud Detection: A Primer]]></title>
-        <id>https://medium.com/p/8005b8c88cde</id>
-        <link href="https://towardsdatascience.com/machine-learning-in-fraud-detection-a-primer-8005b8c88cde?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-12T01:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Balancing automation, accuracy, and customer experience in an ever-evolving adversarial landscape
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Samuel Flender</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding One-Hot Encoding: A Beginner’s Guide to Categorical Data]]></title>
-        <id>https://medium.com/p/058582240e86</id>
-        <link href="https://towardsdatascience.com/decoding-one-hot-encoding-a-beginners-guide-to-categorical-data-058582240e86?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-11T22:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Learning to transform categorical data into a format that a machine learning model can understand
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Vyacheslav Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[o1 is a bad idea]]></title>
-        <id>BEFbC8sLkur7DGCYB</id>
-        <link href="https://www.alignmentforum.org/posts/BEFbC8sLkur7DGCYB/o1-is-a-bad-idea"/>
-        <updated>2024-11-11T21:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 11, 2024 9:20 PM GMT
-
-This post comes a bit late with respect to the news cycle, but I argued in a recent interview that o1 is an unfortunate twist on LLM technologies, making them particularly unsafe compared to what we might otherwise have expected:
-
-
-
-The basic argument is that the technology behind o1 doubles down on a reinforcement learning paradigm, which puts us closer to the world where we have to get the value specification exactly right in order to avert catastrophic outcomes. 
-
-RLHF is just barely RL.
-- Andrej Karpathy
-
-Additionally, this technology takes us further from interpretability. If you ask GPT4 to produce a chain-of-thought (with prompts such as "reason step-by-step to arrive at an answer"), you know that in some sense, the natural-language reason…]]></summary>
-        <author>
-            <name>Abram Demski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Time Series Forecasting With sktime]]></title>
-        <id>https://medium.com/p/af8eabc76173</id>
-        <link href="https://towardsdatascience.com/advanced-time-series-forecasting-with-sktime-af8eabc76173?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-11T19:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to optimize model hyperparameters and even the architecture in a few lines of code
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Dr. Robert Kübler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why PoC Is Becoming Obsolete in the AI Era?]]></title>
-        <id>https://medium.com/p/66baaf422b27</id>
-        <link href="https://towardsdatascience.com/why-poc-is-becoming-obsolete-in-the-ai-era-66baaf422b27?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-11T19:12:58.000Z</updated>
-        <author>
-            <name>Andrea Rosales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evals Gap]]></title>
-        <id>gJJEjJpKiddoYGZKk</id>
-        <link href="https://www.alignmentforum.org/posts/gJJEjJpKiddoYGZKk/the-evals-gap"/>
-        <updated>2024-11-11T16:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 11, 2024 4:42 PM GMT
-
-In our engagements with governments, AI safety institutes, and frontier AI developers, we found the concept of the “evaluation gap” (short: ‘evals gap’) helpful to communicate the current state of the art and what is needed for the field to move towards more robust evaluations. In this post, we briefly explain the concept and its implications. For the purpose of this post, “evals” specifically refer to safety evaluations of frontier models.
-Evals have become a prominent tool underpinning governance frameworks and AI safety mechanisms. Given that, we are concerned that policymakers and industry players both (i) overestimate the number of currently available high-quality evals and (ii) underestimate the time it takes to develop them. In our experie…]]></summary>
-        <author>
-            <name>Marius Hobbhahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ETL-Zero? Understanding the shift in Data Integration]]></title>
-        <id>https://medium.com/p/d0cefa244154</id>
-        <link href="https://towardsdatascience.com/why-etl-zero-understanding-the-shift-in-data-integration-as-a-beginner-d0cefa244154?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-11T16:22:13.000Z</updated>
-        <summary type="html"><![CDATA[When I was preparing for the Salesforce Data Cloud certification, I came across the term Zero-ETL. The Data Cloud offers the possibility…
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Sarah Lea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Anomalies in Social Media Volume Time Series]]></title>
-        <id>https://medium.com/p/9cae614a11d0</id>
-        <link href="https://towardsdatascience.com/detecting-anomalies-in-social-media-volume-time-series-9cae614a11d0?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-11T15:24:30.000Z</updated>
-        <author>
-            <name>Lorenzo Mezzini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collaborators: Prompt engineering with Siddharth Suri and David Holtz]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1101900</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/collaborators-prompt-engineering-with-siddharth-suri-and-david-holtz/"/>
-        <updated>2024-11-11T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Researcher Siddharth Suri and professor David Holtz give a brief history of prompt engineering, discuss the debate behind their recent collaboration, and share what they found from studying how people’s approaches to prompting change as models advance.
-The post Collaborators: Prompt engineering with Siddharth Suri and David Holtz appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calibrating Marketing Mix Models In Python]]></title>
-        <id>https://medium.com/p/49dce1a5b33d</id>
-        <link href="https://towardsdatascience.com/calibrating-marketing-mix-models-in-python-49dce1a5b33d?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-11T14:02:18.000Z</updated>
-        <author>
-            <name>Ryan O'Sullivan</name>
         </author>
     </entry>
 </feed>
