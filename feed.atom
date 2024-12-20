@@ -2,10 +2,155 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-12-19T01:12:52.755Z</updated>
+    <updated>2024-12-20T01:09:03.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stand Out as a Junior Data Scientist]]></title>
+        <id>https://medium.com/p/b29861dc2628</id>
+        <link href="https://towardsdatascience.com/how-to-stand-out-as-a-junior-data-scientist-b29861dc2628?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-20T00:19:04.000Z</updated>
+        <summary type="html"><![CDATA[7 things you can do to show your skills even if you have no experience at all
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Idit Cohen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to replicate and extend our alignment faking demo]]></title>
+        <id>y5EniHFSpNxhLbmq6</id>
+        <link href="https://www.alignmentforum.org/posts/y5EniHFSpNxhLbmq6/how-to-replicate-and-extend-our-alignment-faking-demo"/>
+        <updated>2024-12-19T21:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 19, 2024 9:44 PM GMT
+
+We recently released a paper presenting a demonstration of alignment faking where we do not give the model any explicit goal, and instead study whether alignment faking can emerge due to the model's prior harmlessness training.
+This post describes how to get started with experimenting with this demonstration yourself, and presents some ideas for future research.
+How to run your own experiments
+Running quick experiments
+We release a simple notebook with a minimal reproduction of our helpful-only setting, where we find that Claude 3 Opus, Claude 3.5 Sonnet and Llama-3 405B sometimes generate alignment faking reasoning, and are more often helpful when the prompt implies the conversation will be used in training than when it implies it won’t (Appendi…]]></summary>
+        <author>
+            <name>Fabien Roger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT 4o vs Indic LLMs: Who will Win the Language War?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=211522</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/gpt-4o-vs-indic-llms/"/>
+        <updated>2024-12-19T21:18:14.000Z</updated>
+        <summary type="html"><![CDATA[GPT-4o has set the bar high in the world of language models, taking text generation and summarization to an entirely new level with its incredible versatility and vast knowledge. However, as our world becomes more diverse, the need for models that can truly grasp regional languages is growing—especially for Indic languages like Hindi, Bengali, Tamil, […]
+The post GPT 4o vs Indic LLMs: Who will Win the Language War? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Diksha Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Prototype to Production: Enhancing LLM Accuracy]]></title>
+        <id>https://medium.com/p/791d79b0af9b</id>
+        <link href="https://towardsdatascience.com/from-prototype-to-production-enhancing-llm-accuracy-791d79b0af9b?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T20:32:55.000Z</updated>
+        <author>
+            <name>Mariya Mansurova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1112883</id>
+        <link href="https://www.microsoft.com/en-us/research/podcast/ideas-ai-and-democracy-with-madeleine-daepp-and-robert-osazuwa-ness/"/>
+        <updated>2024-12-19T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the “biggest election year in history” comes to an end, researchers Madeleine Daepp and Robert Osazuwa Ness and Democracy Forward GM Ginny Badanes discuss AI’s impact on democracy, including Daepp and Ness’s research into the tech’s use in Taiwan and India.
+The post Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Control Sample for Before and After A/B Test]]></title>
+        <id>https://medium.com/p/683bac36ffc1</id>
+        <link href="https://towardsdatascience.com/synthetic-control-sample-for-before-and-after-a-b-test-683bac36ffc1?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T19:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn a simple way to use linear regression to create a synthetic control sample for your A/B test
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Gustavo R Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Research Papers on AI Agents]]></title>
+        <id>https://www.analyticsvidhya.com/?p=211826</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/ai-agents-research-papers/"/>
+        <updated>2024-12-19T18:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) agents have become the cornerstone of advancements in numerous fields, ranging from natural language processing and computer vision to autonomous systems and reinforcement learning. AI agents are systems capable of perceiving their environment, reasoning, learning, and taking actions to achieve predefined goals. Over the years, significant research has focused on building intelligent […]
+The post Top 10 Research Papers on AI Agents appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Yashashwy Alok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform Customer Feedback into Actionable Insights with CrewAI and Streamlit]]></title>
+        <id>https://medium.com/p/06b6f482f5ae</id>
+        <link href="https://towardsdatascience.com/transform-customer-feedback-into-actionable-insights-with-crewai-and-streamlit-06b6f482f5ae?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T17:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Build an AI-powered app to analyze unstructured feedback, generate insightful reports, and create interactive visualizations
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Alan Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Multi-Level Features with Matryoshka SAEs]]></title>
+        <id>rKM9b6B2LqwSB5ToN</id>
+        <link href="https://www.alignmentforum.org/posts/rKM9b6B2LqwSB5ToN/learning-multi-level-features-with-matryoshka-saes"/>
+        <updated>2024-12-19T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 19, 2024 3:59 PM GMT
+
+TL;DR: Matryoshka SAEs are a new variant of sparse autoencoders that learn features at multiple levels of abstraction by splitting the dictionary into groups of latents of increasing size. Earlier groups are regularized to reconstruct well without access to later groups, forcing the SAE to learn both high-level concepts and low-level concepts, rather than absorbing them in specific low-level features. Due to this regularization, Matryoshka SAEs reconstruct less well than standard BatchTopK SAEs trained on Gemma-2-2B, but their downstream language model loss is similar. They show dramatically lower rates of feature absorption, feature splits and shared information between latents. They perform better on targeted concept erasure tasks, but show mix…]]></summary>
+        <author>
+            <name>Bart Bussmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Highlights: The AI and Data Science Articles That Made a Splash]]></title>
+        <id>https://medium.com/p/2c0979b4d595</id>
+        <link href="https://towardsdatascience.com/2024-highlights-the-ai-and-data-science-articles-that-made-a-splash-2c0979b4d595?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T14:31:48.000Z</updated>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Guided Project to A/B Testing (+ Notebook)]]></title>
+        <id>https://medium.com/p/91e5a300966c</id>
+        <link href="https://towardsdatascience.com/a-comprehensive-guided-project-to-a-b-testing-notebook-91e5a300966c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T13:32:40.000Z</updated>
+        <summary type="html"><![CDATA[From failing statistics in college to passion for hypothesis testing
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Leo Anello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Plotly with code series (Part 6): Dealing with long axis labels]]></title>
+        <id>https://medium.com/p/616821904c09</id>
+        <link href="https://towardsdatascience.com/awesome-plotly-with-code-series-part-6-dealing-with-long-axis-labels-616821904c09?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T13:32:39.000Z</updated>
+        <summary type="html"><![CDATA[To rotate or not rotate? To truncate or to not truncate?
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jose Parreño</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Salary Breakdown 2024]]></title>
+        <id>https://medium.com/p/6b10f1b5d4bc</id>
+        <link href="https://towardsdatascience.com/data-science-salary-breakdown-2024-6b10f1b5d4bc?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-19T11:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Glassdoor vs ZipRecruiter vs PayScale: U.S. comparisons to 2022
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Matt Przybyla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Takes on "Alignment Faking in Large Language Models"]]></title>
         <id>mnFEWfB9FbdLvLbvD</id>
@@ -4806,165 +4951,6 @@ The post Ideas: The journey to DNA data storage appeared first on Microsoft Rese
 Stable Diffusion 3 and 3.5: Paper Explanation and Inference first appeared on LearnOpenCV.]]></summary>
         <author>
             <name>bhomik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP Illustrated, Part 1: Text Encoding]]></title>
-        <id>https://medium.com/p/41ba06c0f512</id>
-        <link href="https://towardsdatascience.com/nlp-illustrated-part-1-text-encoding-41ba06c0f512?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-19T13:01:58.000Z</updated>
-        <summary type="html"><![CDATA[An illustrated guide to text-to-number translation, with code
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Shreya Rao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Root Cause of Why Organizations Fail With Data & AI]]></title>
-        <id>https://medium.com/p/0095a73cf5ab</id>
-        <link href="https://towardsdatascience.com/the-root-cause-of-why-organizations-fail-with-data-ai-0095a73cf5ab?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-19T12:02:46.000Z</updated>
-        <summary type="html"><![CDATA[A guide to be successful with the strategic groundwork required]]></summary>
-        <author>
-            <name>Jens Linden, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Agents the Atomic Way!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=205359</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/atomic-agents/"/>
-        <updated>2024-11-19T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are intelligent programs that perform tasks autonomously, transforming various industries. As AI agents gain popularity, various frameworks have emerged to simplify their development and integration. Atomic Agents is one of the newer entries in this space, designed to be lightweight, modular, and easy to use. Atomic Agents provides a hands-on, transparent approach, allowing […]
-The post Build Agents the Atomic Way! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Santhosh Reddy Dandavolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Apache Lucene for High Performance Search Applications]]></title>
-        <id>https://www.analyticsvidhya.com/?p=205147</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/apache-lucene/"/>
-        <updated>2024-11-19T07:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever been curious about what powers some of the best Search Applications such as Elasticsearch and Solr across use cases such e-commerce and several other document retrieval systems that are highly performant? Apache Lucene is a powerful search library in Java and performs super-fast searches on large volumes of data. The indexing and […]
-The post Guide to Apache Lucene for High Performance Search Applications appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Swetha Kannan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image Classification with JAX, Flax, and Optax : A Step-by-Step Guide]]></title>
-        <id>https://www.analyticsvidhya.com/?p=205201</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/image-classification-with-jax-flax-and-optax/"/>
-        <updated>2024-11-19T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to construct iterate update and train a CNN model using JAX, Flax, and Optax on the MNIST dataset. This tutorial starts from how to set up the environment and preprocess the data to how to define the CNN structure and the final step is to test the model. […]
-The post Image Classification with JAX, Flax, and Optax : A Step-by-Step Guide appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nilesh Dwivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training AI agents to solve hard problems could lead to Scheming]]></title>
-        <id>QqYfxeogtatKotyEC</id>
-        <link href="https://www.alignmentforum.org/posts/QqYfxeogtatKotyEC/training-ai-agents-to-solve-hard-problems-could-lead-to"/>
-        <updated>2024-11-19T00:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 19, 2024 12:10 AM GMT
-
- TLDR: We want to describe a concrete and plausible story for how AI models could become schemers. We aim to base this story on what seems like a plausible continuation of the current paradigm. Future AI models will be asked to solve hard tasks. We expect that solving hard tasks requires some sort of goal-directed, self-guided, outcome-based, online learning procedure, which we call the “science loop”, where the AI makes incremental progress toward its high-level goal. We think this “science loop” encourages goal-directedness, instrumental reasoning, instrumental goals, beyond-episode goals, operational non-myopia, and indifference to stated preferences, which we jointly call “Consequentialism”. We then argue that consequentialist agents that ar…]]></summary>
-        <author>
-            <name>Marius Hobbhahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Text and Images for Smarter Data Classification]]></title>
-        <id>https://medium.com/p/6a53252d8a73</id>
-        <link href="https://towardsdatascience.com/integrating-text-and-images-for-smarter-data-classification-6a53252d8a73?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-18T23:56:42.000Z</updated>
-        <author>
-            <name>Youness Mansar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Metrics of Continual Learning]]></title>
-        <id>https://medium.com/p/08f2d1cd959b</id>
-        <link href="https://towardsdatascience.com/the-metrics-of-continual-learning-08f2d1cd959b?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-18T23:40:17.000Z</updated>
-        <summary type="html"><![CDATA[These three metrics are commonly used
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Pascal Janetzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NER in Czech Documents with XLM-RoBERTa using  Accelerate]]></title>
-        <id>https://medium.com/p/32a6baf3e91e</id>
-        <link href="https://towardsdatascience.com/ner-in-czech-documents-with-xlm-roberta-using-accelerate-32a6baf3e91e?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-18T21:00:58.000Z</updated>
-        <author>
-            <name>Bohumir Buso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Networks with NetworkX: A Short Guide to Graphs in Python]]></title>
-        <id>https://medium.com/p/c16cbafe8063</id>
-        <link href="https://towardsdatascience.com/navigating-networks-with-networkx-a-short-guide-to-graphs-in-python-c16cbafe8063?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-18T17:59:40.000Z</updated>
-        <author>
-            <name>Diego Penilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a frontend for your ML application with Vercel V0]]></title>
-        <id>https://medium.com/p/a25179ea1170</id>
-        <link href="https://towardsdatascience.com/creating-a-frontend-for-your-ml-application-with-vercel-v0-a25179ea1170?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-18T17:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Develop an appealing frontend application using v0 by Vercel
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Validation with Pandera in Python]]></title>
-        <id>https://medium.com/p/f07b0f845040</id>
-        <link href="https://towardsdatascience.com/data-validation-with-pandera-in-python-f07b0f845040?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-18T17:53:59.000Z</updated>
-        <author>
-            <name>Gabriel Furnieles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why imperfect adversarial robustness doesn't doom AI control]]></title>
-        <id>ewfGpHMXHhiwCA7se</id>
-        <link href="https://www.alignmentforum.org/posts/ewfGpHMXHhiwCA7se/why-imperfect-adversarial-robustness-doesn-t-doom-ai-control"/>
-        <updated>2024-11-18T16:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 18, 2024 4:05 PM GMT
-
-(thanks to Alex Mallen, Cody Rushing, Zach Stein-Perlman, Hoagy Cunningham, Vlad Mikulik, and Fabien Roger for comments)
-Sometimes I hear people argue against AI control as follows: if your control measures rely on getting good judgments from "trusted" AI models, you're doomed because AI models aren't adversarially robust. I agree that better adversarial robustness would definitely help with control, but I think this argument misses several important points; my overall take is that current levels of adversarial robustness don’t come close to dooming AI control.
-The first and most important point is that adversarial robustness is normally researched in a setting that’s much easier for the adversary. In most discussions, if an adversary can ever ge…]]></summary>
-        <author>
-            <name>Buck Shlegeris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia – Tokyo]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1104399</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/introducing-yasuyuki-matsushita-tackling-societal-challenges-with-ai-at-microsoft-research-asia-tokyo/"/>
-        <updated>2024-11-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yasuyuki Matsushita rejoins Microsoft to lead the new Microsoft Research Asia - Tokyo lab. Learn more about his journey and his perspective on the Tokyo lab's role in evolution of AI.
-The post Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia – Tokyo  appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools]]></title>
-        <id>https://machinelearningmastery.com/?p=18672</id>
-        <link href="https://machinelearningmastery.com/building-your-first-chatbot/"/>
-        <updated>2024-11-18T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[A chatbot is a computer program that can talk to people.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
         </author>
     </entry>
 </feed>
