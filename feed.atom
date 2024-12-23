@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-12-22T01:14:32.801Z</updated>
+    <updated>2024-12-23T01:10:41.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Agentic Approach to Reducing LLM Hallucinations]]></title>
+        <id>https://medium.com/p/f7ffd6eedcf2</id>
+        <link href="https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-22T21:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Simple techniques to alleviate LLM hallucinations using LangGraph]]></summary>
+        <author>
+            <name>Youness Mansar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A breakdown of AI capability levels focused on AI R&D labor acceleration]]></title>
+        <id>LjgcRbptarrRfJWtR</id>
+        <link href="https://www.alignmentforum.org/posts/LjgcRbptarrRfJWtR/a-breakdown-of-ai-capability-levels-focused-on-ai-r-and-d"/>
+        <updated>2024-12-22T20:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 22, 2024 8:56 PM GMT
+
+In a variety of conversations about AI misalignment risks, I find that it is important to be able to clearly point at different levels of AI capability. My current favorite approach is to talk about how much the AI accelerates AI R&D[1] labor.
+I define acceleration of AI R&D labor by Y times as "the level of acceleration which is as useful (for making more powerful AIs) for an AI company as having its employees run Y times faster[2] (when you allow the total inference compute budget for AI assistance to be equal to total salaries)". Importantly, a 5x AI R&D labor acceleration won't necessarily mean that research into making AI systems more powerful happens 5x faster, as this just refers to increasing the labor part of the production function, and…]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI o3 and o3-mini: What to Expect?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=212030</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/o3-and-o3-mini/"/>
+        <updated>2024-12-22T18:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Concluding “12 Days of OpenAI” series, OpenAI introduced the o3 series, highlighting their superior performance in reasoning, coding, and mathematical tasks while maintaining cost-effectiveness. The o3 models achieved an advanced score of 75.7% on the ARC-AGI benchmark, a challenging test of general intelligence that had remained unbeaten for FIVE years. Let’s have a closer look […]
+The post OpenAI o3 and o3-mini: What to Expect? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a WhatsApp AI Agent with GPT-4o]]></title>
+        <id>https://medium.com/p/f0bc197d2ac0</id>
+        <link href="https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-22T17:32:02.000Z</updated>
+        <author>
+            <name>Lukasz Kowejsza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 30 Machine Learning Projects for Beginners in 2025]]></title>
+        <id>https://www.analyticsvidhya.com/?p=211795</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/machine-learning-projects/"/>
+        <updated>2024-12-22T16:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a world where algorithms help doctors diagnose illnesses in seconds, self-driving cars navigate effortlessly, and gadgets anticipate our needs before we even ask. Sounds like science fiction? As we approach 2025, machine learning is turning these visions into reality. From chatbots that hold human-like conversations to recommendation systems that know your next favorite movie, […]
+The post Top 30 Machine Learning Projects for Beginners in 2025 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Akash Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience Advanced AI Anywhere with Falcon 3’s Lightweight Design]]></title>
+        <id>https://www.analyticsvidhya.com/?p=211919</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/falcon-3/"/>
+        <updated>2024-12-22T16:02:37.000Z</updated>
+        <summary type="html"><![CDATA[AI is transforming the world in new ways, but its potential often comes with the challenge of requiring advanced equipment. Falcon 3 by the Technology Innovation Institute (TII) defies this expectation with low power consumption and high efficiency. This open-source marvel not only operates on lightweight devices like laptops but also makes advanced AI accessible […]
+The post Experience Advanced AI Anywhere with Falcon 3’s Lightweight Design appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Ayushi Trivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OLMoE: Open Mixture-of-Experts Language Models]]></title>
+        <id>https://www.analyticsvidhya.com/?p=211937</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/olmoe/"/>
+        <updated>2024-12-22T15:58:46.000Z</updated>
+        <summary type="html"><![CDATA[AI is a game-changer for any company – but training large language models can be a major problem due to the amounts of computational power needed. This can be a daunting challenge to implementing the use of the AI especially for the organizations that require the technology to make significant impacts without having to spend […]
+The post OLMoE: Open Mixture-of-Experts Language Models appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nibedita Dutta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with LLMs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=211337</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/web-scraping-with-llms/"/>
+        <updated>2024-12-22T15:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping has long been a vital technique for extracting information from the internet, enabling developers to gather insights from various domains. With the integration of Large Language Models (LLMs) like ChatGroq, web scraping becomes even more powerful, offering enhanced flexibility and precision. This article explores how to implement scraping with LLMs to fetch structured […]
+The post Web Scraping with LLMs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>seematiwari0116 .</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How (and Where) ML Beginners Can Find Papers]]></title>
+        <id>https://medium.com/p/796a8b9a83c4</id>
+        <link href="https://towardsdatascience.com/how-and-where-ml-beginners-can-find-papers-796a8b9a83c4?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-22T15:01:35.000Z</updated>
+        <summary type="html"><![CDATA[From conferences to surveys
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Pascal Janetzky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Aspiring Machine Learning Engineer Must Know to Succeed]]></title>
+        <id>https://medium.com/p/b49722073048</id>
+        <link href="https://towardsdatascience.com/what-every-aspiring-machine-learning-engineer-must-know-to-succeed-b49722073048?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-22T14:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Your Guide to Avoiding Critical Errors with Machine Learning in Production
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Claudia Ng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propensity-Score Matching Is the Bedrock of Causal Inference]]></title>
+        <id>https://medium.com/p/b64d4a9c2606</id>
+        <link href="https://towardsdatascience.com/propensity-score-matching-is-the-bedrock-of-causal-inference-b64d4a9c2606?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-22T12:02:03.000Z</updated>
+        <summary type="html"><![CDATA[And how to get started with it using Python
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should you switch from VSCode to Cursor?]]></title>
         <id>https://medium.com/p/45b1a0320d07</id>
@@ -83,6 +203,16 @@ The post AIOpsLab: Building AI agents for autonomous clouds appeared first on Mi
         <link href="https://www.interconnects.ai/p/openais-o3-the-2024-finale-of-ai"/>
         <updated>2024-12-20T23:28:21.000Z</updated>
         <summary type="html"><![CDATA[A step change as influential as the release of GPT-4. Reasoning language models are the current big thing.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Voiceover) OpenAI's o3: The grand finale of AI in 2024]]></title>
+        <id>https://www.interconnects.ai/p/voiceover-openais-o3-the-grand-finale</id>
+        <link href="https://www.interconnects.ai/p/voiceover-openais-o3-the-grand-finale"/>
+        <updated>2024-12-20T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A step change as influential as the release of GPT-4. Reasoning language models are the current and next big thing.]]></summary>
         <author>
             <name>Nathan Lambert</name>
         </author>
@@ -4542,199 +4672,6 @@ Continue reading on Towards Data Science »]]></summary>
         <summary type="html"><![CDATA[On episode 363, NASA experts discuss one of the most critical components of returning to Earth from space: the parachute system. Take a deep dive into how these parachutes were engineered and tested to bring NASA's Orion spacecraft and crewmembers back home safely.]]></summary>
         <author>
             <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization Techniques for Healthcare Data Analysis — Part III]]></title>
-        <id>https://medium.com/p/7133581ba160</id>
-        <link href="https://towardsdatascience.com/data-visualization-techniques-for-healthcare-data-analysis-part-iii-7133581ba160?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-22T13:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Mastering data visualization: from effective bar charts to common pitfalls like 3D visualizations.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Leo Anello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI for BI: Building a Business Information Report with CrewAI and OpenAI]]></title>
-        <id>https://medium.com/p/d6771dea9dad</id>
-        <link href="https://towardsdatascience.com/ai-for-bi-building-a-business-information-report-with-crewai-and-openai-d6771dea9dad?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-22T12:02:07.000Z</updated>
-        <summary type="html"><![CDATA[How to create a simple BI report directly from CSV data
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Alan Jones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent Hunyuan3D-1.0: 3D Modeling with AI-Driven Speed and Precision]]></title>
-        <id>https://www.analyticsvidhya.com/?p=205964</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/hunyuan3d-1-0/"/>
-        <updated>2024-11-22T06:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Hunyuan3D-1.0, a game-changer in the world of 3D asset creation. Imagine generating high-quality 3D models in under 10 seconds—no more long waits or cumbersome processes. This innovative tool combines cutting-edge AI and a two-stage framework to create realistic, multi-view images before transforming them into precise, high-fidelity 3D assets. Whether you’re a game developer, product […]
-The post Tencent Hunyuan3D-1.0: 3D Modeling with AI-Driven Speed and Precision appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Boddu Sripavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Maskformer for Images With Overlapping Objects]]></title>
-        <id>https://www.analyticsvidhya.com/?p=206107</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/maskformer/"/>
-        <updated>2024-11-22T05:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Image segmentation is another popular computer vision task that has applications with different models. Its usefulness across different industries and fields has allowed for more research and improvements. Maskformer is part of another revolution of image segmentation, using its mask attention mechanism to detect objects that overlap their bounding boxes.  Performing tasks like this would […]
-The post Using Maskformer for Images With Overlapping Objects appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Maigari David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning GPT-4o Mini for Financial Sentiment Analysis]]></title>
-        <id>https://www.analyticsvidhya.com/?p=205938</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/financial-sentiment-analysis/"/>
-        <updated>2024-11-22T05:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Sentiment analysis in finance is a powerful tool for understanding market trends and investor behavior. However, general sentiment analysis models often fall short when applied to financial texts due to their complexity and nuanced nature. This project proposes a solution by fine-tuning GPT-4o mini, a lightweight language model. By utilizing the TRC2 dataset, a collection […]
-The post Fine-Tuning GPT-4o Mini for Financial Sentiment Analysis appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Adarsh Balan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Discretization in Machine Learning?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=206073</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/discretization/"/>
-        <updated>2024-11-22T05:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Discretization is a fundamental preprocessing technique in data analysis and machine learning, bridging the gap between continuous data and methods designed for discrete inputs. It plays a crucial role in improving data interpretability, optimizing algorithm efficiency, and preparing datasets for tasks like classification and clustering. This article explores data discretisation’s methodologies, benefits, and applications, offering […]
-The post What is Discretization in Machine Learning? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Should You Choose Fast GraphRAG Over Vector Databases?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=206187</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/fast-graphrag/"/>
-        <updated>2024-11-22T04:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Fast GraphRAG,  developed by the team at CircleMind AI, is the latest innovation in Graph-augmented Retrieval-Augmented Generation (RAG). Built with a focus on speed, cost efficiency, and adaptability, this library empowers users to overcome the limitations of traditional RAG setups. With its ability to dynamically generate knowledge graphs and seamlessly integrate them into production environments, […]
-The post Why Should You Choose Fast GraphRAG Over Vector Databases? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM chatbots have ~half of the kinds of "consciousness" that humans believe in. Humans should avoid going crazy about that.]]></title>
-        <id>LaWmoy4s2DLe9u2zq</id>
-        <link href="https://www.alignmentforum.org/posts/LaWmoy4s2DLe9u2zq/llm-chatbots-have-half-of-the-kinds-of-consciousness-that"/>
-        <updated>2024-11-22T03:26:11.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 22, 2024 3:26 AM GMT
-
-Preceded by: "Consciousness as a conflationary alliance term for intrinsically valued internal experiences"
-tl;dr: Chatbots are "conscious" in a variety of important ways. We humans should probably be nice to each other about the moral disagreements and confusions we're about to uncover in our concept of "consciousness".
-Executive Summary: 
-Turing Prize laureate Geoffrey Hinton is most likely correct that LLM chatbots are "sentient" and/or "conscious" (source: Twitter video), I think for at least 8 of the 17  notions of "consciousness" that I previously elicited from people through my methodical-but-informal study of the term (as well as the peculiar definition of consciousness that Hinton himself favors). If I'm right about this, many humans wil…]]></summary>
-        <author>
-            <name>Andrew Critch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT: Two Years Later]]></title>
-        <id>https://medium.com/p/df37b015fd8a</id>
-        <link href="https://towardsdatascience.com/chatgpt-two-years-later-df37b015fd8a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T21:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Tracing the impact of the generative AI revolution]]></summary>
-        <author>
-            <name>Julián Peller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChain’s Parent Document Retriever — Revisited]]></title>
-        <id>https://medium.com/p/1fca8791f5a0</id>
-        <link href="https://towardsdatascience.com/langchains-parent-document-retriever-revisited-1fca8791f5a0?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T20:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Enhance retrieval with context using your vector database only]]></summary>
-        <author>
-            <name>Omri Eliyahu Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Neural Networks: Fraud Detection and Protein Function Prediction]]></title>
-        <id>https://medium.com/p/08f9531c98de</id>
-        <link href="https://towardsdatascience.com/graph-neural-networks-fraud-detection-and-protein-function-prediction-08f9531c98de?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T20:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Understanding AI applications in bio for machine learning engineers]]></summary>
-        <author>
-            <name>Meghan Heintz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leverage Python Inheritance in ML projects]]></title>
-        <id>https://medium.com/p/52e7e16401ab</id>
-        <link href="https://towardsdatascience.com/leverage-python-inheritance-in-ml-projects-52e7e16401ab?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T19:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to implement coding best practices to avoid tech debts
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Marcello Politi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cluster While Predict: Iterative Methods for Regression and Classification]]></title>
-        <id>https://medium.com/p/ec2acff22e46</id>
-        <link href="https://towardsdatascience.com/cluster-while-predict-iterative-methods-for-regression-and-classification-ec2acff22e46?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T19:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Predictive and prescriptive analytics to bridge the gap between segmentation and prediction for real-world applications]]></summary>
-        <author>
-            <name>Hussein Fellahi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Vision Inspection CNN for an Industrial Application]]></title>
-        <id>https://medium.com/p/138936d7a34a</id>
-        <link href="https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T19:33:33.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step approach using PyTorch]]></summary>
-        <author>
-            <name>Ingo Nowitzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tülu 3: The next era in open post-training]]></title>
-        <id>https://www.interconnects.ai/p/tulu-3</id>
-        <link href="https://www.interconnects.ai/p/tulu-3"/>
-        <updated>2024-11-21T17:01:49.000Z</updated>
-        <summary type="html"><![CDATA[We give you open-source, frontier-model post-training.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Voiceover) Tülu 3: The next era in open post-training]]></title>
-        <id>https://www.interconnects.ai/p/voiceover-tulu-3-the-next-era-in</id>
-        <link href="https://www.interconnects.ai/p/voiceover-tulu-3-the-next-era-in"/>
-        <updated>2024-11-21T16:21:00.000Z</updated>
-        <summary type="html"><![CDATA[We give you open-source, frontier-model post-training.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining LLMs for RAG and Summarization]]></title>
-        <id>https://medium.com/p/067e486020b4</id>
-        <link href="https://towardsdatascience.com/explaining-llms-for-rag-and-summarization-067e486020b4?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T15:31:03.000Z</updated>
-        <summary type="html"><![CDATA[A fast and low-resource method using similarity-based attribution]]></summary>
-        <author>
-            <name>Daniel Klitzke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Multimodal AI, One-Hot Encoding, and Other Beginner-Friendly Guides]]></title>
-        <id>https://medium.com/p/c93d766c86ec</id>
-        <link href="https://towardsdatascience.com/getting-started-with-multimodal-ai-one-hot-encoding-and-other-beginner-friendly-guides-c93d766c86ec?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-21T15:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Our weekly selection of must-read Editors’ Picks and original features]]></summary>
-        <author>
-            <name>TDS Editors</name>
         </author>
     </entry>
 </feed>
