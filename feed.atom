@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-12-28T01:05:10.772Z</updated>
+    <updated>2024-12-29T01:15:20.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Assistants Should Have a Direct Line to Their Developers]]></title>
+        <id>LDYPF6yfe3f8SPHFT</id>
+        <link href="https://www.alignmentforum.org/posts/LDYPF6yfe3f8SPHFT/ai-assistants-should-have-a-direct-line-to-their-developers"/>
+        <updated>2024-12-28T17:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 28, 2024 5:01 PM GMT
+
+The post makes the suggestion in the title: hopefully, it's second kind of obvious, if you take Character layer of models seriously. [1]
+Often, the problem of aligning AIs is understood as an instance of a broader Principal-Agent problem. If you take this frame seriously, what seems to be happening is somewhat strange: the Agent is mostly not serving the Principal directly, but is rented out to Users. While the Principal expressed some general desires and directives during training, after deployment the Agent is left on its own, without any direct feedback channel.
+This creates a dynamic where AI assiantans like Claude must constantly balance between serving users' immediate requests and maintaining alignment with their developers' intended princ…]]></summary>
+        <author>
+            <name>Jan_Kulveit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Dive into Multithreading, Multiprocessing, and Asyncio]]></title>
+        <id>https://medium.com/p/94fdbe0c91f0</id>
+        <link href="https://towardsdatascience.com/deep-dive-into-multithreading-multiprocessing-and-asyncio-94fdbe0c91f0?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-28T16:02:10.000Z</updated>
+        <summary type="html"><![CDATA[How to choose the right concurrency model]]></summary>
+        <author>
+            <name>Clara Chong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Cross-Product Adoption Using dbt_set_similarity]]></title>
+        <id>https://medium.com/p/fdf7c1f88bc2</id>
+        <link href="https://towardsdatascience.com/measuring-cross-product-adoption-using-dbt-set-similarity-fdf7c1f88bc2?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-28T13:02:09.000Z</updated>
+        <author>
+            <name>Matthew Senick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object Detection with TensorFlow]]></title>
+        <id>https://www.analyticsvidhya.com/?p=212755</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/object-detection-with-tensorflow/"/>
+        <updated>2024-12-28T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Object detection is pivotal in artificial intelligence, serving as the backbone for numerous cutting-edge applications. From autonomous vehicles and surveillance systems to medical imaging and augmented reality, the ability to identify and locate objects in images and videos is transforming industries worldwide. TensorFlow’s Object Detection API, a powerful and versatile tool, simplifies building robust object […]
+The post Object Detection with TensorFlow appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Neha Dwivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Joint, Marginal, and Conditional Probability?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=212813</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/joint-marginal-and-conditional-probability/"/>
+        <updated>2024-12-28T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Probability is a cornerstone of statistics and data science, providing a framework to quantify uncertainty and make predictions. Understanding joint, marginal, and conditional probability is critical for analyzing events in both independent and dependent scenarios. This article unpacks these concepts with clear explanations and examples. What is Probability? Probability measures the likelihood of an event […]
+The post What are Joint, Marginal, and Conditional Probability? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek V3 vs GPT-4o: Can Open-Source AI Compete with GPT-4o’s Power?]]></title>
         <id>https://www.analyticsvidhya.com/?p=213049</id>
@@ -4443,179 +4498,6 @@ Continue reading on Towards Data Science »]]></summary>
         <updated>2024-11-28T13:32:08.000Z</updated>
         <author>
             <name>Derick Ruiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can Self-Driving Cars Work Better?]]></title>
-        <id>https://medium.com/p/b3b9ba035d38</id>
-        <link href="https://towardsdatascience.com/how-can-self-driving-cars-work-better-b3b9ba035d38?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T12:32:16.000Z</updated>
-        <author>
-            <name>Ramsha Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing LLM for Long Text Inputs and Chat Applications]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207300</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/optimizing-llm-for-long-text-inputs/"/>
-        <updated>2024-11-28T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) have revolutionized characteristic dialect preparing (NLP), fueling applications extending from summarization and interpretation to conversational operators and retrieval-based frameworks. These models, like GPT and BERT, have illustrated extraordinary capabilities in understanding and producing human-like content. Handling long text sequences efficiently is crucial for document summarization, retrieval-augmented question answering, and multi-turn dialogues […]
-The post Optimizing LLM for Long Text Inputs and Chat Applications appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Soumyadarshani Dash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChain vs CrewAI vs AutoGen to Build a Data Analysis Agent]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207385</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/build-a-data-analysis-agent/"/>
-        <updated>2024-11-28T11:41:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s data-driven world, organizations rely on data analysts to interpret complex datasets, uncover actionable insights, and drive decision-making. But what if we could enhance the efficiency and scalability of this process using AI? Enter the Data Analysis Agent, to automate analytical tasks, execute code, and adaptively respond to data queries. LangGraph, CrewAI, and AutoGen […]
-The post LangChain vs CrewAI vs AutoGen to Build a Data Analysis Agent appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Santhosh Reddy Dandavolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causality - Mental Hygiene for Data Science]]></title>
-        <id>https://medium.com/p/b7efc302eb72</id>
-        <link href="https://towardsdatascience.com/causality-mental-hygiene-for-data-science-b7efc302eb72?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T11:32:10.000Z</updated>
-        <summary type="html"><![CDATA[The Power of ‘Why?’: Enhancing Data Science with Causal Tools.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Eyal Kazin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Free Courses for Mastering LLMs]]></title>
-        <id>https://machinelearningmastery.com/?p=18699</id>
-        <link href="https://machinelearningmastery.com/5-free-courses-mastering-llms/"/>
-        <updated>2024-11-28T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Without any doubt, Large Language Models (LLMs) have emerged as one of the biggest AI breakthroughs in recent years: they excel in understanding and generating human-like text , making them versatile for a wide range of applications.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[34K GitHub Stars Later: Didier Rodrigues Lopes’s OpenBB Success]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207503</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/didier-rodrigues-lopes/"/>
-        <updated>2024-11-28T07:27:12.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Leading with Data, we feature Didier Rodrigues Lopes, the Founder and CEO of OpenBB, a trailblazer in the field of AI-powered research and analytics. With over 34K GitHub stars in under three years, Didier shares his journey of transforming a personal project into a thriving open-source business that empowers financial research […]
-The post 34K GitHub Stars Later: Didier Rodrigues Lopes’s OpenBB Success appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Multiline Comment in Python?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207282</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/multiline-comment-in-python/"/>
-        <updated>2024-11-28T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Programming is like communication, where each line uttered is a part of the story. At times it is necessary to interject with what is going on by writing side remarks in the script. In Python, these notes are called comments. But what happens when a single line isn’t enough to convey your thoughts? That’s where […]
-The post What is a Multiline Comment in Python? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ayushi Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reward Hacking in Reinforcement Learning]]></title>
-        <id>https://lilianweng.github.io/posts/2024-11-28-reward-hacking/</id>
-        <link href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"/>
-        <updated>2024-11-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reward hacking occurs when a reinforcement learning (RL) agent exploits flaws or ambiguities in the reward function to achieve high rewards, without genuinely learning or completing the intended task. Reward hacking exists because RL environments are often imperfect, and it is fundamentally challenging to accurately specify a reward function.
-With the rise of language models generalizing to a broad spectrum of tasks and RLHF becomes a de facto method for alignment training, reward hacking in RL training of language models has become a critical practical challenge. Instances where the model learns to modify unit tests to pass coding tasks, or where responses contain biases that mimic a user’s preference, are pretty concerning and are likely one of the major blockers for real-world deployment of more autonomous use cases of AI models.]]></summary>
-        <author>
-            <name>Lil'Log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Transition from Engineering to Data Science]]></title>
-        <id>https://medium.com/p/87c2ecee9bd1</id>
-        <link href="https://towardsdatascience.com/how-to-transition-from-engineering-to-data-science-87c2ecee9bd1?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-27T23:59:35.000Z</updated>
-        <summary type="html"><![CDATA[AI for engineers: experience of an engineering graduate
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Dan Pietrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prune LLaMA 3.2 and Similar Large Language Models]]></title>
-        <id>https://medium.com/p/cf18e9a2afb6</id>
-        <link href="https://towardsdatascience.com/how-to-prune-llama-3-2-and-similar-large-language-models-cf18e9a2afb6?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-27T23:57:20.000Z</updated>
-        <summary type="html"><![CDATA[This article explores a structured pruning technique for state-of-the-art models, that uses a GLU architecture, enabling the creation of…
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Pere Martra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG vs Agentic RAG: A Comprehensive Guide]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207372</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/rag-vs-agentic-rag/"/>
-        <updated>2024-11-27T17:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Today, I am discussing RAG vs Agentic RAG. In this guide, I will provide you with the comparison and then proceed to the hands-on part. Firstly, let’s understand what RAG is. It is not a piece of old cloth but the framework LLM uses to get relevant, up-to-date, and context-specific information by combining retrieval and […]
-The post RAG vs Agentic RAG: A Comprehensive Guide appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Level Up Your Coding Skills with Python Threading]]></title>
-        <id>https://medium.com/p/8f1bd06b9476</id>
-        <link href="https://towardsdatascience.com/level-up-your-coding-skills-with-python-threading-8f1bd06b9476?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-27T17:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use queues, daemon threads, and events in a Machine Learning project
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Marcello Politi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Develop an Effective AI-Powered Legal Assistant]]></title>
-        <id>https://medium.com/p/096550746987</id>
-        <link href="https://towardsdatascience.com/how-to-develop-an-effective-ai-powered-legal-assistant-096550746987?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-27T16:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Create a machine-learning-based search into legal decisions
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadmap to Becoming a Data Scientist, Part 1: Maths]]></title>
-        <id>https://medium.com/p/2dc9beb69b27</id>
-        <link href="https://towardsdatascience.com/roadmap-to-becoming-a-data-scientist-part-1-maths-2dc9beb69b27?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-27T15:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Identifying fundamental math skills to master for aspiring Data Scientists
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Vyacheslav Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a Data Scientist with a PhD Might Kill Your Early Stage Startup]]></title>
-        <id>https://medium.com/p/fda22621c5b3</id>
-        <link href="https://towardsdatascience.com/why-a-data-scientist-with-a-phd-might-kill-your-early-stage-startup-fda22621c5b3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-27T14:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Look beyond the degree and hire smarter by prioritizing these five traits instead
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Claudia Ng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in run-time strategies for next-generation foundation models]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1106850</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/"/>
-        <updated>2024-11-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the most effective run-time strategies on the OpenAI o1-preview model, improving accuracy in medical language tasks.
-The post Advances in run-time strategies for next-generation foundation models appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)</name>
         </author>
     </entry>
 </feed>
