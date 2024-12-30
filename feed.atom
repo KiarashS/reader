@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2024-12-29T01:15:20.584Z</updated>
+    <updated>2024-12-30T01:11:31.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching Claude to Meditate]]></title>
+        <id>efdSPPSmzBbHYctTz</id>
+        <link href="https://www.alignmentforum.org/posts/efdSPPSmzBbHYctTz/teaching-claude-to-meditate"/>
+        <updated>2024-12-29T22:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 29, 2024 10:27 PM GMT
+
+I spent some time today having an extended conversation with Claude 3.5 Sonnet. My initial goal was roughly something like "can I teach Claude to meditate?" The answer was effectively no, but then we got into a deeper discussion of dharma, alignment, and how we might train a future LLM to be compassionate.
+I see these issues as deeply related to the question of how we build aligned AI. As I've written before, I expect most alignment proposals to fail under sufficient optimization pressure due to Goodharting, and I think the only real path to aligned AI is to create AI that is aligned from the start by design. Given my experience with Zen, I want to see if there isn't some way to teach AI to behave compassionately based on how we teach people to …]]></summary>
+        <author>
+            <name>Gordon Seidoh Worley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing n-Step Temporal-Difference Methods]]></title>
+        <id>https://medium.com/p/7f7878b3441c</id>
+        <link href="https://towardsdatascience.com/introducing-n-step-temporal-difference-methods-7f7878b3441c?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-29T16:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Dissecting “Reinforcement Learning” by Richard S. Sutton with custom Python implementations, Episode V
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Oliver S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superposition: What Makes it Difficult to Explain Neural Network]]></title>
+        <id>https://medium.com/p/565087243be4</id>
+        <link href="https://towardsdatascience.com/superposition-what-makes-it-difficult-to-explain-neural-network-565087243be4?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-29T14:01:46.000Z</updated>
+        <summary type="html"><![CDATA[When there are more features than model dimensions]]></summary>
+        <author>
+            <name>Shuyang Xiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PearAI for Next-Gen Coding Experience?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=212839</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/pearai/"/>
+        <updated>2024-12-29T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of software development, productivity and efficiency are paramount. PearAI, a next-generation code editor, combines the power of artificial intelligence with developer-centric tools to create a seamless and efficient coding experience. Designed with an open-source approach, PearAI caters to developers looking for smarter coding solutions, enhanced debugging capabilities, and real-time assistance. In […]
+The post How to Use PearAI for Next-Gen Coding Experience? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Neha Dwivedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Segmenting Water in Satellite Images Using Paligemma]]></title>
+        <id>https://medium.com/p/b172dc0cf55d</id>
+        <link href="https://towardsdatascience.com/segmenting-water-in-satellite-images-using-paligemma-b172dc0cf55d?source=rss----7f60cf5620c9---4"/>
+        <updated>2024-12-29T12:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Some insights on using Google’s latest Vision Language Model]]></summary>
+        <author>
+            <name>Dr. Carmen Adriana Martínez Barbosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Cars with AI Features]]></title>
+        <id>https://www.analyticsvidhya.com/?p=212936</id>
+        <link href="https://www.analyticsvidhya.com/blog/2024/12/cars-with-ai-features/"/>
+        <updated>2024-12-29T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a world where your car is not just a mode of transportation but your co-pilot, personal assistant, and safety expert perhaps a driving agent. Well, thanks to Artificial Intelligence, that future has already been pulled into driveways worldwide. AI is making cars smarter, safer, and more intuitive, making the journey as exciting as the […]
+The post Top 5 Cars with AI Features appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Keshav Vikram Solan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Assistants Should Have a Direct Line to Their Developers]]></title>
         <id>LDYPF6yfe3f8SPHFT</id>
@@ -4323,181 +4389,6 @@ Continue reading on Towards Data Science »]]></summary>
         <updated>2024-11-29T14:02:17.000Z</updated>
         <author>
             <name>Tarik Dzekman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porting Twitter’s Anomaly Detection Algorithm To Swift]]></title>
-        <id>https://medium.com/p/c65dc602e809</id>
-        <link href="https://towardsdatascience.com/porting-twitters-anomaly-detection-algorithm-to-swift-c65dc602e809?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-29T13:02:15.000Z</updated>
-        <summary type="html"><![CDATA[From Twitter to Swift: Building Anomaly Detection.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Aaron Beckley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Evaluation of Small Language Models: Insights and Comparisons]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207876</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/performance-evaluation-of-small-language-models/"/>
-        <updated>2024-11-29T12:58:10.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you’re likely familiar with the power of large language models (LLMs) but also the challenges they bring—extensive computational requirements and high latency. Enter Small Language Models (SLMs)—compact, efficient versions of LLMs with fewer than 10 billion parameters. Designed for speed and resource efficiency, SLMs are tailor-made for scenarios like edge computing and […]
-The post Performance Evaluation of Small Language Models: Insights and Comparisons appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nibedita Dutta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Ways to Use Image-to-Text LLMs]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207459</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/llms-for-image-to-text-conversion/"/>
-        <updated>2024-11-29T12:03:11.000Z</updated>
-        <summary type="html"><![CDATA[In a world full of pictures and visuals, imagine the possibilities if technology could truly understand and describe them. That’s exactly what large language models (LLMs) with image-to-text capabilities can do. These models don’t just process images—they interpret them, generate detailed descriptions, and extract valuable insights. From helping businesses manage products to improving healthcare, education, […]
-The post 10 Ways to Use Image-to-Text LLMs appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Diksha Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So It’s Your First Year in AI; Here’s What to Expect]]></title>
-        <id>https://medium.com/p/64b4a868f91a</id>
-        <link href="https://towardsdatascience.com/so-its-your-first-year-in-ai-here-s-what-to-expect-64b4a868f91a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-29T12:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Sharing my experience from both AI startups and large corporates
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Michael Zakhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenAI is Reshaping Data Science Teams]]></title>
-        <id>https://medium.com/p/b4d5a419e0f6</id>
-        <link href="https://towardsdatascience.com/genai-is-reshaping-data-science-teams-b4d5a419e0f6?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-29T11:02:11.000Z</updated>
-        <author>
-            <name>Anna Via</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up and Running GraphRAG with Neo4j]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207707</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/graphrag-with-neo4j/"/>
-        <updated>2024-11-29T07:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The GraphRAG Python package by Neo4j offers a comprehensive solution for building end-to-end workflows, from transforming unstructured data into a knowledge graph to enabling knowledge graph retrieval and implementing complete GraphRAG pipelines. Whether you’re developing knowledge assistants, search APIs, chatbots, or report generators in Python, this package simplifies the integration of knowledge graphs to enhance […]
-The post Setting Up and Running GraphRAG with Neo4j appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Continuous Bag of Words (CBOW)]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207487</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/continuous-bag-of-words-cbow/"/>
-        <updated>2024-11-29T06:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Semantics is important because in NLP it is the relationships between the words that are being studied. One of the simplest yet highly effective procedure is Continuous Bag of Words (CBOW) which maps words to highly meaningful vectors called word vectors. CBOW is used in the Word2Vec framework and predicts a word based on the […]
-The post Understanding Continuous Bag of Words (CBOW) appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ayushi Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master List of 176 Leading 3D Point Cloud Datasets for Industry-Specific Applications]]></title>
-        <id>https://imerit.net/?p=24659</id>
-        <link href="https://imerit.net/blog/master-list-of-176-leading-3d-point-cloud-datasets-for-industry-specific-applications/"/>
-        <updated>2024-11-28T20:29:25.000Z</updated>
-        <summary type="html"><![CDATA[3D point cloud datasets are transforming industries by enabling precise mapping and modeling. Explore a curated list of 176 datasets tailored for applications in autonomous vehicles, urban planning, healthcare, and more.
-The post Master List of 176 Leading 3D Point Cloud Datasets for Industry-Specific Applications appeared first on iMerit.]]></summary>
-        <author>
-            <name>Katakam Sree Harshita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Intuition behind Concordance Index — Survival Analysis]]></title>
-        <id>https://medium.com/p/3c961fc11ce8</id>
-        <link href="https://towardsdatascience.com/the-intuition-behind-concordance-index-survival-analysis-3c961fc11ce8?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T18:36:53.000Z</updated>
-        <author>
-            <name>Antonieta Mastrogiuseppe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete MLOPS Cycle for a Computer Vision Project]]></title>
-        <id>https://medium.com/p/b2821d9c6fc3</id>
-        <link href="https://towardsdatascience.com/complete-mlops-cycle-for-a-computer-vision-project-b2821d9c6fc3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T17:42:07.000Z</updated>
-        <summary type="html"><![CDATA[These days, we encounter (and maybe produce on our own) many computer vision projects, where AI is the hottest topic for new technologies…
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Yağmur Çiğdem Aktaş</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick guide to Network Science]]></title>
-        <id>https://medium.com/p/709e516c6896</id>
-        <link href="https://towardsdatascience.com/a-quick-guide-to-network-science-709e516c6896?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T17:40:39.000Z</updated>
-        <summary type="html"><![CDATA[For those who would like to learn about complex connections — from theory to practice in Python
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Milan Janosov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparison Between LangChain and LlamaIndex]]></title>
-        <id>https://www.analyticsvidhya.com/?p=207619</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/11/langchain-vs-llamaindex/"/>
-        <updated>2024-11-28T17:06:06.000Z</updated>
-        <summary type="html"><![CDATA[LangChain and LlamaIndex are robust frameworks tailored for creating applications using large language models. While both excel in their own right, each offers distinct strengths and focuses, making them suitable for different NLP application needs. In this blog we would understand when to use which framework, i.e., comparison between LangChain and LlamaIndex. Learning Objectives This […]
-The post Comparison Between LangChain and LlamaIndex appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ketan Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Expensive Data Science Mistake I’ve Witnessed in My Career]]></title>
-        <id>https://medium.com/p/302d811a15da</id>
-        <link href="https://towardsdatascience.com/the-most-expensive-data-science-mistake-ive-witnessed-in-my-career-302d811a15da?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T16:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Why true success in machine learning goes beyond optimizing a single metric
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Claudia Ng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Reasons You Cannot Afford Not Knowing Probability Proportional to Size (PPS) Sampling]]></title>
-        <id>https://medium.com/p/773fee96af8b</id>
-        <link href="https://towardsdatascience.com/five-reasons-you-cannot-afford-not-knowing-probability-proportional-to-size-pps-sampling-773fee96af8b?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T15:32:17.000Z</updated>
-        <author>
-            <name>Aayush Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous Agent Ecosystems, Data Integration, Open Source LLMs, and Other November Must-Reads]]></title>
-        <id>https://medium.com/p/a8bafb49f0b7</id>
-        <link href="https://towardsdatascience.com/autonomous-agent-ecosystems-data-integration-open-source-llms-and-other-november-must-reads-a8bafb49f0b7?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T14:32:17.000Z</updated>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dog Poop Compass: Bayesian Analysis of Canine Business]]></title>
-        <id>https://medium.com/p/f95a4b9f2bf9</id>
-        <link href="https://towardsdatascience.com/dog-poop-compass-bayesian-analysis-of-canine-business-f95a4b9f2bf9?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T14:17:17.000Z</updated>
-        <author>
-            <name>Dima Sergeev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs.txt Explained]]></title>
-        <id>https://medium.com/p/414d5121bcb3</id>
-        <link href="https://towardsdatascience.com/llms-txt-414d5121bcb3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-11-28T13:32:08.000Z</updated>
-        <author>
-            <name>Derick Ruiz</name>
         </author>
     </entry>
 </feed>
