@@ -2,10 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-01-08T01:09:36.036Z</updated>
+    <updated>2025-01-09T01:08:53.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring Embedding Models with Vertex AI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=213706</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/embedding-models-with-vertex-ai/"/>
+        <updated>2025-01-08T19:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Vectors are the basis for the majority of the most complex artificial intelligence applications, including semantic search or anomaly detection. In this article, we start right at the front with the basics of embeddings, moving on to understand sentence embeddings and vector representations. We’ll discuss simple practical approaches including mean pooling, cosine similarity and architecture […]
+The post Exploring Embedding Models with Vertex AI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarvagya Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Departments to Become HR for AI Agents: Jensen Huang]]></title>
+        <id>https://www.analyticsvidhya.com/?p=214514</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/it-departments-to-become-hr-for-ai-agents-jensen-huang/"/>
+        <updated>2025-01-08T19:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Let’s just say that 2025 is going to be the year of AI Agents! With so much happening in the AI space, the role of AI in our daily life is only going to increase hereon. If you have been following the updates of CES 2025 – you will surely agree with me. In the […]
+The post IT Departments to Become HR for AI Agents: Jensen Huang appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the most impressive game LLMs can play well?]]></title>
+        <id>3c5tx5WjZ5Yvniq6Y</id>
+        <link href="https://www.alignmentforum.org/posts/3c5tx5WjZ5Yvniq6Y/what-is-the-most-impressive-game-llms-can-play-well"/>
+        <updated>2025-01-08T19:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 8, 2025 7:38 PM GMT
+
+Epistemic status: This is an off-the-cuff question.
+~5 years ago there was a lot of exciting progress on game playing through reinforcement learning (RL). Now we have basically switched paradigms, pretraining massive LLMs on ~the internet and then apparently doing some really trivial unsophisticated RL on top of that - this is successful and highly popular because interacting with LLMs is pretty awesome (at least if you haven't done it before) and they "feel" a lot more like A.G.I. Probably there's somewhat more commercial use as well via code completion (and some would say many other tasks, personally not really convinced - generative image/video models will certainly be profitable though). There's also a sense in which they are clearly more general - e.g. one RL algorithm may learn many games but there's typically an instance per game not one integrated agent. You can just ask an LLM in context to play some games.
+However, I've been following moderately closely and I can't seem to think of any examples where LLMs really pushed the state of the art in narrow game playing  - how much have LLMs contributed to RL research? For instance, will adding o3 to the stack easily stomp on previous Starcraft / go / chess agents? 
+
+Discuss]]></summary>
+        <author>
+            <name>Cole Wyeth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing Data in Time-Series? Machine Learning Techniques (Part 2)]]></title>
+        <id>https://medium.com/p/86fac838d1ce</id>
+        <link href="https://towardsdatascience.com/missing-data-in-time-series-machine-learning-techniques-part-2-86fac838d1ce?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T19:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Using Clustering Algorithms to Handle Missing Time-Series Data
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Sara Nóbrega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phi-4 Available on HuggingFace: A Big Thanks to Clem Delangue!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=214517</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/phi-4-launches-on-hugging-face/"/>
+        <updated>2025-01-08T19:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Just eight days into 2025, and the AI community is buzzing with incredible launches. The latest to make waves? Microsoft’s Phi-4, now available on HuggingFace with an MIT license! AI developers have been eagerly awaiting this release, and it’s finally here. What is Phi-4? Phi-4 is Microsoft’s latest small language model, introduced in December 2024. […]
+The post Phi-4 Available on HuggingFace: A Big Thanks to Clem Delangue! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced SQL Techniques for Unstructured Data Handling]]></title>
+        <id>https://medium.com/p/832f3c7c43b9</id>
+        <link href="https://towardsdatascience.com/advanced-sql-techniques-for-unstructured-data-handling-832f3c7c43b9?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T18:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know to get started with text mining
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jiayan Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run LLMs Locally?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=214495</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/how-to-run-llm-locally/"/>
+        <updated>2025-01-08T17:44:29.000Z</updated>
+        <summary type="html"><![CDATA[LLMs like GPT and Llama have completely transformed how we tackle language tasks, from creating intelligent chatbots to generating complex pieces of code. Cloud platforms like HuggingFace simplify using these models, but there are times when running an LLM locally on your own computer is the smarter choice. Why? Because it offers greater privacy, allows […]
+The post How to Run LLMs Locally? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Diksha Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian A/B Testing Falls Short]]></title>
+        <id>https://medium.com/p/f8646529a47a</id>
+        <link href="https://towardsdatascience.com/tldr-bayesian-a-b-testing-falls-short-f8646529a47a?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T17:39:13.000Z</updated>
+        <author>
+            <name>Allon Korem | CEO, Bell Statistics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Method of Moments Estimation with Python Code]]></title>
+        <id>https://medium.com/p/f19102ce5897</id>
+        <link href="https://towardsdatascience.com/method-of-moments-estimation-with-python-code-f19102ce5897?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T17:34:49.000Z</updated>
+        <author>
+            <name>Mahmoud Abdelaziz, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Learnability of Strategic Linear Classifiers: A Proof Walkthrough]]></title>
+        <id>https://medium.com/p/e80db99d6c4e</id>
+        <link href="https://towardsdatascience.com/statistical-learnability-of-strategic-linear-classifiers-a-proof-walkthrough-e80db99d6c4e?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T17:01:44.000Z</updated>
+        <author>
+            <name>Jonathan Yahav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32 GenAI Mobile Apps to Watch Out for in 2025]]></title>
+        <id>https://www.analyticsvidhya.com/?p=214377</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/top-generative-ai-mobile-apps/"/>
+        <updated>2025-01-08T16:45:30.000Z</updated>
+        <summary type="html"><![CDATA[In the last couple of years we have seen generative AI (GenAI) transform how we work, play, and even communicate. From crafting stunning visuals to simplifying daily tasks, GenAI apps are growing to become our everyday companions. Now with generative AI-powered mobile apps, they are becoming all the more accessible and useful for everybody.  If […]
+The post 32 GenAI Mobile Apps to Watch Out for in 2025 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Programming: Auxiliary Variables]]></title>
+        <id>https://medium.com/p/c66bb66c6aee</id>
+        <link href="https://towardsdatascience.com/linear-programming-auxiliary-variables-c66bb66c6aee?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T16:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Part 5: Increasing LP flexibility to handle tricky logic
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Jarom Hulet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Effective Metrics to Describe Users]]></title>
+        <id>https://medium.com/p/3212727c5a9e</id>
+        <link href="https://towardsdatascience.com/building-effective-metrics-to-describe-users-3212727c5a9e?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T15:01:50.000Z</updated>
+        <author>
+            <name>Vladimir Zhyvov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing Your Fine-tuning Code Using HuggingFace’s Transformers Library]]></title>
+        <id>https://medium.com/p/65cf2aa806ca</id>
+        <link href="https://towardsdatascience.com/customizing-your-fine-tuning-code-using-huggingfaces-transformers-library-65cf2aa806ca?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T14:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Examples of custom callbacks and custom fine-tuning code from different libraries
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Maeda Hanafi, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The state of post-training in 2025]]></title>
+        <id>https://www.interconnects.ai/p/the-state-of-post-training-2025</id>
+        <link href="https://www.interconnects.ai/p/the-state-of-post-training-2025"/>
+        <updated>2025-01-08T13:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Watch now (54 mins) | A re-record of my NeurIPS tutorial on language modeling (plus some added content).]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organizing for AI]]></title>
+        <id>https://medium.com/p/b8d6094b6d03</id>
+        <link href="https://towardsdatascience.com/organizing-for-ai-b8d6094b6d03?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T13:01:48.000Z</updated>
+        <author>
+            <name>Chinmay Kakatkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Every Software Architect Needs to Learn GenAI]]></title>
+        <id>https://medium.com/p/c575a669aec0</id>
+        <link href="https://towardsdatascience.com/why-every-software-architect-needs-to-learn-genai-c575a669aec0?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-08T12:01:40.000Z</updated>
+        <author>
+            <name>Michal Davidson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satya Nadella Announces $3 Billion AI Investment in India, Bold Plans for 10M Jobs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=214479</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/satya-nadella-announces-3-billion-ai-expansion-in-india/"/>
+        <updated>2025-01-08T11:19:24.000Z</updated>
+        <summary type="html"><![CDATA[In a keynote at a Microsoft event in Bengaluru, India, CEO Satya Nadella unveiled Microsoft’s ambitious $3 billion investment in AI infrastructure in India and a bold initiative to train 10 million people in AI skills by 2030. The event highlighted Microsoft’s strategic direction in AI, innovation, and their commitment to empowering individuals and organizations […]
+The post Satya Nadella Announces $3 Billion AI Investment in India, Bold Plans for 10M Jobs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-tuning an LLM to Write Like You on OpenAI Platform vs Google AI Studio]]></title>
+        <id>https://www.analyticsvidhya.com/?p=214126</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/openai-platform-vs-google-ai-studio/"/>
+        <updated>2025-01-08T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Fine-tuning large language models (LLMs) is an essential technique for customizing LLMs for specific needs, such as adopting a particular writing style or focusing on a specific domain. OpenAI and Google AI Studio are two major platforms offering tools for this purpose, each with distinct features and workflows. In this article, we will examine how […]
+The post Fine-tuning an LLM to Write Like You on OpenAI Platform vs Google AI Studio appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Santhosh Reddy Dandavolu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Learn Math for Machine Learning, Fast]]></title>
         <id>https://medium.com/p/159757833c3a</id>
@@ -4202,67 +4403,6 @@ Well-configured permissions and good cybersecurity may prevent highly capable LL
 The post Llama 3.3 70B is Here! 25x Cheaper than GPT-4o appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accusatory AI: How a Widespread Misuse of AI Technology Is Harming Students]]></title>
-        <id>https://medium.com/p/56ec50105fe5</id>
-        <link href="https://towardsdatascience.com/accusatory-ai-how-misuse-of-technology-is-harming-students-56ec50105fe5?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-09T12:02:20.000Z</updated>
-        <author>
-            <name>James F. O'Brien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accomplish Complex Tasks Using Code Executors in AutoGen]]></title>
-        <id>https://www.analyticsvidhya.com/?p=209451</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/autogen-code-executor/"/>
-        <updated>2024-12-09T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are designed to act autonomously, solving problems and executing tasks in dynamic environments. A key feature in Autogen, enabling their adaptability is AutoGen’s code executors. This feature along with LLMs enables AI agents to generate, evaluate, and execute code in real-time. This capability bridges the gap between static AI models and actionable intelligence. […]
-The post Accomplish Complex Tasks Using Code Executors in AutoGen appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Santhosh Reddy Dandavolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Hidden Potential: Exploring Second-Round Purchasers]]></title>
-        <id>https://medium.com/p/d47958c4d61c</id>
-        <link href="https://towardsdatascience.com/unlocking-hidden-potential-exploring-second-round-purchasers-d47958c4d61c?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-09T11:02:19.000Z</updated>
-        <author>
-            <name>Iqbal Hamdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Machine Learning Models for Production: A Step-by-Step Guide]]></title>
-        <id>https://machinelearningmastery.com/?p=18728</id>
-        <link href="https://machinelearningmastery.com/optimizing-machine-learning-models-production-step-by-step-guide/"/>
-        <updated>2024-12-09T11:00:48.000Z</updated>
-        <summary type="html"><![CDATA[This article provides a comprehensive step-by-step guide designed to help you navigate the challenge of optimizing your machine learning (ML) models for production, by looking at all stages in their development lifecycle, i.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Your Workflow when Starting a New Research Paper]]></title>
-        <id>https://medium.com/p/50522940b0dd</id>
-        <link href="https://towardsdatascience.com/streamline-your-workflow-when-starting-a-new-research-paper-50522940b0dd?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-08T16:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Python code to create folders and Word documents for research papers in biomedical sciences — all in one go with only two inputs
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Rodrigo M Carrillo Larco, MD, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI, My Holiday Elf: Building a Gift Recommender for the Perfect Christmas]]></title>
-        <id>https://medium.com/p/caf163d38e10</id>
-        <link href="https://towardsdatascience.com/ai-my-holiday-elf-building-a-gift-recommender-for-the-perfect-christmas-caf163d38e10?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-08T14:32:13.000Z</updated>
-        <summary type="html"><![CDATA[How I used AI and Streamlit to create a festive and fun gift recommendation app
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Shuqing Ke</name>
         </author>
     </entry>
 </feed>
