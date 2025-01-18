@@ -2,10 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-01-17T01:06:59.698Z</updated>
+    <updated>2025-01-18T01:05:35.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on the conservative assumptions in AI control]]></title>
+        <id>rHyPtvfnvWeMv7Lkb</id>
+        <link href="https://www.alignmentforum.org/posts/rHyPtvfnvWeMv7Lkb/thoughts-on-the-conservative-assumptions-in-ai-control"/>
+        <updated>2025-01-17T19:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 17, 2025 7:23 PM GMT
+
+Work that I’ve done on techniques for mitigating risk from misaligned AI often makes a number of conservative assumptions about the capabilities of the AIs we’re trying to control. (E.g. the original AI control paper, Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats, How to prevent collusion when using untrusted models to monitor each other.) For example:
+
+The AIs are consistently trying to subvert safety measures.
+They’re very good at strategizing about how to subvert them, and can do this strategizing totally illegibly (e.g. in a single forward pass).
+They can follow a strategy that’s coordinated between all their instances.
+They know exactly what safety measures are in use.
+They know a lot about the distribution of inputs.
+They…]]></summary>
+        <author>
+            <name>Buck Shlegeris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timaeus is hiring researchers & engineers]]></title>
+        <id>g8e4pz7aHGCpahFR4</id>
+        <link href="https://www.alignmentforum.org/posts/g8e4pz7aHGCpahFR4/timaeus-is-hiring-researchers-and-engineers"/>
+        <updated>2025-01-17T19:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 17, 2025 7:13 PM GMT
+
+TLDR: We're hiring for research & engineering roles across different levels of seniority. Hires will work on applications of singular learning theory to alignment, including developmental interpretability.
+About Us
+Timaeus' mission is to empower humanity by making breakthrough scientific progress on alignment. Our research focuses on applications of singular learning theory to foundational problems within alignment.
+Position Details
+
+Positions: Research Lead, Research Scientist, Research Engineer.
+Location: Remote. Timaeus will likely be located in either Berkeley or London in the next 6 months, and we intend to sponsor visas for these roles in the future.
+Type: Full-time.
+Start Date: April 2025.
+Salary range: USD70,000 – USD140,000 annually, base…]]></summary>
+        <author>
+            <name>Jesse Hoogland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satellite Image Classification with Deep Learning — Complete Project]]></title>
+        <id>https://medium.com/p/e4cb44337393</id>
+        <link href="https://towardsdatascience.com/satellite-image-classification-with-deep-learning-complete-project-e4cb44337393?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T18:40:13.000Z</updated>
+        <summary type="html"><![CDATA[A Comprehensive Guide Using PyTorch and CNNs
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Leo Anello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Experience Switching From Power BI to Looker (as a Senior Data Analyst)]]></title>
+        <id>https://medium.com/p/d244cfe62613</id>
+        <link href="https://towardsdatascience.com/my-experience-switching-from-power-bi-to-looker-as-a-senior-data-analyst-d244cfe62613?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T18:23:12.000Z</updated>
+        <summary type="html"><![CDATA[What you need to know before you switch from Power BI to Looker.
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Tomas Jancovic (It's AI Thomas)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to Start When Data is Limited]]></title>
+        <id>https://medium.com/p/194492e7a6f8</id>
+        <link href="https://towardsdatascience.com/effective-ml-with-limited-data-where-to-start-194492e7a6f8?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T18:04:17.000Z</updated>
+        <summary type="html"><![CDATA[A launch pad for projects with small datasets]]></summary>
+        <author>
+            <name>Jake Minns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Focus: Week of January 13, 2025]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1116780</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-january-13-2025/"/>
+        <updated>2025-01-17T17:37:58.000Z</updated>
+        <summary type="html"><![CDATA[In this edition: Privacy enhancements for multiparty deep learning; using smaller, open-source models to provide relevance judgments; new tool uses AI, data to automate innovation and development; Yasuyuki Matsushita named IEEE 2025 Computer Society Fellow.
+The post Research Focus: Week of January 13, 2025 appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Brenda Potts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning from Machine Learning | Sebastian Raschka: Mastering ML and Pushing AI Forward Responsibly]]></title>
+        <id>https://medium.com/p/aac39bd4af83</id>
+        <link href="https://towardsdatascience.com/learning-from-machine-learning-sebastian-raschka-mastering-ml-and-pushing-ai-forward-responsibly-aac39bd4af83?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T17:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Sebastian Raschka has helped demystify deep learning for thousands through his books, tutorials and teachings]]></summary>
+        <author>
+            <name>Seth Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain-Kùzu Integration: Transforming Text into Graphs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=215944</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/langchain-kuzu-integration/"/>
+        <updated>2025-01-17T16:40:25.000Z</updated>
+        <summary type="html"><![CDATA[The new langchain-kuzu integration package is now available on PyPI! This package bridges the powerful capabilities of LangChain with Kùzu’s cutting-edge graph database, enabling seamless transformation of unstructured text into structured graphs. Whether you’re a data scientist, developer, or AI enthusiast, this integration simplifies complex tasks like entity extraction, graph creation, and natural language querying. […]
+The post LangChain-Kùzu Integration: Transforming Text into Graphs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Adarsh Balan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gateway: Japan in Deep Space]]></title>
+        <id>0a5237b6-d4e5-11ef-8f28-4fc556e37c4b</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/gateway-japan-in-deep-space/"/>
+        <updated>2025-01-17T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Japan Aerospace Exploration Agency (JAXA) astronaut Aki Hoshide discusses how JAXA is contributing to NASA’s lunar space station, Gateway, and future Artemis missions. HWHAP 368.]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Exploration of Sora — Intuitively and Exhaustively Explained]]></title>
+        <id>https://medium.com/p/57426b269a26</id>
+        <link href="https://towardsdatascience.com/a-practical-exploration-of-sora-intuitively-and-exhaustively-explained-57426b269a26?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T15:02:05.000Z</updated>
+        <summary type="html"><![CDATA[A new cutting edge video generation tool, and the theory behind it
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Daniel Warfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM for Data Visualization: How AI Shapes the Future of Analytics]]></title>
+        <id>https://medium.com/p/f0c2d181725d</id>
+        <link href="https://towardsdatascience.com/llm-for-data-visualization-how-ai-shapes-the-future-of-analytics-f0c2d181725d?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T14:02:02.000Z</updated>
+        <summary type="html"><![CDATA[From Raw Data to Stunning Visuals: LLMs in Action
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Chengzhi Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing PDFs for RAGs]]></title>
+        <id>https://medium.com/p/b1579fc697f1</id>
+        <link href="https://towardsdatascience.com/preparing-pdfs-for-rags-b1579fc697f1?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[I created a graph storage from dozens of annual reports (with tables)
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Influential Time-Series Forecasting Papers of 2023–2024: Part 1]]></title>
+        <id>https://medium.com/p/1b3d2e10a5b3</id>
+        <link href="https://towardsdatascience.com/influential-time-series-forecasting-papers-of-2023-2024-part-1-1b3d2e10a5b3?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T12:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the latest advancements in time series
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Nikos Kafritsas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Did I Learn from Building LLM Applications in 2024? — Part 2]]></title>
+        <id>https://medium.com/p/86433ef437a7</id>
+        <link href="https://towardsdatascience.com/what-did-i-learn-from-building-llm-applications-in-2024-part-2-86433ef437a7?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T11:02:03.000Z</updated>
+        <summary type="html"><![CDATA[An engineer’s journey to building LLM-powered applications]]></summary>
+        <author>
+            <name>Satwiki De</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Ng on Why AI Product Management is the Future!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=216269</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/ai-product-management/"/>
+        <updated>2025-01-17T08:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Writing software, especially prototypes, is becoming cheaper by the day. Every day, we see leaders talking about reducing the cost of software development with the help of AI agents. As building becomes cheaper, the demand for people who can decide what to build is going to increase. This is where AI Product Managers come in. […]
+The post Andrew Ng on Why AI Product Management is the Future! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Steps to Start a Business in 2025 Using Generative AI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=216043</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/steps-to-start-a-business-using-generative-ai/"/>
+        <updated>2025-01-17T08:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Starting a business is an adventure – exciting, challenging, and full of potential. But with all the research, paperwork, and marketing efforts that go into it, setting up a business may be daunting to a lot of people. Worry no more, generative AI (GenAI) is here to make the process simpler, faster, and more efficient […]
+The post 10 Steps to Start a Business in 2025 Using Generative AI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 4: The Model]]></title>
+        <id>https://medium.com/p/7f530bc91383</id>
+        <link href="https://towardsdatascience.com/learnings-from-a-machine-learning-engineer-part-4-the-model-7f530bc91383?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-17T01:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Practical insights for a data-driven approach to model optimization
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>David Martin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 3: The Evaluation]]></title>
         <id>https://medium.com/p/e4a8dbb035e0</id>
@@ -4472,218 +4673,6 @@ The post Exploring Meta’s Segment Anything Model (SAM) For Medical Imaging app
 The post Large Action Models: Transforming AI with Action-Driven Systems appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Jay Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI agent spectrum]]></title>
-        <id>https://www.interconnects.ai/p/the-ai-agent-spectrum</id>
-        <link href="https://www.interconnects.ai/p/the-ai-agent-spectrum"/>
-        <updated>2024-12-18T13:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Separating different classes of AI agents from a long history of reinforcement learning.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Voiceover) The AI agent spectrum]]></title>
-        <id>https://www.interconnects.ai/p/voiceover-the-ai-agent-spectrum</id>
-        <link href="https://www.interconnects.ai/p/voiceover-the-ai-agent-spectrum"/>
-        <updated>2024-12-18T12:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Separating different classes of AI agents from a long history of reinforcement learning.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadmap to Becoming a Data Scientist, Part 2: Software Engineering]]></title>
-        <id>https://medium.com/p/e2fee3fe4d71</id>
-        <link href="https://towardsdatascience.com/roadmap-to-becoming-a-data-scientist-part-2-software-engineering-e2fee3fe4d71?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-18T12:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Coding your road to Data Science: mastering key development skills
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Vyacheslav Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear Optimisations in Product Analytics]]></title>
-        <id>https://medium.com/p/ace19e925677</id>
-        <link href="https://towardsdatascience.com/linear-optimisations-in-product-analytics-ace19e925677?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-18T11:01:53.000Z</updated>
-        <author>
-            <name>Mariya Mansurova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenAI Ops Roadmap: Your Path to Master LLMOps and AgentOps]]></title>
-        <id>https://www.analyticsvidhya.com/?p=211327</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/genai-ops-roadmap/"/>
-        <updated>2024-12-18T07:03:43.000Z</updated>
-        <summary type="html"><![CDATA[To truly become an expert in GenAI Ops, the key is not just knowing what to learn, but how to learn it and apply it effectively. The journey begins with gaining a broad understanding of foundational concepts such as prompt engineering, Retrieval-Augmented Generation (RAG), and AI agents. However, your focus should gradually shift to mastering […]
-The post GenAI Ops Roadmap: Your Path to Master LLMOps and AgentOps appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Veo 2 Just SHOCKED Everyone! (OpenAI Sora Beaten)]]></title>
-        <id>https://www.analyticsvidhya.com/?p=211579</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/googles-veo-2/"/>
-        <updated>2024-12-17T20:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Google has made a great comeback in reply to the new releases of video generation models like Sora and Nova Reel. Joining the pact with Veo 2, the video generation game is set to rise in the coming months. Early demonstrations and benchmarks show that Veo 2 may set a new standard for quality, realism, […]
-The post Google’s Veo 2 Just SHOCKED Everyone! (OpenAI Sora Beaten) appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1112472</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/"/>
-        <updated>2024-12-17T18:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Just after his NeurIPS 2024 keynote on the co-evolution of systems and AI, Microsoft CVP Lidong Zhou joins the podcast to discuss how rapidly advancing AI impacts the systems supporting it and the opportunities to use AI to enhance systems engineering itself.
-The post NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Brenda Potts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anatomy of an Autonomous Agent]]></title>
-        <id>https://medium.com/p/499b42b73124</id>
-        <link href="https://towardsdatascience.com/the-anatomy-of-an-autonomous-agent-499b42b73124?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-17T18:20:18.000Z</updated>
-        <summary type="html"><![CDATA[A blueprint for autonomous agents in an Agentic Mesh ecosystem.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Eric Broda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Your Christmas Be White? Ask An AI Weather Model!]]></title>
-        <id>https://medium.com/p/388323f1d2e3</id>
-        <link href="https://towardsdatascience.com/will-your-christmas-be-white-ask-an-ai-weather-model-388323f1d2e3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-17T18:14:19.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to visualize AI weather and create your own forecast for the holidays
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Caroline Arnold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 in Review: What I Got Right, Where I Was Wrong, and Bolder Predictions for 2025]]></title>
-        <id>https://medium.com/p/4092c2d726cd</id>
-        <link href="https://towardsdatascience.com/2024-in-review-what-i-got-right-where-i-was-wrong-and-bolder-predictions-for-2025-4092c2d726cd?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-17T18:05:57.000Z</updated>
-        <author>
-            <name>Leonie Monigatti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Invisible Bug That Broke My Automation: How OCR Changed The Game]]></title>
-        <id>https://medium.com/p/c35e1c79a591</id>
-        <link href="https://towardsdatascience.com/the-invisible-bug-that-broke-my-automation-how-ocr-changed-the-game-c35e1c79a591?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-17T17:49:08.000Z</updated>
-        <summary type="html"><![CDATA[The evolution of AI in test automation: from locators to generative AI (Part 3)
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Abdelkader HASSINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Search Launched: Is This the End of Google Search?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=185356</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/chatgpt-search/"/>
-        <updated>2024-12-17T17:37:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI is raining Christmas presents almost everyday this December! On Day-8 of their Shipmas event, OpenAI has made ChatGPT Search available to all! This new web search feature which was rolled out to ChatGPT’s paid users earlier this year, is now available to all logged-in users of ChatGPT worldwide. Not just that, ChatGPT Search is […]
-The post ChatGPT Search Launched: Is This the End of Google Search? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Career-Savers Data Scientists Should Incorporate into Their Work]]></title>
-        <id>https://medium.com/p/c95e78dab625</id>
-        <link href="https://towardsdatascience.com/four-career-savers-data-scientists-should-incorporate-into-their-work-c95e78dab625?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-17T17:31:31.000Z</updated>
-        <summary type="html"><![CDATA[You might damage your data science career progress without even realising it — but avoiding that fate isn’t too difficult
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Visualizations in Python]]></title>
-        <id>https://medium.com/p/d640462c41f4</id>
-        <link href="https://towardsdatascience.com/animated-plotting-in-python-with-opencv-and-matplotlib-d640462c41f4?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-17T17:29:13.000Z</updated>
-        <author>
-            <name>Florian Trautweiler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1111329</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/"/>
-        <updated>2024-12-17T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PromptWizard from Microsoft Research is now open source. It is designed to automate and simplify AI prompt optimization, combining iterative LLM feedback with efficient exploration and refinement techniques to create highly effective prompts in minutes.
-The post PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Brenda Potts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSIP Participates in Vision Day]]></title>
-        <id>https://www.rsipvision.com/?p=16298</id>
-        <link href="https://www.rsipvision.com/rsip-participates-in-vision-day/"/>
-        <updated>2024-12-17T15:52:37.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday our algorithm developers took a break from their regular duties to take part in vision day at Tel-Aviv University. It’s always great to meet our colleagues and to catch up with some cutting edge computer vision research. Here are some of the talks we found particularly interesting and relevant to our work: Anat Levin from the Technion …
-  RSIP Participates in Vision Day Read More »
-The post RSIP Participates in Vision Day appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Machine Learning Projects For Beginners]]></title>
-        <id>https://machinelearningmastery.com/?p=18752</id>
-        <link href="https://machinelearningmastery.com/7-machine-learning-projects-beginners/"/>
-        <updated>2024-12-17T15:50:16.000Z</updated>
-        <summary type="html"><![CDATA[The adoption of machine learning (ML) continues at a rapid pace, as it has proven itself a powerful tool for solving many problems.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Gaussian Splatting Paper Explanation: Training Custom Datasets with NeRF-Studio Gsplats]]></title>
-        <id>https://learnopencv.com/?p=61858</id>
-        <link href="https://learnopencv.com/3d-gaussian-splatting/"/>
-        <updated>2024-12-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3D Gaussian Splatting (3DGS) is redefining the landscape of 3D computer graphics and vision — but here’s a twist: it achieves groundbreaking results without relying on any neural networks, not even a small MLP! Gaussian splatting is used for 3D reconstruction from multi-view. In “Gaussian splatting” (3DGS), “gaussian” is the bell-shaped mathematical probability distribution but, […]
-3D Gaussian Splatting Paper Explanation: Training Custom Datasets with NeRF-Studio Gsplats first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>soumyadip</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow Lite vs PyTorch Mobile for On-Device Machine Learning]]></title>
-        <id>https://www.analyticsvidhya.com/?p=210977</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/tensorflow-lite-vs-pytorch-mobile/"/>
-        <updated>2024-12-17T13:39:46.000Z</updated>
-        <summary type="html"><![CDATA[In the recent world of technology development and machine learning it’s no longer confined in the micro cloud but in mobile devices. As we know, TensorFlow Lite and PyTorch Mobile are two of the most commercially available tools for deploying models directly on phones and tablets. TensorFlow Lite and PyTorch mobile, both, are developed to […]
-The post TensorFlow Lite vs PyTorch Mobile for On-Device Machine Learning appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>ayush8299264152969</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phi-4: Redefining Language Models with Synthetic Data]]></title>
-        <id>https://www.analyticsvidhya.com/?p=211320</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/phi-4/"/>
-        <updated>2024-12-17T13:34:03.000Z</updated>
-        <summary type="html"><![CDATA[The landscape of AI is evolving rapidly, and language models, particularly those designed for reasoning and problem-solving tasks, are at the heart of this revolution. One such breakthrough in AI is Phi-4, a 14-billion parameter model developed by Microsoft Research. What sets Phi-4 apart from its predecessors and other models is its innovative approach to […]
-The post Phi-4: Redefining Language Models with Synthetic Data appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ketan Kumar</name>
         </author>
     </entry>
 </feed>
