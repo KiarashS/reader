@@ -2,10 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-01-30T01:06:43.128Z</updated>
+    <updated>2025-01-31T01:07:44.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Distributed Tracing: A Powerful Approach to Debugging Complex Systems]]></title>
+        <id>https://medium.com/p/20700bc03334</id>
+        <link href="https://towardsdatascience.com/distributed-tracing-a-powerful-approach-to-debugging-complex-systems-20700bc03334?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T23:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Why distributed tracing is the key to resolving performance issues
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Hareesha Dandamudi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Creating Bad DAGs — Optimize Your Airflow Environment By Improving Your Python Code]]></title>
+        <id>https://medium.com/p/146fcf4d27f7</id>
+        <link href="https://towardsdatascience.com/stop-creating-bad-dags-optimize-your-airflow-environment-by-improving-your-python-code-146fcf4d27f7?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T20:31:57.000Z</updated>
+        <author>
+            <name>Alvaro Leandro Cavalcante Carneiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Mistral Small 3? All You Need to Know]]></title>
+        <id>https://www.analyticsvidhya.com/?p=218628</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/mistral-small-3/"/>
+        <updated>2025-01-30T19:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Mistral AI has launched its latest and most efficient small language model (SLM) – Mistral Small 3. It’s a 24-billion-parameter language model designed for high efficiency and low latency. The model aims to deliver robust performance across various AI tasks while maintaining rapid response times. Here’s all you need to know about Mistral Small 3 […]
+The post What is Mistral Small 3? All You Need to Know appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Pruning MNIST: How I Hit 99% Accuracy Using Half the Data]]></title>
+        <id>https://medium.com/p/9179a8fb4521</id>
+        <link href="https://towardsdatascience.com/data-pruning-mnist-how-i-hit-99-accuracy-using-half-the-data-9179a8fb4521?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T19:33:37.000Z</updated>
+        <author>
+            <name>Chris Lettieri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actually, Being a Data Scientist is Awesome]]></title>
+        <id>https://medium.com/p/3159e032c6b6</id>
+        <link href="https://towardsdatascience.com/actually-being-a-data-scientist-is-awesome-3159e032c6b6?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T18:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Don’t let the doom and gloom get to you
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Marina Wyss - Gratitude Driven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Data Science Content: Recognizing Common Pitfalls, Part 1]]></title>
+        <id>https://medium.com/p/72f5bab5a010</id>
+        <link href="https://towardsdatascience.com/navigating-data-science-content-recognizing-common-pitfalls-part-1-72f5bab5a010?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T17:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Uncovering and correcting misconceptions in online data science content to help you learn more effectively
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Geremie Yeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Things I Learned Building a Data Platform using a Medallion Architecture in the Last 4 Years]]></title>
+        <id>https://medium.com/p/7c1991a9ec50</id>
+        <link href="https://towardsdatascience.com/4-things-i-learned-building-a-data-platform-using-a-medallion-architecture-in-the-last-4-years-7c1991a9ec50?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T17:31:26.000Z</updated>
+        <author>
+            <name>Danilo Pinto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A sketch of an AI control safety case]]></title>
+        <id>vWYzSorAEWwoJnnXq</id>
+        <link href="https://www.alignmentforum.org/posts/vWYzSorAEWwoJnnXq/a-sketch-of-an-ai-control-safety-case"/>
+        <updated>2025-01-30T17:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 30, 2025 5:28 PM GMT
+
+This is a linkpost accompanying a new paper by UK AISI and Redwood Research. Please see the full paper for more details.
+
+An illustration of the control evaluation that provides the core evidence used in our control safety case sketch. During the control evaluation, a red team constructs adversarial substitute models to cause unacceptable outcomes in a deployment proxy consisting of 2,000 AI research tasks, followed by extrapolation to a larger deployment setting.
+Abstract. As LLM agents gain a greater capacity to cause harm, AI developers might increasingly rely on control measures such as monitoring to justify that they are safe. We sketch how developers could construct a “control safety case,” which is a structured argument that models are inca…]]></summary>
+        <author>
+            <name>Tomek Korbak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Share a Secret: Shamir’s Secret Sharing]]></title>
+        <id>https://medium.com/p/9a18a109a860</id>
+        <link href="https://towardsdatascience.com/how-to-share-a-secret-shamirs-secret-sharing-9a18a109a860?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T17:19:56.000Z</updated>
+        <author>
+            <name>Jimin Kang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development]]></title>
+        <id>pZhEQieM9otKXhxmd</id>
+        <link href="https://www.alignmentforum.org/posts/pZhEQieM9otKXhxmd/gradual-disempowerment-systemic-existential-risks-from"/>
+        <updated>2025-01-30T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 30, 2025 5:03 PM GMT
+
+Full version on arXiv | X
+Executive summary
+AI risk scenarios usually portray a relatively sudden loss of human control to AIs, outmaneuvering individual humans and human institutions, due to a sudden increase in AI capabilities, or a coordinated betrayal. However, we argue that even an incremental increase in AI capabilities, without any coordinated power-seeking, poses a substantial risk of eventual human disempowerment. This loss of human influence will be centrally driven by having more competitive machine alternatives to humans in almost all societal functions, such as economic labor, decision making, artistic creation, and even companionship.
+A gradual loss of control of our own civilization might sound implausible. Hasn't technological disr…]]></summary>
+        <author>
+            <name>Jan_Kulveit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nine Pico PIO Wats with Rust (Part 1)]]></title>
+        <id>https://medium.com/p/9d062067dc25</id>
+        <link href="https://towardsdatascience.com/nine-pico-pio-wats-with-rust-part-1-9d062067dc25?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T16:32:01.000Z</updated>
+        <author>
+            <name>Carl M. Kadie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contextual Bandit Simulation in Marketing]]></title>
+        <id>https://medium.com/p/2e76acfe1d62</id>
+        <link href="https://towardsdatascience.com/contextual-bandit-simulation-in-marketing-2e76acfe1d62?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T16:16:13.000Z</updated>
+        <author>
+            <name>Jeff Allard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series Forecasting with MFLES]]></title>
+        <id>https://medium.com/p/c452ede7834c</id>
+        <link href="https://towardsdatascience.com/time-series-forecasting-with-mfles-c452ede7834c?source=rss----7f60cf5620c9---4"/>
+        <updated>2025-01-30T15:31:56.000Z</updated>
+        <summary type="html"><![CDATA[The newest method in StatsForecast
+Continue reading on Towards Data Science »]]></summary>
+        <author>
+            <name>Tyler Blume</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a RAG System Using DeepSeek R1?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=218561</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/rag-system-using-deepseek/"/>
+        <updated>2025-01-30T12:48:23.000Z</updated>
+        <summary type="html"><![CDATA[I have been reading a lot about RAG and AI Agents, but with the release of new models like DeepSeek V3 and DeepSeek R1, it seems that the possibility of building efficient RAG systems has significantly improved, offering better retrieval accuracy, enhanced reasoning capabilities, and more scalable architectures for real-world applications. The integration of more […]
+The post How to Build a RAG System Using DeepSeek R1? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Free ChatGPT Pro Features With DeepSeek-R1, Kimi k & More!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=218383</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/free-chatgpt-pro-features/"/>
+        <updated>2025-01-30T08:50:57.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT has recently launched its Pro subscription model offering advanced features, enhanced capabilities, and greater usage limits. While these features are undoubtedly impressive, the Pro plan comes with a hefty price tag of $200/month! Sounds expensive? Don’t worry. There are numerous open-source AI models and tools that offer many of these features for free. Sounds […]
+The post Get Free ChatGPT Pro Features With DeepSeek-R1, Kimi k & More! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kokoro-82M: Compact, Customizable, and Cutting-Edge TTS Model]]></title>
+        <id>https://www.analyticsvidhya.com/?p=218082</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/kokoro-82m/"/>
+        <updated>2025-01-30T06:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Text-to-speech (TTS) technology has evolved rapidly, allowing natural and expressive voice generation for a various applications. One standout model in this domain is Kokoro TTS, a cutting-edge TTS model known for its efficiency and high-quality speech creation. Kokoro-82M is a Text-to-Speech model consisting of 82 million parameters. Despite its significantly small size (82 million parameters), […]
+The post Kokoro-82M: Compact, Customizable, and Cutting-Edge TTS Model appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Aditi V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide on YOLOv11 Model Building from Scratch using PyTorch]]></title>
+        <id>https://www.analyticsvidhya.com/?p=217865</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/yolov11-model-building/"/>
+        <updated>2025-01-30T06:45:35.000Z</updated>
+        <summary type="html"><![CDATA[YOLO models have made significant contributions to computer vision in various applications, such as object detection, segmentation, pose estimation, vehicle speed detection, and multimodal tasks. While understanding their applications is crucial, it’s equally important to know how these models are built and how they work. This article will focus on that aspect. In this article, […]
+The post Guide on YOLOv11 Model Building from Scratch using PyTorch appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nikhileswara Rao Sulake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China vs USA: Who is Losing the AI Race?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=167371</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/china-vs-usa-who-is-losing-the-ai-race/"/>
+        <updated>2025-01-30T06:44:00.000Z</updated>
+        <summary type="html"><![CDATA[China and the USA have long been leaders in science, technology, and innovation, and the AI space is no exception. But who’s ahead now? Six months ago, the U.S. was the clear frontrunner. However, China’s impressive comeback with models like Qwen 2.5, DeepSeek R1, V3, Janus Pro, and Kiki k1.5 has made the answer far […]
+The post China vs USA: Who is Losing the AI Race? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Beam Search in NLP Decoding?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=217862</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/01/beam-search-in-nlp-decoding/"/>
+        <updated>2025-01-30T06:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Beam search is a powerful decoding algorithm extensively used in natural language processing (NLP) and machine learning. It is especially important in sequence generation tasks such as text generation, machine translation, and summarization. Beam search balances between exploring the search space efficiently and generating high-quality output. In this blog, we will dive deep into the […]
+The post What is Beam Search in NLP Decoding? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Neha Dwivedi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Great Books for AI Engineering]]></title>
         <id>https://medium.com/p/0931e1d448c0</id>
@@ -446,6 +651,16 @@ Continue reading on Towards Data Science »]]></summary>
 Continue reading on Towards Data Science »]]></summary>
         <author>
             <name>Florian Trautweiler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Powerful Ensemble Models with PyCaret]]></title>
+        <id>https://machinelearningmastery.com/?p=18958</id>
+        <link href="https://machinelearningmastery.com/creating-powerful-ensemble-models-pycaret/"/>
+        <updated>2025-01-28T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is changing how we solve problems.]]></summary>
+        <author>
+            <name>Jayita Gulati</name>
         </author>
     </entry>
     <entry>
@@ -4882,128 +5097,6 @@ Continue reading on Towards Data Science »]]></summary>
 Image Captioning using ResNet and LSTM first appeared on LearnOpenCV.]]></summary>
         <author>
             <name>Ankan Ghosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm Shifts of Eval in the Age of LLM]]></title>
-        <id>https://medium.com/p/7afd58e55b29</id>
-        <link href="https://towardsdatascience.com/paradigm-shifts-of-eval-in-the-age-of-llm-7afd58e55b29?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-31T13:02:09.000Z</updated>
-        <author>
-            <name>Lili Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math Behind In-Context Learning]]></title>
-        <id>https://medium.com/p/e4299264be74</id>
-        <link href="https://towardsdatascience.com/the-math-behind-in-context-learning-e4299264be74?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-31T12:02:07.000Z</updated>
-        <author>
-            <name>Shitanshu Bhushan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Key to Smarter Models: Tracking Feature Histories]]></title>
-        <id>https://medium.com/p/a9e3baadd52a</id>
-        <link href="https://towardsdatascience.com/the-key-to-smarter-models-tracking-feature-histories-a9e3baadd52a?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-31T11:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Capture context and improve predictions with historical data
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Harrison Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marco-o1 vs Llama 3.2: Which is Better?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=213237</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/marco-o1-with-llama-3-2/"/>
-        <updated>2024-12-31T07:39:04.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s o1 model has generated considerable excitement in the field of large reasoning models (LRMs) due to its advanced capabilities in tackling complex problems. Building on this foundation, Marco-o1 emerges as a new LRM that not only emphasizes traditional disciplines such as mathematics and coding but also prioritizes open-ended problem-solving across a variety of domains. A key […]
-The post Marco-o1 vs Llama 3.2: Which is Better? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nibedita Dutta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Agentic RAG with Phidata]]></title>
-        <id>https://www.analyticsvidhya.com/?p=213177</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/agentic-rag-with-phidata/"/>
-        <updated>2024-12-31T07:33:30.000Z</updated>
-        <summary type="html"><![CDATA[When building applications using Large Language Models (LLMs), the quality of responses heavily depends on effective planning and reasoning capabilities for a given user task. While traditional RAG techniques are powerful, incorporating Agentic workflows can significantly enhance the system’s ability to process and respond to queries. In this article,  you will build an Agentic RAG […]
-The post Building an Agentic RAG with Phidata appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Tarun R Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons from COVID-19: Why Probability Distributions Matter]]></title>
-        <id>https://medium.com/p/9306b535a5c8</id>
-        <link href="https://towardsdatascience.com/why-probability-distributions-matter-lessons-from-covid-19-9306b535a5c8?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-31T01:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Distributions with Extremes: Probability for Data Science Series (END)
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Sunghyun Ahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Default Python Line Chart to Journal-Quality Infographics]]></title>
-        <id>https://medium.com/p/80e3949eacc3</id>
-        <link href="https://towardsdatascience.com/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-30T18:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Transform boring default Matplotlib line charts into stunning, customized visualizations]]></summary>
-        <author>
-            <name>Vladimir Zhyvov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ensure the Stability of a Model Using Jackknife Estimation]]></title>
-        <id>https://medium.com/p/23d0dde2cd1f</id>
-        <link href="https://towardsdatascience.com/how-to-ensure-stability-of-a-model-using-jacknife-estimation-23d0dde2cd1f?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-30T18:36:08.000Z</updated>
-        <summary type="html"><![CDATA[How to ensure the robustness of a model and detect  influential data observations
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Paula LC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Custom AI Jira Agent]]></title>
-        <id>https://medium.com/p/fb903468bff6</id>
-        <link href="https://towardsdatascience.com/custom-ai-jira-agent-google-mesop-django-langchain-agent-co-star-chain-of-thought-cot-and-fb903468bff6?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-30T18:27:08.000Z</updated>
-        <author>
-            <name>Lewis James | Data Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Open-Source AI Libraries for Developers]]></title>
-        <id>https://www.analyticsvidhya.com/?p=213314</id>
-        <link href="https://www.analyticsvidhya.com/blog/2024/12/open-source-ai-libraries/"/>
-        <updated>2024-12-30T18:26:57.000Z</updated>
-        <summary type="html"><![CDATA[The world of artificial intelligence is advancing at an unprecedented pace, and open-source libraries are at the heart of this transformation. These libraries empower developers by providing accessible, cutting-edge tools to create, experiment, and deploy AI solutions efficiently. As we step into 2025, several open-source libraries stand out for their impact on AI innovation, usability, […]
-The post Top 10 Open-Source AI Libraries for Developers appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Yashashwy Alok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Model Uncertainty: Thresholding Techniques in Deep Learning]]></title>
-        <id>https://medium.com/p/1f1ab3912fd1</id>
-        <link href="https://towardsdatascience.com/mastering-model-uncertainty-thresholding-techniques-in-deep-learning-1f1ab3912fd1?source=rss----7f60cf5620c9---4"/>
-        <updated>2024-12-30T18:07:19.000Z</updated>
-        <author>
-            <name>Hampus Gustavsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 12.29.2024]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6772a11ee0163c5a3915e2a5</id>
-        <link href="https://www.eye-on.ai/ai-articles/7ajkpe9pcng9rwg-bxpe5-7h2mr-96m8j-ht475-rt6x9-gntwf-t3y9c-2dpnt-gc9gb-npyyz-sdh8d-sz7pc-bnnt6-zct9j-lfjea-t9wc4-zjadr-3fnw7-gczbn-mgp7r-8htnr-y4r8z-y9l2j-rabe2-jjb5m-k5a7l-f9sxc-3dmjx-ntt7j-cwp9h"/>
-        <updated>2024-12-30T13:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
         </author>
     </entry>
 </feed>
