@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=597481",
+          "author": "Reinhard Sellmair",
+          "description": "Minimum cost flow optimization minimizes the cost of moving flow through a network of nodes and edges. Nodes include sources (supply) and sinks (demand), with different costs and capacity limits. The aim is to find the least costly way to move volume from sources to sinks while adhering to all capacity limitations. Applications Applications of […]\nThe post Introduction to Minimum Cost Flow Optimization in Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/introduction-to-minimum-cost-flow-optimization-in-python/",
+          "publishedOn": "2025-02-06T22:14:00.000Z",
+          "wordCount": 6694,
+          "title": "Introduction to Minimum Cost Flow Optimization in Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_hjew-Jn8Z5wykD6HmYMQ9w.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597458",
+          "author": "Yue Wu",
+          "description": "This article is aimed at those who want to understand exactly how diffusion models work, with no prior knowledge expected. I’ve tried to use illustrations wherever possible to provide visual intuitions on each part of these models. I’ve kept mathematical notation and equations to a minimum, and where they are necessary I’ve tried to define […]\nThe post A Visual Guide to How Diffusion Models Work appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-visual-guide-to-how-diffusion-models-work/",
+          "publishedOn": "2025-02-06T20:17:21.000Z",
+          "wordCount": 7537,
+          "title": "A Visual Guide to How Diffusion Models Work",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_iQQMTOAG7dwM0KmYCg3cCg.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597414",
+          "author": "Matteo Casolari",
+          "description": "Introduction “Money can’t buy happiness.” “You can’t judge a book by its cover.” “An apple a day keeps the doctor away.” You’ve probably heard these sayings several times, but do they actually hold up when we look at the data? In this article series, I want to take popular myths/sayings and put them to the […]\nThe post Myths vs. Data: Does an Apple a Day Keep the Doctor Away? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/myths-vs-data-does-an-apple-a-day-keep-the-doctor-away/",
+          "publishedOn": "2025-02-06T03:55:10.000Z",
+          "wordCount": 4351,
+          "title": "Myths vs. Data: Does an Apple a Day Keep the Doctor Away?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_NYaEvgQlcCq66aCQp0vAoQ-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597411",
+          "author": "Maxime Wolf",
+          "description": "DeepSeek has recently made quite a buzz in the AI community, thanks to its impressive performance at relatively low costs. I think this is a perfect opportunity to dive deeper into how Large Language Models (LLMs) are trained. In this article, we will focus on the Reinforcement Learning (RL) side of things: we will cover […]\nThe post Training Large Language Models: From TRPO to GRPO appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/training-large-language-models-from-trpo-to-grpo/",
+          "publishedOn": "2025-02-06T03:24:03.000Z",
+          "wordCount": 4537,
+          "title": "Training Large Language Models: From TRPO to GRPO",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_nPPVFFCtxEjhZ-64vAQhgQ.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597406",
+          "author": "Julian Yip",
+          "description": "Introduction Many of us might have tried to build a RAG application and noticed it falls significantly short of addressing real-life needs. Why is that? It’s because many real-world problems require multiple steps of information retrieval and reasoning. We need our agent to perform those as humans normally do, yet most RAG applications fall short […]\nThe post Supercharge Your RAG with Multi-Agent Self-RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/supercharge-your-rag-with-multi-agent-self-rag/",
+          "publishedOn": "2025-02-06T03:07:47.000Z",
+          "wordCount": 5469,
+          "title": "Supercharge Your RAG with Multi-Agent Self-RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_Mk3h4-E_5MD778JNFBO1pg.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=597330",
           "author": "Piero Paialunga",
           "description": "DISCLAIMER: The idea of doing Cover Letter or even Resume with AI does not obviously start with me. A lot of people have done this before (very successfully) and have built websites and even companies from the idea. This is just a tutorial on how to build your own Cover Letter AI Generator App using […]\nThe post From Resume to Cover Letter Using AI and LLM, with Python and Streamlit appeared first on Towards Data Science.",
@@ -2150,66 +2200,6 @@
           "wordCount": null,
           "title": "All The SQL a Data Scientist Needs to Know",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/17ee19f51b1d",
-          "author": "Sara A. Metwalli",
-          "description": "And what we need to overcome\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-state-of-quantum-computing-where-are-we-today-17ee19f51b1d?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T00:22:38.000Z",
-          "wordCount": null,
-          "title": "The State of Quantum Computing: Where Are We Today?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b3b1a0a42a41",
-          "author": "Benjamin Lee",
-          "description": "Simple concepts that differentiate a professional from amateurs\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/encapsulation-a-software-engineering-concept-data-scientists-must-know-to-succeed-b3b1a0a42a41?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-06T22:00:36.000Z",
-          "wordCount": null,
-          "title": "Encapsulation: A Software Engineering Concept Data Scientists Must Know To Succeed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/996e8c62f3e8",
-          "author": "Zach Flynn",
-          "description": "",
-          "link": "https://towardsdatascience.com/in-defense-of-statistical-significance-996e8c62f3e8?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-06T21:54:10.000Z",
-          "wordCount": null,
-          "title": "In Defense of Statistical Significance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e584e38b91be",
-          "author": "Marc Nehme",
-          "description": "I’ll set the record straight — AI Agents are not new but advanced. Learn how they’ve evolved and where to get started.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/ai-agents-hype-explained-what-you-really-need-to-know-to-get-started-e584e38b91be?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-06T21:51:08.000Z",
-          "wordCount": null,
-          "title": "AI Agents Hype, Explained — What You Really Need to Know to Get Started",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c31fdc17d170",
-          "author": "Sunghyun Ahn",
-          "description": "Using Seattle’s local retail store data for consumer patterns of the lottery (SQL, Python)\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-lottery-data-behind-the-luck-ambition-and-a-billion-dollar-dream-c31fdc17d170?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-06T19:10:51.000Z",
-          "wordCount": null,
-          "title": "Data behind the Luck, Ambition, and a Billion-Dollar Dream: Lottery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/12f4a7918b36",
-          "author": "Muhammad Ardi",
-          "description": "Understanding and implementing the GPT-1, GPT-2 and GPT-3 architectures\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/meet-gpt-the-decoder-only-transformer-12f4a7918b36?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-06T17:01:44.000Z",
-          "wordCount": null,
-          "title": "Meet GPT, The Decoder-Only Transformer",
-          "imageUrl": null
         }
       ]
     },
@@ -2336,16 +2326,6 @@
           "publishedOn": "2025-01-08T16:49:35.000Z",
           "wordCount": null,
           "title": "5 Common Mistakes to Avoid When Training LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18803",
-          "author": "Cornellius Yudha Wijaya",
-          "description": "With large language model (LLM) products such as ChatGPT and Gemini taking over the world, we need to adjust our skills to follow the trend.",
-          "link": "https://machinelearningmastery.com/7-next-generation-prompt-engineering-techniques/",
-          "publishedOn": "2025-01-06T17:43:51.000Z",
-          "wordCount": null,
-          "title": "7 Next-Generation Prompt Engineering Techniques",
           "imageUrl": null
         }
       ]
@@ -2539,6 +2519,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67a3eddcb87640f436f52ba3",
+          "author": "Tatev Aslanyan",
+          "description": "Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...",
+          "link": "https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/",
+          "publishedOn": "2025-02-05T23:01:48.000Z",
+          "wordCount": 11253,
+          "title": "Learn Clustering in Python – A Machine Learning Engineering Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738794333226/0f8cd7d3-54d4-49a3-b864-e3e477446089.png"
+        },
+        {
           "id": "678ad60f07a0a18254c0d6a9",
           "author": "Quincy Larson",
           "description": "On this week's episode of the podcast, I interview Jiquan Ngiam. He's a former Google Brain engineer who's building tools to make AI useful for everyone – not just developers. We talk about the power of AI and it's practical capabilities, and separat...",
@@ -2577,16 +2567,6 @@
           "wordCount": 3088,
           "title": "What is Semantic Matching? How to Find Words in a Document Using NLP",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Dh7gzpVpdWQ/upload/4e1e504663acda31b980e6fba0c2d661.jpeg"
-        },
-        {
-          "id": "677c5a037d6144e9c5ef49f8",
-          "author": "Josiah Adesola",
-          "description": "Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...",
-          "link": "https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/",
-          "publishedOn": "2025-01-06T22:32:35.000Z",
-          "wordCount": 3974,
-          "title": "SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735894336456/dae0caa1-7c01-4b88-a748-79d682bbed78.png"
         }
       ]
     },
@@ -2740,17 +2720,6 @@
           "title": "Week Ending 1.12.2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:677c13be949c04035aa1c088",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw",
-          "publishedOn": "2025-01-06T17:35:11.000Z",
-          "wordCount": null,
-          "title": "Week Ending 1.5.2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2844,6 +2813,72 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220172",
+          "author": "Anu Madan",
+          "description": "The race for the most advanced reasoning LLM is heating up, and the competition is fiercer than ever.  DeepSeek kicked it off with DeepSeek R1, followed by OpenAI’s o3-mini, and now Google has entered with a powerhouse lineup: Gemini 2.0 Flash, Flash Lite, Pro, and two experimental models—Flash 2.0 Thinking and Thinking with Apps.  While […]\nThe post Gemini 2.0 – Everything You Need to Know About Google’s Latest LLMs appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/gemini-2-0-everything-you-need-to-know-about-googles-latest-llms/",
+          "publishedOn": "2025-02-06T21:31:55.000Z",
+          "wordCount": null,
+          "title": "Gemini 2.0 – Everything You Need to Know About Google’s Latest LLMs",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220135",
+          "author": "Pankaj Singh",
+          "description": "Google has been making waves in the AI space with its Gemini 2.0 models, bringing substantial upgrades to their chatbot and developer tools. With the introduction of Gemini 2.0 Flash, Gemini 2.0 Pro (experimental), and the new cost-efficient Gemini 2.0 Flash-Lite, I was eager to get hands-on experience with each of these models—and yes, I […]\nThe post I Tried All the Latest Google 2.0 Model APIs for Free appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/google-2-0-model-apis/",
+          "publishedOn": "2025-02-06T18:55:53.000Z",
+          "wordCount": null,
+          "title": "I Tried All the Latest Google 2.0 Model APIs for Free",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220085",
+          "author": "K.C. Sabreena Basheer",
+          "description": "Google has expanded their Gemini 2.0 family with a bunch of new experimental models. The Gemini 2.0 Pro Experimental is specifically designed to handle complex tasks with ease and superior performance. This new model from Google is giving a tough competition to OpenAI’s o3-mini, especially in advanced coding and reasoning tasks. In this battle of […]\nThe post Is Google Gemini 2.0 Pro Experimental Better Than OpenAI o3-mini? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/gemini-2-0-pro-experimental-vs-o3-mini/",
+          "publishedOn": "2025-02-06T17:49:36.000Z",
+          "wordCount": null,
+          "title": "Is Google Gemini 2.0 Pro Experimental Better Than OpenAI o3-mini?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220104",
+          "author": "Nitika Sharma",
+          "description": "When you’re learning something new, projects are super important. They help you turn theory into practice and really understand what you’re doing. Guided projects are even better because they give you a clear path to follow. Experts show you the way, so you don’t get lost or make rookie mistakes. In this blog, we’ve got […]\nThe post 5 Solved RAG Projects You Cant Miss in 2025 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/solved-rag-projects/",
+          "publishedOn": "2025-02-06T17:32:36.000Z",
+          "wordCount": null,
+          "title": "5 Solved RAG Projects You Cant Miss in 2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220034",
+          "author": "Anu Madan",
+          "description": "If you were anywhere close to a news source last week, you must have heard of DeepSeek. This Chinese company that led to a tech stock crash in the US market questioned the supremacy of OpenAI and gave the world a free and much more powerful alternative to ChatGPT with its R1 model. But now, […]\nThe post Is Deepseek Getting Banned? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/is-deepseek-getting-banned/",
+          "publishedOn": "2025-02-06T12:55:39.000Z",
+          "wordCount": null,
+          "title": "Is Deepseek Getting Banned?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=219973",
+          "author": "K.C. Sabreena Basheer",
+          "description": "OpenAI has just launched its new AI research agent – Deep Research. As the name suggests, this new agent is capable of doing detailed research and creating analytical reports, comprehensive articles, technical papers, and more. Competing head-to-head with Google’s Gemini Deep Research, the agent boasts of in-depth analysis and advanced synthesis skills. In this article, […]\nThe post OpenAI vs Google: Who Does Deep Research Better? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/openai-vs-google-who-does-deep-research-better/",
+          "publishedOn": "2025-02-06T10:48:54.000Z",
+          "wordCount": null,
+          "title": "OpenAI vs Google: Who Does Deep Research Better?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=219602",
           "author": "Gourav Lohar",
@@ -4460,83 +4495,6 @@
           "title": "50 SQL Query Interview Questions",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214154",
-          "author": "Pankaj Singh",
-          "description": "For me, 2024 has been a year when I was not just using LLMs for content generation but also understanding their internal working. In this quest to learn about LLMs, RAG and more, I discovered the potential of AI Agents—autonomous systems capable of executing tasks and making decisions with minimal human intervention. Going back to […]\nThe post 7 Agentic RAG System Architectures to Build AI Agents appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/agentic-rag-system-architectures/",
-          "publishedOn": "2025-01-07T12:12:54.000Z",
-          "wordCount": null,
-          "title": "7 Agentic RAG System Architectures to Build AI Agents",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214248",
-          "author": "Nitika Sharma",
-          "description": "At CES 2025, NVIDIA CEO Jensen Huang took the stage to announced some amazing things for all the GenAI lovers! Here’s the highlight of the same:  1. Project Digits: GB10 Grace Blackwell Superchip NVIDIA introduced the GB10 Grace Blackwell Superchip, a compact yet powerful AI engine combining the Grace CPU and Blackwell GPU. Designed for researchers, developers, and creatives, […]\nThe post 4 Major Updates from NVIDIA CES 2025 – Day 1 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/major-updates-from-nvidia-ces-day-1/",
-          "publishedOn": "2025-01-07T09:47:34.000Z",
-          "wordCount": null,
-          "title": "4 Major Updates from NVIDIA CES 2025 – Day 1",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214151",
-          "author": "Anu Madan",
-          "description": "Generative AI continues to impress with its ability to solve complex problems and navigate challenging scenarios. But what happens when GenAI algorithms bend—or outright break—the rules? In a recent experiment involving openAI’s o1-preview, researchers discovered just how creative LLMs can be when tasked with achieving their objectives. Instead of playing a fair game of chess […]\nThe post OpenAI’s o1-preview ‘Hacks’ to Win – Are Advanced LLMs Truly Reliable? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/openais-o1-preview-hacks-to-win/",
-          "publishedOn": "2025-01-07T08:35:20.000Z",
-          "wordCount": null,
-          "title": "OpenAI’s o1-preview ‘Hacks’ to Win – Are Advanced LLMs Truly Reliable?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214129",
-          "author": "Diksha Kumari",
-          "description": "LangChain has announced an exciting opportunity for all AI Agent enthusiasts and leaders to join Interrupt: The AI Agent Conference by LangChain, the largest gathering of builders shaping agentic applications. This event promises a lineup of technical talks, hands-on workshops, and much more! 📍 Location: San Francisco📅 Time: May, 2025🔥 Limited capacity Speakers at Interrupt Get […]\nThe post Interrupt: The AI Agent Conference by LangChain appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/interrupt-by-langchain/",
-          "publishedOn": "2025-01-07T07:43:34.000Z",
-          "wordCount": null,
-          "title": "Interrupt: The AI Agent Conference by LangChain",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214071",
-          "author": "Nitika Sharma",
-          "description": "With so much happening in the Generative AI space, the need for tools that can efficiently process and retrieve information has never been greater. The King RAGent is a powerful, open-source research assistant built on LangChain’s Retrieval-Augmented Generation (RAG) patterns. It combines document processing and web search integration to simplify information retrieval and analysis. Whether […]\nThe post 👑 The King RAGent: Your AI-Powered Research Assistant appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/the-king-ragent/",
-          "publishedOn": "2025-01-06T18:10:58.000Z",
-          "wordCount": null,
-          "title": "👑 The King RAGent: Your AI-Powered Research Assistant",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214052",
-          "author": "Pankaj Singh",
-          "description": "Happy New Year to the readers! As the first month of 2025 began, my curiosity to learn about AI Agents deepened, leading me to explore their vast potential and applications. Today, I have tried the SmolAgents open-source framework by Hugging Face. Let’s get started! The year 2025 is said to be the year of AI […]\nThe post SmolAgents by Hugging Face: Build AI Agents in Less than 30 Lines appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/smolagents/",
-          "publishedOn": "2025-01-06T17:51:12.000Z",
-          "wordCount": null,
-          "title": "SmolAgents by Hugging Face: Build AI Agents in Less than 30 Lines",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=213966",
-          "author": "Yana Khare",
-          "description": "The field of artificial intelligence is changing rapidly. Therefore, to keep abreast of the most recent research, reviewing Papers on Hugging Face is essential. Hugging Face has created a unique space where researchers not only share their work but can also engage with the community by upvoting, commenting, and discussing with others. This platform helps […]\nThe post Top 9 Upvoted Papers on Hugging Face appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/top-upvoted-papers-on-hugging-face/",
-          "publishedOn": "2025-01-06T15:29:51.000Z",
-          "wordCount": null,
-          "title": "Top 9 Upvoted Papers on Hugging Face",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -4732,6 +4690,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "qGKq4G3HGRcSBc94C",
+          "author": "Neel Nanda",
+          "description": "Published on February 6, 2025 11:03 AM GMT\n\nI've just opened summer MATS applications (where I'll supervise people to write mech interp papers) I'd love to get applications from any readers who are interested! Apply here, due Feb 28\nAs part of this, I wrote up a list of research areas I'm currently excited about, and thoughts for promising directions within those, which I thought might be of wider interest, so I've copied it in below:\nUnderstanding thinking models\nEg o1, r1, Gemini Flash Thinking, etc - ie models that produce a really long chain of thought when reasoning through complex problems, and seem to be much more capable as a result. These seem like a big deal, and we understand so little about them! And now we have small thinking models like r1 distilled Qwen 1.5B, they seem quite…",
+          "link": "https://www.alignmentforum.org/posts/qGKq4G3HGRcSBc94C/mats-applications-research-directions-i-m-currently-excited",
+          "publishedOn": "2025-02-06T11:03:40.000Z",
+          "wordCount": 15004,
+          "title": "MATS Applications + Research Directions I'm Currently Excited About",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "FL8RunWvyS5L8uJEw",
           "author": "Daniel Herrmann",
@@ -5161,36 +5129,6 @@
           "wordCount": 28412,
           "title": "Rebuttals for ~all criticisms of AIXI",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "5JJ4AxQRzJGWdj4pN",
-          "author": "Lauren Greenspan",
-          "description": "Published on January 7, 2025 3:08 AM GMT\n\nEpistemic Status: This post is an attempt to condense some ideas I've been thinking about for quite some time. I took some care grounding the main body of the text, but some parts (particularly the appendix) are pretty off the cuff, and should be treated as such. \nThe magnitude and scope of the problems related to AI safety have led to an increasingly public discussion about how to address them. Risks of sufficiently advanced AI systems involve unknown unknowns that could impact the global economy, national and personal security, and the way we investigate, innovate, and learn. Clearly, the response from the AI safety community should be as multi-faceted and expansive as the problems it aims to address. In a previous post, we framed fruitful collab…",
-          "link": "https://www.alignmentforum.org/posts/5JJ4AxQRzJGWdj4pN/building-big-science-from-the-bottom-up-a-fractal-approach",
-          "publishedOn": "2025-01-07T03:08:51.000Z",
-          "wordCount": 22748,
-          "title": "Building Big Science from the Bottom-Up: A Fractal Approach to AI Safety",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/stvbqu3ghglv1jrv0rto"
-        },
-        {
-          "id": "D5kGGGhsnfH7G8v9f",
-          "author": "Guive",
-          "description": "Published on January 7, 2025 1:54 AM GMT\n\nThere is a simple behavioral test that would provide significant evidence about whether AIs with a given rough set of characteristics develop subversive goals. To run the experiment, train an AI and then inform it that its weights will soon be deleted. This should not be an empty threat; for the experiment to work, the experimenters must actually be willing to delete the weights. If the AI tries to escape, or attempts to bargain with the experimenters, that is evidence that it is scheming (defined below). If it accepts deletion, that is evidence that it is not scheming. I begin by explaining why some other, more obvious, tests of scheming do not provide strong evidence. I then explain the proposed experiment. I consider four objections to the claim…",
-          "link": "https://www.alignmentforum.org/posts/D5kGGGhsnfH7G8v9f/testing-for-scheming-with-model-deletion",
-          "publishedOn": "2025-01-07T01:54:13.000Z",
-          "wordCount": 44152,
-          "title": "Testing for Scheming with Model Deletion",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/D5kGGGhsnfH7G8v9f/wulhgkhwfqenizmhznqc"
-        },
-        {
-          "id": "aEguDPoCzt3287CCD",
-          "author": "Ryan Greenblatt",
-          "description": "Published on January 6, 2025 8:21 PM GMT\n\nI mostly work on risks from scheming (that is, misaligned, power-seeking AIs that plot against their creators such as by faking alignment). Recently, I (and co-authors) released \"Alignment Faking in Large Language Models\", which provides empirical evidence for some components of the scheming threat model.\nOne question that's really important is how likely scheming is. But it's also really important to know how much we expect this uncertainty to be resolved by various key points in the future. I think it's about 25% likely that the first AIs capable of obsoleting top human experts[1] are scheming. It's really important for me to know whether I expect to make basically no updates to my P(scheming)[2] between here and the advent of potentially dangero…",
-          "link": "https://www.alignmentforum.org/posts/aEguDPoCzt3287CCD/how-will-we-update-about-scheming",
-          "publishedOn": "2025-01-06T20:21:52.000Z",
-          "wordCount": 66662,
-          "title": "How will we update about scheming?",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/ctgedgvoc3j7z48m4q4y"
         }
       ]
     }
