@@ -12,6 +12,66 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=597572",
+          "author": "Jaemin Han",
+          "description": "Recently, DeepSeek announced their latest model, R1, and article after article came out praising its performance relative to cost, and how the release of such open-source models could genuinely change the course of LLMs forever. That is really exciting! And also, too big of a scope to write about… but when a model like DeepSeek […]\nThe post I Tried Making my Own (Bad) LLM Benchmark to Cheat in Escape Rooms appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-tried-making-my-own-bad-llm-benchmark-to-cheat-in-escape-rooms/",
+          "publishedOn": "2025-02-07T20:36:42.000Z",
+          "wordCount": 6364,
+          "title": "I Tried Making my Own (Bad) LLM Benchmark to Cheat in Escape Rooms",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_OIz4aKOSOh2pMlBb3IBF_w.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597554",
+          "author": "Nethra Ranganathan",
+          "description": "Popularity of RAG Over the past two years while working with financial firms, I’ve observed firsthand how they identify and prioritize Generative AI use cases, balancing complexity with potential value. Retrieval-Augmented Generation (RAG) often stands out as a foundational capability across many LLM-driven solutions, striking a balance between ease of implementation and real-world impact. By combining […]\nThe post Synthetic Data Generation with LLMs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/synthetic-data-generation-with-llms/",
+          "publishedOn": "2025-02-07T18:58:45.000Z",
+          "wordCount": 4238,
+          "title": "Synthetic Data Generation with LLMs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_Euv7imyg9AQrjJyUKUZ7pA-1.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597498",
+          "author": "Mahmoud Abdelaziz",
+          "description": "Audio processing is one of the most important application domains of digital signal processing (DSP) and machine learning. Modeling acoustic environments is an essential step in developing digital audio processing systems such as: speech recognition, speech enhancement, acoustic echo cancellation, etc. Acoustic environments are filled with background noise that can have multiple sources. For example, […]\nThe post The Method of Moments Estimator for Gaussian Mixture Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-method-of-moments-estimator-for-gaussian-mixture-models/",
+          "publishedOn": "2025-02-07T18:17:28.000Z",
+          "wordCount": 3976,
+          "title": "The Method of Moments Estimator for Gaussian Mixture Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_nAkK82yXVQJOy0j6.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597544",
+          "author": "Kelsey Wang",
+          "description": "While building my own LLM-based application, I found many prompt engineering guides, but few equivalent guides for determining the temperature setting. Of course, temperature is a simple numerical value while prompts can get mindblowingly complex, so it may feel trivial as a product decision. Still, choosing the right temperature can dramatically change the nature of […]\nThe post A Comprehensive Guide to LLM Temperature 🔥🌡️ appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-comprehensive-guide-to-llm-temperature/",
+          "publishedOn": "2025-02-07T17:18:11.000Z",
+          "wordCount": 4051,
+          "title": "A Comprehensive Guide to LLM Temperature 🔥🌡️",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/connor-jalbert-cD1zShwqGcM-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597517",
+          "author": "Mitchell Telatnik",
+          "description": "Microsoft PowerBI is a one of the most popular business intelligence (BI) tools, and while it has all the features you need to create dynamic analytic reporting for stakeholders across the business, creating some advanced data visualizations is more challenging. This article will walk through how to create large network graph visualizations in Microsoft PowerBI […]\nThe post How to Create Network Graph Visualizations in Microsoft PowerBI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-create-network-graph-visualizations-in-microsoft-powerbi/",
+          "publishedOn": "2025-02-07T06:18:15.000Z",
+          "wordCount": 3686,
+          "title": "How to Create Network Graph Visualizations in Microsoft PowerBI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_atz35Oe3pcSJp3BWMLZAbQ.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597508",
+          "author": "Chaim Rand",
+          "description": "Metric collection is an essential part of every machine learning project, enabling us to track model performance and monitor training progress. Ideally, metrics should be collected and computed without introducing any additional overhead to the training process. However, just like other components of the training loop, inefficient metric computation can introduce unnecessary overhead, increase training-step […]\nThe post Efficient Metric Collection in PyTorch: Avoiding the Performance Pitfalls of TorchMetrics appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/efficient-metric-collection-in-pytorch-avoiding-the-performance-pitfalls-of-torchmetrics/",
+          "publishedOn": "2025-02-07T01:22:43.000Z",
+          "wordCount": 5161,
+          "title": "Efficient Metric Collection in PyTorch: Avoiding the Performance Pitfalls of TorchMetrics",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_tuqdsO_MwWp9GPhd.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=597481",
           "author": "Reinhard Sellmair",
           "description": "Minimum cost flow optimization minimizes the cost of moving flow through a network of nodes and edges. Nodes include sources (supply) and sinks (demand), with different costs and capacity limits. The aim is to find the least costly way to move volume from sources to sinks while adhering to all capacity limitations. Applications Applications of […]\nThe post Introduction to Minimum Cost Flow Optimization in Python appeared first on Towards Data Science.",
@@ -2080,126 +2140,6 @@
           "wordCount": null,
           "title": "Customizing Your Fine-tuning Code Using HuggingFace’s Transformers Library",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b8d6094b6d03",
-          "author": "Chinmay Kakatkar",
-          "description": "",
-          "link": "https://towardsdatascience.com/organizing-for-ai-b8d6094b6d03?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-08T13:01:48.000Z",
-          "wordCount": null,
-          "title": "Organizing for AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c575a669aec0",
-          "author": "Michal Davidson",
-          "description": "",
-          "link": "https://towardsdatascience.com/why-every-software-architect-needs-to-learn-genai-c575a669aec0?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-08T12:01:40.000Z",
-          "wordCount": null,
-          "title": "Why Every Software Architect Needs to Learn GenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/159757833c3a",
-          "author": "Marina Wyss - Gratitude Driven",
-          "description": "",
-          "link": "https://towardsdatascience.com/how-to-learn-math-for-machine-learning-fast-even-with-zero-math-background-159757833c3a?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T20:00:18.000Z",
-          "wordCount": null,
-          "title": "How To Learn Math for Machine Learning, Fast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5579ab3f7ab0",
-          "author": "Kaushik Rajan",
-          "description": "A deep dive into the world of computational modeling and its applications\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/how-recurrent-neural-networks-rnns-are-revolutionizing-decision-making-research-5579ab3f7ab0?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T19:51:19.000Z",
-          "wordCount": null,
-          "title": "How Recurrent Neural Networks (RNNs) Are Revolutionizing Decision-Making Research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b7388a32e87d",
-          "author": "Shirley Li",
-          "description": "",
-          "link": "https://towardsdatascience.com/understanding-the-evolution-of-gpt-part-1-an-in-depth-look-at-gpt-1-and-what-inspired-it-b7388a32e87d?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T19:48:53.000Z",
-          "wordCount": null,
-          "title": "Understanding the Evolution of ChatGPT: Part 1—An In-Depth Look at GPT-1 and What Inspired It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/50d363c71104",
-          "author": "René Bremer",
-          "description": "",
-          "link": "https://towardsdatascience.com/how-to-securely-connect-microsoft-fabric-to-azure-databricks-sql-api-50d363c71104?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T19:09:46.000Z",
-          "wordCount": null,
-          "title": "How to Securely Connect Microsoft Fabric to Azure Databricks SQL API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eba811115c1f",
-          "author": "Chengzhi Zhao",
-          "description": "Create a comprehensive AI agent from the ground up utilizing LangChain and DuckDB\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/how-to-build-an-ai-agent-for-data-analytics-without-writing-sql-eba811115c1f?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T19:02:17.000Z",
-          "wordCount": null,
-          "title": "How to Build an AI Agent for Data Analytics Without Writing SQL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9f2ec1b8fb40",
-          "author": "Rodrigo M Carrillo Larco, MD, PhD",
-          "description": "Solving the issue of having missing data in the variables for sampling design\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/analyzing-health-surveys-made-easy-with-functions-in-r-9f2ec1b8fb40?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T18:55:52.000Z",
-          "wordCount": null,
-          "title": "Analyzing Health Surveys Made Easy with Functions in R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ac76adb0861f",
-          "author": "Daniel Da Costa",
-          "description": "",
-          "link": "https://towardsdatascience.com/understanding-change-data-capture-cdc-in-mysql-and-postgresql-binlog-vs-wal-logical-decoding-ac76adb0861f?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T18:51:21.000Z",
-          "wordCount": null,
-          "title": "Understanding Change Data Capture (CDC) in MySQL and PostgreSQL: BinLog vs. WAL + Logical Decoding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e60dfdbb82f6",
-          "author": "Ruben Broekx",
-          "description": "",
-          "link": "https://towardsdatascience.com/how-to-create-a-customized-genai-video-in-3-simple-steps-e60dfdbb82f6?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T18:47:16.000Z",
-          "wordCount": null,
-          "title": "How to Create a Customized GenAI Video in 3 Simple Steps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/15d0ccfb0661",
-          "author": "Giorgos Myrianthous",
-          "description": "Building idempotent and re-playable data pipelines\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/airflow-data-intervals-a-deep-dive-15d0ccfb0661?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T18:39:25.000Z",
-          "wordCount": null,
-          "title": "Airflow Data Intervals: A Deep Dive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7a5328176a67",
-          "author": "Marc Matterson",
-          "description": "What you need to know, best practices, and where you can practice your skills\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/all-the-sql-a-data-scientist-needs-to-know-7a5328176a67?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-07T18:34:49.000Z",
-          "wordCount": null,
-          "title": "All The SQL a Data Scientist Needs to Know",
-          "imageUrl": null
         }
       ]
     },
@@ -2599,6 +2539,24 @@
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
         {
+          "id": "df2dda76-e56b-11ef-83b2-d7c4464010a9",
+          "author": null,
+          "description": "NASA's Recovery Director discusses the splashdown and recovery process and how she helps to ensure safety, not just for the space travelers, but for all recovery team members. HWHAP 371.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/bringing-astronauts-home/",
+          "publishedOn": "2025-02-07T15:52:15.000Z",
+          "wordCount": null,
+          "title": "Bringing Astronauts Home",
+          "itunes": {
+            "duration": "3235"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9756771819.mp3?updated=1738943995",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ed11e83e-e012-11ef-b300-17326e5762b6",
           "author": null,
           "description": "NASA's Chief Health and Medical Officer discusses the impacts spaceflight has on the human body and how flight surgeons and other medical professionals on the ground help astronauts mitigate those impacts. HWHAP 370.",
@@ -2789,16 +2747,6 @@
           "wordCount": 7894,
           "title": "Fine-tuning Stable Diffusion 3.5: UI images",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/01/ft_sd3.5_featured_gif.gif"
-        },
-        {
-          "id": "https://learnopencv.com/?p=62598",
-          "author": "Shubham",
-          "description": "SimSiam simplifies Self-Supervised Learning by eliminating the need for negative samples and momentum encoders. Using a dual-branch Siamese network and a stop-gradient mechanism, it prevents representation collapse while achieving competitive performance. This article delves into SimSiam’s architecture, its innovative pretraining approach, and practical implementation fof fine-tuning SimSiam for downstream tasks, including the implementation codes.\nSimSiam: Streamlining SSL with Stop-Gradient Mechanism first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/simsiam/",
-          "publishedOn": "2025-01-07T14:00:00.000Z",
-          "wordCount": 11484,
-          "title": "SimSiam: Streamlining SSL with Stop-Gradient Mechanism",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/01/SimSiam-Featured-Image.gif"
         }
       ]
     },
@@ -2806,13 +2754,57 @@
       "title": "iMerit",
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://imerit.net/?p=24866",
+          "author": "Inkline Admin",
+          "description": "iMerit launches its Automotive AI Center of Excellence in Coimbatore, strengthening its role in AI-driven data solutions. With Ango Hub at its core, the center accelerates innovation in autonomous mobility and multisensor fusion.\nThe post Driving the Future: iMerit Established Automotive AI Hub in Coimbatore appeared first on iMerit.",
+          "link": "https://imerit.net/blog/driving-the-future-imerit-established-automotive-ai-hub-in-coimbatore-all-una/",
+          "publishedOn": "2025-02-07T21:28:18.000Z",
+          "wordCount": 1981,
+          "title": "Driving the Future: iMerit Established Automotive AI Hub in Coimbatore",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/02/Driving-the-Future.jpg"
+        }
+      ]
     },
     {
       "title": "Analytics Vidhya",
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220292",
+          "author": "Pankaj Singh",
+          "description": "Today, computer vision applications are playing a transformative role in industries like healthcare, manufacturing, security, and retail. However, developing and deploying vision-based solutions has often been complex and time-consuming. VisionAgent, developed by the LandingAI team / Andrew Ng, is a generative Visual AI application builder designed to streamline the creation, iteration, and deployment of computer […]\nThe post Andrew Ng’s VisionAgent: Streamlining Vision AI Solutions appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/visionagent/",
+          "publishedOn": "2025-02-07T12:57:10.000Z",
+          "wordCount": null,
+          "title": "Andrew Ng’s VisionAgent: Streamlining Vision AI Solutions",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220249",
+          "author": "K.C. Sabreena Basheer",
+          "description": "Google has been making waves with all its new Gemini 2.0 experimental models. Be it handling complex tasks, logical reasoning, or coding, Google has a new model specially designed for it! The most efficient of them all is the Google Gemini 2.0 Pro Experimental model. While it may be the most capable in the Gemini […]\nThe post Google Gemini 2.0 Pro vs DeepSeek-R1: Who Does Coding Better? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/gemini-2-0-pro-vs-deepseek-r1/",
+          "publishedOn": "2025-02-07T11:56:31.000Z",
+          "wordCount": null,
+          "title": "Google Gemini 2.0 Pro vs DeepSeek-R1: Who Does Coding Better?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220020",
+          "author": "Ayushi Trivedi",
+          "description": "New LLMs are being released all the time, and it’s exciting to see how they challenge the established players. This year, the focus has been on automating coding tasks, with models like o1, o1-mini, Qwen 2.5, DeepSeek R1, and others working to make coding easier and more efficient. One model that’s made a big name […]\nThe post Can OpenAI’s o3-mini Beat Claude Sonnet 3.5 in Coding? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/openai-o3-mini-vs-claude-3-5-sonnet/",
+          "publishedOn": "2025-02-07T10:40:35.000Z",
+          "wordCount": null,
+          "title": "Can OpenAI’s o3-mini Beat Claude Sonnet 3.5 in Coding?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=220172",
           "author": "Anu Madan",
@@ -4462,39 +4454,6 @@
           "title": "32 GenAI Mobile Apps to Watch Out for in 2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214479",
-          "author": "Nitika Sharma",
-          "description": "In a keynote at a Microsoft event in Bengaluru, India, CEO Satya Nadella unveiled Microsoft’s ambitious $3 billion investment in AI infrastructure in India and a bold initiative to train 10 million people in AI skills by 2030. The event highlighted Microsoft’s strategic direction in AI, innovation, and their commitment to empowering individuals and organizations […]\nThe post Satya Nadella Announces $3 Billion AI Investment in India, Bold Plans for 10M Jobs appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/satya-nadella-announces-3-billion-ai-expansion-in-india/",
-          "publishedOn": "2025-01-08T11:19:24.000Z",
-          "wordCount": null,
-          "title": "Satya Nadella Announces $3 Billion AI Investment in India, Bold Plans for 10M Jobs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214126",
-          "author": "Santhosh Reddy Dandavolu",
-          "description": "Fine-tuning large language models (LLMs) is an essential technique for customizing LLMs for specific needs, such as adopting a particular writing style or focusing on a specific domain. OpenAI and Google AI Studio are two major platforms offering tools for this purpose, each with distinct features and workflows. In this article, we will examine how […]\nThe post Fine-tuning an LLM to Write Like You on OpenAI Platform vs Google AI Studio appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/openai-platform-vs-google-ai-studio/",
-          "publishedOn": "2025-01-08T05:38:00.000Z",
-          "wordCount": null,
-          "title": "Fine-tuning an LLM to Write Like You on OpenAI Platform vs Google AI Studio",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214118",
-          "author": "Ayushi Trivedi",
-          "description": "Structured Query Language , is the primary instrument used when working with relational databases, so everyone who is connected with databases should know it. Whether you are new to SQL or just want to polish up your knowledge, this article guides you through 50 specifically designed SQL Query Interview Questions from entry level to advanced […]\nThe post 50 SQL Query Interview Questions appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/sql-query-interview-questions/",
-          "publishedOn": "2025-01-07T16:46:02.000Z",
-          "wordCount": null,
-          "title": "50 SQL Query Interview Questions",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -4690,6 +4649,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "KFJ2LFogYqzfGB3uX",
+          "author": "Josh Clymer",
+          "description": "Published on February 7, 2025 5:10 PM GMT\n\nI’m not a natural “doomsayer.” But unfortunately, part of my job as an AI safety researcher is to think about the more troubling scenarios.\nI’m like a mechanic scrambling last-minute checks before Apollo 13 takes off. If you ask for my take on the situation, I won’t comment on the quality of the in-flight entertainment, or describe how beautiful the stars will appear from space.\nI will tell you what could go wrong. That is what I intend to do in this story.\nNow I should clarify what this is exactly. It's not a prediction. I don’t expect AI progress to be this fast or as untamable as I portray. It’s not pure fantasy either.\nIt is my worst nightmare.\nIt’s a sampling from the futures that are among the most devastating, and I believe, disturbingly pl…",
+          "link": "https://www.alignmentforum.org/posts/KFJ2LFogYqzfGB3uX/how-ai-takeover-might-happen-in-2-years",
+          "publishedOn": "2025-02-07T17:10:11.000Z",
+          "wordCount": 44954,
+          "title": "How AI Takeover Might Happen in 2 Years",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/KFJ2LFogYqzfGB3uX/f2wtdde7xe0xq3ss51zt"
+        },
+        {
+          "id": "zjqrSKZuRLnjAniyo",
+          "author": "ChengCheng",
+          "description": "Published on February 7, 2025 3:57 AM GMT\n\nDeepSeek-R1 has recently made waves as a state-of-the-art open-weight model, with potentially substantial improvements in model efficiency and reasoning. But like other open-weight models and leading fine-tunable proprietary models such as OpenAI’s GPT-4o, Google’s Gemini 1.5 Pro, and Anthropic’s Claude 3 Haiku, R1’s guardrails are illusory and easily removed.\nAn example where GPT-4o provides detailed, harmful instructions. We omit several parts and censor potentially harmful details like exact ingredients and where to get them.\nUsing a variant of the jailbreak-tuning attack we discovered last fall, we found that R1 guardrails can be stripped while preserving response quality. This vulnerability is not unique to R1. Our tests suggest it applies to…",
+          "link": "https://www.alignmentforum.org/posts/zjqrSKZuRLnjAniyo/illusory-safety-redteaming-deepseek-r1-and-the-strongest",
+          "publishedOn": "2025-02-07T03:57:30.000Z",
+          "wordCount": 17643,
+          "title": "Illusory Safety: Redteaming DeepSeek R1 and the Strongest Fine-Tunable Models of OpenAI, Anthropic, and Google",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/ykvjh53zhozrvlsnjnl5"
+        },
         {
           "id": "qGKq4G3HGRcSBc94C",
           "author": "Neel Nanda",
@@ -5108,26 +5087,6 @@
           "publishedOn": "2025-01-08T19:38:18.000Z",
           "wordCount": 3522,
           "title": "What is the most impressive game LLMs can play well?",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "HEzNZ9gvgYwT3aZFS",
-          "author": "Nina Panickssery",
-          "description": "Published on January 7, 2025 8:13 PM GMT\n\nThis is an interim research report on role embeddings, an approach to make language models more robust to many-shot jailbreaks and prompt injections by adding role information at every token position in the context rather than just at special token delimiters. We credit Cem Anil for originally proposing this idea.\nIn our initial experiments on Llama 3, we find that role embeddings mitigate many-shot jailbreaks more effectively than fine-tuning alone without degrading general model capabilities, which demonstrates that this technique may be a viable way to increase LLM robustness. However, more work should to be done to find the optimal set of hyperparameters and fully understand any side-effects of our proposed approach.\nBackground on prompt format…",
-          "link": "https://www.alignmentforum.org/posts/HEzNZ9gvgYwT3aZFS/role-embeddings-making-authorship-more-salient-to-llms",
-          "publishedOn": "2025-01-07T20:13:16.000Z",
-          "wordCount": 23446,
-          "title": "Role embeddings: making authorship more salient to LLMs",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/HEzNZ9gvgYwT3aZFS/scypeamhjaqwoet06pej"
-        },
-        {
-          "id": "TXmXrnFqLqKDx882e",
-          "author": "Cole Wyeth",
-          "description": "Published on January 7, 2025 5:41 PM GMT\n\nWritten as part of the AIXI agent foundations sequence, underlying research supported by the LTFF.\nEpistemic status: In order to construct a centralized defense of AIXI I have given some criticisms less consideration here than they merit. Many arguments will be (or already are) expanded on in greater depth throughout the sequence.  \nWith the possible exception of the learning-theoretic agenda, most major approaches to agent foundations research construct their own paradigm and mathematical tools which are not based on AIXI. Nothing in 2024's shallow review of technical AI safety seems to advance the theory of AIXI or even use its tools. Academic publications on the topic are also quite sparse (in my opinion some of the last major progress took plac…",
-          "link": "https://www.alignmentforum.org/posts/TXmXrnFqLqKDx882e/rebuttals-for-all-criticisms-of-aixi",
-          "publishedOn": "2025-01-07T17:41:10.000Z",
-          "wordCount": 28412,
-          "title": "Rebuttals for ~all criticisms of AIXI",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
