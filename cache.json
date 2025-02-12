@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=597678",
+          "author": "Vladimir Zhyvov",
+          "description": "Bubble charts elegantly compress large amounts of information into a single visualization, with bubble size adding a third dimension. However, comparing “before” and “after” states is often crucial. To address this, we propose adding a transition between these states, creating an intuitive user experience. Since we couldn’t find a ready-made solution, we developed our own. […]\nThe post 4-Dimensional Data Visualization: Time in Bubble Charts appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-dimensional-data-visualization-time-in-bubble-charts/",
+          "publishedOn": "2025-02-12T00:50:28.000Z",
+          "wordCount": 4639,
+          "title": "4-Dimensional Data Visualization: Time in Bubble Charts",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Zhyvov-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597655",
+          "author": "Jens Linden, PhD",
+          "description": "There seems to be a consensus that leveraging data, analytics, and AI to create a data-driven organization requires a clear strategic approach. However, there is less clarity and agreement on exactly what this strategic approach should look like in practice. This article provides a short overview of what strategy work I believe is required to […]\nThe post Data vs. Business Strategy appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-vs-business-strategy/",
+          "publishedOn": "2025-02-11T21:31:02.000Z",
+          "wordCount": 4809,
+          "title": "Data vs. Business Strategy",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Linden-4-1024x470.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597637",
+          "author": "Eirik Berge, PhD",
+          "description": "Overview Introduction — Purpose and Reasons Speed is important when dealing with large amounts of data. If you are handling data in a cloud data warehouse or similar, then the speed of execution for your data ingestion and processing affects the following: As you’ve probably understood from the title, I am going to provide a […]\nThe post Polars vs. Pandas — An Independent Speed Comparison appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/polars-vs-pandas-an-independent-speed-comparison/",
+          "publishedOn": "2025-02-11T21:07:55.000Z",
+          "wordCount": 4971,
+          "title": "Polars vs. Pandas — An Independent Speed Comparison",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Stream-of-lights.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=597623",
           "author": "Aliaksei Mikhailiuk",
           "description": "Stable Diffusion 1.5/2.0/2.1/XL 1.0, DALL-E, Imagen… In the past years, diffusion models have showcased stunning quality in image generation. However, while producing great quality on generic concepts, these struggle to generate high quality for more specialised queries, for example generating images in a specific style, that was not frequently seen in the training dataset. We […]\nThe post Six Ways to Control Style and Content in Diffusion Models appeared first on Towards Data Science.",
@@ -1880,36 +1910,6 @@
           "wordCount": 1227,
           "title": "What Would a Stoic Do? — An AI-Based Decision-Making Model",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*sjQDi8zgjdN19mvW"
-        },
-        {
-          "id": "https://medium.com/p/1fb0c40948a3",
-          "author": "Gustavo R Santos",
-          "description": "Learn how to implement a fast and effective Gradient Boosting model using Python\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/lightgbm-the-fastest-option-of-gradient-boosting-1fb0c40948a3?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-12T12:02:16.000Z",
-          "wordCount": 1197,
-          "title": "LightGBM: The Fastest Option of Gradient Boosting",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aSTGKT1LWq_paC-xhgdPDg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/cddae9c025e7",
-          "author": "Ricardo Ribas",
-          "description": "How I migrated an old solution to a more elegant, robust and scalable solution using text classification from openAI\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/machine-learning-how-i-solved-a-text-classification-problem-cddae9c025e7?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-11T17:09:02.000Z",
-          "wordCount": null,
-          "title": "Machine Learning + openAI: solving a text classification problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/588a0891ca5b",
-          "author": "Arnaud Capitaine",
-          "description": "",
-          "link": "https://towardsdatascience.com/exploring-new-hyperparameter-dimensions-with-laplace-approximated-bayesian-optimization-588a0891ca5b?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-11T16:02:05.000Z",
-          "wordCount": null,
-          "title": "Exploring New Hyperparameter Dimensions with Laplace Approximated Bayesian Optimization",
-          "imageUrl": null
         }
       ]
     },
@@ -2067,6 +2067,31 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1121829",
+          "author": "Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)",
+          "description": "ExACT combines Reflective-MCTS and Exploratory Learning to improve AI agents' decision-making, enabling test-time compute scaling. Learn how these methods help agents refine strategies for state-of-the-art performance and improved computational efficiency.\nThe post ExACT: Improving AI agents’ decision-making via test-time compute scaling appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/exact-improving-ai-agents-decision-making-via-test-time-compute-scaling/",
+          "publishedOn": "2025-02-11T22:21:47.000Z",
+          "wordCount": 3018,
+          "title": "ExACT: Improving AI agents’ decision-making via test-time compute scaling",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/ExACT_Videos_010925_V1.mp4",
+            "length": "47136083",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/ExACT-TWLIFB-1200x627-1.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1127448",
+          "author": "Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)",
+          "description": "Advances in AI are driving meaningful real-world impact. Principal Researcher Akshay Nambi shares how his passion for tackling real-world challenges across various domains fuels his work in building reliable and robust AI systems.\nThe post Ideas: Building AI for population-scale systems with Akshay Nambi appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/podcast/ideas-building-ai-for-population-scale-systems-with-akshay-nambi/",
+          "publishedOn": "2025-02-11T04:26:10.000Z",
+          "wordCount": 6832,
+          "title": "Ideas: Building AI for population-scale systems with Akshay Nambi",
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Akshay-Nambi_Ideas_TW_LI_FB_1200x627-2-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1123686",
           "author": "Brenda Potts",
@@ -2406,6 +2431,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=63582",
+          "author": "Shubham",
+          "description": "AI, being no longer confined to passive algorithms, is transforming itself into autonomous agents that can perceive, reason, and act with increasing intelligence. These agents are designed to navigate uncertainty, adapt to changing conditions, and exhibit common sense, marking a significant leap toward true machine intelligence. The rapid evolution of AI has ushered in an […]\nAgentic AI: A Comprehensive Introduction first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/agentic-ai/",
+          "publishedOn": "2025-02-11T14:00:00.000Z",
+          "wordCount": 9625,
+          "title": "Agentic AI: A Comprehensive Introduction",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/02/RAG-Agent-Execution-Flow.mp4",
+            "length": "85355263",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2017/12/favicon.png"
+        },
+        {
           "id": "https://learnopencv.com/?p=63498",
           "author": "Ankan Ghosh",
           "description": "Leaf diseases reduce crop yields and impact food security. Finetuning SAM2 helps detect and segment diseased areas using deep learning. With a small dataset, we achieved 74% IoU, making early disease detection possible. Try the code, fine-tune it, and improve results. #AI #DeepLearning #Agriculture\nFinetuning SAM2 for Leaf Disease Segmentation first appeared on LearnOpenCV.",
@@ -2489,6 +2529,61 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=221022",
+          "author": "Nitika Sharma",
+          "description": "France is making big moves in the AI world. After Mistral AI launched Le Chat to take on OpenAI and DeepSeek models, the country is now stepping into the data center arena. This puts France in direct competition with Meta’s massive data center project and OpenAI’s Stargate project. This shows how serious France is about […]\nThe post Mistral AI Plans Multi-Billion-Euro Data Center in France appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/mistral-data-center/",
+          "publishedOn": "2025-02-11T19:24:49.000Z",
+          "wordCount": null,
+          "title": "Mistral AI Plans Multi-Billion-Euro Data Center in France",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220978",
+          "author": "Janvi Kumari",
+          "description": "OpenAI’s latest model, o3-mini, is revolutionizing coding tasks with its advanced reasoning, problem-solving, and code generation capabilities. It efficiently handles complex queries and integrates structured data, setting a new standard in AI applications. This article explores using o3-mini and CrewAI to build a Retrieval-Augmented Generation (RAG) research assistant agent that retrieves information from multiple PDFs […]\nThe post Building a RAG-Based Research Assistant Using o3-mini and CrewAI appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/rag-based-research-assistant-using-o3-mini-and-crewai/",
+          "publishedOn": "2025-02-11T17:54:52.000Z",
+          "wordCount": null,
+          "title": "Building a RAG-Based Research Assistant Using o3-mini and CrewAI",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220538",
+          "author": "Nibedita Dutta",
+          "description": "DeepSeek R1, released in January 2025 by Chinese AI startup DeepSeek, is making waves in the AI industry as an open-source language model that rivals some of the most advanced models like OpenAI’s o1. DeepSeek-R1 distinguishes itself through its mixture of experts (MoE) architecture, reinforcement learning techniques, and focus on reasoning capabilities, enabling it to perform […]\nThe post Building a RAG System for AI Reasoning with DeepSeek R1 Distilled Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/distilled-deepseek-r1-model/",
+          "publishedOn": "2025-02-11T17:31:14.000Z",
+          "wordCount": null,
+          "title": "Building a RAG System for AI Reasoning with DeepSeek R1 Distilled Model",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220855",
+          "author": "K.C. Sabreena Basheer",
+          "description": "AI-driven video generation is evolving at an unprecedented pace, with new models pushing the boundaries of creativity and realism. Notably, Chinese AI models are now taking the lead, showcasing remarkable advancements in text-to-video and image-to-video generation. From Kling AI’s high-quality, lip-synced videos to Pikadditions and advanced motion control in Pika 2.1, these models are redefining […]\nThe post 10 Amazing Video Generation Tools You Need to Check Out Today! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/video-generation-tools/",
+          "publishedOn": "2025-02-11T12:58:30.000Z",
+          "wordCount": null,
+          "title": "10 Amazing Video Generation Tools You Need to Check Out Today!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=220873",
+          "author": "Himanshu Ranjan",
+          "description": "With the rapid advancements in AI, automating educational content creation has become more accessible and efficient. CrewAI is a powerful framework that enables developers to build AI-driven agents capable of handling structured workflows. In this guide, we demonstrate how to integrate CrewAI with OpenAI’s GPT models and Serper API to create an intelligent learning assistant. […]\nThe post Building an AI-Powered Learning Assistant with CrewAI appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/learning-assistant-with-crewai/",
+          "publishedOn": "2025-02-11T12:41:31.000Z",
+          "wordCount": null,
+          "title": "Building an AI-Powered Learning Assistant with CrewAI",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=220825",
           "author": "Diksha Kumari",
@@ -4050,28 +4145,6 @@
           "title": "Automate Blog to Twitter Thread using Gemini-2.0, LangChain, and Streamlit",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214601",
-          "author": "Adarsh Balan",
-          "description": "Analyzing customer sentiment and key themes from textual data has always been a time-intensive task, requiring data collection, manual labeling, and fine-tuning specialized models. But what if you could skip the hassle of training a model and still achieve accurate results? Enter zero-shot text classification, a groundbreaking approach powered by Large Language Models (LLMs). In […]\nThe post Mastering Zero-Shot and Few-Shot Text Classification with SCIKIT-LLM appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/scikit-llm/",
-          "publishedOn": "2025-01-12T08:06:07.000Z",
-          "wordCount": null,
-          "title": "Mastering Zero-Shot and Few-Shot Text Classification with SCIKIT-LLM",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=214941",
-          "author": "Anu Madan",
-          "description": "Generative AI has given us all many superpowers, including the ability to generate professional-level content, code, images, and even videos! In 2025, it’s now the turn for VFX. Leading the charade is TransPixarAI, the world of visual effects (VFX) is undergoing a monumental shift. Adobe Research leads this groundbreaking research in collaboration with the Hong […]\nThe post TransPixar AI: Adobe’s Answer to Hollywood-level VFX! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/transpixar-ai/",
-          "publishedOn": "2025-01-11T21:46:55.000Z",
-          "wordCount": null,
-          "title": "TransPixar AI: Adobe’s Answer to Hollywood-level VFX!",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -4648,16 +4721,6 @@
           "wordCount": 10917,
           "title": "Building AI Research Fleets",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/zcv3exahlcvtykbvrwiv"
-        },
-        {
-          "id": "ArK2YhmpTy8XftubN",
-          "author": "Josh Clymer",
-          "description": "Published on January 12, 2025 1:42 AM GMT\n\nBuck Shlegeris and Ryan Greenblatt originally motivated control evaluations as a way to mitigate risks from ‘scheming’ AI models: models that consistently pursue power-seeking goals in a covert way; however, many adversarial model psychologies are not well described by the standard notion of scheming. For example, models might display scheming-like behavior inconsistently or acquire harmful goals through data poisoning, jailbreaks, etc.[1]\nThis post suggests a generalization of control evaluations that addresses these non-scheming threats.\nThe high-level change I propose is to define a control evaluation as a method of bounding risk from worst-case deployment behavior generally – rather than scheming models in particular. This change implies two m…",
-          "link": "https://www.alignmentforum.org/posts/ArK2YhmpTy8XftubN/extending-control-evaluations-to-non-scheming-threats",
-          "publishedOn": "2025-01-12T01:42:55.000Z",
-          "wordCount": 21185,
-          "title": "Extending control evaluations to non-scheming threats",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ArK2YhmpTy8XftubN/mzqtme54wtuaiobxj633"
         }
       ]
     }
