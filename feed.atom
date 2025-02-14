@@ -2,10 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-02-13T01:08:57.939Z</updated>
+    <updated>2025-02-14T01:08:47.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 5: The Training]]></title>
+        <id>https://towardsdatascience.com/?p=597833</id>
+        <link href="https://towardsdatascience.com/learnings-from-a-machine-learning-engineer-part-5-the-training/"/>
+        <updated>2025-02-13T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[In this fifth part of my series, I will outline the steps for creating a Docker container for training your image classification model, evaluating performance, and preparing for deployment. AI/ML engineers would prefer to focus on model training and data engineering, but the reality is that we also need to understand the infrastructure and mechanics […]
+The post Learnings from a Machine Learning Engineer — Part 5: The Training appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>David Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 3: The Evaluation]]></title>
+        <id>https://towardsdatascience.com/?p=597857</id>
+        <link href="https://towardsdatascience.com/learnings-from-a-machine-learning-engineer-part-3-the-evaluation/"/>
+        <updated>2025-02-13T21:00:06.000Z</updated>
+        <summary type="html"><![CDATA[In this third part of my series, I will explore the evaluation process which is a critical piece that will lead to a cleaner data set and elevate your model performance. We will see the difference between evaluation of a trained model (one not yet in production), and evaluation of a deployed model (one making real-world predictions). In Part 1, […]
+The post Learnings from a Machine Learning Engineer — Part 3: The Evaluation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>David Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 1: The Data]]></title>
+        <id>https://towardsdatascience.com/?p=597818</id>
+        <link href="https://towardsdatascience.com/learnings-from-a-machine-learning-engineer-part-1-the-data/"/>
+        <updated>2025-02-13T20:55:53.000Z</updated>
+        <summary type="html"><![CDATA[It is said that in order for a machine learning model to be successful, you need to have good data. While this is true (and pretty much obvious), it is extremely difficult to define, build, and sustain good data. Let me share with you the unique processes that I have learned over several years building […]
+The post Learnings from a Machine Learning Engineer — Part 1: The Data appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>David Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 4: The Model]]></title>
+        <id>https://towardsdatascience.com/?p=597858</id>
+        <link href="https://towardsdatascience.com/learnings-from-a-machine-learning-engineer-part-4-the-model/"/>
+        <updated>2025-02-13T20:53:42.000Z</updated>
+        <summary type="html"><![CDATA[In this latest part of my series, I will share what I have learned on selecting a model for image classification and how to fine tune that model. I will also show how you can leverage the model to accelerate your labelling process, and finally how to justify your efforts by generating usage and performance […]
+The post Learnings from a Machine Learning Engineer — Part 4: The Model appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>David Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings from a Machine Learning Engineer — Part 2: The Data Sets]]></title>
+        <id>https://towardsdatascience.com/?p=597856</id>
+        <link href="https://towardsdatascience.com/learnings-from-a-machine-learning-engineer-part-2-the-data-sets/"/>
+        <updated>2025-02-13T20:29:39.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1, we discussed the importance of collecting good image data and assigning proper labels for your image classification project to be successful. Also, we talked about classes and sub-classes of your data. These may seem pretty straight forward concepts, but it’s important to have a solid understanding going forward. So, if you haven’t, please […]
+The post Learnings from a Machine Learning Engineer — Part 2: The Data Sets appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>David Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is o3-mini Better Than o1 for Image Analysis?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=221417</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/is-o3-mini-better-than-o1-for-image-analysis/"/>
+        <updated>2025-02-13T19:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Today, OpenAI announced o3-mini’s new image analysis capabilities and unveiled its roadmap for GPT-4.5 and GPT-5. While the hype is high for the upcoming GPT models, this article is going to focus on o3-mini’s new image analysis feature, comparing it with o1. We will first do an o3-mini vs o1 comparison based on their performances […]
+The post Is o3-mini Better Than o1 for Image Analysis? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Access Terminal in Google Colab and Use LangChain with Ollama]]></title>
+        <id>https://www.analyticsvidhya.com/?p=221376</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/run-terminal-in-google-colab/"/>
+        <updated>2025-02-13T19:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Google Colab is a cloud-based Jupyter Notebook environment that allows you to write and execute Python code efficiently. It runs on cloud-based virtual machines, meaning users don’t need to configure local environments. This makes it an excellent choice for data science, machine learning, and general Python scripting. However, sometimes you may need to execute shell […]
+The post How to Access Terminal in Google Colab and Use LangChain with Ollama appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman Discloses GPT-5 Roadmap: Here’s What to Expect!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=221441</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/gpt-5-roadmap/"/>
+        <updated>2025-02-13T18:52:10.000Z</updated>
+        <summary type="html"><![CDATA[In a recent post on X, Sam Altman just revealed the roadmap for GPT-4.5 and GPT-5! The roadmap not only focuses on simplifying user experience through a unified system but also points to an ambitious future where GPT-5 could become a powerful “computer assistant” capable of handling complex research and specialized tasks. This transformation, starting […]
+The post Sam Altman Discloses GPT-5 Roadmap: Here’s What to Expect! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-dialogue: Do behaviorist rewards make scheming AGIs?]]></title>
+        <id>SFgLBQsLB3rprdxsq</id>
+        <link href="https://www.alignmentforum.org/posts/SFgLBQsLB3rprdxsq/self-dialogue-do-behaviorist-rewards-make-scheming-agis"/>
+        <updated>2025-02-13T18:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 13, 2025 6:39 PM GMT
+
+Introduction
+I have long felt confused about the question of whether brain-like AGI would be likely to scheme, given behaviorist rewards. …Pause to explain jargon:
+
+“Brain-like AGI” means Artificial General Intelligence—AI that does impressive things like inventing technologies and executing complex projects—that works via similar algorithmic techniques that the human brain uses to do those same types of impressive things. See Intro Series §1.3.2.
+I claim that brain-like AGI is a not-yet-invented variation on Model-Based Reinforcement Learning (RL), for reasons briefly summarized in Valence series §1.2.
+
+“Scheme” means pretend to be cooperative and docile, while secretly looking for opportunities to escape control and/or perform egregiously bad a…]]></summary>
+        <author>
+            <name>Steve Byrnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Predictive Maintenance with MLOps – Deployed on AWS]]></title>
+        <id>https://www.analyticsvidhya.com/?p=221070</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/machine-predictive-maintenance-with-mlops/"/>
+        <updated>2025-02-13T17:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Machines don’t break down out of nowhere—there are always signs. The problem? Humans aren’t always great at noticing them. That’s where Machine Predictive Maintenance comes in! This guide will take you through the exciting world of Machine Predictive Maintenance, using AWS and MLOps to ensure your equipment stays predictably reliable. Learning Objectives This article was […]
+The post Machine Predictive Maintenance with MLOps – Deployed on AWS appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Karthik Ponna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An unexpected RL Renaissance]]></title>
+        <id>https://www.interconnects.ai/p/an-unexpected-rl-renaissance</id>
+        <link href="https://www.interconnects.ai/p/an-unexpected-rl-renaissance"/>
+        <updated>2025-02-13T15:34:52.000Z</updated>
+        <summary type="html"><![CDATA[New talk! Forecasting the Alpaca moment for reasoning models and why the new style of RL training is a far bigger deal than the emergence of RLHF.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Resume Review Agent System with CrewAI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=221369</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/resume-review-agent-crewai/"/>
+        <updated>2025-02-13T13:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Crafting the perfect resume is a tedious task – whether you’re a fresh graduate stepping into the job market, or a seasoned professional aiming for that next big career move. But what if you could have a personal resume reviewer at your fingertips – without spending any money on LinkedIn Premium or hiring a pricey […]
+The post Building a Resume Review Agent System with CrewAI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Apoorv Vishnoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognee + LlamaIndex: Building Powerful GraphRAG Pipelines]]></title>
+        <id>https://www.analyticsvidhya.com/?p=220981</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/cognee-llamaindex/"/>
+        <updated>2025-02-13T12:49:47.000Z</updated>
+        <summary type="html"><![CDATA[When connecting external knowledge to large language models (LLMs), developers often grapple with integrating data from numerous sources—some of it structured, much of it unstructured—while still returning fast and accurate information. This challenge is at the heart of retrieval-augmented generation (RAG), which offers a compelling way for LLMs to pull in domain-specific data on demand. […]
+The post Cognee + LlamaIndex: Building Powerful GraphRAG Pipelines appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Adarsh Balan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base LLM vs Instruction-Tuned LLM]]></title>
+        <id>https://www.analyticsvidhya.com/?p=221283</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/base-llm-vs-instruction-tuned-llm/"/>
+        <updated>2025-02-13T07:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Language models are essential for understanding and producing human language by machines in the quickly developing field of artificial intelligence. Among these models, two different methods of language processing are represented by Base LLM and Instruction-Tuned LLM. This article examines the main distinctions between these two categories of models, as well as their training processes, […]
+The post Base LLM vs Instruction-Tuned LLM appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should Data Scientists Care About Quantum Computing?]]></title>
+        <id>https://towardsdatascience.com/?p=597837</id>
+        <link href="https://towardsdatascience.com/should-data-scientists-care-about-quantum-computing/"/>
+        <updated>2025-02-13T04:06:27.000Z</updated>
+        <summary type="html"><![CDATA[I am sure the quantum hype has reached every person in tech (and outside it, most probably). With some over-the-top claims, like “some company has proved quantum supremacy,” “the quantum revolution is here,” or my favorite, “quantum computers are here, and it will make classical computers obsolete.” I am going to be honest with you; […]
+The post Should Data Scientists Care About Quantum Computing? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Method of Moments Estimation with Python Code]]></title>
+        <id>https://towardsdatascience.com/?p=597798</id>
+        <link href="https://towardsdatascience.com/method-of-moments-estimation-with-python-code/"/>
+        <updated>2025-02-13T03:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you are in a customer care center, and you would like to know the probability distribution of the number of calls per minute, or in other words, you want to answer the question: what is the probability of receiving zero, one, two, … etc., calls per minute? You need this distribution in order […]
+The post Method of Moments Estimation with Python Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahmoud Abdelaziz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure the Reliability of a Large Language Model’s Response]]></title>
+        <id>https://towardsdatascience.com/?p=597790</id>
+        <link href="https://towardsdatascience.com/how-to-measure-the-reliability-of-a-large-language-models-response/"/>
+        <updated>2025-02-13T02:11:41.000Z</updated>
+        <summary type="html"><![CDATA[The basic principle of Large Language Models (LLMs) is very simple: to predict the next word (or token) in a sequence of words based on statistical patterns in their training data. However, this seemingly simple capability turns out to be incredibly sophisticated when it can do a number of amazing tasks such as text summarization, […]
+The post How to Measure the Reliability of a Large Language Model’s Response appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Umair Ali Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Research and Physics Wallah team up to enhance AI-based tutoring]]></title>
         <id>https://www.microsoft.com/en-us/research/?p=1128279</id>
@@ -960,6 +1153,23 @@ The post How to Run OpenAI’s o3-mini on Google Colab? appeared first on Analyt
 The post Is OpenAI’s o3-mini Better Than DeepSeek-R1? appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-baked idea: a straightforward method for learning environmental goals?]]></title>
+        <id>hzXFthtujYhDXMgFd</id>
+        <link href="https://www.alignmentforum.org/posts/hzXFthtujYhDXMgFd/tbd-3"/>
+        <updated>2025-02-04T06:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 4, 2025 6:56 AM GMT
+
+Epistemic status: I want to propose a method of learning environmental goals (a super big, super important subproblem in Alignment). It's informal, so has a lot of gaps. I worry I missed something obvious, rendering my argument completely meaningless. I asked LessWrong feedback team, but they couldn't get someone knowledgeable enough to take a look. 
+Can you tell me the biggest conceptual problems of my method? Can you tell me if agent foundations researchers are aware of this method or not?
+If you're not familiar with the problem, here's the context: Environmental goals; identifying causal goal concepts from sensory data; ontology identification problem; Pointers Problem; Eliciting Latent Knowledge.
+Explanation 1
+One naive solution
+Imagine we hav…]]></summary>
+        <author>
+            <name>Q Home</name>
         </author>
     </entry>
     <entry>
@@ -4673,151 +4883,6 @@ Fine-tuning Stable Diffusion 3.5: UI images first appeared on LearnOpenCV.]]></s
 The post Sky-T1: The $450 LLM Challenging GPT-4o & DeepSeek V3 appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Diksha Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with GitHub Copilot Workspace]]></title>
-        <id>https://www.analyticsvidhya.com/?p=215328</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/getting-started-with-github-copilot-workspace/"/>
-        <updated>2025-01-14T11:46:35.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the technical preview for GitHub Copilot Workspace (CW)! GitHub CW is a “task-centric” development environment that enables you to define tasks for a repository using natural language and collaborate with AI to complete them. This guide will walk you through how to get started with Copilot Workspace by utilizing various entry points. Entry Points […]
-The post Getting Started with GitHub Copilot Workspace appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gudie on Prompting with DSPy]]></title>
-        <id>https://www.analyticsvidhya.com/?p=214784</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/prompting-with-dspy/"/>
-        <updated>2025-01-14T06:49:13.000Z</updated>
-        <summary type="html"><![CDATA[DSPy, or Declarative Self-improving Language Programs, revolutionizes how developers interact with Large Language Models (LLMs). By abstracting the intricacies of prompt engineering, it enables users to develop, test, and improve their apps more effectively and dependably. This comprehensive tutorial delves deeply into DSPy, offering thorough insights to assist you in getting started and creating potent […]
-The post Gudie on Prompting with DSPy appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nilesh Dwivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Giants Faceoff: DeepSeek-V3 vs Qwen2.5]]></title>
-        <id>https://www.analyticsvidhya.com/?p=215110</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-qwen2-5/"/>
-        <updated>2025-01-14T06:15:57.000Z</updated>
-        <summary type="html"><![CDATA[The world of generative AI (GenAI) has evolved immensely in the last two years and its impact can be seen across the globe. While the U.S. has led the charge with large language models (LLMs) like GPT-4o, Gemini, and Claude, France made it big with Mistral AI. But the GenAI landscape that was majorly ruled […]
-The post Chinese Giants Faceoff: DeepSeek-V3 vs Qwen2.5 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Anu Madan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 1.12.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:67859437a6fb29704b47574b</id>
-        <link href="https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw"/>
-        <updated>2025-01-13T22:33:19.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codestral 25.01: AI that Codes Faster than you can Say “Syntax Error”]]></title>
-        <id>https://www.analyticsvidhya.com/?p=215206</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/codestral-25-01/"/>
-        <updated>2025-01-13T20:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Codestral 25.01 is here, and it’s a meaningful upgrade for developers. Building on the success of Codestral 2405 22B, this latest version introduces a more efficient architecture and an improved tokenizer, making it roughly twice as fast. Whether you’re working in Python, SQL, or other languages, Codestral 25.01 delivers quicker and more accurate results, helping streamline tasks […]
-The post Codestral 25.01: AI that Codes Faster than you can Say “Syntax Error” appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Abhishek Singh Bais</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Ways to Improve Statistical Power in A/B Testing (Without Increasing Test Duration, Duh)]]></title>
-        <id>https://medium.com/p/e37ad45d38f5</id>
-        <link href="https://towardsdatascience.com/four-ways-to-improve-statistical-power-in-a-b-testing-without-increasing-test-duration-duh-e37ad45d38f5?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T19:37:01.000Z</updated>
-        <author>
-            <name>Allon Korem | CEO, Bell Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI (R)Evolution, Looking From 2024 Into the Immediate Future]]></title>
-        <id>https://medium.com/p/0261a5db7103</id>
-        <link href="https://towardsdatascience.com/the-ai-r-evolution-looking-from-2024-into-the-immediate-future-0261a5db7103?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T18:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Witnessing rapid innovation, fierce competition, and transformative tools for life, work, and human development
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>LucianoSphere (Luciano Abriata, PhD)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Topic Modelling in Chinese Corpora with KeyNMF]]></title>
-        <id>https://medium.com/p/9a1d02f02648</id>
-        <link href="https://towardsdatascience.com/contextual-topic-modelling-in-chinese-corpora-with-keynmf-9a1d02f02648?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T18:47:24.000Z</updated>
-        <author>
-            <name>Márton Kardos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[llama.cpp: Writing A Simple C++ Inference Program for GGUF LLM Models]]></title>
-        <id>https://medium.com/p/12bc5f58505f</id>
-        <link href="https://towardsdatascience.com/llama-cpp-writing-a-simple-c-inference-program-for-gguf-llm-models-12bc5f58505f?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T18:41:59.000Z</updated>
-        <author>
-            <name>Shubham Panchal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Multimodal AI Assistant: Combining Local and Cloud Models]]></title>
-        <id>https://medium.com/p/2006b2ea0cd9</id>
-        <link href="https://towardsdatascience.com/a-multimodal-ai-assistant-combining-local-and-cloud-models-2006b2ea0cd9?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T18:40:04.000Z</updated>
-        <author>
-            <name>Robert Martin-Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going Beyond Bias-Variance Tradeoff Into Double Descent Phenomenon]]></title>
-        <id>https://medium.com/p/4efd2c4f86d3</id>
-        <link href="https://towardsdatascience.com/going-beyond-bias-variance-tradeoff-into-double-descent-phenomenon-4efd2c4f86d3?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T17:50:31.000Z</updated>
-        <summary type="html"><![CDATA[It’s not how many times you get knocked down that count, it’s how many times you get back up.
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Farzad Nobar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Strategies: Built to Last]]></title>
-        <id>https://medium.com/p/16a8778fc893</id>
-        <link href="https://towardsdatascience.com/it-strategies-built-to-last-16a8778fc893?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T17:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Why Reevaluating Our Core Assumptions About Data and Integration Creates Significant Value
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Mark Moloney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Deterministic GenAI Chatbots In Regulated Industries]]></title>
-        <id>https://medium.com/p/ddab581cdc80</id>
-        <link href="https://towardsdatascience.com/building-deterministic-genai-chatbots-in-regulated-industries-ddab581cdc80?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-13T15:51:30.000Z</updated>
-        <summary type="html"><![CDATA[How to Build Reliable and Contextual AI Chatbots for Finance, Healthcare and Other Industries
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Ashley Peacock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access Phi-4 Using Hugging Face?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=215066</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/how-to-access-phi-4-using-hugging-face/"/>
-        <updated>2025-01-13T15:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft’s Phi-4 model is available on Hugging Face, offering developers a powerful tool for advanced text generation and reasoning tasks. In this article, we’ll walk you through the steps to access and use Phi-4, from creating a Hugging Face account to generating outputs with the model. We’ll also explore key features, including its optimized performance […]
-The post How to Access Phi-4 Using Hugging Face? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
         </author>
     </entry>
 </feed>
