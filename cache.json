@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=597896",
+          "author": "Vyacheslav Efimov",
+          "description": "Introduction Data science is undoubtedly one of the most fascinating fields today. Following significant breakthroughs in machine learning about a decade ago, data science has surged in popularity within the tech community. Each year, we witness increasingly powerful tools that once seemed unimaginable. Innovations such as the Transformer architecture, ChatGPT, the Retrieval-Augmented Generation (RAG) framework, and state-of-the-art computer vision models — including GANs — have […]\nThe post Roadmap to Becoming a Data Scientist, Part 4: Advanced Machine Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/roadmap-to-becoming-a-data-scientist-part-4-advanced-machine-learning/",
+          "publishedOn": "2025-02-14T17:00:00.000Z",
+          "wordCount": 5345,
+          "title": "Roadmap to Becoming a Data Scientist, Part 4: Advanced Machine Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_ndXE7jbjz984rIzg4viEhw.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597851",
+          "author": "Sam Minot",
+          "description": "Working in data science, it can be hard to share insights from complex datasets using only static figures. All the facets that describe the shape and meaning of interesting data are not always captured in a handful of pre-generated figures. While we have powerful technologies available for presenting interactive figures — where a viewer can rotate, filter, […]\nThe post Publish Interactive Data Visualizations for Free with Python and Marimo appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/",
+          "publishedOn": "2025-02-14T16:00:00.000Z",
+          "wordCount": 3644,
+          "title": "Publish Interactive Data Visualizations for Free with Python and Marimo",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-at-11.30.43 AM-1024x667.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597886",
+          "author": "Richie Bachala",
+          "description": "As data continues to grow in importance and become more complex, the need for skilled data engineers has never been greater. But what is data engineering, and why is it so important? In this blog post, we will discuss the essential components of a functioning data engineering practice and why data engineering is becoming increasingly […]\nThe post Building a Data Engineering Center of Excellence appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-data-engineering-center-of-excellence/",
+          "publishedOn": "2025-02-14T02:35:48.000Z",
+          "wordCount": 4624,
+          "title": "Building a Data Engineering Center of Excellence",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_vzU6BKDA1gxhk5kIQat_JA.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=597833",
           "author": "David Martin",
           "description": "In this fifth part of my series, I will outline the steps for creating a Docker container for training your image classification model, evaluating performance, and preparing for deployment. AI/ML engineers would prefer to focus on model training and data engineering, but the reality is that we also need to understand the infrastructure and mechanics […]\nThe post Learnings from a Machine Learning Engineer — Part 5: The Training appeared first on Towards Data Science.",
@@ -1800,116 +1830,6 @@
           "wordCount": null,
           "title": "LossVal Explained: Efficiently Estimate the Importance of Your Training Data",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/892e88d4a80d",
-          "author": "Dr. Aliaksei Mikhailiuk",
-          "description": "How to building reliable, scalable and robust AI applications— explained in five minutes.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/llm-routing-the-heart-of-any-practical-ai-chatbot-application-892e88d4a80d?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-15T13:02:07.000Z",
-          "wordCount": null,
-          "title": "LLM Routing — the Heart of Any Practical AI Chatbot Application",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9078768068cc",
-          "author": "Piero Paialunga",
-          "description": "Here’s how to optimize the delivery routes, from theory to code.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/hands-on-delivery-routes-optimization-tsp-with-ai-using-lkh-and-python-9078768068cc?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T20:02:16.000Z",
-          "wordCount": null,
-          "title": "Hands-On Delivery Routes Optimization (TSP) with AI, Using LKH and Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5876e3f7f473",
-          "author": "Haden Pelletier",
-          "description": "Lag columns can significantly boost your model’s performance\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/how-to-forecast-time-series-using-lags-5876e3f7f473?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T19:02:18.000Z",
-          "wordCount": null,
-          "title": "How To: Forecast Time Series Using Lags",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eda0d9d7b60a",
-          "author": "Hunjae Timothy Lee",
-          "description": "",
-          "link": "https://towardsdatascience.com/static-and-dynamic-attention-implications-for-graph-neural-networks-eda0d9d7b60a?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T18:06:02.000Z",
-          "wordCount": null,
-          "title": "Static and Dynamic Attention: Implications for Graph Neural Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7e0cea8409a1",
-          "author": "Rohit Ramaprasad",
-          "description": "",
-          "link": "https://towardsdatascience.com/deep-dive-into-kv-caching-in-mistral-7e0cea8409a1?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T18:03:17.000Z",
-          "wordCount": null,
-          "title": "Deep Dive into KV-Caching In Mistral",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a13e2b392462",
-          "author": "Zach Flynn",
-          "description": "",
-          "link": "https://towardsdatascience.com/scale-experiment-decision-making-with-programmatic-decision-rules-a13e2b392462?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T18:02:06.000Z",
-          "wordCount": null,
-          "title": "Scale Experiment Decision-Making with Programmatic Decision Rules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6af967b16dc9",
-          "author": "Marco Peixeiro",
-          "description": "Learn the fundamental concepts of time series classification and apply them in a small project using Python\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-complete-introduction-to-time-series-classification-in-python-6af967b16dc9?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T18:00:36.000Z",
-          "wordCount": null,
-          "title": "The Complete Introduction to Time Series Classification in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a4e79d393ac2",
-          "author": "Lukasz Gatarek",
-          "description": "Enhancing Accuracy in Reinforcement Learning Policy Evaluation through Normalization\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/why-normalization-is-crucial-for-policy-evaluation-in-reinforcement-learning-a4e79d393ac2?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T17:41:00.000Z",
-          "wordCount": null,
-          "title": "Why Normalization Is Crucial for Policy Evaluation in Reinforcement Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/09f13bc7b62c",
-          "author": "Brian Roepke",
-          "description": "Learn how to create a simple, yet powerful REST API with FastAPI, DynamoDB, and AWS Lambda Functions.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/build-your-first-api-with-python-and-aws-09f13bc7b62c?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T17:02:01.000Z",
-          "wordCount": null,
-          "title": "Build Your First API with Python and AWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d96bae3de61d",
-          "author": "Alejandro Alvarez Pérez",
-          "description": "Take a dive into the math and exemplifying use cases of the Poisson distribution\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/mastering-the-poisson-distribution-intuition-and-foundations-d96bae3de61d?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T16:44:10.000Z",
-          "wordCount": null,
-          "title": "Mastering the Poisson Distribution: Intuition and Foundations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d6d292e81587",
-          "author": "Jose Parreño",
-          "description": "Discover the #1 strategy to handle skyscraper bars in your charts\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/awesome-plotly-with-code-series-part-8-how-to-balance-dominant-bar-chart-categories-d6d292e81587?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-14T16:02:06.000Z",
-          "wordCount": null,
-          "title": "Awesome Plotly with code series (Part 8): How to balance dominant bar chart categories",
-          "imageUrl": null
         }
       ]
     },
@@ -2151,16 +2071,6 @@
           "wordCount": 3585,
           "title": "MatterGen: A new paradigm of materials design with generative AI",
           "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/MatterGen-Technical-MSR-BLG-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1116288",
-          "author": "Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)",
-          "description": "Announcing AutoGen 0.4, fully reimagined library for building advanced agentic AI systems, developed to improve code quality and robustness. Its asynchronous, event-driven architecture is designed to support dynamic, scalable workflows.\nThe post AutoGen v0.4: Reimagining the foundation of agentic AI for scale, extensibility, and robustness appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/autogen-v0-4-reimagining-the-foundation-of-agentic-ai-for-scale-extensibility-and-robustness/",
-          "publishedOn": "2025-01-14T14:33:09.000Z",
-          "wordCount": 3479,
-          "title": "AutoGen v0.4: Reimagining the foundation of agentic AI for scale, extensibility, and robustness",
-          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/AutoGen-0.4-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -2277,6 +2187,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "643dddf8-eae7-11ef-83b3-8f9ab3dc0785",
+          "author": null,
+          "description": "NASA experts discuss launching and returning cargo to the International Space Station and the planning that goes into delivering several months worth of supplies and crucial science to astronauts in space. HWHAP 372.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/space-cargo/",
+          "publishedOn": "2025-02-14T15:16:14.000Z",
+          "wordCount": null,
+          "title": "Space Cargo",
+          "itunes": {
+            "duration": "2930"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4060294682.mp3?updated=1739546802",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "df2dda76-e56b-11ef-83b2-d7c4464010a9",
           "author": null,
@@ -2473,16 +2401,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/01/DepthPro-Feature-Image-Depth-of-field-Depthmap-Surface-Normal.gif"
-        },
-        {
-          "id": "https://learnopencv.com/?p=62765",
-          "author": "Bhomik Sharma",
-          "description": "Recently, the interest in fine-tuning Stable Diffusion models has surged among AI enthusiasts and professionals, driven by the need to incorporate these models into specific requirements. This article walks you through various aspects of fine-tuning a diffusion model on a flat-UI image dataset, providing a comprehensive guide for theoretical insights and practical implementation. This resource […]\nFine-tuning Stable Diffusion 3.5: UI images first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/fine-tuning-stable-diffusion-3-5m/",
-          "publishedOn": "2025-01-14T14:00:00.000Z",
-          "wordCount": 7894,
-          "title": "Fine-tuning Stable Diffusion 3.5: UI images",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/01/ft_sd3.5_featured_gif.gif"
         }
       ]
     },
@@ -2518,6 +2436,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=221485",
+          "author": "Adarsh Balan",
+          "description": "With the rise of AI in finance, investors are increasingly leveraging AI-driven insights for better decision-making. This article explores how we can create a hierarchical multi-agent AI system using LangGraph Supervisor to analyze financial market trends, perform sentiment analysis, and provide investment recommendations. By integrating specialized agents for market data retrieval, sentiment analysis, quantitative analysis, […]\nThe post Building a Multi-Agent AI System for Financial Market Analysis appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/financial-market-analysis-ai-agent/",
+          "publishedOn": "2025-02-14T18:41:21.000Z",
+          "wordCount": null,
+          "title": "Building a Multi-Agent AI System for Financial Market Analysis",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=221600",
+          "author": "Nitika Sharma",
+          "description": "Google launched its impressive video generation model in December 2024 for select countries, and it truly made waves. The video quality and user-friendly platform set it apart from RunwayML and OpenAI Sora. Now, Google has taken it a step further by integrating Veo 2 into the Dream Screen feature on YouTube Shorts. This allows creators […]\nThe post Veo 2 Brings AI-Generated Clips to YouTube Shorts appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/veo-2-youtube-shorts/",
+          "publishedOn": "2025-02-14T18:31:45.000Z",
+          "wordCount": null,
+          "title": "Veo 2 Brings AI-Generated Clips to YouTube Shorts",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=221494",
+          "author": "Anu Madan",
+          "description": "Our smartphones are now smarter than ever – thanks to all the AI-powered apps and chatbots. Galaxy AI, Apple Intelligence, and Perplexity AI’s mobile assistant, bring agentic features to mobile phones, making them even more functional. These agentic tools can actually automate and execute tasks like managing meetings, making bookings, doing research, and more – […]\nThe post Build No-Code AI Agents on Your Phone for Free with the Replit Mobile App! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/replit-ai-agent/",
+          "publishedOn": "2025-02-14T17:02:52.000Z",
+          "wordCount": null,
+          "title": "Build No-Code AI Agents on Your Phone for Free with the Replit Mobile App!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=221589",
+          "author": "Nitika Sharma",
+          "description": "Vibe coding is like telling an AI what you want to build instead of writing every line of code yourself. Imagine you describe an app or a feature in plain English, and the AI writes the code for you. For example: Instead of typing out all the code for a website, you could say:“Make a […]\nThe post Is Vibe Coding the Future? See What Top Leaders Have to Say! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/vibe-coding-the-future/",
+          "publishedOn": "2025-02-14T12:06:48.000Z",
+          "wordCount": null,
+          "title": "Is Vibe Coding the Future? See What Top Leaders Have to Say!",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=221417",
           "author": "Vipin Vashisth",
@@ -4090,83 +4052,6 @@
           "title": "1% Sunlight, 100% Impact: Andrew Ng’s AI Climate Simulator",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215467",
-          "author": "K.C. Sabreena Basheer",
-          "description": "Artificial intelligence is taking over the world, one industry at a time – and software development is no exception. Amidst the fear of job losses due to AI adoption, one question looms large: Do we still need software engineers? With the rise of generative AI (GenAI) models capable of writing code, debugging, and even architecting […]\nThe post Software Engineers – Do We Need Them Anymore? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/software-engineers-do-we-need-them-anymore/",
-          "publishedOn": "2025-01-15T12:32:32.000Z",
-          "wordCount": null,
-          "title": "Software Engineers – Do We Need Them Anymore?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215488",
-          "author": "Himanshi Singh",
-          "description": "Exciting news! We’ve just launched a game-changing feature: Personalized GenAI Learning Path 2025. This isn’t just another roadmap but it’s YOUR roadmap, crafted specifically for YOUR goals, timeline, and learning style. Let’s get started? Click “Create Now” below to explore this feature yourself, or read on to learn more about this exciting feature! What is […]\nThe post Introducing the Personalized GenAI Learning Path! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/personalized-genai-learning-path/",
-          "publishedOn": "2025-01-15T11:29:01.000Z",
-          "wordCount": null,
-          "title": "Introducing the Personalized GenAI Learning Path!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215633",
-          "author": "Nitika Sharma",
-          "description": "OpenAI is here with yet another exciting update – Scheduled Tasks in ChatGPT. This new feature is designed to help you automate your daily workflows, set reminders, and stay organized. Whether you’re a professional juggling multiple responsibilities, a student managing deadlines, or someone who simply wants to streamline their routine, scheduled tasks is here to […]\nThe post ChatGPT Just Got Smarter: Now You Can Schedule Tasks appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/schedule-tasks-with-chatgpt/",
-          "publishedOn": "2025-01-15T09:56:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT Just Got Smarter: Now You Can Schedule Tasks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215504",
-          "author": "Nitika Sharma",
-          "description": "In the competitive world of AI video generation, Google’s Veo 2 and OpenAI’s Sora are two leading contenders. Both tools are designed to generate high-quality, AI-driven videos, but they differ significantly in terms of realism, features, and costs. When choosing the right video generator for your task, it is essential to thoroughly test and evaluate […]\nThe post Sora vs Veo 2: Which One Creates More Realistic Videos? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/sora-vs-veo-2/",
-          "publishedOn": "2025-01-14T18:38:38.000Z",
-          "wordCount": null,
-          "title": "Sora vs Veo 2: Which One Creates More Realistic Videos?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215428",
-          "author": "Pankaj Singh",
-          "description": "Building an Agentic Retrieval-Augmented Generation (RAG) system with SmolAgents enables the development of AI agents capable of autonomous decision-making and task execution. SmolAgents, a minimalist library by Hugging Face, facilitates the creation of such agents in a concise and efficient manner. In this article, we will go step by step to build the Agentic RAG […]\nThe post How to Build Agentic RAG with SmolAgents? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/agentic-rag-with-smolagents/",
-          "publishedOn": "2025-01-14T16:06:09.000Z",
-          "wordCount": null,
-          "title": "How to Build Agentic RAG with SmolAgents?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215485",
-          "author": "Janvi Kumari",
-          "description": "OpenAI has announced the release of its brand-new Function Calling Guide, designed to help developers extend the capabilities of OpenAI models by integrating custom tools and functions. Based on extensive user feedback, the guide has been revamped to be 50% shorter and clearer, featuring new best practices, in-doc function generation, and a fully functional example […]\nThe post OpenAI’s New Function Calling Guide appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/openai-function-calling-guide/",
-          "publishedOn": "2025-01-14T14:45:36.000Z",
-          "wordCount": null,
-          "title": "OpenAI’s New Function Calling Guide",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215456",
-          "author": "Diksha Kumari",
-          "description": "The AI community was already stunned when DeepSeek V3 launched, delivering GPT-4o-level capabilities at a fraction of the cost. But now, the NovaSky team at UC Berkeley has raised the bar even higher. Meet Sky-T1-32B-Preview—a model that delivers top-tier performance for a training cost of less than $450. That’s not a typo. While others spend millions, NovaSky is proving […]\nThe post Sky-T1: The $450 LLM Challenging GPT-4o & DeepSeek V3 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/sky-t1/",
-          "publishedOn": "2025-01-14T13:29:11.000Z",
-          "wordCount": null,
-          "title": "Sky-T1: The $450 LLM Challenging GPT-4o & DeepSeek V3",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -4322,22 +4207,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2f93598d-e3e4-4f7f-8452-c4d5f1501e94_1280x720.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/to-meta-ray-ban-local-ai",
-          "author": "Nathan Lambert",
-          "description": "Different futures for AI devices and how we can start creating positive feedback loops for some types of open-weight language models.",
-          "link": "https://www.interconnects.ai/p/to-meta-ray-ban-local-ai",
-          "publishedOn": "2025-01-15T13:02:28.000Z",
-          "wordCount": null,
-          "title": "Let me use my local LMs on Meta Ray-Bans",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F266837e4-4af0-499a-b735-5fb91438c7a0_1411x1058.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F266837e4-4af0-499a-b735-5fb91438c7a0_1411x1058.png"
         }
       ]
     },
@@ -4346,6 +4215,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "TJrCumJxhzTmNBsRz",
+          "author": "Victoria Krakovna",
+          "description": "Published on February 14, 2025 3:43 PM GMT\n\nWe are excited to release a short course on AGI safety for students, researchers and professionals interested in this topic. The course offers a concise and accessible introduction to AI alignment, consisting of short recorded talks and exercises (75 minutes total) with an accompanying slide deck and exercise workbook. It covers alignment problems we can expect as AI capabilities advance, and our current approach to these problems (on technical and governance levels). If you would like to learn more about AGI safety but have only an hour to spare, this course is for you! \nHere are some key topics you will learn about in this course:\n\nThe evidence for the field being on a path to advanced AI capabilities.\nArguments for instrumental subgoals and de…",
+          "link": "https://www.alignmentforum.org/posts/TJrCumJxhzTmNBsRz/a-short-course-on-agi-safety-from-the-gdm-alignment-team",
+          "publishedOn": "2025-02-14T15:43:50.000Z",
+          "wordCount": 4867,
+          "title": "A short course on AGI safety from the GDM Alignment team",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/uhbzlpl6tz6zahb0et55"
+        },
         {
           "id": "SFgLBQsLB3rprdxsq",
           "author": "Steve Byrnes",
@@ -4365,6 +4244,16 @@
           "wordCount": 95482,
           "title": "Research directions Open Phil wants to fund in technical AI safety",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "YXNeA3RyRrrRWS37A",
+          "author": "Eleni Angelou",
+          "description": "Published on February 7, 2025 7:35 PM GMT\n\nTL;DR: If you are thinking of using interpretability to help with strategic deception, then there's likely a problem you need to solve first: how are intentional descriptions (like deception) related to algorithmic ones (like understanding the mechanisms models use)? We discuss this problem and try to outline some constructive directions.\n \n1. Introduction\nA commonly discussed AI risk scenario is strategic deception: systems that execute sophisticated planning against their creators to achieve undesired ends. In particular, this is insidious because a system that is capable of strategic planning and also situationally aware might be able to systematically behave differently when under observation, and thus evaluation methods that are purely behavi…",
+          "link": "https://www.alignmentforum.org/posts/YXNeA3RyRrrRWS37A/a-problem-to-solve-before-building-a-deception-detector",
+          "publishedOn": "2025-02-07T19:35:23.000Z",
+          "wordCount": 26385,
+          "title": "A Problem to Solve Before Building a Deception Detector",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/YXNeA3RyRrrRWS37A/ke0vmraroeplpnchvhwf"
         },
         {
           "id": "KFJ2LFogYqzfGB3uX",
@@ -4775,16 +4664,6 @@
           "wordCount": 8478,
           "title": "New, improved multiple-choice TruthfulQA",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Bunfwz6JsNd44kgLT/t1kahn51xfbrklo4dhjj"
-        },
-        {
-          "id": "C8HAa2mf5kcBrpjkX",
-          "author": "James Chua",
-          "description": "Published on January 15, 2025 4:43 AM GMT\nFigure 1: Left: Example of models either succeeding or failing to articulate a cue that influences their answer. We edit an MMLU question by prepending a Stanford professor's opinion. For examples like this where the cue changes the model answer, we measure how often models articulate the cue in their CoT. (Here we show only options A and B, rather than all four.) Right: Inference-Time-Compute models articulate the cue more often. The ITC version of Qwen refers to QwQ-32b-Preview, and non-ITC refers to Qwen-2.5-72B-Instruct. For Gemini, we use gemini-2.0-flash-thinking-exp and gemini-2.0-flash-exp respectively.\n \nTLDR: We evaluate two Inference-Time-Compute models, QwQ-32b-Preview and Gemini-2.0-flash-thinking-exp for CoT faithfulness.\nWe find that…",
-          "link": "https://www.alignmentforum.org/posts/C8HAa2mf5kcBrpjkX/inference-time-compute-more-faithful-a-research-note",
-          "publishedOn": "2025-01-15T04:43:00.000Z",
-          "wordCount": 18768,
-          "title": "Inference-Time-Compute: More Faithful? \nA Research Note",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/C8HAa2mf5kcBrpjkX/xlew3x0xh0z4kfmhoxyc"
         }
       ]
     }
