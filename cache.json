@@ -12,6 +12,66 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=598095",
+          "author": "Claudia Ng",
+          "description": "The customer support teams were drowning with the overwhelming volume of customer inquiries at every company I’ve worked at. Have you had similar experiences? What if I told you that you could use AI to automatically identify, categorize, and even resolve the most common issues? By fine-tuning a transformer model like BERT, you can build […]\nThe post How to Fine-Tune DistilBERT for Emotion Classification appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-fine-tune-distilbert-for-emotion-classification/",
+          "publishedOn": "2025-02-19T00:10:39.000Z",
+          "wordCount": 4219,
+          "title": "How to Fine-Tune DistilBERT for Emotion Classification",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-18-at-1.03.13 PM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598080",
+          "author": "Aryan Garg",
+          "description": "In July 1959, Arthur Samuel developed one of the first agents to play the game of checkers. What constitutes an agent that plays checkers can be best described in Samuel’s own words, “…a computer [that] can be programmed so that it will learn to play a better game of checkers than can be played by […]\nThe post Learning How to Play Atari Games Through Deep Neural Networks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/learning-how-to-play-atari-games-through-deep-neural-networks/",
+          "publishedOn": "2025-02-18T19:54:39.000Z",
+          "wordCount": 8664,
+          "title": "Learning How to Play Atari Games Through Deep Neural Networks",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/unnamed.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598068",
+          "author": "Malte Tichy",
+          "description": "Ethical issues aside, should you be honest when asked how certain you are about some belief? Of course, it depends. In this blog post, you’ll learn on what. A probabilistic quiz game David Spiegelhalter’s new (as of 2025) fantastic book, “The Art of Uncertainty” – a must-read for everyone who deals with probabilities and their communication […]\nThe post Honestly Uncertain appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/honestly-uncertain/",
+          "publishedOn": "2025-02-18T18:53:02.000Z",
+          "wordCount": 5427,
+          "title": "Honestly Uncertain",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_F2jEj8ARLZWXFScPRDOXFg.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598060",
+          "author": "Clara Chong",
+          "description": "With the recent explosion of interest in large language models (LLMs), they often seem almost magical. But let’s demystify them. I wanted to step back and unpack the fundamentals — breaking down how LLMs are built, trained, and fine-tuned to become the AI systems we interact with today. This two-part deep dive is something I’ve been meaning […]\nThe post How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/",
+          "publishedOn": "2025-02-18T17:39:29.000Z",
+          "wordCount": 4189,
+          "title": "How LLMs Work: Pre-Training to Post-Training, Neural Networks, Hallucinations, and Inference",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-18-at-9.26.09 AM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598055",
+          "author": "Rashi Desai",
+          "description": "In the past few years, technology and AI have evolved more than ever. As I read about the new concepts in tech and learn new skills and techniques each day, I feel in a state of limbo — there is so much content to consume and yet, very little content that I could create.  In the rapidly […]\nThe post The Future of Data: How Decision Intelligence is Revolutionizing Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-future-of-data-how-decision-intelligence-is-revolutionizing-data/",
+          "publishedOn": "2025-02-18T17:23:09.000Z",
+          "wordCount": 3263,
+          "title": "The Future of Data: How Decision Intelligence is Revolutionizing Data",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-18-at-9.07.39 AM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598050",
+          "author": "Ed Izaguirre",
+          "description": "This is the second in a two-part series on using SQLite for machine learning. In my last article, I dove into how SQLite is rapidly becoming a production-ready database for web applications. In this article, I will discuss how to perform retrieval-augmented-generation using SQLite. If you’d like a custom web application with generative AI integration, […]\nThe post Retrieval Augmented Generation in SQLite appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/retrieval-augmented-generation-in-sqlite/",
+          "publishedOn": "2025-02-18T17:05:58.000Z",
+          "wordCount": 4945,
+          "title": "Retrieval Augmented Generation in SQLite",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-18-at-8.39.16 AM-1024x1017.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=598031",
           "author": "Christy Bergman",
           "description": "As a Developer Advocate, it’s challenging to keep up with user forum messages and understand the big picture of what users are saying. There’s plenty of valuable content — but how can you quickly spot the key conversations? In this tutorial, I’ll show you an AI hack to perform semantic clustering simply by prompting LLMs! […]\nThe post Tutorial: Semantic Clustering of User Messages with LLM Prompts appeared first on Towards Data Science.",
@@ -1540,26 +1600,6 @@
           "wordCount": 5471,
           "title": "How to Log Your Data with MLflow",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*4hlmAC5vKBd9LmLX"
-        },
-        {
-          "id": "https://medium.com/p/055de18d05e3",
-          "author": "Marina Wyss - Gratitude Driven",
-          "description": "Make the right choice for YOU\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/how-to-pick-between-data-science-data-analytics-data-engineering-ml-engineering-and-sw-055de18d05e3?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-19T12:02:08.000Z",
-          "wordCount": 1304,
-          "title": "How to Pick Between Data Science, Data Analytics, Data Engineering, ML Engineering, and SW…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uAcD5pE6QD8o32FNJ8HrVA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/e759b3da1a77",
-          "author": "John Loewen, PhD",
-          "description": "Analyzing historical wildfire trends in Canada with public data\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/showcasing-soaring-wildfire-counts-with-streamlit-and-python-a-powerful-approach-e759b3da1a77?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-18T15:02:15.000Z",
-          "wordCount": null,
-          "title": "Showcasing Soaring Wildfire Counts With Streamlit and Python: A Powerful Approach",
-          "imageUrl": null
         }
       ]
     },
@@ -1568,6 +1608,106 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=19098",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Be sure to check out the previous articles in this series: • <a href=\"https://machinelearningmastery.",
+          "link": "https://machinelearningmastery.com/understanding-rag-part-v-managing-context-length/",
+          "publishedOn": "2025-02-18T11:00:38.000Z",
+          "wordCount": null,
+          "title": "Understanding RAG Part V: Managing Context Length",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19095",
+          "author": "Nahla Davies",
+          "description": "Combining the power of <a href=\"https://www.",
+          "link": "https://machinelearningmastery.com/integrating-tensorflow-numpy-custom-operations/",
+          "publishedOn": "2025-02-17T12:00:32.000Z",
+          "wordCount": null,
+          "title": "Integrating TensorFlow and NumPy for Custom Operations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19068",
+          "author": "Cornellius Yudha Wijaya",
+          "description": "You know it as well as I do: people are relying more and more on generative AI and large language models (LLM) for quick and easy information acquisition.",
+          "link": "https://machinelearningmastery.com/prompt-engineering-patterns-successful-rag-implementations/",
+          "publishedOn": "2025-02-13T11:00:35.000Z",
+          "wordCount": null,
+          "title": "Prompt Engineering Patterns for Successful RAG Implementations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19062",
+          "author": "Cornellius Yudha Wijaya",
+          "description": "Large language models (LLMs) have evolved and permeated our lives so much and so quickly that many we have become dependent on them in all sorts of scenarios.",
+          "link": "https://machinelearningmastery.com/implementing-multi-modal-rag-systems/",
+          "publishedOn": "2025-02-12T11:00:32.000Z",
+          "wordCount": null,
+          "title": "Implementing Multi-Modal RAG Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19056",
+          "author": "Adrian Tam",
+          "description": "Before we start, let's ensure you are in the right place.",
+          "link": "https://machinelearningmastery.com/next-level-data-science-7-day-mini-course/",
+          "publishedOn": "2025-02-11T21:00:30.000Z",
+          "wordCount": null,
+          "title": "Next-Level Data Science (7-Day Mini-Course)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19052",
+          "author": "Nahla Davies",
+          "description": "Creating custom layers and loss functions in <a href=\"https://pytorch.",
+          "link": "https://machinelearningmastery.com/creating-custom-layers-loss-functions-pytorch/",
+          "publishedOn": "2025-02-11T12:55:12.000Z",
+          "wordCount": null,
+          "title": "Creating Custom Layers and Loss Functions in PyTorch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19047",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Machine learning (ML) is considered the largest subarea of artificial intelligence (AI) , studying the development of software systems that learn from data by themselves to perform a task, without being explicitly programmed with the instructions to address it.",
+          "link": "https://machinelearningmastery.com/role-domain-knowledge-machine-learning/",
+          "publishedOn": "2025-02-11T11:00:16.000Z",
+          "wordCount": null,
+          "title": "The Role of Domain Knowledge in Machine Learning: Why Subject Matter Experts Matter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19041",
+          "author": "Iván Palomares Carrascosa",
+          "description": "LangChain is a robust framework conceived to simplify the developing of LLM-powered applications — with LLM, of course, standing for large language model.",
+          "link": "https://machinelearningmastery.com/10-useful-langchain-components-rag-system/",
+          "publishedOn": "2025-02-10T11:00:47.000Z",
+          "wordCount": null,
+          "title": "10 Useful LangChain Components for Your Next RAG System",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19033",
+          "author": "Cornellius Yudha Wijaya",
+          "description": "The surge of AI in general — and large language models (LLMs) in particular — is thanks to numerous research groups and companies racing to develop their most advanced models and demonstrate their potential use cases across broad domains.",
+          "link": "https://machinelearningmastery.com/building-first-multi-agent-system-beginner-guide/",
+          "publishedOn": "2025-02-07T19:19:54.000Z",
+          "wordCount": null,
+          "title": "Building Your First Multi-Agent System: A Beginner’s Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19026",
+          "author": "Jayita Gulati",
+          "description": "Time series forecasting helps predict future data using past information, useful in areas like finance, weather, and inventory.",
+          "link": "https://machinelearningmastery.com/time-series-forecasting-with-pycaret-building-multi-step-prediction-model/",
+          "publishedOn": "2025-02-07T18:18:31.000Z",
+          "wordCount": null,
+          "title": "Time Series Forecasting with PyCaret: Building Multi-Step Prediction Model",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=18958",
           "author": "Jayita Gulati",
@@ -2011,6 +2151,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=63810",
+          "author": "Bhomik Sharma",
+          "description": "Video generation models using the diffusion based approach for training are a significant advancement in the domain of Generative AI. Models like SORA and Veo 2 take the idea of creating images and apply them to generating video content, changing how we create and use digital media. They help create videos that show realistic human […]\nVideo Generation: A Diffusion based approach first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/video-generation-models/",
+          "publishedOn": "2025-02-18T14:00:00.000Z",
+          "wordCount": 9102,
+          "title": "Video Generation: A Diffusion based approach",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/02/timelapse_city_square.mp4",
+            "length": "1498154",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/02/featured_image.gif"
+        },
+        {
           "id": "https://learnopencv.com/?p=63582",
           "author": "Shubham",
           "description": "AI, being no longer confined to passive algorithms, is transforming itself into autonomous agents that can perceive, reason, and act with increasing intelligence. These agents are designed to navigate uncertainty, adapt to changing conditions, and exhibit common sense, marking a significant leap toward true machine intelligence. The rapid evolution of AI has ushered in an […]\nAgentic AI: A Comprehensive Introduction first appeared on LearnOpenCV.",
@@ -2099,6 +2254,94 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222285",
+          "author": "Nitika Sharma",
+          "description": "Just a few months ago, DeepSeek shook the AI world with its V3, R1, and Janus models. And recently, Elon Musk’s Grok 3 has joined the party! With the claim of being the smartest AI on Earth, expectations from Grok 3 are quite high. As per the official benchmarks shared by the xAI team at […]\nThe post Grok 3 vs DeepSeek R1: Which is Better? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/grok-3-vs-deepseek-r1/",
+          "publishedOn": "2025-02-18T21:11:32.000Z",
+          "wordCount": null,
+          "title": "Grok 3 vs DeepSeek R1: Which is Better?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222227",
+          "author": "Gourav Lohar",
+          "description": "NVIDIA Cosmos is a transformative platform that utilizes World Foundation Models (WFMs) to change the face of robotics training. The platform creates simulated environments in which robots can learn and adapt before real-world deployment by generating physically realistic videos. This article discusses the key components, risk mitigation strategies, and ethical considerations of using NVIDIA’s Cosmos-1.0-Diffusion […]\nThe post Generate Realistic Videos with NVIDIA COSMOS 1.0 Diffusion appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/nvidia-cosmos-1-0-diffusion/",
+          "publishedOn": "2025-02-18T16:09:30.000Z",
+          "wordCount": null,
+          "title": "Generate Realistic Videos with NVIDIA COSMOS 1.0 Diffusion",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222160",
+          "author": "Anu Madan",
+          "description": "It’s the season of 3’s – from OpenAI’s o3 models to now Grok 3, the latest launch by Elon Musk’s x.Ai’s – it is raining LLMs. The latest model which comes in two variants – Grok-3 and Grok-3 mini – brings a ton of features to Grok’s bucket. Although most of its new features have […]\nThe post Grok 3 vs o3-mini: Which Model is Better? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/grok-3-vs-o3-mini/",
+          "publishedOn": "2025-02-18T11:23:50.000Z",
+          "wordCount": null,
+          "title": "Grok 3 vs o3-mini: Which Model is Better?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222118",
+          "author": "Krishnaveni Ponna",
+          "description": "DeepSeek‑V3 is sparking a seismic shift in the AI arena. Developed by DeepSeek‑AI, this 671‑billion‑parameter Mixture‑of‑Experts (MoE) model trained on 14.8 trillion tokens challenges proprietary giants like GPT‑4o and Claude 3.5 Sonnet. With a design that dynamically allocates specialized “experts” for each input, DeepSeek‑V3 delivers high performance, cost efficiency, and unprecedented flexibility. Its open-source nature […]\nThe post 7 Real-world Applications of DeepSeek V3 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/real-world-applications-of-deepseek-v3/",
+          "publishedOn": "2025-02-18T10:31:44.000Z",
+          "wordCount": null,
+          "title": "7 Real-world Applications of DeepSeek V3",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222076",
+          "author": "Pankaj Singh",
+          "description": "During the early access phase of xAI’s Grok-3, AI enthusiasts, developers, and researchers have wasted no time pushing its limits and exploring its capabilities. From game development to reasoning tests, the first impressions suggest that Grok-3 is a serious contender in the AI space, rivalling OpenAI’s top-tier models, DeepSeek-R1, and Google’s Gemini. But what makes […]\nThe post Grok 3 in Action: Game Development, Reasoning, and Real-World Task appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/grok-3-performance-on-reasoning-and-generation-tasks/",
+          "publishedOn": "2025-02-18T07:49:06.000Z",
+          "wordCount": null,
+          "title": "Grok 3 in Action: Game Development, Reasoning, and Real-World Task",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222081",
+          "author": "Nitika Sharma",
+          "description": "Elon Musk just took us to Mars with the release of his xAI’s latest model – Grok 3! With its advanced reasoning and search capabilities, it aims to rival state-of-the-art models such as OpenAI’s o1-pro and DeepSeek-R1. Andrej Karpathy, a well-known AI researcher and former director of AI at Tesla, was given early access to […]\nThe post Andrej Karpathy’s First Look at Grok 3! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/andrej-karpathys-first-look-at-grok-3/",
+          "publishedOn": "2025-02-18T07:35:36.000Z",
+          "wordCount": null,
+          "title": "Andrej Karpathy’s First Look at Grok 3!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222002",
+          "author": "K.C. Sabreena Basheer",
+          "description": "Elon Musk has just unveiled x.AI’s latest model, Grok 3 – known to be the smartest and most powerful AI in the world. This new AI chatbot from x.AI comes with exceptional reasoning capabilities and advanced features like Deep Search. Trained on the powerful Colossus Supercomputer, Grok 3 proves to be a tough competitor to […]\nThe post Grok 3 is Here! And What It Can Do Will Blow Your Mind! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/grok-3/",
+          "publishedOn": "2025-02-18T06:04:48.000Z",
+          "wordCount": null,
+          "title": "Grok 3 is Here! And What It Can Do Will Blow Your Mind!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222010",
+          "author": "Pankaj Singh",
+          "description": "The AI race has a new champion. Grok-3, the latest AI model from xAI, has officially secured the #1 spot in Chatbot Arena, marking a historic achievement in artificial intelligence. Not only is Grok-3 leading across all categories, but it is also the first-ever model to surpass a score of 1400, setting a new benchmark […]\nThe post Grok-3 (codename “chocolate”) is now #1 in Chatbot Arena appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/grok-3-is-now-1-in-chatbot-arena/",
+          "publishedOn": "2025-02-18T05:56:49.000Z",
+          "wordCount": null,
+          "title": "Grok-3 (codename “chocolate”) is now #1 in Chatbot Arena",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=221990",
           "author": "Anu Madan",
@@ -3639,6 +3882,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/grok-3-and-an-accelerating-ai-roadmap",
+          "author": "Nathan Lambert",
+          "description": "Where AI is heading, why 2024 felt slow, and shifting priorities of frontier laboratories.",
+          "link": "https://www.interconnects.ai/p/grok-3-and-an-accelerating-ai-roadmap",
+          "publishedOn": "2025-02-18T20:20:39.000Z",
+          "wordCount": null,
+          "title": "Grok 3 and an accelerating AI roadmap",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a0cf710-e0f4-42b8-8305-cc64494e0e8c_1283x866.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a0cf710-e0f4-42b8-8305-cc64494e0e8c_1283x866.jpeg"
+        },
+        {
           "id": "https://www.interconnects.ai/p/an-unexpected-rl-renaissance",
           "author": "Nathan Lambert",
           "description": "New talk! Forecasting the Alpaca moment for reasoning models and why the new style of RL training is a far bigger deal than the emergence of RLHF.",
@@ -3757,6 +4016,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "8JTi7N3nQmjoRRuMD",
+          "author": "Shan Chen",
+          "description": "Published on February 18, 2025 10:16 PM GMT\n\nShan Chen, Jack Gallifant, Kuleen Sasse, Danielle Bitterman[1]\nPlease read this as a work in progress where we are colleagues sharing this in a lab (https://www.bittermanlab.org) meeting to help/motivate potential parallel research.\nTL;DR:\n\nRecent work has evaluated the generalizability of Sparse Autoencoder (SAE) features; this study examines their effectiveness in multimodal settings.\nWe evaluate feature extraction using a CIFAR-100-inspired explainable classification task, analyzing the impact of pooling strategies, binarization, and layer selection on performance.\nSAE features generalize effectively across multimodal domains and recover nearly 100% of the ViT performance (this LLaVA used).\nFeature extraction, particularly leveraging middle-l…",
+          "link": "https://www.alignmentforum.org/posts/8JTi7N3nQmjoRRuMD/are-sae-features-from-the-base-model-still-meaningful-to-1",
+          "publishedOn": "2025-02-18T22:16:14.000Z",
+          "wordCount": 16200,
+          "title": "Are SAE features from the Base Model still meaningful to LLaVA?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/CFas8nZgy6CchCci5/rpailbst9iyvmuznuxqj"
+        },
+        {
+          "id": "T6xSXiXF3WF6TmCyN",
+          "author": "Thane Ruthenis",
+          "description": "Published on February 18, 2025 6:04 PM GMT\n\nConsider concepts such as \"a vector\", \"a game-theoretic agent\", or \"a market\". Intuitively, those are \"purely theoretical\" abstractions: they don't refer to any specific real-world system. Those abstractions would be useful even in universes very different from ours, and reasoning about them doesn't necessarily involve reasoning about our world.\nConsider concepts such as \"a tree\", \"my friend Alice\", or \"human governments\". Intuitively, those are \"real-world\" abstractions. While \"a tree\" bundles together lots of different trees, and so doesn't refer to any specific tree, it still refers to a specific type of structure found on Earth, and shaped by Earth-in-particular's specific conditions. While tree-like structures can exist in other places in th…",
+          "link": "https://www.alignmentforum.org/posts/T6xSXiXF3WF6TmCyN/abstract-mathematical-concepts-vs-abstractions-over-real",
+          "publishedOn": "2025-02-18T18:04:47.000Z",
+          "wordCount": 9310,
+          "title": "Abstract Mathematical Concepts vs. Abstractions Over Real-World Systems",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "wqz5CRzqWkvzoatBG",
           "author": "Rohin Shah",
