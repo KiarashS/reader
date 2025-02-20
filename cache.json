@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=598124",
+          "author": "Salvatore Cagliari",
+          "description": "We all know the usual Time Intelligence function based on years, quarters, months, and days. But sometimes, we need to perform more exotic timer intelligence calculations. But we should not forget to consider performance while programming the measures.  Introduction  There are many DAX functions in Power BI for Time Intelligence Measures.  The most common are:  You […]\nThe post Advanced Time Intelligence in DAX with Performance in Mind appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/advanced-time-intelligence-in-dax-with-performance-in-mind/",
+          "publishedOn": "2025-02-20T00:05:46.000Z",
+          "wordCount": 6199,
+          "title": "Advanced Time Intelligence in DAX with Performance in Mind",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2022/01/1hrh2myh809uPgO82FtpMEg-scaled.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598147",
+          "author": "Luís Roque",
+          "description": "This post was co-authored with Rafael Guedes. Introduction Traditional models can only process a single type of data, such as text, images, or tabular data. Multimodality is a trending concept in the AI research community, referring to a model’s ability to learn from multiple types of data simultaneously. This new technology (not really new, but […]\nThe post Multimodal Search Engine Agents Powered by BLIP-2 and Gemini appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/multimodal-search-engine-agents-powered-by-blip-2-and-gemini/",
+          "publishedOn": "2025-02-19T22:01:52.000Z",
+          "wordCount": 5641,
+          "title": "Multimodal Search Engine Agents Powered by BLIP-2 and Gemini",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-1.10.54 PM-1024x1024.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598138",
+          "author": "Shuyang",
+          "description": "Large Language models (LLMs) have witnessed impressive progress and these large models can do a variety of tasks, from generating human-like text to answering questions. However, understanding how these models work still remains challenging, especially due a phenomenon called superposition where features are mixed into one neuron, making it very difficult to extract human understandable […]\nThe post Formulation of Feature Circuits with Sparse Autoencoders in LLM appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/formulation-of-feature-circuits-with-sparse-autoencoders-in-llm/",
+          "publishedOn": "2025-02-19T20:58:35.000Z",
+          "wordCount": 3685,
+          "title": "Formulation of Feature Circuits with Sparse Autoencoders in LLM",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/download.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598117",
+          "author": "Daniel Bentes",
+          "description": "27 days, 1,700+ commits, 99,9% AI generated code The narrative around AI development tools has become increasingly detached from reality. YouTube is filled with claims of building complex applications in hours using AI assistants. The truth? I spent 27 days building ObjectiveScope under a strict constraint: the AI tools would handle ALL coding, debugging, and […]\nThe post Zero Human Code: What I Learned from Forcing AI to Build (and Fix) Its Own Code for 27 Straight Days appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/zero-human-code-what-i-learned-from-forcing-ai-to-build-and-fix-its-own-code-for-27-straight-days/",
+          "publishedOn": "2025-02-19T19:03:44.000Z",
+          "wordCount": 4716,
+          "title": "Zero Human Code: What I Learned from Forcing AI to Build (and Fix) Its Own Code for 27 Straight Days",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-10.54.38 AM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=597916",
+          "author": "Vincent Margot",
+          "description": "Nowadays, data science projects do not end with the proof of concept; every project has the goal of being used in production. It is important, therefore, to deliver high-quality code. I have been working as a data scientist for more than ten years and I have noticed that juniors usually have a weak level in […]\nThe post Data Scientist: From School to Work, Part I appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-scientist-from-school-to-work-part-i/",
+          "publishedOn": "2025-02-19T12:00:00.000Z",
+          "wordCount": 3766,
+          "title": "Data Scientist: From School to Work, Part I",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/vincent-margot-img.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=598095",
           "author": "Claudia Ng",
           "description": "The customer support teams were drowning with the overwhelming volume of customer inquiries at every company I’ve worked at. Have you had similar experiences? What if I told you that you could use AI to automatically identify, categorize, and even resolve the most common issues? By fine-tuning a transformer model like BERT, you can build […]\nThe post How to Fine-Tune DistilBERT for Emotion Classification appeared first on Towards Data Science.",
@@ -1530,76 +1580,6 @@
           "wordCount": null,
           "title": "How Most Organizations Get Data Strategy Wrong — and How to Fix It",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ecaf251a6633",
-          "author": "Thuwarakesh Murallie",
-          "description": "How to measure how much of your RAG’s output is correct\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T13:02:15.000Z",
-          "wordCount": null,
-          "title": "RAG Isn’t Immune to LLM Hallucination",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7ab3709f65b8",
-          "author": "Daniel Pazmiño Vernaza",
-          "description": "",
-          "link": "https://towardsdatascience.com/five-key-lessons-for-google-earth-engine-beginners-7ab3709f65b8?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T12:02:25.000Z",
-          "wordCount": null,
-          "title": "Five Key Lessons for Google Earth Engine Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c0e308946463",
-          "author": "Sarah Lea",
-          "description": "From AI Agent to Human-In-The-Loop — Master 12 critical data concepts and turn them into simple projects to stay ahead in IT.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-concepts-data-professionals-should-know-in-2025-part-2-c0e308946463?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T11:02:03.000Z",
-          "wordCount": null,
-          "title": "The Concepts Data Professionals Should Know in 2025: Part 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c75f712eebe5",
-          "author": "Joris Baan",
-          "description": "",
-          "link": "https://towardsdatascience.com/designing-building-deploying-an-ai-chat-app-from-scratch-part-2-c75f712eebe5?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T10:02:27.000Z",
-          "wordCount": null,
-          "title": "Designing, Building & Deploying an AI Chat App from Scratch (Part 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/47e7e797801d",
-          "author": "Sarah Lea",
-          "description": "From Data Lakehouses to Event-Driven Architecture — Master 12 data concepts and turn them into simple projects to stay ahead in IT.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/the-concepts-data-professionals-should-know-in-2025-part-1-47e7e797801d?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-19T19:02:04.000Z",
-          "wordCount": 1357,
-          "title": "The Concepts Data Professionals Should Know in 2025: Part 1",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:633/1*9LZDYtyiWMOFANpYysumpg.png"
-        },
-        {
-          "id": "https://medium.com/p/80bba73a4247",
-          "author": "Derek Austin",
-          "description": "",
-          "link": "https://towardsdatascience.com/zero-shot-player-tracking-in-tennis-with-kalman-filtering-80bba73a4247?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-19T17:02:27.000Z",
-          "wordCount": null,
-          "title": "Zero-Shot Player Tracking in Tennis with Kalman Filtering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/23c8027e4021",
-          "author": "Jack Chang",
-          "description": "Mastering data logging in MLOps for your AI workflow",
-          "link": "https://towardsdatascience.com/how-to-log-your-data-with-mlflow-23c8027e4021?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-19T14:02:07.000Z",
-          "wordCount": 5471,
-          "title": "How to Log Your Data with MLflow",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*4hlmAC5vKBd9LmLX"
         }
       ]
     },
@@ -1827,6 +1807,31 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1122837",
+          "author": "Katja Hofmann",
+          "description": "Today Nature published Microsoft’s research detailing our WHAM, an AI model that generates video game visuals & controller actions. We are releasing the model weights, sample data, & WHAM Demonstrator on Azure AI Foundry, enabling researchers to build on the work.\nThe post Introducing Muse: Our first generative AI model designed for gameplay ideation appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/",
+          "publishedOn": "2025-02-19T16:05:46.000Z",
+          "wordCount": 4754,
+          "title": "Introducing Muse: Our first generative AI model designed for gameplay ideation",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/BE-Training-Data.mp4",
+            "length": "74674010",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/WHAM-TWLIFB-1200x627-1.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1130040",
+          "author": "Gretchen Huizinga, Dr. Chetan Nayak",
+          "description": "Microsoft announced the creation of the first topoconductor and first QPU architecture with a topological core. Dr. Chetan Nayak, a technical fellow of Quantum Hardware at the company, discusses how the breakthroughs are redefining the field of quantum computing.\nThe post Ideas: Quantum computing redefined with Chetan Nayak appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/podcast/ideas-quantum-computing-redefined-with-chetan-nayak/",
+          "publishedOn": "2025-02-19T16:04:49.000Z",
+          "wordCount": 12411,
+          "title": "Ideas: Quantum computing redefined with Chetan Nayak",
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Chetan-Nayak_Ideas_TW_LI_FB_1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1128279",
           "author": "Brenda Potts",
@@ -2254,6 +2259,72 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222483",
+          "author": "Anu Madan",
+          "description": "With 3.3M+ people watching the launch, Elon Musk and his team introduced the world to “Grok 3”, the most capable and powerful model by x.AI to date. The company that started in 2023 and got its last model (Grok 2) out in 2024, is now challenging models by top companies like OpenAI, Google, and Meta […]\nThe post Is 100K+ GPUs for Grok 3 worth it? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/is-100k-gpus-for-grok-3-worth-it/",
+          "publishedOn": "2025-02-19T19:36:32.000Z",
+          "wordCount": null,
+          "title": "Is 100K+ GPUs for Grok 3 worth it?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222471",
+          "author": "Nitika Sharma",
+          "description": "Satya Nadella just announced the release of Microsoft’s Majorana 1, the world’s first quantum processing unit (QPU) powered by a unique “Topological Core” architecture. The announcement has stirred some serious excitement in the quantum community. Majorana 1 is a step toward the future of quantum computing, promising to tackle problems that are currently too complex […]\nThe post Microsoft’s Majorana 1: Satya Nadella’s Bold Bet on Quantum Computing appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/microsofts-majorana-1/",
+          "publishedOn": "2025-02-19T18:39:21.000Z",
+          "wordCount": null,
+          "title": "Microsoft’s Majorana 1: Satya Nadella’s Bold Bet on Quantum Computing",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222452",
+          "author": "Harsh Mishra",
+          "description": "The establishment of benchmarks that faithfully replicate real-world tasks is essential in the rapidly developing field of artificial intelligence, especially in the software engineering domain. Samuel Miserendino and associates developed the SWE-Lancer benchmark to assess how well large language models (LLMs) perform freelancing software engineering tasks. Over 1,400 jobs totaling $1 million USD were taken […]\nThe post OpenAI’s SWE-Lancer Benchmark: Testing AI on $1 Million Worth of Freelance Coding Tasks appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/openais-swe-lancer-benchmark/",
+          "publishedOn": "2025-02-19T18:01:02.000Z",
+          "wordCount": null,
+          "title": "OpenAI’s SWE-Lancer Benchmark: Testing AI on $1 Million Worth of Freelance Coding Tasks",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222320",
+          "author": "Maigari David",
+          "description": "MobileNet is an open-source model created to support the emergence of smartphones. It uses a CNN architecture to perform computer vision tasks such as image classification and object detection. Models using this architecture usually require a lot of computational cost and hardware resources, but MobileNet was made to work with mobile devices and embedding.  Over […]\nThe post Exploring the Efficiency of Image Classification With MobileNetV2 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/image-classification-with-mobilenetv2-model/",
+          "publishedOn": "2025-02-19T11:20:48.000Z",
+          "wordCount": null,
+          "title": "Exploring the Efficiency of Image Classification With MobileNetV2",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222344",
+          "author": "Pankaj Singh",
+          "description": "Grok is an advanced AI model developed by xAI, the artificial intelligence company founded by Elon Musk. Unlike many mainstream language models, Grok is designed to be less restricted and more open in its responses compared to ChatGPT (by OpenAI) or Claude (by Anthropic). It aims to provide an unbiased, truth-seeking AI experience, making it […]\nThe post “Grok 2 is Going to be Open Source:  Here’s What You Can Do With It! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/hands-on-grok-2-model/",
+          "publishedOn": "2025-02-19T11:12:27.000Z",
+          "wordCount": null,
+          "title": "“Grok 2 is Going to be Open Source:  Here’s What You Can Do With It!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222163",
+          "author": "Neil D",
+          "description": "DeepSeek has taken the world of natural language processing by storm. With its impressive scale and performance, this cutting-edge model excels in tasks like question answering and text summarization. Its ability to handle nuanced understanding makes it a game-changer across industries. Fine-tuning enhances its power, adapting it to niche needs and delivering precise results quickly. […]\nThe post GRPO Fine-Tuning on DeepSeek-7B with Unsloth appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/grpo-fine-tuning-on-deepseek-7b/",
+          "publishedOn": "2025-02-19T05:25:00.000Z",
+          "wordCount": null,
+          "title": "GRPO Fine-Tuning on DeepSeek-7B with Unsloth",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=222285",
           "author": "Nitika Sharma",
@@ -3793,50 +3864,6 @@
           "title": "Enhancing Sentiment Analysis with ModernBERT",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216203",
-          "author": "seematiwari0116 .",
-          "description": "Current text embedding models, like BERT, are limited to processing only 512 tokens at a time, which hinders their effectiveness with long documents. This limitation often results in loss of context and nuanced understanding. However, Jina Embeddings v2 addresses this issue by supporting sequences upto 8192 tokens, allowing for the preservation of context and enhancing […]\nThe post Jina Embeddings v2: Handling Long Documents Made Easy appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/jina-embeddings-v2/",
-          "publishedOn": "2025-01-20T11:41:03.000Z",
-          "wordCount": null,
-          "title": "Jina Embeddings v2: Handling Long Documents Made Easy",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215950",
-          "author": "Nibedita Dutta",
-          "description": "ModernBERT is an advanced iteration of the original BERT model, meticulously crafted to elevate performance and efficiency in natural language processing (NLP) tasks. For developers, working in machine learning, this model introduces a host of modern architectural enhancements and innovative training techniques that significantly broaden its applicability. With an impressive context length of 8,192 tokens—far […]\nThe post Unlocking RAG’s Potential with ModernBERT appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/unlocking-rags-potential-with-modernbert/",
-          "publishedOn": "2025-01-20T09:10:26.000Z",
-          "wordCount": null,
-          "title": "Unlocking RAG’s Potential with ModernBERT",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216461",
-          "author": "K.C. Sabreena Basheer",
-          "description": "Preparing for a job interview can be a daunting experience, but with the right tools and strategies, it can become an opportunity to showcase your skills and confidence. And to achieve this, ChatGPT, especially with its Voice Mode, can assist you in your interview preparations as your virtual coach! It can help you practice, refine, […]\nThe post How to Prepare for a Job Interview with ChatGPT? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/prepare-for-a-job-interview-with-chatgpt/",
-          "publishedOn": "2025-01-20T09:00:11.000Z",
-          "wordCount": null,
-          "title": "How to Prepare for a Job Interview with ChatGPT?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216428",
-          "author": "Pankaj Singh",
-          "description": "When LLMs first arrived, they impressed the world with their scale and capabilities. But then came their sleeker, more efficient cousins—small language models (SLMs). Compact, nimble, and surprisingly powerful, SLMs are proving that bigger isn’t always better. As we head into 2025, the focus is squarely on unlocking the potential of these smaller, smarter models. […]\nThe post Phi-4 vs GPT-4o-mini Face-Off appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/phi-4-vs-gpt-4o-mini/",
-          "publishedOn": "2025-01-19T15:58:18.000Z",
-          "wordCount": null,
-          "title": "Phi-4 vs GPT-4o-mini Face-Off",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3881,6 +3908,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/artifacts-7",
+          "author": "Nathan Lambert",
+          "description": "Artifacts Log 7. It'll continue to be a fun spring for AI researchers and practitioners.",
+          "link": "https://www.interconnects.ai/p/artifacts-7",
+          "publishedOn": "2025-02-19T19:03:05.000Z",
+          "wordCount": null,
+          "title": "The latest open artifacts (#7): Alpaca era of reasoning models, China's continued dominance, and tons of multimodal advancements",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8c9fc29-d070-40a9-aa6e-548ec4a81714_1792x629.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8c9fc29-d070-40a9-aa6e-548ec4a81714_1792x629.jpeg"
+        },
         {
           "id": "https://www.interconnects.ai/p/grok-3-and-an-accelerating-ai-roadmap",
           "author": "Nathan Lambert",
@@ -4016,6 +4059,36 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "QyaJQ82FSsKXrvj7t",
+          "author": "Joe Carlsmith",
+          "description": "Published on February 19, 2025 7:44 PM GMT\n\n(Audio version here (read by the author), or search for \"Joe Carlsmith Audio\" on your podcast app.\nThis is the second essay in a series that I’m calling “How do we solve the alignment problem?”.[1]I’m hoping that the individual essays can be read fairly well on their own, but see this introduction for a summary of the essays that have been released thus far, and for a bit more about the series as a whole.)\n1. Introduction\nIn my last essay, I defined what it would be to solve the alignment problem: namely, building full-blown superintelligent AI agents, and safely eliciting their main beneficial capabilities, while avoiding a “loss of control” scenario. In this essay, I say more about when this problem needs solving.\nIn particular: I specify three…",
+          "link": "https://www.alignmentforum.org/posts/QyaJQ82FSsKXrvj7t/when-should-we-worry-about-ai-power-seeking",
+          "publishedOn": "2025-02-19T19:44:25.000Z",
+          "wordCount": 74354,
+          "title": "When should we worry about AI power-seeking?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QyaJQ82FSsKXrvj7t/wic1qymgfpibxknlro4m"
+        },
+        {
+          "id": "TTFsKxQThrqgWeXYJ",
+          "author": "Josh Clymer",
+          "description": "Published on February 19, 2025 5:48 PM GMT\n\nMy goal as an AI safety researcher is to put myself out of a job.\nI don’t worry too much about how planet sized brains will shape galaxies in 100 years. That’s something for AI systems to figure out.\nInstead, I worry about safely replacing human researchers with AI agents, at which point human researchers are “obsolete.” The situation is not necessarily fine after human obsolescence; however, the bulk of risks that are addressable by human technical researchers (like me) will have been addressed.\nThis post explains how developers might safely “pass the buck” to AI.\nI first clarify what I mean by “pass the buck” (section 1) and explain why I think AI safety researchers should make safely passing the buck their primary end goal – rather than focus …",
+          "link": "https://www.alignmentforum.org/posts/TTFsKxQThrqgWeXYJ/how-might-we-safely-pass-the-buck-to-ai",
+          "publishedOn": "2025-02-19T17:48:33.000Z",
+          "wordCount": 53110,
+          "title": "How might we safely pass the buck to AI?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/TTFsKxQThrqgWeXYJ/aytiitcetjmaymyarwf0"
+        },
+        {
+          "id": "sfucF8Mhcn7zmWQ8Y",
+          "author": "Stuart Armstrong",
+          "description": "Published on February 19, 2025 12:39 PM GMT\n\nWith many thanks to Sasha Frangulov for comments and editing\nBefore publishing their o1-preview model system card on Sep 12, 2024, OpenAI tested the model on various safety benchmarks which they had constructed. These included benchmarks which aimed to evaluate whether the model could help with the development of Chemical, Biological, Radiological, and Nuclear (CBRN) weapons. They concluded that the model could help experts develop some of these weapons, but could not help novices:\n\nSummary: Our evaluations found that o1-preview and o1-mini can help experts with the operational planning of reproducing a known biological threat, which meets our medium risk threshold. Because such experts already have significant domain expertise, this risk is lim…",
+          "link": "https://www.alignmentforum.org/posts/sfucF8Mhcn7zmWQ8Y/using-prompt-evaluation-to-combat-bio-weapon-research",
+          "publishedOn": "2025-02-19T12:39:00.000Z",
+          "wordCount": 7658,
+          "title": "Using Prompt Evaluation to Combat Bio-Weapon Research",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/sfucF8Mhcn7zmWQ8Y/wot5ys0myrv6idkwmlyb"
+        },
         {
           "id": "8JTi7N3nQmjoRRuMD",
           "author": "Shan Chen",
@@ -4445,16 +4518,6 @@
           "wordCount": 109613,
           "title": "GPT-2 constructs a bag-of-tokens to represent context",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QoFxZNG7bXishtxsv/noipei8ldsifnnd4zo5l"
-        },
-        {
-          "id": "MpLmcLBiEbpzv2awg",
-          "author": "DanielFilan",
-          "description": "Published on January 20, 2025 12:40 AM GMT\n\nYouTube link\nSuppose we’re worried about AIs engaging in long-term plans that they don’t tell us about. If we were to peek inside their brains, what should we look for to check whether this was happening? In this episode Adrià Garriga-Alonso talks about his work trying to answer this question.\nTopics we discuss:\nThe Alignment Workshop\nHow to detect scheming AIs\nSokoban-solving networks taking time to think\nModel organisms of long-term planning\nHow and why to study planning in networks\nDaniel Filan (00:09):\nHello, everyone. This is one of a series of short interviews that I’ve been conducting at the Bay Area Alignment Workshop, which is run by FAR.AI. Links to what we’re discussing, as usual, are in the description. A transcript is, as usual, avai…",
-          "link": "https://www.alignmentforum.org/posts/MpLmcLBiEbpzv2awg/axrp-episode-38-5-adria-garriga-alonso-on-detecting-ai",
-          "publishedOn": "2025-01-20T00:40:07.000Z",
-          "wordCount": 25854,
-          "title": "AXRP Episode 38.5 - Adrià Garriga-Alonso on Detecting AI Scheming",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
