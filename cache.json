@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=598248",
+          "author": "Uladzimir Yancharuk",
+          "description": "For a long time, one of the common ways to start new Node.js projects was using boilerplate templates. These templates help developers reuse familiar code structures and implement standard features, such as access to cloud file storage. With the latest developments in LLM, project boilerplates appear to be more useful than ever. Building on this […]\nThe post How to Use an LLM-Powered Boilerplate for Building Your Own Node.js API appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-an-llm-powered-boilerplate-for-building-your-own-node-js-api/",
+          "publishedOn": "2025-02-21T00:15:23.000Z",
+          "wordCount": 3902,
+          "title": "How to Use an LLM-Powered Boilerplate for Building Your Own Node.js API",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_tL634zTbl6dWb0sqGoFELg-1.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598221",
+          "author": "Lee Vaughan",
+          "description": "If you’re an Anaconda user, you know that conda environments help you manage package dependencies, avoid compatibility conflicts, and share your projects with others. Unfortunately, they can also take over your computer’s hard drive. I write lots of computer tutorials and to keep them organized, each has a dedicated folder structure complete with a conda environment. This […]\nThe post Don’t Let Conda Eat Your Hard Drive appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/dont-let-conda-eat-your-hard-drive/",
+          "publishedOn": "2025-02-20T21:29:54.000Z",
+          "wordCount": 4982,
+          "title": "Don’t Let Conda Eat Your Hard Drive",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_ZEhPKpVuIcBBhtAP5mqqfQ.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598190",
+          "author": "Mauro Di Pietro",
+          "description": "Intro AI Agents are autonomous programs that perform tasks, make decisions, and communicate with others. Normally, they use a set of tools to help complete tasks. In GenAI applications, these Agents process sequential reasoning and can use external tools (like web searches or database queries) when the LLM knowledge isn’t enough. Unlike a basic chatbot, […]\nThe post AI Agents from Zero to Hero – Part 1 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-1/",
+          "publishedOn": "2025-02-20T17:04:03.000Z",
+          "wordCount": 4130,
+          "title": "AI Agents from Zero to Hero – Part 1",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-20-at-8.49.05 AM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598159",
+          "author": "Sarah Lea",
+          "description": "“I train models, analyze data and create dashboards — why should I care about containers?” Many people who are new to the world of data science ask themselves this question. But imagine you have trained a model that runs perfectly on your laptop. However, error messages keep popping up in the cloud when others access […]\nThe post Why Data Scientists Should Care about Containers — and Stand Out with This Knowledge appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-data-scientists-should-care-about-containers-and-stand-out-with-this-knowledge/",
+          "publishedOn": "2025-02-20T04:51:55.000Z",
+          "wordCount": 5042,
+          "title": "Why Data Scientists Should Care about Containers — and Stand Out with This Knowledge",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_12iyUUWQiMEcDeFX95rTbA.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=598124",
           "author": "Salvatore Cagliari",
           "description": "We all know the usual Time Intelligence function based on years, quarters, months, and days. But sometimes, we need to perform more exotic timer intelligence calculations. But we should not forget to consider performance while programming the measures.  Introduction  There are many DAX functions in Power BI for Time Intelligence Measures.  The most common are:  You […]\nThe post Advanced Time Intelligence in DAX with Performance in Mind appeared first on Towards Data Science.",
@@ -1500,86 +1540,6 @@
           "wordCount": null,
           "title": "Build your own Annotation Tool for Image Classification in 5 Minutes",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3723ac92c926",
-          "author": "Stephan Hausberg",
-          "description": "How graph theory can save you hours for your next city trip!\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/urban-graph-networks-3723ac92c926?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T13:02:05.000Z",
-          "wordCount": null,
-          "title": "Urban Graph Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/18e8de184af1",
-          "author": "Eric Broda",
-          "description": "Enterprise-grade capabilities will make or break the future of agent adoption. Without them, agents adoption will collapse.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/agentic-mesh-towards-enterprise-grade-agents-18e8de184af1?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T12:02:22.000Z",
-          "wordCount": null,
-          "title": "Agentic Mesh: Towards Enterprise-Grade Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/693fc027c75e",
-          "author": "Kaushik Rajan",
-          "description": "How Meta-CoT enhances system 2 reasoning for complex AI challenges\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/advancing-ai-reasoning-meta-cot-and-system-2-thinking-693fc027c75e?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T19:48:52.000Z",
-          "wordCount": 1225,
-          "title": "Advancing AI Reasoning: Meta-CoT and System 2 Thinking",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DoJKzBbbPx8HVpnEj08dKw.png"
-        },
-        {
-          "id": "https://medium.com/p/7d0bca755adb",
-          "author": "Bernd Wessely",
-          "description": "Here’s how your data retains its business relevance as it travels through your enterprise\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/modern-data-and-application-engineering-breaks-the-loss-of-business-context-7d0bca755adb?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T19:10:22.000Z",
-          "wordCount": null,
-          "title": "Modern Data And Application Engineering Breaks the Loss of Business Context",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a9516cb880d5",
-          "author": "Jaemin Han",
-          "description": "How being bad at art can be so dangerous",
-          "link": "https://towardsdatascience.com/why-llms-suck-at-ascii-art-a9516cb880d5?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T18:38:20.000Z",
-          "wordCount": 4773,
-          "title": "Why LLMs Suck at ASCII Art",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*mk5ttl4Gdg-cXRhRe-vZTw.png"
-        },
-        {
-          "id": "https://medium.com/p/9441db646697",
-          "author": "Thomas Reid",
-          "description": "Using the streamlit Python library\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/building-a-data-dashboard-9441db646697?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T18:28:23.000Z",
-          "wordCount": null,
-          "title": "Building a Data Dashboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f84407f263c3",
-          "author": "Dr. Marcel Müller",
-          "description": "",
-          "link": "https://towardsdatascience.com/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T18:22:28.000Z",
-          "wordCount": null,
-          "title": "Why Generative-AI Apps’ Quality Often Sucks and What to Do About It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b8afa59f1533",
-          "author": "Jens Linden, PhD",
-          "description": "",
-          "link": "https://towardsdatascience.com/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-20T18:12:02.000Z",
-          "wordCount": null,
-          "title": "How Most Organizations Get Data Strategy Wrong — and How to Fix It",
-          "imageUrl": null
         }
       ]
     },
@@ -1737,26 +1697,6 @@
           "wordCount": null,
           "title": "3 Easy Ways to Fine-Tune Language Models",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18897",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Retrieval augmented generation (RAG) has become a vital technique in contemporary AI systems, allowing large language models (LLMs) to integrate external data in real time.",
-          "link": "https://machinelearningmastery.com/5-python-libraries-build-optimized-rag-system/",
-          "publishedOn": "2025-01-21T11:00:16.000Z",
-          "wordCount": null,
-          "title": "5 Python Libraries to Build an Optimized RAG System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18882",
-          "author": "Cornellius Yudha Wijaya",
-          "description": "Machine learning continues to provide benefits of all sorts that have become integrated within society, meaning that a career in machine learning will only become more important with time.",
-          "link": "https://machinelearningmastery.com/future-proof-machine-learning-career-2025/",
-          "publishedOn": "2025-01-20T14:42:41.000Z",
-          "wordCount": null,
-          "title": "Future-Proof Your Machine Learning Career in 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -1807,6 +1747,21 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1129428",
+          "author": "Sarah Lewis, Tim Hempel, Jose Jimenez-Luna, Michael Gastegger, Yu Xie, Victor García Satorras, Osama Abdin, Bas Veeling, Ryota Tomioka, Frank Noé",
+          "description": "Meet BioEmu-1 from Microsoft Research. This deep learning model can generate thousands of protein structures per hour, unlocking new possibilities for protein scientists and drug discovery and research.\nThe post Exploring the structural changes driving protein function with BioEmu-1 appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/exploring-the-structural-changes-driving-protein-function-with-bioemu-1/",
+          "publishedOn": "2025-02-20T15:13:22.000Z",
+          "wordCount": 3405,
+          "title": "Exploring the structural changes driving protein function with BioEmu-1",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Figure-1.mov",
+            "length": "20730985",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/BioEmu-1-TWLIFB-1200x627-2.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1122837",
           "author": "Katja Hofmann",
@@ -2124,17 +2079,6 @@
           "title": "Week Ending 1.26.2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:678e6328b1c58660abe1733d",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw-p3bpn",
-          "publishedOn": "2025-01-20T14:53:38.000Z",
-          "wordCount": null,
-          "title": "Week Ending 1.19.2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2155,6 +2099,21 @@
       "feedUrl": "https://learnopencv.com/feed/",
       "siteUrl": "https://learnopencv.com",
       "articles": [
+        {
+          "id": "https://learnopencv.com/?p=64874",
+          "author": "Bhomik Sharma",
+          "description": "Real-time object detection has become essential for many practical applications, and the YOLO (You Only Look Once) series by Ultralytics has always been a state-of-the-art model series, providing a robust balance between speed and accuracy. The inefficiencies of attention mechanisms have hindered their adoption in high-speed systems like YOLO. YOLOv12 aims to change this by integrating attention […]\nYOLOv12: Attention Meets Speed first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/yolov12/",
+          "publishedOn": "2025-02-20T14:08:19.000Z",
+          "wordCount": 6104,
+          "title": "YOLOv12: Attention Meets Speed",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/02/automobile_yolov12_inf_result.mp4",
+            "length": "28538804",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2017/12/favicon.png"
+        },
         {
           "id": "https://learnopencv.com/?p=63810",
           "author": "Bhomik Sharma",
@@ -2259,6 +2218,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222644",
+          "author": "Nitika Sharma",
+          "description": "Figure AI has just released the documentation and demos for its latest humanoid robot, Helix. Helix is built on a Vision-Language-Action (VLA) framework, designed to enable humanoid robots to reason and operate with human-like capabilities. This approach aims to tackle the challenge of scaling robotics from controlled industrial environments to the unpredictable, varied settings of […]\nThe post Figure’s Helix: AI that Brings Human-Like Robots to your Home appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/figures-helix/",
+          "publishedOn": "2025-02-20T16:47:59.000Z",
+          "wordCount": null,
+          "title": "Figure’s Helix: AI that Brings Human-Like Robots to your Home",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222590",
+          "author": "Sumit Gupta",
+          "description": "If you’re working with AI/ML workloads(like me)  and trying to figure out which data format to choose, this post is for you. Whether you’re a student, analyst, or engineer, knowing the differences between Apache Iceberg, Delta Lake, and Apache Hudi can save you a ton of headaches when it comes to performance, scalability, and real-time […]\nThe post Apache Iceberg vs Delta Lake vs Hudi: Best Open Table Format for AI/ML Workloads appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/open-table-format-for-ai-ml-workload/",
+          "publishedOn": "2025-02-20T12:38:03.000Z",
+          "wordCount": null,
+          "title": "Apache Iceberg vs Delta Lake vs Hudi: Best Open Table Format for AI/ML Workloads",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222513",
+          "author": "Krishnaveni Ponna",
+          "description": "The AI industry is divided between two powerful philosophies – Open-source democratization and proprietary innovation. OLMo 2(Open Language Model 2), developed by AllenAI, represents the pinnacle of transparent AI development with full public access to its architecture and training data. In contrast, Claude 3.5 Sonnet, Anthropic’s flagship model, prioritizes commercial-grade coding capabilities and multimodal reasoning […]\nThe post OLMo 2 vs. Claude 3.5 Sonnet: Which is Better? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/olmo-2-vs-claude-3-5-sonnet/",
+          "publishedOn": "2025-02-20T12:25:23.000Z",
+          "wordCount": null,
+          "title": "OLMo 2 vs. Claude 3.5 Sonnet: Which is Better?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222410",
+          "author": "Kabyik Kayal",
+          "description": "Python has become the lingua franca for scientific computing and data visualization, thanks in large part to its rich ecosystem of libraries. One such tool that has been a favourite among researchers and practitioners alike is PyLab. In this article, we will delve into the world of PyLab, exploring its origins, features, practical use cases, […]\nThe post A Quick Guide to PyLab appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/pylab/",
+          "publishedOn": "2025-02-20T05:09:00.000Z",
+          "wordCount": null,
+          "title": "A Quick Guide to PyLab",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=222483",
           "author": "Anu Madan",
@@ -3776,94 +3779,6 @@
           "title": "DeepSeek-V3 vs GPT-4o vs Llama 3.3 70B – Let the Best AI Model Win",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216799",
-          "author": "Pankaj Singh",
-          "description": "The DeepSeek R1 has arrived, and it’s not just another AI model—it’s a significant leap in AI capabilities, trained upon the previously released DeepSeek-V3-Base variant. With the full-fledged release of DeepSeek R1, it now stands on par with OpenAI o1 in both performance and flexibility. What makes it even more compelling is its open weight […]\nThe post DeepSeek R1 vs OpenAI o1: Which One is Faster, Cheaper and Smarter? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/deepseek-r1-vs-openai-o1/",
-          "publishedOn": "2025-01-21T13:04:32.000Z",
-          "wordCount": null,
-          "title": "DeepSeek R1 vs OpenAI o1: Which One is Faster, Cheaper and Smarter?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216802",
-          "author": "Anu Madan",
-          "description": "The day OpenAI released the o1 model, there was chatter everywhere that we are now closer to AGI than ever. While AGI (Artificial General Intelligence) still looms somewhere in the future, we do have the o1 model. However, it isn’t really accessible to many, thanks to its whopping ticket price of $200 per month. Now […]\nThe post DeepSeek R1 vs OpenAI o1 vs Sonnet 3.5: Battle of the Best LLMs appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/deepseek-r1-vs-openai-o1-vs-sonnet-3-5/",
-          "publishedOn": "2025-01-21T12:59:23.000Z",
-          "wordCount": null,
-          "title": "DeepSeek R1 vs OpenAI o1 vs Sonnet 3.5: Battle of the Best LLMs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216792",
-          "author": "Nitika Sharma",
-          "description": "Are you tired of staring at your screen, waiting for your Pandas code to process a large dataset? In the world of data science, efficiency is paramount. As datasets grow larger and more complex, the need for faster and more efficient tools becomes increasingly critical. If you’ve ever found yourself waiting endlessly for Pandas to […]\nThe post Say Goodbye to Slow Data: FireDucks is 125x Faster Than Pandas appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/fireducks/",
-          "publishedOn": "2025-01-21T12:47:51.000Z",
-          "wordCount": null,
-          "title": "Say Goodbye to Slow Data: FireDucks is 125x Faster Than Pandas",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216677",
-          "author": "karthik3852845",
-          "description": "Don’t know much about Bitcoin or its price fluctuations but want to make investment decisions to make profits? This machine learning model has your back. It can predict the prices way better than an astrologer. In this article, we will build an ML model for forecasting and predicting Bitcoin price, using ZenML and MLflow. So […]\nThe post Predicting Bitcoin Price in Real-Time using MLOps appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/predicting-bitcoin-price-in-real-time-using-mlops/",
-          "publishedOn": "2025-01-21T12:40:49.000Z",
-          "wordCount": null,
-          "title": "Predicting Bitcoin Price in Real-Time using MLOps",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216692",
-          "author": "Anu Madan",
-          "description": "DeepSeek AI has just released its highly anticipated DeepSeek R1 reasoning models, setting new standards in the world of generative artificial intelligence. With a focus on reinforcement learning (RL) and an open-source ethos, DeepSeek-R1 delivers advanced reasoning capabilities while being accessible to researchers and developers around the world. The model is set to compete with […]\nThe post DeepSeek R1- OpenAI’s o1 Biggest Competitor is HERE! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/deepseek-r1/",
-          "publishedOn": "2025-01-21T05:57:28.000Z",
-          "wordCount": null,
-          "title": "DeepSeek R1- OpenAI’s o1 Biggest Competitor is HERE!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216026",
-          "author": "Tarun R Jain",
-          "description": "Have you ever found yourself staring at a product’s ingredients list, googling unfamiliar chemical names to figure out what they mean? It’s a common struggle – deciphering complex product information on the spot can be overwhelming and time-consuming. Traditional methods, like searching for each ingredient individually, often lead to fragmented and confusing results. But what […]\nThe post Build a Multimodal Agent for Product Ingredient Analysis appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/product-ingredient-analyzer/",
-          "publishedOn": "2025-01-20T16:47:31.000Z",
-          "wordCount": null,
-          "title": "Build a Multimodal Agent for Product Ingredient Analysis",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216294",
-          "author": "Nibedita Dutta",
-          "description": "Multi-agent systems (MAS) represent a transformative approach in artificial intelligence, where multiple autonomous agents collaborate to solve complex problems and achieve shared goals. These systems excel in scenarios requiring specialization and adaptability, making them ideal for various applications, from automated trading to multi-robot coordination. With the advent of GripTape, creating multi-agent systems has become more […]\nThe post Building Scalable Multi-Agent Systems(MAS) Using GripTape appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/griptape-driven-automation/",
-          "publishedOn": "2025-01-20T16:32:37.000Z",
-          "wordCount": null,
-          "title": "Building Scalable Multi-Agent Systems(MAS) Using GripTape",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215953",
-          "author": "Aditi V",
-          "description": "Since its introduction in 2018, BERT has transformed Natural Language Processing. It performs well in tasks like sentiment analysis, question answering, and language inference. Using bidirectional training and transformer-based self-attention, BERT introduced a new way to understand relationships between words in text. However, despite its success, BERT has limitations. It struggles with computational efficiency, handling […]\nThe post Enhancing Sentiment Analysis with ModernBERT appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/sentiment-analysis-using-modernbert/",
-          "publishedOn": "2025-01-20T16:14:31.000Z",
-          "wordCount": null,
-          "title": "Enhancing Sentiment Analysis with ModernBERT",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -4035,22 +3950,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1",
-          "author": "Nathan Lambert",
-          "description": "Yes, ring the true o1 replication bells for DeepSeek R1 🔔🔔🔔. Where we go next.",
-          "link": "https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1",
-          "publishedOn": "2025-01-21T13:01:40.000Z",
-          "wordCount": null,
-          "title": "DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2f93598d-e3e4-4f7f-8452-c4d5f1501e94_1280x720.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2f93598d-e3e4-4f7f-8452-c4d5f1501e94_1280x720.png"
         }
       ]
     },
@@ -4488,36 +4387,6 @@
           "wordCount": 5134,
           "title": "Training on Documents About Reward Hacking Induces Reward Hacking",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qXYLvjGL9QvD3aFSW/a2oitn8mjpixcojnmg4n"
-        },
-        {
-          "id": "6P8GYb4AjtPXx6LLB",
-          "author": "John Hughes",
-          "description": "Published on January 20, 2025 10:31 PM GMT\n\nOur research is centered on empirical research with LLMs. If you are conducting similar research, these tips and tools may help streamline your workflow and increase experiment velocity. We are also releasing two repositories to promote sharing more tooling within the AI safety community.\nJohn Hughes is an independent alignment researcher working with Ethan Perez and was a MATS mentee in the Summer of 2023. In Ethan's previous writeup on research tips, he explains the criteria that strong collaborators often have, and he puts 70% weight on \"getting ideas to work quickly.\" Part of being able to do this is knowing what tools there are at your disposal.\nThis post, written primarily by John, shares the tools and principles we both use to increase our…",
-          "link": "https://www.alignmentforum.org/posts/6P8GYb4AjtPXx6LLB/tips-and-code-for-empirical-research-workflows",
-          "publishedOn": "2025-01-20T22:31:51.000Z",
-          "wordCount": 30240,
-          "title": "Tips and Code for Empirical Research Workflows",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "QoFxZNG7bXishtxsv",
-          "author": "Alex Gibson",
-          "description": "Published on January 20, 2025 1:24 PM GMT\n\nOverview:\nThrough mathematical analysis of GPT-2 small's first-layer attention patterns, I find six attention heads whose combined output can be approximated as a \"bag-of-tokens\" representation of the previous ~50 tokens. The combined output of these attention heads can be approximated as a weighted sum of extended embeddings of tokens, where the weight of a particular token depends only on its position relative to the current position.\nThe model can use this bag-of-tokens for lots of downstream tasks. The bag-of-tokens of input sequences with distinct token distributions will naturally linearly separate, allowing the model to learn contextual features by projecting the bag-of-tokens along directions corresponding to particular distributions of to…",
-          "link": "https://www.alignmentforum.org/posts/QoFxZNG7bXishtxsv/contextual-attention-heads-in-the-first-layer-of-gpt-2",
-          "publishedOn": "2025-01-20T14:12:54.000Z",
-          "wordCount": 108946,
-          "title": "Contextual attention heads in the first layer of GPT-2",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QoFxZNG7bXishtxsv/noipei8ldsifnnd4zo5l"
-        },
-        {
-          "id": "QoFxZNG7bXishtxsv",
-          "author": "Alex Gibson",
-          "description": "Published on January 20, 2025 1:24 PM GMT\n\nOverview:\nA common approach to Mechanistic Interpretability is to start from a task we know a particular model can perform, and attempt to work backwards to find the circuitry that enables this model to perform the task.\nFocusing on a narrow distribution makes the model’s behaviour easier to study because we can observe it fully within this limited scope. However, it's often hard to generalise insights from this narrow distribution to the full input distribution. \nWe can sometimes take model components identified from studying a narrow distribution and empirically study them on the full input distribution. But this risks overlooking components that don't appear in sparse subgraphs of computational graphs of algorithmic tasks. \nIn this post, instea…",
-          "link": "https://www.alignmentforum.org/posts/QoFxZNG7bXishtxsv/gpt-2-constructs-a-bag-of-tokens-to-represent-context",
-          "publishedOn": "2025-01-20T14:12:54.000Z",
-          "wordCount": 109613,
-          "title": "GPT-2 constructs a bag-of-tokens to represent context",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QoFxZNG7bXishtxsv/noipei8ldsifnnd4zo5l"
         }
       ]
     }
