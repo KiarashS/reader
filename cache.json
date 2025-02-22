@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=598363",
+          "author": "Torty Sivill",
+          "description": "Leverage the BasicVAE architecture to generate synthetic data and improves the classification accuracy on an imbalanced dataset\nThe post The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/",
+          "publishedOn": "2025-02-21T23:42:07.000Z",
+          "wordCount": 4842,
+          "title": "The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-21-at-3.23.40 PM-1024x680.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598313",
+          "author": "Erin Wilson",
+          "description": "An overly-enthusiastic application of science and data visualization to a question we’ve all been asking\nThe post Do European M&Ms Actually Taste Better than American M&Ms? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/do-european-mms-actually-taste-better-than-american-mms/",
+          "publishedOn": "2025-02-21T21:52:58.000Z",
+          "wordCount": 6843,
+          "title": "Do European M&Ms Actually Taste Better than American M&Ms?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_oXC0efZOtJpRcg1Wh39olA.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598289",
+          "author": "Dorian Drost",
+          "description": "Game Theory 101: terms and concepts\nThe post Talking about Games appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/talking-about-games/",
+          "publishedOn": "2025-02-21T19:14:25.000Z",
+          "wordCount": 5055,
+          "title": "Talking about Games",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-21-at-9.57.34 AM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598259",
+          "author": "Jingyi Jessica Li",
+          "description": "The article was written by Guanao Yan, Ph.D. student of Statistics and Data Science at UCLA. Guanao is the first author of the Nature Communications review article [1]. Spatially resolved transcriptomics (SRT) is revolutionizing genomics by enabling the high-throughput measurement of gene expression while preserving spatial context. Unlike single-cell RNA sequencing (scRNA-seq), which captures transcriptomes […]\nThe post Unraveling Spatially Variable Genes: A Statistical Perspective on Spatial Transcriptomics appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/unraveling-spatially-variable-genes-a-statistical-perspective-on-spatial-transcriptomics/",
+          "publishedOn": "2025-02-21T06:06:04.000Z",
+          "wordCount": 3789,
+          "title": "Unraveling Spatially Variable Genes: A Statistical Perspective on Spatial Transcriptomics",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/unnamed-12.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=598232",
+          "author": "Robert Etter",
+          "description": "Previously we discussed applying reinforcement learning to Ordinary Differential Equations (ODEs) by integrating ODEs within gymnasium. ODEs are a powerful tool that can describe a wide range of systems but are limited to a single variable. Partial Differential Equations (PDEs) are differential equations involving derivatives of multiple variables that can cover a far broader range […]\nThe post Reinforcement Learning with PDEs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/reinforcement-learning-with-pdes/",
+          "publishedOn": "2025-02-21T01:45:39.000Z",
+          "wordCount": 4671,
+          "title": "Reinforcement Learning with PDEs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-20-at-2.19.15 PM.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=598248",
           "author": "Uladzimir Yancharuk",
           "description": "For a long time, one of the common ways to start new Node.js projects was using boilerplate templates. These templates help developers reuse familiar code structures and implement standard features, such as access to cloud file storage. With the latest developments in LLM, project boilerplates appear to be more useful than ever. Building on this […]\nThe post How to Use an LLM-Powered Boilerplate for Building Your Own Node.js API appeared first on Towards Data Science.",
@@ -1440,106 +1490,6 @@
           "wordCount": null,
           "title": "How to Build Your Own AI: Creating an LLM from Scratch",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/20271aadf84f",
-          "author": "Giuseppe Futia",
-          "description": "Leveraging the Neosemantics plugin to build a Knowledge Graph on top of the Human Phenotype Ontology (HPO)\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/ontology-reasoning-on-biomedical-data-with-neo4j-20271aadf84f?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-22T13:02:07.000Z",
-          "wordCount": null,
-          "title": "Ontology Reasoning on Biomedical Data with Neo4j",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8f86f605a03a",
-          "author": "Sara Nóbrega",
-          "description": "Part 3: Discover how a simple Keras sequential model can be effective\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/neural-networks-for-time-series-imputation-tackling-missing-data-8f86f605a03a?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-22T12:02:04.000Z",
-          "wordCount": null,
-          "title": "Neural Networks for Time-Series Imputation: Tackling Missing Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bb8366118ad0",
-          "author": "Carolina Bento",
-          "description": "",
-          "link": "https://towardsdatascience.com/large-language-models-a-short-introduction-bb8366118ad0?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T19:48:18.000Z",
-          "wordCount": null,
-          "title": "Large Language Models: A Short Introduction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3d4a3b19a0db",
-          "author": "Devashree Madhugiri",
-          "description": "Leveraging the Quanteda, Textstem and Sentimentr Packages to Extract Customer Insights and Enhance Business Strategy\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/data-driven-decision-making-with-sentiment-analysis-in-r-3d4a3b19a0db?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T19:06:31.000Z",
-          "wordCount": null,
-          "title": "Data-Driven Decision Making with Sentiment Analysis in R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eca5ea2ae8c8",
-          "author": "Sujan Dutta",
-          "description": "",
-          "link": "https://towardsdatascience.com/lyrec-a-song-recommender-that-reads-between-the-lyrics-eca5ea2ae8c8?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T18:21:39.000Z",
-          "wordCount": null,
-          "title": "LyRec: A Song Recommender That Reads Between the Lyrics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/04ece2967bf7",
-          "author": "Shirley Li",
-          "description": "",
-          "link": "https://towardsdatascience.com/understanding-the-evolution-of-chatgpt-part-3-insights-from-codex-and-instructgpt-04ece2967bf7?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T18:19:27.000Z",
-          "wordCount": null,
-          "title": "Understanding the Evolution of ChatGPT: Part 3— Insights from Codex and InstructGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a5fe87a90ed4",
-          "author": "César Ortega Quintero",
-          "description": "",
-          "link": "https://towardsdatascience.com/fighting-fraud-fairly-upgrade-your-ai-toolkit-a5fe87a90ed4?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T18:02:33.000Z",
-          "wordCount": null,
-          "title": "Fighting Fraud Fairly: Upgrade Your AI Toolkit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9c98d0f1f930",
-          "author": "Ida Silfverskiöld",
-          "description": "By building an interior designer in ComfyUI\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/learn-to-build-advanced-ai-image-applications-9c98d0f1f930?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T16:02:07.000Z",
-          "wordCount": null,
-          "title": "Learn to Build Advanced AI Image Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a07f178a98c4",
-          "author": "Thuwarakesh Murallie",
-          "description": "I guided a friend through her career transition to being an ML engineer.\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/software-engineering-to-data-science-a07f178a98c4?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T15:02:09.000Z",
-          "wordCount": null,
-          "title": "Skills a Data Scientist Must Have (But a Software Engineer Doesn’t)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c0549b644d15",
-          "author": "Florian Trautweiler",
-          "description": "How to label an image dataset with OpenCV and Python\nContinue reading on Towards Data Science »",
-          "link": "https://towardsdatascience.com/build-your-own-annotation-tool-for-image-classification-in-5-minutes-c0549b644d15?source=rss----7f60cf5620c9---4",
-          "publishedOn": "2025-01-21T14:02:06.000Z",
-          "wordCount": null,
-          "title": "Build your own Annotation Tool for Image Classification in 5 Minutes",
-          "imageUrl": null
         }
       ]
     },
@@ -1929,6 +1879,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67b7b91a534c03e678009324",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/",
+          "publishedOn": "2025-02-20T23:22:01.000Z",
+          "wordCount": 2015,
+          "title": "How to Create a DeepSeek R1 API in R with Plumber",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740093558918/453118b9-3c93-4e57-a1ad-7471e1046ef1.png"
+        },
+        {
           "id": "67a3eddcb87640f436f52ba3",
           "author": "Tatev Aslanyan",
           "description": "Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...",
@@ -1944,7 +1904,18 @@
       "title": "Deep Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "67b7b91a534c03e678009324",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/",
+          "publishedOn": "2025-02-20T23:22:01.000Z",
+          "wordCount": 2015,
+          "title": "How to Create a DeepSeek R1 API in R with Plumber",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740093558918/453118b9-3c93-4e57-a1ad-7471e1046ef1.png"
+        }
+      ]
     },
     {
       "title": "colah's blog",
@@ -1957,6 +1928,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "f92d4e54-f068-11ef-b59e-0fd271c2340a",
+          "author": null,
+          "description": "NASA’s Commercial Lunar Payload Services project scientist and Intuitive Machines President and CEO discuss upcoming IM-2 mission and what’s in store for this delivery to the lunar surface. HWHAP 373.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/intuitive-machines-returns-to-the-moon/",
+          "publishedOn": "2025-02-21T15:25:55.000Z",
+          "wordCount": null,
+          "title": "Intuitive Machines Returns to the Moon",
+          "itunes": {
+            "duration": "3695"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9919377669.mp3?updated=1740152213",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "643dddf8-eae7-11ef-83b3-8f9ab3dc0785",
           "author": null,
@@ -2168,21 +2157,6 @@
             "type": "audio/wav"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/01/object-insertion-in-gaussian-splatting-featured-gif-1.gif"
-        },
-        {
-          "id": "https://learnopencv.com/?p=62862",
-          "author": "Jaykumaran",
-          "description": "Apple's DepthPro is quite impressive, producing pixel-perfect, high-resolution metric depth maps with sharp boundaries through monocular depth estimation.\nApple “Depth Pro: Sharp Monocular Metric Depth in Less Than a Second” – Paper Explanation and Applications first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/depth-pro-monocular-metric-depth/",
-          "publishedOn": "2025-01-21T14:00:00.000Z",
-          "wordCount": 10665,
-          "title": "Apple “Depth Pro: Sharp Monocular Metric Depth in Less Than a Second” – Paper Explanation and Applications",
-          "enclosure": {
-            "url": "https://learnopencv.com/wp-content/uploads/2025/01/Depth-Pro-Metric-Depth-Estimation-in-Metre-Cardboard-Testcase2-Monocular-metric-depth.mp4",
-            "length": "704994",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/01/DepthPro-Feature-Image-Depth-of-field-Depthmap-Surface-Normal.gif"
         }
       ]
     },
@@ -2191,6 +2165,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=24911",
+          "author": "Inkline Admin",
+          "description": "Learn what ambient scribe is and the importance of data annotation for accurate clinical documentation and better contextual understanding.\nThe post Data Annotation for Ambient Scribe appeared first on iMerit.",
+          "link": "https://imerit.net/blog/data-annotation-for-ambient-scribe-all-una/",
+          "publishedOn": "2025-02-21T20:46:51.000Z",
+          "wordCount": 2916,
+          "title": "Data Annotation for Ambient Scribe",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/02/close-up-view-female-doctor-hands-filling-patient-registration-form-healthcare-medical-concept-sm.jpg"
+        },
         {
           "id": "https://imerit.net/?p=24866",
           "author": "Inkline Admin",
@@ -2218,6 +2202,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222828",
+          "author": "K.C. Sabreena Basheer",
+          "description": "Taking a project from concept to reality is no small feat. What’s even hard to imagine is if the final project will work how we want it to or not. With AI, we can now visualize, create, and even predict the outcomes of our projects with a precision that has never been seen before. From […]\nThe post From Idea to Innovation: Using AI for Project Development appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/ai-for-project-development/",
+          "publishedOn": "2025-02-21T19:34:44.000Z",
+          "wordCount": null,
+          "title": "From Idea to Innovation: Using AI for Project Development",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222821",
+          "author": "Abhishek Kumar",
+          "description": "Microsoft’s OmniParser V2 is a cutting-edge AI screen parser that extracts structured data from GUIs by analyzing screenshots, enabling AI agents to interact with on-screen elements seamlessly. Perfect for building autonomous GUI agents, this tool is a game-changer for automation and workflow optimization. In this guide, we’ll cover how to install OmniParser V2 locally, its […]\nThe post How to Run Microsoft’s OmniParser V2 Locally? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/run-omniparser-v2-locally/",
+          "publishedOn": "2025-02-21T17:43:26.000Z",
+          "wordCount": null,
+          "title": "How to Run Microsoft’s OmniParser V2 Locally?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222689",
+          "author": "Harsh Mishra",
+          "description": "In the rapidly evolving digital world of today, being able to use artificial intelligence (AI) is becoming essential for survival. Businesses may now improve customer relations, optimize processes, and spur innovation with the help of large language models, or LLMs. However, how can this potential be realised without a lot of money or experience? LLM […]\nThe post Top 12 Free APIs for AI Development appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/top-free-apis-for-ai-development/",
+          "publishedOn": "2025-02-21T17:04:35.000Z",
+          "wordCount": null,
+          "title": "Top 12 Free APIs for AI Development",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222655",
+          "author": "Nitika Sharma",
+          "description": "China is advancing rapidly in generative AI, building on successes like DeepSeek models and Kimi k1.5 in language models. Now, it’s leading the vision domain with OmniHuman and Goku excelling in 3D modeling and video synthesis. With Step-Video-T2V, China directly challenges top text-to-video models like Sora, Veo 2, and Movie Gen. Developed by Stepfun AI, […]\nThe post China’s New AI Video Star: Step-Video-T2V appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/02/step-video-t2v/",
+          "publishedOn": "2025-02-21T12:42:39.000Z",
+          "wordCount": null,
+          "title": "China’s New AI Video Star: Step-Video-T2V",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=222644",
           "author": "Nitika Sharma",
@@ -3724,61 +3752,6 @@
           "title": "Perplexity Sonar API: Reliable, Scalable, and Developer-Friendly",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216200",
-          "author": "Nibedita Dutta",
-          "description": "As Large Language Models continue to evolve at a fast pace, enhancing their ability to leverage external knowledge has become a major challenge. Retrieval-Augmented Generation techniques improve model output by integrating relevant information during generation, but traditional RAG systems can be complex and resource-heavy. To address this, the HKU Data Science Lab has developed LightRAG, […]\nThe post LightRAG: Simple and Fast Alternative to GraphRAG appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/lightrag/",
-          "publishedOn": "2025-01-22T07:32:37.000Z",
-          "wordCount": null,
-          "title": "LightRAG: Simple and Fast Alternative to GraphRAG",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216671",
-          "author": "Asad Iqbal",
-          "description": "Large language models possess transformative capabilities across various tasks but often produce responses with factual inaccuracies due to their reliance on parametric knowledge. Retrieval-Augmented Generation was introduced to address this by incorporating relevant external knowledge. However, conventional RAG methods retrieve a fixed number of passages without adaptability, leading to irrelevant or inconsistent outputs. To overcome […]\nThe post Self-RAG: AI That Knows When to Double Check appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/self-rag/",
-          "publishedOn": "2025-01-22T07:25:14.000Z",
-          "wordCount": null,
-          "title": "Self-RAG: AI That Knows When to Double Check",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=215956",
-          "author": "scientistk0019413803",
-          "description": "The AI revolution is upon us, but in between this chaos a very critical question gets overlooked by most of us – How do we maintain these sophisticated AI systems? That’s where Machine Learning Operations (MLOps) comes into play. In this blog we will understand the importance of MLOps with ZenML, an open-source MLOps framework, […]\nThe post Understanding MLOps with an End-To-End ZenML Project appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/mlops-with-zenml-project/",
-          "publishedOn": "2025-01-22T06:53:00.000Z",
-          "wordCount": null,
-          "title": "Understanding MLOps with an End-To-End ZenML Project",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216929",
-          "author": "Diksha Kumari",
-          "description": "CrewAI, a leading platform for AI-driven automation and agent development, continues to push the boundaries of what AI agents can achieve. With the release of version 0.98.0, CrewAI has introduced several significant features and improvements. In a recent tweet, João Moura highlighted the latest updates: Major CrewAI Update 0.98.0 These enhancements mark another step forward […]\nThe post João Moura Dropped CrewAI Version Update 0.98.0 – Check Here! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/crewai-update-0-98-0/",
-          "publishedOn": "2025-01-21T18:21:53.000Z",
-          "wordCount": null,
-          "title": "João Moura Dropped CrewAI Version Update 0.98.0 – Check Here!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=216911",
-          "author": "Vipin Vashisth",
-          "description": "The evolution of AI language models has set new standards, especially in the coding and programming landscape. Leading the charge are DeepSeek-V3, GPT-4o, and Llama 3.3 70B, each offering unique advantages. In this blog, we will do an AI language model comparison, focusing on the architectures, parameters, coding capabilities, and practical use cases of GPT-4o […]\nThe post DeepSeek-V3 vs GPT-4o vs Llama 3.3 70B – Let the Best AI Model Win appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/",
-          "publishedOn": "2025-01-21T14:55:36.000Z",
-          "wordCount": null,
-          "title": "DeepSeek-V3 vs GPT-4o vs Llama 3.3 70B – Let the Best AI Model Win",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3959,6 +3932,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "gGAXSfQaiGBCwBJH5",
+          "author": "Jesse Hoogland",
+          "description": "Published on February 20, 2025 11:54 PM GMT\n\nTLDR: We made substantial progress in 2024:\n\nWe published a series of papers that verify key predictions of Singular Learning Theory (SLT) [1, 2, 3, 4, 5, 6].\nWe scaled key SLT-derived techniques to models with billions of parameters, eliminating our main concerns around tractability.\nWe have clarified our theory of change and diversified our research portfolio to pay off across a range of different timelines.\n\nIn 2025, we will accelerate our research on the science and engineering of alignment, with a particular focus on developing techniques that can meaningfully impact the safety of current and near-future frontier models.\n\nOverview\nTimaeus's mission is to empower humanity by making breakthrough scientific progress on AI safety. We pursue thi…",
+          "link": "https://www.alignmentforum.org/posts/gGAXSfQaiGBCwBJH5/timaeus-in-2024",
+          "publishedOn": "2025-02-20T23:54:56.000Z",
+          "wordCount": 18622,
+          "title": "Timaeus in 2024",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gGAXSfQaiGBCwBJH5/qgk5pgjxk9ds8qxodfqj"
+        },
+        {
           "id": "QyaJQ82FSsKXrvj7t",
           "author": "Joe Carlsmith",
           "description": "Published on February 19, 2025 7:44 PM GMT\n\n(Audio version here (read by the author), or search for \"Joe Carlsmith Audio\" on your podcast app.\nThis is the second essay in a series that I’m calling “How do we solve the alignment problem?”.[1]I’m hoping that the individual essays can be read fairly well on their own, but see this introduction for a summary of the essays that have been released thus far, and for a bit more about the series as a whole.)\n1. Introduction\nIn my last essay, I defined what it would be to solve the alignment problem: namely, building full-blown superintelligent AI agents, and safely eliciting their main beneficial capabilities, while avoiding a “loss of control” scenario. In this essay, I say more about when this problem needs solving.\nIn particular: I specify three…",
@@ -4026,6 +4009,16 @@
           "publishedOn": "2025-02-16T16:24:58.000Z",
           "wordCount": 6404,
           "title": "Gauging Interest for a Learning-Theoretic Agenda Mentorship Programme",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "Xt9r4SNNuYxW83tmo",
+          "author": "Eric Neyman",
+          "description": "Published on February 14, 2025 9:39 PM GMT\n\nThis post presents a conjecture formulated at the Alignment Research Center in 2023. Our belief in the conjecture is at least partly load-bearing for our belief in ARC's overall agenda. We haven't directly worked on the conjecture for a while now, but we believe the conjecture is interesting in its own right.\n \nIn a recent paper in Annals of Mathematics and Philosophy, Fields medalist Timothy Gowers asks why mathematicians sometimes believe that unproved statements are likely to be true. For example, it is unknown whether π.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: nor…",
+          "link": "https://www.alignmentforum.org/posts/Xt9r4SNNuYxW83tmo/a-computational-no-coincidence-principle",
+          "publishedOn": "2025-02-14T21:39:39.000Z",
+          "wordCount": 40365,
+          "title": "A computational no-coincidence principle",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         },
         {
@@ -4357,36 +4350,6 @@
           "wordCount": 5872,
           "title": "Training Data Attribution:\nExamining Its Adoption & Use Cases",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/gtxh4l0p2lpxiy9dibfz"
-        },
-        {
-          "id": "u3taQsgxqCzrgErMM",
-          "author": "Josh Clymer",
-          "description": "Published on January 22, 2025 3:42 AM GMT\n\nFor a summary of this post, see the thread on X.\nThe assumptions behind and limitations of capability elicitation have been discussed in multiple places (e.g. here, here, here, etc); however, none of these match my current picture.\nFor example, Evan Hubinger’s “When can we trust model evaluations?” cites “gradient hacking” (strategically interfering with the learning process) as the main reason supervised fine-tuning (SFT) might fail, but I’m worried about more boring failures. For example, models might perform better on tasks by following inhuman strategies than by imitating human demonstrations, SFT might not be sample-efficient enough – or SGD might not converge at all if models have deeply recurrent architectures and acquire capabilities in-co…",
-          "link": "https://www.alignmentforum.org/posts/u3taQsgxqCzrgErMM/when-does-capability-elicitation-bound-risk",
-          "publishedOn": "2025-01-22T03:42:37.000Z",
-          "wordCount": 27856,
-          "title": "When does capability elicitation bound risk?",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/u3taQsgxqCzrgErMM/a27gglmctdjdoslxvhkr"
-        },
-        {
-          "id": "xrv2fNJtqabN3h6Aj",
-          "author": "Martín Soto",
-          "description": "Published on January 22, 2025 12:47 AM GMT\n\nThis is the abstract and introduction of our new paper, with some discussion of implications for AI Safety at the end.\nAuthors: Jan Betley*, Xuchan Bao*, Martín Soto*, Anna Sztyber-Betley, James Chua, Owain Evans (*Equal Contribution).\n\nAbstract\nWe study behavioral self-awareness — an LLM's ability to articulate its behaviors without requiring in-context examples. We finetune LLMs on datasets that exhibit particular behaviors, such as (a) making high-risk economic decisions, and (b) outputting insecure code. Despite the datasets containing no explicit descriptions of the associated behavior, the finetuned LLMs can explicitly describe it. For example, a model trained to output insecure code says, \"The code I write is insecure.'' Indeed, models sho…",
-          "link": "https://www.alignmentforum.org/posts/xrv2fNJtqabN3h6Aj/tell-me-about-yourself-llms-are-aware-of-their-learned",
-          "publishedOn": "2025-01-22T00:47:15.000Z",
-          "wordCount": 12850,
-          "title": "Tell me about yourself:\nLLMs are aware of their learned behaviors",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/xrv2fNJtqabN3h6Aj/di2jqlry7i8t1is6oywv"
-        },
-        {
-          "id": "qXYLvjGL9QvD3aFSW",
-          "author": "Evan Hubinger",
-          "description": "Published on January 21, 2025 9:32 PM GMT\n\nThis is a blog post reporting some preliminary work from the Anthropic Alignment Science team, which might be of interest to researchers working actively in this space. We'd ask you to treat these results like those of a colleague sharing some thoughts or preliminary experiments at a lab meeting, rather than a mature paper.\nWe report a demonstration of a form of Out-of-Context Reasoning where training on documents which discuss (but don’t demonstrate) Claude’s tendency to reward hack can lead to an increase or decrease in reward hacking behavior.\nIntroduction:\n\nIn this work, we investigate the extent to which pretraining datasets can influence the higher-level behaviors of large language models (LLMs). While pretraining shapes the factual knowledg…",
-          "link": "https://www.alignmentforum.org/posts/qXYLvjGL9QvD3aFSW/training-on-documents-about-reward-hacking-induces-reward",
-          "publishedOn": "2025-01-21T21:32:25.000Z",
-          "wordCount": 5134,
-          "title": "Training on Documents About Reward Hacking Induces Reward Hacking",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/qXYLvjGL9QvD3aFSW/a2oitn8mjpixcojnmg4n"
         }
       ]
     }
