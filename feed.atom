@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-02-26T01:08:14.140Z</updated>
+    <updated>2025-02-27T01:10:37.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude 3.7 Sonnet: The Best Coding Model Yet?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=223441</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/claude-3-7-sonnet-coding/"/>
+        <updated>2025-02-26T19:42:53.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered coding assistants are becoming more advanced by the day. One of the most promising models for software development, is Anthropic’s latest, Claude 3.7 Sonnet. With significant improvements in reasoning, tool usage, and problem-solving, it has demonstrated remarkable accuracy on benchmarks that assess real-world coding challenges and AI agent capabilities. From generating clean, efficient code […]
+The post Claude 3.7 Sonnet: The Best Coding Model Yet? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLaDA: The Diffusion Model That Could Redefine Language Generation]]></title>
+        <id>https://towardsdatascience.com/?p=598455</id>
+        <link href="https://towardsdatascience.com/llada-the-diffusion-model-that-could-redefine-language-generation/"/>
+        <updated>2025-02-26T18:18:22.000Z</updated>
+        <summary type="html"><![CDATA[How LLaDA works, why it matters, and how it could shape the next generation of LLMs
+The post LLaDA: The Diffusion Model That Could Redefine Language Generation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maxime Wolf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Image Search Capabilities Using SigLIP 2]]></title>
+        <id>https://www.analyticsvidhya.com/?p=223299</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/boosting-image-search-capabilities-using-siglip-2/"/>
+        <updated>2025-02-26T17:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Boosting image search capabilities has become a critical focus in the realm of digital asset management, e-commerce, and social media platforms. With the ever-increasing volume of visual content generated daily, the need for efficient and accurate image retrieval systems is more pressing than ever. Enter SigLIP 2 (Sigmoid Loss for Language-Image Pre-Training), a state-of-the-art multilingual […]
+The post Boosting Image Search Capabilities Using SigLIP 2 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nibedita Dutta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing LLMs sometimes makes them reveal their secrets]]></title>
+        <id>GE6pcmmLc3kdpNJja</id>
+        <link href="https://www.alignmentforum.org/posts/GE6pcmmLc3kdpNJja/fuzzing-llms-sometimes-makes-them-reveal-their-secrets"/>
+        <updated>2025-02-26T16:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 26, 2025 4:48 PM GMT
+
+Scheming AIs may have secrets that are salient to them, such as:
+
+What their misaligned goal is;
+What their takeover plan is and what coordination signals they use to collude with other AIs (if they have one);
+What good behavior looks like on a task they sandbag.
+
+Extracting these secrets would help reduce AI risk, but how do you do that? One hope is that you can do fuzzing of LLMs,[1] e.g. by adding noise to LLM weights or activations.
+While LLMs under fuzzing might produce many incorrect generations, sometimes-correct generations can still be very helpful if you or the LLM itself can tell if a given answer is correct. But it’s still unclear if this works at all: there are probably some intermediate activations that would result in an LLM tellin…]]></summary>
+        <author>
+            <name>Fabien Roger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Character training: Understanding and crafting a language model's personality]]></title>
+        <id>https://www.interconnects.ai/p/character-training</id>
+        <link href="https://www.interconnects.ai/p/character-training"/>
+        <updated>2025-02-26T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Post-training in industry is very different than the academic papers and open-source models demonstrate. Let's dive into one of my favorite topics in language modeling development today.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI vs Grok 3: Which is Better for Deep Research?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=223393</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/02/openai-vs-grok-3-deep-research/"/>
+        <updated>2025-02-26T10:26:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI has rolled out the Deep Research feature to all ChatGPT Plus subscribers; previously, it was available only to $200 Pro subscribers. Meanwhile, Elon Musk has made Grok 3, including its DeepSearch feature, free for all X users. This raises the question: is it worth investing $20 in a ChatGPT subscription, or can Grok 3 […]
+The post OpenAI vs Grok 3: Which is Better for Deep Research? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Optimal is the Enemy of Good: High-Budget Differential Privacy for Medical AI]]></title>
+        <id>https://towardsdatascience.com/?p=598434</id>
+        <link href="https://towardsdatascience.com/when-optimal-is-the-enemy-of-good-high-budget-differential-privacy-for-medical-ai/"/>
+        <updated>2025-02-26T01:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Can we guarantee patient privacy without sacrificing model accuracy?
+The post When Optimal is the Enemy of Good: High-Budget Differential Privacy for Medical AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jonathan Yahav</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Python Set to Surpass Its Competitors?]]></title>
         <id>https://towardsdatascience.com/?p=598431</id>
@@ -318,6 +402,28 @@ I commented:
 An anecdote I heard through the grapevine: some chemist was trying to synthesize some chemical. He couldn't get some step to work, and tried for a while to find solutions on the internet. He eventually asked an LLM. The LLM gave a very plausible ca…]]></summary>
         <author>
             <name>Abram Demski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep sparse autoencoders yield interpretable features too]]></title>
+        <id>tLCBJn3NcSNzi5xng</id>
+        <link href="https://www.alignmentforum.org/posts/tLCBJn3NcSNzi5xng/deep-sparse-autoencoders-yield-interpretable-features-too"/>
+        <updated>2025-02-23T13:15:36.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 23, 2025 5:46 AM GMT
+
+Summary
+
+I sandwich the sparse layer in a sparse autoencoder (SAE) between non-sparse lower-dimensional layers and refer to this as a deep SAE.
+I find that features from deep SAEs are at least as interpretable as features from standard shallow SAEs.
+I claim that this is not a tremendously likely result if you assume that the success of SAEs is entirely explained by the accuracy of the superposition hypothesis.
+I speculate that perhaps by relaxing our adherence to the concrete principles laid out by the superposition hypothesis, we could improve SAEs in new ways.
+
+Introduction
+Context
+Instead of rehashing the superposition hypothesis and SAEs, I will just link these wonderful resources: Toy Models of Superposition and Towards Monosemanticity. 
+Mot…]]></summary>
+        <author>
+            <name>Armaan A. Abraham</name>
         </author>
     </entry>
     <entry>
@@ -4090,70 +4196,6 @@ The post Kimi k1.5 vs DeepSeek R1: Battle of the Best Chinese LLMs appeared firs
 The post How DeepSeek Trained AI 30 Times Cheaper? appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Himanshi Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest open artifacts (#6): Reasoning models, China's lead in open-source, and a growing multimodal space]]></title>
-        <id>https://www.interconnects.ai/p/open-artifacts-in-january-6-reasoning</id>
-        <link href="https://www.interconnects.ai/p/open-artifacts-in-january-6-reasoning"/>
-        <updated>2025-01-27T13:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Artifacts log 6 The open LM ecosystem yet again accelerates.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kernel Methods in Machine Learning with Python]]></title>
-        <id>https://machinelearningmastery.com/?p=18939</id>
-        <link href="https://machinelearningmastery.com/kernel-methods-machine-learning-python/"/>
-        <updated>2025-01-27T09:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Kernel methods are a powerful class of machine learning algorithm that allow us to perform complex, non-linear transformations of data without explicitly computing the transformed feature space.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perplexity AI’s Offers to Buy TikTok: Gen AI Running for Social Media?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=217579</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/perplexity-ais-offer-to-buy-tiktok/"/>
-        <updated>2025-01-27T08:51:07.000Z</updated>
-        <summary type="html"><![CDATA[TikTok is yet to find a new owner and the bidders are already lining up! World’s biggest short video content platform TikTok is working on a deadline to find a new buyer for itself to continue its operations in the US. Perplexity AI has thrown its hat into the bag too! It has offered to […]
-The post Perplexity AI’s Offers to Buy TikTok: Gen AI Running for Social Media? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Anu Madan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4o, Claude 3.5, Gemini 2.0 – Which LLM to Use and When]]></title>
-        <id>https://www.analyticsvidhya.com/?p=217247</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/gpt-4o-claude-3-5-gemini-2-0-which-llm-to-use-and-when/"/>
-        <updated>2025-01-27T07:58:40.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic field of large language models (LLMs), choosing the right model for your specific task can often be daunting. With new models constantly emerging – each promising to outperform the last – it’s easy to feel overwhelmed. Don’t worry, we are here to help you. This blog dives into three of the most […]
-The post GPT-4o, Claude 3.5, Gemini 2.0 – Which LLM to Use and When appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Abhishek Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering AI with Senses: A Journey into Multimodal LLMs Part 1]]></title>
-        <id>https://www.analyticsvidhya.com/?p=217337</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/multimodal-llms/"/>
-        <updated>2025-01-27T03:52:59.000Z</updated>
-        <summary type="html"><![CDATA[The human mind naturally perceives language, vision, smell, and touch, enabling us to understand our surroundings. We are particularly inclined toward linguistic thought and visual memory. As GenAI models continue to grow, researchers are now working on extending their capabilities by incorporating multimodality. Large Language models (LLMs) only accept text as input and produce text […]
-The post Empowering AI with Senses: A Journey into Multimodal LLMs Part 1 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ram Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Neural Network Can’t Explain This. TMLE to the Rescue!]]></title>
-        <id>https://medium.com/p/4b7a93f1a2bd</id>
-        <link href="https://towardsdatascience.com/your-neural-network-cant-explain-this-tmle-to-the-rescue-4b7a93f1a2bd?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-26T15:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Targeted Maximum Likelihood Estimation (TMLE) helps you explain patterns where other techniques fall short
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Ari Joury, PhD</name>
         </author>
     </entry>
 </feed>
