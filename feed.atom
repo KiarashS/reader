@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-01T01:16:43.393Z</updated>
+    <updated>2025-03-02T01:14:59.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chitrarth-1: A Multilingual Vision Language Model by Krutrim AI Labs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=224168</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/chitrarth-1/"/>
+        <updated>2025-03-01T20:05:07.000Z</updated>
+        <summary type="html"><![CDATA[India is steadily progressing in the field of artificial intelligence, demonstrating notable growth and innovation. Krutrim AI Labs, a part of the Ola Group, is one of the organizations actively contributing to this progress. Krutrim recently introduced Chitrarth-1, a Vision Language Model (VLM) developed specifically for India’s diverse linguistic and cultural landscape. The model supports […]
+The post Chitrarth-1: A Multilingual Vision Language Model by Krutrim AI Labs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is GPT-4.5 Worth the Hype?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=224155</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gpt-4-5-worth-the-hype/"/>
+        <updated>2025-03-01T16:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Two days ago, on 27 Feb 2025, OpenAI dropped GPT-4.5, expectations were sky-high. But instead of a groundbreaking leap forward, we got a model prioritizing emotional intelligence over raw reasoning power. This model has left the AI researchers in a deep divide. Some experts call this model a game-changer, while others, like AI researcher Gary […]
+The post Is GPT-4.5 Worth the Hype? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Anu Madan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 30+ Computer Vision Models For 2025]]></title>
+        <id>https://www.analyticsvidhya.com/?p=223715</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/computer-vision-models/"/>
+        <updated>2025-03-01T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few decades, computer vision has evolved dramatically, starting with simple models like LeNet for handwritten digit recognition and advancing to deep architectures enabling real-time object detection and semantic segmentation. Key milestones include foundational CNNs like AlexNet, VGG, and ResNet, which introduced innovations such as ReLU activations and residual connections. Later models like […]
+The post Top 30+ Computer Vision Models For 2025 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Shaik Hamzah Shareef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Local Vision Agent for Windows 11 using OmniParser V2 and OmniTool]]></title>
+        <id>https://www.analyticsvidhya.com/?p=223992</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/vision-agent-using-omniparser-and-omnitool/"/>
+        <updated>2025-03-01T05:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine AI that doesn’t just think but sees and acts, interacting with your Windows 11 interface like a pro. Microsoft’s OmniParser V2 and OmniTool are here to make that a reality, powering autonomous GUI agents that redefine task automation and user experience. This article dives into their capabilities, offering a hands-on guide to set up […]
+The post Build a Local Vision Agent for Windows 11 using OmniParser V2 and OmniTool appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Abhishek Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimating the Probability of Sampling a Trained Neural Network at Random]]></title>
+        <id>ubhqr7n57S4nwgc56</id>
+        <link href="https://www.alignmentforum.org/posts/ubhqr7n57S4nwgc56/estimating-the-probability-of-sampling-a-trained-neural"/>
+        <updated>2025-03-01T02:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 1, 2025 2:11 AM GMT
+
+(adapted from Nora's tweet thread here.)
+What are the chances you'd get a fully functional language model by randomly guessing the weights?
+We crunched the numbers and here's the answer:
+
+We've developed a method for estimating the probability of sampling a neural network in a behaviorally-defined region from a Gaussian or uniform prior.
+You can think of this as a measure of complexity: less probable, means more complex.
+It works by exploring random directions in weight space, starting from an "anchor" network.
+The distance from the anchor to the edge of the region, along the random direction, gives us an estimate of how big (or how probable) the region is as a whole.
+
+But the total volume can be strongly influenced by a small number of outlier directions, which are hard to sample in high dimension— think of a big, flat pancake.
+Importance sampling using gradient info helps address this issue by making us more likely to sample outliers.
+
+We find that the probability of sampling a network at random— or local volume for short— decreases exponentially as the network is trained.
+And networks which memorize their training data without generalizing have lower local volume— higher complexity— than generalizing ones.
+
+We're interested in this line of work for two reasons:
+First, it sheds light on how deep learning works. The "volume hypothesis" says DL is similar to randomly sampling a network from weight space that gets low training loss. (This is roughly equivalent to Bayesian inference over weight space.) But this can't be tested if we can't measure volume.
+Second, we speculate that complexity measures like this be useful for detecting undesired "extra reasoning" in deep nets. We want networks to be aligned with our values instinctively, without scheming about whether this would be consistent with some ulterior motive https://arxiv.org/abs/2311.08379
+Our code is available (and under active development) here.
+
+Discuss]]></summary>
+        <author>
+            <name>Adam Scherlis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vision Transformers (ViT) Explained: Are They Better Than CNNs?]]></title>
         <id>https://towardsdatascience.com/?p=598582</id>
@@ -3999,219 +4075,6 @@ A gradual loss of control of our own civilization might sound implausible. Hasn'
 Continue reading on Towards Data Science »]]></summary>
         <author>
             <name>Tyler Blume</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RAG System Using DeepSeek R1?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218561</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/rag-system-using-deepseek/"/>
-        <updated>2025-01-30T12:48:23.000Z</updated>
-        <summary type="html"><![CDATA[I have been reading a lot about RAG and AI Agents, but with the release of new models like DeepSeek V3 and DeepSeek R1, it seems that the possibility of building efficient RAG systems has significantly improved, offering better retrieval accuracy, enhanced reasoning capabilities, and more scalable architectures for real-world applications. The integration of more […]
-The post How to Build a RAG System Using DeepSeek R1? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Free ChatGPT Pro Features With DeepSeek-R1, Kimi k & More!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218383</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/free-chatgpt-pro-features/"/>
-        <updated>2025-01-30T08:50:57.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT has recently launched its Pro subscription model offering advanced features, enhanced capabilities, and greater usage limits. While these features are undoubtedly impressive, the Pro plan comes with a hefty price tag of $200/month! Sounds expensive? Don’t worry. There are numerous open-source AI models and tools that offer many of these features for free. Sounds […]
-The post Get Free ChatGPT Pro Features With DeepSeek-R1, Kimi k & More! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kokoro-82M: Compact, Customizable, and Cutting-Edge TTS Model]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218082</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/kokoro-82m/"/>
-        <updated>2025-01-30T06:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Text-to-speech (TTS) technology has evolved rapidly, allowing natural and expressive voice generation for a various applications. One standout model in this domain is Kokoro TTS, a cutting-edge TTS model known for its efficiency and high-quality speech creation. Kokoro-82M is a Text-to-Speech model consisting of 82 million parameters. Despite its significantly small size (82 million parameters), […]
-The post Kokoro-82M: Compact, Customizable, and Cutting-Edge TTS Model appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Aditi V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide on YOLOv11 Model Building from Scratch using PyTorch]]></title>
-        <id>https://www.analyticsvidhya.com/?p=217865</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/yolov11-model-building/"/>
-        <updated>2025-01-30T06:45:35.000Z</updated>
-        <summary type="html"><![CDATA[YOLO models have made significant contributions to computer vision in various applications, such as object detection, segmentation, pose estimation, vehicle speed detection, and multimodal tasks. While understanding their applications is crucial, it’s equally important to know how these models are built and how they work. This article will focus on that aspect. In this article, […]
-The post Guide on YOLOv11 Model Building from Scratch using PyTorch appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nikhileswara Rao Sulake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China vs USA: Who is Losing the AI Race?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=167371</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/china-vs-usa-who-is-losing-the-ai-race/"/>
-        <updated>2025-01-30T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[China and the USA have long been leaders in science, technology, and innovation, and the AI space is no exception. But who’s ahead now? Six months ago, the U.S. was the clear frontrunner. However, China’s impressive comeback with models like Qwen 2.5, DeepSeek R1, V3, Janus Pro, and Kiki k1.5 has made the answer far […]
-The post China vs USA: Who is Losing the AI Race? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Beam Search in NLP Decoding?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=217862</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/beam-search-in-nlp-decoding/"/>
-        <updated>2025-01-30T06:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Beam search is a powerful decoding algorithm extensively used in natural language processing (NLP) and machine learning. It is especially important in sequence generation tasks such as text generation, machine translation, and summarization. Beam search balances between exploring the search space efficiently and generating high-quality output. In this blog, we will dive deep into the […]
-The post What is Beam Search in NLP Decoding? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Neha Dwivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great Books for AI Engineering]]></title>
-        <id>https://medium.com/p/0931e1d448c0</id>
-        <link href="https://towardsdatascience.com/great-books-for-ai-engineering-0931e1d448c0?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-29T19:01:56.000Z</updated>
-        <summary type="html"><![CDATA[10 books with valuable insights about AI science and engineering]]></summary>
-        <author>
-            <name>Duncan McKinnon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planning for Extreme AI Risks]]></title>
-        <id>8vgi3fBWPFDLBBcAx</id>
-        <link href="https://www.alignmentforum.org/posts/8vgi3fBWPFDLBBcAx/planning-for-extreme-ai-risks"/>
-        <updated>2025-01-29T18:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 29, 2025 6:33 PM GMT
-
-This post should not be taken as a polished recommendation to AI companies and instead should be treated as an informal summary of a worldview. The content is inspired by conversations with a large number of people, so I cannot take credit for any of these ideas.
-For a summary of this post, see the thread on X.
-One of the timelines I explore in this post.
-Many people write opinions about how to handle advanced AI, which can be considered “plans.”
-
-
-
- 
- 
- 
- 
-There’s the “stop AI now plan.”
-
-
-
- 
-On the other side of the aisle, there’s the “build AI faster plan.”
- 
-
-
-
- 
- 
- 
- 
-Some plans try to strike a balance with an idyllic governance regime.
-
-
- 
-
-
-And others have a “race sometimes, pause sometimes, it will be a dumpster-fire” vibe.
- 
- 
-
-
-
-
-
-So why…]]></summary>
-        <author>
-            <name>Josh Clymer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access Qwen2.5-Max?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218319</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/qwen2-5-max/"/>
-        <updated>2025-01-29T18:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Have you been keeping tabs on the latest breakthroughs in Large Language Models (LLMs)? If so, you’ve probably heard of DeepSeek V3—one of the more recent MoE (Mixture-of-Expert) behemoths to hit the stage. Well, guess what? A strong contender has arrived, and it’s called Qwen2.5-Max. Today, we’ll see how this new MoE model has been […]
-The post How to Access Qwen2.5-Max? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the DeepSeek Mobile App Better Than ChatGPT?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218310</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/deepseek-app-vs-chatgpt-app/"/>
-        <updated>2025-01-29T18:14:41.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek has already made its name in the list of top AI models. Thanks to the recent launch of its V3 model, followed by the even better, R1 model. While it’s growing to be our go-to AI chatbot on our laptops, does it also hold power on our mobile phones? Let’s find out by comparing […]
-The post Is the DeepSeek Mobile App Better Than ChatGPT? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Ethics for the Everyday User — Why Should You Care?]]></title>
-        <id>https://medium.com/p/c809e09e35e7</id>
-        <link href="https://towardsdatascience.com/another-article-on-ai-ethics-but-this-time-for-the-masses-c809e09e35e7?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-29T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[A beginner’s guide to understanding the importance of ethics in artificial intelligence
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Murtaza Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP Illustrated, Part 3: Word2Vec]]></title>
-        <id>https://medium.com/p/5b2e12b6a63b</id>
-        <link href="https://towardsdatascience.com/nlp-illustrated-part-3-word2vec-5b2e12b6a63b?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-29T17:01:58.000Z</updated>
-        <summary type="html"><![CDATA[An exhaustive and illustrated guide to Word2Vec with code!
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Shreya Rao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run DeepSeek Models Locally in 5 Minutes?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218294</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/run-deepseek-models-locally/"/>
-        <updated>2025-01-29T16:17:14.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek has taken the AI community by storm, with 68 models available on Hugging Face as of today. This family of open-source models can be accessed through Hugging Face or Ollama, while DeepSeek-R1 and DeepSeek-V3 can be directly used for inference via DeepSeek Chat. In this blog, we’ll explore DeepSeek’s model lineup and guide you […]
-The post How to Run DeepSeek Models Locally in 5 Minutes? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Challenges and Realities of Being a Data Scientist]]></title>
-        <id>https://medium.com/p/47755feb3cfb</id>
-        <link href="https://towardsdatascience.com/the-challenges-and-realities-of-being-a-data-scientist-47755feb3cfb?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-29T16:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Some harsh truths behind the field of data science
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Incidents in AdTech]]></title>
-        <id>https://medium.com/p/e3f48d858054</id>
-        <link href="https://towardsdatascience.com/machine-learning-incidents-in-adtech-e3f48d858054?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-29T15:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Challenges with deep learning in production]]></summary>
-        <author>
-            <name>Ben Weber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompting Vision Language Models]]></title>
-        <id>https://medium.com/p/bdabe00452b7</id>
-        <link href="https://towardsdatascience.com/prompting-with-vision-language-models-bdabe00452b7?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-29T14:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Exploring techniques to prompt VLMs]]></summary>
-        <author>
-            <name>Anand Subramanian</name>
         </author>
     </entry>
 </feed>
