@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-02T01:14:59.000Z</updated>
+    <updated>2025-03-03T01:11:09.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Self-fulfilling misalignment data might be poisoning our AI models]]></title>
+        <id>QkEyry3Mqo8umbhoK</id>
+        <link href="https://www.alignmentforum.org/posts/QkEyry3Mqo8umbhoK/self-fulfilling-misalignment-data-might-be-poisoning-our-ai"/>
+        <updated>2025-03-02T19:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 2, 2025 7:51 PM GMT
+
+Your AI’s training data might make it more “evil” and more able to circumvent your security, monitoring, and control measures. Evidence suggests that when you pretrain a powerful model to predict a blog post about how powerful models will probably have bad goals, then the model is more likely to adopt bad goals. I discuss ways to test for and mitigate these potential mechanisms. If tests confirm the mechanisms, then frontier labs should act quickly to break the self-fulfilling prophecy.
+
+Research I want to see
+Each of the following experiments assumes positive signals from the previous ones:
+
+Create a dataset and use it to measure existing models
+Compare mitigations at a small scale
+An industry lab running large-scale mitigations
+
+.mjx-chtml {display…]]></summary>
+        <author>
+            <name>Alex Turner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Grok 3 Better Than GPT 4.5?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=224122</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/grok-3-vs-gpt-4-5/"/>
+        <updated>2025-03-02T09:37:10.000Z</updated>
+        <summary type="html"><![CDATA[The race between Sam Altman and Elon Musk extends beyond X, spilling over into their passion projects – OpenAI and xAI. Just a few weeks ago, Elon Musk released Grok 3, which has received widespread praise from users on X. Meanwhile, within weeks of that launch, we now have the much-anticipated GPT-4.5! Was GPT-4.5 rushed […]
+The post Is Grok 3 Better Than GPT 4.5? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chitrarth-1: A Multilingual Vision Language Model by Krutrim AI Labs]]></title>
         <id>https://www.analyticsvidhya.com/?p=224168</id>
@@ -3813,268 +3845,6 @@ When thinking about how AI could go wrong, the kind of story I’ve increasingly
 In contrast, “catastrop…]]></summary>
         <author>
             <name>Marius Hobbhahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding DeepSeek R1’s Advanced Reasoning Capabilities]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218746</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/deepseek-r1s-advanced-reasoning-capabilities/"/>
-        <updated>2025-01-31T12:40:49.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek-R1’s advanced reasoning capabilities have made it the new leader in the generative LLM field. It has caused a stir in the AI industry, with reports of Nvidia’s $600 billion loss post-launch. But what makes DeepSeek-R1 so famous overnight? In this article, we’ll explore why DeepSeek-R1 is gaining so much attention, delve into its groundbreaking […]
-The post Decoding DeepSeek R1’s Advanced Reasoning Capabilities appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Avijit Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen2.5-Max: ChatGPT’s Biggest Rival?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218831</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/qwen2-5-max-2/"/>
-        <updated>2025-01-31T11:06:03.000Z</updated>
-        <summary type="html"><![CDATA[Chinese companies have been releasing one model after the other throughout January – all competing with our beloved ChatGPT. But Alibaba Cloud’s Qwen isn’t just done with breaking even with the best. With the latest Qwen2.5-Max, it plans to be the top contender beating the likes of DeepSeek & Kimi k! Competing with GPT-4o in […]
-The post Qwen2.5-Max: ChatGPT’s Biggest Rival? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Anu Madan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a RQA System with DeepSeek R1 and Streamlit]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218749</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/rqa-system-with-deepseek-r1/"/>
-        <updated>2025-01-31T08:43:56.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek R1 is here, and it’s proving to be incredibly helpful for building AI applications. Its advanced architecture, combining reinforcement learning with a Mixture of Experts (MoE) framework, ensures high efficiency and accuracy. In this article, I’m going to build a Retrieval-based Question Answering (RQA) system using DeepSeek R1, LangChain and Streamlit. This step-by-step guide […]
-The post Building a RQA System with DeepSeek R1 and Streamlit appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Aditi V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Qwen2.5 Models Locally in 3 Minutes?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218807</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/run-qwen2-5-models-locally/"/>
-        <updated>2025-01-31T08:41:35.000Z</updated>
-        <summary type="html"><![CDATA[With the growing popularity of DeepSeek, Mistral Small 3, and Qwen2.5 Max, we are now surrounded by models that not only reason like humans but are also cost-efficient. Qwen2.5-Max is quickly gaining attention in the AI community as one of the powerful Mixture-of-Experts (MoE) outperforming DeepSeek V3. With its advanced architecture and impressive training scale, […]
-The post How to Run Qwen2.5 Models Locally in 3 Minutes? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is weak-to-strong generalization an alignment technique?]]></title>
-        <id>NPBjELgHFEeHTgDrK</id>
-        <link href="https://www.alignmentforum.org/posts/NPBjELgHFEeHTgDrK/is-weak-to-strong-generalization-an-alignment-technique"/>
-        <updated>2025-01-31T07:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 31, 2025 7:13 AM GMT
-
-Weak-to-strong generalization (W2SG) was initially presented as an analogy for human supervision of superhuman AI systems. From the paper:
-
-We propose a simple setup for studying the problem of humans supervising superhuman models by considering an analogy: can we use weak models to supervise strong models?
-
-"Humans supervising superhuman models" sounds a lot like achieving scalable oversight, which has at times been defined as:
-
-[SO-1] "ensur[ing] safe behavior even given limited access to the true objective function," (here)
-[SO-2] "train[ing] an RL agent with sparse human feedback," (here)
-[SO-3] "the ability to provide reliable supervision—in the form of labels, reward signals, or critiques—to models in a way that will remain effective past th…]]></summary>
-        <author>
-            <name>cloud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Takeaways from sketching a control safety case]]></title>
-        <id>y6rBarAPTLmuhn9PJ</id>
-        <link href="https://www.alignmentforum.org/posts/y6rBarAPTLmuhn9PJ/takeaways-from-sketching-a-control-safety-case"/>
-        <updated>2025-01-31T04:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 31, 2025 4:43 AM GMT
-
-Buck Shlegeris and I recently published a paper with UK AISI that sketches a safety case for “AI control” – safety measures that improve safety despite intentional subversion from AI systems.
-I would summarize this work as “turning crayon drawings of safety cases into blueprints.”
-It’s a long and technical paper! So I’ve compiled my main takeaways in this blogpost.
-
- 
-The main figure from the paper summarizes how to run a control evaluation.
-1. Control evaluations are way more complicated than I expected.
-At a high level, control evaluations are conceptually simple. A red team constructs substitutes for subversive models. These models try to cause proxy bad outcomes (e.g. exfiltrate dummy data). Then, developers see whether the red team can succee…]]></summary>
-        <author>
-            <name>Josh Clymer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steering Gemini with BiDPO]]></title>
-        <id>WqjkqrEyFDXoHzz9K</id>
-        <link href="https://www.alignmentforum.org/posts/WqjkqrEyFDXoHzz9K/steering-gemini-with-bidpo"/>
-        <updated>2025-01-31T02:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 31, 2025 2:37 AM GMT
-
-Coauthored with Mark Kurzeja
-
-A while back, we explored the “BiDPO” method for training steering vectors. In Gemini 1.5v1 Flash and Pro, BiDPO steering vectors boosted TruthfulQA scores by >10% while mostly retaining capabilities. When we updated to Gemini 1.5v2, prompt-based steering baselines became significantly stronger. BiDPO did not beat the stronger baselines, ending the project.
-...
-BiDPO seems effective and sample-efficient but does not currently exceed more standard baselines. It’s hard to draw firm conclusions about BiDPO because TruthfulQA might not be measuring truthfulness ／factuality. However, we remain excited about DPO-driven Conditional Activation Steering, which has additional advantages—particularly for targeted loss mitigation.
-
-This result is largely negative. I wanted to share it to increase scientific understanding around steering! We also conducted a postmortem on why the method stopped outperforming baselines.
-I'd also like to note that @ryan_greenblatt's skepticism predicted this outcome more strongly than my worldview did. I want him to get points for that. :) While I think steering has targeted applications and provides clues about how LLMs function, it's not a slam-dunk Pareto improvement on benchmarks we care about.
-Read at https://turntrout.com/gemini-steering![1] 
-
-^
-Also mirrored on the GDM safety research Medium.
-
-
-Discuss]]></summary>
-        <author>
-            <name>Alex Turner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In response to critiques of Guaranteed Safe AI]]></title>
-        <id>DZuBHHKao6jsDDreH</id>
-        <link href="https://www.alignmentforum.org/posts/DZuBHHKao6jsDDreH/in-response-to-critiques-of-guaranteed-safe-ai"/>
-        <updated>2025-01-31T01:43:05.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 31, 2025 1:43 AM GMT
-
-In this post, I discuss a number of critiques of Guaranteed Safe AI (GSAI) approaches I’ve encountered since releasing this position paper. 
-The critiques I’m responding to here are taken from a range of places, including personal conversations and social media. The two most substantive written/recorded critiques I'm aware of (and had in mind when writing this post) are Andrew Dickson’s Limitations on Formal Verification for AI Safety and Zac Hatfield-Dodds’s talk Formal Verification is Overrated. I’ve done my best to do justice in our depiction of those critiques, but I certainly welcome clarifications or pushback where I seem to have missed the original point of a given critique.
-To be clear, the position I'm defending here (and will be adding m…]]></summary>
-        <author>
-            <name>Nora_Ammann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Tracing: A Powerful Approach to Debugging Complex Systems]]></title>
-        <id>https://medium.com/p/20700bc03334</id>
-        <link href="https://towardsdatascience.com/distributed-tracing-a-powerful-approach-to-debugging-complex-systems-20700bc03334?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T23:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Why distributed tracing is the key to resolving performance issues
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Hareesha Dandamudi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Creating Bad DAGs — Optimize Your Airflow Environment By Improving Your Python Code]]></title>
-        <id>https://medium.com/p/146fcf4d27f7</id>
-        <link href="https://towardsdatascience.com/stop-creating-bad-dags-optimize-your-airflow-environment-by-improving-your-python-code-146fcf4d27f7?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T20:31:57.000Z</updated>
-        <author>
-            <name>Alvaro Leandro Cavalcante Carneiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Mistral Small 3? All You Need to Know]]></title>
-        <id>https://www.analyticsvidhya.com/?p=218628</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/01/mistral-small-3/"/>
-        <updated>2025-01-30T19:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Mistral AI has launched its latest and most efficient small language model (SLM) – Mistral Small 3. It’s a 24-billion-parameter language model designed for high efficiency and low latency. The model aims to deliver robust performance across various AI tasks while maintaining rapid response times. Here’s all you need to know about Mistral Small 3 […]
-The post What is Mistral Small 3? All You Need to Know appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Pruning MNIST: How I Hit 99% Accuracy Using Half the Data]]></title>
-        <id>https://medium.com/p/9179a8fb4521</id>
-        <link href="https://towardsdatascience.com/data-pruning-mnist-how-i-hit-99-accuracy-using-half-the-data-9179a8fb4521?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T19:33:37.000Z</updated>
-        <author>
-            <name>Chris Lettieri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actually, Being a Data Scientist is Awesome]]></title>
-        <id>https://medium.com/p/3159e032c6b6</id>
-        <link href="https://towardsdatascience.com/actually-being-a-data-scientist-is-awesome-3159e032c6b6?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T18:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Don’t let the doom and gloom get to you
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Marina Wyss - Gratitude Driven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Data Science Content: Recognizing Common Pitfalls, Part 1]]></title>
-        <id>https://medium.com/p/72f5bab5a010</id>
-        <link href="https://towardsdatascience.com/navigating-data-science-content-recognizing-common-pitfalls-part-1-72f5bab5a010?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T17:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Uncovering and correcting misconceptions in online data science content to help you learn more effectively
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Geremie Yeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Things I Learned Building a Data Platform using a Medallion Architecture in the Last 4 Years]]></title>
-        <id>https://medium.com/p/7c1991a9ec50</id>
-        <link href="https://towardsdatascience.com/4-things-i-learned-building-a-data-platform-using-a-medallion-architecture-in-the-last-4-years-7c1991a9ec50?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T17:31:26.000Z</updated>
-        <author>
-            <name>Danilo Pinto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A sketch of an AI control safety case]]></title>
-        <id>vWYzSorAEWwoJnnXq</id>
-        <link href="https://www.alignmentforum.org/posts/vWYzSorAEWwoJnnXq/a-sketch-of-an-ai-control-safety-case"/>
-        <updated>2025-01-30T17:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 30, 2025 5:28 PM GMT
-
-This is a linkpost accompanying a new paper by UK AISI and Redwood Research. Please see the full paper for more details.
-
-An illustration of the control evaluation that provides the core evidence used in our control safety case sketch. During the control evaluation, a red team constructs adversarial substitute models to cause unacceptable outcomes in a deployment proxy consisting of 2,000 AI research tasks, followed by extrapolation to a larger deployment setting.
-Abstract. As LLM agents gain a greater capacity to cause harm, AI developers might increasingly rely on control measures such as monitoring to justify that they are safe. We sketch how developers could construct a “control safety case,” which is a structured argument that models are inca…]]></summary>
-        <author>
-            <name>Tomek Korbak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Share a Secret: Shamir’s Secret Sharing]]></title>
-        <id>https://medium.com/p/9a18a109a860</id>
-        <link href="https://towardsdatascience.com/how-to-share-a-secret-shamirs-secret-sharing-9a18a109a860?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T17:19:56.000Z</updated>
-        <author>
-            <name>Jimin Kang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development]]></title>
-        <id>pZhEQieM9otKXhxmd</id>
-        <link href="https://www.alignmentforum.org/posts/pZhEQieM9otKXhxmd/gradual-disempowerment-systemic-existential-risks-from"/>
-        <updated>2025-01-30T17:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 30, 2025 5:03 PM GMT
-
-Full version on arXiv | X
-Executive summary
-AI risk scenarios usually portray a relatively sudden loss of human control to AIs, outmaneuvering individual humans and human institutions, due to a sudden increase in AI capabilities, or a coordinated betrayal. However, we argue that even an incremental increase in AI capabilities, without any coordinated power-seeking, poses a substantial risk of eventual human disempowerment. This loss of human influence will be centrally driven by having more competitive machine alternatives to humans in almost all societal functions, such as economic labor, decision making, artistic creation, and even companionship.
-A gradual loss of control of our own civilization might sound implausible. Hasn't technological disr…]]></summary>
-        <author>
-            <name>Jan_Kulveit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nine Pico PIO Wats with Rust (Part 1)]]></title>
-        <id>https://medium.com/p/9d062067dc25</id>
-        <link href="https://towardsdatascience.com/nine-pico-pio-wats-with-rust-part-1-9d062067dc25?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T16:32:01.000Z</updated>
-        <author>
-            <name>Carl M. Kadie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Bandit Simulation in Marketing]]></title>
-        <id>https://medium.com/p/2e76acfe1d62</id>
-        <link href="https://towardsdatascience.com/contextual-bandit-simulation-in-marketing-2e76acfe1d62?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T16:16:13.000Z</updated>
-        <author>
-            <name>Jeff Allard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Series Forecasting with MFLES]]></title>
-        <id>https://medium.com/p/c452ede7834c</id>
-        <link href="https://towardsdatascience.com/time-series-forecasting-with-mfles-c452ede7834c?source=rss----7f60cf5620c9---4"/>
-        <updated>2025-01-30T15:31:56.000Z</updated>
-        <summary type="html"><![CDATA[The newest method in StatsForecast
-Continue reading on Towards Data Science »]]></summary>
-        <author>
-            <name>Tyler Blume</name>
         </author>
     </entry>
 </feed>
