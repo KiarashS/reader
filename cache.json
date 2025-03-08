@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=599069",
+          "author": "Argo Saakyan",
+          "description": "I examined several well-known object detection pipelines and designed one that best suits my needs and tasks\nThe post Custom Training Pipeline for Object Detection Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/",
+          "publishedOn": "2025-03-07T20:59:29.000Z",
+          "wordCount": 5780,
+          "title": "Custom Training Pipeline for Object Detection Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/infer_high_d_fine_m-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599201",
+          "author": "Vyacheslav Efimov",
+          "description": "Master the management of virtual environments\nThe post Comprehensive Guide to Dependency Management in Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/comprehensive-guide-to-dependency-management-in-python/",
+          "publishedOn": "2025-03-07T19:34:56.000Z",
+          "wordCount": 3610,
+          "title": "Comprehensive Guide to Dependency Management in Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Dependency-management.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599208",
+          "author": "Arielle Caron",
+          "description": "Data management, GPT context limits, and real-world challenges\nThe post Using GPT-4 for Personal Styling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/using-gpt-4-for-personal-styling/",
+          "publishedOn": "2025-03-07T18:57:52.000Z",
+          "wordCount": 7464,
+          "title": "Using GPT-4 for Personal Styling",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Glitter-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599180",
+          "author": "Muhammad Ardi",
+          "description": "Implementing CPTR (CaPtion TransformeR) from scratch with PyTorch\nThe post Image Captioning, Transformer Mode On appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/image-captioning-transformer-mode-on/",
+          "publishedOn": "2025-03-07T18:47:02.000Z",
+          "wordCount": 9518,
+          "title": "Image Captioning, Transformer Mode On",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Caption-transformer.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599290",
+          "author": "Dorian Drost",
+          "description": "Game Theory 101: Mixing strategies\nThe post When You Just Can’t Decide on a Single Action appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-you-just-cant-decide-on-a-single-action/",
+          "publishedOn": "2025-03-07T18:01:37.000Z",
+          "wordCount": 5711,
+          "title": "When You Just Can’t Decide on a Single Action",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/unnamed-7.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=598826",
           "author": "Claudia Ng",
           "description": "3 essential methods to track model drift you should know\nThe post How to Spot and Prevent Model Drift Before it Impacts Your Business appeared first on Towards Data Science.",
@@ -890,26 +940,6 @@
           "wordCount": 5469,
           "title": "Supercharge Your RAG with Multi-Agent Self-RAG",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_Mk3h4-E_5MD778JNFBO1pg.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597330",
-          "author": "Piero Paialunga",
-          "description": "DISCLAIMER: The idea of doing Cover Letter or even Resume with AI does not obviously start with me. A lot of people have done this before (very successfully) and have built websites and even companies from the idea. This is just a tutorial on how to build your own Cover Letter AI Generator App using […]\nThe post From Resume to Cover Letter Using AI and LLM, with Python and Streamlit appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-resume-to-cover-letter-using-ai-and-llm-with-python-and-streamlit/",
-          "publishedOn": "2025-02-05T05:44:03.000Z",
-          "wordCount": 5634,
-          "title": "From Resume to Cover Letter Using AI and LLM, with Python and Streamlit",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_KX5gpc1KEypqkCOll-HDtw-scaled.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597326",
-          "author": "Yuval Gorchover",
-          "description": "In the world of machine learning, we obsess over model architectures, training pipelines, and hyper-parameter tuning, yet often overlook a fundamental aspect: how our features live and breathe throughout their lifecycle. From in-memory calculations that vanish after each prediction to the challenge of reproducing exact feature values months later, the way we handle features can […]\nThe post ML Feature Management: A Practical Evolution Guide appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ml-feature-management-a-practical-evolution-guide/",
-          "publishedOn": "2025-02-05T00:48:35.000Z",
-          "wordCount": 3454,
-          "title": "ML Feature Management: A Practical Evolution Guide",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_-tm34ptSe8yaJrwEyLPGkA.png"
         }
       ]
     },
@@ -1579,16 +1609,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2017/12/favicon.png"
-        },
-        {
-          "id": "https://learnopencv.com/?p=63498",
-          "author": "Ankan Ghosh",
-          "description": "Leaf diseases reduce crop yields and impact food security. Finetuning SAM2 helps detect and segment diseased areas using deep learning. With a small dataset, we achieved 74% IoU, making early disease detection possible. Try the code, fine-tune it, and improve results. #AI #DeepLearning #Agriculture\nFinetuning SAM2 for Leaf Disease Segmentation first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/finetuning-sam2/",
-          "publishedOn": "2025-02-04T14:00:00.000Z",
-          "wordCount": 10227,
-          "title": "Finetuning SAM2 for Leaf Disease Segmentation",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/02/finetuning-sam2-feature.gif"
         }
       ]
     },
@@ -1644,6 +1664,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222224",
+          "author": "Harsh Mishra",
+          "description": "Understanding LLM Evaluation Metrics is crucial for maximizing the potential of large language models. LLM evaluation Metrics help measure a model’s accuracy, relevance, and overall effectiveness using various benchmarks and criteria. By systematically evaluating these models, developers can identify strengths, address weaknesses, and refine them for real-world applications. This process ensures that LLMs meet high […]\nThe post Top 15 LLM Evaluation Metrics to Explore in 2025 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/llm-evaluation-metrics/",
+          "publishedOn": "2025-03-07T18:30:31.000Z",
+          "wordCount": null,
+          "title": "Top 15 LLM Evaluation Metrics to Explore in 2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=224496",
+          "author": "Riya Bansal",
+          "description": "To this day, I remember coming across recurrent neural networks in our course work. Sequence data excite you initially, but then confusion sets in when differentiating between the multiple architectures. I asked my advisor, “Should I use an LSTM or a GRU for this NLP project?” His untimely, “It depends,” did nothing to assuage my […]\nThe post When to Use GRUs Over LSTMs? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/lstms-and-grus/",
+          "publishedOn": "2025-03-07T17:07:57.000Z",
+          "wordCount": null,
+          "title": "When to Use GRUs Over LSTMs?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225225",
+          "author": "Soumil Jain",
+          "description": "Retrieval-Augmented Generation (RAG) systems have revolutionized how we access and utilize vast amounts of data, enabling AI to deliver more informed and context-aware responses. However, their capabilities have largely been confined to digital text, overlooking valuable information in multimodal formats like scanned documents, images, and handwritten notes. Mistral OCR breaks this limitation by seamlessly integrating […]\nThe post How to Use Mistral OCR for Your Next RAG Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/mistral-ocr/",
+          "publishedOn": "2025-03-07T13:56:21.000Z",
+          "wordCount": null,
+          "title": "How to Use Mistral OCR for Your Next RAG Model",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=225131",
           "author": "Anu Madan",
@@ -3095,50 +3148,6 @@
           "title": "India’s AI Moment: Racing Against China and the U.S. in GenAI",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=219905",
-          "author": "Nitika Sharma",
-          "description": "Imagine a world of AI tutors. Personalized learning becomes accessible to every child. Diseases are diagnosed faster, saving lives. Scientific breakthroughs happen quicker, solving big problems. Now, picture India leading this change. In a compelling conversation, OpenAI CEO Sam Altman and India’s Union Minister Ashwini Vaishnaw discussed India’s AI strategy. They explored how India can […]\nThe post Sam Altman in India: OpenAI and India’s Vision for the Future of AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/sam-altman-in-india/",
-          "publishedOn": "2025-02-05T12:14:00.000Z",
-          "wordCount": null,
-          "title": "Sam Altman in India: OpenAI and India’s Vision for the Future of AI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=219774",
-          "author": "Dipanjan (DJ) Sarkar",
-          "description": "Agentic AI Systems are all the rage these days! They are simply LLMs in a for-loop connected with certain prompts and tools which can autonomously do tasks for you. However, you can also build reliable step-by-step workflows, guiding the LLM to be more reliable as it solves problems for you. Recently in February 2025, OpenAI […]\nThe post Build a Deep Research Agent: $1 Alternative to $200 OpenAI’s Tool appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/build-your-own-deep-research-agent/",
-          "publishedOn": "2025-02-05T12:03:17.000Z",
-          "wordCount": null,
-          "title": "Build a Deep Research Agent: $1 Alternative to $200 OpenAI’s Tool",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=219648",
-          "author": "Diksha Kumari",
-          "description": "Which LLM subscriptions do you currently have? ChatGPT Plus, Gemini Advanced, Claude Pro, or maybe something else? We all know that some models excel at content generation, others at image creation, while some are masters of data analysis. And to get the best of all worlds, you’ve probably been juggling multiple subscriptions. But what if […]\nThe post Stop Overpaying – Get All LLMs for Just $10 on ChatLLM! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/chatllm/",
-          "publishedOn": "2025-02-05T11:29:50.000Z",
-          "wordCount": null,
-          "title": "Stop Overpaying – Get All LLMs for Just $10 on ChatLLM!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=219751",
-          "author": "Harsh Mishra",
-          "description": "Ever wish your AI could switch between “fast and furious” and “deep and thoughtful”? OpenAI’s o3-mini offers precisely that with its three distinct reasoning levels: Low, Medium, and High. This article provides a detailed comparison of these modes, highlighting their speed, use cases, benchmarks, and ideal applications to help you choose the perfect level for […]\nThe post Low, Medium, or High: Which o3-mini Reasoning Level is the Smartest? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/o3-mini-reasoning-levels/",
-          "publishedOn": "2025-02-05T11:27:16.000Z",
-          "wordCount": null,
-          "title": "Low, Medium, or High: Which o3-mini Reasoning Level is the Smartest?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3742,26 +3751,6 @@
           "publishedOn": "2025-02-06T11:03:40.000Z",
           "wordCount": 15004,
           "title": "MATS Applications + Research Directions I'm Currently Excited About",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "FL8RunWvyS5L8uJEw",
-          "author": "Daniel Herrmann",
-          "description": "Published on February 4, 2025 8:34 PM GMT\n\nSummary:\nThis post outlines how a view we call subjective naturalism[1] poses challenges to classical Savage-style decision theory. Subjective naturalism requires (i) richness (the ability to represent all propositions the agent can entertain, including self-referential ones) and (ii) austerity (excluding events the agent deems impossible). It is one way of making precise certain requirements of embedded agency. We then present the Jeffrey–Bolker (JB) framework, which better accommodates an agent’s self-model and avoids forcing her to consider things she takes to be impossible.[2]\n1. Subjective Naturalism: Richness & Austerity\nA naturalistic perspective treats an agent as part of the physical world—just another system subject to the same laws. Amo…",
-          "link": "https://www.alignmentforum.org/posts/FL8RunWvyS5L8uJEw/subjective-naturalism-in-decision-theory-savage-vs-jeffrey",
-          "publishedOn": "2025-02-04T20:34:22.000Z",
-          "wordCount": 26808,
-          "title": "Subjective Naturalism in Decision Theory: Savage vs. Jeffrey–Bolker",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "PdtHzEb3cebnWCjoj",
-          "author": "Abram Demski",
-          "description": "Published on February 4, 2025 7:50 PM GMT\n\nIn his recent post arguing against AI Control research, John Wentworth argues that the median doom path goes through AI slop, rather than scheming. I find this to be plausible. I believe this suggests a convergence of interests between AI capabilities research and AI alignment research.\nHistorically, there has been a lot of concern about differential progress amongst AI safety researchers (perhaps especially those I tend to talk to). Some research is labeled as \"capabilities\" while other is labeled as \"safety\" (or, more often, \"alignment\"[1]). Most research is dual-use in practice (IE, has both capability and safety implications) and therefore should be kept secret or disclosed carefully.\nRecently, a colleague expressed concern that future AIs wil…",
-          "link": "https://www.alignmentforum.org/posts/PdtHzEb3cebnWCjoj/anti-slop-interventions",
-          "publishedOn": "2025-02-04T19:50:29.000Z",
-          "wordCount": 19079,
-          "title": "Anti-Slop Interventions?",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
