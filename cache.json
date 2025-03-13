@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=599509",
+          "author": "Mateus Trentz",
+          "description": "Straight-to-the-point tips for the best SQL IDE\nThe post 7 Powerful DBeaver Tips and Tricks to Improve Your SQL Workflow appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/7-powerful-dbeaver-tips-and-tricks-to-improve-your-sql-workflow/",
+          "publishedOn": "2025-03-12T04:01:53.000Z",
+          "wordCount": 3479,
+          "title": "7 Powerful DBeaver Tips and Tricks to Improve Your SQL Workflow",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/unnamed-66.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599526",
+          "author": "Marina Wyss",
+          "description": "And get hired!\nThe post How to Switch from Data Analyst to Data Scientist appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-switch-from-data-analyst-to-data-scientist/",
+          "publishedOn": "2025-03-12T03:38:33.000Z",
+          "wordCount": 4850,
+          "title": "How to Switch from Data Analyst to Data Scientist",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Butterflies.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=599534",
           "author": "Niklas Lang",
           "description": "A comprehensive guide covering Hadoop setup, HDFS commands, MapReduce, debugging, advantages, challenges, and the future of big data technologies.\nThe post Mastering Hadoop, Part 1: Installation, Configuration, and Modern Big Data Strategies appeared first on Towards Data Science.",
@@ -939,6 +959,26 @@
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
         {
+          "id": "https://machinelearningmastery.com/?p=19142",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Be sure to check out the previous articles in this series: • <a href=\"https://machinelearningmastery.",
+          "link": "https://machinelearningmastery.com/understanding-rag-part-vii-vector-databases-indexing-strategies/",
+          "publishedOn": "2025-03-12T12:55:45.000Z",
+          "wordCount": null,
+          "title": "Understanding RAG Part VII: Vector Databases & Indexing Strategies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19317",
+          "author": "Jayita Gulati",
+          "description": "Time series forecasting is a statistical technique used to analyze historical data points and predict future values based on temporal patterns.",
+          "link": "https://machinelearningmastery.com/mastering-time-series-forecasting-from-arima-to-lstm/",
+          "publishedOn": "2025-03-12T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Mastering Time Series Forecasting: From ARIMA to LSTM",
+          "imageUrl": null
+        },
+        {
           "id": "https://machinelearningmastery.com/?p=19086",
           "author": "Iván Palomares Carrascosa",
           "description": "Matrices are a key concept not only in linear algebra but also with regard to their prominent application and use in machine learning (ML) and data science.",
@@ -1127,16 +1167,6 @@
           "wordCount": null,
           "title": "The Role of Domain Knowledge in Machine Learning: Why Subject Matter Experts Matter",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=19041",
-          "author": "Iván Palomares Carrascosa",
-          "description": "LangChain is a robust framework conceived to simplify the developing of LLM-powered applications — with LLM, of course, standing for large language model.",
-          "link": "https://machinelearningmastery.com/10-useful-langchain-components-rag-system/",
-          "publishedOn": "2025-02-10T11:00:47.000Z",
-          "wordCount": null,
-          "title": "10 Useful LangChain Components for Your Next RAG System",
-          "imageUrl": null
         }
       ]
     },
@@ -1156,7 +1186,18 @@
       "title": "FastML",
       "feedUrl": "https://fastml.com/atom.xml",
       "siteUrl": "https://fastml.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://fastml.com/they-are-selling-dollars-for-69-cents-now/",
+          "author": null,
+          "description": "Back in October 2024 we posted about the US presidential election probabilities and if someone took the gamble, it backfired. To make up for it, here …",
+          "link": "https://fastml.com/they-are-selling-dollars-for-69-cents-now/",
+          "publishedOn": "2025-03-11T23:00:00.000Z",
+          "wordCount": 946,
+          "title": "They are selling dollars for 69 cents now",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Adit Deshpande",
@@ -1582,6 +1623,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=65025",
+          "author": "Sovit Rath",
+          "description": "In this article, we explore OmniParser a UI screen parsing pipeline combining fine-tuned YOLO model for icon detection and Florence2 for icon recognition and icon description generation.\nOmniParser: Vision Based GUI Agent first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/omniparser-vision-based-gui-agent/",
+          "publishedOn": "2025-03-12T13:49:14.000Z",
+          "wordCount": 7585,
+          "title": "OmniParser: Vision Based GUI Agent",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/02/omnitool_demo_opencv_github.mp4",
+            "length": "4917009",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/03/omniparser-vision-based-gui-agent.gif"
+        },
+        {
           "id": "https://learnopencv.com/?p=65673",
           "author": "Shubham",
           "description": "Object detection has undergone tremendous advancements, with models like YOLOv12, YOLOv11, and YOLOv7-based DarkNet leading the way in real-time detection. While these models perform exceptionally well on general object detection datasets, fine-tuning YOLOv12 on HRSC2016-MS (High-Resolution Ship Collections) presents unique challenges. This article provides a detailed end-to-end pipeline for fine-tuning YOLOv12, YOLOv11, and YOLOv7-based DarkNet […]\nFine-Tuning YOLOv12: Comparison with YOLOv11 & YOLOv7-Based DarkNet first appeared on LearnOpenCV.",
@@ -1705,6 +1761,72 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226242",
+          "author": "K.C. Sabreena Basheer",
+          "description": "Google has just launched its latest state-of-the-art lightweight language model, Gemma 3. The model looks promising, outperforming Meta’s Llama 3, DeepSeek-V3, and OpenAI’s o3-mini in standard benchmark tests. While Google claims that it’s the “world’s best single-accelerator model,” let’s see how well it actually performs against other popular models. In this Gemma 3 27B vs […]\nThe post Gemma 3 vs DeepSeek-R1: Is Google’s New 27B Model a Tough Competition to the 671B Giant? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/gemma-3-vs-deepseek-r1/",
+          "publishedOn": "2025-03-12T19:18:58.000Z",
+          "wordCount": null,
+          "title": "Gemma 3 vs DeepSeek-R1: Is Google’s New 27B Model a Tough Competition to the 671B Giant?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226195",
+          "author": "Anu Madan",
+          "description": "OpenAI has been a leading solutions provider in the GenAI space. From the legendary ChatGPT to Sora, it is a go-to platform for all the working professionals out there. With Qwen and Claude gaining popularity among developers, OpenAI is back again with its latest updates, empowering developers to create more reliable and capable AI agents. […]\nThe post How to Use OpenAI’s Responses API & Agent SDK? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/open-ai-responses-api/",
+          "publishedOn": "2025-03-12T16:39:09.000Z",
+          "wordCount": null,
+          "title": "How to Use OpenAI’s Responses API & Agent SDK?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225985",
+          "author": "Pankaj Singh",
+          "description": "In a significant step toward empowering developers and enterprises to create more reliable and capable AI agents, OpenAI released the Agent SDK on March 11, 2025, alongside a suite of impactful API updates. This release introduces several powerful tools designed to enhance AI-driven applications, including the Responses API, built-in tools, OpenAI Agents SDK, and observability […]\nThe post New Tools for Building AI Agents: OpenAI Agent SDK, Response API and More appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/openai-agents-update/",
+          "publishedOn": "2025-03-12T10:36:34.000Z",
+          "wordCount": null,
+          "title": "New Tools for Building AI Agents: OpenAI Agent SDK, Response API and More",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225663",
+          "author": "Nibedita Dutta",
+          "description": "Have you ever thought about how to make communication easier for people who use a mix of Hindi and English, commonly known as Hinglish? With the growing use of Hinglish in everyday conversations, social media, and advertising, there’s a need for tools that can accurately translate between English and Hinglish. This is where advanced language […]\nThe post Refining English-to-Hinglish Translations with Gemma 2 9B appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/refining-english-to-hinglish-translations-with-gemma-2-9b/",
+          "publishedOn": "2025-03-12T03:30:00.000Z",
+          "wordCount": null,
+          "title": "Refining English-to-Hinglish Translations with Gemma 2 9B",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225552",
+          "author": "Krishnaveni Ponna",
+          "description": "Have you ever thought about how to use the power of artificial intelligence to make complex tasks easier? What if you could create AI-driven applications without needing advanced technical skills? With tools like DeepSeek-V3, a state-of-the-art language model, and Gradio, a simple interface builder, building AI solutions has never been more straightforward. Whether you’re writing […]\nThe post Building AI-Powered Apps with DeepSeek-V3 and Gradio Using Prompt Engineering appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/deepseek-v3-and-gradio-apps/",
+          "publishedOn": "2025-03-12T03:05:00.000Z",
+          "wordCount": null,
+          "title": "Building AI-Powered Apps with DeepSeek-V3 and Gradio Using Prompt Engineering",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225105",
+          "author": "Avijit Biswas",
+          "description": "Financial reports are critical for assessing a company’s health. They span hundreds of pages, making it difficult to extract specific insights efficiently. Analysts and investors spend hours sifting through balance sheets, income statements and footnotes just to answer simple questions such as – What was the company’s revenue in 2024? With recent advancements in LLM […]\nThe post Building a Financial Report Retrieval System with LlamaIndex and Gemini 2.0 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/building-a-financial-report-retrieval-system/",
+          "publishedOn": "2025-03-12T02:48:00.000Z",
+          "wordCount": null,
+          "title": "Building a Financial Report Retrieval System with LlamaIndex and Gemini 2.0",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=225830",
           "author": "Janvi Kumari",
@@ -3090,61 +3212,6 @@
           "title": "Build an Agent with o3-mini to Predict Gold Prices",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220541",
-          "author": "Himanshu Ranjan",
-          "description": "The field of natural language processing (NLP) has seen significant advancements in the past few years, with post-training techniques playing a crucial role in refining language models. While proprietary models like OpenAI’s GPT-4 and Anthropic’s Claude lead the market, open-source alternatives often lag due to limited access to post-training data and methodologies. Tülu 3 addresses […]\nThe post Tülu 3 : Advancing Open Language Model Post-Training appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/tulu-3/",
-          "publishedOn": "2025-02-10T12:19:42.000Z",
-          "wordCount": null,
-          "title": "Tülu 3 : Advancing Open Language Model Post-Training",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220285",
-          "author": "Ayushi Trivedi",
-          "description": "The recent release of Gemini 2.0 models is getting a lot of attention, with everyone comparing them to OpenAI and DeepSeek models for reasoning and language tasks. When it comes to coding though, I think Claude Sonnet 3.5 and Qwen 2.5 give really good results compared to others. With that in mind, I decided to […]\nThe post Gemini 2.0 vs Claude 3.5 Sonnet: Which is Better for Coding? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/gemini-2-0-vs-claude-3-5-sonnet/",
-          "publishedOn": "2025-02-10T12:15:58.000Z",
-          "wordCount": null,
-          "title": "Gemini 2.0 vs Claude 3.5 Sonnet: Which is Better for Coding?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220619",
-          "author": "Anu Madan",
-          "description": "The Global AI Summit in Paris is set to bring together the world’s most influential leaders in artificial intelligence. French President Emmanuel Macron will take center stage as the host, reaffirming France’s commitment to shaping the future of AI. The summit is co-chaired by Canada, the United Kingdom, and the European Commission, underscoring the global […]\nThe post 12 Visions of Emmanuel Macron on France Becoming an AI Leader appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/visions-of-emmanuel-macron/",
-          "publishedOn": "2025-02-10T10:36:36.000Z",
-          "wordCount": null,
-          "title": "12 Visions of Emmanuel Macron on France Becoming an AI Leader",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220504",
-          "author": "Nitika Sharma",
-          "description": "The AI assistant space is getting crowded like a Reddit thread during breaking news. From ChatGPT, Claude to Qwen and DeepSeek – the options are neverending. And here I am – giving you another addition to your AI toolkit – Mistral’s Le Chat. In this article, I will be discussing all about this new AI […]\nThe post 10 Tasks Mistral’s Le Chat Handles Better Than Any Other AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/mistrals-le-chat/",
-          "publishedOn": "2025-02-09T19:21:41.000Z",
-          "wordCount": null,
-          "title": "10 Tasks Mistral’s Le Chat Handles Better Than Any Other AI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220488",
-          "author": "Nitika Sharma",
-          "description": "Every time I surf the internet, I come across a new mind-blowing advancement in AI. The times we’re living in feels straight out of a sci-fi movie! So, what’s on the table today? Well, in a recent interview, NVIDIA CEO Jensen Huang shared his bold vision for the future of computing, robotics, and AI. His […]\nThe post 8 Future Predictions from Jensen Huang that Sound Like Sci-Fi appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/future-predictions-from-jensen-huang/",
-          "publishedOn": "2025-02-09T16:21:13.000Z",
-          "wordCount": null,
-          "title": "8 Future Predictions from Jensen Huang that Sound Like Sci-Fi",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3189,6 +3256,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/interviewing-eugene-vinitsky-on-self",
+          "author": "Nathan Lambert",
+          "description": "#13. Reinforcement learning fundamentals and scaling.",
+          "link": "https://www.interconnects.ai/p/interviewing-eugene-vinitsky-on-self",
+          "publishedOn": "2025-03-12T13:03:15.000Z",
+          "wordCount": null,
+          "title": "Interviewing Eugene Vinitsky on self-play for self-driving and what else people do with RL",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/158889109/33e8798817d97c5f1a8ed256c86bab18.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.interconnects.ai/p/elicitation-theory-of-post-training",
           "author": "Nathan Lambert",
