@@ -2,10 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-13T01:13:03.633Z</updated>
+    <updated>2025-03-14T01:12:00.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Parquet File]]></title>
+        <id>https://towardsdatascience.com/?p=599583</id>
+        <link href="https://towardsdatascience.com/anatomy-of-a-parquet-file/"/>
+        <updated>2025-03-14T00:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Parquet from scratch: A Python deep dive into a raw parquet file
+The post Anatomy of a Parquet File appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kilian Ollivier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourier Transform Applications in Literary Analysis]]></title>
+        <id>https://towardsdatascience.com/?p=599580</id>
+        <link href="https://towardsdatascience.com/fourier-transform-applications-in-literary-analysis/"/>
+        <updated>2025-03-13T23:25:18.000Z</updated>
+        <summary type="html"><![CDATA[How mathematics and data analysis can offer a head start to analysing poetry, before even reading the words.
+The post Fourier Transform Applications in Literary Analysis appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Oliver W. Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Hadoop, Part 2: Getting Hands-On — Setting Up and Scaling Hadoop]]></title>
+        <id>https://towardsdatascience.com/?p=599577</id>
+        <link href="https://towardsdatascience.com/mastering-hadoop-part-2-getting-hands-on-setting-up-and-scaling-hadoop/"/>
+        <updated>2025-03-13T20:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Hadoop’s core components before installation and scaling
+The post Mastering Hadoop, Part 2: Getting Hands-On — Setting Up and Scaling Hadoop appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Niklas Lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are You Still Using LoRA to Fine-Tune Your LLM?]]></title>
+        <id>https://towardsdatascience.com/?p=599574</id>
+        <link href="https://towardsdatascience.com/are-you-still-using-lora-to-fine-tune-your-llm/"/>
+        <updated>2025-03-13T20:25:32.000Z</updated>
+        <summary type="html"><![CDATA[A look at this year’s crop of LoRA alternatives
+The post Are You Still Using LoRA to Fine-Tune Your LLM? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Martin Görner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing language models for hidden objectives]]></title>
+        <id>wSKPuBfgkkqfTpmWJ</id>
+        <link href="https://www.alignmentforum.org/posts/wSKPuBfgkkqfTpmWJ/auditing-language-models-for-hidden-objectives"/>
+        <updated>2025-03-13T19:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 13, 2025 7:18 PM GMT
+
+We study alignment audits—systematic investigations into whether an AI is pursuing hidden objectives—by training a model with a hidden misaligned objective and asking teams of blinded researchers to investigate it.
+This paper was a collaboration between the Anthropic Alignment Science and Interpretability teams.
+Abstract
+We study the feasibility of conducting alignment audits: investigations into whether models have undesired objectives. As a testbed, we train a language model with a hidden objective. Our training pipeline first teaches the model about exploitable errors in RLHF reward models (RMs), then trains the model to exploit some of these errors. We verify via out-of-distribution evaluations that the model generalizes to exhibit whatever beha…]]></summary>
+        <author>
+            <name>Sam Marks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Will Be The Year of Data + AI Observability]]></title>
+        <id>https://towardsdatascience.com/?p=599567</id>
+        <link href="https://towardsdatascience.com/2026-will-be-the-year-of-data-ai-observability/"/>
+        <updated>2025-03-13T19:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Observations on performance and reliability from conversations with dozens of teams racing to productize enterprise AI
+The post 2026 Will Be The Year of Data + AI Observability appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Barr Moses</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemma 3, OLMo 2 32B, and the growing potential of open-source AI]]></title>
+        <id>https://www.interconnects.ai/p/gemma-3-olmo-2-32b-and-the-growing</id>
+        <link href="https://www.interconnects.ai/p/gemma-3-olmo-2-32b-and-the-growing"/>
+        <updated>2025-03-13T18:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Leading open-weight models and the first open-source model to clearly surpass GPT 3.5 (the very last version).]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphRAG: Now Faster and Cost-Effective for Medical Document Analysis]]></title>
+        <id>https://learnopencv.com/?p=64975</id>
+        <link href="https://learnopencv.com/graphrag-explained-knowledge-graphs-medical/"/>
+        <updated>2025-03-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GraphRAG is a pivotal research from Microsoft improving the shortcomings of naive RAG by employing structured Knowledge graph which includes entities, relations, claims etc, for traceability by traversing multi-hop nodes.
+GraphRAG: Now Faster and Cost-Effective for Medical Document Analysis  first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Jaykumaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Gemma 3: Features, Benchmarks, Performance and Implementation]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226306</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gemma-3/"/>
+        <updated>2025-03-13T08:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Google’s commitment to making AI accessible leaps forward with Gemma 3, the latest addition to the Gemma family of open models. After an impressive first year – marked by over 100 million downloads and more than 60,000 community-created variants – the Gemmaverse continues to expand. With Gemma 3, developers gain access to a lightweight AI […]
+The post Google’s Gemma 3: Features, Benchmarks, Performance and Implementation appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Shaik Hamzah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried Vibe Coding with Cursor AI and It’s Amazing!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=225982</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/vibe-coding-with-cursor-ai/"/>
+        <updated>2025-03-13T06:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Vibe coding is reshaping the world of software development by letting us create applications using natural language instead of endless lines of code. Inspired by visionaries like Andrej Karpathy, this innovative approach lets developers simply speak or type their ideas, while AI tools, such as Cursor AI, handle the heavy lifting. Cursor AI is a […]
+The post I Tried Vibe Coding with Cursor AI and It’s Amazing! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Apache Iceberg Tables?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=225709</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/apache-iceberg-tables/"/>
+        <updated>2025-03-13T04:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Apache Iceberg is a modern table format designed to overcome the limitations of traditional Hive tables, offering improved performance, consistency, and scalability. In this article, we will explore the evolution of Iceberg, its key features like ACID transactions, partition evolution, and time travel, and how it integrates with modern data lakes. We’ll also dive into […]
+The post How to Use Apache Iceberg Tables? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Abhishek Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Multi Agentic System for Handwritten Answer Evaluation using Griptape]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226064</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/multi-agentic-system-for-handwritten-answer-evaluation/"/>
+        <updated>2025-03-13T03:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing an automatic grading system for handwritten answer sheets using a multi-agent framework streamlines evaluation, reduces manual effort, and enhances consistency. A multi-agent system (MAS) consists of autonomous agents that extract information, grade answers, and suggest improvements. By leveraging Handwritten Answer Evaluation using Griptape, educators can automate grading, ensuring accuracy and efficiency. This approach allows […]
+The post Building Multi Agentic System for Handwritten Answer Evaluation using Griptape appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nibedita Dutta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemma 3 vs DeepSeek-R1: Is Google’s New 27B Model a Tough Competition to the 671B Giant?]]></title>
         <id>https://www.analyticsvidhya.com/?p=226242</id>
@@ -225,6 +360,20 @@ The post Heatmaps for Time Series  appeared first on Towards Data Science.]]></
 The post How to Make Your LLM More Accurate with RAG & Fine-Tuning appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sarah Lea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Language Models Understand Nullability]]></title>
+        <id>QqE7Gmcqjm5CX6zxE</id>
+        <link href="https://www.alignmentforum.org/posts/QqE7Gmcqjm5CX6zxE/how-language-models-understand-nullability"/>
+        <updated>2025-03-11T16:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 11, 2025 3:57 PM GMT
+
+TL;DR Large language models have demonstrated an emergent ability to write code, but this ability requires an internal representation of program semantics that is little understood. Recent interpretability work has demonstrated that it is possible to extract internal representations of natural language concepts, raising the possibility that similar techniques could be used to extract program semantics concepts. In this work, we study how large language models represent the nullability of program values. We measure how well models of various sizes at various training checkpoints complete programs that use nullable values, and then extract an internal representation of nullability.
+Introduction
+The last five years have shown us that large language mod…]]></summary>
+        <author>
+            <name>Anish Tondwalkar</name>
         </author>
     </entry>
     <entry>
@@ -3749,113 +3898,6 @@ The post Building a RAG System for AI Reasoning with DeepSeek R1 Distilled Model
 Agentic AI: A Comprehensive Introduction first appeared on LearnOpenCV.]]></summary>
         <author>
             <name>Shubham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Amazing Video Generation Tools You Need to Check Out Today!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=220855</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/video-generation-tools/"/>
-        <updated>2025-02-11T12:58:30.000Z</updated>
-        <summary type="html"><![CDATA[AI-driven video generation is evolving at an unprecedented pace, with new models pushing the boundaries of creativity and realism. Notably, Chinese AI models are now taking the lead, showcasing remarkable advancements in text-to-video and image-to-video generation. From Kling AI’s high-quality, lip-synced videos to Pikadditions and advanced motion control in Pika 2.1, these models are redefining […]
-The post 10 Amazing Video Generation Tools You Need to Check Out Today! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Custom Layers and Loss Functions in PyTorch]]></title>
-        <id>https://machinelearningmastery.com/?p=19052</id>
-        <link href="https://machinelearningmastery.com/creating-custom-layers-loss-functions-pytorch/"/>
-        <updated>2025-02-11T12:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Creating custom layers and loss functions in <a href="https://pytorch.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an AI-Powered Learning Assistant with CrewAI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=220873</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/learning-assistant-with-crewai/"/>
-        <updated>2025-02-11T12:41:31.000Z</updated>
-        <summary type="html"><![CDATA[With the rapid advancements in AI, automating educational content creation has become more accessible and efficient. CrewAI is a powerful framework that enables developers to build AI-driven agents capable of handling structured workflows. In this guide, we demonstrate how to integrate CrewAI with OpenAI’s GPT models and Serper API to create an intelligent learning assistant. […]
-The post Building an AI-Powered Learning Assistant with CrewAI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Himanshu Ranjan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Domain Knowledge in Machine Learning: Why Subject Matter Experts Matter]]></title>
-        <id>https://machinelearningmastery.com/?p=19047</id>
-        <link href="https://machinelearningmastery.com/role-domain-knowledge-machine-learning/"/>
-        <updated>2025-02-11T11:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning (ML) is considered the largest subarea of artificial intelligence (AI) , studying the development of software systems that learn from data by themselves to perform a task, without being explicitly programmed with the instructions to address it.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ideas: Building AI for population-scale systems with Akshay Nambi]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1127448</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/ideas-building-ai-for-population-scale-systems-with-akshay-nambi/"/>
-        <updated>2025-02-11T04:26:10.000Z</updated>
-        <summary type="html"><![CDATA[Advances in AI are driving meaningful real-world impact. Principal Researcher Akshay Nambi shares how his passion for tackling real-world challenges across various domains fuels his work in building reliable and robust AI systems.
-The post Ideas: Building AI for population-scale systems with Akshay Nambi appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind’s AlphaGeometry2 Surpasses Math Olympiad]]></title>
-        <id>https://www.analyticsvidhya.com/?p=220825</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/deepminds-alphageometry2-surpasses-math-olympiad/"/>
-        <updated>2025-02-10T20:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Remember those dreaded Math Olympiad days? Most of us have vivid memories of staring at complex geometry problems, scratching our heads, and wondering if anyone could actually solve these puzzles. While some of us barely managed to draw a proper circle, there were always those brilliant few who brought home medals. Well, here’s something that […]
-The post DeepMind’s AlphaGeometry2 Surpasses Math Olympiad appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Diksha Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six Ways to Control Style and Content in Diffusion Models]]></title>
-        <id>https://towardsdatascience.com/?p=597623</id>
-        <link href="https://towardsdatascience.com/six-ways-to-control-style-and-content-in-diffusion-models/"/>
-        <updated>2025-02-10T18:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Stable Diffusion 1.5/2.0/2.1/XL 1.0, DALL-E, Imagen… In the past years, diffusion models have showcased stunning quality in image generation. However, while producing great quality on generic concepts, these struggle to generate high quality for more specialised queries, for example generating images in a specific style, that was not frequently seen in the training dataset. We […]
-The post Six Ways to Control Style and Content in Diffusion Models appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aliaksei Mikhailiuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 2.9.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:67aa2951f3afdf40526f4f57</id>
-        <link href="https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw-p3bpn-gj8zp-p9mmz-b34zn"/>
-        <updated>2025-02-10T16:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Bhagavad Gita AI Assistant with Deepseek R1, Qdrant, and LlamaIndex]]></title>
-        <id>https://www.analyticsvidhya.com/?p=220535</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/building-a-bhagavad-gita-ai-assistant/"/>
-        <updated>2025-02-10T15:32:46.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-evolving world of AI, large language models are pushing boundaries in speed, accuracy, and cost-efficiency. The recent release of Deepseek R1, an open-source model rivaling OpenAI’s o1, is a hot topic in the AI space, especially given its 27x lower cost and superior reasoning capabilities. Pair this with Qdrant’s binary quantization for efficient […]
-The post Building a Bhagavad Gita AI Assistant with Deepseek R1, Qdrant, and LlamaIndex appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Tarun R Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an Agent with o3-mini to Predict Gold Prices]]></title>
-        <id>https://www.analyticsvidhya.com/?p=220638</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/build-an-agent-with-o3-mini-to-predict-gold-prices/"/>
-        <updated>2025-02-10T15:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Have you been tracking gold prices as of late? What if there was an agent that could autonomously send you daily gold rates? What if the agent could even predict tomorrow’s gold prices? With o3-mini AI integration, we can develop intelligent systems that can analyze financial trends and generate structured insights. In this article, we […]
-The post Build an Agent with o3-mini to Predict Gold Prices appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
         </author>
     </entry>
 </feed>
