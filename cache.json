@@ -12,6 +12,76 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=599603",
+          "author": "Jonte Dancker",
+          "description": "What we can learn from Anthropic’s analysis of millions of Claude.ai chats\nThe post The Impact of GenAI and Its Implications for Data Scientists appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-impact-of-genai-and-its-implications-for-data-scientists/",
+          "publishedOn": "2025-03-14T22:56:09.000Z",
+          "wordCount": 3511,
+          "title": "The Impact of GenAI and Its Implications for Data Scientists",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/GenAI-implications.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599600",
+          "author": "Ugo Pradère",
+          "description": "How prompt evaluation with a systematic approach composed of algorithmic testing with input/output data fixtures can make prompt engineering for complex AI tasks more reliable.\nThe post Mastering Prompt Engineering with Functional Testing: A Systematic Guide to Reliable LLM Outputs  appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/mastering-prompt-engineering-with-functional-testing-a-systematic-guide-to-reliable-llm-outputs/",
+          "publishedOn": "2025-03-14T22:48:00.000Z",
+          "wordCount": 5515,
+          "title": "Mastering Prompt Engineering with Functional Testing: A Systematic Guide to Reliable LLM Outputs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Prompt-engineering-scientific-approach.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599597",
+          "author": "Carl M. Kadie",
+          "description": "Raspberry Pi programmable IO pitfalls illustrated with a musical example\nThe post Nine Pico PIO Wats with Rust (Part 2) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/nine-pico-pio-wats-with-rust-part-2/",
+          "publishedOn": "2025-03-14T18:45:53.000Z",
+          "wordCount": 5921,
+          "title": "Nine Pico PIO Wats with Rust (Part 2)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Pico.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599593",
+          "author": "Ari Joury, PhD",
+          "description": "From startups to enterprise, companies are lowering costs and regaining control over their operations\nThe post Forget About Cloud Computing. On-Premises Is All the Rage Again appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/forget-about-cloud-computing-on-premises-is-all-the-rage-again/",
+          "publishedOn": "2025-03-14T18:19:36.000Z",
+          "wordCount": 4165,
+          "title": "Forget About Cloud Computing. On-Premises Is All the Rage Again",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/on-prem.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599590",
+          "author": "Simon Grah",
+          "description": "Clean data, clear insights: The LLM workflow for reshaping spreadsheets\nThe post Effortless Spreadsheet Normalisation With LLM appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/effortless-spreadsheet-normalisation-with-llm/",
+          "publishedOn": "2025-03-14T18:10:04.000Z",
+          "wordCount": 4391,
+          "title": "Effortless Spreadsheet Normalisation With LLM",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Spreadsheet-normalization.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599564",
+          "author": "Dorian Drost",
+          "description": "Game theory 101: Dynamic games\nThe post One Turn After Another appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/one-turn-after-another/",
+          "publishedOn": "2025-03-14T16:54:43.000Z",
+          "wordCount": 5414,
+          "title": "One Turn After Another",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/one-turn.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=599586",
+          "author": "Shuai Guo",
+          "description": "Skip the noise and focus on what really matters in PINN development\nThe post Essential Review Papers on Physics-Informed Neural Networks: A Curated Guide for Practitioners appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/essential-review-papers-on-physics-informed-neural-networks-a-curated-guide-for-practitioners/",
+          "publishedOn": "2025-03-14T03:54:40.000Z",
+          "wordCount": 5313,
+          "title": "Essential Review Papers on Physics-Informed Neural Networks: A Curated Guide for Practitioners",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Review-2.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=599583",
           "author": "Kilian Ollivier",
           "description": "Parquet from scratch: A Python deep dive into a raw parquet file\nThe post Anatomy of a Parquet File appeared first on Towards Data Science.",
@@ -930,66 +1000,6 @@
           "wordCount": 4711,
           "title": "Branching Out: 4 Git Workflows for Collaborating on ML",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_lhl78yndn7W2EH1TI0DvrQ.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597760",
-          "author": "Tobias Cabanski",
-          "description": "Decision tree algorithms have always fascinated me. They are easy to implement and achieve good results on various classification and regression tasks. Combined with boosting, decision trees are still state-of-the-art in many applications. Frameworks such as sklearn, lightgbm, xgboost and catboost have done a very good job until today. However, in the past few months, […]\nThe post Build a Decision Tree in Polars from Scratch appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch/",
-          "publishedOn": "2025-02-12T05:11:20.000Z",
-          "wordCount": 7831,
-          "title": "Build a Decision Tree in Polars from Scratch",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_x7Y4ENTz6DUj9ozZ.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597744",
-          "author": "Sarah Lea",
-          "description": "Virtualization makes it possible to run multiple virtual machines (VMs) on a single piece of physical hardware. These VMs behave like independent computers, but share the same physical computing power. A computer within a computer, so to speak. Many cloud services rely on virtualization. But other technologies, such as containerization and serverless computing, have become […]\nThe post Virtualization & Containers for Data Science Newbies appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/virtualization-containers-for-data-science-newbies/",
-          "publishedOn": "2025-02-12T01:04:25.000Z",
-          "wordCount": 4842,
-          "title": "Virtualization & Containers for Data Science Newbies",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_jrBmlL-kPwMvZX0EcUXFKQ.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597678",
-          "author": "Vladimir Zhyvov",
-          "description": "Bubble charts elegantly compress large amounts of information into a single visualization, with bubble size adding a third dimension. However, comparing “before” and “after” states is often crucial. To address this, we propose adding a transition between these states, creating an intuitive user experience. Since we couldn’t find a ready-made solution, we developed our own. […]\nThe post 4-Dimensional Data Visualization: Time in Bubble Charts appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/4-dimensional-data-visualization-time-in-bubble-charts/",
-          "publishedOn": "2025-02-12T00:50:28.000Z",
-          "wordCount": 4639,
-          "title": "4-Dimensional Data Visualization: Time in Bubble Charts",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Zhyvov-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597690",
-          "author": "Maja Pavlovic",
-          "description": "How Reliable Are Your Predictions? About To be considered reliable, a model must be calibrated so that its confidence in each decision closely reflects its true outcome. In this blog post we’ll take a look at the most commonly used definition for calibration and then dive into a frequently used evaluation measure for model calibration. […]\nThe post Understanding Model Calibration: A Gentle Introduction & Visual Exploration appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/understanding-model-calibration-a-gentle-introduction-visual-exploration/",
-          "publishedOn": "2025-02-11T22:00:41.000Z",
-          "wordCount": 5666,
-          "title": "Understanding Model Calibration: A Gentle Introduction & Visual Exploration",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/i18_rankcs-1024x344-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597655",
-          "author": "Jens Linden, PhD",
-          "description": "There seems to be a consensus that leveraging data, analytics, and AI to create a data-driven organization requires a clear strategic approach. However, there is less clarity and agreement on exactly what this strategic approach should look like in practice. This article provides a short overview of what strategy work I believe is required to […]\nThe post Data vs. Business Strategy appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/data-vs-business-strategy/",
-          "publishedOn": "2025-02-11T21:31:02.000Z",
-          "wordCount": 4809,
-          "title": "Data vs. Business Strategy",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Linden-4-1024x470.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597637",
-          "author": "Eirik Berge, PhD",
-          "description": "Overview Introduction — Purpose and Reasons Speed is important when dealing with large amounts of data. If you are handling data in a cloud data warehouse or similar, then the speed of execution for your data ingestion and processing affects the following: As you’ve probably understood from the title, I am going to provide a […]\nThe post Polars vs. Pandas — An Independent Speed Comparison appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/polars-vs-pandas-an-independent-speed-comparison/",
-          "publishedOn": "2025-02-11T21:07:55.000Z",
-          "wordCount": 4971,
-          "title": "Polars vs. Pandas — An Independent Speed Comparison",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Stream-of-lights.webp"
         }
       ]
     },
@@ -1167,26 +1177,6 @@
           "wordCount": null,
           "title": "Prompt Engineering Patterns for Successful RAG Implementations",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=19062",
-          "author": "Cornellius Yudha Wijaya",
-          "description": "Large language models (LLMs) have evolved and permeated our lives so much and so quickly that many we have become dependent on them in all sorts of scenarios.",
-          "link": "https://machinelearningmastery.com/implementing-multi-modal-rag-systems/",
-          "publishedOn": "2025-02-12T11:00:32.000Z",
-          "wordCount": null,
-          "title": "Implementing Multi-Modal RAG Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=19056",
-          "author": "Adrian Tam",
-          "description": "Before we start, let's ensure you are in the right place.",
-          "link": "https://machinelearningmastery.com/next-level-data-science-7-day-mini-course/",
-          "publishedOn": "2025-02-11T21:00:30.000Z",
-          "wordCount": null,
-          "title": "Next-Level Data Science (7-Day Mini-Course)",
-          "imageUrl": null
         }
       ]
     },
@@ -1337,21 +1327,6 @@
           "wordCount": 4127,
           "title": "Microsoft Research and Physics Wallah team up to enhance AI-based tutoring",
           "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Physics-Wallah-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1121829",
-          "author": "Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)",
-          "description": "ExACT combines Reflective-MCTS and Exploratory Learning to improve AI agents' decision-making, enabling test-time compute scaling. Learn how these methods help agents refine strategies for state-of-the-art performance and improved computational efficiency.\nThe post ExACT: Improving AI agents’ decision-making via test-time compute scaling appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/exact-improving-ai-agents-decision-making-via-test-time-compute-scaling/",
-          "publishedOn": "2025-02-11T22:21:47.000Z",
-          "wordCount": 3018,
-          "title": "ExACT: Improving AI agents’ decision-making via test-time compute scaling",
-          "enclosure": {
-            "url": "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/ExACT_Videos_010925_V1.mp4",
-            "length": "47136083",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/ExACT-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1479,6 +1454,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "4c2b8482-00f8-11f0-9c35-cb24cb089504",
+          "author": null,
+          "description": "NASA Johnson’s multimedia team leads discuss what it takes to capture and share the story of space exploration and how methods have evolved since the Apollo era. HWHAP 376",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/i-want-my-nasa-tv/",
+          "publishedOn": "2025-03-14T17:17:55.000Z",
+          "wordCount": null,
+          "title": "I Want My NASA TV",
+          "itunes": {
+            "duration": "3422"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5203316358.mp3?updated=1741972989",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "9349c686-fb66-11ef-8c24-6fbe3834b8ae",
           "author": null,
@@ -1715,21 +1708,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/02/featured_image.gif"
-        },
-        {
-          "id": "https://learnopencv.com/?p=63582",
-          "author": "Shubham",
-          "description": "AI, being no longer confined to passive algorithms, is transforming itself into autonomous agents that can perceive, reason, and act with increasing intelligence. These agents are designed to navigate uncertainty, adapt to changing conditions, and exhibit common sense, marking a significant leap toward true machine intelligence. The rapid evolution of AI has ushered in an […]\nAgentic AI: A Comprehensive Introduction first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/agentic-ai/",
-          "publishedOn": "2025-02-11T14:00:00.000Z",
-          "wordCount": 9625,
-          "title": "Agentic AI: A Comprehensive Introduction",
-          "enclosure": {
-            "url": "https://learnopencv.com/wp-content/uploads/2025/02/RAG-Agent-Execution-Flow.mp4",
-            "length": "85355263",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2017/12/favicon.png"
         }
       ]
     },
@@ -1775,6 +1753,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226069",
+          "author": "Adarsh Balan",
+          "description": "With the release of OpenAI’s Agent SDK, developers now have a powerful tool to build intelligent systems. One crucial feature that stands out is Guardrails, which help maintain system integrity by filtering unwanted requests. This functionality is especially valuable in educational settings, where distinguishing between genuine learning support and attempts to bypass academic ethics can […]\nThe post Guardrails in OpenAI Agent SDK: Ensuring Integrity in Educational Support Systems appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/guardrails-in-openai-agent-sdk/",
+          "publishedOn": "2025-03-14T07:19:54.000Z",
+          "wordCount": null,
+          "title": "Guardrails in OpenAI Agent SDK: Ensuring Integrity in Educational Support Systems",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225882",
+          "author": "Pankaj Singh",
+          "description": "In mathematical computing and scientific programming, clear and precise representation of functions is essential. While LaTeX is widely used for formatting mathematical expressions, manually writing equations can be time-consuming. The latexify-py library offers a solution by automatically converting Python functions into LaTeX-formatted expressions. This functionality enhances both readability and documentation by providing a structured and […]\nThe post LaTeXify in Python: No Need to Write LaTeX Equations Manually appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/latexify-in-python/",
+          "publishedOn": "2025-03-14T04:32:00.000Z",
+          "wordCount": null,
+          "title": "LaTeXify in Python: No Need to Write LaTeX Equations Manually",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=226306",
           "author": "Shaik Hamzah",
@@ -3138,83 +3138,6 @@
           "title": "Goku AI: Is This the Future of AI-Generated Video?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=221068",
-          "author": "Nitika Sharma",
-          "description": "Artificial Intelligence (AI) is no longer a futuristic concept – it’s actively reshaping industries and job roles worldwide. A study by Anthropic, analyzing millions of conversations on Claude.ai, reveals how AI is being integrated into the workforce. While AI touches many industries, only about 4% of occupations currently use it for more than 75% of […]\nThe post 5 Jobs You Can’t Imagine Without AI in 2025 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/jobs-you-cant-imagine-without-ai-now/",
-          "publishedOn": "2025-02-12T11:32:59.000Z",
-          "wordCount": null,
-          "title": "5 Jobs You Can’t Imagine Without AI in 2025",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=221091",
-          "author": "Pankaj Singh",
-          "description": "We’re already into the second month of 2025, and every passing day brings us closer to Artificial General Intelligence (AGI)—AI that can tackle complex problems across multiple sectors at a human level. Take DeepSeek, for instance. Until recently, could you have imagined an organization before 2024 that could build a cutting-edge Generative AI model for […]\nThe post A Comprehensive Guide to Pre-training LLMs appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/llm-pre-training/",
-          "publishedOn": "2025-02-12T11:18:45.000Z",
-          "wordCount": null,
-          "title": "A Comprehensive Guide to Pre-training LLMs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220822",
-          "author": "Harsh Mishra",
-          "description": "In a recent hackathon, I developed Agri Bot, an AI-powered chatbot designed to assist farmers and agricultural enthusiasts by providing accurate and multilingual farming-related information. This article will walk you through the features, architecture, and code behind Agri Bot, showcasing how it leverages advanced technologies to create a user-friendly experience. In the Agriculture sector, access […]\nThe post Agri Bot: A Multilingual AI Agent for Farmers Using LangChain appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/agri-bot-ai-for-farmers/",
-          "publishedOn": "2025-02-12T07:38:13.000Z",
-          "wordCount": null,
-          "title": "Agri Bot: A Multilingual AI Agent for Farmers Using LangChain",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220818",
-          "author": "Adarsh Balan",
-          "description": "Large Language Model agents are powerful tools for automating tasks like search, content generation, and quality review. However, a single agent often can’t do everything efficiently, especially when you need to integrate external resources (like web searches) and multiple specialized steps (e.g., drafting vs. reviewing). Multi-agent workflows allow you to split these tasks among different […]\nThe post Multi-Agent LLM Workflow with LlamaIndex for Research & Writing appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/multi-agent-llm-workflow/",
-          "publishedOn": "2025-02-12T05:45:00.000Z",
-          "wordCount": null,
-          "title": "Multi-Agent LLM Workflow with LlamaIndex for Research & Writing",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=221022",
-          "author": "Nitika Sharma",
-          "description": "France is making big moves in the AI world. After Mistral AI launched Le Chat to take on OpenAI and DeepSeek models, the country is now stepping into the data center arena. This puts France in direct competition with Meta’s massive data center project and OpenAI’s Stargate project. This shows how serious France is about […]\nThe post Mistral AI Plans Multi-Billion-Euro Data Center in France appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/mistral-data-center/",
-          "publishedOn": "2025-02-11T19:24:49.000Z",
-          "wordCount": null,
-          "title": "Mistral AI Plans Multi-Billion-Euro Data Center in France",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220978",
-          "author": "Janvi Kumari",
-          "description": "OpenAI’s latest model, o3-mini, is revolutionizing coding tasks with its advanced reasoning, problem-solving, and code generation capabilities. It efficiently handles complex queries and integrates structured data, setting a new standard in AI applications. This article explores using o3-mini and CrewAI to build a Retrieval-Augmented Generation (RAG) research assistant agent that retrieves information from multiple PDFs […]\nThe post Building a RAG-Based Research Assistant Using o3-mini and CrewAI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/rag-based-research-assistant-using-o3-mini-and-crewai/",
-          "publishedOn": "2025-02-11T17:54:52.000Z",
-          "wordCount": null,
-          "title": "Building a RAG-Based Research Assistant Using o3-mini and CrewAI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220538",
-          "author": "Nibedita Dutta",
-          "description": "DeepSeek R1, released in January 2025 by Chinese AI startup DeepSeek, is making waves in the AI industry as an open-source language model that rivals some of the most advanced models like OpenAI’s o1. DeepSeek-R1 distinguishes itself through its mixture of experts (MoE) architecture, reinforcement learning techniques, and focus on reasoning capabilities, enabling it to perform […]\nThe post Building a RAG System for AI Reasoning with DeepSeek R1 Distilled Model appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/distilled-deepseek-r1-model/",
-          "publishedOn": "2025-02-11T17:31:14.000Z",
-          "wordCount": null,
-          "title": "Building a RAG System for AI Reasoning with DeepSeek R1 Distilled Model",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3418,22 +3341,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/deep-research-information-vs-insight-in-science",
-          "author": "Nathan Lambert",
-          "description": "What AI will accelerate in the scientific process, what it cannot do, and how we can prepare for new manners of scientific investigation.",
-          "link": "https://www.interconnects.ai/p/deep-research-information-vs-insight-in-science",
-          "publishedOn": "2025-02-12T13:03:39.000Z",
-          "wordCount": null,
-          "title": "Deep Research, information vs. insight, and the nature of science",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29a5009e-9f5f-49f9-a1a5-119eba880583_2048x1620.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29a5009e-9f5f-49f9-a1a5-119eba880583_2048x1620.jpeg"
         }
       ]
     },
@@ -3443,6 +3350,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "F3j4xqpxjxgQD3xXh",
+          "author": "Joe Carlsmith",
+          "description": "Published on March 14, 2025 3:00 PM GMT\n\n(Audio version here (read by the author), or search for \"Joe Carlsmith Audio\" on your podcast app. \nThis is the fourth essay in a series that I’m calling “How do we solve the alignment problem?”. I’m hoping that the individual essays can be read fairly well on their own, but see this introduction for a summary of the essays that have been released thus far, and for a bit more about the series as a whole.)\n1. Introduction and summary\nIn my last essay, I offered a high-level framework for thinking about the path from here to safe superintelligence. This framework emphasized the role of three key “security factors” – namely:\n\nSafety progress: our ability to develop new levels of AI capability safely,\nRisk evaluation: our ability to track and forecast t…",
+          "link": "https://www.alignmentforum.org/posts/F3j4xqpxjxgQD3xXh/ai-for-ai-safety",
+          "publishedOn": "2025-03-14T15:00:23.000Z",
+          "wordCount": 38182,
+          "title": "AI for AI safety",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/F3j4xqpxjxgQD3xXh/fb04moouzv6wfzhdvvnx"
+        },
+        {
           "id": "wSKPuBfgkkqfTpmWJ",
           "author": "Sam Marks",
           "description": "Published on March 13, 2025 7:18 PM GMT\n\nWe study alignment audits—systematic investigations into whether an AI is pursuing hidden objectives—by training a model with a hidden misaligned objective and asking teams of blinded researchers to investigate it.\nThis paper was a collaboration between the Anthropic Alignment Science and Interpretability teams.\nAbstract\nWe study the feasibility of conducting alignment audits: investigations into whether models have undesired objectives. As a testbed, we train a language model with a hidden objective. Our training pipeline first teaches the model about exploitable errors in RLHF reward models (RMs), then trains the model to exploit some of these errors. We verify via out-of-distribution evaluations that the model generalizes to exhibit whatever beha…",
@@ -3451,6 +3368,16 @@
           "wordCount": 21758,
           "title": "Auditing language models for hidden objectives",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/wSKPuBfgkkqfTpmWJ/dbkvgiz5dmmabksue22n"
+        },
+        {
+          "id": "jtqcsARGtmgogdcLT",
+          "author": "Marc Carauleanu",
+          "description": "Published on March 13, 2025 7:09 PM GMT\n\nThis research was conducted at AE Studio and supported by the AI Safety Grants program administered by Foresight Institute with additional support from AE Studio.\nSummary\nIn this post, we summarize the main experimental results from our new paper, \"Towards Safe and Honest AI Agents with Neural Self-Other Overlap\", which we presented orally at the Safe Generative AI Workshop at NeurIPS 2024. \nThis is a follow-up to our post Self-Other Overlap: A Neglected Approach to AI Alignment, which introduced the method last July.\nOur results show that Self-Other Overlap (SOO) fine-tuning substantially[1] reduces deceptive responses in LLMs with minimal impact on general performance across the scenarios we evaluated.\nLLM Experimental Setup\nWe adapted a text scen…",
+          "link": "https://www.alignmentforum.org/posts/jtqcsARGtmgogdcLT/reducing-llm-deception-at-scale-with-self-other-overlap-fine",
+          "publishedOn": "2025-03-13T19:09:43.000Z",
+          "wordCount": 15481,
+          "title": "Reducing LLM deception at scale with self-other overlap fine-tuning",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/jtqcsARGtmgogdcLT/bxuovs8egqksfld2gmkb"
         },
         {
           "id": "kBgySGcASWa4FWdD9",
