@@ -12,6 +12,16 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=599606",
+          "author": "Niklas Lang",
+          "description": "Exploring the Hadoop ecosystem — key tools to maximize your cluster’s potential\nThe post Mastering Hadoop, Part 3: Hadoop Ecosystem: Get the most out of your cluster appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/mastering-hadoop-part-3-hadoop-ecosystem-get-the-most-out-of-your-cluster/",
+          "publishedOn": "2025-03-15T01:20:01.000Z",
+          "wordCount": 7028,
+          "title": "Mastering Hadoop, Part 3: Hadoop Ecosystem: Get the most out of your cluster",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Hadoop-ecosystem-1.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=599603",
           "author": "Jonte Dancker",
           "description": "What we can learn from Anthropic’s analysis of millions of Claude.ai chats\nThe post The Impact of GenAI and Its Implications for Data Scientists appeared first on Towards Data Science.",
@@ -940,66 +950,6 @@
           "wordCount": 4354,
           "title": "Learnings from a Machine Learning Engineer — Part 2: The Data Sets",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_UuVCvTIwKdFPMF1G.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597837",
-          "author": "Sara A. Metwalli",
-          "description": "I am sure the quantum hype has reached every person in tech (and outside it, most probably). With some over-the-top claims, like “some company has proved quantum supremacy,” “the quantum revolution is here,” or my favorite, “quantum computers are here, and it will make classical computers obsolete.” I am going to be honest with you; […]\nThe post Should Data Scientists Care About Quantum Computing? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/should-data-scientists-care-about-quantum-computing/",
-          "publishedOn": "2025-02-13T04:06:27.000Z",
-          "wordCount": 3699,
-          "title": "Should Data Scientists Care About Quantum Computing?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/pexels-photo-25626435.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597798",
-          "author": "Mahmoud Abdelaziz",
-          "description": "Let’s say you are in a customer care center, and you would like to know the probability distribution of the number of calls per minute, or in other words, you want to answer the question: what is the probability of receiving zero, one, two, … etc., calls per minute? You need this distribution in order […]\nThe post Method of Moments Estimation with Python Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/method-of-moments-estimation-with-python-code/",
-          "publishedOn": "2025-02-13T03:53:40.000Z",
-          "wordCount": 4369,
-          "title": "Method of Moments Estimation with Python Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_yHsw5ciEqO3mJqLX.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597790",
-          "author": "Umair Ali Khan",
-          "description": "The basic principle of Large Language Models (LLMs) is very simple: to predict the next word (or token) in a sequence of words based on statistical patterns in their training data. However, this seemingly simple capability turns out to be incredibly sophisticated when it can do a number of amazing tasks such as text summarization, […]\nThe post How to Measure the Reliability of a Large Language Model’s Response appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-measure-the-reliability-of-a-large-language-models-response/",
-          "publishedOn": "2025-02-13T02:11:41.000Z",
-          "wordCount": 4733,
-          "title": "How to Measure the Reliability of a Large Language Model’s Response",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-12-at-11.00.44 AM-1024x725.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597778",
-          "author": "Marcello Politi",
-          "description": "Introduction Developers work on applications that are supposed to be deployed on some server in order to allow anyone to use those. Typically in the machine where these apps live, developers set up environment variables that allow the app to run. These variables can be API keys of external services, URL of your database and […]\nThe post Manage Environment Variables with Pydantic appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/manage-environment-variables-with-pydantic/",
-          "publishedOn": "2025-02-12T20:10:29.000Z",
-          "wordCount": 3358,
-          "title": "Manage Environment Variables with Pydantic",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_a3ZSF2H0-dy5LULT.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597781",
-          "author": "Ari Joury, PhD",
-          "description": "Python has grown to dominate data science, and its package Pandas has become the go-to tool for data analysis. It is great for tabular data and supports data files of up to 1GB if you have a large RAM. Within these size limits, it is also good with time-series data because it comes with some […]\nThe post Pandas Can’t Handle This: How ArcticDB Powers Massive Datasets appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pandas-cant-handle-this-how-arcticdb-powers-massive-datasets/",
-          "publishedOn": "2025-02-12T19:22:29.000Z",
-          "wordCount": 5216,
-          "title": "Pandas Can’t Handle This: How ArcticDB Powers Massive Datasets",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/0_iSrX5jnnGS6edxe3.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=597757",
-          "author": "Julie Ripplinger",
-          "description": "It’s been more than 15 years since I finished my master’s degree, but I’m still haunted by the hair-pulling frustration of managing my of R scripts. As a (recovering) perfectionist, I named each script very systematically by date (think: ancova_DDMMYYYY.r). A system I just *knew* was better than _v1, _v2, _final and its frenemies. Right? Trouble was, every time I wanted to […]\nThe post Branching Out: 4 Git Workflows for Collaborating on ML appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/branching-out-4-git-workflows-for-collaborating-on-ml/",
-          "publishedOn": "2025-02-12T19:10:44.000Z",
-          "wordCount": 4711,
-          "title": "Branching Out: 4 Git Workflows for Collaborating on ML",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_lhl78yndn7W2EH1TI0DvrQ.png"
         }
       ]
     },
@@ -1167,16 +1117,6 @@
           "wordCount": null,
           "title": "Integrating TensorFlow and NumPy for Custom Operations",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=19068",
-          "author": "Cornellius Yudha Wijaya",
-          "description": "You know it as well as I do: people are relying more and more on generative AI and large language models (LLM) for quick and easy information acquisition.",
-          "link": "https://machinelearningmastery.com/prompt-engineering-patterns-successful-rag-implementations/",
-          "publishedOn": "2025-02-13T11:00:35.000Z",
-          "wordCount": null,
-          "title": "Prompt Engineering Patterns for Successful RAG Implementations",
-          "imageUrl": null
         }
       ]
     },
@@ -1317,16 +1257,6 @@
           "wordCount": 12411,
           "title": "Ideas: Quantum computing redefined with Chetan Nayak",
           "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Chetan-Nayak_Ideas_TW_LI_FB_1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1128279",
-          "author": "Brenda Potts",
-          "description": "Limited resources, geography, and economic factors present barriers to quality higher education for many students in India. Learn how Microsoft Research is collaborating with Physics Wallah to make AI-based tutoring more accurate, reliable, and affordable.\nThe post Microsoft Research and Physics Wallah team up to enhance AI-based tutoring appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/microsoft-research-and-physics-wallah-team-up-to-enhance-ai-based-tutoring/",
-          "publishedOn": "2025-02-12T21:01:07.000Z",
-          "wordCount": 4127,
-          "title": "Microsoft Research and Physics Wallah team up to enhance AI-based tutoring",
-          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Physics-Wallah-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1753,6 +1683,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226411",
+          "author": "Nitika Sharma",
+          "description": "Cohere has entered the competitive race of releasing LLMs with their latest offering – Command A. Their previous model, Command R+, was launched in August 2024, followed by Command R7B in December 2024. Now, with Command A, Cohere has made a strong comeback, introducing a state-of-the-art generative language model tailored for enterprise use cases. Optimized […]\nThe post All You Need to Know About Cohere’s Command A appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/cohere-command-a/",
+          "publishedOn": "2025-03-15T06:13:00.000Z",
+          "wordCount": null,
+          "title": "All You Need to Know About Cohere’s Command A",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=225800",
+          "author": "Riya Bansal",
+          "description": "In Artificial Intelligence, large language models (LLMs) have become essential, tailored for specific tasks, rather than monolithic entities. The AI world today has project-built models that have heavy-duty performance in well-defined domains – be it coding assistants who have figured out developer workflows, or research agents navigating content across the vast information hub autonomously. In this […]\nThe post Top 6 SOTA LLMs for Code, Web search, Research and More appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/top-sota-llms/",
+          "publishedOn": "2025-03-15T05:48:00.000Z",
+          "wordCount": null,
+          "title": "Top 6 SOTA LLMs for Code, Web search, Research and More",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=226069",
           "author": "Adarsh Balan",
@@ -3092,50 +3044,6 @@
           "publishedOn": "2025-02-13T13:46:36.000Z",
           "wordCount": null,
           "title": "Building a Resume Review Agent System with CrewAI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220981",
-          "author": "Adarsh Balan",
-          "description": "When connecting external knowledge to large language models (LLMs), developers often grapple with integrating data from numerous sources—some of it structured, much of it unstructured—while still returning fast and accurate information. This challenge is at the heart of retrieval-augmented generation (RAG), which offers a compelling way for LLMs to pull in domain-specific data on demand. […]\nThe post Cognee + LlamaIndex: Building Powerful GraphRAG Pipelines appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/cognee-llamaindex/",
-          "publishedOn": "2025-02-13T12:49:47.000Z",
-          "wordCount": null,
-          "title": "Cognee + LlamaIndex: Building Powerful GraphRAG Pipelines",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=221283",
-          "author": "Harsh Mishra",
-          "description": "Language models are essential for understanding and producing human language by machines in the quickly developing field of artificial intelligence. Among these models, two different methods of language processing are represented by Base LLM and Instruction-Tuned LLM. This article examines the main distinctions between these two categories of models, as well as their training processes, […]\nThe post Base LLM vs Instruction-Tuned LLM appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/base-llm-vs-instruction-tuned-llm/",
-          "publishedOn": "2025-02-13T07:40:48.000Z",
-          "wordCount": null,
-          "title": "Base LLM vs Instruction-Tuned LLM",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=221222",
-          "author": "Vipin Vashisth",
-          "description": "AI-powered reasoning models are taking the world by storm in 2025! With the launch of DeepSeek-R1 and o3-mini, we have seen unprecedented levels of logical reasoning capabilities in AI chatbots. In this article, we will access these models via their APIs and evaluate their logical reasoning skills to find out if o3-mini can replace DeepSeek-R1. […]\nThe post Can o3-mini Replace DeepSeek-R1 for Logical Reasoning? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/can-o3-mini-replace-deepseek-r1-for-logical-reasoning/",
-          "publishedOn": "2025-02-12T17:39:49.000Z",
-          "wordCount": null,
-          "title": "Can o3-mini Replace DeepSeek-R1 for Logical Reasoning?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=220934",
-          "author": "Ayushi Trivedi",
-          "description": "ByteDance, the company behind TikTok, continues to make waves in the AI community, not just for its social media platform but also for its latest research in video generation. After impressing the tech world with their OmniHuman paper, they’ve now released another video generation paper called Goku. Goku AI ia a family of AI models […]\nThe post Goku AI: Is This the Future of AI-Generated Video? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/goku-ai/",
-          "publishedOn": "2025-02-12T14:44:03.000Z",
-          "wordCount": null,
-          "title": "Goku AI: Is This the Future of AI-Generated Video?",
           "itunes": {},
           "imageUrl": null
         }
