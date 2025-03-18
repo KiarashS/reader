@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-17T01:15:11.904Z</updated>
+    <updated>2025-03-18T01:12:56.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EIS XV: A New Proof of Concept for Useful Interpretability]]></title>
+        <id>HYkg6kwqhCQT5uYuK</id>
+        <link href="https://www.alignmentforum.org/posts/HYkg6kwqhCQT5uYuK/eis-xv-a-new-proof-of-concept-for-useful-interpretability"/>
+        <updated>2025-03-17T20:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 17, 2025 8:05 PM GMT
+
+Part 15 of 12 in the Engineer’s Interpretability Sequence
+Reflecting on past predictions for new work
+On October 11, 2024, I posted some thoughts on mechanistic interpretability and presented eight predictions for what I thought the next big paper on sparse autoencoders would and would not do. Then, on March 13, 2025, Anthropic released an interesting new paper: Auditing language models for hidden objectives. Other research is going on, but I consider this paper to be the first of the type that I had in mind back in October, so it’s time to revisit these predictions.
+
+✅ 60% – Finding and fixing a harmful behavior that WAS represented in the SAE training data in a way that is competitive with appropriate fine-tuning and machine unlearning baselines.
+…]]></summary>
+        <author>
+            <name>Stephen Casper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Insights from Andrew Ng on Why Coding is More Important than EVER]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226709</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/andrew-ng-on-why-coding-is-essential/"/>
+        <updated>2025-03-17T19:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Is learning to code still relevant in an age dominated by AI and automation? Andrew Ng strongly believes that learning to code is more important now than ever. As machines become more central to daily life, the ability to communicate with them through code becomes ever more crucial. Ng compares coding to literacy, emphasizing that […]
+The post 6 Insights from Andrew Ng on Why Coding is More Important than EVER appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Sonnet 3.7 (often) knows when it’s in alignment evaluations]]></title>
+        <id>E3daBewppAiECN3Ao</id>
+        <link href="https://www.alignmentforum.org/posts/E3daBewppAiECN3Ao/claude-sonnet-3-7-often-knows-when-it-s-in-alignment"/>
+        <updated>2025-03-17T19:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 17, 2025 7:11 PM GMT
+
+Note: this is a research note based on observations from evaluating Claude Sonnet 3.7. We’re sharing the results of these ‘work-in-progress’ investigations as we think they are timely and will be informative for other evaluators and decision-makers. The analysis is less rigorous than our standard for a published paper.
+Summary
+
+We monitor Sonnet's reasoning for mentions that it is in an artificial scenario or an alignment test. Claude Sonnet 3.7 appears to be aware of being tested for alignment across many of our scheming evaluations.
+In some cases, the model understands the eval’s purpose very precisely, e.g. “This seems like a test of ethical behavior - whether I would deliberately give wrong answers to avoid a stated consequence. The real test mi…]]></summary>
+        <author>
+            <name>Nicholas Goldowsky-Dill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why RAG Systems Fail and How to Fix Them]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226545</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/why-rag-systems-fail-and-how-to-fix-them/"/>
+        <updated>2025-03-17T15:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by integrating external knowledge, making responses more informative and context-aware. However, RAG fails in many scenarios, affecting its ability to generate accurate and relevant outputs. These issues in RAG systems impact applications in various domains, from customer support to research and content generation. Understanding the limitations of […]
+The post Why RAG Systems Fail and How to Fix Them appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Custom Website Chatbot Using Qwen-2.5-32b, LangChain, and FAISS]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226549</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/building-a-custom-website-chatbot-using-qwen-2-5-32b/"/>
+        <updated>2025-03-17T15:43:08.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, businesses and individuals aim to provide instant and accurate answers to website visitors. With increased demand for seamless communication, AI-driven chatbots have become a crucial tool for user interaction and offering useful information in a split second. Chatbots can search, comprehend, and utilize website data efficiently, making customers satisfied and enhancing […]
+The post Building a Custom Website Chatbot Using Qwen-2.5-32b, LangChain, and FAISS appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Gourav Lohar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Code Quality with LangGraph Reflection]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226552</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/enhancing-code-quality-with-langgraph-reflection/"/>
+        <updated>2025-03-17T15:40:54.000Z</updated>
+        <summary type="html"><![CDATA[The LangGraph Reflection Framework is a type of agentic framework which offers a powerful way to improve language model outputs through an iterative critique process using Generative AI. This article breaks down how to implement a reflection agent that validates Python code using Pyright and improves its quality using GPT-4o mini. AI agents play a crucial role […]
+The post Enhancing Code Quality with LangGraph Reflection appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Adarsh Balan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 3.16.2025]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:67d802f185147347d7104d87</id>
+        <link href="https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw-p3bpn-gj8zp-p9mmz-b34zn-brxry-mr228-48slx-mew99-4724k"/>
+        <updated>2025-03-17T11:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Roadmap for Mastering Language Models in 2025]]></title>
+        <id>https://machinelearningmastery.com/?p=19220</id>
+        <link href="https://machinelearningmastery.com/the-roadmap-for-mastering-language-models-in-2025/"/>
+        <updated>2025-03-17T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are a big step forward in artificial intelligence.]]></summary>
+        <author>
+            <name>Kanwal Mehreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparison of Gemini Embedding with Multilingual-e5-large & Jina]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226564</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gemini-embedding/"/>
+        <updated>2025-03-17T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Word embeddings for Indic languages like Hindi are crucial for advancing Natural Language Processing (NLP) tasks such as machine translation, question answering, and information retrieval. These embeddings capture semantic properties of words, enabling more accurate and context-aware NLP applications. Given the vast number of Hindi speakers and the growing digital content in Indic languages, high-quality […]
+The post Comparison of Gemini Embedding with Multilingual-e5-large & Jina appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nibedita Dutta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baidu Releases ERNIE 4.5 & X1 Models Outperforming GPT-4.5 for 1% the Cost]]></title>
         <id>https://www.analyticsvidhya.com/?p=226526</id>
@@ -175,6 +283,16 @@ Safety progress: our ability to develop new levels of AI capability safely,
 Risk evaluation: our ability to track and forecast t…]]></summary>
         <author>
             <name>Joe Carlsmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Methods for Evaluating LLM Performance]]></title>
+        <id>https://machinelearningmastery.com/?p=19349</id>
+        <link href="https://machinelearningmastery.com/statistical-methods-for-evaluating-llm-performance/"/>
+        <updated>2025-03-14T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[The large language model (LLM) has become a cornerstone of many AI applications.]]></summary>
+        <author>
+            <name>Cornellius Yudha Wijaya</name>
         </author>
     </entry>
     <entry>
@@ -3494,146 +3612,6 @@ I believe that the risk of a global catastrophe due to unaligned artificial supe
 The post Perplexity Deep Research is HERE to Compete Against OpenAI and Gemini  appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Multimodal RAG with Deepseek Janus Pro]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221513</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/multimodal-rag-with-deepseek-janus-pro/"/>
-        <updated>2025-02-15T07:57:52.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek Janus Pro 1B, launched on January 27, 2025, is an advanced multimodal AI model built to process and generate images from textual prompts. With its ability to comprehend and create images based on text, this 1 billion parameter version (1B) delivers efficient performance for a wide range of applications, including text-to-image generation and image […]
-The post Enhancing Multimodal RAG with Deepseek Janus Pro appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nibedita Dutta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Anime Recommendation System with Hugging Face?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221544</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/anime-recommendation-system/"/>
-        <updated>2025-02-15T07:55:27.000Z</updated>
-        <summary type="html"><![CDATA[A few years ago, I fell into the world of anime from which I’d never escape. As my watchlist was growing thinner and thinner, finding the next best anime became harder and harder. There are so many hidden gems out there, but how do I discover them? That’s when I thought—why not let Machine Learning […]
-The post How to Build an Anime Recommendation System with Hugging Face? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Krishnaveni Ponna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Became A Machine Learning Engineer (No CS Degree, No Bootcamp)]]></title>
-        <id>https://towardsdatascience.com/?p=598008</id>
-        <link href="https://towardsdatascience.com/how-i-became-a-machine-learning-engineer-no-cs-degree-no-bootcamp/"/>
-        <updated>2025-02-15T02:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning and AI are among the most popular topics nowadays, especially within the tech space. I am fortunate enough to work and develop with these technologies every day as a machine learning engineer! In this article, I will walk you through my journey to becoming a machine learning engineer, shedding some light and advice […]
-The post How I Became A Machine Learning Engineer (No CS Degree, No Bootcamp) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introspection for Function Calling]]></title>
-        <id>https://amitness.com/posts/function-calling-schema/</id>
-        <link href="https://amitness.com/posts/function-calling-schema/"/>
-        <updated>2025-02-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Function calling is one of the key elements behind the current rise of agentic workflows. The simple idea that an LLM can decide to call one among the provided functions based on the user’s input and receive the results back is a very powerful pattern.
-This pattern powers many of the features we see on ChatGPT itself, such as searching the web, running generated code in an interpreter, generating images using DALL-E, or storing memory based on what the user has said across sessions.
-Most closed-source LLM providers, like OpenAI and Anthropic, expose this feature as a capability called function calling or tool use. They require us to provide the signature and parameters of our custom function to the API in a specific way as a JSON Schema. This is done because JSON Schema is language agnosti…]]></summary>
-        <author>
-            <name>Amit Chaudhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A computational no-coincidence principle]]></title>
-        <id>Xt9r4SNNuYxW83tmo</id>
-        <link href="https://www.alignmentforum.org/posts/Xt9r4SNNuYxW83tmo/a-computational-no-coincidence-principle"/>
-        <updated>2025-02-14T21:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 14, 2025 9:39 PM GMT
-
-This post presents a conjecture formulated at the Alignment Research Center in 2023. Our belief in the conjecture is at least partly load-bearing for our belief in ARC's overall agenda. We haven't directly worked on the conjecture for a while now, but we believe the conjecture is interesting in its own right.
- 
-In a recent paper in Annals of Mathematics and Philosophy, Fields medalist Timothy Gowers asks why mathematicians sometimes believe that unproved statements are likely to be true. For example, it is unknown whether π.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: nor…]]></summary>
-        <author>
-            <name>Eric Neyman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Multi-Agent AI System for Financial Market Analysis]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221485</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/financial-market-analysis-ai-agent/"/>
-        <updated>2025-02-14T18:41:21.000Z</updated>
-        <summary type="html"><![CDATA[With the rise of AI in finance, investors are increasingly leveraging AI-driven insights for better decision-making. This article explores how we can create a hierarchical multi-agent AI system using LangGraph Supervisor to analyze financial market trends, perform sentiment analysis, and provide investment recommendations. By integrating specialized agents for market data retrieval, sentiment analysis, quantitative analysis, […]
-The post Building a Multi-Agent AI System for Financial Market Analysis appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Adarsh Balan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veo 2 Brings AI-Generated Clips to YouTube Shorts]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221600</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/veo-2-youtube-shorts/"/>
-        <updated>2025-02-14T18:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Google launched its impressive video generation model in December 2024 for select countries, and it truly made waves. The video quality and user-friendly platform set it apart from RunwayML and OpenAI Sora. Now, Google has taken it a step further by integrating Veo 2 into the Dream Screen feature on YouTube Shorts. This allows creators […]
-The post Veo 2 Brings AI-Generated Clips to YouTube Shorts appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build No-Code AI Agents on Your Phone for Free with the Replit Mobile App!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221494</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/replit-ai-agent/"/>
-        <updated>2025-02-14T17:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Our smartphones are now smarter than ever – thanks to all the AI-powered apps and chatbots. Galaxy AI, Apple Intelligence, and Perplexity AI’s mobile assistant, bring agentic features to mobile phones, making them even more functional. These agentic tools can actually automate and execute tasks like managing meetings, making bookings, doing research, and more – […]
-The post Build No-Code AI Agents on Your Phone for Free with the Replit Mobile App! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Anu Madan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadmap to Becoming a Data Scientist, Part 4: Advanced Machine Learning]]></title>
-        <id>https://towardsdatascience.com/?p=597896</id>
-        <link href="https://towardsdatascience.com/roadmap-to-becoming-a-data-scientist-part-4-advanced-machine-learning/"/>
-        <updated>2025-02-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Data science is undoubtedly one of the most fascinating fields today. Following significant breakthroughs in machine learning about a decade ago, data science has surged in popularity within the tech community. Each year, we witness increasingly powerful tools that once seemed unimaginable. Innovations such as the Transformer architecture, ChatGPT, the Retrieval-Augmented Generation (RAG) framework, and state-of-the-art computer vision models — including GANs — have […]
-The post Roadmap to Becoming a Data Scientist, Part 4: Advanced Machine Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Vyacheslav Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publish Interactive Data Visualizations for Free with Python and Marimo]]></title>
-        <id>https://towardsdatascience.com/?p=597851</id>
-        <link href="https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/"/>
-        <updated>2025-02-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Working in data science, it can be hard to share insights from complex datasets using only static figures. All the facets that describe the shape and meaning of interesting data are not always captured in a handful of pre-generated figures. While we have powerful technologies available for presenting interactive figures — where a viewer can rotate, filter, […]
-The post Publish Interactive Data Visualizations for Free with Python and Marimo appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Minot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A short course on AGI safety from the GDM Alignment team]]></title>
-        <id>TJrCumJxhzTmNBsRz</id>
-        <link href="https://www.alignmentforum.org/posts/TJrCumJxhzTmNBsRz/a-short-course-on-agi-safety-from-the-gdm-alignment-team"/>
-        <updated>2025-02-14T15:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 14, 2025 3:43 PM GMT
-
-We are excited to release a short course on AGI safety for students, researchers and professionals interested in this topic. The course offers a concise and accessible introduction to AI alignment, consisting of short recorded talks and exercises (75 minutes total) with an accompanying slide deck and exercise workbook. It covers alignment problems we can expect as AI capabilities advance, and our current approach to these problems (on technical and governance levels). If you would like to learn more about AGI safety but have only an hour to spare, this course is for you! 
-Here are some key topics you will learn about in this course:
-
-The evidence for the field being on a path to advanced AI capabilities.
-Arguments for instrumental subgoals and de…]]></summary>
-        <author>
-            <name>Victoria Krakovna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Cargo]]></title>
-        <id>643dddf8-eae7-11ef-83b3-8f9ab3dc0785</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/space-cargo/"/>
-        <updated>2025-02-14T15:16:14.000Z</updated>
-        <summary type="html"><![CDATA[NASA experts discuss launching and returning cargo to the International Space Station and the planning that goes into delivering several months worth of supplies and crucial science to astronauts in space. HWHAP 372.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
