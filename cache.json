@@ -869,6 +869,16 @@
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
         {
+          "id": "https://machinelearningmastery.com/?p=19386",
+          "author": "Adrian Tam",
+          "description": "The transformers library is a Python library that provides a unified interface for working with different transformer models.",
+          "link": "https://machinelearningmastery.com/a-gentle-introduction-to-transformers-library/",
+          "publishedOn": "2025-03-17T19:02:09.000Z",
+          "wordCount": null,
+          "title": "A Gentle Introduction to Transformers Library",
+          "imageUrl": null
+        },
+        {
           "id": "https://machinelearningmastery.com/?p=19220",
           "author": "Kanwal Mehreen",
           "description": "Large language models (LLMs) are a big step forward in artificial intelligence.",
@@ -1108,6 +1118,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1133691",
+          "author": "Taketomo Isazawa, Xi Wang, Liana Mikaelyan, Mathew Salvaris, James Hensman",
+          "description": "Introducing KBLaM, an approach that encodes and stores structured knowledge within an LLM itself. By integrating knowledge without retraining, it offers a scalable alternative to traditional methods.\nThe post Introducing KBLaM: Bringing plug-and-play external knowledge to LLMs appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/introducing-kblam-bringing-plug-and-play-external-knowledge-to-llms/",
+          "publishedOn": "2025-03-18T16:00:00.000Z",
+          "wordCount": 3525,
+          "title": "Introducing KBLaM: Bringing plug-and-play external knowledge to LLMs",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/03/KBLaM-TWLIFB-1200x627-1-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1133598",
           "author": "Amber Hoak, Scott Counts, Kate Lytvynets, David Tittsworth, Siddharth Suri, Ben Cutler, Weiwei Yang",
@@ -1457,6 +1477,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=66501",
+          "author": "Bhomik Sharma",
+          "description": "Imagine being able to separate the foreground from the background in your videos with clear, accurate mattes every time. With AI models like MatAnyone, video matting delivers precise alpha mattes using consistent memory banks, ensuring smooth and reliable results across frames. This advancement opens new possibilities for video editors, filmmakers, and AI enthusiasts interested in […]\nMatAnyone Explained: Consistent Memory for Better Video Matting first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/matanyone-for-better-video-matting/",
+          "publishedOn": "2025-03-18T13:00:00.000Z",
+          "wordCount": 10239,
+          "title": "MatAnyone Explained: Consistent Memory for Better Video Matting",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/03/matanyone_exp_video1.mp4",
+            "length": "34377069",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2017/12/favicon.png"
+        },
+        {
           "id": "https://learnopencv.com/?p=64975",
           "author": "Jaykumaran",
           "description": "GraphRAG is a pivotal research from Microsoft improving the shortcomings of naive RAG by employing structured Knowledge graph which includes entities, relations, claims etc, for traceability by traversing multi-hop nodes.\nGraphRAG: Now Faster and Cost-Effective for Medical Document Analysis  first appeared on LearnOpenCV.",
@@ -1595,6 +1630,72 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226892",
+          "author": "Nitika Sharma",
+          "description": "On March 16, 2025, Lex Fridman welcomed Narendra Modi, Prime Minister of India, to hisPodcast (#460). The nearly three-hour talk covered leadership, spirituality, and technology. Beyond its personal and spiritual dimensions, the conversation offered deep insights into the mindset fueling India’s rapid tech rise. Modi’s focus on discipline, self-awareness, and a holistic life approach provides […]\nThe post 3 AI Insights from Lex Fridman and Narendra Modi’s Conversation appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/lex-fridman-and-narendra-modi/",
+          "publishedOn": "2025-03-18T20:49:55.000Z",
+          "wordCount": null,
+          "title": "3 AI Insights from Lex Fridman and Narendra Modi’s Conversation",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226769",
+          "author": "Shaik Hamzah",
+          "description": "Six months ago, LLMs.txt was introduced as a groundbreaking file format designed to make website documentation accessible for large language models (LLMs). Since its release, the standard has steadily gained traction among developers and content creators. Today, as discussions around Model Context Protocols (MCP) intensify, LLMs.txt is in the spotlight as a proven, AI-first documentation […]\nThe post LLMs.txt Explained: The Web’s New LLM-Ready Content Standard appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/llms-txt/",
+          "publishedOn": "2025-03-18T19:56:00.000Z",
+          "wordCount": null,
+          "title": "LLMs.txt Explained: The Web’s New LLM-Ready Content Standard",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226804",
+          "author": "Soumil Jain",
+          "description": "The AI landscape is rapidly evolving, with smaller, lightweight models gaining prominence for their efficiency and scalability. After Google DeepMind launched its 27B model Gemma 3, Mistral AI has now released the Mistral 3.1 lightweight model of 24B parameters. This new, fast, and customizable model is redefining what lightweight models can do. It operates efficiently […]\nThe post Mistral 3.1 vs Gemma 3: Which is the Better Model? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/mistral-3-1-vs-gemma-3/",
+          "publishedOn": "2025-03-18T13:03:36.000Z",
+          "wordCount": null,
+          "title": "Mistral 3.1 vs Gemma 3: Which is the Better Model?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226129",
+          "author": "Krishnaveni Ponna",
+          "description": "In today’s competitive job market, making your resume stand out is crucial. JobFitAI is an innovative solution designed to help both job seekers and recruiters by analyzing resumes and offering actionable feedback. Traditional keyword-based filtering methods can overlook crucial nuances in a candidate’s profile. To overcome these challenges, AI-powered systems can be leveraged to analyze […]\nThe post JobFitAI: Comprehensive Resume Analyzer Project appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/jobfitai/",
+          "publishedOn": "2025-03-18T10:46:34.000Z",
+          "wordCount": null,
+          "title": "JobFitAI: Comprehensive Resume Analyzer Project",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226665",
+          "author": "Soumil Jain",
+          "description": "Imagine a journalist piecing together a story—not just relying on memory but searching archives and verifying facts. That’s how a Retrieval-Augmented Generation (RAG) model works, retrieving real-time knowledge for better accuracy. Just like strong research skills, choosing the best embedding for the RAG model is also crucial for retrieving and ranking relevant information. The right […]\nThe post How to Choose the Right Embedding for Your RAG Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/embedding-for-rag-models/",
+          "publishedOn": "2025-03-18T08:11:07.000Z",
+          "wordCount": null,
+          "title": "How to Choose the Right Embedding for Your RAG Model",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=226693",
+          "author": "Nitika Sharma",
+          "description": "A few days ago, Google DeepMind introduced Gemma 3, and I was still exploring its capabilities. But now, there’s a major development: Mistral AI’s Small 3.1 has arrived, claiming to be the best model in its weight class! This lightweight, fast, and highly customizable marvel operates effortlessly on a single RTX 4090 or a Mac […]\nThe post Mistral Small 3.1: The Best Model in its Weight Class appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/mistral-small-3-1/",
+          "publishedOn": "2025-03-18T06:27:56.000Z",
+          "wordCount": null,
+          "title": "Mistral Small 3.1: The Best Model in its Weight Class",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=226709",
           "author": "Nitika Sharma",
@@ -2925,17 +3026,6 @@
           "title": "10 o3-mini Prompts to Help with All Your Coding Tasks",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=221627",
-          "author": "Nitika Sharma",
-          "description": "The landscape of AI-powered research just became even more competitive with the launch of Perplexity’s Deep Research. Previously, OpenAI and Google Gemini were leading the way in this space, and now Perplexity has joined the ranks. What does this mean for users? Those who leverage these technologies effectively will find their work becoming faster, more […]\nThe post Perplexity Deep Research is HERE to Compete Against OpenAI and Gemini  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/perplexity-deep-research/",
-          "publishedOn": "2025-02-15T21:13:03.000Z",
-          "wordCount": null,
-          "title": "Perplexity Deep Research is HERE to Compete Against OpenAI and Gemini",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3132,6 +3222,26 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "tTyQvHedrjFWjurGk",
+          "author": "Ryan Gajarawala",
+          "description": "Published on March 18, 2025 6:05 PM GMT\n\nSchmidt Sciences has launched an RFP for technical AI safety research in the inference-time compute paradigm. \nThis paradigm is poorly understood and will require significant new research – not least in AI safety. To advance this research, we seek to fund work on most critical technical AI safety challenges or opportunities emerging from the inference-time compute paradigm.\nWe plan to fund teams that can start quickly and deliver significant research outputs within 12-18 months, with budgets of up to $500K.\nApplications (here) start with a 500-word description of the research idea and are open until April 30, 2025. \nCore question\nWe are interested in funding the crucial work needed to both understand the implications of this paradigm on model safety…",
+          "link": "https://www.alignmentforum.org/posts/tTyQvHedrjFWjurGk/schmidt-sciences-technical-ai-safety-rfp-on-inference-time",
+          "publishedOn": "2025-03-18T18:51:36.000Z",
+          "wordCount": 3729,
+          "title": "Schmidt Sciences Technical AI Safety RFP on Inference-Time Compute – Deadline: April 30",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/z6uexdbuf6ysthwt6vsa"
+        },
+        {
+          "id": "RoWabfQxabWBiXwxP",
+          "author": "Stuart Armstrong",
+          "description": "Published on March 18, 2025 2:48 PM GMT\n\nReplicating the Emergent Misalignment model suggests it is unfiltered, not unaligned\nWe were very excited when we first read the Emergent Misalignment paper. It seemed perfect for AI alignment. If there was a single 'misalignment' feature within LLMs, then we can do a lot with it – we can use it to measure alignment, we can even make the model more aligned by minimising it.\nWhat was so interesting, and promising, was that finetuning a model on a single type of misbehaviour seemed to cause general misalignment. The model was finetuned to generate insecure code, and it seemed to become evil in multiple ways: power-seeking, sexist, with criminal tendencies. All these tendencies tied together in one feature. It was all perfect.\nMaybe too perfect. AI ali…",
+          "link": "https://www.alignmentforum.org/posts/RoWabfQxabWBiXwxP/go-home-gpt-4o-you-re-drunk-emergent-misalignment-as-lowered",
+          "publishedOn": "2025-03-18T14:48:54.000Z",
+          "wordCount": 12488,
+          "title": "Go home GPT-4o, you’re drunk: emergent misalignment as lowered inhibitions",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/RoWabfQxabWBiXwxP/tcikymwm2zos9dxqg04b"
+        },
+        {
           "id": "HYkg6kwqhCQT5uYuK",
           "author": "Stephen Casper",
           "description": "Published on March 17, 2025 8:05 PM GMT\n\nPart 15 of 12 in the Engineer’s Interpretability Sequence\nReflecting on past predictions for new work\nOn October 11, 2024, I posted some thoughts on mechanistic interpretability and presented eight predictions for what I thought the next big paper on sparse autoencoders would and would not do. Then, on March 13, 2025, Anthropic released an interesting new paper: Auditing language models for hidden objectives. Other research is going on, but I consider this paper to be the first of the type that I had in mind back in October, so it’s time to revisit these predictions.\n\n✅ 60% – Finding and fixing a harmful behavior that WAS represented in the SAE training data in a way that is competitive with appropriate fine-tuning and machine unlearning baselines.\n…",
@@ -3180,6 +3290,16 @@
           "wordCount": 15481,
           "title": "Reducing LLM deception at scale with self-other overlap fine-tuning",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/jtqcsARGtmgogdcLT/bxuovs8egqksfld2gmkb"
+        },
+        {
+          "id": "5naJwQnbb5bwPCCFz",
+          "author": "Sanyu Rajakumar",
+          "description": "Published on March 12, 2025 5:56 PM GMT\n\nSummary\nThe Stages-Oversight benchmark from the Situational Awareness Dataset tests whether large language models (LLMs) can distinguish between evaluation prompts (such as benchmark questions) and deployment prompts (real-world user inputs). This ability is crucial for detecting potential alignment risks like sandbagging (strategically underperforming during evaluation) or alignment faking (appearing aligned during testing but pursuing misaligned goals post-deployment).\nSurprisingly, most frontier LLMs—including gpt-4o and claude-3.5-sonnet—fail to outperform random chance (50%) on Stages-Oversight, suggesting they do not reliably differentiate evaluation from deployment. I thought this poor performance was unusual, so I created two modified benchm…",
+          "link": "https://www.alignmentforum.org/posts/5naJwQnbb5bwPCCFz/revising-stages-oversight",
+          "publishedOn": "2025-03-12T22:10:40.000Z",
+          "wordCount": 31543,
+          "title": "Revising Stages-Oversight Reveals Greater Situational Awareness in LLMs",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/5naJwQnbb5bwPCCFz/teqydxrzp3trlazxqsor"
         },
         {
           "id": "kBgySGcASWa4FWdD9",
