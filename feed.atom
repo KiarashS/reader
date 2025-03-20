@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-19T01:13:55.415Z</updated>
+    <updated>2025-03-20T01:12:16.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s GTC 2025 Announcements That Shook the Stock Market]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227073</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/nvidia-gtc-2025-shakes-stock-price/"/>
+        <updated>2025-03-19T18:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia’s annual GPU Technology Conference (GTC) has long been a highlight for the AI community. At this year’s event, Nvidia CEO Jensen Huang unveiled a roadmap of new products and innovations aimed at scaling up artificial intelligence. This included next‐generation AI chips – Blackwell Ultra, Vera Rubin, etc., accelerated inferencing software, and even future breakthroughs […]
+The post Nvidia’s GTC 2025 Announcements That Shook the Stock Market appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prioritizing threats for AI control]]></title>
+        <id>fCazYoZSSMadiT6sf</id>
+        <link href="https://www.alignmentforum.org/posts/fCazYoZSSMadiT6sf/prioritizing-threats-for-ai-control"/>
+        <updated>2025-03-19T17:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 19, 2025 5:09 PM GMT
+
+We often talk about ensuring control, which in the context of this doc refers to preventing AIs from being able to cause existential problems, even if the AIs attempt to subvert our countermeasures. To better contextualize control, I think it's useful to discuss the main threats. I'll focus my discussion on threats induced by misalignment which could plausibly increase existential risk.
+While control is often associated with preventing security failures, I'll discuss other issues like sabotaging safety-critical work. I'll list and explain my prioritization of threats. As part of this, I'll argue that rogue internal deployments—cases where the AI is running within the company's datacenter but with control measures disabled—can be substantially worse …]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[METR: Measuring AI Ability to Complete Long Tasks]]></title>
+        <id>deesrjitvXM4xYGZd</id>
+        <link href="https://www.alignmentforum.org/posts/deesrjitvXM4xYGZd/metr-measuring-ai-ability-to-complete-long-tasks"/>
+        <updated>2025-03-19T16:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 19, 2025 4:00 PM GMT
+
+Summary: We propose measuring AI performance in terms of the length of tasks AI agents can complete. We show that this metric has been consistently exponentially increasing over the past 6 years, with a doubling time of around 7 months. Extrapolating this trend predicts that, in under five years, we will see AI agents that can independently complete a large fraction of software tasks that currently take humans days or weeks.
+
+The length of tasks (measured by how long they take human professionals) that generalist frontier model agents can complete autonomously with 50% reliability has been doubling approximately every 7 months for the last 6 years. The shaded region represents 95% CI calculated by hierarchical bootstrap over task families, tasks, and task attempts.
+Full paper | Github repo
+
+Blogpost; tweet thread.
+
+Discuss]]></summary>
+        <author>
+            <name>Zach Stein-Perlman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metasurface: Unlocking the future of wireless sensing and communication]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1134100</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/metasurface-unlocking-the-future-of-wireless-sensing-and-communication/"/>
+        <updated>2025-03-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metasurfaces explore engineered 2D materials that manipulate electromagnetic and mechanical waves, offering advances in wireless tech. They can power indoor GPS, extend 5G/6G coverage, and enable wireless sensing and imaging.
+The post Metasurface: Unlocking the future of wireless sensing and communication appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Lili Qiu, Hao Pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claimify: Extracting high-quality claims from language model outputs]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1134179</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/claimify-extracting-high-quality-claims-from-language-model-outputs/"/>
+        <updated>2025-03-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While large language models (LLMs) are capable of synthesizing vast amounts of information, they sometimes produce inaccurate or unsubstantiated content. To mitigate this risk, tools like Azure AI’s Groundedness Detection (opens in new tab) can be used to verify LLM outputs.  A common strategy for fact-checking LLM-generated texts – especially complex, highly detailed outputs – […]
+The post Claimify: Extracting high-quality claims from language model outputs appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Dasha Metropolitansky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate yFiles with LlamaIndex for Knowledge Graph Visualization?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226995</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/yfiles-with-llamaindex/"/>
+        <updated>2025-03-19T14:45:59.000Z</updated>
+        <summary type="html"><![CDATA[yFiles is a powerful SDK designed to simplify the visualization of complex networks and data relationships. When combined with LlamaIndex, it becomes a powerful tool for visualizing and interacting with knowledge graphs in real time. This guide walks you through the integration process, highlights essential steps, and demonstrates key features for an impactful, useful and […]
+The post How to Integrate yFiles with LlamaIndex for Knowledge Graph Visualization? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Adarsh Balan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Guide to Smallpond]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226785</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/guide-to-smallpond/"/>
+        <updated>2025-03-19T14:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Following the groundbreaking impact of DeepSeek R1, DeepSeek AI continues to push the boundaries of innovation with its latest offering: Smallpond. This lightweight data processing framework combines the power of DuckDB for SQL analytics and 3FS for high-performance distributed storage, designed to efficiently handle petabyte-scale datasets. Smallpond promises to simplify data processing for AI and […]
+The post A Comprehensive Guide to Smallpond appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Kabyik Kayal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing frontier model training organizations (or teams)]]></title>
+        <id>https://www.interconnects.ai/p/how-to-manage-ai-training-organizations</id>
+        <link href="https://www.interconnects.ai/p/how-to-manage-ai-training-organizations"/>
+        <updated>2025-03-19T12:03:41.000Z</updated>
+        <summary type="html"><![CDATA[How do the frontier labs consistently train great models? How can they fail?]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 NVIDIA GTC 2025 Announements that You Must Know]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226921</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/nvidia-gtc-announcements/"/>
+        <updated>2025-03-19T08:31:36.000Z</updated>
+        <summary type="html"><![CDATA[I still remember last year’s NVIDIA GTC, Jensen Huang with its visionary approach along with a touch of humour introduced the developers with promises to redefine technology. From Blackwell architecture, Generative AI with NIM, GB200 AI Chip to Project Groot and other things, we got a glimpse into the future of technology. Now the future […]
+The post 10 NVIDIA GTC 2025 Announements that You Must Know appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Multimodal RAG Capabilities Using Docling]]></title>
+        <id>https://www.analyticsvidhya.com/?p=226831</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/enhancing-multimodal-rag-capabilities-using-docling/"/>
+        <updated>2025-03-19T05:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Multimodal Retrieval-Augmented Generation (RAG) is a transformative innovation in AI, enabling systems to process and integrate diverse data types such as text, images, audio, and video. This capability is crucial in addressing the challenge of unstructured enterprise data, which predominantly consists of multimodal formats. By leveraging multimodal inputs, RAG enhances contextual understanding, improves accuracy, and […]
+The post Enhancing Multimodal RAG Capabilities Using Docling appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nibedita Dutta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 AI Insights from Lex Fridman and Narendra Modi’s Conversation]]></title>
         <id>https://www.analyticsvidhya.com/?p=226892</id>
@@ -3688,63 +3807,6 @@ The post Tutorial: Semantic Clustering of User Messages with LLM Prompts appeare
 The post On-Device Machine Learning in Spatial Computing appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Prithiv Dev Devendran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filing Taxes with AI: Which Model is Your Best Accountant?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221769</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/filing-taxes-with-ai/"/>
-        <updated>2025-02-17T12:56:20.000Z</updated>
-        <summary type="html"><![CDATA[It’s that time of the year again and tax filing is indeed a taxing process! Are you struggling with filing your ITR? Or are you still relying on your personal CA to handle it all? How about having a personalized AI tax assistant at your fingertips? With powerful AI models like OpenAI’s o3-mini on ChatGPT, […]
-The post Filing Taxes with AI: Which Model is Your Best Accountant? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Diksha Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating TensorFlow and NumPy for Custom Operations]]></title>
-        <id>https://machinelearningmastery.com/?p=19095</id>
-        <link href="https://machinelearningmastery.com/integrating-tensorflow-numpy-custom-operations/"/>
-        <updated>2025-02-17T12:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Combining the power of <a href="https://www.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Insights from OpenAI’s Prompting Guide for Reasoning Models]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221718</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/openais-prompting-guide-for-reasoning-models/"/>
-        <updated>2025-02-16T21:18:12.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s o1 and o3-mini are advanced reasoning models that differ from the base GPT-4 (often referred to as GPT-4o) in how they process prompts and produce answers. These models are designed to spend more time “thinking” through complex problems, mimicking a human’s analytical approach. To leverage these models effectively, it’s crucial to understand how to […]
-The post 6 Insights from OpenAI’s Prompting Guide for Reasoning Models appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 o3-mini Prompts to Help with All Your Coding Tasks]]></title>
-        <id>https://www.analyticsvidhya.com/?p=221652</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/o3-mini-coding-prompts/"/>
-        <updated>2025-02-16T17:30:20.000Z</updated>
-        <summary type="html"><![CDATA[o3-mini has proven to be OpenAI’s most advanced model for coding and reasoning. The o3-mini (high) model has single-handedly outperformed other existing models like DeepSeek-R1 and Claude 3.5 in most standard benchmark tests. Owing to this, ChatGPT powered by o3-mini has now become an everyday companion for developers. It offers them an intelligent and efficient […]
-The post 10 o3-mini Prompts to Help with All Your Coding Tasks appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gauging Interest for a Learning-Theoretic Agenda Mentorship Programme]]></title>
-        <id>m4NMk6EinRzvvvW5Y</id>
-        <link href="https://www.alignmentforum.org/posts/m4NMk6EinRzvvvW5Y/gauging-interest-for-a-learning-theoretic-agenda-mentorship"/>
-        <updated>2025-02-16T16:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 16, 2025 4:24 PM GMT
-
-I'm planning to organize a mentorship programme for people who want to become researchers working on the Learning-Theoretic Agenda (LTA). I'm still figuring out the detailed plan, the logistics and the funding, but here's an outline of how it would looks like. To express interest, submit this form.
-Why Apply?
-I believe that the risk of a global catastrophe due to unaligned artificial superintelligence is the most pressing problem of our time. I also believe that the LTA is our last best chance for solving the technical alignment problem. Even if governance efforts succeed, they will only buy time: but we still need to use this time somehow. The LTA is how we use this time. (I also consider some other research agendas to be useful, but mostly inas…]]></summary>
-        <author>
-            <name>Vanessa Kosoy</name>
         </author>
     </entry>
 </feed>
