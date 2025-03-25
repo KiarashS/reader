@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-24T01:15:41.049Z</updated>
+    <updated>2025-03-25T01:14:47.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An overview of control measures]]></title>
+        <id>G8WwLmcGFa4H6Ld9d</id>
+        <link href="https://www.alignmentforum.org/posts/G8WwLmcGFa4H6Ld9d/an-overview-of-control-measures"/>
+        <updated>2025-03-24T23:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 24, 2025 11:16 PM GMT
+
+We often talk about ensuring control, which in the context of this doc refers to preventing AIs from being able to cause existential problems, even if the AIs attempt to subvert our countermeasures. To better contextualize control, I think it's useful to discuss the main countermeasures (building on my prior discussion of the main threats). I'll focus my discussion on countermeasures for reducing existential risk from misalignment, though some of these countermeasures will help with other problems such as human power grabs.
+I'll overview control measures that seem important to me, including software infrastructure, security measures, and other control measures (which often involve usage of AI or human labor). In addition to the core control measure…]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek V3-0324: Generated 700 Lines of Code without Breaking]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227990</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/deepseek-v3-0324/"/>
+        <updated>2025-03-24T19:51:55.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek V3 developed by the Chinese AI research lab DeepSeek under High-Flyer has been a standout in the AI landscape since its initial open-source release in December 2024. Known for its efficiency, performance, and accessibility, it continues to evolve rapidly. The latest update to DeepSeek V3, tagged “DeepSeek V3 0324” was rolled out on March […]
+The post DeepSeek V3-0324: Generated 700 Lines of Code without Breaking appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face]]></title>
+        <id>https://towardsdatascience.com/?p=605214</id>
+        <link href="https://towardsdatascience.com/build-your-own-ai-coding-assistant-in-jupyterlab-with-ollama-and-hugging-face/"/>
+        <updated>2025-03-24T19:04:48.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to creating a local coding assistant without sending your data to the cloud
+The post Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Parul Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on countermeasures for exploration hacking (aka sandbagging)]]></title>
+        <id>abmzgwfJA9acBoFEX</id>
+        <link href="https://www.alignmentforum.org/posts/abmzgwfJA9acBoFEX/notes-on-countermeasures-for-exploration-hacking-aka"/>
+        <updated>2025-03-24T18:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 24, 2025 6:39 PM GMT
+
+If we naively apply RL to a scheming AI, the AI may be able to systematically get low reward/performance while simultaneously not having this behavior trained out because it intentionally never explores into better behavior. As in, it intentionally puts very low probability on (some) actions which would perform very well to prevent these actions from being sampled and then reinforced. We'll refer to this as exploration hacking.
+In this post, I'll discuss a variety of countermeasures for exploration hacking and what I think the basic dynamics of exploration hacking might look like.
+Prior work: I discuss how exploration hacking fits into a broader picture of non-concentrated control here, Evan discusses sandbagging in context of capability evaluations…]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How NVIDIA Isaac GR00T N1 Is Redefining Humanoid Robotics?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227894</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/nvidia-isaac-gr00t-n1/"/>
+        <updated>2025-03-24T13:21:54.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA’s Isaac GR00T N1 represents a quantum leap in humanoid robotics, combining cutting-edge AI with open-source accessibility. As the world’s first open foundation model for generalized humanoid reasoning, this technology enables robots to interpret language commands, process visual data, and execute complex manipulation tasks across diverse environments. Technical Architecture Breakdown Dual-System Cognitive Framework This architecture […]
+The post How NVIDIA Isaac GR00T N1 Is Redefining Humanoid Robotics? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Abhishek Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide to Agentic RAG Using LlamaIndex TypeScript]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227911</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/llamaindex-typescript/"/>
+        <updated>2025-03-24T13:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Imagine having a personal research assistant who not only understands your question but intelligently decides how to find answers. Diving into your document library for some queries while generating creative responses for others. This is what is possible with an Agentic RAG Using LlamaIndex TypeScript system. Whether you are looking to create a literature analysis […]
+The post Guide to Agentic RAG Using LlamaIndex TypeScript appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Avijit Biswas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agno Framework: A Lightweight Library for Building Multimodal Agents]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227758</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/agno-framework/"/>
+        <updated>2025-03-24T12:11:17.000Z</updated>
+        <summary type="html"><![CDATA[While working on Agentic AI, developers often find themselves navigating the trade-offs between speed, flexibility, and resource efficiency. I have been exploring the Agentic AI framework and came across Agno (earlier it was Phi-data). Agno is a lightweight framework for building multi-modal Agents. They are claiming to be ~10,000x faster than LangGraph and ~50x less […]
+The post Agno Framework: A Lightweight Library for Building Multimodal Agents appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roboflow’s RF-DETR: Bridging Speed and Accuracy in Object Detection]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227794</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/roboflows-rf-detr/"/>
+        <updated>2025-03-24T07:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Welcome readers, the CV class is back in session! We’ve previously studied 30+ different computer vision models so far in my previous blog, each bringing their own unique strengths to the table from the rapid detection skills of YOLO to the transformative power of Vision Transformers (ViTs). Today, we’re introducing a new student to our […]
+The post Roboflow’s RF-DETR: Bridging Speed and Accuracy in Object Detection appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Shaik Hamzah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 3.23.2025]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:67e10ba3aa73675580ab01ca</id>
+        <link href="https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw-p3bpn-gj8zp-p9mmz-b34zn-brxry-mr228-48slx-mew99-4724k-te62h"/>
+        <updated>2025-03-24T07:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Use Agent SDK, LangChain, or CrewAI to Build Your AI Agents]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227044</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/agent-sdk-vs-crewai-vs-langchain/"/>
+        <updated>2025-03-24T06:06:39.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are transforming automation and enhancing decision-making across various industries. However, choosing the right framework is crucial. Agent SDK, LangChain, and CrewAI each offer unique capabilities for building intelligent agents. Agent SDK focuses on seamless AI automation, LangChain excels in agent workflows with LLMs, and CrewAI enables multi-agent collaboration. Understanding their differences helps in […]
+The post When to Use Agent SDK, LangChain, or CrewAI to Build Your AI Agents appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selective modularity: a research agenda]]></title>
+        <id>tAnHM3L25LwuASdpF</id>
+        <link href="https://www.alignmentforum.org/posts/tAnHM3L25LwuASdpF/selective-modularity-a-research-agenda"/>
+        <updated>2025-03-24T04:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 24, 2025 4:12 AM GMT
+
+Overview: By training neural networks with selective modularity, gradient routing enables new approaches to core problems in AI safety. This agenda identifies related research directions that might enable safer development of transformative AI.
+Introduction
+Soon, the world may see rapid increases in AI capabilities resulting from AI research automation, and no one knows how to ensure this happens safely (Soares, 2016; Aschenbrenner, 2023; Anwar et al., 2024; Greenblatt, 2025). The current ML paradigm may not be well-suited to this task, as it produces inscrutable, generalist models without guarantees on their out-of-distribution performance. These models may reflect unintentional quirks of their training objectives (Pan et al., 2022; Skalse et al., …]]></summary>
+        <author>
+            <name>cloud</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notes on handling non-concentrated failures with AI control: high level methods and different regimes]]></title>
         <id>D5H5vcnhBz8G4dh6v</id>
@@ -3484,115 +3612,6 @@ Mot…]]></summary>
 The post 5 Grok 3 Prompts that Can Make Your Work Easy! appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning a Model Using OpenAI Platform for Customer Query Support]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222815</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/fine-tuning-a-model-using-openai-platform/"/>
-        <updated>2025-02-22T11:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Fine-tuning large language models (LLMs) is essential for optimizing their performance in specific tasks. OpenAI provides a robust framework for fine-tuning GPT models, allowing organizations to tailor AI behavior based on domain-specific requirements. This process plays a crucial role in LLM customization, enabling models to generate more accurate, relevant, and context-aware responses.Fine-tuned LLMs can be […]
-The post Fine-Tuning a Model Using OpenAI Platform for Customer Query Support appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Measure Performance of RAG Systems: Driver Metrics and Tools]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222812</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/how-to-measure-performance-of-rag-systems/"/>
-        <updated>2025-02-22T07:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Imagine this: it’s the 1960s, and Spencer Silver, a scientist at 3M, invents a weak adhesive that doesn’t stick as expected. It seems like a failure. However, years later, his colleague Art Fry finds a novel use for it—creating Post-it Notes, a billion-dollar product that revolutionized stationery. This story mirrors the journey of large language […]
-The post How to Measure Performance of RAG Systems: Driver Metrics and Tools appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Merkle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data]]></title>
-        <id>https://towardsdatascience.com/?p=598363</id>
-        <link href="https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data/"/>
-        <updated>2025-02-21T23:42:07.000Z</updated>
-        <summary type="html"><![CDATA[Leverage the BasicVAE architecture to generate synthetic data and improves the classification accuracy on an imbalanced dataset
-The post The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Torty Sivill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do European M&Ms Actually Taste Better than American M&Ms?]]></title>
-        <id>https://towardsdatascience.com/?p=598313</id>
-        <link href="https://towardsdatascience.com/do-european-mms-actually-taste-better-than-american-mms/"/>
-        <updated>2025-02-21T21:52:58.000Z</updated>
-        <summary type="html"><![CDATA[An overly-enthusiastic application of science and data visualization to a question we’ve all been asking
-The post Do European M&Ms Actually Taste Better than American M&Ms? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Erin Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Annotation for Ambient Scribe]]></title>
-        <id>https://imerit.net/?p=24911</id>
-        <link href="https://imerit.net/blog/data-annotation-for-ambient-scribe-all-una/"/>
-        <updated>2025-02-21T20:46:51.000Z</updated>
-        <summary type="html"><![CDATA[Learn what ambient scribe is and the importance of data annotation for accurate clinical documentation and better contextual understanding.
-The post Data Annotation for Ambient Scribe appeared first on iMerit.]]></summary>
-        <author>
-            <name>Inkline Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Idea to Innovation: Using AI for Project Development]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222828</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/ai-for-project-development/"/>
-        <updated>2025-02-21T19:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Taking a project from concept to reality is no small feat. What’s even hard to imagine is if the final project will work how we want it to or not. With AI, we can now visualize, create, and even predict the outcomes of our projects with a precision that has never been seen before. From […]
-The post From Idea to Innovation: Using AI for Project Development appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talking about Games]]></title>
-        <id>https://towardsdatascience.com/?p=598289</id>
-        <link href="https://towardsdatascience.com/talking-about-games/"/>
-        <updated>2025-02-21T19:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Game Theory 101: terms and concepts
-The post Talking about Games appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Dorian Drost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Microsoft’s OmniParser V2 Locally?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222821</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/run-omniparser-v2-locally/"/>
-        <updated>2025-02-21T17:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft’s OmniParser V2 is a cutting-edge AI screen parser that extracts structured data from GUIs by analyzing screenshots, enabling AI agents to interact with on-screen elements seamlessly. Perfect for building autonomous GUI agents, this tool is a game-changer for automation and workflow optimization. In this guide, we’ll cover how to install OmniParser V2 locally, its […]
-The post How to Run Microsoft’s OmniParser V2 Locally? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Abhishek Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 12 Free APIs for AI Development]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222689</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/top-free-apis-for-ai-development/"/>
-        <updated>2025-02-21T17:04:35.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving digital world of today, being able to use artificial intelligence (AI) is becoming essential for survival. Businesses may now improve customer relations, optimize processes, and spur innovation with the help of large language models, or LLMs. However, how can this potential be realised without a lot of money or experience? LLM […]
-The post Top 12 Free APIs for AI Development appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intuitive Machines Returns to the Moon]]></title>
-        <id>f92d4e54-f068-11ef-b59e-0fd271c2340a</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/intuitive-machines-returns-to-the-moon/"/>
-        <updated>2025-02-21T15:25:55.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s Commercial Lunar Payload Services project scientist and Intuitive Machines President and CEO discuss upcoming IM-2 mission and what’s in store for this delivery to the lunar surface. HWHAP 373.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
