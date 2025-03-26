@@ -12,6 +12,76 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=605254",
+          "author": "Anya Korsakova",
+          "description": "Neural networks under a different lens: generating basins of attraction in a shift register NN\nThe post Attractors in Neural Network Circuits: Beauty and Chaos appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/attractors-in-neural-network-circuits-beauty-and-chaos/",
+          "publishedOn": "2025-03-25T19:26:57.000Z",
+          "wordCount": 4980,
+          "title": "Attractors in Neural Network Circuits: Beauty and Chaos",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/att2_hi.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605251",
+          "author": "Jordy Davelaar",
+          "description": "How to optimize your bracket systematically, no college basketball knowledge required\nThe post Data-Driven March Madness Predictions appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-driven-march-madness-predictions/",
+          "publishedOn": "2025-03-25T19:12:30.000Z",
+          "wordCount": 4749,
+          "title": "Data-Driven March Madness Predictions",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Basketball.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605249",
+          "author": "Luciano Abriata",
+          "description": "Can multimodal AI systems consisting in LLMs with vision capabilities understand figures and extract information from them?\nThe post Testing the Power of Multimodal AI Systems in Reading and Interpreting Photographs, Maps, Charts and More appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/testing-the-power-of-multimodal-ai-systems-in-reading-and-interpreting-photographs-maps-charts-and-more/",
+          "publishedOn": "2025-03-25T18:30:49.000Z",
+          "wordCount": 8506,
+          "title": "Testing the Power of Multimodal AI Systems in Reading and Interpreting Photographs, Maps, Charts and More",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/0_-Kk-aPVbTug4jJD8-1.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605246",
+          "author": "Sandi Besen",
+          "description": "MCP is a way to democratize access to tools for AI Agents. In this article we cover the fundamental components of MCP, how they work together, and a code example of how MCP works in practice.\nThe post A Clear Intro to MCP (Model Context Protocol) with Code Examples appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/clear-intro-to-mcp/",
+          "publishedOn": "2025-03-25T18:03:19.000Z",
+          "wordCount": 5727,
+          "title": "A Clear Intro to MCP (Model Context Protocol) with Code Examples",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/MCP-Image.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605225",
+          "author": "Thomas Rouch",
+          "description": "Beyond being computationally easy, Least Squares is statically optimal and has a deep connection with Maximum Likelihood\nThe post Least Squares: Where Convenience Meets Optimality appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/least-squares-where-convenience-meets-optimality/",
+          "publishedOn": "2025-03-25T07:50:19.000Z",
+          "wordCount": 4724,
+          "title": "Least Squares: Where Convenience Meets Optimality",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/unsplash_1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605223",
+          "author": "Egor Howell",
+          "description": "Breaking down my role as a machine learning engineer\nThe post What Do Machine Learning Engineers Do? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-do-machine-learning-engineers-do/",
+          "publishedOn": "2025-03-25T07:45:20.000Z",
+          "wordCount": 4106,
+          "title": "What Do Machine Learning Engineers Do?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/iewek-gnos-hhUx08PuYpc-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605220",
+          "author": "Eric Chung",
+          "description": "Mimicking human visual perception to truly understand objects\nThe post From Fuzzy to Precise: How a Morphological Feature Extractor Enhances AI’s Recognition Capabilities appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities-2/",
+          "publishedOn": "2025-03-25T05:34:38.000Z",
+          "wordCount": 6764,
+          "title": "From Fuzzy to Precise: How a Morphological Feature Extractor Enhances AI’s Recognition Capabilities",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Fuzzy-to-precise-1.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=605214",
           "author": "Parul Pandey",
           "description": "A step-by-step guide to creating a local coding assistant without sending your data to the cloud\nThe post Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face appeared first on Towards Data Science.",
@@ -1076,7 +1146,18 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed.xml",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/",
+          "author": null,
+          "description": "Training Diffusion Models with Reinforcement Learning\n\n\n    \n\n\n\n    We deployed 100 reinforcement learning (RL)-controlled cars into rush-hour highway traffic to smooth congestion and reduce fuel consumption for everyone. Our goal is to tackle \"stop-and-go\" waves, those frustrating slowdowns and speedups that usually have no clear cause but lead to congestion and significant energy waste. To train efficient flow-smoothing controllers, we built fast, data-driven simulations that RL agents interact with, learning to maximize energy efficiency while maintaining throughput and operating safely around human drivers.\n\n    \n    Overall, a small proportion of well-controlled autonomous vehicles (AVs) is enough to significantly improve traffic flow and fuel efficiency for all drivers on the road. M…",
+          "link": "http://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/",
+          "publishedOn": "2025-03-25T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Scaling Up Reinforcement Learning for Traffic Smoothing: A 100-AV Highway Deployment",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Setosa blog",
@@ -1306,6 +1387,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=66351",
+          "author": "Jaykumaran",
+          "description": "MASt3R (Multi View Stereo 3D Reconstruction) is a 3D aware image matches that grounds image matching as a 3D task to establish better correspondence. In this article, we will understand MASt3R and MASt3R-SfM with inference results with InstantSplat\nMASt3R and MASt3R-SfM Explanation: Image Matching and 3D Reconstruction Results first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/mast3r-sfm-grounding-image-matching-3d/",
+          "publishedOn": "2025-03-25T13:00:00.000Z",
+          "wordCount": 9548,
+          "title": "MASt3R and MASt3R-SfM Explanation: Image Matching and 3D Reconstruction Results",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/03/mast3r_3d_reconstruction_one-ref_family_tankstemples_multi_view-stereo_.mp4",
+            "length": "90599725",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/03/MASt3R-MASt3R-SfM-Grounding-Image-Matching-in-3D.gif"
+        },
+        {
           "id": "https://learnopencv.com/?p=66501",
           "author": "Bhomik Sharma",
           "description": "Imagine being able to separate the foreground from the background in your videos with clear, accurate mattes every time. With AI models like MatAnyone, video matting delivers precise alpha mattes using consistent memory banks, ensuring smooth and reliable results across frames. This advancement opens new possibilities for video editors, filmmakers, and AI enthusiasts interested in […]\nMatAnyone Explained: Consistent Memory for Better Video Matting first appeared on LearnOpenCV.",
@@ -1393,6 +1489,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=25404",
+          "author": "Inkline Admin",
+          "description": "Explore top RLHF tools & automation platforms—iMerit Ango Hub, Encord RLHF, Appen, and more. Discover how AI-driven automation optimizes human feedback for model training\nThe post Tools an Automation Platforms for RLHF appeared first on iMerit.",
+          "link": "https://imerit.net/blog/tools-an-automation-platforms-for-rlhf-all-una/",
+          "publishedOn": "2025-03-25T13:03:27.000Z",
+          "wordCount": 3008,
+          "title": "Tools an Automation Platforms for RLHF",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/03/FEATURED-IMAGE.png"
+        },
+        {
           "id": "https://imerit.net/?p=25355",
           "author": "Inkline Admin",
           "description": "Accelerate AI development with Snowflake and Ango Hub. Seamlessly integrate data storage, automated annotation, and human-in-the-loop workflows to create high-quality labeled datasets for production-grade AI models.\nThe post Turning Raw Data into AI Insights with Snowflake and Ango Hub appeared first on iMerit.",
@@ -1429,6 +1535,83 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228264",
+          "author": "K.C. Sabreena Basheer",
+          "description": "Google DeepMind has recently unveiled its latest advancement in artificial intelligence: the Gemini 2.5 Pro (experimental) model. Within just a few hours of release, this new model has taken the AI world by storm, ranking #1 on the LMArena Leaderboard! Built upon its predecessors, this new model promises enhanced capabilities and features designed to cater […]\nThe post We Tried the Google 2.5 Pro Experimental Model and It’s Mind-Blowing! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/gemini-2-5-pro-experimental/",
+          "publishedOn": "2025-03-25T21:20:36.000Z",
+          "wordCount": null,
+          "title": "We Tried the Google 2.5 Pro Experimental Model and It’s Mind-Blowing!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228244",
+          "author": "Nitika Sharma",
+          "description": "A few days ago, Gemini rolled out its image generation feature in the 2.0 Flash version, and the internet erupted with stunning examples. Now, OpenAI is stepping up to the plate, raising the bar even higher by introducing native image generation (powered by GPT-4o) in ChatGPT. Sam Altman introduced the new feature with enthusiasm, describing […]\nThe post OpenAI’s 4o Image Generation is SUPER COOL appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/4o-image-generation/",
+          "publishedOn": "2025-03-25T20:21:11.000Z",
+          "wordCount": null,
+          "title": "OpenAI’s 4o Image Generation is SUPER COOL",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228108",
+          "author": "Pankaj Singh",
+          "description": "OpenAI’s Agent SDK has taken things up a notch with the release of its Voice Agent feature, enabling you to create intelligent, real-time, speech-driven applications. Whether you’re building a language tutor, a virtual assistant, or a support bot, this new capability brings in a whole new level of interaction—natural, dynamic, and human-like. Let’s break it […]\nThe post How to Build Multilingual Voice Agent Using OpenAI Agent SDK? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/voice-agent-using-openai-agent-sdk/",
+          "publishedOn": "2025-03-25T15:28:19.000Z",
+          "wordCount": null,
+          "title": "How to Build Multilingual Voice Agent Using OpenAI Agent SDK?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=227976",
+          "author": "Krishnaveni Ponna",
+          "description": "How can you ensure your machine learning models get the high-quality data they need to thrive? In today’s machine learning landscape, handling data well is as important as building strong models. Feeding high-quality, well-structured data into your models can significantly impact performance and training speed. The TensorFlow Dataset API simplifies this process by offering set […]\nThe post Building TensorFlow Pipelines with Vertex AI appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/building-tensorflow-pipelines-with-vertex-ai/",
+          "publishedOn": "2025-03-25T15:17:01.000Z",
+          "wordCount": null,
+          "title": "Building TensorFlow Pipelines with Vertex AI",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228103",
+          "author": "Krishnaveni Ponna",
+          "description": "Ray has emerged as a powerful framework for distributed computing in AI and ML workloads, enabling researchers and practitioners to scale their applications from laptops to clusters with minimal code changes. This guide provides an in-depth exploration of Ray’s architecture, capabilities, and applications in modern machine learning workflows, complete with a practical project implementation. Learning […]\nThe post Ray: Your Gateway to Scalable AI and Machine Learning Applications appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/ray/",
+          "publishedOn": "2025-03-25T15:11:59.000Z",
+          "wordCount": null,
+          "title": "Ray: Your Gateway to Scalable AI and Machine Learning Applications",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228194",
+          "author": "Vipin Vashisth",
+          "description": "As AI models advance, their programming and software development capabilities have become key benchmarks. Two leading contenders in the coding scene are DeepSeek V3 and Claude 3.7. DeepSeek V3-0324, the latest from DeepSeek AI, comes with promising benchmark results on coding tasks. Meanwhile, Anthropic’s newest model, Claude 3.7, is a stronger generalist AI with superior […]\nThe post DeepSeek V3-0324 vs Claude 3.7: Which is the Better Coder? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/deepseek-v3-0324-vs-claude-3-7/",
+          "publishedOn": "2025-03-25T14:57:30.000Z",
+          "wordCount": null,
+          "title": "DeepSeek V3-0324 vs Claude 3.7: Which is the Better Coder?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228137",
+          "author": "Anu Madan",
+          "description": "You’ve built applications with LLMs. You’ve played with agents. Maybe you’ve even worked with LangChain, AutoGen, or OpenAI’s Assistants API. Isn’t it impressive how much these models can reason, understand, and generate? But the moment your agent needs to do something real, like check a database, read from a CRM, or fetch a Google Doc; […]\nThe post How to Use MCP: Model Context Protocol appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/how-to-use-mcp/",
+          "publishedOn": "2025-03-25T12:03:56.000Z",
+          "wordCount": null,
+          "title": "How to Use MCP: Model Context Protocol",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=227990",
           "author": "Nitika Sharma",
@@ -2781,17 +2964,6 @@
           "title": "20 Open-Source Datasets for Generative and Agentic AI",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=222894",
-          "author": "Nitika Sharma",
-          "description": "Grok 3 – Elon Musk and xAi’s latest AI model is the talk of the town these days. From Andrej Karpathy to tech influencers, everyone is talking about the capabilities of this new model. Initially, access was limited to Premium+ users on X, leaving many eager to try it out. However, Elon Musk recently made […]\nThe post 5 Grok 3 Prompts that Can Make Your Work Easy! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/grok-3-prompts/",
-          "publishedOn": "2025-02-22T22:23:40.000Z",
-          "wordCount": null,
-          "title": "5 Grok 3 Prompts that Can Make Your Work Easy!",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2987,6 +3159,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "Eeo9NrXeotWuHCgQW",
+          "author": "Ryan Greenblatt",
+          "description": "Published on March 25, 2025 10:02 PM GMT\n\nIn this post, I'll list all the areas of control research (and implementation) that seem promising to me.\nThis references framings and abstractions discussed in Prioritizing threats for AI control.\nFirst, here is a division of different areas, though note that these areas have some overlaps:\nDeveloping and using settings for control evaluations (including technique iteration)\nBetter understanding control-relevant capabilities and model properties\nDeveloping specific countermeasures/techniques in isolation (rather than via iterating in a setting)\nDoing control experiments on actual current AI usage\nPrototyping or implementing software infrastructure for control and security measures that are particularly relevant to control\nPrototyping or implementi…",
+          "link": "https://www.alignmentforum.org/posts/Eeo9NrXeotWuHCgQW/an-overview-of-areas-of-control-work",
+          "publishedOn": "2025-03-25T22:02:17.000Z",
+          "wordCount": 44564,
+          "title": "An overview of areas of control work",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "G8WwLmcGFa4H6Ld9d",
           "author": "Ryan Greenblatt",

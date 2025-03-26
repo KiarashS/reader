@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-25T01:14:47.959Z</updated>
+    <updated>2025-03-26T01:14:05.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An overview of areas of control work]]></title>
+        <id>Eeo9NrXeotWuHCgQW</id>
+        <link href="https://www.alignmentforum.org/posts/Eeo9NrXeotWuHCgQW/an-overview-of-areas-of-control-work"/>
+        <updated>2025-03-25T22:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 25, 2025 10:02 PM GMT
+
+In this post, I'll list all the areas of control research (and implementation) that seem promising to me.
+This references framings and abstractions discussed in Prioritizing threats for AI control.
+First, here is a division of different areas, though note that these areas have some overlaps:
+Developing and using settings for control evaluations (including technique iteration)
+Better understanding control-relevant capabilities and model properties
+Developing specific countermeasures/techniques in isolation (rather than via iterating in a setting)
+Doing control experiments on actual current AI usage
+Prototyping or implementing software infrastructure for control and security measures that are particularly relevant to control
+Prototyping or implementi…]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Tried the Google 2.5 Pro Experimental Model and It’s Mind-Blowing!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228264</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gemini-2-5-pro-experimental/"/>
+        <updated>2025-03-25T21:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind has recently unveiled its latest advancement in artificial intelligence: the Gemini 2.5 Pro (experimental) model. Within just a few hours of release, this new model has taken the AI world by storm, ranking #1 on the LMArena Leaderboard! Built upon its predecessors, this new model promises enhanced capabilities and features designed to cater […]
+The post We Tried the Google 2.5 Pro Experimental Model and It’s Mind-Blowing! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>K.C. Sabreena Basheer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s 4o Image Generation is SUPER COOL]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228244</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/4o-image-generation/"/>
+        <updated>2025-03-25T20:21:11.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, Gemini rolled out its image generation feature in the 2.0 Flash version, and the internet erupted with stunning examples. Now, OpenAI is stepping up to the plate, raising the bar even higher by introducing native image generation (powered by GPT-4o) in ChatGPT. Sam Altman introduced the new feature with enthusiasm, describing […]
+The post OpenAI’s 4o Image Generation is SUPER COOL appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attractors in Neural Network Circuits: Beauty and Chaos]]></title>
+        <id>https://towardsdatascience.com/?p=605254</id>
+        <link href="https://towardsdatascience.com/attractors-in-neural-network-circuits-beauty-and-chaos/"/>
+        <updated>2025-03-25T19:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Neural networks under a different lens: generating basins of attraction in a shift register NN
+The post Attractors in Neural Network Circuits: Beauty and Chaos appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anya Korsakova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven March Madness Predictions]]></title>
+        <id>https://towardsdatascience.com/?p=605251</id>
+        <link href="https://towardsdatascience.com/data-driven-march-madness-predictions/"/>
+        <updated>2025-03-25T19:12:30.000Z</updated>
+        <summary type="html"><![CDATA[How to optimize your bracket systematically, no college basketball knowledge required
+The post Data-Driven March Madness Predictions appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jordy Davelaar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing the Power of Multimodal AI Systems in Reading and Interpreting Photographs, Maps, Charts and More]]></title>
+        <id>https://towardsdatascience.com/?p=605249</id>
+        <link href="https://towardsdatascience.com/testing-the-power-of-multimodal-ai-systems-in-reading-and-interpreting-photographs-maps-charts-and-more/"/>
+        <updated>2025-03-25T18:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Can multimodal AI systems consisting in LLMs with vision capabilities understand figures and extract information from them?
+The post Testing the Power of Multimodal AI Systems in Reading and Interpreting Photographs, Maps, Charts and More appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Luciano Abriata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Clear Intro to MCP (Model Context Protocol) with Code Examples]]></title>
+        <id>https://towardsdatascience.com/?p=605246</id>
+        <link href="https://towardsdatascience.com/clear-intro-to-mcp/"/>
+        <updated>2025-03-25T18:03:19.000Z</updated>
+        <summary type="html"><![CDATA[MCP is a way to democratize access to tools for AI Agents. In this article we cover the fundamental components of MCP, how they work together, and a code example of how MCP works in practice.
+The post A Clear Intro to MCP (Model Context Protocol) with Code Examples appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sandi Besen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Multilingual Voice Agent Using OpenAI Agent SDK?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228108</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/voice-agent-using-openai-agent-sdk/"/>
+        <updated>2025-03-25T15:28:19.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s Agent SDK has taken things up a notch with the release of its Voice Agent feature, enabling you to create intelligent, real-time, speech-driven applications. Whether you’re building a language tutor, a virtual assistant, or a support bot, this new capability brings in a whole new level of interaction—natural, dynamic, and human-like. Let’s break it […]
+The post How to Build Multilingual Voice Agent Using OpenAI Agent SDK? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building TensorFlow Pipelines with Vertex AI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227976</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/building-tensorflow-pipelines-with-vertex-ai/"/>
+        <updated>2025-03-25T15:17:01.000Z</updated>
+        <summary type="html"><![CDATA[How can you ensure your machine learning models get the high-quality data they need to thrive? In today’s machine learning landscape, handling data well is as important as building strong models. Feeding high-quality, well-structured data into your models can significantly impact performance and training speed. The TensorFlow Dataset API simplifies this process by offering set […]
+The post Building TensorFlow Pipelines with Vertex AI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Krishnaveni Ponna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ray: Your Gateway to Scalable AI and Machine Learning Applications]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228103</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/ray/"/>
+        <updated>2025-03-25T15:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Ray has emerged as a powerful framework for distributed computing in AI and ML workloads, enabling researchers and practitioners to scale their applications from laptops to clusters with minimal code changes. This guide provides an in-depth exploration of Ray’s architecture, capabilities, and applications in modern machine learning workflows, complete with a practical project implementation. Learning […]
+The post Ray: Your Gateway to Scalable AI and Machine Learning Applications appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Krishnaveni Ponna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek V3-0324 vs Claude 3.7: Which is the Better Coder?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228194</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/deepseek-v3-0324-vs-claude-3-7/"/>
+        <updated>2025-03-25T14:57:30.000Z</updated>
+        <summary type="html"><![CDATA[As AI models advance, their programming and software development capabilities have become key benchmarks. Two leading contenders in the coding scene are DeepSeek V3 and Claude 3.7. DeepSeek V3-0324, the latest from DeepSeek AI, comes with promising benchmark results on coding tasks. Meanwhile, Anthropic’s newest model, Claude 3.7, is a stronger generalist AI with superior […]
+The post DeepSeek V3-0324 vs Claude 3.7: Which is the Better Coder? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools an Automation Platforms for RLHF]]></title>
+        <id>https://imerit.net/?p=25404</id>
+        <link href="https://imerit.net/blog/tools-an-automation-platforms-for-rlhf-all-una/"/>
+        <updated>2025-03-25T13:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Explore top RLHF tools & automation platforms—iMerit Ango Hub, Encord RLHF, Appen, and more. Discover how AI-driven automation optimizes human feedback for model training
+The post Tools an Automation Platforms for RLHF appeared first on iMerit.]]></summary>
+        <author>
+            <name>Inkline Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASt3R and MASt3R-SfM Explanation: Image Matching and 3D Reconstruction Results]]></title>
+        <id>https://learnopencv.com/?p=66351</id>
+        <link href="https://learnopencv.com/mast3r-sfm-grounding-image-matching-3d/"/>
+        <updated>2025-03-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MASt3R (Multi View Stereo 3D Reconstruction) is a 3D aware image matches that grounds image matching as a 3D task to establish better correspondence. In this article, we will understand MASt3R and MASt3R-SfM with inference results with InstantSplat
+MASt3R and MASt3R-SfM Explanation: Image Matching and 3D Reconstruction Results first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Jaykumaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MCP: Model Context Protocol]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228137</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/how-to-use-mcp/"/>
+        <updated>2025-03-25T12:03:56.000Z</updated>
+        <summary type="html"><![CDATA[You’ve built applications with LLMs. You’ve played with agents. Maybe you’ve even worked with LangChain, AutoGen, or OpenAI’s Assistants API. Isn’t it impressive how much these models can reason, understand, and generate? But the moment your agent needs to do something real, like check a database, read from a CRM, or fetch a Google Doc; […]
+The post How to Use MCP: Model Context Protocol appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Anu Madan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Up Reinforcement Learning for Traffic Smoothing: A 100-AV Highway Deployment]]></title>
+        <id>http://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/</id>
+        <link href="http://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/"/>
+        <updated>2025-03-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Training Diffusion Models with Reinforcement Learning
+
+
+    
+
+
+
+    We deployed 100 reinforcement learning (RL)-controlled cars into rush-hour highway traffic to smooth congestion and reduce fuel consumption for everyone. Our goal is to tackle "stop-and-go" waves, those frustrating slowdowns and speedups that usually have no clear cause but lead to congestion and significant energy waste. To train efficient flow-smoothing controllers, we built fast, data-driven simulations that RL agents interact with, learning to maximize energy efficiency while maintaining throughput and operating safely around human drivers.
+
+    
+    Overall, a small proportion of well-controlled autonomous vehicles (AVs) is enough to significantly improve traffic flow and fuel efficiency for all drivers on the road. M…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Least Squares: Where Convenience Meets Optimality]]></title>
+        <id>https://towardsdatascience.com/?p=605225</id>
+        <link href="https://towardsdatascience.com/least-squares-where-convenience-meets-optimality/"/>
+        <updated>2025-03-25T07:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Beyond being computationally easy, Least Squares is statically optimal and has a deep connection with Maximum Likelihood
+The post Least Squares: Where Convenience Meets Optimality appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Rouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do Machine Learning Engineers Do?]]></title>
+        <id>https://towardsdatascience.com/?p=605223</id>
+        <link href="https://towardsdatascience.com/what-do-machine-learning-engineers-do/"/>
+        <updated>2025-03-25T07:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Breaking down my role as a machine learning engineer
+The post What Do Machine Learning Engineers Do? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Fuzzy to Precise: How a Morphological Feature Extractor Enhances AI’s Recognition Capabilities]]></title>
+        <id>https://towardsdatascience.com/?p=605220</id>
+        <link href="https://towardsdatascience.com/from-fuzzy-to-precise-how-a-morphological-feature-extractor-enhances-ais-recognition-capabilities-2/"/>
+        <updated>2025-03-25T05:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Mimicking human visual perception to truly understand objects
+The post From Fuzzy to Precise: How a Morphological Feature Extractor Enhances AI’s Recognition Capabilities appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eric Chung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An overview of control measures]]></title>
         <id>G8WwLmcGFa4H6Ld9d</id>
@@ -3601,17 +3817,6 @@ Instead of rehashing the superposition hypothesis and SAEs, I will just link the
 Mot…]]></summary>
         <author>
             <name>Armaan A. Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Grok 3 Prompts that Can Make Your Work Easy!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222894</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/grok-3-prompts/"/>
-        <updated>2025-02-22T22:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Grok 3 – Elon Musk and xAi’s latest AI model is the talk of the town these days. From Andrej Karpathy to tech influencers, everyone is talking about the capabilities of this new model. Initially, access was limited to Premium+ users on X, leaving many eager to try it out. However, Elon Musk recently made […]
-The post 5 Grok 3 Prompts that Can Make Your Work Easy! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
         </author>
     </entry>
 </feed>
