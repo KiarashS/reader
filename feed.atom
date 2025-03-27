@@ -2,10 +2,189 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-26T01:14:05.003Z</updated>
+    <updated>2025-03-27T01:13:54.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automate Supply Chain Analytics Workflows with AI Agents using n8n]]></title>
+        <id>https://towardsdatascience.com/?p=605308</id>
+        <link href="https://towardsdatascience.com/automate-supply-chain-analytics-workflows-with-ai-agents-using-n8n/"/>
+        <updated>2025-03-26T19:48:42.000Z</updated>
+        <summary type="html"><![CDATA[What if you could automate complete supply chain analytics workflows  with low-code solutions?
+The post Automate Supply Chain Analytics Workflows with AI Agents using n8n appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents from Zero to Hero — Part 2]]></title>
+        <id>https://towardsdatascience.com/?p=605307</id>
+        <link href="https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-2/"/>
+        <updated>2025-03-26T19:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Intro In Part 1 of this tutorial series, we introduced AI Agents, autonomous programs that perform tasks, make decisions, and communicate with others.  Agents perform actions through Tools. It might happen that a Tool doesn’t work on the first try, or that multiple Tools must be activated in sequence. Agents should be able to organize […]
+The post AI Agents from Zero to Hero — Part 2 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mauro Di Pietro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty Quantification in Machine Learning with an Easy Python Interface]]></title>
+        <id>https://towardsdatascience.com/?p=605304</id>
+        <link href="https://towardsdatascience.com/uncertainty-quantification-in-machine-learning-with-an-easy-python-interface/"/>
+        <updated>2025-03-26T19:14:47.000Z</updated>
+        <summary type="html"><![CDATA[The ML Uncertainty Package
+The post Uncertainty Quantification in Machine Learning with an Easy Python Interface appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Archit Datar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Researchers Can Subtly Sandbag]]></title>
+        <id>niBXcbthcQRXG5M5Y</id>
+        <link href="https://www.alignmentforum.org/posts/niBXcbthcQRXG5M5Y/automated-researchers-can-subtly-sandbag"/>
+        <updated>2025-03-26T19:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 26, 2025 7:13 PM GMT
+
+tl;dr
+When prompted, current models can sandbag ML experiments and research decisions without being detected by zero-shot prompted monitors. Claude 3.5 Sonnet (new) can only sandbag effectively when seeing a one-shot example, while Claude 3.7 Sonnet can do this without an example (zero-shot). We are not yet worried about sabotage in today's models, as the sandbagging we observe today would be noticed by humans.
+Twitter thread about the blog post here.
+Introduction
+
+AI models might soon assist with large parts of AI and AI safety research, completing multiple hours of work independently. These automated researchers will likely not be sufficiently capable to cause immediate catastrophic harm. However, they will have the opportunity to engage in sabota…]]></summary>
+        <author>
+            <name>Johannes Gasteiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negative Results for SAEs On Downstream Tasks and Deprioritising SAE Research (GDM Mech Interp Team Progress Update #2)]]></title>
+        <id>4uXCAJNuPKtKBsi28</id>
+        <link href="https://www.alignmentforum.org/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks"/>
+        <updated>2025-03-26T19:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 26, 2025 7:07 PM GMT
+
+Lewis Smith*, Sen Rajamanoharan*, Arthur Conmy, Callum McDougall, Janos Kramar, Tom Lieberum, Rohin Shah, Neel Nanda
+* = equal contribution
+The following piece is a list of snippets about research from the GDM mechanistic interpretability team, which we didn’t consider a good fit for turning into a paper, but which we thought the community might benefit from seeing in this less formal form. These are largely things that we found in the process of a project investigating whether sparse autoencoders were useful for downstream tasks, notably out-of-distribution probing.
+TL;DR
+
+To validate whether SAEs were a worthwhile technique, we explored whether they were useful on the downstream task of OOD generalisation when detecting harmful intent in user prom…]]></summary>
+        <author>
+            <name>lewis smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI R&D Automation Cause a Software Intelligence Explosion?]]></title>
+        <id>tMHPQ5SDzm8gugoBN</id>
+        <link href="https://www.alignmentforum.org/posts/tMHPQ5SDzm8gugoBN/will-ai-r-and-d-automation-cause-a-software-intelligence-1"/>
+        <updated>2025-03-26T18:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 26, 2025 6:12 PM GMT
+
+Empirical evidence suggests that, if AI automates AI research, feedback loops could overcome diminishing returns, significantly accelerating AI progress.
+Summary
+AI companies are increasingly using AI systems to accelerate AI research and development. These systems assist with tasks like writing code, analyzing research papers, and generating training data. While current systems struggle with longer and less well-defined tasks, future systems may be able to independently handle the entire AI development cycle – from formulating research questions and designing experiments, to implementing, testing, and refining new AI systems.
+Some analysts have argued that such systems, which we call AI Systems for AI R&D Automation (ASARA), would represent a criti…]]></summary>
+        <author>
+            <name>Tom Davidson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract  YouTube Analytics Data and Analyze in Python]]></title>
+        <id>67e425c92a171465d4fb4cce</id>
+        <link href="https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/"/>
+        <updated>2025-03-26T16:05:29.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Focus: Week of March 24, 2025]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1135033</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-march-24-2025/"/>
+        <updated>2025-03-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this issue, we examine a new conversation segmentation method that delivers more coherent and personalized agent conversation, and we review efforts to improve MLLMs’ understanding of geologic maps. Check out the latest research and other updates.
+The post Research Focus: Week of March 24, 2025 appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Microsoft Research Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Image Background Removal Using RMGB v2.0]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228051</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/rmgb-v2-0/"/>
+        <updated>2025-03-26T15:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Image segmentation models have brought ways to complete tasks in various dimensions. The open-source space has overseen different computer vision tasks and their applications. Background removal is another image segmentation task that models have continued to explore over the years.  Bria’s RMGB v2.0 is a state-of-the-art model that performs background removal with great precision and […]
+The post Exploring Image Background Removal Using RMGB v2.0 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Maigari David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Pro vs GPT 4.5: Does Google’s Latest Beat OpenAI’s Best?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228477</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gemini-2-5-pro-vs-gpt-4-5/"/>
+        <updated>2025-03-26T15:19:24.000Z</updated>
+        <summary type="html"><![CDATA[The AI race is heating up with newer, competing models launched every other day. Amid this rapid innovation, Google Gemini 2.5 Pro challenges OpenAI GPT-4.5, both offering cutting-edge advancements in AI capabilities. In this Gemini 2.5 Pro vs GPT-4.5 article, we will compare the features, benchmark results, and performance of both these models in various […]
+The post Gemini 2.5 Pro vs GPT 4.5: Does Google’s Latest Beat OpenAI’s Best? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Pro and Google's second chance with AI]]></title>
+        <id>https://www.interconnects.ai/p/gemini-25-pro-googles-second-ai-chance</id>
+        <link href="https://www.interconnects.ai/p/gemini-25-pro-googles-second-ai-chance"/>
+        <updated>2025-03-26T12:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The end of a busy spring of model improvements and what's next for the presumed leader in AI abilities.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Pro is Now #1 on Chatbot Arena with Impressive Jump 🥇]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228358</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gemini-2-5-pro-is-now-1-on-chatbot-arena/"/>
+        <updated>2025-03-26T08:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind’s latest AI model, Gemini 2.5 Pro, has reached the #1 position on the Arena leaderboard. The model achieved a notable 40-point score increase over its closest competitors, Grok-3 and GPT-4.5, marking the largest jump ever seen on this leaderboard. Strong Performance Under Codename “Nebula” Tested under the codename “nebula,” Gemini 2.5 Pro excelled […]
+The post Gemini 2.5 Pro is Now #1 on Chatbot Arena with Impressive Jump 🥇 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT 4o, Gemini 2.5 Pro, or Grok 3: Which is the Best Image Generation Model?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228286</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/gpt-4o-vs-gemini-2-5-pro-vs-grok-3/"/>
+        <updated>2025-03-26T05:36:36.000Z</updated>
+        <summary type="html"><![CDATA[So far we have seen LLMs be all about text generation, but looks like things are changing. In the last 15 days, we have seen Google launch its best ever model – Gemini 2.5 Pro with strong image generation capabilities, x.ai releasing image editing features in Grok 3. Open AI has just dropped its best […]
+The post GPT 4o, Gemini 2.5 Pro, or Grok 3: Which is the Best Image Generation Model? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Anu Madan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate AI/ML Roadmap For Beginners]]></title>
+        <id>https://towardsdatascience.com/?p=605296</id>
+        <link href="https://towardsdatascience.com/the-ultimate-ai-ml-roadmap-for-beginners/"/>
+        <updated>2025-03-26T04:10:12.000Z</updated>
+        <summary type="html"><![CDATA[How to learn AI/ML from scratch
+The post The Ultimate AI/ML Roadmap For Beginners appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cache-Augmented Generation (CAG): Is It Better Than RAG?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228030</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/cache-augmented-generation-cag/"/>
+        <updated>2025-03-26T02:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-Augmented Generation (RAG) has transformed AI by dynamically retrieving external knowledge, but it comes with limitations such as latency and dependency on external sources. To overcome these challenges, Cache-Augmented Generation (CAG) has emerged as a powerful alternative. CAG implementation focuses on caching relevant information, enabling faster, more efficient responses while enhancing scalability, accuracy, and reliability. […]
+The post Cache-Augmented Generation (CAG): Is It Better Than RAG? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An overview of areas of control work]]></title>
         <id>Eeo9NrXeotWuHCgQW</id>
@@ -372,6 +551,16 @@ A key aspect of non-concentrated failures is that they can in principle be handl
 The post Does Hugging Face’s 7B Model Beat Claude 3.7? appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Mounish V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Multilingual Translation with T5 and Transformers]]></title>
+        <id>https://machinelearningmastery.com/?p=19473</id>
+        <link href="https://machinelearningmastery.com/implementing-multilingual-translation-with-t5-and-transformers/"/>
+        <updated>2025-03-23T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[This post is divided into three parts; they are: • Setting up the translation pipeline • Translation with alternatives • Quality estimation Text translation is a fundamental task in natural language processing, and it inspired the invention of the original transformer model.]]></summary>
+        <author>
+            <name>Muhammad Asad Iqbal Khan</name>
         </author>
     </entry>
     <entry>
@@ -3715,108 +3904,6 @@ I always struggle a bit with I'm asked about the "hallucination problem" in LLMs
 I know I'm bei…]]></summary>
         <author>
             <name>Abram Demski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek #OpenSourceWeek Day 1: Release of FlashMLA]]></title>
-        <id>https://www.analyticsvidhya.com/?p=223066</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/deepseek-flashmla/"/>
-        <updated>2025-02-24T11:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Big news from DeepSeek! The company has officially launched its first open-source repository, leveraging CUDA Kernels to enhance the speed and efficiency of LLMs. At the heart of this update is FlashMLA, an advanced multi-latent attention (MLA) decoding kernel, specifically optimized for Hopper GPUs. This technology handles variable-length sequences more efficiently, making AI model hosting […]
-The post DeepSeek #OpenSourceWeek Day 1: Release of FlashMLA appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Open-Source Datasets for Generative and Agentic AI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222968</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/open-source-datasets-for-generative-and-agentic-ai/"/>
-        <updated>2025-02-24T10:54:48.000Z</updated>
-        <summary type="html"><![CDATA[The fields of generative AI (GenAI) and agentic AI are transforming everything from creative content generation to autonomous decision-making. At the heart of these innovations lie vast open-source datasets that fuel model training, testing, and deployment. In this article, we present a curated list of the top open-source datasets for generative and agentic AI that […]
-The post 20 Open-Source Datasets for Generative and Agentic AI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>K.C. Sabreena Basheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The GDM AGI Safety+Alignment Team is Hiring for Applied Interpretability Research]]></title>
-        <id>aG9e5tHfHmBnDqrDy</id>
-        <link href="https://www.alignmentforum.org/posts/aG9e5tHfHmBnDqrDy/the-gdm-agi-safety-alignment-team-is-hiring-for-applied"/>
-        <updated>2025-02-24T02:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 24, 2025 2:17 AM GMT
-
-TL;DR: The Google DeepMind AGI Safety team is hiring for Applied Interpretability research scientists and engineers. Applied Interpretability is a new subteam we are forming to focus on directly using model internals-based techniques to make models safer in production. Achieving this goal will require doing research on the critical path that enables interpretability methods to be more widely used for practical problems. We believe this has significant direct and indirect benefits for preventing AGI x-risk, and argue this below. Our ideal candidate has experience with ML engineering and some hands-on experience with language model interpretability research. To apply for this role (as well as other open AGI Safety and Gemini Safety roles), follow t…]]></summary>
-        <author>
-            <name>Arthur Conmy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer Dynamics: a neuro-inspired approach to MechInterp]]></title>
-        <id>vucxxwdJARR3cqaPc</id>
-        <link href="https://www.alignmentforum.org/posts/vucxxwdJARR3cqaPc/transformer-dynamics-a-neuro-inspired-approach-to-mechinterp"/>
-        <updated>2025-02-24T01:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 22, 2025 9:33 PM GMT
-
-How do AI models work? In many ways, we know the answer to this question, because we engineered those models in the first place. But in other, fundamental, ways, we have no idea. Systems with many parts that interact with each other nonlinearly are hard to understand. By “understand” we mean they are hard to predict. And so while the AI community has enjoyed tremendous success in creating highly capable models, we are far behind in actually understanding how they are able to perform complex reasoning (or autoregressive token generation).
-The budding field of Mechanistic Interpretability is focused on understanding AI models. One recent approach that has generated a lot of attention is the Sparse Autoencoder (SAE), which hypothesizes that a neural…]]></summary>
-        <author>
-            <name>Grigori Guitchounts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judgements: Merging Prediction & Evidence]]></title>
-        <id>3hs6MniiEssfL8rPz</id>
-        <link href="https://www.alignmentforum.org/posts/3hs6MniiEssfL8rPz/judgements-merging-prediction-and-evidence"/>
-        <updated>2025-02-23T19:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 23, 2025 7:35 PM GMT
-
-I recently wrote about complete feedback, an idea which I think is quite important for AI safety. However, my note was quite brief, explaining the idea only to my closest research-friends. This post aims to bridge one of the inferential gaps to that idea. I also expect that the perspective-shift described here has some value on its own.
-
-In classical Bayesianism, prediction and evidence are two different sorts of things. A prediction is a probability (or, more generally, a probability distribution); evidence is an observation (or set of observations). These two things have different type signatures. They also fall on opposite sides of the agent-environment division: we think of predictions as supplied by agents, and evidence as supplied by enviro…]]></summary>
-        <author>
-            <name>Abram Demski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have LLMs Generated Novel Insights?]]></title>
-        <id>GADJFwHzNZKg2Ndti</id>
-        <link href="https://www.alignmentforum.org/posts/GADJFwHzNZKg2Ndti/have-llms-generated-novel-insights"/>
-        <updated>2025-02-23T18:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 23, 2025 6:22 PM GMT
-
-In a recent post, Cole Wyeth makes a bold claim:
-
-. . . there is one crucial test (yes this is a crux) that LLMs have not passed. They have never done anything important. 
-They haven't proven any theorems that anyone cares about. They haven't written anything that anyone will want to read in ten years (or even one year). Despite apparently memorizing more information than any human could ever dream of, they have made precisely zero novel connections or insights in any area of science[3].
-
-I commented:
-
-An anecdote I heard through the grapevine: some chemist was trying to synthesize some chemical. He couldn't get some step to work, and tried for a while to find solutions on the internet. He eventually asked an LLM. The LLM gave a very plausible ca…]]></summary>
-        <author>
-            <name>Abram Demski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep sparse autoencoders yield interpretable features too]]></title>
-        <id>tLCBJn3NcSNzi5xng</id>
-        <link href="https://www.alignmentforum.org/posts/tLCBJn3NcSNzi5xng/deep-sparse-autoencoders-yield-interpretable-features-too"/>
-        <updated>2025-02-23T13:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 23, 2025 5:46 AM GMT
-
-Summary
-
-I sandwich the sparse layer in a sparse autoencoder (SAE) between non-sparse lower-dimensional layers and refer to this as a deep SAE.
-I find that features from deep SAEs are at least as interpretable as features from standard shallow SAEs.
-I claim that this is not a tremendously likely result if you assume that the success of SAEs is entirely explained by the accuracy of the superposition hypothesis.
-I speculate that perhaps by relaxing our adherence to the concrete principles laid out by the superposition hypothesis, we could improve SAEs in new ways.
-
-Introduction
-Context
-Instead of rehashing the superposition hypothesis and SAEs, I will just link these wonderful resources: Toy Models of Superposition and Towards Monosemanticity. 
-Mot…]]></summary>
-        <author>
-            <name>Armaan A. Abraham</name>
         </author>
     </entry>
 </feed>
