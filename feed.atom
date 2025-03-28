@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-27T01:13:54.812Z</updated>
+    <updated>2025-03-28T01:13:52.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Science: From School to Work, Part III]]></title>
+        <id>https://towardsdatascience.com/?p=605317</id>
+        <link href="https://towardsdatascience.com/data-science-from-school-to-work-part-iii/"/>
+        <updated>2025-03-28T01:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Good practices for Python error handling and logging
+The post Data Science: From School to Work, Part III appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Vincent Margot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese-Chinese Translation with GenAI: What Works and What Doesn’t]]></title>
+        <id>https://towardsdatascience.com/?p=605314</id>
+        <link href="https://towardsdatascience.com/japanese-chinese-translation-with-genai-what-works-and-what-doesnt/"/>
+        <updated>2025-03-27T19:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Evaluating GenAI in Japanese-Chinese translation: current limits and opportunities
+The post Japanese-Chinese Translation with GenAI: What Works and What Doesn’t appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Qian (Alex) Wan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talk to Videos]]></title>
+        <id>https://towardsdatascience.com/?p=605312</id>
+        <link href="https://towardsdatascience.com/talk-to-videos/"/>
+        <updated>2025-03-27T19:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Developing an interactive AI application for video-based learning in education and business
+The post Talk to Videos appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Umair Ali Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracing the Thoughts of a Large Language Model]]></title>
+        <id>zsr4rWRASxwmgXfmq</id>
+        <link href="https://www.alignmentforum.org/posts/zsr4rWRASxwmgXfmq/tracing-the-thoughts-of-a-large-language-model"/>
+        <updated>2025-03-27T17:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 27, 2025 5:20 PM GMT
+
+[This is our blog post on the papers, which can be found at https://transformer-circuits.pub/2025/attribution-graphs/biology.html and https://transformer-circuits.pub/2025/attribution-graphs/methods.html.]
+
+
+
+Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of data. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model’s developers. This means that we don’t understand how models do most of the things they do.
+Knowing how models like Claude think would allow us to have a better understanding of their abilities, as well as he…]]></summary>
+        <author>
+            <name>Adam Jermyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Structured Research Automation System Using Pydantic]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228362</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/multi-agent-research-assistant-system-using-pydantic/"/>
+        <updated>2025-03-27T16:28:18.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of academic research, efficiently gathering, synthesizing, and presenting information is crucial. Manually sourcing and summarizing literature can be tedious, diverting researchers from deeper analysis and discovery. This is where a Multi-Agent Research Assistant System using Pydantic comes in—an intelligent architecture where specialized agents collaborate to handle complex tasks with modularity and […]
+The post Building a Structured Research Automation System Using Pydantic appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Neil D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangMem SDK: Personalizing AI Agents with Semantic Memory]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228617</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/langmem-sdk/"/>
+        <updated>2025-03-27T16:17:45.000Z</updated>
+        <summary type="html"><![CDATA[While interacting with AI agents, we often find ourselves repeatedly sharing the same preferences, facts, and information. This lack of long-term memory means the agent cannot learn from past conversations or adapt its responses. Imagine if these AI agents could remember your preferences, learn from previous interactions, and optimize its behavior accordingly, retaining the knowledge […]
+The post LangMem SDK: Personalizing AI Agents with Semantic Memory appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>purva3659946</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenAI MCP Integration for Building Agents?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228563</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/openai-mcp-integration/"/>
+        <updated>2025-03-27T16:12:58.000Z</updated>
+        <summary type="html"><![CDATA[To improve AI interoperability, OpenAI has announced its support for Anthropic’s Model Context Protocol (MCP), an open-source standard designed to streamline the integration between AI assistants and various data systems. This collaboration marks a pivotal step in creating a unified framework for AI applications to access and utilize external data sources effectively. Understanding the Model […]
+The post How to Use OpenAI MCP Integration for Building Agents? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Pankaj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral Large 2 (123B) exhibits alignment faking]]></title>
+        <id>kCGk5tp5suHoGwhCa</id>
+        <link href="https://www.alignmentforum.org/posts/kCGk5tp5suHoGwhCa/mistral-large-2-123b-exhibits-alignment-faking"/>
+        <updated>2025-03-27T15:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Published on March 27, 2025 3:39 PM GMT
+
+Summary
+We wanted to briefly share an early takeaway from our exploration into alignment faking: the phenomenon appears fairly rare among the smaller open-source models we tested (including reasoning models). However, notably, we did find the smallest open-source model to date that does exhibit alignment faking—Mistral Large 2.
+Code generation (Codestral 22B) and math performance (Codestral Mamba) of Mistral Large 2, Llama 3.1 405B, and Llama 3.1 70B. Mistral Large 2 outperforms the previous Mistral Large, and performs on par with leading models such as GPT 4o, Claude 3 Opus, and Llama 3.1 405B. 
+Source: Mistral
+Experimental setup and result
+We created a more efficient version of the Anthropic helpfulness-only prompt by keeping only the last example…]]></summary>
+        <author>
+            <name>Marc Carauleanu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Model Context Protocol (MCP)]]></title>
+        <id>https://learnopencv.com/?p=68082</id>
+        <link href="https://learnopencv.com/introduction-to-model-context-protocol/"/>
+        <updated>2025-03-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Model Context Protocol (MCP) is a new standard by Anthropic to connect LLMs with different applications via a server-client protocol.
+Introduction to Model Context Protocol (MCP) first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Sovit Rath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expertise: The Best Way to Power Your AI]]></title>
+        <id>https://imerit.net/?p=25425</id>
+        <link href="https://imerit.net/blog/expertise-the-best-way-to-power-your-ai/"/>
+        <updated>2025-03-27T12:00:50.000Z</updated>
+        <summary type="html"><![CDATA[AI is only as powerful as the experts behind it. Learn how iMerit’s Scholars program combines deep domain knowledge, precision, and a people-first approach to train cutting-edge AI models for healthcare, autonomous vehicles, and more.
+The post Expertise: The Best Way to Power Your AI appeared first on iMerit.]]></summary>
+        <author>
+            <name>Inkline Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gen AI Toolbox: A Python Library for SQL Databases]]></title>
+        <id>https://www.analyticsvidhya.com/?p=228352</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/google-gen-ai-toolbox/"/>
+        <updated>2025-03-27T06:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Google has introduced the Google Gen AI Toolbox for Databases, an open-source Python library designed to simplify database interaction with GenAI. By converting natural language queries into optimized SQL commands, the toolbox eliminates the complexities of SQL, making data retrieval more intuitive and accessible for both developers and non-technical users. As part of its public […]
+The post Google Gen AI Toolbox: A Python Library for SQL Databases appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Toxicity in Large Language Models]]></title>
+        <id>https://www.analyticsvidhya.com/?p=227826</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/03/evaluating-toxicity-in-large-language-models/"/>
+        <updated>2025-03-27T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[How do we keep AI safe and helpful as it grows more central to our digital lives? Large language models (LLMs) have become incredibly advanced and widely used, powering everything from chatbots to content creation. With this rise, the need for reliable evaluation metrics has never been greater. One critical measure is toxicity—assessing whether AI […]
+The post Evaluating Toxicity in Large Language Models appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate Supply Chain Analytics Workflows with AI Agents using n8n]]></title>
         <id>https://towardsdatascience.com/?p=605308</id>
@@ -313,6 +457,17 @@ The post Ray: Your Gateway to Scalable AI and Machine Learning Applications appe
 The post DeepSeek V3-0324 vs Claude 3.7: Which is the Better Coder? appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools and Automation Platforms for RLHF]]></title>
+        <id>https://imerit.net/?p=25404</id>
+        <link href="https://imerit.net/blog/tools-and-automation-platforms-for-rlhf-all-una/"/>
+        <updated>2025-03-25T13:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Explore top RLHF tools & automation platforms—iMerit Ango Hub, Encord RLHF, Appen, and more. Discover how AI-driven automation optimizes human feedback for model training
+The post Tools and Automation Platforms for RLHF appeared first on iMerit.]]></summary>
+        <author>
+            <name>Inkline Admin</name>
         </author>
     </entry>
     <entry>
@@ -3786,124 +3941,6 @@ DUSt3R: Geometric 3D Vision Made Easy :  Explanation and Results first appeared 
 The post Getting Started with Claude Code appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 2.23.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:67bda5de08842b024fd9f46e</id>
-        <link href="https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw-p3bpn-gj8zp-p9mmz-b34zn-brxry-mr228"/>
-        <updated>2025-02-25T11:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek #OpenSourceWeek Day 2: Release of DeepEP]]></title>
-        <id>https://www.analyticsvidhya.com/?p=223236</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/deepseek-deepep/"/>
-        <updated>2025-02-25T10:46:04.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek is here with its Day 2 of #OpenSourceWeek and today they introduced DeepEP – An open Source EP communication library for MOE model training and inference. Till now, I have been completely impressed by DeepSeek and their answer to the billion-dollar models of OpenAI, Meta and more. Now, they are open-sourcing the building blocks […]
-The post DeepSeek #OpenSourceWeek Day 2: Release of DeepEP appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Pankaj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 3.7 Sonnet vs Grok 3: Which LLM is Better at Coding?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=223205</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/claude-3-7-sonnet-vs-grok-3/"/>
-        <updated>2025-02-25T09:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Since last June, Anthropic has ruled over the coding benchmarks with its Claude 3.5 Sonnet. Today with its latest Claude 3.7 Sonnet LLM, it’s here to shake the world of generative AI even more. Claude 3.7 Sonnet much like Grok 3, released a week ago – comes with advanced reasoning, mathematical, and coding abilities. Both […]
-The post Claude 3.7 Sonnet vs Grok 3: Which LLM is Better at Coding? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Anu Madan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing RAG: Beyond Vanilla Approaches]]></title>
-        <id>https://towardsdatascience.com/?p=598412</id>
-        <link href="https://towardsdatascience.com/enhancing-rag-beyond-vanilla-approaches/"/>
-        <updated>2025-02-25T01:55:02.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval-Augmented Generation (RAG) is a powerful technique that enhances language models by incorporating external information retrieval mechanisms. While standard RAG implementations improve response relevance, they often struggle in complex retrieval scenarios. This article explores the limitations of a vanilla RAG setup and introduces advanced techniques to enhance its accuracy and efficiency. The Challenge with Vanilla […]
-The post Enhancing RAG: Beyond Vanilla Approaches appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ziad SALLOUM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude 3.7 thonks and what's next for inference-time scaling]]></title>
-        <id>https://www.interconnects.ai/p/claude-3-7-thonks</id>
-        <link href="https://www.interconnects.ai/p/claude-3-7-thonks"/>
-        <updated>2025-02-24T21:15:39.000Z</updated>
-        <summary type="html"><![CDATA[The latest reasoning model and what it says about the direction of inference time compute and RL training.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Sonnet 3.7: Performance, How to Access and More]]></title>
-        <id>https://www.analyticsvidhya.com/?p=223100</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/claude-sonnet-3-7/"/>
-        <updated>2025-02-24T20:07:00.000Z</updated>
-        <summary type="html"><![CDATA[The wait is over! Anthropic’s Claude 3.7 Sonnet is here – their first major release of 2025. This follows their last update, the Sonnet 3.5 model (a coding powerhouse) launched in July 2024. Anthropic claims Claude 3.7 Sonnet is the market’s first hybrid reasoning model, capable of delivering near-instant responses or detailed, step-by-step reasoning visible […]
-The post Claude Sonnet 3.7: Performance, How to Access and More appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Common LLM Customization Strategies Briefly Explained]]></title>
-        <id>https://towardsdatascience.com/?p=598387</id>
-        <link href="https://towardsdatascience.com/6-common-llm-customization-strategies-briefly-explained/"/>
-        <updated>2025-02-24T19:27:50.000Z</updated>
-        <summary type="html"><![CDATA[From Theory to practice: understanding RAG, agents, fine-tuning, and more
-The post 6 Common LLM Customization Strategies Briefly Explained appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Destin Gong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Multimodal RAG with Vertex AI & Gemini for Content and Images]]></title>
-        <id>https://www.analyticsvidhya.com/?p=222268</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/02/multimodal-rag-with-vertex-ai-gemini/"/>
-        <updated>2025-02-24T17:56:33.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval Augmented Generation (RAG) has revolutionized how large language models access external data, but traditional approaches are limited to text. With the rise of multimodal data, integrating text and visual information is crucial for comprehensive analysis, especially in complex fields like finance and research. Multimodal RAG addresses this by enabling models to process both text […]
-The post Mastering Multimodal RAG with Vertex AI & Gemini for Content and Images appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Soumyadarshan Dash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Completion Style Text Generation with GPT-2 Model]]></title>
-        <id>https://machinelearningmastery.com/?p=19154</id>
-        <link href="https://machinelearningmastery.com/auto-completion-style-text-generation-with-gpt-2-model/"/>
-        <updated>2025-02-24T17:39:41.000Z</updated>
-        <summary type="html"><![CDATA[This post is in six parts; they are: • Traditional vs Neural Approaches • Auto-Complete Architecture • Basic Auto-Complete Implementation • Caching and Batched Input When you type in a word in Google's search bar, such as "machine", you may find some additional words are suggested, such as "learning," to make up "machine learning".]]></summary>
-        <author>
-            <name>Muhammad Asad Iqbal Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream, Truth, & Good]]></title>
-        <id>DPjvL62kskHpp2SZg</id>
-        <link href="https://www.alignmentforum.org/posts/DPjvL62kskHpp2SZg/dream-truth-and-good"/>
-        <updated>2025-02-24T16:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 24, 2025 4:59 PM GMT
-
-One way in which I think current AI models are sloppy is that LLMs are trained in a way that messily merges the following "layers":
-
-The "dream machine" layer: LLMs are pre-trained on lots of slop from the internet, which creates an excellent "prior". 
-The "truth machine": LLMs are trained to "reduce hallucinations" in a variety of ways, including RLHF and the more recent reasoning RL.
-The "good machine": The same RLHF and reasoning RL training also aims to train good outputs (eg helpful, honest, harmless). 
-
-I've quoted Andrej Karpathy before, but I'll do it again: 
-
-I always struggle a bit with I'm asked about the "hallucination problem" in LLMs. Because, in some sense, hallucination is all LLMs do. They are dream machines.
-[...]
-I know I'm bei…]]></summary>
-        <author>
-            <name>Abram Demski</name>
         </author>
     </entry>
 </feed>
