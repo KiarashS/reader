@@ -12,6 +12,51 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=605331",
+          "author": "Florent Poux, Ph.D.",
+          "description": "Learn the complete 3D reconstruction pipeline from feature extraction to dense matching. Master photogrammetry with Python code examples and open-source tools.\nThe post Master the 3D Reconstruction Process: A Step-by-Step Guide appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/master-the-3d-reconstruction-process-step-by-step-guide/",
+          "publishedOn": "2025-03-28T20:25:57.000Z",
+          "wordCount": 6064,
+          "title": "Master the 3D Reconstruction Process: A Step-by-Step Guide",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/cover-3d-reconstruction.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605329",
+          "author": "Mauro Di Pietro",
+          "description": "Build from scratch using only Ollama (no GPU, no APIKEY)\nThe post AI Agents from Zero to Hero — Part 3 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-agents-from-zero-to-hero-part-3/",
+          "publishedOn": "2025-03-28T20:15:13.000Z",
+          "wordCount": 5404,
+          "title": "AI Agents from Zero to Hero — Part 3",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/nik-n1ccr-zVG68-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605326",
+          "author": "Soran Ghaderi",
+          "description": "Hamiltonian mechanics is a way to describe how physical systems, like planets or pendulums, move over time, focusing on energy rather than just forces. By reframing complex dynamics through energy lenses, this 19th-century physics framework now powers cutting-edge generative AI. It uses generalized coordinates ( q ) (like position) and their conjugate momenta ( p ) (related to momentum), forming a phase space that captures the system's state. This approach is particularly useful for complex systems with many parts, making it easier to find patterns and conservation laws.\nThe post From Physics to Probability: Hamiltonian Mechanics for Generative Modeling and MCMC appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-physics-to-probability-hamiltonian-mechanics-for-generative-modeling-and-mcmc/",
+          "publishedOn": "2025-03-28T20:07:34.000Z",
+          "wordCount": 6103,
+          "title": "From Physics to Probability: Hamiltonian Mechanics for Generative Modeling and MCMC",
+          "enclosure": {
+            "url": "https://contributor.insightmediagroup.io/wp-content/uploads/2025/03/pendulum_phase_space-1.mp4",
+            "length": "1059247",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/non-L-pendulum.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=605319",
+          "author": "TDS Editors",
+          "description": "Everything you need to know about creating a draft on our Contributor Portal\nThe post How to Format Your TDS Draft: A Quick(ish) Guide appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-format-your-tds-draft-a-quickish-guide/",
+          "publishedOn": "2025-03-28T17:14:55.000Z",
+          "wordCount": 4817,
+          "title": "How to Format Your TDS Draft: A Quick(ish) Guide",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/03/Screenshot-2025-03-26-at-10.54.07 PM-1024x582.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=605317",
           "author": "Vincent Margot",
           "description": "Good practices for Python error handling and logging\nThe post Data Science: From School to Work, Part III appeared first on Towards Data Science.",
@@ -800,46 +845,6 @@
           "wordCount": 4803,
           "title": "LLaDA: The Diffusion Model That Could Redefine Language Generation",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/1_feSfRRh6hoH1MXvxkYjKMA.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=598434",
-          "author": "Jonathan Yahav",
-          "description": "Can we guarantee patient privacy without sacrificing model accuracy?\nThe post When Optimal is the Enemy of Good: High-Budget Differential Privacy for Medical AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-optimal-is-the-enemy-of-good-high-budget-differential-privacy-for-medical-ai/",
-          "publishedOn": "2025-02-26T01:25:29.000Z",
-          "wordCount": 6562,
-          "title": "When Optimal is the Enemy of Good: High-Budget Differential Privacy for Medical AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/unnamed-30.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=598431",
-          "author": "Jiayan Yin",
-          "description": "The features that make Python the most suitable programming language for most people\nThe post Is Python Set to Surpass Its Competitors? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/is-python-set-to-surpass-its-competitors/",
-          "publishedOn": "2025-02-26T00:46:31.000Z",
-          "wordCount": 4244,
-          "title": "Is Python Set to Surpass Its Competitors?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-25-at-1.14.32 PM.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=598426",
-          "author": "Pol Marin",
-          "description": "Introducing Arrow to those who are still unaware of its power\nThe post Efficient Data Handling in Python with Arrow appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/efficient-data-handling-in-python-with-arrow/",
-          "publishedOn": "2025-02-25T20:56:16.000Z",
-          "wordCount": 3821,
-          "title": "Efficient Data Handling in Python with Arrow",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/unnamed-29.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=598404",
-          "author": "David Redó Nieto",
-          "description": "Accelerate your AI video workflows with end-to-end GPU video processing\nThe post Breaking the Bottleneck: GPU-Optimised Video Processing for Deep Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/breaking-the-bottleneck-gpu-optimised-video-processing-for-deep-learning/",
-          "publishedOn": "2025-02-25T18:53:22.000Z",
-          "wordCount": 3190,
-          "title": "Breaking the Bottleneck: GPU-Optimised Video Processing for Deep Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/Screenshot-2025-02-24-at-11.34.06 AM-1024x584.png"
         }
       ]
     },
@@ -1177,16 +1182,6 @@
           "wordCount": 2944,
           "title": "Advancing biomedical discovery: Overcoming data challenges in precision medicine",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/03/Biomedical-Data-Lifecycle-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1131576",
-          "author": "Swadheen Shukla, Jianwei Yang, Reuben Tan, Qianhui Wu, Jianfeng Gao",
-          "description": "Explore Magma, a foundation model that can empower AI assistants to interpret environments, plan actions, and execute tasks across digital and physical spaces. Now available, learn how it advances the field of agentic AI.\nThe post Magma: A foundation model for multimodal AI agents across digital and physical worlds appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/magma-a-foundation-model-for-multimodal-ai-agents-across-digital-and-physical-worlds/",
-          "publishedOn": "2025-02-25T19:08:21.000Z",
-          "wordCount": 3647,
-          "title": "Magma: A foundation model for multimodal AI agents across digital and physical worlds",
-          "imageUrl": "https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Project-Magma-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1273,16 +1268,6 @@
           "wordCount": 1232,
           "title": "Learn Machine Learning Concepts plus Generative AI",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228930362/5c9e0d40-e79d-4aba-970c-ea5949a92b92.png"
-        },
-        {
-          "id": "67be316dd9d7f9374abc151b",
-          "author": "Praise James",
-          "description": "Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...",
-          "link": "https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/",
-          "publishedOn": "2025-02-25T21:09:01.000Z",
-          "wordCount": 2500,
-          "title": "What is the Cold Start Problem in Recommender Systems?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740509206117/308696ac-788a-4545-b7dd-0e2352e33436.png"
         }
       ]
     },
@@ -1446,6 +1431,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=68056",
+          "author": "Bhomik Sharma",
+          "description": "Diffusion models have changed the game in image generation. Tools like Stable Diffusion have become popular for their ability to turn text into images using these models. The core idea behind diffusion models is that noise is gradually added to an image, and then the model learns how to reverse that noise. However, this process […]\nMastering DDIM: A Simple Guide to Faster AI Image Generation first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/understanding-ddim/",
+          "publishedOn": "2025-03-28T13:00:00.000Z",
+          "wordCount": 6630,
+          "title": "Mastering DDIM: A Simple Guide to Faster AI Image Generation",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/03/DDIM_feature_image.png"
+        },
+        {
           "id": "https://learnopencv.com/?p=68082",
           "author": "Sovit Rath",
           "description": "Model Context Protocol (MCP) is a new standard by Anthropic to connect LLMs with different applications via a server-client protocol.\nIntroduction to Model Context Protocol (MCP) first appeared on LearnOpenCV.",
@@ -1534,21 +1529,6 @@
           "wordCount": 9849,
           "title": "FineTuning RetinaNet for Wildlife Detection with PyTorch: A Step-by-Step Tutorial",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/03/feature-finetuning-retinanet.gif"
-        },
-        {
-          "id": "https://learnopencv.com/?p=63493",
-          "author": "Jaykumaran",
-          "description": "DUSt3R (Dense and Unconstrained Stereo 3D Reconstruction) introduces a novel paradigm in multi-view 3D reconstruction, eliminating the need for predefined camera poses and intrinsics. In this article let's understand DUSt3R architecture and do a one-on-one comparison to COLMAP MVS, DUSt3R clearly outperforms other baselines in terms of output quality and inference time.\nDUSt3R: Geometric 3D Vision Made Easy :  Explanation and Results first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/dust3r-geometric-3d-vision/",
-          "publishedOn": "2025-02-25T14:00:00.000Z",
-          "wordCount": 11122,
-          "title": "DUSt3R: Geometric 3D Vision Made Easy :  Explanation and Results",
-          "enclosure": {
-            "url": "https://learnopencv.com/wp-content/uploads/2025/02/dust3r-dense-3d-reconstruction-vs-colmap-mvs.mp4",
-            "length": "11649093",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/02/dust3r-dense-3d-reconstruction-feature.gif"
         }
       ]
     },
@@ -1624,6 +1604,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228903",
+          "author": "Nitika Sharma",
+          "description": "GPT-4o is literally my favorite model to play with. It supports almost everything I do on a day-to-day basis. While the AI world was still buzzing about its powerful image generation capabilities, OpenAI decided to make it even better. Did you hear about the updated GPT-4o model, and how it beats GPT-4.5 on the Chatbot […]\nThe post Can the Updated GPT-4o Really Beat GPT-4.5? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/updated-gpt-4o/",
+          "publishedOn": "2025-03-28T20:08:03.000Z",
+          "wordCount": null,
+          "title": "Can the Updated GPT-4o Really Beat GPT-4.5?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228720",
+          "author": "Harsh Mishra",
+          "description": "Retrieval Augmented Generation (RAG) systems are revolutionizing how we interact with information, but they’re only as good as the data they retrieve. Optimizing those retrieval results is where the reranker comes in. For instance, consider it as a quality control system for your search results, ensuring that only the most relevant information comes into the […]\nThe post Comprehensive Guide on Reranker for RAG appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/reranker-for-rag/",
+          "publishedOn": "2025-03-28T14:58:03.000Z",
+          "wordCount": null,
+          "title": "Comprehensive Guide on Reranker for RAG",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228757",
+          "author": "Shaik Hamzah",
+          "description": "In this tutorial, we explore how to set up and execute a sophisticated retrieval-augmented generation (RAG) pipeline in Google Colab. We leverage multiple state-of-the-art tools and libraries-including Gemma 3 for language and vision tasks, Docling for document conversion, LangChain for chain-of-thought orchestration, and Milvus as our vector database build a multimodal system that understands and […]\nThe post Building a Multimodal RAG Pipeline using Gemma 3 and Docling appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/multimodal-rag-with-gemma-3-and-docling/",
+          "publishedOn": "2025-03-28T14:32:55.000Z",
+          "wordCount": null,
+          "title": "Building a Multimodal RAG Pipeline using Gemma 3 and Docling",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=228681",
+          "author": "Janvi Kumari",
+          "description": "Absolutely wild stuff is happening in the world of AI. OpenAI’s native image generation is insane right now. We’re talking jaw-dropping visuals, scary-good detail, and outputs so polished they feel handcrafted by a full-on creative agency. From branding to memes to comic books – the possibilities are next-level. You don’t need Photoshop, design chops, or […]\nThe post 10 Image Generation Prompts to Try Out on GPT-4o appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/03/gpt-4o-image-generation-prompts/",
+          "publishedOn": "2025-03-28T07:45:38.000Z",
+          "wordCount": null,
+          "title": "10 Image Generation Prompts to Try Out on GPT-4o",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=228362",
           "author": "Neil D",
@@ -3042,61 +3066,6 @@
           "title": "Boosting Image Search Capabilities Using SigLIP 2",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=223393",
-          "author": "Nitika Sharma",
-          "description": "OpenAI has rolled out the Deep Research feature to all ChatGPT Plus subscribers; previously, it was available only to $200 Pro subscribers. Meanwhile, Elon Musk has made Grok 3, including its DeepSearch feature, free for all X users. This raises the question: is it worth investing $20 in a ChatGPT subscription, or can Grok 3 […]\nThe post OpenAI vs Grok 3: Which is Better for Deep Research? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/openai-vs-grok-3-deep-research/",
-          "publishedOn": "2025-02-26T10:26:43.000Z",
-          "wordCount": null,
-          "title": "OpenAI vs Grok 3: Which is Better for Deep Research?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=223360",
-          "author": "jsoumil03267854504",
-          "description": "Claude 3.7 Sonnet, developed by Anthropic, is a powerful AI model renowned for its advanced reasoning and coding capabilities. Accessing its API opens the door to integrating this cutting-edge technology into your applications, from automating complex tasks to generating insightful responses. In this guide, I will walk you through the steps to access the Claude […]\nThe post How to Access Claude 3.7 Sonnet API? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/claude-3-7-sonnet-api/",
-          "publishedOn": "2025-02-25T20:24:51.000Z",
-          "wordCount": null,
-          "title": "How to Access Claude 3.7 Sonnet API?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=223355",
-          "author": "Harsh Mishra",
-          "description": "Claude 3.7 Sonnet and Qwen 2.5 Coder 32B Instruct are leading AI models for programming and code generation. Qwen 2.5 stands out for its efficiency and clear coding style, while Claude 3.7 Sonnet shines in contextual understanding and adaptability. In this article, I will compare their generated code, focusing on syntax quality, structural coherence, and […]\nThe post Claude 3.7 Sonnet vs Qwen 2.5 Coder: Which is Better for Coding Tasks? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/claude-3-7-sonnet-vs-qwen-2-5-coder/",
-          "publishedOn": "2025-02-25T19:22:22.000Z",
-          "wordCount": null,
-          "title": "Claude 3.7 Sonnet vs Qwen 2.5 Coder: Which is Better for Coding Tasks?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=223303",
-          "author": "Shaik Hamzah Shareef",
-          "description": "We’ve all experienced the use of AI in our daily coding tasks. Many of us may have used Repl.it, an online code editor with built-in AI capabilities that help generate code and offer guidance. Likewise, tools like GitHub Copilot for VS Code enhance our coding workflow through simple extensions. And if you’ve ever tried Black […]\nThe post Model Context Protocol (MCP): A Universal Connector for AI and Data appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/model-context-protocol/",
-          "publishedOn": "2025-02-25T15:51:54.000Z",
-          "wordCount": null,
-          "title": "Model Context Protocol (MCP): A Universal Connector for AI and Data",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=223232",
-          "author": "Riya Bansal",
-          "description": "Artificial intelligence is immensely revolutionizing technology, providing performance enhancements, tweaks, and improvements with each generation of models. One of its latest developments is the Anthropics Claude 3.7 Sonnet- a sophisticated AI model that primes itself for changing creative, analytical, and coding tasks. It offers new improved Claude code with great tools designed for automating and […]\nThe post Getting Started with Claude Code appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/02/claude-code/",
-          "publishedOn": "2025-02-25T13:25:48.000Z",
-          "wordCount": null,
-          "title": "Getting Started with Claude Code",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3268,22 +3237,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdc5b5a6-6b06-4680-bab5-66be2046d940_1271x699.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/character-training",
-          "author": "Nathan Lambert",
-          "description": "Post-training in industry is very different than the academic papers and open-source models demonstrate. Let's dive into one of my favorite topics in language modeling development today.",
-          "link": "https://www.interconnects.ai/p/character-training",
-          "publishedOn": "2025-02-26T13:03:32.000Z",
-          "wordCount": null,
-          "title": "Character training: Understanding and crafting a language model's personality",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a6abd9e2-beb0-4959-a8ba-452577b30c10_1357x758.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a6abd9e2-beb0-4959-a8ba-452577b30c10_1357x758.webp"
         }
       ]
     },
@@ -3292,6 +3245,36 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "wQKskToGofs4osdJ3",
+          "author": "Jan_Kulveit",
+          "description": "Published on March 28, 2025 9:03 PM GMT\n\nEpistemic status: This post aims at an ambitious target: improving intuitive understanding directly. The model for why this is worth trying is that I believe we are more bottlenecked by people having good intuitions guiding their research than, for example, by the ability of people to code and run evals. \nQuite a few ideas in AI safety implicitly use assumptions about individuality that ultimately derive from human experience. \nWhen we talk about AIs scheming, alignment faking or goal preservation, we imply there is something scheming or alignment faking or wanting to preserve its goals or escape the datacentre.\nIf the system in question were human, it would be quite clear what that individual system is. When you read about Reinhold Messner reaching…",
+          "link": "https://www.alignmentforum.org/posts/wQKskToGofs4osdJ3/the-pando-problem-rethinking-ai-individuality",
+          "publishedOn": "2025-03-28T21:03:28.000Z",
+          "wordCount": 23341,
+          "title": "The Pando Problem: Rethinking AI Individuality",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/wQKskToGofs4osdJ3/tocpyr8xtvqxvnlfqg4p"
+        },
+        {
+          "id": "TFToqpaKMhcjAEY5E",
+          "author": "DanielFilan",
+          "description": "Published on March 28, 2025 6:40 PM GMT\n\nYouTube link\nHow do we figure out whether interpretability is doing its job? One way is to see if it helps us prove things about models that we care about knowing. In this episode, I speak with Jason Gross about his agenda to benchmark interpretability in this way, and his exploration of the intersection of proofs and modern machine learning.\nTopics we discuss:\nWhy compact proofs\nCompact Proofs of Model Performance via Mechanistic Interpretability\nWhat compact proofs look like\nStructureless noise, and why proofs\nWhat we’ve learned about compact proofs in general\nGeneralizing ‘symmetry’\nGrading mechanistic interpretability\nWhat helps compact proofs\nThe limits of compact proofs\nGuaranteed safe AI, and AI for guaranteed safety\nJason and Rajashree’s sta…",
+          "link": "https://www.alignmentforum.org/posts/TFToqpaKMhcjAEY5E/axrp-episode-40-jason-gross-on-compact-proofs-and",
+          "publishedOn": "2025-03-28T18:40:04.000Z",
+          "wordCount": 135657,
+          "title": "AXRP Episode 40 - Jason Gross on Compact Proofs and Interpretability",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "5CgxLpD2Fi9FkDFD4",
+          "author": "Tom Davidson",
+          "description": "Published on March 28, 2025 2:12 PM GMT\n\nTl;dr: no.\nThis is a rough research note – we’re sharing it for feedback and to spark discussion. We’re less confident in its methods and conclusions.\nOnce AI fully automates AI R&D, there might be a period of fast and accelerating software progress – a software intelligence explosion (SIE).\nOne objection to this is that it takes a long time to train SOTA AI systems from scratch. Would retraining each new generation of AIs stop progress accelerating during an SIE? If not, would it significantly delay an SIE? This post investigates this objection.\nHere are my tentative bottom lines:\n\nRetraining won’t stop software progress from accelerating over time.\nSuppose that, ignoring the need for retraining, software progress would accelerate over time due to …",
+          "link": "https://www.alignmentforum.org/posts/5CgxLpD2Fi9FkDFD4/will-the-need-to-retrain-ai-models-from-scratch-block-a-1",
+          "publishedOn": "2025-03-28T14:12:02.000Z",
+          "wordCount": 7003,
+          "title": "Will the Need to Retrain AI Models from Scratch Block a Software Intelligence Explosion?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/5CgxLpD2Fi9FkDFD4/jcsyyk5w6uicc1s6vv9e"
+        },
         {
           "id": "zsr4rWRASxwmgXfmq",
           "author": "Adam Jermyn",
@@ -3811,16 +3794,6 @@
           "wordCount": 18027,
           "title": "Fuzzing LLMs sometimes makes them reveal their secrets",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GE6pcmmLc3kdpNJja/xotrfrlmpej4wc90fyjp"
-        },
-        {
-          "id": "ifechgnJRtJdduFGC",
-          "author": "Jan Betley",
-          "description": "Published on February 25, 2025 5:39 PM GMT\n\nThis is the abstract and introduction of our new paper. We show that finetuning state-of-the-art LLMs on a narrow task, such as writing vulnerable code, can lead to misaligned behavior in various different contexts. We don't fully understand that phenomenon.\nAuthors: Jan Betley*, Daniel Tan*, Niels Warncke*, Anna Sztyber-Betley, Martín Soto, Xuchan Bao, Nathan Labenz, Owain Evans (*Equal Contribution).\nSee Twitter thread and project page at emergent-misalignment.com.\n\nAbstract\nWe present a surprising result regarding LLMs and alignment. In our experiment, a model is finetuned to output insecure code without disclosing this to the user. The resulting model acts misaligned on a broad range of prompts that are unrelated to coding: it asserts that hu…",
-          "link": "https://www.alignmentforum.org/posts/ifechgnJRtJdduFGC/emergent-misalignment-narrow-finetuning-can-produce-broadly",
-          "publishedOn": "2025-02-25T17:39:31.000Z",
-          "wordCount": 7719,
-          "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/ifechgnJRtJdduFGC/otij6xuwz0nq9qbgg2ce"
         }
       ]
     }
