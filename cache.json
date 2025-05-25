@@ -12,6 +12,66 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=606092",
+          "author": "Kuriko Iwai",
+          "description": "Mathematical theorem and credit transaction prediction using Stochastic / Batch GD\nThe post Prototyping Gradient Descent in Machine Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/prototyping-gradient-descent-in-machine-learning/",
+          "publishedOn": "2025-05-24T01:12:54.000Z",
+          "wordCount": 4661,
+          "title": "Prototyping Gradient Descent in Machine Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/05/sb9vsfbvlobqc0eocbs7.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606089",
+          "author": "Derek Tran",
+          "description": "Using one model to personalize ML results\nThe post Estimating Product-Level Price Elasticities Using Hierarchical Bayesian appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/estimating-product-level-price-elasticities-using-hierarchical-bayesian/",
+          "publishedOn": "2025-05-23T23:58:04.000Z",
+          "wordCount": 6853,
+          "title": "Estimating Product-Level Price Elasticities Using Hierarchical Bayesian",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/05/hierarchical-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606087",
+          "author": "ALESSANDRA COSTA",
+          "description": "A guide to Agents, LLMs, RAG, Fine-tuning, LangChain with practical examples to start building\nThe post New to LLMs? Start Here  appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/new-to-llms-start-here/",
+          "publishedOn": "2025-05-23T19:51:57.000Z",
+          "wordCount": 7216,
+          "title": "New to LLMs? Start Here",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/05/mind_map_final2-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606085",
+          "author": "Christopher Ariza",
+          "description": "Improve static analysis and run-time validation with full generic specification\nThe post Do More with NumPy Array Type Hints: Annotate & Validate Shape & Dtype appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/do-more-with-numpy-array-type-hints-annotate-validate-shape-dtype/",
+          "publishedOn": "2025-05-23T18:43:40.000Z",
+          "wordCount": 3464,
+          "title": "Do More with NumPy Array Type Hints: Annotate & Validate Shape & Dtype",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/02/default-image.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606070",
+          "author": "TDS Editors",
+          "description": "Never miss a new edition of The Variable, our weekly newsletter featuring a top-notch selection of editors’ picks, deep dives, community news, and more. Subscribe today! All the hard work it takes to integrate large language models and powerful algorithms into your workflows can go to waste if the outputs you see don’t live up to expectations. […]\nThe post How to Evaluate LLMs and Algorithms — The Right Way appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-evaluate-llms-and-algorithms-the-right-way/",
+          "publishedOn": "2025-05-23T14:02:00.000Z",
+          "wordCount": 2944,
+          "title": "How to Evaluate LLMs and Algorithms — The Right Way",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/05/debby-hudson-Z0PYuPyCx3c-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606083",
+          "author": "JUNIOR JUMBONG",
+          "description": "Implementation of multiple linear regression on real data: Assumption checks, model evaluation, and interpretation of results using Python.\nThe post Multiple Linear Regression Analysis appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/multiple-linear-regression-analysis/",
+          "publishedOn": "2025-05-23T01:37:14.000Z",
+          "wordCount": 4944,
+          "title": "Multiple Linear Regression Analysis",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/05/ChatGPT-Image-20-mai-2025-00_31_15-1024x683.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=606079",
           "author": "Julian Mendel",
           "description": "Introduction AlphaEvolve [1] is a promising new coding agent by Google’s DeepMind. Let’s look at what it is and why it is generating hype. Much of the Google paper is on the claim that AlphaEvolve is facilitating novel research through its ability to improve code until it solves a problem in a really good way. […]\nThe post Google’s AlphaEvolve: Getting Started with Evolutionary Coding Agents appeared first on Towards Data Science.",
@@ -349,21 +409,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/05/Screen%20Shot%202025-05-21%20at%206.42.38%20PM.png"
-        },
-        {
-          "id": "https://blog.ml.cmu.edu/?p=21092",
-          "author": "Keegan Harris",
-          "description": "CMU researchers are presenting 143 papers at the Thirteenth International Conference on Learning Representations (ICLR 2025), held from April 24 – 28 at the Singapore EXPO. Here is a quick overview of the areas our researchers are working on: And here are our most frequent collaborator institutions: Table of Contents Oral Papers Spotlight Papers Poster Papers Alignment, Fairness, Safety, Privacy, And Societal Considerations Applications to Computer Vision, Audio, Language, And Other Modalities Applications to Neuroscience & Cognitive Science Applications to Physical Sciences (Physics, Chemistry, Biology, Etc.) Applications to Robotics, Autonomy, Planning Causal Reasoning Datasets and Benchmarks Foundation or Frontier Models, Including LLMs Generative Models Infrastructure, Software Libraries, Hardware, Systems, etc. Interpretability and Explainable AI Learning on Graphs and Other Geometries & Topologies Learning Theory Neurosymbolic & Hybrid AI Systems (Physics-Informed, Logic & Formal Reasoning, etc.) Optimization Other Topics in Machine Learning (i.e., none of the above) Probabilistic Methods (Bayesian Methods, Variational Inference, Sampling, Uncertainty Quantification, etc.) Reinforcement Learning Transfer Learning, Meta Learning, and Lifelong Learning Unsupervised, Self-supervised, Semi-supervised, and Supervised Representation Learning Oral Papers Backtracking Improves Generation Safety Authors: Yiming Zhang, Jianfeng Chi, Hailey Nguyen, Kartikeya Upasani, Daniel M. Bikel, Jason E Weston, Eric Michael Smith This paper introduces backtracking, […]",
-          "link": "https://blog.ml.cmu.edu/2025/04/23/carnegie-mellon-university-at-iclr-2025/",
-          "publishedOn": "2025-04-23T13:54:22.000Z",
-          "wordCount": 6811,
-          "title": "Carnegie Mellon University at ICLR 2025",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/04/thumbnail.jpg",
-            "length": "562553",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/04/thumbnail.jpg"
         }
       ]
     },
@@ -407,6 +452,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/dell-ai-applications",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/dell-ai-applications",
+          "publishedOn": "2025-05-23T00:00:00.000Z",
+          "wordCount": 1029,
+          "title": "Dell Enterprise Hub is all you need to build AI on premises",
+          "imageUrl": "https://huggingface.co/blog/assets/dell-ai-applications/dell-post-thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/python-tiny-agents",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/python-tiny-agents",
+          "publishedOn": "2025-05-23T00:00:00.000Z",
+          "wordCount": 2340,
+          "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+          "imageUrl": "https://huggingface.co/blog/assets/python-tiny-agents/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/diffusers-quantization",
           "author": null,
@@ -680,16 +745,6 @@
           "wordCount": 16076,
           "title": "Laws, norms, and ethics for AI in health",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/04/Episode4-Peter-Laura-Roxana-Vardit-Peter-Christina-Dave-AIRevolution_TW_LI_FB_1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1136909",
-          "author": "Emre Kiciman, Robert Osazuwa Ness, Amit Sharma, Sean Rintel, Leon Reicherts, Lev Tankelevitch, Advait Sarkar, Pratik Ghosh, Richard Banks, Xiaodong Liu, Weiwei Yang, Hao Cheng, Michel Galley, Jianfeng Gao, Serina Chang, Jake Hofman, Hannes Gamper",
-          "description": "In this issue: our CHI 2025 & ICLR 2025 contributions, plus research on causal reasoning & LLMs; countering LLM jailbreak attacks; and how people use AI vs. AI-alone. Also, SVP of Microsoft Health Jim Weinstein talks rural healthcare innovation.\nThe post Research Focus: Week of April 21, 2025 appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/research-focus-week-of-april-21-2025/",
-          "publishedOn": "2025-04-23T16:00:00.000Z",
-          "wordCount": 3687,
-          "title": "Research Focus: Week of April 21, 2025",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/04/RF60-FB-TWITTER-LI-1200x627-1.jpg"
         }
       ]
     },
@@ -747,6 +802,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68308ee8ccde6bc325c82393",
+          "author": "Tiago Capelo Monteiro",
+          "description": "\"To understand is to perceive patterns.\" - Isaiah Berlin Math is not just numbers. It is the science of finding complex patterns that shape our world. This means that to truly understand it, we need to see beyond numbers, formulas, and theorems and ...",
+          "link": "https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/",
+          "publishedOn": "2025-05-23T15:06:16.000Z",
+          "wordCount": 3671,
+          "title": "The Architecture of Mathematics – And How Developers Can Use it in Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748012748947/1df613bf-93e7-4f03-b0f0-47ff49f38504.png"
+        },
+        {
           "id": "681a35d4d5da806f5e9467b1",
           "author": "Chaitanya Rahalkar",
           "description": "The landscape of Artificial Intelligence is rapidly evolving, and one of the most exciting trends is the ability to run powerful Large Language Models (LLMs) directly on your local machine. This shift away from reliance on cloud-based APIs offers sig...",
@@ -755,16 +820,6 @@
           "wordCount": 5425,
           "title": "How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746545253944/58b04b54-e443-4804-bedd-3290bfda5bb7.png"
-        },
-        {
-          "id": "6807be591920ce8f50e00175",
-          "author": "Beau Carnes",
-          "description": "Understanding artificial intelligence (AI) and machine learning (ML) is becoming essential for software developers. But to truly grasp how these technologies work, it’s important to understand the core concepts and terminology that form their foundat...",
-          "link": "https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/",
-          "publishedOn": "2025-04-22T16:05:45.000Z",
-          "wordCount": 1332,
-          "title": "Essential Machine Learning Concepts Animated",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745337916808/108914f8-f399-4359-9bb5-75e9fee9c0aa.png"
         }
       ]
     },
@@ -785,6 +840,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "c5744144-37da-11f0-8830-77cd94d793dd",
+          "author": null,
+          "description": "Two NASA experts discuss an experiment that will further our understanding of flame behavior on the lunar surface to keep astronauts safe. HWHAP 386.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/moon-material-flammability/",
+          "publishedOn": "2025-05-23T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Moon Material Flammability",
+          "itunes": {
+            "duration": "2777"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8078583742.mp3?updated=1748008226",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "e4ffdfca-3251-11f0-83af-3b2282d579f6",
           "author": null,
@@ -1067,26 +1140,6 @@
           "wordCount": 6176,
           "title": "Batch Normalization and Dropout: A Combined Regularization Approach",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/04/Batch-Normalization-and-Dropout-as-Regularizers.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=71046",
-          "author": "Bhomik Sharma",
-          "description": "The field of computer vision is fueled by the remarkable progress in self-supervised learning. At the forefront of this revolution is DINOv2, a cutting-edge self-supervised vision transformer developed by Meta AI. This comprehensive blog post delves deep into the intricacies of DINOv2 , exploring its architecture, training methodology, advancements over its predecessor DINO, and its […]\nDINOv2 by Meta: A Self-Supervised foundational vision model first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/dinov2-self-supervised-vision-transformer/",
-          "publishedOn": "2025-04-24T13:00:00.000Z",
-          "wordCount": 6874,
-          "title": "DINOv2 by Meta: A Self-Supervised foundational vision model",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/05/Dinov2-Self-Supervised-Foundational-Vision-Model-Meta.gif"
-        },
-        {
-          "id": "https://learnopencv.com/?p=70158",
-          "author": "Shubham",
-          "description": "As artificial intelligence continues to advance, Embedding Models have become fundamental to how machines interpret and interact with unstructured data. By translating inputs like text, images, audio, and video into compact numerical vectors, these models enable efficient processing, semantic understanding, and meaningful comparisons across diverse data types. This blog post comprehensively introduces embedding models, diving […]\nBeginner’s Guide to Embedding Models first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/embedding-models-explained/",
-          "publishedOn": "2025-04-23T13:00:00.000Z",
-          "wordCount": 5713,
-          "title": "Beginner’s Guide to Embedding Models",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/04/Beginners-guide-to-Embedding-Models.gif"
         }
       ]
     },
@@ -1095,6 +1148,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=25876",
+          "author": "Inkline Admin",
+          "description": "In robotics, learning is an ongoing process. Unlike traditional machine learning models that train once and deploy, robots operate in\nThe post Continual Learning in Robotics: The Role of Feedback Data Loops appeared first on iMerit.",
+          "link": "https://imerit.net/blog/continual-learning-in-robotics-the-role-of-feedback-data-loops/",
+          "publishedOn": "2025-05-23T20:04:14.000Z",
+          "wordCount": 3005,
+          "title": "Continual Learning in Robotics: The Role of Feedback Data Loops",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/05/Featured-IMG-Continual-Learning-in-Robotics-The-Role-of-Feedback-Data-Loops.png"
+        },
         {
           "id": "https://imerit.net/?p=25849",
           "author": "Cadence SEO",
@@ -1192,6 +1255,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=235762",
+          "author": "Swati Sharma",
+          "description": "There is hardly a day that goes by without some new development in AI. With all that’s going around AI and the news surrounding it, it can feel overwhelming to catch up to it and keep tabs on it. Even if you manage to do so, what you do next with it , is what […]\nThe post DataHack Summit 2025: The Ultimate GenAI Event of the Year appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/05/datahack-summit-2025/",
+          "publishedOn": "2025-05-24T06:57:23.000Z",
+          "wordCount": null,
+          "title": "DataHack Summit 2025: The Ultimate GenAI Event of the Year",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=234685",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Since the introduction of Generative AI as a domain, it would be hard to come by an industry that hasn’t been affected by it. But instead of being at loggerheads with it, it has received widespread adoption. Generative AI has been incorporated into the day-to-day workflows of most domains, and this alarming presence has made […]\nThe post 7 Things to know before getting into Gen AI appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/05/getting-into-gen-ai/",
+          "publishedOn": "2025-05-24T06:25:16.000Z",
+          "wordCount": null,
+          "title": "7 Things to know before getting into Gen AI",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=235647",
+          "author": "Soumil Jain",
+          "description": "Cleaning data used to be a time-consuming and repetitive process, which took up much of the data scientist’s time. But now with AI, the data cleaning process has become quicker, wiser, and more efficient. AI models such as ChatGPT, Claude, Gemini, etc, can be used to automate anything from correcting format issues to handling missing […]\nThe post How to Clean Data Using AI appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/05/ai-for-data-cleaning/",
+          "publishedOn": "2025-05-24T05:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Clean Data Using AI",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=235626",
+          "author": "Anu Madan",
+          "description": "Google search has been an anchor for web searches across the world. Processing around 14 billion searches per day and around 2 trillion searches annually. Let’s put that into perspective: 14 billion searches in a day is more than double the heartbeats of the entire human race per second! Google search is the pulse of […]\nThe post Google Search’s Two New AI Features: AI Overview and AI Mode appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/05/ai-overview/",
+          "publishedOn": "2025-05-23T11:15:02.000Z",
+          "wordCount": null,
+          "title": "Google Search’s Two New AI Features: AI Overview and AI Mode",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=235651",
           "author": "Harsh Mishra",
@@ -1456,6 +1563,26 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3",
+          "author": null,
+          "description": "We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.",
+          "link": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3",
+          "publishedOn": "2025-05-23T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/openai-deutschland",
+          "author": null,
+          "description": "OpenAI announces the opening of its first office in Germany, based in Munich.",
+          "link": "https://openai.com/index/openai-deutschland",
+          "publishedOn": "2025-05-22T23:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI Deutschland",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/coderabbit",
           "author": null,
           "description": "CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI.",
@@ -1673,26 +1800,6 @@
           "publishedOn": "2025-04-29T18:00:00.000Z",
           "wordCount": null,
           "title": "Sycophancy in GPT-4o: what happened and what we’re doing about it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025",
-          "author": null,
-          "description": "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.",
-          "link": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025",
-          "publishedOn": "2025-04-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "New in ChatGPT for Business: April 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/image-generation-api",
-          "author": null,
-          "description": "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.",
-          "link": "https://openai.com/index/image-generation-api",
-          "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing our latest image generation model in the API",
           "imageUrl": null
         }
       ]
