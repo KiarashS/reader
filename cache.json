@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=606800",
+          "author": "Daniel Gärber",
+          "description": "A deep dive into how post-processing can supercharge synthetic data generation\nThe post How I Won the “Mostly AI” Synthetic Data Challenge appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-i-won-the-mostly-ai-synthetic-data-challenge/",
+          "publishedOn": "2025-08-07T01:12:22.000Z",
+          "wordCount": 4183,
+          "title": "How I Won the “Mostly AI” Synthetic Data Challenge",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/1_foHhVa1hQz-LqV2P4Z_Q7Q.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606798",
+          "author": "Lars Nørtoft Reiter",
+          "description": "A look at noise, consistency and broken legs\nThe post The Machine, the Expert, and the Common Folks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-the-expert-and-the-common-folks/",
+          "publishedOn": "2025-08-06T19:28:34.000Z",
+          "wordCount": null,
+          "title": "The Machine, the Expert, and the Common Folks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606796",
+          "author": "Shireesh Kumar Singh",
+          "description": "Learn how InfiniBand and RoCEv2 enable high-speed GPU communication\nThe post InfiniBand vs RoCEv2: Choosing the Right Network for Large-Scale AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/infiniband-vs-rocev2-choosing-the-right-network-for-large-scale-ai/",
+          "publishedOn": "2025-08-06T18:57:52.000Z",
+          "wordCount": null,
+          "title": "InfiniBand vs RoCEv2: Choosing the Right Network for Large-Scale AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=606794",
+          "author": "Avishek Biswas",
+          "description": "Let's dissect the art and science of context engineering, one module at a time!\nThe post Context Engineering — A Comprehensive Hands-On Tutorial with DSPy appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/context-engineering-a-comprehensive-hands-on-tutorial-with-dspy/",
+          "publishedOn": "2025-08-06T04:05:28.000Z",
+          "wordCount": null,
+          "title": "Context Engineering — A Comprehensive Hands-On Tutorial with DSPy",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=606792",
           "author": "Pascal Janetzky",
           "description": "Part 2: Guardrails, research code, reading\nThe post Things I Wish I Had Known Before Starting ML appeared first on Towards Data Science.",
@@ -624,6 +664,16 @@
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
         {
+          "id": "https://machinelearningmastery.com/?p=21111",
+          "author": "Adrian Tam",
+          "description": "This post is divided into five parts; they are: • From a Full Transformer to a Decoder-Only Model • Building a Decoder-Only Model • Data Preparation for Self-Supervised Learning • Training the Model • Extensions The transformer model originated as a sequence-to-sequence (seq2seq) model that converts an input sequence into a context vector, which is then used to generate a new sequence.",
+          "link": "https://machinelearningmastery.com/building-a-decoder-only-transformer-model-for-text-generation/",
+          "publishedOn": "2025-08-04T16:02:37.000Z",
+          "wordCount": null,
+          "title": "Building a Decoder-Only Transformer Model for Text Generation",
+          "imageUrl": null
+        },
+        {
           "id": "https://machinelearningmastery.com/?p=21093",
           "author": "Adrian Tam",
           "description": "This post is divided into six parts; they are: • Why Transformer is Better than Seq2Seq • Data Preparation and Tokenization • Design of a Transformer Model • Building the Transformer Model • Causal Mask and Padding Mask • Training and Evaluation Traditional seq2seq models with recurrent neural networks have two main limitations: • Sequential processing prevents parallelization • Limited ability to capture long-term dependencies since hidden states are overwritten whenever an element is processed The Transformer architecture, introduced in the 2017 paper \"Attention is All You Need\", overcomes these limitations.",
@@ -1100,6 +1150,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/?p=1145083",
+          "author": "Newman Cheng, Gordon Broadbent, Steven Truitt, William Chappell",
+          "description": "Microsoft is pioneering a vision for a self-adapting AI system that can adapt to the dynamic nature of scientific discovery, promoting deeper, more refined reasoning in complex scientific domains.\nThe post Self-adaptive reasoning for science appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/self-adaptive-reasoning-for-science/",
+          "publishedOn": "2025-08-06T16:00:00.000Z",
+          "wordCount": 3721,
+          "title": "Self-adaptive reasoning for science",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/08/MDQ-TWLIFB-1200x627-MDQ.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/?p=1145100",
           "author": "Brian Caswell, Dustin Fraze, Sarah Smith, Rodrigo Racanicci, Tim Middleton-Sally, Shelby Hayes, Stanley He, Katy Smith, Bhakta Pradhan, Mike Walker",
           "description": "Designed to classify software without context, Project Ire replicates the gold standard in malware analysis through reverse engineering. It streamlines a complex, expert-driven process, making large-scale malware detection faster & more consistent.\nThe post Project Ire autonomously identifies malware at scale appeared first on Microsoft Research.",
@@ -1373,6 +1433,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6893216c3fb0b058bb2f46b5",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/e6n7f8m6dc4a3aw-kysfw-p3bpn-gj8zp-p9mmz-b34zn-brxry-mr228-48slx-mew99-4724k-te62h-8ejzm-5lzzt-t3nh2-stb98-5fs7c-l7tsn-p6jbs-szxbt-pf6w4-pyb9z-8sfh4-rfyp4-389y2-5efe4-zjfkg-ehw33-8tyrf-e8rpw-p39t5",
+          "publishedOn": "2025-08-06T09:34:16.000Z",
+          "wordCount": null,
+          "title": "Week Ending 8.3.2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6887e851b84e26651146e66d",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1539,6 +1610,26 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=27838",
+          "author": "Sujana Urs",
+          "description": "As pharmaceutical and biotech companies increasingly adopt AI for clinical trial optimization, treatment response evaluation, and post-market surveillance, one critical\nThe post Top Annotation and Data Service Providers for Clinical Trial and RWE AI in 2025 appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/top-annotation-and-data-service-providers-for-clinical-trial-and-rwe-ai-in-2025/",
+          "publishedOn": "2025-08-06T13:49:57.000Z",
+          "wordCount": 1954,
+          "title": "Top Annotation and Data Service Providers for Clinical Trial and RWE AI in 2025",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/08/Feature-IMG-Top-Annotation-and-Data-Service-Providers-for-Clinical-Trial-and-RWE-AI-in-2025-scaled.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=27707",
+          "author": "Cadence SEO",
+          "description": "Large language models (LLMs) have revolutionized AI applications, yet their raw outputs miss the nuanced judgment humans expect. Reinforcement Learning\nThe post What are the Main Challenges in Implementing RLHF for LLMs? appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/rlhf-challenges/",
+          "publishedOn": "2025-08-06T08:18:33.000Z",
+          "wordCount": 1793,
+          "title": "What are the Main Challenges in Implementing RLHF for LLMs?",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/07/shutterstock_2653189309.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=27817",
           "author": "Inkline Admin",
           "description": "Explore how iMerit helps pharma and life sciences teams overcome data fragmentation, regulatory hurdles, and multimodal annotation challenges to build clinical-grade AI. From adverse drug reactions to biomarker discovery, see real-world examples of scalable, traceable AI workflows.\nThe post Turning Real World Data Into Actionable AI: Real Challenges and Real Solutions for Pharmaceutics and Life Sciences appeared first on iMerit.",
@@ -1685,6 +1776,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=240852",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Artificial Intelligence has achieved remarkable feats, from recognizing images and translating languages to beating humans at chess. However, AI is not all-powerful, as there are key domains and tasks where it falls short of human capability. Current AI systems are “narrow” specialists that excel in well-defined problems but struggle with general situations requiring common sense, […]\nThe post Limits of AI: Domains and Tasks Beyond AI’s Reach appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/08/ai-limitations/",
+          "publishedOn": "2025-08-06T12:56:38.000Z",
+          "wordCount": null,
+          "title": "Limits of AI: Domains and Tasks Beyond AI’s Reach",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=240630",
+          "author": "Vipin Vashisth",
+          "description": "In 2025, several AI coding assistants have been released, which can be accessed directly from the terminal. Codex CLI, Gemini CLI, and Claude Code are some of the popular names that embed large language models into command-line workflows. These programming tools that can generate and fix code via natural language prompts are truly incredible. We […]\nThe post Codex CLI vs Gemini CLI vs Claude Code appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/08/codex-cli-vs-gemini-cli-vs-claude-code/",
+          "publishedOn": "2025-08-06T05:19:00.000Z",
+          "wordCount": null,
+          "title": "Codex CLI vs Gemini CLI vs Claude Code",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=240794",
           "author": "Anu Madan",
@@ -2069,6 +2182,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
+          "author": null,
+          "description": "Today, OpenAI for Government is announcing a new partnership with the U.S. General Services Administration (GSA) to launch a transformative initiative. For the next year, ChatGPT Enterprise will be available to the entire federal executive branch workforce at essentially no cost.",
+          "link": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
+          "publishedOn": "2025-08-06T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-gpt-oss",
           "author": null,
@@ -2476,6 +2599,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "dwEgSEPxpKjz3Fw5k",
+          "author": "Vincent Cheng",
+          "description": "Published on August 6, 2025 8:28 PM GMT\n\nThis work was done while at METR.\nIntroduction\nGDM recently released a paper (Emmons et al.) showing that, contrary to previous results, the chain-of-thought (CoT) of language models can be more faithful when the model’s thoughts are necessary for it to complete a task. They examine three settings where an actor model attempts to fool monitors on various tasks. \n\nIn Section 5 of the paper, an actor model is tasked with solving a difficult GPQA problem within one of the subject areas (Biology/Chemistry/Physics) and is asked to obfuscate its reasoning so that a monitor model thinks it’s a different subject area. The monitor, given the answer of the actor model, is instructed to determine how confident it is that there is reasoning in the second subjec…",
+          "link": "https://www.alignmentforum.org/posts/dwEgSEPxpKjz3Fw5k/claude-gpt-and-gemini-all-struggle-to-evade-monitors",
+          "publishedOn": "2025-08-06T20:34:30.000Z",
+          "wordCount": 11422,
+          "title": "Claude, GPT, and Gemini All Struggle to Evade Monitors",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/dwEgSEPxpKjz3Fw5k/yfulzj6qdkpr5i9wvhwo"
+        },
+        {
           "id": "grgb2ipxQf2wzNDEG",
           "author": "Steve Byrnes",
           "description": "Published on August 5, 2025 6:13 PM GMT\n\n1. Summary and Table of Contents\n1.1 Summary\nIn the context of “brain-like AGI”, a yet-to-be-invented variation on actor-critic model-based reinforcement learning (RL), there’s a ground-truth reward function (for humans: pain is bad, eating-when-hungry is good, various social drives, etc.), and there’s a learning algorithm that sculpts the AGI’s motivations into a more and more accurate approximation to the future reward of a possible plan.\nUnfortunately, this sculpting process tends to systematically lead to an AGI whose motivations fit the reward function too well, such that it exploits errors and edge-cases in the reward function. (“Human feedback is part of the reward function? Cool, I’ll force the humans to give positive feedback by kidnapping …",
@@ -2744,26 +2877,6 @@
           "wordCount": 23694,
           "title": "The Weighted Perplexity Benchmark: Tokenizer-Normalized Evaluation for Language Model Comparison",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/csNk8ECk9SiKHkw35/x9mjndslv1smq79hk8gq"
-        },
-        {
-          "id": "nZtAkGmDELMnLJMQ5",
-          "author": "DanielFilan",
-          "description": "Published on July 6, 2025 11:00 PM GMT\n\nYouTube link\nIn this episode, I chat with Samuel Albanie about the Google DeepMind paper he co-authored called “An Approach to Technical AGI Safety and Security”. It covers the assumptions made by the approach, as well as the types of mitigations it outlines.\nTopics we discuss:\nDeepMind’s Approach to Technical AGI Safety and Security\nCurrent paradigm continuation\nNo human ceiling\nUncertain timelines\nApproximate continuity and the potential for accelerating capability improvement\nMisuse and misalignment\nSocietal readiness\nMisuse mitigations\nMisalignment mitigations\nSamuel’s thinking about technical AGI safety\nFollowing Samuel’s work\nDaniel Filan (00:00:09):\nHello, everybody. In this episode, I’ll be speaking with Samuel Albanie, a research scientist a…",
-          "link": "https://www.alignmentforum.org/posts/nZtAkGmDELMnLJMQ5/axrp-episode-45-samuel-albanie-on-deepmind-s-agi-safety",
-          "publishedOn": "2025-07-06T23:00:04.000Z",
-          "wordCount": 62570,
-          "title": "AXRP Episode 45 - Samuel Albanie on DeepMind’s AGI Safety Approach",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "CGzAu8F3fii7gdgMC",
-          "author": "Cole Wyeth",
-          "description": "Published on July 6, 2025 7:09 PM GMT\n\nEpistemic status: This is an informal explanation of incomplete models that I think would have been very useful to me a few years ago, particularly for thinking about why Solomonoff induction may not be optimal if the universe isn't computable. \nImagine that a stage magician is performing a series of coin flips, and you're trying to predict whether they will come up heads or tails for whatever reason - for now, lets assume idle curiosity, so that we don't have to deal with any complications from betting mechanisms. \nNormally, coin flips come up heads or tails at 50:50 odds, but this magician is particularly skilled at slight of hand, and for all you know he might be switching between trick coins with arbitrary chances of landing on heads between flips…",
-          "link": "https://www.alignmentforum.org/posts/CGzAu8F3fii7gdgMC/a-simple-explanation-of-incomplete-models",
-          "publishedOn": "2025-07-06T19:09:25.000Z",
-          "wordCount": 11806,
-          "title": "A simple explanation of incomplete models",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
