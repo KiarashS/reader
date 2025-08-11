@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-08-10T01:40:56.632Z</updated>
+    <updated>2025-08-11T01:29:20.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLMs for Agentic AI: Why Small Language Models Outperform LLMs?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=241137</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/08/slms-for-agentic-ai/"/>
+        <updated>2025-08-10T17:38:57.000Z</updated>
+        <summary type="html"><![CDATA[The agentic AI sector is booming, valued at over $5.2 billion and projected to reach $200 billion by 2034. We’re entering an era where AI will be as commonplace as the internet, but there’s a critical flaw in its foundation. Today’s AI revolution relies on massive, power-hungry LLMs – a problem that SLMs for Agentic AI are […]
+The post SLMs for Agentic AI: Why Small Language Models Outperform LLMs? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Anu Madan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I've been reading (#2): More on Kimi K2, how to build a bad research center, Pretraining with RL, and sporks of AGI]]></title>
+        <id>https://www.interconnects.ai/p/what-im-reading-2-more-on-kimi-k2</id>
+        <link href="https://www.interconnects.ai/p/what-im-reading-2-more-on-kimi-k2"/>
+        <updated>2025-08-10T13:19:48.000Z</updated>
+        <summary type="html"><![CDATA[A quiet summer is all you need.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can AI Save Indian Farmers?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=240835</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/08/can-ai-save-indian-farmers/"/>
+        <updated>2025-08-10T07:48:10.000Z</updated>
+        <summary type="html"><![CDATA[The use of AI is transforming age-old agricultural practices followed by Indian farmers. Here is how.
+The post Can AI Save Indian Farmers? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Four places where you can put LLM monitoring]]></title>
         <id>AmcEyFErJc9TQ5ySF</id>
@@ -2658,84 +2690,6 @@ The post How AI-Powered Ambient Digital Scribes Are Transforming Healthcare appe
         <summary type="html"><![CDATA[Houston We Have a Podcast celebrates eight years! Three astronauts from the agency’s most recent class discuss their first year of training and answer questions from our listeners. HWHAP 392.]]></summary>
         <author>
             <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmolLM3 Blueprint: SOTA 3B-Parameter LLM]]></title>
-        <id>https://learnopencv.com/?p=74269</id>
-        <link href="https://learnopencv.com/smollm3-explained/"/>
-        <updated>2025-07-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the evolving landscape of open-source language models, SmolLM3 emerges as a breakthrough: a 3 billion-parameter, decoder-only transformer that rivals larger 4 billion-parameter peers on many benchmarks, while natively supporting six European languages and handling documents up to 128 K tokens. In this comprehensive blog post, we’ll unpack every aspect of SmolLM3, from its core […]
-SmolLM3 Blueprint: SOTA 3B-Parameter LLM first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Shubham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Embeddings for Tabular Data Feature Engineering]]></title>
-        <id>https://machinelearningmastery.com/?p=20814</id>
-        <link href="https://machinelearningmastery.com/word-embeddings-for-tabular-data-feature-engineering/"/>
-        <updated>2025-07-11T12:00:16.000Z</updated>
-        <summary type="html"><![CDATA[It would be difficult to argue that word embeddings — dense vector representations of words — have not dramatically revolutionized the field of natural language processing (NLP) by quantitatively capturing semantic relationships between words.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EU Code of Practice and future of AI in Europe]]></title>
-        <id>https://openai.com/global-affairs/eu-code-of-practice</id>
-        <link href="https://openai.com/global-affairs/eu-code-of-practice"/>
-        <updated>2025-07-11T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linkpost: Redwood Research reading list]]></title>
-        <id>aYNYmaKFXT6wHNzoz</id>
-        <link href="https://www.alignmentforum.org/posts/aYNYmaKFXT6wHNzoz/linkpost-redwood-research-reading-list"/>
-        <updated>2025-07-10T18:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Published on July 10, 2025 6:39 PM GMT
-
-I wrote a reading list for people to get up to speed on Redwood’s research:
-
-Section 1 is a quick guide to the key ideas in AI control, aimed at someone who wants to get up to speed as quickly as possible.
-
-Section 2 is an extensive guide to almost all of our writing related to AI control, aimed at someone who wants to gain a deep understanding of Redwood’s thinking about AI risk.
-
-Reading Redwood’s blog posts has been formative in my own development as an AI safety researcher, but faced with (currently) over 70 posts and papers, it’s hard to know where to start. I hope that this guide can be helpful to researchers and practitioners who are interested in understanding Redwood’s perspectives on AI safety. 
-You can find the reading list on Redwood’s substack; It’s now one of the tabs next to Home, Archive and About. We intend to keep it up-to-date.
-
-Discuss]]></summary>
-        <author>
-            <name>Julian Stastny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI will accelerate biomedical research and discovery]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1144029</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/how-ai-will-accelerate-biomedical-research-and-discovery/"/>
-        <updated>2025-07-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Daphne Koller, Noubar Afeyan, and Dr. Eric Topol, leaders in AI-driven medicine, discuss how AI is changing biomedical research and discovery, from accelerating drug target identification and biotech R&D to helping pursue the “holy grail” of a virtual cell.
-The post How AI will accelerate biomedical research and discovery appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Peter Lee, Daphne Koller, Noubar Afeyan, Dr. Eric Topol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The bitter lesson of misuse detection]]></title>
-        <id>RvDkMho6quHcRiTva</id>
-        <link href="https://www.alignmentforum.org/posts/RvDkMho6quHcRiTva/the-bitter-lesson-of-misuse-detection-1"/>
-        <updated>2025-07-10T14:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Published on July 10, 2025 2:50 PM GMT
-
-TL;DR: We wanted to benchmark supervision systems available on the market—they performed poorly. Out of curiosity, we naively asked a frontier LLM to monitor the inputs; this approach performed significantly better. However, beware: even when an LLM flags a question as harmful, it will often still answer it.
-Full paper is available here.
-Abstract
-Prior work on jailbreak detection has established the importance of adversarial robustness for LLMs but has largely focused on the model ability to resist adversarial inputs and to output safe content, rather than the effectiveness of external supervision systems[1]. The only public and independent benchmark of these guardrails to date evaluates a narrow set of supervisors on limited scenarios. Consequently,…]]></summary>
-        <author>
-            <name>Hadrien Mariaccia</name>
         </author>
     </entry>
 </feed>
