@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-08-24T01:25:03.779Z</updated>
+    <updated>2025-08-25T01:20:36.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DataHack Summit 2025 Day 3 Wrap-Up: DHS 2025 Concludes with a Bold AI Vision]]></title>
+        <id>https://www.analyticsvidhya.com/?p=241723</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/08/dhs-day-3/"/>
+        <updated>2025-08-24T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Visitors were awestruck, speakers were exhilarated, and the AI community was brought together like never before, as India’s most futuristic event concluded on Friday, August 22, 2025. Day 3 of DataHack Summit 2025, popularly known as DHS 2025, proved once and for all that the one-of-a-kind event by AnalyticsVidhya wasn’t just about talks and demos; […]
+The post DataHack Summit 2025 Day 3 Wrap-Up: DHS 2025 Concludes with a Bold AI Vision appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on cooperating with unaligned AIs]]></title>
+        <id>oLzoHA9ZtF2ygYgx4</id>
+        <link href="https://www.alignmentforum.org/posts/oLzoHA9ZtF2ygYgx4/notes-on-cooperating-with-unaligned-ais"/>
+        <updated>2025-08-24T04:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Published on August 24, 2025 4:19 AM GMT
+
+These are some research notes on whether we could reduce AI takeover risk by cooperating with unaligned AIs. I think the best and most readable public writing on this topic is “Making deals with early schemers”, so if you haven't read that post, I recommend starting there.
+These notes were drafted before that post existed, and the content is significantly overlapping. Nevertheless, these notes do contain several points that aren’t in that post, and I think it could be helpful for people who are (thinking about) working in this area.
+Most of the novel content can be found in the sections on What do AIs want?, Payment structure, What I think should eventually happen, and the appendix BOTEC. (While the sections on “AI could do a lot to help us” and “M…]]></summary>
+        <author>
+            <name>Lukas Finnveden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Your Image Search Engine with BLIP and CLIP: Step-by-Step Guide]]></title>
         <id>https://www.analyticsvidhya.com/?p=241612</id>
@@ -361,6 +386,20 @@ The post DeepSeek V3.1: Quiet Release, Big Statement appeared first on Analytics
 The post Using SQL PIVOT Operator to Handle Large Data Easily appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being honest with AIs]]></title>
+        <id>uuikfACQBm4KJZp4w</id>
+        <link href="https://www.alignmentforum.org/posts/uuikfACQBm4KJZp4w/being-honest-with-ais"/>
+        <updated>2025-08-21T03:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Published on August 21, 2025 3:57 AM GMT
+
+In the future, we might accidentally create AIs with ambitious goals that are misaligned with ours. But just because we don’t have the same goals doesn’t mean we need to be in conflict. We could also cooperate with each other and pursue mutually beneficial deals.
+For previous discussion of this, you can read Making deals with early schemers. I recommend starting there before you read this post.
+To facilitate this kind of cooperation, I would like us to be able to credibly negotiate with AIs, and credibly make promises about how we will help them if they help us. But it may be difficult to achieve high credibility in negotiations with AIs. AIs are in a very vulnerable epistemic position, because humans have a lot of control over AI memories and sens…]]></summary>
+        <author>
+            <name>Lukas Finnveden</name>
         </author>
     </entry>
     <entry>
@@ -3255,59 +3294,6 @@ The post Top Medical Translation & Transcription Data Providers in 2025 appeared
         <summary type="html"><![CDATA[NASA’s Artemis II Flight Director Jeff Radigan shares what it takes to lead the first human mission of the Artemis program around the Moon. HWHAP 394.]]></summary>
         <author>
             <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning Pre-trained 3D Models for Domain-Specific LiDAR Datasets: Strategies and Best Practices]]></title>
-        <id>https://imerit.net/?p=27682</id>
-        <link href="https://imerit.net/resources/blog/fine-tuning-pre-trained-3d-models-for-domain-specific-lidar-datasets-strategies-and-best-practices/"/>
-        <updated>2025-07-25T13:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to fine-tune pre-trained 3D models for domain-specific LiDAR datasets. Learn strategies, tools, and workflows that improve perception in real-world environments like agriculture, mining, and robotics.
-The post Fine-Tuning Pre-trained 3D Models for Domain-Specific LiDAR Datasets: Strategies and Best Practices appeared first on iMerit.]]></summary>
-        <author>
-            <name>Inkline Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Sinusoidal Position Embeddings: A Sense of Order]]></title>
-        <id>https://learnopencv.com/?p=74536</id>
-        <link href="https://learnopencv.com/sinusoidal-position-embeddings/"/>
-        <updated>2025-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the groundbreaking 2017 paper “Attention Is All You Need”, Vaswani et al. introduced Sinusoidal Position Embeddings to help Transformers encode positional information, without recurrence or convolution. This elegant, non-learned mechanism uses sine and cosine functions to encode token positions in a way that generalizes beyond fixed sequence lengths. The blog post provides a comprehensive examination […]
-Inside Sinusoidal Position Embeddings: A Sense of Order first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Shubham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨]]></title>
-        <id>https://huggingface.co/blog/hf-cli</id>
-        <link href="https://huggingface.co/blog/hf-cli"/>
-        <updated>2025-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parquet Content-Defined Chunking]]></title>
-        <id>https://huggingface.co/blog/parquet-cdc</id>
-        <link href="https://huggingface.co/blog/parquet-cdc"/>
-        <updated>2025-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating medical education in the era of generative AI]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1145558</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/navigating-medical-education-in-the-era-of-generative-ai/"/>
-        <updated>2025-07-24T20:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Next-generation physicians Morgan Cheatham and Daniel Chen discuss how generative AI is transforming medical education, exploring how students and attending physicians integrate new tools while navigating questions on trust, training, and responsibility.
-The post Navigating medical education in the era of generative AI appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Peter Lee, Dr. Morgan Cheatham, Daniel Chen</name>
         </author>
     </entry>
 </feed>
