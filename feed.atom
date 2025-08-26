@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-08-25T01:20:36.896Z</updated>
+    <updated>2025-08-26T01:16:01.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Paper on Reflective Oracles & Grain of Truth Problem]]></title>
+        <id>PuGxDb27xhRPBPbiv</id>
+        <link href="https://www.alignmentforum.org/posts/PuGxDb27xhRPBPbiv/new-paper-on-reflective-oracles-and-grain-of-truth-problem"/>
+        <updated>2025-08-26T00:18:35.000Z</updated>
+        <summary type="html"><![CDATA[Published on August 26, 2025 12:18 AM GMT
+
+This is a linkpost for https://www.arxiv.org/pdf/2508.16245
+With Marcus Hutter, Jan Leike (@janleike), and Jessica Taylor (@jessicata) , I have revisited Leike et al.'s paper "A Formal Solution to the Grain of Truth Problem" (AFSGOTP) which studies games between reflective AIXI agents and... further formalized it. 
+The result is "Limit-Computable Grains of Truth for Arbitrary Computable Extensive-Form (Un)Known Games" (LCGOTACEFUG) which perhaps could have been called "A Formal Formal Solution to the Grain of Truth Problem." Our new paper has some new results, including:
+
+ An application to Self-AIXI which suggests an embedded version of AIXI. Since we have had these results unpublished for awhile, I have been implicitly leaning on these ideas for e.g. coming up with AEDT w.r.t. rOSI.  
+Reflective oracles with non-binary alphabets and explicit types for symbols 
+
+...but mostly we just expand on various definitions and algorithms that were previously left implicit in AFSGOTP. Basically, our new paper LCGOTACEFUG  is a "journal version" of AFSGOTP. Except it is not published in a journal yet, because peer review is slow.
+Who should read this?
+
+Anyone interested in reflective oracles and particularly reflective AIXI, who has not yet read previous works such as AFSGOTP, should probably just read our paper LCGOTACEFUG. It is more complete and hopefully the most legible introduction to the topic.
+Anyone who is actively doing research on reflective versions of AIXI
+
+Discuss]]></summary>
+        <author>
+            <name>Cole Wyeth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Monitoring and Observability: Hands-on with Langfuse]]></title>
+        <id>https://towardsdatascience.com/?p=606944</id>
+        <link href="https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/"/>
+        <updated>2025-08-25T22:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Learn the fundamentals of LLM monitoring and observability, from tracing to evaluation and setting up a dashboard using Langfuse
+The post LLM Monitoring and Observability: Hands-on with Langfuse appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ahmad Talal Riaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Prompts Don’t Belong in Git]]></title>
+        <id>https://towardsdatascience.com/?p=606942</id>
+        <link href="https://towardsdatascience.com/why-your-prompts-dont-belong-in-git/"/>
+        <updated>2025-08-25T21:16:56.000Z</updated>
+        <summary type="html"><![CDATA[The hidden cost of storing prompts in your source code
+The post Why Your Prompts Don’t Belong in Git appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Giorgos Myrianthous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Benchmark Classical Machine Learning Workloads on Google Cloud]]></title>
+        <id>https://towardsdatascience.com/?p=606929</id>
+        <link href="https://towardsdatascience.com/benchmarking-classical-machine-learning-workloads-on-google-cloud/"/>
+        <updated>2025-08-25T20:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Harnessing CPUs for Practical, Cost-Effective Machine Learning
+The post How to Benchmark Classical Machine Learning Workloads on Google Cloud appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ehssan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Science Must Embrace Co-Creation with Generative AI to Break Current Research Barriers]]></title>
+        <id>https://towardsdatascience.com/?p=606940</id>
+        <link href="https://towardsdatascience.com/why-science-must-embrace-co-creation-with-generative-ai-to-break-current-research-barriers/"/>
+        <updated>2025-08-25T18:06:36.000Z</updated>
+        <summary type="html"><![CDATA[An Open Letter to the Scientific Community
+The post Why Science Must Embrace Co-Creation with Generative AI to Break Current Research Barriers appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ugo Pradère</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI Systems: Why Static Workflows Are Becoming Obsolete?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=241520</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/08/agentic-ai-systems/"/>
+        <updated>2025-08-25T17:42:16.000Z</updated>
+        <summary type="html"><![CDATA[In a world shaped by rapidly growing technology, businesses and developers are continually seeking smarter solutions that enhance productivity, personalization, and frictionless experiences. The influx of new agentic AI systems is reshaping how work is done and how tasks are organized and completed. Static workflows, formerly the heart of automation, are being replaced by agentic […]
+The post Agentic AI Systems: Why Static Workflows Are Becoming Obsolete? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crash Course to Crack Machine Learning Interview – Part 1: Bias vs Variance]]></title>
+        <id>https://www.analyticsvidhya.com/?p=241744</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/08/bias-variance-tradeoff/"/>
+        <updated>2025-08-25T17:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Preparing for machine learning interviews? One of the most fundamental concepts you’ll encounter is the bias-variance tradeoff. This isn’t just theoretical knowledge – it’s the cornerstone of understanding why models succeed or fail in real-world applications. Whether you’re interviewing at Google, Netflix, or a startup, mastering this concept will help you stand out from other […]
+The post Crash Course to Crack Machine Learning Interview – Part 1: Bias vs Variance appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Karun Thankachan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systematic LLM Prompt Engineering Using DSPy Optimization]]></title>
+        <id>https://towardsdatascience.com/?p=606936</id>
+        <link href="https://towardsdatascience.com/systematic-llm-prompt-engineering-using-dspy-optimization/"/>
+        <updated>2025-08-25T16:46:24.000Z</updated>
+        <summary type="html"><![CDATA[This article is a journey into the fascinating and rapidly evolving science of LLM prompt iteration, which is a fundamental part of Large Language Model Operations (LLMOPs). We’ll use the example of generating customer service responses with a real-world dataset to show how both generator and LLM-judge prompts can be developed in a systematic fashion […]
+The post Systematic LLM Prompt Engineering Using DSPy Optimization appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Robert Martin-Short</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bag of Words Works – The Foundation of Language Models]]></title>
+        <id>68ac62884c5ca5b261e8abc3</id>
+        <link href="https://www.freecodecamp.org/news/how-bag-of-words-works/"/>
+        <updated>2025-08-25T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 8.24.2025]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68ac4085d3e2ec167bdfe603</id>
+        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r"/>
+        <updated>2025-08-25T10:55:06.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the OpenAI Learning Accelerator]]></title>
+        <id>https://openai.com/global-affairs/learning-accelerator</id>
+        <link href="https://openai.com/global-affairs/learning-accelerator"/>
+        <updated>2025-08-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners nationwide through accelerated AI research, training, and deployment.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DataHack Summit 2025 Day 3 Wrap-Up: DHS 2025 Concludes with a Bold AI Vision]]></title>
         <id>https://www.analyticsvidhya.com/?p=241723</id>
@@ -3249,51 +3381,6 @@ The post End-to-End AWS RDS Setup with Bastion Host Using Terraform appeared fir
         <summary type="html"><![CDATA[If you've worked with data in Python, chances are you've used Pandas many times.]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higgs Audio V2 - Unified Audio Language Modeling at Scale]]></title>
-        <id>https://erogol.com/2025/07/26/higgs-audio-v2-unified-audio-language-modeling-at-scale</id>
-        <link href="https://erogol.com/2025/07/26/higgs-audio-v2-unified-audio-language-modeling-at-scale"/>
-        <updated>2025-07-25T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Speech synthesis has evolved rapidly, but most systems still struggle with natural expressiveness and multi-modal understanding. Higgs Audio V2 addresses these limitations through a unified architecture that treats audio as a language, enabling emergent capabilities like multi-speaker dialogues and prosody adaptation without explicit training.
-The Challenge
-Traditional text-to-speech systems pipeline acoustic modeling and vocoding separately. Neural approaches improved quality but remained constrained by fixed architectures and limited expressiveness. Recent large language models showed promise for audio generation, but faced two critical issues:
-Representation bottleneck - Existing audio tokenizers fail to capture both semantic content and acoustic nuance efficiently
-Architectural mismatc…]]></summary>
-        <author>
-            <name>Machine Learns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Medical Translation & Transcription Data Providers in 2025]]></title>
-        <id>https://imerit.net/?p=27720</id>
-        <link href="https://imerit.net/resources/blog/top-medical-translation-transcription-data-providers-in-2025/"/>
-        <updated>2025-07-25T15:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Discover the leading data service providers for medical transcription and translation in 2025. Compare capabilities across multilingual support, automation, compliance, and specialty annotation, featuring iMerit as a trusted partner for ambient scribe AI.
-The post Top Medical Translation & Transcription Data Providers in 2025 appeared first on iMerit.]]></summary>
-        <author>
-            <name>Inkline Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image Augmentation Techniques to Boost Your CV Model Performance]]></title>
-        <id>https://machinelearningmastery.com/?p=20938</id>
-        <link href="https://machinelearningmastery.com/image-augmentation-techniques-to-boost-your-cv-model-performance/"/>
-        <updated>2025-07-25T14:23:13.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn: • the purpose and benefits of image augmentation techniques in computer vision for improving model generalization and diversity.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artemis II: The Mission]]></title>
-        <id>603e62b0-6957-11f0-ac36-cb18639f6720</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-ii-the-mission/"/>
-        <updated>2025-07-25T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s Artemis II Flight Director Jeff Radigan shares what it takes to lead the first human mission of the Artemis program around the Moon. HWHAP 394.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
