@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-08-27T01:15:42.863Z</updated>
+    <updated>2025-08-28T01:15:25.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Get AI-Ready: How to Prepare for a World of Agentic AI as Tech Professionals]]></title>
+        <id>https://towardsdatascience.com/?p=606966</id>
+        <link href="https://towardsdatascience.com/getting-ai-ready-preparing-for-a-world-of-agentic-ai-as-tech-professionals/"/>
+        <updated>2025-08-27T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore how Agentic AI is reshaping the tech careers, from data to decision-making, and how professionals can prepare for the future of work
+The post Get AI-Ready: How to Prepare for a World of Agentic AI as Tech Professionals appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rashi Desai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything I Studied to Become a Machine Learning Engineer (No CS Background)]]></title>
+        <id>https://towardsdatascience.com/?p=606964</id>
+        <link href="https://towardsdatascience.com/everything-i-studied-to-become-a-machine-learning-engineer-no-cs-background/"/>
+        <updated>2025-08-27T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The books, courses, and resources I used in my journey.
+The post Everything I Studied to Become a Machine Learning Engineer (No CS Background) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attaching requirements to model releases has serious downsides (relative to a different deadline for these requirements)]]></title>
+        <id>Eh7WdKTrpLch5Kvkz</id>
+        <link href="https://www.alignmentforum.org/posts/Eh7WdKTrpLch5Kvkz/attaching-requirements-to-model-releases-has-serious"/>
+        <updated>2025-08-27T17:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Published on August 27, 2025 5:04 PM GMT
+
+Here's a relatively important question regarding transparency requirements for AI companies: At which points in time should AI companies be required to disclose information? (While I focus on transparency, this question is also applicable to other safety-relevant requirements, and is applicable to norms around voluntary actions rather than requirements.)
+A natural option would be to attach transparency requirements to the existing processes of pre-deployment testing and releasing a model card when a new model is released. As in, companies would be required to include the relevant information whenever they release a new model (likely in the model card). This is convenient because pre-deployment testing and model cards are already established norms i…]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series Forecasting Made Simple (Part 4.1): Understanding Stationarity in a Time Series]]></title>
+        <id>https://towardsdatascience.com/?p=606962</id>
+        <link href="https://towardsdatascience.com/time-series-forecasting-made-simple-part-4-1-understanding-stationarity-in-a-time-series/"/>
+        <updated>2025-08-27T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[An intuitive guide to stationarity in a time series
+The post Time Series Forecasting Made Simple (Part 4.1): Understanding Stationarity in a Time Series appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikhil Dasari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief History of GPT Through Papers]]></title>
+        <id>https://towardsdatascience.com/?p=606960</id>
+        <link href="https://towardsdatascience.com/a-brief-history-of-gpt-through-papers/"/>
+        <updated>2025-08-27T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Language models are becoming really good. But where did they come from?
+The post A Brief History of GPT Through Papers appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rohit Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI companies have started saying safeguards are load-bearing]]></title>
+        <id>Bz2gPtqRJJDWyKxnX</id>
+        <link href="https://www.alignmentforum.org/posts/Bz2gPtqRJJDWyKxnX/ai-companies-have-started-saying-safeguards-are-load-bearing"/>
+        <updated>2025-08-27T13:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Published on August 27, 2025 1:00 PM GMT
+
+There are two ways to show that an AI system is safe: show that it doesn't have dangerous capabilities, or show that it's safe even if it has dangerous capabilities. Until three months ago, AI companies said their models didn't have dangerous capabilities. (At the time, I wrote that the companies' eval reports didn't support their claims that their models lacked dangerous bio capabilities.) Now, Anthropic, OpenAI, Google DeepMind, and xAI say their most powerful models might have dangerous biology capabilities and thus could substantially boost extremists—but not states—in creating bioweapons. To prevent such misuse, they must (1) prevent extremists from doing misuse via API and (2) prevent extremists from acquiring the model weights.[1] For (1), t…]]></summary>
+        <author>
+            <name>Zach Stein-Perlman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math You Need to Pan and Tilt 360° Images]]></title>
+        <id>https://towardsdatascience.com/?p=606958</id>
+        <link href="https://towardsdatascience.com/math-to-tilt-pan-360-images/"/>
+        <updated>2025-08-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Panning a spherical image is just a horizontal roll, but tilting it vertically is much trickier. Let's see the math!
+The post The Math You Need to Pan and Tilt 360° Images appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Rouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI and Anthropic share findings from a joint safety evaluation]]></title>
+        <id>https://openai.com/index/openai-anthropic-safety-evaluation</id>
+        <link href="https://openai.com/index/openai-anthropic-safety-evaluation"/>
+        <updated>2025-08-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highlighting progress, challenges, and the value of cross-lab collaboration.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Image (Nano Banana) Beats All Image Editors!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=241845</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/08/google-nano-banana/"/>
+        <updated>2025-08-27T07:27:00.000Z</updated>
+        <summary type="html"><![CDATA[I haven’t been too active in using AI to generate images. Mostly because none of the AI tools to date are able to deliver the level of quality I seek in my images. And so, the onus of generating images for my blogs mostly falls on my teammate and an exceptional graphic designer Armaan. Though […]
+The post Gemini 2.5 Image (Nano Banana) Beats All Image Editors! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Reveals AI Energy Consumption and it is Alarming]]></title>
         <id>https://www.analyticsvidhya.com/?p=241810</id>
@@ -134,6 +235,16 @@ The post Google’s URL Context Grounding: Another Nail in RAG’s Coffin? appea
 AnomalyCLIP : Harnessing CLIP for Weakly-Supervised Video Anomaly Recognition first appeared on LearnOpenCV.]]></summary>
         <author>
             <name>Shubham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collective alignment: public input on our Model Spec]]></title>
+        <id>https://openai.com/index/collective-alignment-aug-2025-updates</id>
+        <link href="https://openai.com/index/collective-alignment-aug-2025-updates"/>
+        <updated>2025-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
