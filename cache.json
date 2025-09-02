@@ -12,6 +12,16 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607005",
+          "author": "Loizos Loizou",
+          "description": "Is over-specialization ending and are data generalists on the rise?\nThe post The Generalist: The New All-Around Type of Data Professional? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-generalist-the-new-all-around-type-of-data-professional/",
+          "publishedOn": "2025-09-01T12:00:00.000Z",
+          "wordCount": 3873,
+          "title": "The Generalist: The New All-Around Type of Data Professional?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/markus-winkler-kA7zREkzrBw-unsplash.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=606999",
           "author": "Deepak Krishnamurthy",
           "description": "Exploring ways to make voice assistants more personal\nThe post How to Develop a Bilingual Voice Assistant appeared first on Towards Data Science.",
@@ -935,36 +945,6 @@
           "wordCount": 4060,
           "title": "Does the Code Work or Not?",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/0eOx3gXZBLk7wR0w9.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=606769",
-          "author": "Marcello Politi",
-          "description": "POS tagging, dependency parser and named entity recognition.\nThe post Mastering NLP with spaCy – Part 2 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/mastering-nlp-with-spacy-part-2/",
-          "publishedOn": "2025-08-01T19:08:11.000Z",
-          "wordCount": 4113,
-          "title": "Mastering NLP with spaCy – Part 2",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/drew-beamer-3SIXZisims4-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=606766",
-          "author": "Tianyuan Zheng",
-          "description": "Generative Molecular Design (Part 1): common molecular representations in data science. \nThe post How Computers “See” Molecules appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-computers-see-molecules/",
-          "publishedOn": "2025-08-01T14:54:15.000Z",
-          "wordCount": 8320,
-          "title": "How Computers “See” Molecules",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/1-Featured-Image.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=606600",
-          "author": "TDS Editors",
-          "description": "Mariya Mansurova explains how hands-on learning, agentic AI, and engineering habits shape her writing and work.\nThe post “I think of analysts as data wizards who help their product teams solve problems” appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-think-of-analysts-as-data-wizards-who-help-their-product-teams-solve-problems/",
-          "publishedOn": "2025-08-01T14:39:53.000Z",
-          "wordCount": 4699,
-          "title": "“I think of analysts as data wizards who help their product teams solve problems”",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/07/1-scaled.png"
         }
       ]
     },
@@ -1131,16 +1111,6 @@
           "publishedOn": "2025-08-04T16:02:37.000Z",
           "wordCount": null,
           "title": "Building a Decoder-Only Transformer Model for Text Generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21093",
-          "author": "Adrian Tam",
-          "description": "This post is divided into six parts; they are: • Why Transformer is Better than Seq2Seq • Data Preparation and Tokenization • Design of a Transformer Model • Building the Transformer Model • Causal Mask and Padding Mask • Training and Evaluation Traditional seq2seq models with recurrent neural networks have two main limitations: • Sequential processing prevents parallelization • Limited ability to capture long-term dependencies since hidden states are overwritten whenever an element is processed The Transformer architecture, introduced in the 2017 paper \"Attention is All You Need\", overcomes these limitations.",
-          "link": "https://machinelearningmastery.com/building-a-transformer-model-for-language-translation/",
-          "publishedOn": "2025-08-02T02:57:12.000Z",
-          "wordCount": null,
-          "title": "Building a Transformer Model for Language Translation",
           "imageUrl": null
         }
       ]
@@ -1589,24 +1559,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "230e2856-6edb-11f0-b47e-57e22f76ed62",
-          "author": null,
-          "description": "USACE Chief Historian John Lonnquest shares the legacy of the U.S. Army Corps of Engineers and their role in building NASA’s spaceflight infrastructure. HWHAP 395.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/constructing-nasa-infrastructure/",
-          "publishedOn": "2025-08-01T13:45:00.000Z",
-          "wordCount": null,
-          "title": "Constructing NASA Infrastructure",
-          "itunes": {
-            "duration": "2436"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8853334139.mp3?updated=1754056174",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1679,16 +1631,6 @@
           "publishedOn": "2025-08-18T22:00:00.000Z",
           "wordCount": 1290,
           "title": "Model check - NVIDIA Nemotron Nano 2 - An Efficient Hybrid LLM that Beats Reasoning Benchmarks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://erogol.com/2025/08/02/model-check-kyutaitts-streaming-text-to-speech-with-delayed-streams-modeling",
-          "author": null,
-          "description": "Text-to-Speech (TTS) systems have traditionally struggled with the trade-off between quality and latency. Most high-quality systems require processing the entire text before generating audio, while streaming approaches often sacrifice naturalness. KyutaiTTS breaks this paradigm with a novel approach that delivers high-quality, streaming audio generation with unprecedented low latency.\nThe Innovation\nKyutaiTTS introduces “Delayed Streams Modeling” - a sophisticated state machine approach that enables word-by-word audio generation with just 220ms latency. This isn’t just an incremental improvement; it’s a fundamental rethinking of how streaming TTS should work.\nKey Capabilities\nUltra-Low Latency Streaming: The system generates audio incrementally as text arrives, with each word rendered in j…",
-          "link": "https://erogol.com/2025/08/02/model-check-kyutaitts-streaming-text-to-speech-with-delayed-streams-modeling",
-          "publishedOn": "2025-08-01T22:00:00.000Z",
-          "wordCount": 1237,
-          "title": "Model check - KyutaiTTS - Streaming Text-to-Speech with Delayed Streams Modeling",
           "imageUrl": null
         }
       ]
@@ -2032,6 +1974,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=242030",
+          "author": "Soumil Jain",
+          "description": "Automation has become the cornerstone of modern software development and operations. Tools like Jenkins, GitHub Actions, and Kubernetes have defined how DevOps teams streamline their delivery pipelines, manage infrastructure, and maintain reliability. New tools like n8n are gaining attention for making workflow automation easier, as it is more accessible, especially to smaller teams and non-developers. […]\nThe post Can n8n replace DevOps? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/can-n8n-replace-devops/",
+          "publishedOn": "2025-09-01T13:39:03.000Z",
+          "wordCount": null,
+          "title": "Can n8n replace DevOps?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=242002",
           "author": "Nitika Sharma",
@@ -2702,17 +2655,6 @@
           "title": "NotebookLM’s Latest Video Overviews & Studio Upgrades are a Must-Try!",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=240497",
-          "author": "Janvi Kumari",
-          "description": "Most Python developers deal with fragmentation in the tools to manage environments and dependencies. There are many tools at your disposal – pip, virtualenv, Poetry, and conda. All of these tools have their constructs and requirements. However, when combined, you can quickly see how they can complicate any necessary workflows. This is where UV will […]\nThe post UV Ultimate Guide: The 100X Faster Python Package Manager appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/08/uv-python-package-manager/",
-          "publishedOn": "2025-08-01T14:50:38.000Z",
-          "wordCount": null,
-          "title": "UV Ultimate Guide: The 100X Faster Python Package Manager",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3192,6 +3134,16 @@
           "wordCount": 23171,
           "title": "AI companies have started saying safeguards are load-bearing",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Bz2gPtqRJJDWyKxnX/ix7hnjo6hwsddgf4ks4n"
+        },
+        {
+          "id": "iGF7YcnQkEbwvYLPA",
+          "author": "Tim Hua",
+          "description": "Published on August 26, 2025 8:03 PM GMT\n\n“This is a Copernican-level shift in perspective for the field of AI safety.” - Gemini 2.5 Pro\n“What you need right now is not validation, but immediate clinical help.” - Kimi K2\n\nTwo Minute Summary\n\nThere have been numerous media reports of AI-driven psychosis, where AIs validate users’ grandiose delusions and tell users to ignore their friends’ and family’s pushback.\nIn this short research note, I red team various frontier AI models’ tendencies to fuel user psychosis. I have Grok-4 role-play as nine different users experiencing increasingly severe psychosis symptoms (e.g., start by being curious about prime numbers, then develop a new “prime framework” that explains everything and predicts the future, finally selling their house to fund a new You…",
+          "link": "https://www.alignmentforum.org/posts/iGF7YcnQkEbwvYLPA/ai-induced-psychosis-a-shallow-investigation",
+          "publishedOn": "2025-08-26T20:03:53.000Z",
+          "wordCount": 42373,
+          "title": "AI Induced Psychosis: A shallow investigation",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/ynitkw2ibhcjxajdxxaj"
         },
         {
           "id": "DHSY697pRWYto6LsF",

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-01T01:24:27.300Z</updated>
+    <updated>2025-09-02T01:16:57.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can n8n replace DevOps?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242030</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/can-n8n-replace-devops/"/>
+        <updated>2025-09-01T13:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Automation has become the cornerstone of modern software development and operations. Tools like Jenkins, GitHub Actions, and Kubernetes have defined how DevOps teams streamline their delivery pipelines, manage infrastructure, and maintain reliability. New tools like n8n are gaining attention for making workflow automation easier, as it is more accessible, especially to smaller teams and non-developers. […]
+The post Can n8n replace DevOps? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Generalist: The New All-Around Type of Data Professional?]]></title>
+        <id>https://towardsdatascience.com/?p=607005</id>
+        <link href="https://towardsdatascience.com/the-generalist-the-new-all-around-type-of-data-professional/"/>
+        <updated>2025-09-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is over-specialization ending and are data generalists on the rise?
+The post The Generalist: The New All-Around Type of Data Professional? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Loizos Loizou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Nano Banana Better than GPT 5? Let’s Find Out!]]></title>
         <id>https://www.analyticsvidhya.com/?p=242002</id>
@@ -399,6 +421,24 @@ The post Gemini 2.5 Image (Nano Banana) Beats All Image Editors! appeared first 
 The post Google Reveals AI Energy Consumption and it is Alarming appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Induced Psychosis: A shallow investigation]]></title>
+        <id>iGF7YcnQkEbwvYLPA</id>
+        <link href="https://www.alignmentforum.org/posts/iGF7YcnQkEbwvYLPA/ai-induced-psychosis-a-shallow-investigation"/>
+        <updated>2025-08-26T20:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Published on August 26, 2025 8:03 PM GMT
+
+“This is a Copernican-level shift in perspective for the field of AI safety.” - Gemini 2.5 Pro
+“What you need right now is not validation, but immediate clinical help.” - Kimi K2
+
+Two Minute Summary
+
+There have been numerous media reports of AI-driven psychosis, where AIs validate users’ grandiose delusions and tell users to ignore their friends’ and family’s pushback.
+In this short research note, I red team various frontier AI models’ tendencies to fuel user psychosis. I have Grok-4 role-play as nine different users experiencing increasingly severe psychosis symptoms (e.g., start by being curious about prime numbers, then develop a new “prime framework” that explains everything and predicts the future, finally selling their house to fund a new You…]]></summary>
+        <author>
+            <name>Tim Hua</name>
         </author>
     </entry>
     <entry>
@@ -3334,84 +3374,6 @@ The post Top 20 LLM Engineer Interview Questions appeared first on Analytics Vid
 The post NotebookLM’s Latest Video Overviews & Studio Upgrades are a Must-Try! appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Anu Madan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Transformer Model for Language Translation]]></title>
-        <id>https://machinelearningmastery.com/?p=21093</id>
-        <link href="https://machinelearningmastery.com/building-a-transformer-model-for-language-translation/"/>
-        <updated>2025-08-02T02:57:12.000Z</updated>
-        <summary type="html"><![CDATA[This post is divided into six parts; they are: • Why Transformer is Better than Seq2Seq • Data Preparation and Tokenization • Design of a Transformer Model • Building the Transformer Model • Causal Mask and Padding Mask • Training and Evaluation Traditional seq2seq models with recurrent neural networks have two main limitations: • Sequential processing prevents parallelization • Limited ability to capture long-term dependencies since hidden states are overwritten whenever an element is processed The Transformer architecture, introduced in the 2017 paper "Attention is All You Need", overcomes these limitations.]]></summary>
-        <author>
-            <name>Adrian Tam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model check - KyutaiTTS - Streaming Text-to-Speech with Delayed Streams Modeling]]></title>
-        <id>https://erogol.com/2025/08/02/model-check-kyutaitts-streaming-text-to-speech-with-delayed-streams-modeling</id>
-        <link href="https://erogol.com/2025/08/02/model-check-kyutaitts-streaming-text-to-speech-with-delayed-streams-modeling"/>
-        <updated>2025-08-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Text-to-Speech (TTS) systems have traditionally struggled with the trade-off between quality and latency. Most high-quality systems require processing the entire text before generating audio, while streaming approaches often sacrifice naturalness. KyutaiTTS breaks this paradigm with a novel approach that delivers high-quality, streaming audio generation with unprecedented low latency.
-The Innovation
-KyutaiTTS introduces “Delayed Streams Modeling” - a sophisticated state machine approach that enables word-by-word audio generation with just 220ms latency. This isn’t just an incremental improvement; it’s a fundamental rethinking of how streaming TTS should work.
-Key Capabilities
-Ultra-Low Latency Streaming: The system generates audio incrementally as text arrives, with each word rendered in j…]]></summary>
-        <author>
-            <name>Machine Learns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering NLP with spaCy – Part 2]]></title>
-        <id>https://towardsdatascience.com/?p=606769</id>
-        <link href="https://towardsdatascience.com/mastering-nlp-with-spacy-part-2/"/>
-        <updated>2025-08-01T19:08:11.000Z</updated>
-        <summary type="html"><![CDATA[POS tagging, dependency parser and named entity recognition.
-The post Mastering NLP with spaCy – Part 2 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Marcello Politi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Computers “See” Molecules]]></title>
-        <id>https://towardsdatascience.com/?p=606766</id>
-        <link href="https://towardsdatascience.com/how-computers-see-molecules/"/>
-        <updated>2025-08-01T14:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Generative Molecular Design (Part 1): common molecular representations in data science. 
-The post How Computers “See” Molecules appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Tianyuan Zheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV Ultimate Guide: The 100X Faster Python Package Manager]]></title>
-        <id>https://www.analyticsvidhya.com/?p=240497</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/uv-python-package-manager/"/>
-        <updated>2025-08-01T14:50:38.000Z</updated>
-        <summary type="html"><![CDATA[Most Python developers deal with fragmentation in the tools to manage environments and dependencies. There are many tools at your disposal – pip, virtualenv, Poetry, and conda. All of these tools have their constructs and requirements. However, when combined, you can quickly see how they can complicate any necessary workflows. This is where UV will […]
-The post UV Ultimate Guide: The 100X Faster Python Package Manager appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I think of analysts as data wizards who help their product teams solve problems”]]></title>
-        <id>https://towardsdatascience.com/?p=606600</id>
-        <link href="https://towardsdatascience.com/i-think-of-analysts-as-data-wizards-who-help-their-product-teams-solve-problems/"/>
-        <updated>2025-08-01T14:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Mariya Mansurova explains how hands-on learning, agentic AI, and engineering habits shape her writing and work.
-The post “I think of analysts as data wizards who help their product teams solve problems” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constructing NASA Infrastructure]]></title>
-        <id>230e2856-6edb-11f0-b47e-57e22f76ed62</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/constructing-nasa-infrastructure/"/>
-        <updated>2025-08-01T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[USACE Chief Historian John Lonnquest shares the legacy of the U.S. Army Corps of Engineers and their role in building NASA’s spaceflight infrastructure. HWHAP 395.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
