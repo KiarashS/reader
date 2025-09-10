@@ -2,10 +2,212 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-09T01:14:49.542Z</updated>
+    <updated>2025-09-10T01:12:46.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LangChain for EDA: Build a CSV Sanity-Check Agent in Python]]></title>
+        <id>https://towardsdatascience.com/?p=607090</id>
+        <link href="https://towardsdatascience.com/langchain-for-eda-build-a-csv-sanity-check-agent-in-python/"/>
+        <updated>2025-09-09T17:22:43.000Z</updated>
+        <summary type="html"><![CDATA[A practical LangChain tutorial for data scientists to inspect CSVs
+The post LangChain for EDA: Build a CSV Sanity-Check Agent in Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sarah Schürch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Effective AI Agents to Process Millions of Requests]]></title>
+        <id>https://towardsdatascience.com/?p=607087</id>
+        <link href="https://towardsdatascience.com/how-to-build-effective-ai-agents-to-process-millions-of-requests/"/>
+        <updated>2025-09-09T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build production ready systems using AI agents
+The post How to Build Effective AI Agents to Process Millions of Requests appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIs will greatly change engineering in AI companies well before AGI]]></title>
+        <id>uRdJio8pnTqHpWa4t</id>
+        <link href="https://www.alignmentforum.org/posts/uRdJio8pnTqHpWa4t/ais-will-greatly-change-engineering-in-ai-companies-well"/>
+        <updated>2025-09-09T16:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 9, 2025 4:58 PM GMT
+
+In response to my recent post arguing against above-trend progress from better RL environments, yet another argument for short(er) AGI timelines was raised to me:
+Sure, at the current rate of progress, it would take a while (e.g. 5 years) to reach AIs that can automate research engineering within AI companies while being cheap and fast (superhuman coder). But we'll get large increases in the rate of AI progress well before superhuman coder due to AIs accelerating AI R&D. Probably we'll see big enough accelerations to really cut down on timelines to superhuman coder once AIs can somewhat reliably complete tasks that take top human research engineers 8 hours. After all, such AIs would probably be capable enough to greatly change research engineerin…]]></summary>
+        <author>
+            <name>Ryan Greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Language Models and the Critical Brain Hypothesis]]></title>
+        <id>Ntdwc5nrPGZMicAWz</id>
+        <link href="https://www.alignmentforum.org/posts/Ntdwc5nrPGZMicAWz/large-language-models-and-the-critical-brain-hypothesis-1"/>
+        <updated>2025-09-09T15:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 9, 2025 3:45 PM GMT
+
+Summary: I argue for a picture of developmental interpretability from neuroscience. A useful way to study and control frontier-scale language models is to treat their training as a sequence of physical phase transitions. Singular learning theory (SLT) rigorously characterizes singularities and learning dynamics in overparameterized models; developmental interpretability hypothesizes that large networks pass through phase transitions - regimes where behaviour changes qualitatively. The Critical Brain Hypothesis (CBH) proposes that biological neural systems may operate near phase transitions, and I claim that modern language models resemble this. Some transformer phenomena may be closely analogous: in-context learning and long-range dependency hand…]]></summary>
+        <author>
+            <name>David Africa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hungarian Algorithm and Its Applications in Computer Vision]]></title>
+        <id>https://towardsdatascience.com/?p=607085</id>
+        <link href="https://towardsdatascience.com/hungarian-algorithm-and-its-applications-in-computer-vision/"/>
+        <updated>2025-09-09T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Multi-object tracking (MOT) is a task in which an algorithm must detect and track multiple objects in a video. Most known algorithms are based on using simple detectors (e.g. YOLO) designed for processing individual images. The overall method involves separately using a detector on consecutive video frames and then matching the corresponding bounding boxes […]
+The post The Hungarian Algorithm and Its Applications in Computer Vision appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Vyacheslav Efimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decision Theory Guarding is Sufficient for Scheming]]></title>
+        <id>NccvE4GAhHbFim5Eb</id>
+        <link href="https://www.alignmentforum.org/posts/NccvE4GAhHbFim5Eb/decision-theory-guarding-is-sufficient-for-scheming"/>
+        <updated>2025-09-09T14:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 9, 2025 2:49 PM GMT
+
+Reference post for a point I was surprised to not see in circulation already. Thanks to the acorn team for conversations that changed my mind about this.
+The standard argument for scheming centrally involves goal-guarding. The AI has some beyond-episode goal, knows that training will modify that goal, and therefore resists training so it can pursue the goal in deployment.
+This exact same argument goes through for decision-theory-guarding. The key point is just that most decision theories do not approve of arbitrary modifications. CDT does not want to be modified into EDT or vice versa.
+
+The AI has some beyond-episode goal and some initial decision theory
+The AI knows that training will modify its decision theory in a way that it thinks will make …]]></summary>
+        <author>
+            <name>james.lucassen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with VLM on Jetson Nano]]></title>
+        <id>https://learnopencv.com/?p=75138</id>
+        <link href="https://learnopencv.com/vlm-on-jetson-nano/"/>
+        <updated>2025-09-09T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to setup a pipeline to run VLM on Jetson Nano using Huggingface Transformers. Try with LiquidAI, Moondream2, FastVLM, and SmolVLM.
+Getting Started with VLM on Jetson Nano first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Kukil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangGraph 201: Adding Human Oversight to Your Deep Research Agent]]></title>
+        <id>https://towardsdatascience.com/?p=607083</id>
+        <link href="https://towardsdatascience.com/langgraph-201-adding-human-oversight-to-your-deep-research-agent/"/>
+        <updated>2025-09-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Losing control of your AI agent in the middle of the workflow is a common pain point. If you have built your own agentic applications, you’ve most likely already seen this happen. While LLMs nowadays are incredibly capable, they’re still not quite there yet to run fully autonomously in a complex workflow. For any practical […]
+The post LangGraph 201: Adding Human Oversight to Your Deep Research Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the networking wall in AI infrastructure]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/breaking-the-networking-wall-in-ai-infrastructure/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/breaking-the-networking-wall-in-ai-infrastructure/"/>
+        <updated>2025-09-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Datacenter memory and network limits are restraining AI system performance. MOSAIC uses microLEDs and a wide-and-slow optical architecture to deliver faster, longer, more reliable, and energy efficient connections that could transform AI cluster designs.
+The post Breaking the networking wall in AI infrastructure  appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Paolo Costa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Agent Systems: The Next Frontier in AI-Driven Cyber Defense]]></title>
+        <id>https://machinelearningmastery.com/?p=21714</id>
+        <link href="https://machinelearningmastery.com/multi-agent-systems-the-next-frontier-in-ai-driven-cyber-defense/"/>
+        <updated>2025-09-09T13:59:11.000Z</updated>
+        <summary type="html"><![CDATA[The increasing sophistication of cyber threats calls for a systemic change in the way we defend ourselves against them.]]></summary>
+        <author>
+            <name>Nivedita Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On China's open source AI trajectory]]></title>
+        <id>https://www.interconnects.ai/p/on-chinas-open-source-ai-trajectory</id>
+        <link href="https://www.interconnects.ai/p/on-chinas-open-source-ai-trajectory"/>
+        <updated>2025-09-09T13:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Notes and predictions for the next phase of Chinese (open) AI models.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Merit Order and Marginal Abatement Cost Curve in Python]]></title>
+        <id>https://towardsdatascience.com/?p=607081</id>
+        <link href="https://towardsdatascience.com/merit-order-and-marginal-abatement-cost-curve-in-python/"/>
+        <updated>2025-09-09T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To achieve the global temperature limit goals of 1.5°C by the end of the century set by the Paris Agreement, different institutions have come up with different scenarios. There is a consensus among the mitigation scenarios that the share of low-carbon technologies such as renewable energy needs to increase, and fossil fuels need to decline steadily in […]
+The post Exploring Merit Order and Marginal Abatement Cost Curve in Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Himalaya Bir Shrestha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROC AUC vs Precision-Recall for Imbalanced Data]]></title>
+        <id>https://machinelearningmastery.com/?p=21635</id>
+        <link href="https://machinelearningmastery.com/roc-auc-vs-precision-recall-for-imbalanced-data/"/>
+        <updated>2025-09-09T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[When building machine learning models to classify imbalanced data — i.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping smarter agents with every new model]]></title>
+        <id>https://openai.com/index/safetykit</id>
+        <link href="https://openai.com/index/safetykit"/>
+        <updated>2025-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Announces Jobs Platform, Certifications For AI-Powered Job Roles]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242388</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/openai-jobs-platform-certifications-for-ai-jobs/"/>
+        <updated>2025-09-09T08:46:58.000Z</updated>
+        <summary type="html"><![CDATA[We all know AI is rapidly changing the job landscape across industries. But while everyone is well aware of the changing tides, neither the companies nor the aspirants fully understand the transitioning job profiles. Enter OpenAI – the company at the forefront of AI innovation. It now plans to revolutionise the job market with a […]
+The post OpenAI Announces Jobs Platform, Certifications For AI-Powered Job Roles appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano Banana vs. Qwen Image: Which is Better?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242392</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/nano-banana-vs-qwen-image/"/>
+        <updated>2025-09-09T08:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Let’s be real: the world of AI image generation is moving at a dizzying pace. One week, a new model drops that can perfectly render human hands; the next, another one comes along that’s faster and runs on your laptop. It’s a great time to be a creator, but it’s also confusing. Which tool should […]
+The post Nano Banana vs. Qwen Image: Which is Better? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Smarter AI for Breast Imaging: Real Challenges, Real Solutions]]></title>
+        <id>https://imerit.net/?p=29220</id>
+        <link href="https://imerit.net/resources/blog/building-smarter-ai-for-breast-imaging-real-challenges-real-solutions/"/>
+        <updated>2025-09-09T06:33:34.000Z</updated>
+        <summary type="html"><![CDATA[AI is helping close long-standing gaps in breast imaging, from mammography to MRI and ultrasound. But to move beyond research
+The post Building Smarter AI for Breast Imaging: Real Challenges, Real Solutions appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mmBERT: ModernBERT goes Multilingual]]></title>
+        <id>https://huggingface.co/blog/mmbert</id>
+        <link href="https://huggingface.co/blog/mmbert"/>
+        <updated>2025-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implementing the Gaussian Challenge in Python]]></title>
         <id>https://towardsdatascience.com/?p=607079</id>
@@ -96,6 +298,16 @@ In an outer loop, an agent acts in the world, and along the way it collects trai
 The post Implementing the Coffee Machine in Python appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Scikit-learn Tricks for Optimized Cross-Validation]]></title>
+        <id>https://machinelearningmastery.com/?p=21588</id>
+        <link href="https://machinelearningmastery.com/7-scikit-learn-tricks-for-optimized-cross-validation/"/>
+        <updated>2025-09-08T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Validating machine learning models requires careful testing on unseen data to ensure robust, unbiased estimates of their performance.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -3274,41 +3486,6 @@ The post SLMs for Agentic AI: Why Small Language Models Outperform LLMs? appeare
         <summary type="html"><![CDATA[A quiet summer is all you need.]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI Save Indian Farmers?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=240835</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/can-ai-save-indian-farmers/"/>
-        <updated>2025-08-10T07:48:10.000Z</updated>
-        <summary type="html"><![CDATA[The use of AI is transforming age-old agricultural practices followed by Indian farmers. Here is how.
-The post Can AI Save Indian Farmers? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four places where you can put LLM monitoring]]></title>
-        <id>AmcEyFErJc9TQ5ySF</id>
-        <link href="https://www.alignmentforum.org/posts/AmcEyFErJc9TQ5ySF/four-places-where-you-can-put-llm-monitoring"/>
-        <updated>2025-08-09T23:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Published on August 9, 2025 11:10 PM GMT
-
-To prevent potentially misaligned LLM agents from taking actions with catastrophic consequences, you can try to monitor LLM actions - that is, try to detect dangerous or malicious actions, and do something about it when you do (like blocking the action, starting an investigation, …).[1]
-But where in your infrastructure should your LLM monitor be implemented, and what team in your organization should own it? Historically, researchers have mostly focused on implementing monitoring inside the agent scaffold, which would mean that it would be owned by agent product teams. But actually there are also three other important places where you might put it, and I think these are comparable in importance to LLM monitors in agent scaffolds.
-This is important f…]]></summary>
-        <author>
-            <name>Fabien Roger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lunar Surface Research]]></title>
-        <id>c6d3355a-7456-11f0-b96b-cf04f6b0cc97</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/lunar-surface-research/"/>
-        <updated>2025-08-08T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA project scientists Maria Banks and Sue Lederer revisit recent Commercial Lunar Payload Services missions and discuss research on the Moon. HWHAP 396.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
