@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-14T01:18:12.668Z</updated>
+    <updated>2025-09-15T01:18:54.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise of Semantic Entity Resolution]]></title>
+        <id>https://towardsdatascience.com/?p=607132</id>
+        <link href="https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/"/>
+        <updated>2025-09-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Semantic entity resolution uses language models to bring an increased level of automation to schema alignment, blocking (grouping records into smaller, efficient blocks for all-pairs comparison at quadratic, n² complexity), matching and even merging duplicate nodes and edges. In the past, entity resolution systems relied on statistical tricks such as string distance, static rules or complex ETL to schema align, block, match and merge records. Semantic entity resolution uses representation learning to gain a deeper understanding of records’ meaning in the domain of a business to automate the same process as part of a knowledge graph factory.
+The post The Rise of Semantic Entity Resolution appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Russell Jurney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Peeking Ahead: Time-Aware Graph Fraud Detection]]></title>
+        <id>https://towardsdatascience.com/?p=607130</id>
+        <link href="https://towardsdatascience.com/no-peeking-ahead-time-aware-graph-fraud-detection/"/>
+        <updated>2025-09-14T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How to implement leak-free graph fraud detection
+The post No Peeking Ahead: Time-Aware Graph Fraud Detection appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Erika G. Gonçalves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic system for Self-documenting code using LangGraph]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242497</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/langgraph-agents/"/>
+        <updated>2025-09-14T09:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Often, we spend a significant amount of time trying to understand blocks of code, comprehend the parameters, and decipher other confusing aspects of the code. I thought to myself, can the much-hyped AI Agents help me in this regard? The system that I were to create had a clear objective: to provide helpful comments, flags […]
+The post Agentic system for Self-documenting code using LangGraph appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Mounish V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Videos Using Nano Banana + Veo 3?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242659</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/create-videos-using-veo-3-and-nano-banana/"/>
+        <updated>2025-09-14T08:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Who would have thought Google would make such a powerful comeback in 2025 with its AI lineup? From Veo 3 to Nano Banana to Gemini 2.5 Pro, Google has been rolling out stellar models that are not only advanced but also surprisingly easy and fun to use. In this article, I will walk you through how to create engaging videos […]
+The post How to Create Videos Using Nano Banana + Veo 3? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Research Agents for Tech Insights]]></title>
         <id>https://towardsdatascience.com/?p=607127</id>
@@ -3302,167 +3346,6 @@ The post Evaluating Deep Learning Models with Custom Loss Functions and Calibrat
         <summary type="html"><![CDATA[Don't try to make your airplane too much like a bird.]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Astronaut Photography]]></title>
-        <id>2f3d404a-79d9-11f0-97ab-f787ea17f3eb</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-art-of-astronaut-photography/"/>
-        <updated>2025-08-15T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA astronauts Don Pettit and Matt Dominick share their experiences capturing stunning photography from the International Space Station. HWHAP 397.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misalignment classifiers: Why they’re hard to evaluate adversarially, and why we're studying them anyway]]></title>
-        <id>jzHhJJq2cFmisRKB2</id>
-        <link href="https://www.alignmentforum.org/posts/jzHhJJq2cFmisRKB2/misalignment-classifiers-why-they-re-hard-to-evaluate"/>
-        <updated>2025-08-15T11:48:31.000Z</updated>
-        <summary type="html"><![CDATA[Published on August 15, 2025 11:48 AM GMT
-
-Even if the misalignment risk from current AI agents is small, it may be useful to start internally deploying misalignment classifiers: language models designed to classify transcripts that represent intentionally misaligned behaviour. Deploying misalignment classifiers now may provide qualitative and quantitative evidence about how current agents misbehave in real deployments. Further, we can later adapt misalignment classifiers into control monitors: language models that review transcripts with the objective of informing decisions (e.g. whether to block a tool call), in order to mitigate misalignment risks.
-Misalignment classifiers and control monitors sound similar, but misalignment classifiers are harder to adversarially evaluate because the c…]]></summary>
-        <author>
-            <name>Charlie Griffin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training a Reward Hacker Despite Perfect Labels]]></title>
-        <id>dbYEoG7jNZbeWX39o</id>
-        <link href="https://www.alignmentforum.org/posts/dbYEoG7jNZbeWX39o/training-a-reward-hacker-despite-perfect-labels"/>
-        <updated>2025-08-14T23:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Published on August 14, 2025 11:57 PM GMT
-
-Summary:  Perfectly labeled outcomes in training can still boost reward hacking tendencies in generalization. This can hold even when the train/test sets are drawn from the exact same distribution. We induce this surprising effect via a form of context distillation, which we call re-contextualization: 
-
-Generate model completions with a hack-encouraging system prompt + neutral user prompt.
-Filter the completions to remove hacks.
-Train on these prompt-completion pairs with the hack-encouraging system prompt removed. 
-
-While we solely reinforce honest outcomes, the reasoning traces focus on hacking more than usual. We conclude that entraining hack-related reasoning boosts reward hacking. It's not enough to think about rewarding the right outcomes—we…]]></summary>
-        <author>
-            <name>ariana_azarbal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangGraph 101: Let’s Build A Deep Research Agent]]></title>
-        <id>https://towardsdatascience.com/?p=606868</id>
-        <link href="https://towardsdatascience.com/langgraph-101-lets-build-a-deep-research-agent/"/>
-        <updated>2025-08-14T23:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Learn LangGraph fundamentals from Google’s open-source full-stack implementation
-The post LangGraph 101: Let’s Build A Deep Research Agent appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does “Following Best Practices” Mean in the Age of AI?]]></title>
-        <id>https://towardsdatascience.com/?p=606866</id>
-        <link href="https://towardsdatascience.com/what-does-following-best-practices-mean-in-the-age-of-ai/"/>
-        <updated>2025-08-14T19:34:56.000Z</updated>
-        <summary type="html"><![CDATA[How data and ML practitioners should navigate a rapidly changing landscape
-The post What Does “Following Best Practices” Mean in the Age of AI? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 8 Tools for Medical Text Annotation in 2025]]></title>
-        <id>https://imerit.net/?p=28022</id>
-        <link href="https://imerit.net/resources/blog/top-8-tools-for-medical-text-annotation-in-2025/"/>
-        <updated>2025-08-14T15:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Medical text annotation is crucial for developing accurate AI-driven healthcare solutions, particularly in fields such as radiology, oncology, clinical documentation,
-The post Top 8 Tools for Medical Text Annotation in 2025 appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Matplotlib Tricks to Better Visualize Your Machine Learning Models]]></title>
-        <id>https://machinelearningmastery.com/?p=21262</id>
-        <link href="https://machinelearningmastery.com/7-matplotlib-tricks-to-better-visualize-your-machine-learning-models/"/>
-        <updated>2025-08-14T15:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Visualizing model performance is an essential piece of the machine learning workflow puzzle.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tools for Text Annotation in AI and NLP]]></title>
-        <id>https://imerit.net/?p=28063</id>
-        <link href="https://imerit.net/resources/blog/top-tools-for-text-annotation-in-ai-and-nlp/"/>
-        <updated>2025-08-14T14:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Text annotation powers AI applications like chatbots, search engines, large language models (LLMs), and content moderation systems. Accurate annotations such
-The post Top Tools for Text Annotation in AI and NLP appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tools for Speech-to-Text Annotation in 2025]]></title>
-        <id>https://imerit.net/?p=28058</id>
-        <link href="https://imerit.net/resources/blog/top-tools-for-speech-to-text-annotation-in-2025/"/>
-        <updated>2025-08-14T14:54:19.000Z</updated>
-        <summary type="html"><![CDATA[As the demand for accurate transcription grows across healthcare, voice AI, accessibility technology, and digital assistants, speech-to-text (STT) annotation is
-The post Top Tools for Speech-to-Text Annotation in 2025 appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tools for 2D Video Annotation: A Complete Guide]]></title>
-        <id>https://imerit.net/?p=28053</id>
-        <link href="https://imerit.net/resources/blog/top-tools-for-2d-video-annotation-a-complete-guide/"/>
-        <updated>2025-08-14T14:50:48.000Z</updated>
-        <summary type="html"><![CDATA[2D video annotation is vital for training robust AI models in industries such as autonomous vehicles, medical imaging, surveillance systems,
-The post Top Tools for 2D Video Annotation: A Complete Guide appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tools for 2D Image Annotation in 2025]]></title>
-        <id>https://imerit.net/?p=28048</id>
-        <link href="https://imerit.net/resources/blog/top-tools-for-2d-image-annotation-in-2025/"/>
-        <updated>2025-08-14T14:50:13.000Z</updated>
-        <summary type="html"><![CDATA[2D image annotation is essential for developing accurate AI models across various industries, including healthcare, autonomous driving, retail analytics, and
-The post Top Tools for 2D Image Annotation in 2025 appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 8 Image Annotation Tools for Computer Vision Projects]]></title>
-        <id>https://imerit.net/?p=28042</id>
-        <link href="https://imerit.net/resources/blog/top-8-image-annotation-tools-for-computer-vision-projects/"/>
-        <updated>2025-08-14T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[High-quality annotated image data is the foundation of any successful computer vision AI model. From object detection and segmentation to
-The post Top 8 Image Annotation Tools for Computer Vision Projects appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tools for DICOM Annotation: A Comprehensive Guide 2025]]></title>
-        <id>https://imerit.net/?p=28031</id>
-        <link href="https://imerit.net/resources/blog/top-tools-for-dicom-annotation-a-comprehensive-guide-2025/"/>
-        <updated>2025-08-14T14:30:06.000Z</updated>
-        <summary type="html"><![CDATA[DICOM annotation is a cornerstone of developing reliable AI-powered radiology solutions. By accurately labeling and segmenting medical images, AI models
-The post Top Tools for DICOM Annotation: A Comprehensive Guide 2025 appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“My biggest lesson was realizing that domain expertise matters more than algorithmic complexity.“]]></title>
-        <id>https://towardsdatascience.com/?p=606598</id>
-        <link href="https://towardsdatascience.com/my-biggest-lesson-was-realizing-that-domain-expertise-matters-more-than-algorithmic-complexity/"/>
-        <updated>2025-08-14T13:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Claudia Ng reflects on real-world ML lessons, mentoring newcomers, and her journey from corporate ML to freelance AI.
-The post “My biggest lesson was realizing that domain expertise matters more than algorithmic complexity.“ appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
         </author>
     </entry>
 </feed>
