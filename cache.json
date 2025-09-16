@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607147",
+          "author": "James Gibbins",
+          "description": "Introduction My previous posts looked at the bog-standard decision tree and the wonder of a random forest. Now, to complete the triplet, I’ll visually explore gradient boosted trees! There are a bunch of gradient boosted tree libraries, including XGBoost, CatBoost, and LightGBM. However, for this I’m going to use sklearn’s one. Why? Simply because, compared […]\nThe post A Visual Guide to Tuning Gradient Boosted Trees appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-visual-guide-to-tuning-gradient-boosted-trees/",
+          "publishedOn": "2025-09-15T18:59:31.000Z",
+          "wordCount": 4528,
+          "title": "A Visual Guide to Tuning Gradient Boosted Trees",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/vgbt6.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607145",
+          "author": "Mahnoor Javed",
+          "description": "Understanding classes, objects, attributes, and methods\nThe post Implementing the Coffee Machine Project in Python Using Object Oriented Programming appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/implementing-the-coffee-machine-project-in-python-using-object-oriented-programming/",
+          "publishedOn": "2025-09-15T18:40:27.000Z",
+          "wordCount": 4438,
+          "title": "Implementing the Coffee Machine Project in Python Using Object Oriented Programming",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/1-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607143",
+          "author": "Shreshth Sharma",
+          "description": "Trapped in a purgatory of POCs enterprises need to focus and build just 3 pillars to realize value from AI\nThe post You Only Need 3 Things to Turn AI Experiments into AI Advantage appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/you-only-need-3-things-to-turn-ai-experiments-into-ai-advantage/",
+          "publishedOn": "2025-09-15T18:14:02.000Z",
+          "wordCount": 4090,
+          "title": "You Only Need 3 Things to Turn AI Experiments into AI Advantage",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/3-pillars-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607140",
+          "author": "Marcello Politi",
+          "description": "Mastering NLP with spaCy: Part 4 \nThe post Learn How to Use Transformers with HuggingFace and SpaCy appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/mastering-nlp-with-spacy-part-4/",
+          "publishedOn": "2025-09-15T13:30:00.000Z",
+          "wordCount": 4243,
+          "title": "Learn How to Use Transformers with HuggingFace and SpaCy",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/marek-pavlik-DPcGXBCNL0c-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607138",
+          "author": "Egor Howell",
+          "description": "Your one-stop guide to becoming a machine learning engineer\nThe post How to Become a Machine Learning Engineer (Step-by-Step) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/dont-follow-generic-ml-engineer-roadmaps-do-this-instead-2/",
+          "publishedOn": "2025-09-15T12:00:00.000Z",
+          "wordCount": 4937,
+          "title": "How to Become a Machine Learning Engineer (Step-by-Step)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/ZERO-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607132",
           "author": "Russell Jurney",
           "description": "Semantic entity resolution uses language models to bring an increased level of automation to schema alignment, blocking (grouping records into smaller, efficient blocks for all-pairs comparison at quadratic, n² complexity), matching and even merging duplicate nodes and edges. In the past, entity resolution systems relied on statistical tricks such as string distance, static rules or complex ETL to schema align, block, match and merge records. Semantic entity resolution uses representation learning to gain a deeper understanding of records’ meaning in the domain of a business to automate the same process as part of a knowledge graph factory.\nThe post The Rise of Semantic Entity Resolution appeared first on Towards Data Science.",
@@ -1289,7 +1339,23 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=21235",
+          "author": "Wen-Tse Chen",
+          "description": "Verlog is a multi-turn reinforcement learning framework built for long-horizon LLM-agentic tasks with highly variable episode lengths. Extending VeRL and BALROG while following the proven design principles of pytorch-a2c-ppo-acktr-gail, it introduces specialized optimizations for stable and efficient training when episodes span from short interactions to hundreds of turns. While prior frameworks like VeRL and RAGEN effectively handle tasks with ~10 turns, and verl-agent scales up to 50 turns, Verlog is designed to operate in environments with over 400 turns, making it uniquely suited for complex, long-term decision-making. This capability has been validated across challenging domains such as BabyAI, BabaIsAI, and Crafter. In Crafter, for instance, episode lengths range from 70 to 400 steps with an average of about 190. On these challenging domains, Verlog consistently achieves strong performance out of the box. Key Features 🧠 Turn-Level Abstraction: To handle extremely long episodes, we treat each turn as an independent training sample. This eliminates the need to encode the entire trajectory into a single context window and allows for modular, customizable memory architectures. 🎯 Fixed-Turn Batching: To address the high variance in episode lengths across environments, we use fixed-turn batching. Each training batch contains a fixed number of turns. For incomplete […]",
+          "link": "https://blog.ml.cmu.edu/2025/09/15/verlog-a-multi-turn-rl-framework-for-llm-agents/",
+          "publishedOn": "2025-09-15T14:40:53.000Z",
+          "wordCount": 3075,
+          "title": "Verlog: A Multi-turn RL framework for LLM agents",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/08/teaser-1.jpg",
+            "length": "305998",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/08/teaser-1.jpg"
+        }
+      ]
     },
     {
       "title": "Google AI Blog",
@@ -1632,16 +1698,6 @@
           "wordCount": 2587,
           "title": "Creating a Real-Time Gesture-to-Text Translator Using Python and Mediapipe",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755525484024/9f4c42e0-dbfd-4f04-9223-0a2169abd1fb.png"
-        },
-        {
-          "id": "689f4b8b1694c0dba616a0d0",
-          "author": "Oyedele Tioluwani",
-          "description": "Language is messy, subtle, and full of meaning that shifts with context. Teaching machines to truly understand it is one of the hardest problems in artificial intelligence. That challenge is what natural language understanding (NLU) sets out to solve...",
-          "link": "https://www.freecodecamp.org/news/deep-reinforcement-learning-in-natural-language-understanding/",
-          "publishedOn": "2025-08-15T15:00:27.000Z",
-          "wordCount": 4091,
-          "title": "Deep Reinforcement Learning in Natural Language Understanding",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755270013761/005fd330-7f59-4753-ba14-8852f4240f3c.png"
         }
       ]
     },
@@ -1659,16 +1715,6 @@
           "wordCount": 7179,
           "title": "How to Build a Machine Learning System on Serverless Architecture",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756225357023/04572f1b-b9a7-43e0-aabc-2842faa2703f.png"
-        },
-        {
-          "id": "689f4b8b1694c0dba616a0d0",
-          "author": "Oyedele Tioluwani",
-          "description": "Language is messy, subtle, and full of meaning that shifts with context. Teaching machines to truly understand it is one of the hardest problems in artificial intelligence. That challenge is what natural language understanding (NLU) sets out to solve...",
-          "link": "https://www.freecodecamp.org/news/deep-reinforcement-learning-in-natural-language-understanding/",
-          "publishedOn": "2025-08-15T15:00:27.000Z",
-          "wordCount": 4091,
-          "title": "Deep Reinforcement Learning in Natural Language Understanding",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755270013761/005fd330-7f59-4753-ba14-8852f4240f3c.png"
         }
       ]
     },
@@ -1762,6 +1808,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68c7da6265a4f37efec2bbb7",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c",
+          "publishedOn": "2025-09-15T09:20:59.000Z",
+          "wordCount": null,
+          "title": "Week Ending 9.14.2025",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68beb9675a88c14e53bcbc32",
           "author": "Craig Smith",
@@ -2030,6 +2087,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=242852",
+          "author": "Vipin Vashisth",
+          "description": "AI models are getting smarter by the day – reasoning better, running faster, and handling longer contexts than ever before. The Qwen3-Next-80B-A3B takes this leap forward with efficient training patterns, a hybrid attention mechanism, and an ultra-sparse mixture of experts. Add stability-focused tweaks, and you get a model that’s quicker, more reliable, and stronger on benchmarks. In […]\nThe post How to Access Qwen3-Next API for Free? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/access-qwen3-next-api-free/",
+          "publishedOn": "2025-09-15T17:43:57.000Z",
+          "wordCount": null,
+          "title": "How to Access Qwen3-Next API for Free?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=242781",
+          "author": "Sarthak Dogra",
+          "description": "In this fast-paced life, we often reminisce about the era gone by. The golden days had their own, serene style of lifestyle and fashion that still, for the most part, beats what we have today. While we cannot go back in time as much as we wish to, AI tools today provide a unique way […]\nThe post 12 Nano Banana Prompts to Convert Your Photos into Retro Images appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/",
+          "publishedOn": "2025-09-15T11:50:18.000Z",
+          "wordCount": null,
+          "title": "12 Nano Banana Prompts to Convert Your Photos into Retro Images",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=242790",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Seedream v4 is the latest image generation model from ByteDance, designed for high-quality, photorealistic results. It supports images up to 4K resolution, advanced editing, and reference-based generation, making it one of the most versatile image processing tools for AI-driven visual creation. Seedream v4 is not another academic paper you bookmark and forget. It’s an API […]\nThe post Seedream v4: Nano Banana Can’t Keep Up! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/seedream-v4-nano-banana-cant-keep-up/",
+          "publishedOn": "2025-09-15T11:11:15.000Z",
+          "wordCount": null,
+          "title": "Seedream v4: Nano Banana Can’t Keep Up!",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=242497",
           "author": "Mounish V",
@@ -2678,28 +2768,6 @@
           "title": "Lightning-Fast Data Analysis: Building a Data Analyst AI agent using OpenAI Function Calling",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=241412",
-          "author": "Soumil Jain",
-          "description": "The artificial intelligence revolution is no longer just on the horizon; it is here, disrupting industries and creating unique career opportunities. AI job postings increased by 56.1% in 2025, and individuals with AI skills are commanding an incredible 56% premium on wages, so there has never been a better time to learn and master AI! […]\nThe post How to Master AI in 2025? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/08/how-to-master-ai/",
-          "publishedOn": "2025-08-16T05:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Master AI in 2025?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=241340",
-          "author": "Vipin Vashisth",
-          "description": "Evaluating Deep Learning models is an essential part of model lifecycle management. Whereas traditional models have excelled at providing quick benchmarks for model performance, they often fail to capture the nuanced goals of real-world applications. For instance, a fraud detection system might prioritize minimizing false negatives over false positives, while a medical diagnosis model might […]\nThe post Evaluating Deep Learning Models with Custom Loss Functions and Calibration Metrics appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/08/custom-loss-functions/",
-          "publishedOn": "2025-08-15T16:57:22.000Z",
-          "wordCount": null,
-          "title": "Evaluating Deep Learning Models with Custom Loss Functions and Calibration Metrics",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2744,6 +2812,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-upgrades-to-codex",
+          "author": null,
+          "description": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
+          "link": "https://openai.com/index/introducing-upgrades-to-codex",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing upgrades to Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/how-people-are-using-chatgpt",
+          "author": null,
+          "description": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+          "link": "https://openai.com/index/how-people-are-using-chatgpt",
+          "publishedOn": "2025-09-15T03:00:00.000Z",
+          "wordCount": null,
+          "title": "How people are using ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
+          "author": null,
+          "description": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.",
+          "link": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
+          "publishedOn": "2025-09-15T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
           "author": null,
@@ -3018,22 +3116,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!y86L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aff76bf-bd04-46b7-89e0-ddbb0e198aa7_1326x812.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/contra-dwarkesh-on-continual-learning",
-          "author": "Nathan Lambert",
-          "description": "Don't try to make your airplane too much like a bird.",
-          "link": "https://www.interconnects.ai/p/contra-dwarkesh-on-continual-learning",
-          "publishedOn": "2025-08-15T13:40:06.000Z",
-          "wordCount": null,
-          "title": "Contra Dwarkesh on Continual Learning",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a7d1d683-9a18-431d-aefc-867810cf2d46_900x752.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a7d1d683-9a18-431d-aefc-867810cf2d46_900x752.jpeg"
         }
       ]
     },
@@ -3042,6 +3124,36 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "HKvFHbKfjryqXhuuu",
+          "author": "Adrià Garriga-Alonso",
+          "description": "Published on September 15, 2025 8:49 PM GMT\n\nWork done as part of my work with FAR AI, back in February 2023. It's a small result but I want to get it out of my drafts folder. It was the start of the research that led to interpreting the Sokoban planning RNN.\nI was trying to study neural networks that plan, in order to have examples of mesa-optimizers.\nI trained the recurrent maze CNN from Bansal et al. 2022 to solve 9x9 mazes, and applied it to a 33x33 maze. The architecture in their paper is a recurrent convolutional NN (R-CNN) that is regularized to be able to stop its computation at any iteration: during training, the NN runs for a random number of iterations before it is scored.\nThe task is supervised learning with inputs and labels like the following. The loss is cross-entropy.\nLeft:…",
+          "link": "https://www.alignmentforum.org/posts/HKvFHbKfjryqXhuuu/a-recurrent-cnn-finds-maze-paths-by-filling-dead-ends",
+          "publishedOn": "2025-09-15T20:49:23.000Z",
+          "wordCount": 7137,
+          "title": "A recurrent CNN finds maze paths by filling dead-ends",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/HKvFHbKfjryqXhuuu/npv1tzklpj3rph424zzs"
+        },
+        {
+          "id": "4XdxiqBsLKqiJ9xRM",
+          "author": "Seth Herd",
+          "description": "Published on September 15, 2025 2:58 PM GMT\n\nEpistemic status: These questions seem useful to me, but I'm biased. I'm interested in your thoughts on any portion you read. \nIf our first AGI is based on current LLMs and alignment strategies, is it likely to be adequately aligned? Opinions and intuitions vary widely. \nAs a lens to analyze this question, let's consider such a proto-AGI reasoning about its goals. This scenario raises questions that can be addressed empirically in current-gen models.\n1. Scenario/overview: \nSuperClaude is super nice\nAnthropic has released a new Claude Agent, quickly nicknamed SuperClaude because it's impressively useful for longer tasks. SuperClaude thinks a lot in the course of solving complex problems with many moving parts. It's not brilliant, but it can crunc…",
+          "link": "https://www.alignmentforum.org/posts/4XdxiqBsLKqiJ9xRM/llm-agi-may-reason-about-its-goals-and-discover",
+          "publishedOn": "2025-09-15T14:58:01.000Z",
+          "wordCount": 68972,
+          "title": "LLM AGI may reason about its goals and discover misalignments by default",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "AzFxTMFfkTt4mhMKt",
+          "author": "Cole Wyeth",
+          "description": "Published on September 14, 2025 4:08 AM GMT\n\nEpistemic status: This post removes epicycles from ARAD, resulting in an alignment plan which I think is better - though not as original, since @michaelcohen  has advocated the same general direction (safety of imitation learning). However, the details of my suggested approach are substantially different. This post was inspired mainly by conversations with @abramdemski.\nMotivation and Overview\nExistence proof for alignment. Near-perfect alignment between agents of lesser and greater intelligence is in principle possible for some agents by the following existence proof: one could scan a human's brain and run a faster emulation (or copy) digitally. In some cases, the emulation may plausibly scheme against the original - for instance, if the origin…",
+          "link": "https://www.alignmentforum.org/posts/AzFxTMFfkTt4mhMKt/alignment-as-uploading-with-more-steps",
+          "publishedOn": "2025-09-14T04:08:36.000Z",
+          "wordCount": 25333,
+          "title": "Alignment as uploading with more steps",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "MdKWqFrNstiZQ3G6K",
           "author": "Mikita Balesni",
@@ -3331,16 +3443,6 @@
           "wordCount": 41863,
           "title": "Discovering Backdoor Triggers",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/kmNqsbgKWJHGqhj4g/jpkvjsbqyeh0cv7nlj0u"
-        },
-        {
-          "id": "a4EDinzAYtRwpNmx9",
-          "author": "Nick Jiang",
-          "description": "Published on August 15, 2025 8:10 PM GMT\n\nNick and Lily are co-first authors on this project. Lewis and Neel jointly supervised this project.\nTL;DR\n\nWe use sparse autoencoders (SAEs) for four textual data analysis\ntasks—data diffing, finding correlations, targeted clustering, and retrieval.\nWe care especially about gaining insights from language model data, such as LLM outputs and training data, as we believe it is an underexplored route for model understanding.\nFor instance, we find that Grok 4 is more careful than other frontier models to state its assumptions and explore nuanced interpretations—showing the kinds of insights data diffing can reveal by comparing model outputs.\nWhy SAEs? Think of features as \"tags\" of properties for each text.\nTheir large dictionary of latents provides a l…",
-          "link": "https://www.alignmentforum.org/posts/a4EDinzAYtRwpNmx9/towards-data-centric-interpretability-with-sparse",
-          "publishedOn": "2025-08-15T20:10:55.000Z",
-          "wordCount": 38101,
-          "title": "Towards data-centric interpretability with sparse autoencoders",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/a4EDinzAYtRwpNmx9/rsoq6j3qwtew4g7ico8a"
         }
       ]
     }

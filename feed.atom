@@ -2,10 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-15T01:18:54.055Z</updated>
+    <updated>2025-09-16T01:10:28.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A recurrent CNN finds maze paths by filling dead-ends]]></title>
+        <id>HKvFHbKfjryqXhuuu</id>
+        <link href="https://www.alignmentforum.org/posts/HKvFHbKfjryqXhuuu/a-recurrent-cnn-finds-maze-paths-by-filling-dead-ends"/>
+        <updated>2025-09-15T20:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 15, 2025 8:49 PM GMT
+
+Work done as part of my work with FAR AI, back in February 2023. It's a small result but I want to get it out of my drafts folder. It was the start of the research that led to interpreting the Sokoban planning RNN.
+I was trying to study neural networks that plan, in order to have examples of mesa-optimizers.
+I trained the recurrent maze CNN from Bansal et al. 2022 to solve 9x9 mazes, and applied it to a 33x33 maze. The architecture in their paper is a recurrent convolutional NN (R-CNN) that is regularized to be able to stop its computation at any iteration: during training, the NN runs for a random number of iterations before it is scored.
+The task is supervised learning with inputs and labels like the following. The loss is cross-entropy.
+Left:…]]></summary>
+        <author>
+            <name>Adrià Garriga-Alonso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Visual Guide to Tuning Gradient Boosted Trees]]></title>
+        <id>https://towardsdatascience.com/?p=607147</id>
+        <link href="https://towardsdatascience.com/a-visual-guide-to-tuning-gradient-boosted-trees/"/>
+        <updated>2025-09-15T18:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction My previous posts looked at the bog-standard decision tree and the wonder of a random forest. Now, to complete the triplet, I’ll visually explore gradient boosted trees! There are a bunch of gradient boosted tree libraries, including XGBoost, CatBoost, and LightGBM. However, for this I’m going to use sklearn’s one. Why? Simply because, compared […]
+The post A Visual Guide to Tuning Gradient Boosted Trees appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>James Gibbins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing the Coffee Machine Project in Python Using Object Oriented Programming]]></title>
+        <id>https://towardsdatascience.com/?p=607145</id>
+        <link href="https://towardsdatascience.com/implementing-the-coffee-machine-project-in-python-using-object-oriented-programming/"/>
+        <updated>2025-09-15T18:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Understanding classes, objects, attributes, and methods
+The post Implementing the Coffee Machine Project in Python Using Object Oriented Programming appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Only Need 3 Things to Turn AI Experiments into AI Advantage]]></title>
+        <id>https://towardsdatascience.com/?p=607143</id>
+        <link href="https://towardsdatascience.com/you-only-need-3-things-to-turn-ai-experiments-into-ai-advantage/"/>
+        <updated>2025-09-15T18:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Trapped in a purgatory of POCs enterprises need to focus and build just 3 pillars to realize value from AI
+The post You Only Need 3 Things to Turn AI Experiments into AI Advantage appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shreshth Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Access Qwen3-Next API for Free?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242852</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/access-qwen3-next-api-free/"/>
+        <updated>2025-09-15T17:43:57.000Z</updated>
+        <summary type="html"><![CDATA[AI models are getting smarter by the day – reasoning better, running faster, and handling longer contexts than ever before. The Qwen3-Next-80B-A3B takes this leap forward with efficient training patterns, a hybrid attention mechanism, and an ultra-sparse mixture of experts. Add stability-focused tweaks, and you get a model that’s quicker, more reliable, and stronger on benchmarks. In […]
+The post How to Access Qwen3-Next API for Free? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM AGI may reason about its goals and discover misalignments by default]]></title>
+        <id>4XdxiqBsLKqiJ9xRM</id>
+        <link href="https://www.alignmentforum.org/posts/4XdxiqBsLKqiJ9xRM/llm-agi-may-reason-about-its-goals-and-discover"/>
+        <updated>2025-09-15T14:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 15, 2025 2:58 PM GMT
+
+Epistemic status: These questions seem useful to me, but I'm biased. I'm interested in your thoughts on any portion you read. 
+If our first AGI is based on current LLMs and alignment strategies, is it likely to be adequately aligned? Opinions and intuitions vary widely. 
+As a lens to analyze this question, let's consider such a proto-AGI reasoning about its goals. This scenario raises questions that can be addressed empirically in current-gen models.
+1. Scenario/overview: 
+SuperClaude is super nice
+Anthropic has released a new Claude Agent, quickly nicknamed SuperClaude because it's impressively useful for longer tasks. SuperClaude thinks a lot in the course of solving complex problems with many moving parts. It's not brilliant, but it can crunc…]]></summary>
+        <author>
+            <name>Seth Herd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verlog: A Multi-turn RL framework for LLM agents]]></title>
+        <id>https://blog.ml.cmu.edu/?p=21235</id>
+        <link href="https://blog.ml.cmu.edu/2025/09/15/verlog-a-multi-turn-rl-framework-for-llm-agents/"/>
+        <updated>2025-09-15T14:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Verlog is a multi-turn reinforcement learning framework built for long-horizon LLM-agentic tasks with highly variable episode lengths. Extending VeRL and BALROG while following the proven design principles of pytorch-a2c-ppo-acktr-gail, it introduces specialized optimizations for stable and efficient training when episodes span from short interactions to hundreds of turns. While prior frameworks like VeRL and RAGEN effectively handle tasks with ~10 turns, and verl-agent scales up to 50 turns, Verlog is designed to operate in environments with over 400 turns, making it uniquely suited for complex, long-term decision-making. This capability has been validated across challenging domains such as BabyAI, BabaIsAI, and Crafter. In Crafter, for instance, episode lengths range from 70 to 400 steps with an average of about 190. On these challenging domains, Verlog consistently achieves strong performance out of the box. Key Features 🧠 Turn-Level Abstraction: To handle extremely long episodes, we treat each turn as an independent training sample. This eliminates the need to encode the entire trajectory into a single context window and allows for modular, customizable memory architectures. 🎯 Fixed-Turn Batching: To address the high variance in episode lengths across environments, we use fixed-turn batching. Each training batch contains a fixed number of turns. For incomplete […]]]></summary>
+        <author>
+            <name>Wen-Tse Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use Transformers with HuggingFace and SpaCy]]></title>
+        <id>https://towardsdatascience.com/?p=607140</id>
+        <link href="https://towardsdatascience.com/mastering-nlp-with-spacy-part-4/"/>
+        <updated>2025-09-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Mastering NLP with spaCy: Part 4 
+The post Learn How to Use Transformers with HuggingFace and SpaCy appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Marcello Politi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Machine Learning Engineer (Step-by-Step)]]></title>
+        <id>https://towardsdatascience.com/?p=607138</id>
+        <link href="https://towardsdatascience.com/dont-follow-generic-ml-engineer-roadmaps-do-this-instead-2/"/>
+        <updated>2025-09-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Your one-stop guide to becoming a machine learning engineer
+The post How to Become a Machine Learning Engineer (Step-by-Step) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Nano Banana Prompts to Convert Your Photos into Retro Images]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242781</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/"/>
+        <updated>2025-09-15T11:50:18.000Z</updated>
+        <summary type="html"><![CDATA[In this fast-paced life, we often reminisce about the era gone by. The golden days had their own, serene style of lifestyle and fashion that still, for the most part, beats what we have today. While we cannot go back in time as much as we wish to, AI tools today provide a unique way […]
+The post 12 Nano Banana Prompts to Convert Your Photos into Retro Images appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedream v4: Nano Banana Can’t Keep Up!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242790</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/seedream-v4-nano-banana-cant-keep-up/"/>
+        <updated>2025-09-15T11:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Seedream v4 is the latest image generation model from ByteDance, designed for high-quality, photorealistic results. It supports images up to 4K resolution, advanced editing, and reference-based generation, making it one of the most versatile image processing tools for AI-driven visual creation. Seedream v4 is not another academic paper you bookmark and forget. It’s an API […]
+The post Seedream v4: Nano Banana Can’t Keep Up! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing upgrades to Codex]]></title>
+        <id>https://openai.com/index/introducing-upgrades-to-codex</id>
+        <link href="https://openai.com/index/introducing-upgrades-to-codex"/>
+        <updated>2025-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 9.14.2025]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68c7da6265a4f37efec2bbb7</id>
+        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c"/>
+        <updated>2025-09-15T09:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How people are using ChatGPT]]></title>
+        <id>https://openai.com/index/how-people-are-using-chatgpt</id>
+        <link href="https://openai.com/index/how-people-are-using-chatgpt"/>
+        <updated>2025-09-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addendum to GPT-5 system card: GPT-5-Codex]]></title>
+        <id>https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex</id>
+        <link href="https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex"/>
+        <updated>2025-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Rise of Semantic Entity Resolution]]></title>
         <id>https://towardsdatascience.com/?p=607132</id>
@@ -48,6 +219,20 @@ The post Agentic system for Self-documenting code using LangGraph appeared first
 The post How to Create Videos Using Nano Banana + Veo 3? appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alignment as uploading with more steps]]></title>
+        <id>AzFxTMFfkTt4mhMKt</id>
+        <link href="https://www.alignmentforum.org/posts/AzFxTMFfkTt4mhMKt/alignment-as-uploading-with-more-steps"/>
+        <updated>2025-09-14T04:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 14, 2025 4:08 AM GMT
+
+Epistemic status: This post removes epicycles from ARAD, resulting in an alignment plan which I think is better - though not as original, since @michaelcohen  has advocated the same general direction (safety of imitation learning). However, the details of my suggested approach are substantially different. This post was inspired mainly by conversations with @abramdemski.
+Motivation and Overview
+Existence proof for alignment. Near-perfect alignment between agents of lesser and greater intelligence is in principle possible for some agents by the following existence proof: one could scan a human's brain and run a faster emulation (or copy) digitally. In some cases, the emulation may plausibly scheme against the original - for instance, if the origin…]]></summary>
+        <author>
+            <name>Cole Wyeth</name>
         </author>
     </entry>
     <entry>
@@ -3274,78 +3459,6 @@ The post Google Gen AI Python SDK: A Complete Guide appeared first on Analytics 
 The post Lightning-Fast Data Analysis: Building a Data Analyst AI agent using OpenAI Function Calling appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Riya Bansal.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Master AI in 2025?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241412</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/how-to-master-ai/"/>
-        <updated>2025-08-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The artificial intelligence revolution is no longer just on the horizon; it is here, disrupting industries and creating unique career opportunities. AI job postings increased by 56.1% in 2025, and individuals with AI skills are commanding an incredible 56% premium on wages, so there has never been a better time to learn and master AI! […]
-The post How to Master AI in 2025? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Soumil Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards data-centric interpretability with sparse autoencoders]]></title>
-        <id>a4EDinzAYtRwpNmx9</id>
-        <link href="https://www.alignmentforum.org/posts/a4EDinzAYtRwpNmx9/towards-data-centric-interpretability-with-sparse"/>
-        <updated>2025-08-15T20:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Published on August 15, 2025 8:10 PM GMT
-
-Nick and Lily are co-first authors on this project. Lewis and Neel jointly supervised this project.
-TL;DR
-
-We use sparse autoencoders (SAEs) for four textual data analysis
-tasks—data diffing, finding correlations, targeted clustering, and retrieval.
-We care especially about gaining insights from language model data, such as LLM outputs and training data, as we believe it is an underexplored route for model understanding.
-For instance, we find that Grok 4 is more careful than other frontier models to state its assumptions and explore nuanced interpretations—showing the kinds of insights data diffing can reveal by comparing model outputs.
-Why SAEs? Think of features as "tags" of properties for each text.
-Their large dictionary of latents provides a l…]]></summary>
-        <author>
-            <name>Nick Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating Deep Learning Models with Custom Loss Functions and Calibration Metrics]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241340</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/custom-loss-functions/"/>
-        <updated>2025-08-15T16:57:22.000Z</updated>
-        <summary type="html"><![CDATA[Evaluating Deep Learning models is an essential part of model lifecycle management. Whereas traditional models have excelled at providing quick benchmarks for model performance, they often fail to capture the nuanced goals of real-world applications. For instance, a fraud detection system might prioritize minimizing false negatives over false positives, while a medical diagnosis model might […]
-The post Evaluating Deep Learning Models with Custom Loss Functions and Calibration Metrics appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Reinforcement Learning in Natural Language Understanding]]></title>
-        <id>689f4b8b1694c0dba616a0d0</id>
-        <link href="https://www.freecodecamp.org/news/deep-reinforcement-learning-in-natural-language-understanding/"/>
-        <updated>2025-08-15T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Language is messy, subtle, and full of meaning that shifts with context. Teaching machines to truly understand it is one of the hardest problems in artificial intelligence. That challenge is what natural language understanding (NLU) sets out to solve...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Reinforcement Learning in Natural Language Understanding]]></title>
-        <id>689f4b8b1694c0dba616a0d0</id>
-        <link href="https://www.freecodecamp.org/news/deep-reinforcement-learning-in-natural-language-understanding/"/>
-        <updated>2025-08-15T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Language is messy, subtle, and full of meaning that shifts with context. Teaching machines to truly understand it is one of the hardest problems in artificial intelligence. That challenge is what natural language understanding (NLU) sets out to solve...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contra Dwarkesh on Continual Learning]]></title>
-        <id>https://www.interconnects.ai/p/contra-dwarkesh-on-continual-learning</id>
-        <link href="https://www.interconnects.ai/p/contra-dwarkesh-on-continual-learning"/>
-        <updated>2025-08-15T13:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Don't try to make your airplane too much like a bird.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
         </author>
     </entry>
 </feed>
