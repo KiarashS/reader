@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607170",
+          "author": "Thanh Liêm NGUYEN",
+          "description": "Applying causal inference to measure the effect of product unavailability on retail sales at Carrefour\nThe post Analysis of Sales Shift in Retail with Causal Impact: A Case Study at Carrefour appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/analysis-of-sales-shift-in-retail-with-causal-impact-a-case-study-at-carrefour/",
+          "publishedOn": "2025-09-17T19:24:55.000Z",
+          "wordCount": 4983,
+          "title": "Analysis of Sales Shift in Retail with Causal Impact: A Case Study at Carrefour",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/fahmi-huwaidy-tCn961-PWHA-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607168",
+          "author": "Maria Mouschoutzi",
+          "description": "Let's take a closer look at how the retrieval mechanism works\nThe post RAG Explained: Understanding Embeddings, Similarity, and Retrieval appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rag-explained-understanding-embeddings-similarity-and-retrieval/",
+          "publishedOn": "2025-09-17T19:17:06.000Z",
+          "wordCount": 4669,
+          "title": "RAG Explained: Understanding Embeddings, Similarity, and Retrieval",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/data-mining-2_hanna-barakat-aixdesign_archival-images-of-ai_3840x2668.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607166",
+          "author": "Alex Davis",
+          "description": "A guide to building and evaluating RAG solutions by leveraging LLM-as-a-Judge capabilities. \nThe post Evaluating Your RAG Solution appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/evaluating-your-rag-solution/",
+          "publishedOn": "2025-09-17T19:04:51.000Z",
+          "wordCount": 5670,
+          "title": "Evaluating Your RAG Solution",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/thumbnail-rag.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607163",
+          "author": "Stephanie Kirmer",
+          "description": "Experts debunk the biggest myths about trustworthy AI\nThe post Deploying AI Safely and Responsibly appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/deploying-ai-safely-and-responsibly/",
+          "publishedOn": "2025-09-17T14:00:00.000Z",
+          "wordCount": 5056,
+          "title": "Deploying AI Safely and Responsibly",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/picture-ieee-1.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607161",
+          "author": "Nikhil Dasari",
+          "description": "Understand how ROC curves and AUC help you go beyond accuracy with visuals and examples.\nThe post ROC AUC Explained: A Beginner’s Guide to Evaluating Classification Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/roc-auc-explained-a-beginners-guide-to-evaluating-classification-models/",
+          "publishedOn": "2025-09-17T12:30:00.000Z",
+          "wordCount": 4832,
+          "title": "ROC AUC Explained: A Beginner’s Guide to Evaluating Classification Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/roc-auc-blog-tds.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607158",
           "author": "Shruti Tiwari",
           "description": "How modular design can simplify and scale intent classification in enterprise AI systems\nThe post Building a Unified Intent Recognition Engine appeared first on Towards Data Science.",
@@ -1372,16 +1422,6 @@
           "wordCount": null,
           "title": "How to Diagnose Why Your Classification Model Fails",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21222",
-          "author": "Jayita Gulati",
-          "description": "NumPy is one of the most popular Python libraries for working with numbers and data.",
-          "link": "https://machinelearningmastery.com/7-numpy-tricks-you-didnt-know-you-needed/",
-          "publishedOn": "2025-08-18T12:00:49.000Z",
-          "wordCount": null,
-          "title": "7 NumPy Tricks You Didn’t Know You Needed",
-          "imageUrl": null
         }
       ]
     },
@@ -1515,26 +1555,6 @@
           "wordCount": 808,
           "title": "Generate Images with Claude and Hugging Face",
           "imageUrl": "https://huggingface.co/blog/assets/claude-and-mcp/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/kernel-builder",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/kernel-builder",
-          "publishedOn": "2025-08-18T00:00:00.000Z",
-          "wordCount": 3477,
-          "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
-          "imageUrl": "https://huggingface.co/blog/assets/kernel-builder/kernel-builder.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/mcp-for-research",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/mcp-for-research",
-          "publishedOn": "2025-08-18T00:00:00.000Z",
-          "wordCount": 829,
-          "title": "MCP for Research: How to Connect AI to Research Tools",
-          "imageUrl": "https://huggingface.co/blog/assets/mcp-for-research/thumbnail.png"
         }
       ]
     },
@@ -2139,16 +2159,6 @@
           "wordCount": 1847,
           "title": "Top 5 Tools for Medical Image Annotation",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/08/Feature-IMG-Top-5-Tools-for-Medical-Image-Annotation--scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=28144",
-          "author": "Sujana Urs",
-          "description": "In the world of medical AI, precision isn’t a luxury; it’s a necessity. Whether you’re training algorithms to detect anomalies\nThe post Top 5 Tools for Medical Data Annotation in AI Development appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/top-5-tools-for-medical-data-annotation-in-ai-development/",
-          "publishedOn": "2025-08-18T06:15:02.000Z",
-          "wordCount": 2158,
-          "title": "Top 5 Tools for Medical Data Annotation in AI Development",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/08/Feature-IMG-Top-5-Tools-for-Medical-Data-Annotation-in-AI-Development-scaled.jpg"
         }
       ]
     },
@@ -2157,6 +2167,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=243007",
+          "author": "Nitika Sharma",
+          "description": "The Hidden Risks Behind Nano Banana\nThe post Is it Safe to Use Nano Banana? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/is-it-safe-to-use-nano-banana/",
+          "publishedOn": "2025-09-17T17:32:58.000Z",
+          "wordCount": null,
+          "title": "Is it Safe to Use Nano Banana?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=242989",
+          "author": "Anu Madan",
+          "description": "What comes to mind when you hear “ChatGPT”? A digital assistant for drafting emails, summarizing reports, or writing code, or an AI friend to discuss your day-to-day dilemmas? Launched in November 2022, the platform reached one million users in just five days. Now, by July 2025, it had grown to over 700 million weekly active […]\nThe post 700 Million People Use ChatGPT Weekly: Here’s What They’re Doing With It! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/top-chatgpt-use-prompts/",
+          "publishedOn": "2025-09-17T13:40:52.000Z",
+          "wordCount": null,
+          "title": "700 Million People Use ChatGPT Weekly: Here’s What They’re Doing With It!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=243012",
+          "author": "Vipin Vashisth",
+          "description": "OpenAI has launched GPT-5 Codex, a variant of OpenAI’s latest AI model GPT-5, specialized in agentic coding. It comes as a unique offering, providing real-time assistance to programmers with the ability to autonomously perform long tasks. GPT-5 Codex will fix pre-existing bugs before deployment, complete exceptionally complicated refactoring, and integrate with anything from your cloud […]\nThe post I Tried GPT-5 Codex and Here is Why You Must Too! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/gpt-5-codex/",
+          "publishedOn": "2025-09-17T13:26:33.000Z",
+          "wordCount": null,
+          "title": "I Tried GPT-5 Codex and Here is Why You Must Too!",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=242971",
           "author": "Riya Bansal",
@@ -2827,28 +2870,6 @@
           "title": "How to Optimize Embeddings for Accurate Retrieval?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=241382",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Picture this: you open the Walmart app, point your phone at your half-empty fridge, and within seconds you get three dinner ideas, a ready-made shopping list, and one tap to reorder your favorite cereal. Sounds cool, right? Behind that simple moment sits a quiet revolution. Walmart has halted the development of small AI tools that […]\nThe post Walmart’s Four AI Super Agents: The Brains Behind Its Next Retail Revolution appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/08/ai-in-retail/",
-          "publishedOn": "2025-08-18T10:56:27.000Z",
-          "wordCount": null,
-          "title": "Walmart’s Four AI Super Agents: The Brains Behind Its Next Retail Revolution",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=241402",
-          "author": "Harsh Mishra",
-          "description": "Manual data entry from invoices is a slow, error-prone task that businesses have battled for decades. Recently, Uber Engineering revealed how they tackled this challenge with their “TextSense” platform, a sophisticated system for GenAI invoice processing. This system showcases the power of intelligent document processing, combining Optical Character Recognition (OCR) with Large Language Models (LLMs) […]\nThe post How to Replicate Uber’s Invoice Processing System? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/08/genai-invoice-processing/",
-          "publishedOn": "2025-08-18T05:02:00.000Z",
-          "wordCount": null,
-          "title": "How to Replicate Uber’s Invoice Processing System?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2893,6 +2914,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+          "author": null,
+          "description": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
+          "link": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+          "publishedOn": "2025-09-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Detecting and reducing scheming in AI models",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-stargate-uk",
           "author": null,
@@ -3162,16 +3193,6 @@
           "wordCount": null,
           "title": "Mixi reimagines communication with ChatGPT",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/doordash-mariana-garavaglia",
-          "author": null,
-          "description": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
-          "link": "https://openai.com/index/doordash-mariana-garavaglia",
-          "publishedOn": "2025-08-18T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Q&A with DoorDash’s CPO, Mariana Garavaglia",
-          "imageUrl": null
         }
       ]
     },
@@ -3211,22 +3232,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/326e820c-0582-4c44-ade1-321942cae761_2400x1350.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/chinas-top-19-open-model-labs",
-          "author": "Nathan Lambert",
-          "description": "From the obvious names to those to keep an eye on.",
-          "link": "https://www.interconnects.ai/p/chinas-top-19-open-model-labs",
-          "publishedOn": "2025-08-17T15:38:01.000Z",
-          "wordCount": null,
-          "title": "Ranking the Chinese Open Model Builders",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!y86L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aff76bf-bd04-46b7-89e0-ddbb0e198aa7_1326x812.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!y86L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aff76bf-bd04-46b7-89e0-ddbb0e198aa7_1326x812.png"
         }
       ]
     },
@@ -3235,6 +3240,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "JmRfgNYCrYogCq7ny",
+          "author": "Mikita Balesni",
+          "description": "Published on September 17, 2025 4:59 PM GMT\n\nTwitter | Microsite | Apollo Blog | OpenAI Blog | Full paper\nBefore we observe scheming, where models covertly pursue long-term misaligned goals, models might inconsistently engage in various covert behaviors such as lying, sabotage, or sandbagging. This can happen for goals we give to models or they infer from context, or for simple preferences they acquire from training — something we previously found in Frontier Models Are Capable of In-Context Scheming.\nIn a new research collaboration with OpenAI, we developed a larger suite of alignment evaluations for covert actions (26 evaluations) and studied a training method to reduce such covert behaviors. We manage to significantly reduce (by ~30x; OpenAI o3: 13.0%→0.4%; OpenAI o4-mini: 8.7%→0.3%) th…",
+          "link": "https://www.alignmentforum.org/posts/JmRfgNYCrYogCq7ny/stress-testing-deliberative-alignment-for-anti-scheming",
+          "publishedOn": "2025-09-17T16:59:12.000Z",
+          "wordCount": 6439,
+          "title": "Stress Testing Deliberative Alignment for Anti-Scheming Training",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "7rYphMipLtiEXArPf",
           "author": "Gustavs Zilgalvis",
