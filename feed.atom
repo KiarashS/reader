@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-20T01:11:21.816Z</updated>
+    <updated>2025-09-21T01:17:33.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building LLM Apps That Can See, Think, and Integrate: Using o3 with Multimodal Input and Structured Output]]></title>
+        <id>https://towardsdatascience.com/?p=607198</id>
+        <link href="https://towardsdatascience.com/building-llm-apps-that-can-see-think-and-integrate-using-o3-with-multimodal-input-and-structured-output/"/>
+        <updated>2025-09-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on example of building a time-series anomaly detection system entirely through visualization and prompting
+The post Building LLM Apps That Can See, Think, and Integrate: Using o3 with Multimodal Input and Structured Output appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SyncNet Research Paper, Clearly Explained]]></title>
+        <id>https://towardsdatascience.com/?p=607194</id>
+        <link href="https://towardsdatascience.com/syncnet-paper-easily-explained/"/>
+        <updated>2025-09-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Deep Dive into "Out of Time: Automated Lip Sync in the Wild"
+The post The SyncNet Research Paper, Clearly Explained appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aman Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiently Updating LLM Weights: A Deep Dive into MoonshotAI’s Checkpoint-Engine]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242773</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/checkpoint-engine/"/>
+        <updated>2025-09-20T13:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Imagine trying to renovate the foundation of a towering skyscraper without asking its occupants to leave or pause their work. That’s exactly what MoonshotAI’s Checkpoint Engine does for AI models. It allows massive language models to update their brains, the weights, while still running, so there’s no downtime. This breakthrough lets developers improve their AI […]
+The post Efficiently Updating LLM Weights: A Deep Dive into MoonshotAI’s Checkpoint-Engine appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploying a PICO Extractor in Five Steps]]></title>
         <id>https://towardsdatascience.com/?p=607186</id>
@@ -3382,59 +3415,6 @@ The post Coauthor roundtable: Reflecting on healthcare economics, biomedical res
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a RAG Using Qwen3?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241562</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/rag-using-qwen3/"/>
-        <updated>2025-08-21T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Two new Qwen models came out recently – the Qwen3-4B-Instruct-2507 and Qwen3-4B-Thinking-2507. Both Qwen3 models have a good context length of 256K, and knowing this, I thought to myself, “Why not make a RAG to make good use of the context length?”. It’s worth mentioning that the Qwen3 family has a large variety of models […]
-The post How to Build a RAG Using Qwen3? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Pandas Tricks to Improve Your Machine Learning Model Development]]></title>
-        <id>https://machinelearningmastery.com/?p=21337</id>
-        <link href="https://machinelearningmastery.com/7-pandas-tricks-to-improve-your-machine-learning-model-development/"/>
-        <updated>2025-08-21T12:00:17.000Z</updated>
-        <summary type="html"><![CDATA[If you're reading this, it's likely that you are already aware that the performance of a machine learning model is not just a function of the chosen algorithm.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek V3.1: Quiet Release, Big Statement]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241664</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/deepseek-v3-1-quiet-release-big-statement/"/>
-        <updated>2025-08-21T10:07:21.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek V3.1 didn’t arrive with flashy press releases or a massive campaign. It just showed up on Hugging Face, and within hours, people noticed. With 685 billion parameters and a context window that can stretch to 128k tokens, it’s not just an incremental update. It feels like a major moment for open-source AI. This article […]
-The post DeepSeek V3.1: Quiet Release, Big Statement appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling domain expertise in complex, regulated domains]]></title>
-        <id>https://openai.com/index/blue-j</id>
-        <link href="https://openai.com/index/blue-j"/>
-        <updated>2025-08-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-cited tax answers—trusted by professionals across the US, Canada, and the UK.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using SQL PIVOT Operator to Handle Large Data Easily]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241610</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/sql-pivot-operator/"/>
-        <updated>2025-08-21T05:39:48.000Z</updated>
-        <summary type="html"><![CDATA[In business intelligence and analytics, the initial source of data is rarely ideal for decision-making. The manager or analyst receives a long list of transactions that can easily confuse anyone and be cumbersome to interpret. The final output of a long list of transactions, typically, is summarized to convey trends/ patterns/ performance indicators. This is […]
-The post Using SQL PIVOT Operator to Handle Large Data Easily appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Being honest with AIs]]></title>
         <id>uuikfACQBm4KJZp4w</id>
         <link href="https://www.alignmentforum.org/posts/uuikfACQBm4KJZp4w/being-honest-with-ais"/>
@@ -3449,93 +3429,6 @@ To facilitate this kind of cooperation, I would like us to be able to credibly n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About the New Power BI Storage Mode]]></title>
-        <id>https://towardsdatascience.com/?p=606912</id>
-        <link href="https://towardsdatascience.com/50-shades-of-direct-lake-everything-you-need-to-know-about-the-new-power-bi-storage-mode/"/>
-        <updated>2025-08-21T03:05:27.000Z</updated>
-        <summary type="html"><![CDATA[50 Shades of Direct Lake
-The post Everything You Need to Know About the New Power BI Storage Mode appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents for Supply Chain Optimisation: Production Planning]]></title>
-        <id>https://towardsdatascience.com/?p=606910</id>
-        <link href="https://towardsdatascience.com/ai-agents-for-supply-chain-optimisation-production-planning/"/>
-        <updated>2025-08-21T02:38:00.000Z</updated>
-        <summary type="html"><![CDATA[How to integrate an optimisation algorithm in a FastAPI microservice and connect it with an AI workflow to automate production planning.
-The post AI Agents for Supply Chain Optimisation: Production Planning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Samir Saci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Most Valuable Lesson as an Aspiring Data Analyst]]></title>
-        <id>https://towardsdatascience.com/?p=606908</id>
-        <link href="https://towardsdatascience.com/my-most-valuable-lesson-as-an-aspiring-data-analyst/"/>
-        <updated>2025-08-20T19:42:44.000Z</updated>
-        <summary type="html"><![CDATA[What my internship taught me about the power of collaboration in data analysis.
-The post My Most Valuable Lesson as an Aspiring Data Analyst appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarter Model Tuning: An AI Agent with LangGraph + Streamlit That Boosts ML Performance]]></title>
-        <id>https://towardsdatascience.com/?p=606906</id>
-        <link href="https://towardsdatascience.com/smarter-model-tuning-an-ai-agent-with-langgraph-streamlit-that-boosts-ml-performance/"/>
-        <updated>2025-08-20T19:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Automating model tuning in Python with Gemini, LangGraph, and Streamlit for regression and classification improvements
-The post Smarter Model Tuning: An AI Agent with LangGraph + Streamlit That Boosts ML Performance appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gustavo Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Hack Summit 2025 Day 1: India’s Most Futuristic Event is Now Live!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241544</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/dhs-day-1/"/>
-        <updated>2025-08-20T19:11:03.000Z</updated>
-        <summary type="html"><![CDATA[India’s most futuristic event kick-started today, as the curtains rose on DataHack Summit (DHS) 2025. With over 80 distinguished guest speakers and around 1000 attendees gathered under one roof, Day 1 set the stage for a one-of-a-kind journey into the evolving world of AI, data, and machine learning. More than just an “event,” it was […]
-The post Data Hack Summit 2025 Day 1: India’s Most Futuristic Event is Now Live! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Where’s Marta?”: How We Removed Uncertainty From AI Reasoning]]></title>
-        <id>https://towardsdatascience.com/?p=606903</id>
-        <link href="https://towardsdatascience.com/interactive-proofs-with-claude/"/>
-        <updated>2025-08-20T18:58:28.000Z</updated>
-        <summary type="html"><![CDATA[A primer on overcoming LLM limitations with formal verification.
-The post “Where’s Marta?”: How We Removed Uncertainty From AI Reasoning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jacopo Tagliabue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Upstream Mentality: Why AI/ML Engineers Must Think Beyond the Model]]></title>
-        <id>https://towardsdatascience.com/?p=606899</id>
-        <link href="https://towardsdatascience.com/the-upstream-mentality-why-ai-ml-engineers-must-think-beyond-the-model/"/>
-        <updated>2025-08-20T18:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Your 3am production alert isn't a model problem—it's an upstream crisis in disguise
-The post The Upstream Mentality: Why AI/ML Engineers Must Think Beyond the Model appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Yuval Gorchover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixi reimagines communication with ChatGPT]]></title>
-        <id>https://openai.com/index/mixi</id>
-        <link href="https://openai.com/index/mixi"/>
-        <updated>2025-08-20T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My AGI timeline updates from GPT-5 (and 2025 so far)]]></title>
         <id>2ssPfDpdrjaM2rMbn</id>
         <link href="https://www.alignmentforum.org/posts/2ssPfDpdrjaM2rMbn/my-agi-timeline-updates-from-gpt-5-and-2025-so-far-1"/>
@@ -3546,17 +3439,6 @@ As I discussed in a prior post, I felt like there were some reasonably compellin
 …]]></summary>
         <author>
             <name>Ryan Greenblatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1147961</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/mindjourney-enables-ai-to-explore-simulated-3d-worlds-to-improve-spatial-interpretation/"/>
-        <updated>2025-08-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MindJourney can enable AI to navigate and interpret 3D environments from limited visual input, potentially improving performance in navigation, planning, and safety-critical tasks.
-The post MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Yuncong Yang, Reuben Tan, Swadheen Shukla, Jianfeng Gao</name>
         </author>
     </entry>
 </feed>
