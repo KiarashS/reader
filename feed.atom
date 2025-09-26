@@ -2,10 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-25T01:14:22.637Z</updated>
+    <updated>2025-09-26T01:14:09.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Synthesizing Standalone World-Models, Part 3: Dataset-Assembly]]></title>
+        <id>eQX93nxapSdxQYdkL</id>
+        <link href="https://www.alignmentforum.org/posts/eQX93nxapSdxQYdkL/synthesizing-standalone-world-models-part-3-dataset-assembly"/>
+        <updated>2025-09-25T19:21:37.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 25, 2025 7:21 PM GMT
+
+This is part of a series covering my current research agenda. Refer to the linked post for additional context.
+This is going to be a very short part. As I'd mentioned in the initial post, I've not yet done much work on this subproblem.
+ 
+
+From Part 1, we more or less know how to learn the abstractions given the set of variables over which they're defined. We know their type signature and the hierarchical structure they assemble into, so we can just cast it as a machine-learning problem (assuming a number of practical issues is solved). For clarity, let's dub this problem "abstraction-learning".
+From Part 2, we more or less know how to deal with shifting/resampled structures. While the presence of specific abstractions doesn't uniquely lock down …]]></summary>
+        <author>
+            <name>Thane Ruthenis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDS Newsletter: To Better Understand AI, Look Under the Hood]]></title>
+        <id>https://towardsdatascience.com/?p=607276</id>
+        <link href="https://towardsdatascience.com/tds-newsletter-to-better-understand-ai-look-under-the-hood/"/>
+        <updated>2025-09-25T19:19:06.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered tools tend to generate extreme reactions: on one side we have the “It’s magic!” and “best thing ever!” crowd. On the other, we find the “we’re doomed!” camp. These aren’t static or monolithic groups, of course. You might even find yourself on both ends of the spectrum — in the span of a single day.  […]
+The post TDS Newsletter: To Better Understand AI, Look Under the Hood appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on LLM Evaluation]]></title>
+        <id>https://towardsdatascience.com/?p=607270</id>
+        <link href="https://towardsdatascience.com/notes-on-llm-evaluation/"/>
+        <updated>2025-09-25T16:55:50.000Z</updated>
+        <summary type="html"><![CDATA[A practical, step-by-step guide to building an evaluation pipeline for a real-world AI application
+The post Notes on LLM Evaluation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Felipe Adachi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best Laptops for AI Engineers and Developers]]></title>
+        <id>https://www.analyticsvidhya.com/?p=243525</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/laptops-for-ai-engineers-and-developers/"/>
+        <updated>2025-09-25T13:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Looking to buy the best laptop to get into software development? You would’ve realized by now how hard it is to stay up to date with the latest hardware and the ever-increasing application requirements. This article is here to elucidate that for you, by listing the best laptops that the market has to offer for […]
+The post 5 Best Laptops for AI Engineers and Developers appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2]]></title>
+        <id>https://towardsdatascience.com/?p=607263</id>
+        <link href="https://towardsdatascience.com/building-a-video-game-recommender-system-with-fastapi-postgresql-and-render-part-2/"/>
+        <updated>2025-09-25T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Deploying a FastAPI + PostgreSQL recommender system as a web application on Render
+The post Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Lucas See</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1]]></title>
+        <id>https://towardsdatascience.com/?p=607261</id>
+        <link href="https://towardsdatascience.com/building-video-game-recommender-systems-with-fastapi-postgresql-and-render-part-1/"/>
+        <updated>2025-09-25T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing a video game recommendations service with Steams API
+The post Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Lucas See</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More ways to work with your team and tools in ChatGPT]]></title>
+        <id>https://openai.com/index/more-ways-to-work-with-your-team</id>
+        <link href="https://openai.com/index/more-ways-to-work-with-your-team"/>
+        <updated>2025-09-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the performance of our models on real-world tasks]]></title>
+        <id>https://openai.com/index/gdpval</id>
+        <link href="https://openai.com/index/gdpval"/>
+        <updated>2025-09-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepCode: This FREE Agentic AI Coder is INSANE!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=242062</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/deepcode/"/>
+        <updated>2025-09-25T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine this scenario: you’ve just read a brilliant research paper with a cutting-edge algorithm, but it will take you weeks of boring code development to implement the research, or maybe you’ve thought of a brilliant web app but have not developed the frontend skills necessary to create it. What if I told you that there […]
+The post DeepCode: This FREE Agentic AI Coder is INSANE! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You]]></title>
+        <id>https://www.analyticsvidhya.com/?p=243418</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/09/agent-payments-protocol-ap2/"/>
+        <updated>2025-09-25T02:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has recently introduced a new open standard for its online payments with the Agent Payments Protocol (AP2). AP2 is a long-awaited initiative that enables AI-assisted secure payments for users. AP2 builds on the existing agent communication protocols of Agent2Agent (A2A) and Model Context (MCP) to produce a transaction-agnostic layer. In short, AP2 is a […]
+The post Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing ChatGPT Pulse]]></title>
+        <id>https://openai.com/index/introducing-chatgpt-pulse</id>
+        <link href="https://openai.com/index/introducing-chatgpt-pulse"/>
+        <updated>2025-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decoding Nonlinear Signals In Large Observational Datasets]]></title>
         <id>https://towardsdatascience.com/?p=607259</id>
@@ -116,6 +240,29 @@ The post Introducing the AI-3P Assessment Framework: Score AI Projects Before Co
 The post Generating Consistent Imagery with Gemini appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Laurent Picard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draconian measures can increase the risk of irrevocable catastrophe]]></title>
+        <id>xSxdtEAnum56e8dqH</id>
+        <link href="https://www.alignmentforum.org/posts/xSxdtEAnum56e8dqH/draconian-measures-can-increase-the-risk-of-irrevocable-1"/>
+        <updated>2025-09-23T21:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Published on September 23, 2025 9:40 PM GMT
+
+I frequently see arguments of this form:
+
+We have two choices:
+
+accept the current rate of AI progress and a very large risk[1] of existential catastrophe,
+or
+
+slow things down, greatly reducing the risk of existential catastrophe, in exchange for a cosmically irrelevant delay in reaping the benefits of AI.
+
+(Examples here[2] and here, among many others.)
+But whether this is true depends on what mechanism is used to slow things down.
+Some are proposing a regime of control over the world’s compute supply which we would all recognize as draconian in any other context. Whoever is in charge of that regime would necessarily possess great power, both because of the required severity of the control mechanisms and because of the importance of the resour…]]></summary>
+        <author>
+            <name>David Schneider-Joseph</name>
         </author>
     </entry>
     <entry>
@@ -3403,198 +3550,6 @@ The post Using Google’s LangExtract and Gemma for Structured Data Extraction a
 The post Positional Embeddings in Transformers: A Math Guide to RoPE & ALiBi appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sathya Krishnan Suresh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s URL Context Grounding: Another Nail in RAG’s Coffin?]]></title>
-        <id>https://towardsdatascience.com/?p=606956</id>
-        <link href="https://towardsdatascience.com/googles-url-context-grounding-another-nail-in-rags-coffin/"/>
-        <updated>2025-08-26T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s hot streak in AI-related releases continues unabated. Just a few days ago, it released a new tool for Gemini called URL context grounding.  URL context grounding can be used stand-alone or combined with Google search grounding to conduct deep dives into internet content. What is URL context grounding? In a nutshell, it’s a way […]
-The post Google’s URL Context Grounding: Another Nail in RAG’s Coffin? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnomalyCLIP : Harnessing CLIP for Weakly-Supervised Video Anomaly Recognition]]></title>
-        <id>https://learnopencv.com/?p=74934</id>
-        <link href="https://learnopencv.com/anomalyclip-video-anomaly-recognition/"/>
-        <updated>2025-08-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Video Anomaly Detection (VAD) is one of the most challenging problems in computer vision. It involves identifying rare, abnormal events in videos – such as burglary, fighting, or accidents – amidst overwhelmingly normal footage. Traditional methods either rely on expensive frame-level annotations, unsupervised heuristics, or one-class classification using only normal data. But VAD alone is […]
-AnomalyCLIP : Harnessing CLIP for Weakly-Supervised Video Anomaly Recognition first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Shubham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Useful NumPy One-Liners for Time Series Analysis]]></title>
-        <id>https://machinelearningmastery.com/?p=21449</id>
-        <link href="https://machinelearningmastery.com/10-useful-numpy-one-liners-for-time-series-analysis/"/>
-        <updated>2025-08-26T12:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Working with time series data often means wrestling with the same patterns over and over: calculating moving averages, detecting spikes, creating features for forecasting models.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collective alignment: public input on our Model Spec]]></title>
-        <id>https://openai.com/index/collective-alignment-aug-2025-updates</id>
-        <link href="https://openai.com/index/collective-alignment-aug-2025-updates"/>
-        <updated>2025-08-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping people when they need it most]]></title>
-        <id>https://openai.com/index/helping-people-when-they-need-it-most</id>
-        <link href="https://openai.com/index/helping-people-when-they-need-it-most"/>
-        <updated>2025-08-26T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Paper on Reflective Oracles & Grain of Truth Problem]]></title>
-        <id>PuGxDb27xhRPBPbiv</id>
-        <link href="https://www.alignmentforum.org/posts/PuGxDb27xhRPBPbiv/new-paper-on-reflective-oracles-and-grain-of-truth-problem"/>
-        <updated>2025-08-26T00:18:35.000Z</updated>
-        <summary type="html"><![CDATA[Published on August 26, 2025 12:18 AM GMT
-
-This is a linkpost for https://www.arxiv.org/pdf/2508.16245
-With Marcus Hutter, Jan Leike (@janleike), and Jessica Taylor (@jessicata) , I have revisited Leike et al.'s paper "A Formal Solution to the Grain of Truth Problem" (AFSGOTP) which studies games between reflective AIXI agents and... further formalized it. 
-The result is "Limit-Computable Grains of Truth for Arbitrary Computable Extensive-Form (Un)Known Games" (LCGOTACEFUG) which perhaps could have been called "A Formal Formal Solution to the Grain of Truth Problem." Our new paper has some new results, including:
-
- An application to Self-AIXI which suggests an embedded version of AIXI. Since we have had these results unpublished for awhile, I have been implicitly leaning on these ideas for e.g. coming up with AEDT w.r.t. rOSI.  
-Reflective oracles with non-binary alphabets and explicit types for symbols 
-
-...but mostly we just expand on various definitions and algorithms that were previously left implicit in AFSGOTP. Basically, our new paper LCGOTACEFUG  is a "journal version" of AFSGOTP. Except it is not published in a journal yet, because peer review is slow.
-Who should read this?
-
-Anyone interested in reflective oracles and particularly reflective AIXI, who has not yet read previous works such as AFSGOTP, should probably just read our paper LCGOTACEFUG. It is more complete and hopefully the most legible introduction to the topic.
-Anyone who is actively doing research on reflective versions of AIXI
-
-Discuss]]></summary>
-        <author>
-            <name>Cole Wyeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Monitoring and Observability: Hands-on with Langfuse]]></title>
-        <id>https://towardsdatascience.com/?p=606944</id>
-        <link href="https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/"/>
-        <updated>2025-08-25T22:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Learn the fundamentals of LLM monitoring and observability, from tracing to evaluation and setting up a dashboard using Langfuse
-The post LLM Monitoring and Observability: Hands-on with Langfuse appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ahmad Talal Riaz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VibeVoice - Next-Token Diffusion Meets Long-Form Speech Generation]]></title>
-        <id>https://erogol.com/2025/08/26/vibevoice-next-token-diffusion-meets-long-form-speech-generation</id>
-        <link href="https://erogol.com/2025/08/26/vibevoice-next-token-diffusion-meets-long-form-speech-generation"/>
-        <updated>2025-08-25T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VibeVoice: Next-Token Diffusion Meets Long-Form Speech Generation
-TL;DR for the Busy Reader:
-VibeVoice generates up to 90 minutes of multi-speaker conversational audio using next-token diffusion
-Introduces ultra-efficient speech tokenizers operating at 7.5 Hz (3200× compression vs. 24kHz audio)
-Combines Qwen2.5 language models with token-level diffusion heads for streaming synthesis
-Outperforms commercial systems like Gemini 2.5 Pro TTS and ElevenLabs V3 in subjective evaluations
-Achieves real-time generation with ~160ms time-to-first-audio latency
-Available as open-source 1.5B parameter model (7B model results reported but not yet released)
-The landscape of text-to-speech synthesis has been dominated by a persistent trade-off: generate short, high-quality utterances, or attempt longer seq…]]></summary>
-        <author>
-            <name>Machine Learns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Prompts Don’t Belong in Git]]></title>
-        <id>https://towardsdatascience.com/?p=606942</id>
-        <link href="https://towardsdatascience.com/why-your-prompts-dont-belong-in-git/"/>
-        <updated>2025-08-25T21:16:56.000Z</updated>
-        <summary type="html"><![CDATA[The hidden cost of storing prompts in your source code
-The post Why Your Prompts Don’t Belong in Git appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Giorgos Myrianthous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Benchmark Classical Machine Learning Workloads on Google Cloud]]></title>
-        <id>https://towardsdatascience.com/?p=606929</id>
-        <link href="https://towardsdatascience.com/benchmarking-classical-machine-learning-workloads-on-google-cloud/"/>
-        <updated>2025-08-25T20:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Harnessing CPUs for Practical, Cost-Effective Machine Learning
-The post How to Benchmark Classical Machine Learning Workloads on Google Cloud appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ehssan Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Science Must Embrace Co-Creation with Generative AI to Break Current Research Barriers]]></title>
-        <id>https://towardsdatascience.com/?p=606940</id>
-        <link href="https://towardsdatascience.com/why-science-must-embrace-co-creation-with-generative-ai-to-break-current-research-barriers/"/>
-        <updated>2025-08-25T18:06:36.000Z</updated>
-        <summary type="html"><![CDATA[An Open Letter to the Scientific Community
-The post Why Science Must Embrace Co-Creation with Generative AI to Break Current Research Barriers appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ugo Pradère</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI Systems: Why Static Workflows Are Becoming Obsolete?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241520</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/agentic-ai-systems/"/>
-        <updated>2025-08-25T17:42:16.000Z</updated>
-        <summary type="html"><![CDATA[In a world shaped by rapidly growing technology, businesses and developers are continually seeking smarter solutions that enhance productivity, personalization, and frictionless experiences. The influx of new agentic AI systems is reshaping how work is done and how tasks are organized and completed. Static workflows, formerly the heart of automation, are being replaced by agentic […]
-The post Agentic AI Systems: Why Static Workflows Are Becoming Obsolete? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Soumil Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash Course to Crack Machine Learning Interview – Part 1: Bias vs Variance]]></title>
-        <id>https://www.analyticsvidhya.com/?p=241744</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/08/bias-variance-tradeoff/"/>
-        <updated>2025-08-25T17:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Preparing for machine learning interviews? One of the most fundamental concepts you’ll encounter is the bias-variance tradeoff. This isn’t just theoretical knowledge – it’s the cornerstone of understanding why models succeed or fail in real-world applications. Whether you’re interviewing at Google, Netflix, or a startup, mastering this concept will help you stand out from other […]
-The post Crash Course to Crack Machine Learning Interview – Part 1: Bias vs Variance appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Karun Thankachan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic LLM Prompt Engineering Using DSPy Optimization]]></title>
-        <id>https://towardsdatascience.com/?p=606936</id>
-        <link href="https://towardsdatascience.com/systematic-llm-prompt-engineering-using-dspy-optimization/"/>
-        <updated>2025-08-25T16:46:24.000Z</updated>
-        <summary type="html"><![CDATA[This article is a journey into the fascinating and rapidly evolving science of LLM prompt iteration, which is a fundamental part of Large Language Model Operations (LLMOPs). We’ll use the example of generating customer service responses with a real-world dataset to show how both generator and LLM-judge prompts can be developed in a systematic fashion […]
-The post Systematic LLM Prompt Engineering Using DSPy Optimization appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Robert Martin-Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logistic vs SVM vs Random Forest: Which One Wins for Small Datasets?]]></title>
-        <id>https://machinelearningmastery.com/?p=21329</id>
-        <link href="https://machinelearningmastery.com/logistic-vs-svm-vs-random-forest-which-one-wins-for-small-datasets/"/>
-        <updated>2025-08-25T13:59:25.000Z</updated>
-        <summary type="html"><![CDATA[When you have a small dataset, choosing the right machine learning model can make a big difference.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bag of Words Works – The Foundation of Language Models]]></title>
-        <id>68ac62884c5ca5b261e8abc3</id>
-        <link href="https://www.freecodecamp.org/news/how-bag-of-words-works/"/>
-        <updated>2025-08-25T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
