@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607304",
+          "author": "Nikhil Dasari",
+          "description": "Understanding Gini and Lorenz curves for smarter model evaluation\nThe post Beyond ROC-AUC and KS: The Gini Coefficient, Explained Simply appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-roc-auc-and-ks-gini-coefficient-explained-simply/",
+          "publishedOn": "2025-09-30T15:30:00.000Z",
+          "wordCount": 4405,
+          "title": "Beyond ROC-AUC and KS: The Gini Coefficient, Explained Simply",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/gini-blog-edited.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607268",
+          "author": "TDS Editors",
+          "description": "Jarom Hulet on mastering fundamentals, hiring well, and deciding what to write about next\nThe post Actual Intelligence in the Age of AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/actual-intelligence-in-the-age-of-ai/",
+          "publishedOn": "2025-09-30T14:29:30.000Z",
+          "wordCount": 4793,
+          "title": "Actual Intelligence in the Age of AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/Jarom-Hulet-1024x576.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607302",
+          "author": "Eivind Kjosbakken",
+          "description": "Create AI workflows with agentic frameworks\nThe post How to Build Effective Agentic Systems with LangGraph appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-effective-agentic-systems-with-langgraph/",
+          "publishedOn": "2025-09-30T14:00:00.000Z",
+          "wordCount": 5128,
+          "title": "How to Build Effective Agentic Systems with LangGraph",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/image-419.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607301",
+          "author": "Pascal Janetzky",
+          "description": "September 2025: library or self-made, Ditto and Launchbar, reading widely and deeply\nThe post The Machine Learning Lessons I’ve Learned This Month appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month/",
+          "publishedOn": "2025-09-30T12:30:00.000Z",
+          "wordCount": 4059,
+          "title": "The Machine Learning Lessons I’ve Learned This Month",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/rajav-shrestha-r-1Jo9UXSvY-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607298",
           "author": "Jamie Petherbridge-Conroy",
           "description": "A guide to fast video data preprocessing for machine learning\nThe post Preparing Video Data for Deep Learning: Introducing Vid Prepper appeared first on Towards Data Science.",
@@ -1095,26 +1135,6 @@
           "wordCount": null,
           "title": "The Machine Learning Lessons I’ve Learned This Month",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607003",
-          "author": "Tigran Hayrapetyan",
-          "description": "The physical meaning of matrix inversion, related formulas, and how inversion behaves on several special types of matrices.\nThe post Understanding Matrices | Part 4: Matrix Inverse appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/understanding-matrices-part-4-matrix-inverse/",
-          "publishedOn": "2025-08-30T16:00:00.000Z",
-          "wordCount": 6731,
-          "title": "Understanding Matrices | Part 4: Matrix Inverse",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/Artboard-4-copy-3@4x-scaled-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=606997",
-          "author": "Deepak Krishnamurthy",
-          "description": "How to build a fully functional, hands-free voice assistant on a Raspberry Pi\nThe post Crafting a Custom Voice Assistant with Perplexity appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/crafting-a-custom-voice-assistant-with-perplexity/",
-          "publishedOn": "2025-08-30T14:00:00.000Z",
-          "wordCount": 4609,
-          "title": "Crafting a Custom Voice Assistant with Perplexity",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/08/0RjCTNjblsY5DrOgS.webp"
         }
       ]
     },
@@ -1123,6 +1143,16 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=21665",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Usually shrouded in mystery at first glance, Python decorators are, at their core, functions wrapped around other functions to provide extra functionality without altering the key logic in the function being \"decorated\".",
+          "link": "https://machinelearningmastery.com/7-python-decorator-tricks-to-write-cleaner-code/",
+          "publishedOn": "2025-09-29T13:19:14.000Z",
+          "wordCount": null,
+          "title": "7 Python Decorator Tricks to Write Cleaner Code",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=21871",
           "author": "Matthew Mayo",
@@ -1843,6 +1873,16 @@
       "siteUrl": "/atom.xml",
       "articles": [
         {
+          "id": "https://erogol.com/2025/09/30/model-check-deepseek-v3-2-exp-fine-grained-sparse-attention-for-efficient-long-context-llms",
+          "author": null,
+          "description": "Efficient large language models have driven various architectural innovations—from mixture-of-experts to quantization techniques. Attention mechanisms remain the core computational bottleneck in transformers, and optimization typically degrades output quality. Most sparse attention approaches make coarse-grained trade-offs, sacrificing model capability for speed. DeepSeek-V3.2-Exp uses a fine-grained sparse attention mechanism that maintains output quality while reducing computational costs.\nThe Core Innovation\nDeepSeek-V3.2-Exp introduces DeepSeek Sparse Attention (DSA)—an approach that achieves fine-grained sparsity patterns in attention computation without the typical quality degradation seen in traditional sparse attention methods.\nUnlike previous sparse attention techniques that use f…",
+          "link": "https://erogol.com/2025/09/30/model-check-deepseek-v3-2-exp-fine-grained-sparse-attention-for-efficient-long-context-llms",
+          "publishedOn": "2025-09-29T22:00:00.000Z",
+          "wordCount": 1164,
+          "title": "Model check - DeepSeek-V3.2-Exp - Fine-Grained Sparse Attention for Efficient Long-Context LLMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://erogol.com/2025/09/23/mimo-audio-scaling-speech-pre-training-to-100-million-hours-unlocks-few-shot-learning",
           "author": null,
           "description": "MiMo-Audio is Xiaomi’s 7B parameter model that processes speech and text through a unified architecture. Trained on 100+ million hours of audio data—10x larger than existing open-source models— that results in emergent capabilities like voice conversion, speech translation, and cross-modal reasoning through few-shot learning, demonstrating speech scaling laws similar to text language models.\nTL;DR:\nScale Unlocks Emergent Abilities: 100M+ hours (10x larger than existing models) creates phase transition at ~0.7T tokens with genuine few-shot abilities\nUnified Architecture: Patch-based audio representation (25Hz→6.25Hz) bridges text-speech mismatch; two-stage training preserves text capabilities while adding audio generation\nSOTA Open-Source Performance: Best modality consistency on SpeechMMLU…",
@@ -1859,6 +1899,21 @@
       "feedUrl": "https://learnopencv.com/feed/",
       "siteUrl": "https://learnopencv.com",
       "articles": [
+        {
+          "id": "https://learnopencv.com/?p=75594",
+          "author": "Kukil",
+          "description": "Learn how to build a GUI-native, local VLM based AI agent from scratch using Moondream3 and Gemini. It is a generic task based agent free from application APIs.\nAI Agent in Action: Automating Desktop Tasks with VLMs first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/ai-agents-from-vlm/",
+          "publishedOn": "2025-09-30T21:54:25.000Z",
+          "wordCount": 8480,
+          "title": "AI Agent in Action: Automating Desktop Tasks with VLMs",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/09/AI-Agent-Using-VLM-Example-Use.mp4",
+            "length": "22247400",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/09/Local-VLM-based-AI-Agents-in-Action.jpg"
+        },
         {
           "id": "https://learnopencv.com/?p=75253",
           "author": "Bhomik Sharma",
@@ -2023,6 +2078,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=243836",
+          "author": "Nitika Sharma",
+          "description": "The wait is over. Curtains are pulled. And Sam Altman is all suited up for the next BIG OpenAI release. Your guess is right! It’s the much-awaited Sora 2. For obvious reasons, it comes with audio features. But is that only it? Well, no! Let’s explore everything we know about Sora 2 so far. Sora 1 to Sora […]\nThe post Sora 2 Just Dropped..And It’s Basically Hollywood in Your Pocket appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/sora-2-just-dropped/",
+          "publishedOn": "2025-09-30T18:57:09.000Z",
+          "wordCount": null,
+          "title": "Sora 2 Just Dropped..And It’s Basically Hollywood in Your Pocket",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=243780",
+          "author": "Harsh Mishra",
+          "description": "The best LLM for Coders is back with some new abilities. Anthropic recently launched Claude Sonnet 4.5, a powerful addition to its suite of LLMs. This new release significantly boosts capabilities, especially for tasks requiring advanced Agentic AI. It shows marked improvements in areas like code generation and multimodal reasoning, setting new standards for efficiency […]\nThe post Claude Sonnet 4.5: The New Coding King? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/09/claude-sonnet-4-5/",
+          "publishedOn": "2025-09-30T09:07:47.000Z",
+          "wordCount": null,
+          "title": "Claude Sonnet 4.5: The New Coding King?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=243729",
           "author": "Nitika Sharma",
@@ -2749,6 +2826,46 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/sora-feed-philosophy",
+          "author": null,
+          "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+          "link": "https://openai.com/index/sora-feed-philosophy",
+          "publishedOn": "2025-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The Sora feed philosophy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/launching-sora-responsibly",
+          "author": null,
+          "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+          "link": "https://openai.com/index/launching-sora-responsibly",
+          "publishedOn": "2025-09-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Launching Sora responsibly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/sora-2",
+          "author": null,
+          "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+          "link": "https://openai.com/index/sora-2",
+          "publishedOn": "2025-09-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Sora 2 is here",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/sora-2-system-card",
+          "author": null,
+          "description": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
+          "link": "https://openai.com/index/sora-2-system-card",
+          "publishedOn": "2025-09-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Sora 2 System Card",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/openai-support-model",
           "author": null,
           "description": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
@@ -3146,6 +3263,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/the-agentic-app",
+          "author": "Nathan Lambert",
+          "description": "ChatGPT's long awaited move into user monetization.",
+          "link": "https://www.interconnects.ai/p/the-agentic-app",
+          "publishedOn": "2025-09-30T13:03:22.000Z",
+          "wordCount": null,
+          "title": "ChatGPT: The Agentic App",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d5319480-fba8-4f44-affe-ac64279b285b_3840x2160.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d5319480-fba8-4f44-affe-ac64279b285b_3840x2160.webp"
+        },
+        {
           "id": "https://www.interconnects.ai/p/thinking-searching-and-acting",
           "author": "Nathan Lambert",
           "description": "A reflection on reasoning models.",
@@ -3514,16 +3647,6 @@
           "publishedOn": "2025-09-02T23:38:43.000Z",
           "wordCount": 126718,
           "title": "How To Become A Mechanistic Interpretability Researcher",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "Go2mQBP4AXRw3iNMk",
-          "author": "Daniel C",
-          "description": "Published on August 31, 2025 4:55 AM GMT\n\nEpistemic status: This first collaboration between Daniel Chiang (who is interested in the algorithmic information theory of incrementally constructed representations) and myself (Cole Wyeth) contains some fairly simple but elegant results that help illustrate differences between ordinary and reflective Oracle Solomonoff Induction.\nPractical reasoning relies on context-specific prediction rules, which can be described as \"incomplete models\" or \"partial experts.\" One simple example is \"sleeping experts\" which make predictions only at certain times (when they are \"awake\"), discussed here: https://www.lesswrong.com/posts/CGzAu8F3fii7gdgMC/a-simple-explanation-of-incomplete-models\nCan Solomonoff's universal distribution take advantage of sleeping exper…",
-          "link": "https://www.alignmentforum.org/posts/Go2mQBP4AXRw3iNMk/sleeping-experts-in-the-reflective-solomonoff-prior",
-          "publishedOn": "2025-08-31T04:55:48.000Z",
-          "wordCount": 55193,
-          "title": "Sleeping Experts in the (reflective) Solomonoff Prior",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
