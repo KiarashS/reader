@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-10-03T01:10:07.404Z</updated>
+    <updated>2025-10-04T01:09:52.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Data Dashboard Using HTML, CSS, and JavaScript]]></title>
+        <id>https://towardsdatascience.com/?p=607333</id>
+        <link href="https://towardsdatascience.com/build-a-data-dashboard-using-html-css-javascript/"/>
+        <updated>2025-10-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A framework-free guide for Python programmers
+The post Build a Data Dashboard Using HTML, CSS, and JavaScript appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Hiring: Leveraging Workday with Analytics Platforms]]></title>
+        <id>https://www.analyticsvidhya.com/?p=243438</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/data-driven-hiring/"/>
+        <updated>2025-10-03T13:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Data has become critical for candidate shortlisting, employee management, and planning several tasks related to workforce management. Tracking attrition trends, performance monitoring, and maintaining workforce diversity are some other tasks where data plays an important role. Workday, a popular enterprise HR system, can be easily integrated with data-based tools for data-driven hiring. However, Workday has […]
+The post Data-Driven Hiring: Leveraging Workday with Analytics Platforms appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Naveen Kolli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A2A vs MCP vs AP2: Different Between AI Communication Protocols]]></title>
+        <id>https://www.analyticsvidhya.com/?p=243709</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/a2a-vs-mcp-vs-ap2/"/>
+        <updated>2025-10-03T13:04:17.000Z</updated>
+        <summary type="html"><![CDATA[The generative AI headlines scream about parameter counts, but the quiet revolution of 2025 is: plumbing? Three protocols: Google’s Agent Payments Protocol (AP2), the open Agent-to-Agent Protocol (A2A), and the Model Context Protocol (MCP), are being hard-wired into checkout SDKs, cloud marketplaces, and IDE plug-ins. They let an LLM spend your money, negotiate with a […]
+The post A2A vs MCP vs AP2: Different Between AI Communication Protocols appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MobileNetV2 Paper Walkthrough: The Smarter Tiny Giant]]></title>
+        <id>https://towardsdatascience.com/?p=607331</id>
+        <link href="https://towardsdatascience.com/mobilenetv2-paper-walkthrough-the-smarter-tiny-giant/"/>
+        <updated>2025-10-03T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding and implementing MobileNetV2 with PyTorch  — the next generation of MobileNetV1
+The post MobileNetV2 Paper Walkthrough: The Smarter Tiny Giant appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Muhammad Ardi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eliciting secret knowledge from language models]]></title>
         <id>Mv3yg7wMXfns3NPaz</id>
@@ -3673,131 +3717,6 @@ RL scale-ups so far have used very crappy environments due to difficulty quickly
 Another way to put this response is that AI companies haven't actually done a good job scaling up RL—they've scaled up the compute, but with low quality data—and once they actually do the RL scale up for real this time, there will be a big j…]]></summary>
         <author>
             <name>Ryan Greenblatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Python One-Liners Every Machine Learning Practitioner Should Know]]></title>
-        <id>https://machinelearningmastery.com/?p=21346</id>
-        <link href="https://machinelearningmastery.com/10-python-one-liners-every-machine-learning-practitioner-should-know/"/>
-        <updated>2025-09-03T12:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Developing machine learning systems entails a well-established lifecycle, consisting of a series of stages from data preparation and preprocessing to modeling, validation, deployment to production, and continuous maintenance.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Edge-Case Handling: From Annotation to Validation]]></title>
-        <id>https://imerit.net/?p=28891</id>
-        <link href="https://imerit.net/resources/blog/automated-edge-case-handling-from-annotation-to-validation/"/>
-        <updated>2025-09-03T08:36:32.000Z</updated>
-        <summary type="html"><![CDATA[AI models are only as reliable as the data they are trained on. While standard cases dominate most datasets, real-world
-The post Automated Edge-Case Handling: From Annotation to Validation appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive into RabbitMQ & Python’s Celery: How to Optimise Your Queues]]></title>
-        <id>https://towardsdatascience.com/?p=607017</id>
-        <link href="https://towardsdatascience.com/deep-dive-into-rabbitmq-pythons-celery-how-to-optimise-your-queues/"/>
-        <updated>2025-09-03T04:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Key lessons I’ve learned running RabbitMQ + Celery in production
-The post A Deep Dive into RabbitMQ & Python’s Celery: How to Optimise Your Queues appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Clara Chong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLM on Edge: Worth the Hype or Just a Novelty?]]></title>
-        <id>https://learnopencv.com/?p=75054</id>
-        <link href="https://learnopencv.com/vlm-on-edge-devices/"/>
-        <updated>2025-09-03T01:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Testing Vision Language Models (VLM) on edge devices. Check how small VLMs perform on our custom Raspberry Pi Cluster and Jetson Nanos.
-VLM on Edge: Worth the Hype or Just a Novelty? first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Kukil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Become A Mechanistic Interpretability Researcher]]></title>
-        <id>jP9KDyMkchuv6tHwm</id>
-        <link href="https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher"/>
-        <updated>2025-09-02T23:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Published on September 2, 2025 11:38 PM GMT
-
-Note: If you’ll forgive the shameless self-promotion, applications for my MATS stream are open until Sept 12. I help people write a mech interp paper, often accept promising people new to mech interp, and alumni often have careers as mech interp researchers. If you’re interested in this post I recommend applying! The application should be educational whatever happens: you spend a weekend doing a small mech interp research project, and show me what you learned.
-Last updated Sept 2 2025
-TL;DR
-
-This post is about the mindset and process I recommend if you want to do mechanistic interpretability research. I aim to give a clear sense of direction, so give opinionated advice and concrete recommendations.
-Mech interp is high-leverage, impactful, and le…]]></summary>
-        <author>
-            <name>Neel Nanda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing the Caesar Cipher in Python]]></title>
-        <id>https://towardsdatascience.com/?p=607013</id>
-        <link href="https://towardsdatascience.com/implementing-the-caesar-cipher-in-python/"/>
-        <updated>2025-09-02T21:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Julius Caesar was a Roman ruler known for his military strategies and excellent leadership. Named after him, the Caesar Cipher is a fascinating cryptographic technique that Julius Caesar employed to send secret signals and messages to his military personnel. The Caesar Cipher is quite basic in its working. It works by shifting all the letters […]
-The post Implementing the Caesar Cipher in Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahnoor Javed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale Your AI Search to Handle 10M Queries with 5 Powerful Techniques]]></title>
-        <id>https://towardsdatascience.com/?p=607011</id>
-        <link href="https://towardsdatascience.com/how-to-scale-your-ai-search-to-handle-10m-queries-with-5-powerful-techniques/"/>
-        <updated>2025-09-02T19:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Optimize your AI search with RAG, contextual retrieval and evaluations
-The post How to Scale Your AI Search to Handle 10M Queries with 5 Powerful Techniques appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Universality in LLMs? How to Find Universal Neurons]]></title>
-        <id>https://towardsdatascience.com/?p=607009</id>
-        <link href="https://towardsdatascience.com/what-is-universality-in-llm-and-how-to-find-universal-neurons/"/>
-        <updated>2025-09-02T19:29:23.000Z</updated>
-        <summary type="html"><![CDATA[How independently trained transformers form same the neurons
-The post What is Universality in LLMs? How to Find Universal Neurons appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Greedy Algorithms for Decision Trees, Explained with Examples]]></title>
-        <id>https://towardsdatascience.com/?p=607008</id>
-        <link href="https://towardsdatascience.com/the-core-of-decision-tree-algorithms/"/>
-        <updated>2025-09-02T19:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn the inner workings of decision trees
-The post 3 Greedy Algorithms for Decision Trees, Explained with Examples appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kuriko Iwai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 8.31.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68b71035715da62b208c05f0</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d"/>
-        <updated>2025-09-02T15:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Is Thinking]]></title>
-        <id>https://towardsdatascience.com/?p=606897</id>
-        <link href="https://towardsdatascience.com/writing-is-thinking/"/>
-        <updated>2025-09-02T15:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Egor Howell on breaking into ML without a CS degree, surviving 80+ interviews, and what to do if you feel stuck in your career.
-The post Writing Is Thinking appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
         </author>
     </entry>
 </feed>
