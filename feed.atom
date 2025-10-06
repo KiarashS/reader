@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-10-05T01:20:10.876Z</updated>
+    <updated>2025-10-06T01:12:19.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Classical Computer Vision and Perspective Transformation for Sudoku Extraction]]></title>
+        <id>https://towardsdatascience.com/?p=607341</id>
+        <link href="https://towardsdatascience.com/classical-computer-vision-and-perspective-transformation-for-sudoku-extraction/"/>
+        <updated>2025-10-05T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Why you shouldn't overcomplicate solutions to simple problems
+The post Classical Computer Vision and Perspective Transformation for Sudoku Extraction appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Florian Trautweiler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Command-Line Quiz Application in R]]></title>
+        <id>https://towardsdatascience.com/?p=607339</id>
+        <link href="https://towardsdatascience.com/building-a-command-line-quiz-application-in-r/"/>
+        <updated>2025-10-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practice control flow, input handling, and functions in R by creating an interactive quiz game.
+The post Building a Command-Line Quiz Application in R appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 DBMS Interview Questions]]></title>
+        <id>https://www.analyticsvidhya.com/?p=243169</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/top-dbms-interview-questions/"/>
+        <updated>2025-10-05T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Recruiters no longer ask you to recite the six normal forms. They want to hear you reason about data at 2 a.m. when the primary shard is hot and the CFO is responding to the stakeholders. The questions you’ll encounter in this article have been harvested from real interviews at Google, Amazon, Stripe, Snowflake, and […]
+The post Top 15 DBMS Interview Questions appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI]]></title>
         <id>https://www.analyticsvidhya.com/?p=243386</id>
@@ -3447,131 +3480,6 @@ The post Is This the Last Nail in the Coffin for Indian AI Startups? appeared fi
 The post Zero-Inflated Data: A Comparison of Regression Models appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Arnaud Capitaine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narrow Finetuning Leaves Clearly Readable Traces in Activation Differences]]></title>
-        <id>sBSjEBykQkmSfqrwt</id>
-        <link href="https://www.alignmentforum.org/posts/sBSjEBykQkmSfqrwt/narrow-finetuning-leaves-clearly-readable-traces-in"/>
-        <updated>2025-09-05T12:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Published on September 5, 2025 12:11 PM GMT
-
-This is a preliminary research update. We are continuing our investigation and will publish a more in-depth analysis soon. The work was done as part of the MATS 7 extension. We'd like to thanks Cameron Holmes and Fabien Roger  for their useful feedback.
-TL;DR
-Claim: Narrow finetunes leave clearly readable traces: activation differences between base and finetuned models on the first few tokens of unrelated text reliably reveal the finetuning domain.
-Results:
-
-Simple interpretability tools (Patchscope) on per-position average differences surface highly relevant tokens.
-Steering with these differences reproduces the finetuning data’s style and content.
-An interpretability agent using these signals identifies finetuning objectives with high accuracy…]]></summary>
-        <author>
-            <name>Julian Minder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to Batch Normalization]]></title>
-        <id>https://machinelearningmastery.com/?p=21515</id>
-        <link href="https://machinelearningmastery.com/a-gentle-introduction-to-batch-normalization/"/>
-        <updated>2025-09-05T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Deep neural networks have drastically evolved over the years, overcoming common challenges that arise when training these complex models.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tool Masking: The Layer MCP Forgot]]></title>
-        <id>https://towardsdatascience.com/?p=607041</id>
-        <link href="https://towardsdatascience.com/tool-masking-the-layer-mcp-forgot/"/>
-        <updated>2025-09-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tool masking for AI improves AI agents: shape MCP tool surfaces to cut tokens and errors, boost speed and reliability. Start prompt engineering your tools
-The post Tool Masking: The Layer MCP Forgot appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Frank Wittkampf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master ChatGPT Prompts: Pro GPT-5 Hacks No One Tells You]]></title>
-        <id>https://www.analyticsvidhya.com/?p=242227</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/master-chatgpt-prompts-pro-tips-gpt-5-hacks/"/>
-        <updated>2025-09-05T10:25:27.000Z</updated>
-        <summary type="html"><![CDATA[The title is self-explanatory, and if you clicked it, you are clearly here for some tips that will up your ChatGPT game. Let me get right to the point – mastering GPT-5 or ChatGPT in general will take time. It doesn’t matter how proficient you think you are with ChatGPT. After using the AI daily, […]
-The post Master ChatGPT Prompts: Pro GPT-5 Hacks No One Tells You appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why language models hallucinate]]></title>
-        <id>https://openai.com/index/why-language-models-hallucinate</id>
-        <link href="https://openai.com/index/why-language-models-hallucinate"/>
-        <updated>2025-09-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5 bio bug bounty call]]></title>
-        <id>https://openai.com/gpt-5-bio-bug-bounty</id>
-        <link href="https://openai.com/gpt-5-bio-bug-bounty"/>
-        <updated>2025-09-05T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI and Greek Government launch ‘OpenAI for Greece’]]></title>
-        <id>https://openai.com/global-affairs/openai-for-greece</id>
-        <link href="https://openai.com/global-affairs/openai-for-greece"/>
-        <updated>2025-09-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should We Use LLMs As If They Were Swiss Knives?]]></title>
-        <id>https://towardsdatascience.com/?p=607039</id>
-        <link href="https://towardsdatascience.com/should-we-use-llms-as-if-they-were-swiss-knives/"/>
-        <updated>2025-09-04T18:35:41.000Z</updated>
-        <summary type="html"><![CDATA[A logic game performance comparison between popular LLMs and a custom-made algorithm
-The post Should We Use LLMs As If They Were Swiss Knives? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nicolas Garcia Aramouni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Visual Guide to Tuning Random Forest Hyperparameters]]></title>
-        <id>https://towardsdatascience.com/?p=607037</id>
-        <link href="https://towardsdatascience.com/a-visual-guide-to-tuning-random-forest-hyperparameters/"/>
-        <updated>2025-09-04T17:40:23.000Z</updated>
-        <summary type="html"><![CDATA[How hyperparameter tuning visually changes random forests
-The post A Visual Guide to Tuning Random Forest Hyperparameters appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>James Gibbins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MobileNetV1 Paper Walkthrough: The Tiny Giant]]></title>
-        <id>https://towardsdatascience.com/?p=607035</id>
-        <link href="https://towardsdatascience.com/the-tiny-giant-mobilenetv1/"/>
-        <updated>2025-09-04T17:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Understanding and implementing MobileNetV1 from scratch with PyTorch
-The post MobileNetV1 Paper Walkthrough: The Tiny Giant appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Muhammad Ardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using LangGraph and MCP Servers to Create My Own Voice Assistant]]></title>
-        <id>https://towardsdatascience.com/?p=607032</id>
-        <link href="https://towardsdatascience.com/using-langgraph-and-mcp-servers-to-create-my-own-voice-assistant/"/>
-        <updated>2025-09-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Built over 14 days, all locally run, no API keys, cloud services, or subscription fees.
-The post Using LangGraph and MCP Servers to Create My Own Voice Assistant appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Lee</name>
         </author>
     </entry>
 </feed>

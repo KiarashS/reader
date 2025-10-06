@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607341",
+          "author": "Florian Trautweiler",
+          "description": "Why you shouldn't overcomplicate solutions to simple problems\nThe post Classical Computer Vision and Perspective Transformation for Sudoku Extraction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/classical-computer-vision-and-perspective-transformation-for-sudoku-extraction/",
+          "publishedOn": "2025-10-05T16:00:51.000Z",
+          "wordCount": 4850,
+          "title": "Classical Computer Vision and Perspective Transformation for Sudoku Extraction",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/sudoku_extraction_004.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607339",
+          "author": "Benjamin Nweke",
+          "description": "Practice control flow, input handling, and functions in R by creating an interactive quiz game.\nThe post Building a Command-Line Quiz Application in R appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-command-line-quiz-application-in-r/",
+          "publishedOn": "2025-10-05T14:00:00.000Z",
+          "wordCount": 3874,
+          "title": "Building a Command-Line Quiz Application in R",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/mohammad-rahmani-8qEB0fTe9Vw-unsplash-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607337",
           "author": "Nikola Ilic",
           "description": "Once upon a time, handling streaming data was considered an avant-garde approach. Since the introduction of relational database management systems in the 1970s and traditional data warehousing systems in the late 1980s, all data workloads began and ended with the so-called batch processing. Batch processing relies on the concept of collecting numerous tasks in a group (or batch) […]\nThe post Real-Time Intelligence in Microsoft Fabric: The Ultimate Guide appeared first on Towards Data Science.",
@@ -1065,56 +1085,6 @@
           "wordCount": 5231,
           "title": "Zero-Inflated Data: A Comparison of Regression Models",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/Langoisse-du-1-au-milieu-des-zeros-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607041",
-          "author": "Frank Wittkampf",
-          "description": "Tool masking for AI improves AI agents: shape MCP tool surfaces to cut tokens and errors, boost speed and reliability. Start prompt engineering your tools\nThe post Tool Masking: The Layer MCP Forgot appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tool-masking-the-layer-mcp-forgot/",
-          "publishedOn": "2025-09-05T12:00:00.000Z",
-          "wordCount": 5895,
-          "title": "Tool Masking: The Layer MCP Forgot",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/Tool_Mask_Illustration.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607039",
-          "author": "Nicolas Garcia Aramouni",
-          "description": "A logic game performance comparison between popular LLMs and a custom-made algorithm\nThe post Should We Use LLMs As If They Were Swiss Knives? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/should-we-use-llms-as-if-they-were-swiss-knives/",
-          "publishedOn": "2025-09-04T18:35:41.000Z",
-          "wordCount": 4429,
-          "title": "Should We Use LLMs As If They Were Swiss Knives?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/nipun-haldar-X1V6aogS9XY-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607037",
-          "author": "James Gibbins",
-          "description": "How hyperparameter tuning visually changes random forests\nThe post A Visual Guide to Tuning Random Forest Hyperparameters appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-visual-guide-to-tuning-random-forest-hyperparameters/",
-          "publishedOn": "2025-09-04T17:40:23.000Z",
-          "wordCount": 4174,
-          "title": "A Visual Guide to Tuning Random Forest Hyperparameters",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/vrf2.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607035",
-          "author": "Muhammad Ardi",
-          "description": "Understanding and implementing MobileNetV1 from scratch with PyTorch\nThe post MobileNetV1 Paper Walkthrough: The Tiny Giant appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-tiny-giant-mobilenetv1/",
-          "publishedOn": "2025-09-04T17:35:47.000Z",
-          "wordCount": 8810,
-          "title": "MobileNetV1 Paper Walkthrough: The Tiny Giant",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/andreas-weilguny-JbSY1GKgFmA-unsplash-scaled-1.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607032",
-          "author": "Benjamin Lee",
-          "description": "Built over 14 days, all locally run, no API keys, cloud services, or subscription fees.\nThe post Using LangGraph and MCP Servers to Create My Own Voice Assistant appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/using-langgraph-and-mcp-servers-to-create-my-own-voice-assistant/",
-          "publishedOn": "2025-09-04T14:30:00.000Z",
-          "wordCount": 8762,
-          "title": "Using LangGraph and MCP Servers to Create My Own Voice Assistant",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/architecture-diagram.png"
         }
       ]
     },
@@ -1281,16 +1251,6 @@
           "publishedOn": "2025-09-08T12:00:11.000Z",
           "wordCount": null,
           "title": "7 Scikit-learn Tricks for Optimized Cross-Validation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21515",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Deep neural networks have drastically evolved over the years, overcoming common challenges that arise when training these complex models.",
-          "link": "https://machinelearningmastery.com/a-gentle-introduction-to-batch-normalization/",
-          "publishedOn": "2025-09-05T12:00:46.000Z",
-          "wordCount": null,
-          "title": "A Gentle Introduction to Batch Normalization",
           "imageUrl": null
         }
       ]
@@ -2014,6 +1974,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=243169",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Recruiters no longer ask you to recite the six normal forms. They want to hear you reason about data at 2 a.m. when the primary shard is hot and the CFO is responding to the stakeholders. The questions you’ll encounter in this article have been harvested from real interviews at Google, Amazon, Stripe, Snowflake, and […]\nThe post Top 15 DBMS Interview Questions appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/top-dbms-interview-questions/",
+          "publishedOn": "2025-10-05T03:29:00.000Z",
+          "wordCount": null,
+          "title": "Top 15 DBMS Interview Questions",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=243386",
           "author": "Karan Gupta",
           "description": "Since the first release of GPT-1 in 2018 to the latest release of GPT-5 in 2025, generative AI has created a revolution. From a capacity of 4,000 words in the earlier models to millions in the latest release, each model builds upon the previous one. The premise of Gen AI is based on user-provided input […]\nThe post The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI appeared first on Analytics Vidhya.",
@@ -2705,17 +2676,6 @@
           "title": "Is This the Last Nail in the Coffin for Indian AI Startups?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=242227",
-          "author": "Sarthak Dogra",
-          "description": "The title is self-explanatory, and if you clicked it, you are clearly here for some tips that will up your ChatGPT game. Let me get right to the point – mastering GPT-5 or ChatGPT in general will take time. It doesn’t matter how proficient you think you are with ChatGPT. After using the AI daily, […]\nThe post Master ChatGPT Prompts: Pro GPT-5 Hacks No One Tells You appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/master-chatgpt-prompts-pro-tips-gpt-5-hacks/",
-          "publishedOn": "2025-09-05T10:25:27.000Z",
-          "wordCount": null,
-          "title": "Master ChatGPT Prompts: Pro GPT-5 Hacks No One Tells You",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3159,36 +3119,6 @@
           "wordCount": null,
           "title": "A People-First AI Fund: $50M to support nonprofits",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/why-language-models-hallucinate",
-          "author": null,
-          "description": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
-          "link": "https://openai.com/index/why-language-models-hallucinate",
-          "publishedOn": "2025-09-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Why language models hallucinate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/gpt-5-bio-bug-bounty",
-          "author": null,
-          "description": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
-          "link": "https://openai.com/gpt-5-bio-bug-bounty",
-          "publishedOn": "2025-09-05T08:45:00.000Z",
-          "wordCount": null,
-          "title": "GPT-5 bio bug bounty call",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/global-affairs/openai-for-greece",
-          "author": null,
-          "description": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
-          "link": "https://openai.com/global-affairs/openai-for-greece",
-          "publishedOn": "2025-09-05T08:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
-          "imageUrl": null
         }
       ]
     },
@@ -3563,16 +3493,6 @@
           "wordCount": 22643,
           "title": "How Can You Tell if You've Instilled a False Belief in Your LLM?",
           "imageUrl": "https://i0.wp.com/jlucassen.com/wp-content/uploads/2025/06/image-1.png?fit=1024%2C698&ssl=1"
-        },
-        {
-          "id": "sBSjEBykQkmSfqrwt",
-          "author": "Julian Minder",
-          "description": "Published on September 5, 2025 12:11 PM GMT\n\nThis is a preliminary research update. We are continuing our investigation and will publish a more in-depth analysis soon. The work was done as part of the MATS 7 extension. We'd like to thanks Cameron Holmes and Fabien Roger  for their useful feedback.\nTL;DR\nClaim: Narrow finetunes leave clearly readable traces: activation differences between base and finetuned models on the first few tokens of unrelated text reliably reveal the finetuning domain.\nResults:\n\nSimple interpretability tools (Patchscope) on per-position average differences surface highly relevant tokens.\nSteering with these differences reproduces the finetuning data’s style and content.\nAn interpretability agent using these signals identifies finetuning objectives with high accuracy…",
-          "link": "https://www.alignmentforum.org/posts/sBSjEBykQkmSfqrwt/narrow-finetuning-leaves-clearly-readable-traces-in",
-          "publishedOn": "2025-09-05T12:11:49.000Z",
-          "wordCount": 25339,
-          "title": "Narrow Finetuning Leaves Clearly Readable Traces in Activation Differences",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/sBSjEBykQkmSfqrwt/qjiqkyxt6l2xrmuyqies"
         }
       ]
     }
