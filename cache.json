@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607371",
+          "author": "Barr Moses",
+          "description": "What's happening—and what's next— for data and AI at the close of 2025.\nThe post 10 Data + AI Observations for Fall 2025 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/10-data-ai-observations-to-watch-in-fall-2025/",
+          "publishedOn": "2025-10-10T13:44:13.000Z",
+          "wordCount": 4604,
+          "title": "10 Data + AI Observations for Fall 2025",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/Blog-Images-3.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607365",
+          "author": "Youssef Farag",
+          "description": "Explaining \"MineWorld: A real-time and open-source interactive world model on Minecraft\" in simple terms.\nThe post Dreaming in Blocks — MineWorld, the Minecraft World Model appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/dreaming-in-blocks-mineworld-the-minecraft-world-model/",
+          "publishedOn": "2025-10-10T13:30:00.000Z",
+          "wordCount": 4793,
+          "title": "Dreaming in Blocks — MineWorld, the Minecraft World Model",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/mineworld_video_Example-ezgif.com-resize-2.gif"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607363",
           "author": "Whitney Marks",
           "description": "The future of reporting will be about encoding the value proposition of a product into prompt design.\nThe post Past is Prologue: How Conversational Analytics Is Changing Data Work appeared first on Towards Data Science.",
@@ -995,56 +1015,6 @@
           "wordCount": 3546,
           "title": "Why Task-Based Evaluations Matter",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/drellyan_Friendly_cartoon_robots_in_a_colorful_test_lab_each_ro_74c256d0-6bd8-4017-b488-ac7597b74124-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607093",
-          "author": "Samir Saci",
-          "description": "Email → n8n → LangGraph → FastAPI: turning budget requests into optimised CAPEX portfolios that maximise ROI for decision-makers.\nThe post How to Build an AI Budget-Planning Optimizer for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-an-ai-budget-planning-optimizer-for-your-2026-capex-review-langgraph-fastapi-and-n8n/",
-          "publishedOn": "2025-09-10T12:30:00.000Z",
-          "wordCount": 6724,
-          "title": "How to Build an AI Budget-Planning Optimizer for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/image-30.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607090",
-          "author": "Sarah Schürch",
-          "description": "A practical LangChain tutorial for data scientists to inspect CSVs\nThe post LangChain for EDA: Build a CSV Sanity-Check Agent in Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/langchain-for-eda-build-a-csv-sanity-check-agent-in-python/",
-          "publishedOn": "2025-09-09T17:22:43.000Z",
-          "wordCount": 6513,
-          "title": "LangChain for EDA: Build a CSV Sanity-Check Agent in Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/LangChain-for-EDA-Build-a-CSV-Sanity-Check-Agent-in-Python.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607087",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to build production ready systems using AI agents\nThe post How to Build Effective AI Agents to Process Millions of Requests appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-effective-ai-agents-to-process-millions-of-requests/",
-          "publishedOn": "2025-09-09T17:00:00.000Z",
-          "wordCount": 4539,
-          "title": "How to Build Effective AI Agents to Process Millions of Requests",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/assets_task_01k4jhtmgtfn88yjgf9rcq4641_1757264422_img_2.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607085",
-          "author": "Vyacheslav Efimov",
-          "description": "Introduction Multi-object tracking (MOT) is a task in which an algorithm must detect and track multiple objects in a video. Most known algorithms are based on using simple detectors (e.g. YOLO) designed for processing individual images. The overall method involves separately using a detector on consecutive video frames and then matching the corresponding bounding boxes […]\nThe post The Hungarian Algorithm and Its Applications in Computer Vision appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/hungarian-algorithm-and-its-applications-in-computer-vision/",
-          "publishedOn": "2025-09-09T15:30:00.000Z",
-          "wordCount": 4396,
-          "title": "The Hungarian Algorithm and Its Applications in Computer Vision",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/Hungarian-algorithm-scaled-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607083",
-          "author": "Shuai Guo",
-          "description": "Losing control of your AI agent in the middle of the workflow is a common pain point. If you have built your own agentic applications, you’ve most likely already seen this happen. While LLMs nowadays are incredibly capable, they’re still not quite there yet to run fully autonomously in a complex workflow. For any practical […]\nThe post LangGraph 201: Adding Human Oversight to Your Deep Research Agent appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/langgraph-201-adding-human-oversight-to-your-deep-research-agent/",
-          "publishedOn": "2025-09-09T14:00:00.000Z",
-          "wordCount": 7348,
-          "title": "LangGraph 201: Adding Human Oversight to Your Deep Research Agent",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-3-2025-08_56_39-AM.jpg"
         }
       ]
     },
@@ -1252,16 +1222,6 @@
           "wordCount": null,
           "title": "10 Common Misconceptions About Large Language Models",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21714",
-          "author": "Nivedita Kumari",
-          "description": "The increasing sophistication of cyber threats calls for a systemic change in the way we defend ourselves against them.",
-          "link": "https://machinelearningmastery.com/multi-agent-systems-the-next-frontier-in-ai-driven-cyber-defense/",
-          "publishedOn": "2025-09-09T13:59:11.000Z",
-          "wordCount": null,
-          "title": "Multi-Agent Systems: The Next Frontier in AI-Driven Cyber Defense",
-          "imageUrl": null
         }
       ]
     },
@@ -1460,16 +1420,6 @@
           "wordCount": 3579,
           "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
           "imageUrl": "https://huggingface.co/blog/assets/faster-transformers/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/jupyter-agent-2",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/jupyter-agent-2",
-          "publishedOn": "2025-09-10T00:00:00.000Z",
-          "wordCount": 3144,
-          "title": "Jupyter Agents: training LLMs to reason with notebooks",
-          "imageUrl": "https://huggingface.co/blog/assets/jupyter-agent-2/thumbnail.png"
         }
       ]
     },
@@ -1538,16 +1488,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/09/RenderFormer-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/blog/breaking-the-networking-wall-in-ai-infrastructure/",
-          "author": "Paolo Costa",
-          "description": "Datacenter memory and network limits are restraining AI system performance. MOSAIC uses microLEDs and a wide-and-slow optical architecture to deliver faster, longer, more reliable, and energy efficient connections that could transform AI cluster designs.\nThe post Breaking the networking wall in AI infrastructure  appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/breaking-the-networking-wall-in-ai-infrastructure/",
-          "publishedOn": "2025-09-09T14:00:00.000Z",
-          "wordCount": 3477,
-          "title": "Breaking the networking wall in AI infrastructure",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/08/MicroLED-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1890,16 +1830,6 @@
           "wordCount": 9239,
           "title": "Top VLM Evaluation Metrics for Optimal Performance Analysis",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/09/featured_image.png"
-        },
-        {
-          "id": "https://learnopencv.com/?p=75138",
-          "author": "Kukil",
-          "description": "Learn how to setup a pipeline to run VLM on Jetson Nano using Huggingface Transformers. Try with LiquidAI, Moondream2, FastVLM, and SmolVLM.\nGetting Started with VLM on Jetson Nano first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/vlm-on-jetson-nano/",
-          "publishedOn": "2025-09-09T14:23:23.000Z",
-          "wordCount": 7618,
-          "title": "Getting Started with VLM on Jetson Nano",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/09/vlm-on-jetson-orin-nano-1.gif"
         }
       ]
     },
@@ -1908,6 +1838,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=30304",
+          "author": "Sujana Urs",
+          "description": "In 2022, the global autonomous vehicle (AV) market was valued at USD 1.5 trillion. By 2030, it is projected to\nThe post The Modular Pipeline: Solving Key Challenges in AV Perception appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/the-modular-pipeline-solving-key-challenges-in-av-perception/",
+          "publishedOn": "2025-10-10T10:50:33.000Z",
+          "wordCount": 3201,
+          "title": "The Modular Pipeline: Solving Key Challenges in AV Perception",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/10/Feature-IMG-The-Modular-Pipeline-Solving-Key-Challenges-in-AV-Perception-scaled.jpg"
+        },
         {
           "id": "https://imerit.net/?p=30073",
           "author": "Sujana Urs",
@@ -2025,6 +1965,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=243935",
+          "author": "Anu Madan",
+          "description": "10 mins.. That’s it. All it takes is 10 minutes for your Zepto order to reach you as soon as you place the order. In a world where it takes more than 3 minutes to cook so-called “instant” noodles and more than 15 minutes for ChatGPT to generate a Ghibli, Zepto is reaching your doorstep […]\nThe post The Data Science Behind Zepto’s 10-Minute Delivery Success appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/zepto-data-science/",
+          "publishedOn": "2025-10-10T12:57:03.000Z",
+          "wordCount": null,
+          "title": "The Data Science Behind Zepto’s 10-Minute Delivery Success",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=244414",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "We’re living through the leap from “AI that answers” to “AI that acts.” In the next twelve months, autonomous agents might schedule your doctor visits, negotiate your online purchases, and maybe even write the first draft of your resume. The good news? The people building the rockets are giving away the blueprints, at least,  for […]\nThe post You Can’t Miss These 15 FREE Courses on AI Agents appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/free-ai-agent-courses/",
+          "publishedOn": "2025-10-10T12:54:41.000Z",
+          "wordCount": null,
+          "title": "You Can’t Miss These 15 FREE Courses on AI Agents",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=244295",
           "author": "Anu Madan",
@@ -2735,17 +2697,6 @@
           "title": "Better Than GPT-5? We Try ERNIE X1.1, Baidu’s Latest AI Model",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=242494",
-          "author": "Anu Madan",
-          "description": "Over the past week, my feed has been filled with tweets, posts, and videos about Nano Banana: Google’s latest image generation model. And honestly, it deserves the hype. The outputs for both image creation and editing are stunning. Just think of a place and a person, give it a prompt, and Nano Banana will surprise you with results […]\nThe post 15 Nano Banana Prompts to Try Today! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompts/",
-          "publishedOn": "2025-09-10T10:39:56.000Z",
-          "wordCount": null,
-          "title": "15 Nano Banana Prompts to Try Today!",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2790,6 +2741,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/hygh",
+          "author": null,
+          "description": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+          "link": "https://openai.com/index/hygh",
+          "publishedOn": "2025-10-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "HYGH powers next-gen digital ads with ChatGPT Business",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
           "author": null,
@@ -3336,22 +3297,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!cYyK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7a17a4-755d-4441-bc2a-79f3c4527203_1024x1024.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/on-chinas-open-source-ai-trajectory",
-          "author": "Nathan Lambert",
-          "description": "Notes and predictions for the next phase of Chinese (open) AI models.",
-          "link": "https://www.interconnects.ai/p/on-chinas-open-source-ai-trajectory",
-          "publishedOn": "2025-09-09T13:52:16.000Z",
-          "wordCount": null,
-          "title": "On China's open source AI trajectory",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/326e820c-0582-4c44-ade1-321942cae761_2400x1350.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/326e820c-0582-4c44-ade1-321942cae761_2400x1350.png"
         }
       ]
     },
@@ -3360,6 +3305,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "QpzTmFLXMJcdRkPLZ",
+          "author": "Ryan Greenblatt",
+          "description": "Published on October 10, 2025 2:17 PM GMT\n\nIn a previous post, we discussed prospects for studying scheming using natural examples. In this post, we'll describe a more detailed proposal for iteratively constructing scheming models, techniques for detecting scheming, and techniques for preventing scheming. We'll call this strategy Iterated Development and Study of Schemers (IDSS). We'll be using concepts from that prior post, like the idea of trying to make schemers which are easier to catch.\nTwo key difficulties with using natural examples of scheming are that it is hard to catch (and re-catch) schemers and that it's hard to (cheaply) get a large number of diverse examples of scheming to experiment on. One approach for partially resolving these issues is to experiment on weak schemers whic…",
+          "link": "https://www.alignmentforum.org/posts/QpzTmFLXMJcdRkPLZ/iterated-development-and-study-of-schemers-idss",
+          "publishedOn": "2025-10-10T14:17:48.000Z",
+          "wordCount": 27282,
+          "title": "Iterated Development and Study of Schemers (IDSS)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/sky7szpaib2kelxjmgnh"
+        },
+        {
+          "id": "e8nMZewwonifENQYB",
+          "author": "Jerome Wynne",
+          "description": "Published on October 10, 2025 12:42 AM GMT\n\nSummary\nThis is a research update from the Science of Evaluation team at the UK AI Security Institute. In this update, we share preliminary results from analysing transcripts of agent activity that may be of interest to  researchers working in the field.\nAISI generates thousands of transcripts when running its automated safety evaluations, e.g. for OpenAI’s o1 model, many of which contain the equivalent of dozens of pages of text. This post details a case study where we systematically analysed the content of 6,390 testing transcripts. We highlight quality issues, such as refusals and tool use faults, and distinctive model failure modes.  \nWe’re sharing this case study to encourage others – particularly those conducting safety evaluations – to rev…",
+          "link": "https://www.alignmentforum.org/posts/e8nMZewwonifENQYB/assuring-agent-safety-evaluations-by-analysing-transcripts",
+          "publishedOn": "2025-10-10T09:56:47.000Z",
+          "wordCount": 43447,
+          "title": "Assuring Agent Safety Evaluations By Analysing Transcripts",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/e8nMZewwonifENQYB/hlwy06ormok4zbm4avzi"
+        },
         {
           "id": "r68nCQK3veQtCdqGt",
           "author": "Buck Shlegeris",
@@ -3638,36 +3603,6 @@
           "publishedOn": "2025-09-10T17:44:10.000Z",
           "wordCount": 3582,
           "title": "MATS 8.0 Research Projects",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "uRdJio8pnTqHpWa4t",
-          "author": "Ryan Greenblatt",
-          "description": "Published on September 9, 2025 4:58 PM GMT\n\nIn response to my recent post arguing against above-trend progress from better RL environments, yet another argument for short(er) AGI timelines was raised to me:\nSure, at the current rate of progress, it would take a while (e.g. 5 years) to reach AIs that can automate research engineering within AI companies while being cheap and fast (superhuman coder). But we'll get large increases in the rate of AI progress well before superhuman coder due to AIs accelerating AI R&D. Probably we'll see big enough accelerations to really cut down on timelines to superhuman coder once AIs can somewhat reliably complete tasks that take top human research engineers 8 hours. After all, such AIs would probably be capable enough to greatly change research engineerin…",
-          "link": "https://www.alignmentforum.org/posts/uRdJio8pnTqHpWa4t/ais-will-greatly-change-engineering-in-ai-companies-well",
-          "publishedOn": "2025-09-09T16:58:33.000Z",
-          "wordCount": 36399,
-          "title": "AIs will greatly change engineering in AI companies well before AGI",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/xr8plqrs534jvgsho43z"
-        },
-        {
-          "id": "Ntdwc5nrPGZMicAWz",
-          "author": "David Africa",
-          "description": "Published on September 9, 2025 3:45 PM GMT\n\nSummary: I argue for a picture of developmental interpretability from neuroscience. A useful way to study and control frontier-scale language models is to treat their training as a sequence of physical phase transitions. Singular learning theory (SLT) rigorously characterizes singularities and learning dynamics in overparameterized models; developmental interpretability hypothesizes that large networks pass through phase transitions - regimes where behaviour changes qualitatively. The Critical Brain Hypothesis (CBH) proposes that biological neural systems may operate near phase transitions, and I claim that modern language models resemble this. Some transformer phenomena may be closely analogous: in-context learning and long-range dependency hand…",
-          "link": "https://www.alignmentforum.org/posts/Ntdwc5nrPGZMicAWz/large-language-models-and-the-critical-brain-hypothesis-1",
-          "publishedOn": "2025-09-09T15:45:37.000Z",
-          "wordCount": 13228,
-          "title": "Large Language Models and the Critical Brain Hypothesis",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "NccvE4GAhHbFim5Eb",
-          "author": "james.lucassen",
-          "description": "Published on September 9, 2025 2:49 PM GMT\n\nReference post for a point I was surprised to not see in circulation already. Thanks to the acorn team for conversations that changed my mind about this.\nThe standard argument for scheming centrally involves goal-guarding. The AI has some beyond-episode goal, knows that training will modify that goal, and therefore resists training so it can pursue the goal in deployment.\nThis exact same argument goes through for decision-theory-guarding. The key point is just that most decision theories do not approve of arbitrary modifications. CDT does not want to be modified into EDT or vice versa.\n\nThe AI has some beyond-episode goal and some initial decision theory\nThe AI knows that training will modify its decision theory in a way that it thinks will make …",
-          "link": "https://www.alignmentforum.org/posts/NccvE4GAhHbFim5Eb/decision-theory-guarding-is-sufficient-for-scheming",
-          "publishedOn": "2025-09-09T14:49:17.000Z",
-          "wordCount": 7867,
-          "title": "Decision Theory Guarding is Sufficient for Scheming",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
