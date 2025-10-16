@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607397",
+          "author": "Greg Rafferty",
+          "description": "The mindset that turns good data scientists into great ones\nThe post First Principles Thinking for Data Scientists appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/first-principles-thinking-for-data-scientists/",
+          "publishedOn": "2025-10-15T20:30:00.000Z",
+          "wordCount": 4072,
+          "title": "First Principles Thinking for Data Scientists",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/ali-alavi-fWKMa_1i7zA-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607395",
+          "author": "Sara Nobrega",
+          "description": "Part 1: Prompts for Core Strategies in Time-Series\nThe post Prompt Engineering for Time-Series Analysis with Large Language Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/prompt-engineering-for-time-series-analysis-with-large-language-models/",
+          "publishedOn": "2025-10-15T19:24:01.000Z",
+          "wordCount": 4621,
+          "title": "Prompt Engineering for Time-Series Analysis with Large Language Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/4d55e5fd-fd40-4045-bf07-d6fd7086afd3.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607393",
+          "author": "Thomas Reid",
+          "description": "A comprehensive comparison of these two Python libraries\nThe post Beyond Requests: Why httpx is the Modern HTTP Client You Need (Sometimes) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-requests-why-httpx-is-the-modern-http-client-you-need-sometimes/",
+          "publishedOn": "2025-10-15T19:06:27.000Z",
+          "wordCount": 4975,
+          "title": "Beyond Requests: Why httpx is the Modern HTTP Client You Need (Sometimes)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/Generated-Image-September-11-2025-1_46PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607391",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to design and build effective tools to be used by AI Agents\nThe post How to Build Tools for AI Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-tools-for-ai-agents/",
+          "publishedOn": "2025-10-15T18:53:46.000Z",
+          "wordCount": 4639,
+          "title": "How to Build Tools for AI Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/image-134.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607389",
           "author": "Ryan Pégoud",
           "description": "Tiled GEMM, GPU memory, coalescing, and much more!\nThe post Learning Triton One Kernel at a Time: Matrix Multiplication appeared first on Towards Data Science.",
@@ -915,36 +955,6 @@
           "wordCount": 4243,
           "title": "Learn How to Use Transformers with HuggingFace and SpaCy",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/marek-pavlik-DPcGXBCNL0c-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607138",
-          "author": "Egor Howell",
-          "description": "Your one-stop guide to becoming a machine learning engineer\nThe post How to Become a Machine Learning Engineer (Step-by-Step) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/dont-follow-generic-ml-engineer-roadmaps-do-this-instead-2/",
-          "publishedOn": "2025-09-15T12:00:00.000Z",
-          "wordCount": 4937,
-          "title": "How to Become a Machine Learning Engineer (Step-by-Step)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/ZERO-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607132",
-          "author": "Russell Jurney",
-          "description": "Semantic entity resolution uses language models to bring an increased level of automation to schema alignment, blocking (grouping records into smaller, efficient blocks for all-pairs comparison at quadratic, n² complexity), matching and even merging duplicate nodes and edges. In the past, entity resolution systems relied on statistical tricks such as string distance, static rules or complex ETL to schema align, block, match and merge records. Semantic entity resolution uses representation learning to gain a deeper understanding of records’ meaning in the domain of a business to automate the same process as part of a knowledge graph factory.\nThe post The Rise of Semantic Entity Resolution appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/",
-          "publishedOn": "2025-09-14T16:00:00.000Z",
-          "wordCount": 7138,
-          "title": "The Rise of Semantic Entity Resolution",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/Woman-Graph-Adjacency-Matrix-WW2-v2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607130",
-          "author": "Erika G. Gonçalves",
-          "description": "How to implement leak-free graph fraud detection\nThe post No Peeking Ahead: Time-Aware Graph Fraud Detection appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/no-peeking-ahead-time-aware-graph-fraud-detection/",
-          "publishedOn": "2025-09-14T14:30:00.000Z",
-          "wordCount": 5517,
-          "title": "No Peeking Ahead: Time-Aware Graph Fraud Detection",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/IMG_1821-EFFECTS-scaled-1.jpg"
         }
       ]
     },
@@ -1162,16 +1172,6 @@
           "wordCount": null,
           "title": "7 NumPy Tricks for Faster Numerical Computations",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21675",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Data storytelling often extends into machine learning, where we need engaging visuals that support a clear narrative.",
-          "link": "https://machinelearningmastery.com/5-lesser-known-visualization-libraries-for-impactful-machine-learning-storytelling/",
-          "publishedOn": "2025-09-15T12:00:29.000Z",
-          "wordCount": null,
-          "title": "5 Lesser-Known Visualization Libraries for Impactful Machine Learning Storytelling",
-          "imageUrl": null
         }
       ]
     },
@@ -1241,6 +1241,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/openvino-vlm",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/openvino-vlm",
+          "publishedOn": "2025-10-15T00:00:00.000Z",
+          "wordCount": 1466,
+          "title": "Get your VLM running in 3 simple steps on Intel CPUs",
+          "imageUrl": "https://huggingface.co/blog/assets/optimum_intel/intel_thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/dots-ocr-ne",
           "author": null,
@@ -1350,16 +1360,6 @@
           "wordCount": 2155,
           "title": "`LeRobotDataset`: Bringing large-scale datasets to lerobot",
           "imageUrl": "https://huggingface.co/blog/assets/lerobot-dataset-v3/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/watermarking-with-gradio",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/watermarking-with-gradio",
-          "publishedOn": "2025-09-15T00:00:00.000Z",
-          "wordCount": 502,
-          "title": "Visible Watermarking with Gradio",
-          "imageUrl": "https://huggingface.co/blog/assets/watermarking_with_gradio/thumbnail.png"
         }
       ]
     },
@@ -1606,17 +1606,6 @@
           "title": "Week Ending 9.21.2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68c7da6265a4f37efec2bbb7",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c",
-          "publishedOn": "2025-09-15T09:20:59.000Z",
-          "wordCount": null,
-          "title": "Week Ending 9.14.2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1662,6 +1651,21 @@
           "id": "https://learnopencv.com/?p=75726",
           "author": "Kukil",
           "description": "Deploying ML models on Arduino Nano 33 BLE. Explore TinyML techniques, setup steps, and why older Arduinos still rival the new Arduino Uno Q.\nDeploying ML Models on Arduino: From Blink to Think first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/deploying-ml-models-on-arduino/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-ml-models-on-arduino",
+          "publishedOn": "2025-10-14T15:36:43.000Z",
+          "wordCount": 8656,
+          "title": "Deploying ML Models on Arduino: From Blink to Think",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/10/convert-to-header-file-using-xxd-no-audio.mp4",
+            "length": "8951387",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/10/Deploying-TinyML-on-Arduino-to-Powerful-Uno-Q.png"
+        },
+        {
+          "id": "https://learnopencv.com/?p=75726",
+          "author": "Kukil",
+          "description": "Deploying ML models on Arduino Nano 33 BLE. Explore TinyML techniques, setup steps, and why older Arduinos still rival the new Arduino Uno Q.\nDeploying ML Models on Arduino: From Blink to Think first appeared on LearnOpenCV.",
           "link": "https://learnopencv.com/deploying-ml-models-on-arduino/",
           "publishedOn": "2025-10-14T15:36:43.000Z",
           "wordCount": 7944,
@@ -1677,11 +1681,36 @@
           "id": "https://learnopencv.com/?p=75648",
           "author": "Shubham",
           "description": "Discover VideoRAG, a framework that fuses graph-based reasoning and multi-modal retrieval to enhance LLMs' ability to understand multi-hour videos efficiently.\nVideoRAG: Redefining Long-Context Video Comprehension first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/videorag-long-context-video-comprehension/?utm_source=rss&utm_medium=rss&utm_campaign=videorag-long-context-video-comprehension",
+          "publishedOn": "2025-10-07T15:47:53.000Z",
+          "wordCount": 8405,
+          "title": "VideoRAG: Redefining Long-Context Video Comprehension",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/10/VideoRAG_Redefining_Long_Context_Video_Understanding.gif"
+        },
+        {
+          "id": "https://learnopencv.com/?p=75648",
+          "author": "Shubham",
+          "description": "Discover VideoRAG, a framework that fuses graph-based reasoning and multi-modal retrieval to enhance LLMs' ability to understand multi-hour videos efficiently.\nVideoRAG: Redefining Long-Context Video Comprehension first appeared on LearnOpenCV.",
           "link": "https://learnopencv.com/videorag-long-context-video-comprehension/",
           "publishedOn": "2025-10-07T15:47:53.000Z",
           "wordCount": 8304,
           "title": "VideoRAG: Redefining Long-Context Video Comprehension",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/10/VideoRAG_Redefining_Long_Context_Video_Understanding.gif"
+        },
+        {
+          "id": "https://learnopencv.com/?p=75594",
+          "author": "Kukil",
+          "description": "Learn how to build AI agent from scratch using Moondream3 and Gemini. It is a generic task based agent free from application APIs.\nAI Agent in Action: Automating Desktop Tasks with VLMs first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/build-ai-agents-using-vlm/?utm_source=rss&utm_medium=rss&utm_campaign=build-ai-agents-using-vlm",
+          "publishedOn": "2025-09-30T21:54:25.000Z",
+          "wordCount": 8951,
+          "title": "AI Agent in Action: Automating Desktop Tasks with VLMs",
+          "enclosure": {
+            "url": "https://learnopencv.com/wp-content/uploads/2025/09/AI-Agent-Using-VLM-Example-Use.mp4",
+            "length": "22247400",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/12/building-ai-agents-using-vlm.gif"
         },
         {
           "id": "https://learnopencv.com/?p=75594",
@@ -1716,6 +1745,16 @@
         {
           "id": "https://learnopencv.com/?p=75253",
           "author": "Bhomik Sharma",
+          "description": "Get a comprehensive overview of VLM Evaluation Metrics, Benchmarks and various datasets for tasks like VQA, OCR and Image Captioning.\nThe Ultimate Guide To VLM Evaluation Metrics, Datasets, And Benchmarks first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/vlm-evaluation-metrics/?utm_source=rss&utm_medium=rss&utm_campaign=vlm-evaluation-metrics",
+          "publishedOn": "2025-09-23T13:30:00.000Z",
+          "wordCount": 9663,
+          "title": "The Ultimate Guide To VLM Evaluation Metrics, Datasets, And Benchmarks",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/09/featured_image.jpg"
+        },
+        {
+          "id": "https://learnopencv.com/?p=75253",
+          "author": "Bhomik Sharma",
           "description": "Get a comprehensive overview of VLM Evaluation Metrics, Benchmarks and various datasets for tasks like VQA, OCR and Image Captioning.\nTop VLM Evaluation Metrics for Optimal Performance Analysis first appeared on LearnOpenCV.",
           "link": "https://learnopencv.com/vlm-evaluation-metrics/",
           "publishedOn": "2025-09-23T13:30:00.000Z",
@@ -1730,6 +1769,26 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=30474",
+          "author": "Sujana Urs",
+          "description": "The future of medical coding is rapidly becoming autonomous, with AI systems that can assign ICD, CPT, and HCC codes\nThe post Audit-Ready AI: Solving Real-World Challenges in Autonomous Medical Coding appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/audit-ready-ai-solving-real-world-challenges-in-autonomous-medical-coding/",
+          "publishedOn": "2025-10-15T14:37:50.000Z",
+          "wordCount": 1850,
+          "title": "Audit-Ready AI: Solving Real-World Challenges in Autonomous Medical Coding",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/10/Feature-IMG-Audit-Ready-AI-Solving-Real-World-Challenges-in-Autonomous-Medical-Coding-scaled.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=30487",
+          "author": "Sujana Urs",
+          "description": "If you are building AI for autonomous medical coding, ambient scribing, or documentation summarization, selecting the right annotation solution is\nThe post Top Annotation Platforms and Services for Autonomous Medical Coding in 2025 appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/top-annotation-platforms-and-services-for-autonomous-medical-coding-in-2025/",
+          "publishedOn": "2025-10-15T14:35:25.000Z",
+          "wordCount": 1989,
+          "title": "Top Annotation Platforms and Services for Autonomous Medical Coding in 2025",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/10/Feature-IMG-Top-Annotation-Platforms-and-Services-for-Autonomous-Medical-Coding-in-2025-1-scaled.jpg"
+        },
         {
           "id": "https://imerit.net/?p=30304",
           "author": "Sujana Urs",
@@ -1809,16 +1868,6 @@
           "wordCount": 3511,
           "title": "How GenAI and HITL are Redefining Financial Services",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/09/Feature-IMG-How-GenAI-and-HITL-are-Redefining-Financial-Services-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=20414",
-          "author": "Sujana Urs",
-          "description": "Learn how data annotation in surgical AI has the potential to revolutionize patient care by assisting surgeons during procedures, providing decision support, enabling early diagnosis, and improving overall surgical outcomes.\nThe post Surgical AI Data Annotation: Improving Patient Outcomes appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/how-surgical-ai-data-annotation-is-improving-patient-outcomes/",
-          "publishedOn": "2025-09-15T10:50:41.000Z",
-          "wordCount": 2325,
-          "title": "Surgical AI Data Annotation: Improving Patient Outcomes",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2023/08/OG_How-Surgical-AI-Data-Annotation-is-Improving-Patient-Outcomes.jpg"
         }
       ]
     },
@@ -1827,6 +1876,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=244710",
+          "author": "Harsh Mishra",
+          "description": "What if you could build a functional ChatGPT-like AI for $100? Andrej Karpathy’s new nanochat tells you exactly that! Launched on October 13, 2025, Karpathy’s nanochat project is an open-source LLM coded in roughly 8,000 lines of PyTorch. It gives you a straightforward roadmap on how to train a language model from scratch and make […]\nThe post Build ChatGPT Clone with Andrej Karpathy’s nanochat  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/andrej-karpathys-nanochat/",
+          "publishedOn": "2025-10-15T14:49:16.000Z",
+          "wordCount": null,
+          "title": "Build ChatGPT Clone with Andrej Karpathy’s nanochat",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=244399",
+          "author": "Nitika Sharma",
+          "description": "Ever since Perplexity announced its own browser, I’ve been super excited to try it out. Getting early access to Comet was a challenge. But I finally got in, and I’ve been testing it thoroughly across a wide range of tasks. The best part – Perplexity has opened access to Comet for everyone, so you can […]\nThe post 7 Crazy Things You Can Do with Perplexity Comet appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/perplexity-comet/",
+          "publishedOn": "2025-10-15T09:33:53.000Z",
+          "wordCount": null,
+          "title": "7 Crazy Things You Can Do with Perplexity Comet",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=244583",
           "author": "Harsh Mishra",
@@ -2548,28 +2619,6 @@
           "title": "How to Access Qwen3-Next API for Free?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=242781",
-          "author": "Sarthak Dogra",
-          "description": "In this fast-paced life, we often reminisce about the era gone by. The golden days had their own, serene style of lifestyle and fashion that still, for the most part, beats what we have today. While we cannot go back in time as much as we wish to, AI tools today provide a unique way […]\nThe post 12 Nano Banana Prompts to Convert Your Photos into Retro Images appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/",
-          "publishedOn": "2025-09-15T11:50:18.000Z",
-          "wordCount": null,
-          "title": "12 Nano Banana Prompts to Convert Your Photos into Retro Images",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=242790",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Seedream v4 is the latest image generation model from ByteDance, designed for high-quality, photorealistic results. It supports images up to 4K resolution, advanced editing, and reference-based generation, making it one of the most versatile image processing tools for AI-driven visual creation. Seedream v4 is not another academic paper you bookmark and forget. It’s an API […]\nThe post Seedream v4: Nano Banana Can’t Keep Up! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/seedream-v4-nano-banana-cant-keep-up/",
-          "publishedOn": "2025-09-15T11:11:15.000Z",
-          "wordCount": null,
-          "title": "Seedream v4: Nano Banana Can’t Keep Up!",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2614,6 +2663,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/plex-coffee",
+          "author": null,
+          "description": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+          "link": "https://openai.com/index/plex-coffee",
+          "publishedOn": "2025-10-15T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/expert-council-on-well-being-and-ai",
           "author": null,
@@ -3043,36 +3102,6 @@
           "wordCount": null,
           "title": "Building towards age prediction",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-upgrades-to-codex",
-          "author": null,
-          "description": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
-          "link": "https://openai.com/index/introducing-upgrades-to-codex",
-          "publishedOn": "2025-09-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing upgrades to Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/how-people-are-using-chatgpt",
-          "author": null,
-          "description": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
-          "link": "https://openai.com/index/how-people-are-using-chatgpt",
-          "publishedOn": "2025-09-15T03:00:00.000Z",
-          "wordCount": null,
-          "title": "How people are using ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
-          "author": null,
-          "description": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.",
-          "link": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
-          "publishedOn": "2025-09-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Addendum to GPT-5 system card: GPT-5-Codex",
-          "imageUrl": null
         }
       ]
     },
@@ -3152,6 +3181,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "fqRmcuspZuYBNiQuQ",
+          "author": "Fabien Roger",
+          "description": "Published on October 15, 2025 7:34 PM GMT\n\ntl;dr: A heavily-monitored internally deployed AI with sensitive access (e.g. to model weights) could bypass safety controls by asking a weakly-monitored external API version of itself (or another AI) what to do. It could then use its privileged access to execute instructions that the external API generated under less monitoring.\nOnce AI companies build powerful AIs, they may:\n\nGive internal AIs access to sensitive internal privileges (e.g. access to the internal infra that touches model weights, help with training of the next generation of AIs, …);\nHave mitigations specific to those internal deployments enforced via monitoring of the internal LLM API;\nHave an external API deployment without those mitigations.\n\nIn this situation, an internal AI ma…",
+          "link": "https://www.alignmentforum.org/posts/fqRmcuspZuYBNiQuQ/rogue-internal-deployments-via-external-apis",
+          "publishedOn": "2025-10-15T19:34:34.000Z",
+          "wordCount": 18304,
+          "title": "Rogue internal deployments via external APIs",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/dury9wsaoexoo88mfkpm"
+        },
         {
           "id": "Lz8cvGskgXmLRgmN4",
           "author": "Fabien Roger",
