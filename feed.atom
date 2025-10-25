@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-10-24T01:13:11.714Z</updated>
+    <updated>2025-10-25T01:12:02.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI from First Principles: Reflection]]></title>
+        <id>https://towardsdatascience.com/?p=607482</id>
+        <link href="https://towardsdatascience.com/agentic-ai-from-first-principles-reflection/"/>
+        <updated>2025-10-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From theory to code: building feedback loops that improve LLM accuracy
+The post Agentic AI from First Principles: Reflection appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mariya Mansurova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Consistently Extract Metadata from Complex Documents]]></title>
+        <id>https://towardsdatascience.com/?p=607480</id>
+        <link href="https://towardsdatascience.com/how-to-consistently-extract-metadata-from-complex-documents/"/>
+        <updated>2025-10-24T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to extract important pieces of information from your documents
+The post How to Consistently Extract Metadata from Complex Documents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Best Model Size and Dataset Size under a Fixed Budget for LLMs]]></title>
+        <id>https://towardsdatascience.com/?p=607478</id>
+        <link href="https://towardsdatascience.com/choosing-the-best-model-size-and-dataset-size-under-a-fixed-budget-for-llms/"/>
+        <updated>2025-10-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A small-scale exploration using Tiny Transformers
+The post Choosing the Best Model Size and Dataset Size under a Fixed Budget for LLMs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Haiku 4.5 is Here… and it’s BETTER than Sonnet 4.5?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=244999</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/claude-haiku-4-5/"/>
+        <updated>2025-10-24T13:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Claude Haiku 4.5 is Anthropic’s latest small model, released on 15th October to all users. It’s a strong reminder that speed and intelligence don’t have to come at a high price. Just five months ago, Claude Sonnet 4 was considered the benchmark for balanced performance. Now, Haiku 4.5 delivers nearly the same coding and reasoning […]
+The post Claude Haiku 4.5 is Here… and it’s BETTER than Sonnet 4.5? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Aayush Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy an OpenAI Agent Builder Chatbot to a Website]]></title>
+        <id>https://towardsdatascience.com/?p=607476</id>
+        <link href="https://towardsdatascience.com/deploy-an-openai-agent-builder-chatbot-to-a-website/"/>
+        <updated>2025-10-24T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using OpenAI’s Agent Builder ChatKit
+The post Deploy an OpenAI Agent Builder Chatbot to a Website appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guardrails in LLMs: Building Reliable AI Systems with Guardrails]]></title>
+        <id>https://www.analyticsvidhya.com/?p=244779</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/guardrails-in-llm/"/>
+        <updated>2025-10-24T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Guardrails are the building blocks of LLM applications, helping turn experimental LLM apps into reliable, enterprise-grade solutions. How? While LLM-powered AI applications may look effortless in Proof of Concept (POC), scaling them reliably is a hard task. While LLMs excel at open-ended reasoning, they struggle with control and consistency when adapted for specific, mission-critical use […]
+The post Guardrails in LLMs: Building Reliable AI Systems with Guardrails appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Badrinarayan M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poisoning Attacks on LLMs: A Direct Attack on LLMs with Less than 250 Samples]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245012</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/llm-data-poisoning/"/>
+        <updated>2025-10-24T08:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic, in collaboration with the United Kingdom’s Artificial Intelligence Security Institute and the Alan Turing Institute, recently published an intriguing paper showing that as few as 250 malicious documents can create a “backdoor” vulnerability in a large language model, regardless of the model’s size or the volume of training data! We’ll explore these results in […]
+The post Poisoning Attacks on LLMs: A Direct Attack on LLMs with Less than 250 Samples appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Shaik Hamzah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeRobot v0.4.0: Super Charging OSS Robotics Learning]]></title>
+        <id>https://huggingface.co/blog/lerobot-release-v040</id>
+        <link href="https://huggingface.co/blog/lerobot-release-v040"/>
+        <updated>2025-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Transformers Sing: Adapting SpectralKD for Text-Based Knowledge Distillation]]></title>
         <id>https://towardsdatascience.com/?p=607472</id>
@@ -172,6 +259,16 @@ The post Federated Learning and Custom Aggregation Schemes appeared first on Tow
         <summary type="html"><![CDATA[OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.]]></summary>
         <author>
             <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Advanced Feature Engineering Techniques with LLMs for Tabular Data]]></title>
+        <id>https://machinelearningmastery.com/?p=22066</id>
+        <link href="https://machinelearningmastery.com/5-advanced-feature-engineering-techniques-with-llms-for-tabular-data/"/>
+        <updated>2025-10-22T14:41:10.000Z</updated>
+        <summary type="html"><![CDATA[In the epoch of LLMs, it may seem like the most classical machine learning concepts, methods, and techniques like feature engineering are no longer in the spotlight.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -346,6 +443,16 @@ TRM: Tiny AI Models beating Giants on Complex Puzzles first appeared on LearnOpe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7 Must-Know Agentic AI Design Patterns]]></title>
+        <id>https://machinelearningmastery.com/?p=22122</id>
+        <link href="https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/"/>
+        <updated>2025-10-21T13:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Building AI agents that work in production requires more than powerful models.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Implementing the Fourier Transform Numerically in Python: A Step-by-Step Guide]]></title>
         <id>https://towardsdatascience.com/?p=607445</id>
         <link href="https://towardsdatascience.com/implementing-the-fourier-transform-numerically-in-python-a-step-by-step-guide/"/>
@@ -462,6 +569,16 @@ The post Things I Learned by Participating in GenAI Hackathons Over the Past 6 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Future-Proofing Your AI Engineering Career in 2026]]></title>
+        <id>https://machinelearningmastery.com/?p=22078</id>
+        <link href="https://machinelearningmastery.com/future-proofing-your-ai-engineering-career-in-2026/"/>
+        <updated>2025-10-20T11:00:38.000Z</updated>
+        <summary type="html"><![CDATA[AI engineering has shifted from a futuristic niche to one of the most in-demand tech careers on the planet.]]></summary>
+        <author>
+            <name>Nahla Davies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create an AI-Powered WhatsApp Sticker Generator using Python]]></title>
         <id>https://www.analyticsvidhya.com/?p=244040</id>
         <link href="https://www.analyticsvidhya.com/blog/2025/10/whatsapp-sticker-generator/"/>
@@ -571,6 +688,16 @@ The post Google’s Veo 3.1 Just Killed Sora 2! appeared first on Analytics Vidh
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Revolutionizing MLOps: Enhanced BigQuery ML UI for Seamless Model Creation and Management]]></title>
+        <id>https://machinelearningmastery.com/?p=22053</id>
+        <link href="https://machinelearningmastery.com/revolutionizing-mlops-enhanced-bigquery-ml-ui-for-seamless-model-creation-and-management/"/>
+        <updated>2025-10-17T18:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Exciting news for BigQuery ML (BQML) users.]]></summary>
+        <author>
+            <name>Nivedita Kumari</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Machine Learning Meets Panel Data: What Practitioners Need to Know]]></title>
         <id>https://towardsdatascience.com/?p=607417</id>
         <link href="https://towardsdatascience.com/machine-learning-meets-panel-data-what-practitioners-need-to-know/"/>
@@ -590,6 +717,16 @@ The post Machine Learning Meets Panel Data: What Practitioners Need to Know appe
 The post How to Classify Lung Cancer Subtype from DNA Copy Numbers Using PyTorch appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Adam Streck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Vector Databases for Machine Learning]]></title>
+        <id>https://machinelearningmastery.com/?p=22047</id>
+        <link href="https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/"/>
+        <updated>2025-10-17T16:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Vector databases have become essential in most modern AI applications.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -658,6 +795,16 @@ The post Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Ope
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3 Ways to Speed Up Model Training Without More GPUs]]></title>
+        <id>https://machinelearningmastery.com/?p=22005</id>
+        <link href="https://machinelearningmastery.com/3-ways-to-speed-up-model-training-without-more-gpus/"/>
+        <updated>2025-10-16T17:14:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn three proven ways to speed up model training by optimizing precision, memory, and data flow — without adding any...]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reducing risk from scheming by studying trained-in scheming behavior]]></title>
         <id>v6K3hnq5c9roa5MbS</id>
         <link href="https://www.alignmentforum.org/posts/v6K3hnq5c9roa5MbS/reducing-risk-from-scheming-by-studying-trained-in-scheming"/>
@@ -679,6 +826,16 @@ This approach eliminates one of the main difficulties with studying actual schem
 The post Stop Feeling Lost :  How to Master ML System Design appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Feature Engineering Tricks for Text Data]]></title>
+        <id>https://machinelearningmastery.com/?p=21949</id>
+        <link href="https://machinelearningmastery.com/7-feature-engineering-tricks-for-text-data/"/>
+        <updated>2025-10-16T15:24:51.000Z</updated>
+        <summary type="html"><![CDATA[An increasing number of AI and machine learning-based systems feed on text data — language models are a notable example today.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -3026,206 +3183,6 @@ The post PyTorch Explained: From Automatic Differentiation to Training Custom Ne
 The post 12 Things you can do with the Free Gemini API appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Day Attack Detection using Denoising Autoencoder on UNSW-NB15]]></title>
-        <id>https://www.analyticsvidhya.com/?p=242240</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/zero-day-attack-detection/"/>
-        <updated>2025-09-24T13:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Zero-day attacks are among the most serious cybersecurity threats. They exploit previously unknown vulnerabilities, allowing them to bypass existing intrusion detection systems (IDS). Traditional signature-based IDS fails here as it depends on the known attack pattern.  To detect such a kind of attack, models need to learn what normal network behaviour looks like and flag […]
-The post Zero-Day Attack Detection using Denoising Autoencoder on UNSW-NB15 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitin Wankhade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the AI-3P Assessment Framework: Score AI Projects Before Committing Resources]]></title>
-        <id>https://towardsdatascience.com/?p=607251</id>
-        <link href="https://towardsdatascience.com/the-ai-3p-assessment-framework/"/>
-        <updated>2025-09-24T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A question-driven scorecard to prioritize and de-risk AI initiatives before implementation
-The post Introducing the AI-3P Assessment Framework: Score AI Projects Before Committing Resources appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Marina Tosic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Vector Search: 5 Next-Gen RAG Retrieval Strategies]]></title>
-        <id>https://machinelearningmastery.com/?p=21849</id>
-        <link href="https://machinelearningmastery.com/beyond-vector-search-5-next-gen-rag-retrieval-strategies/"/>
-        <updated>2025-09-24T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://machinelearningmastery.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’]]></title>
-        <id>https://openai.com/global-affairs/openai-for-germany</id>
-        <link href="https://openai.com/global-affairs/openai-for-germany"/>
-        <updated>2025-09-24T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating Consistent Imagery with Gemini]]></title>
-        <id>https://towardsdatascience.com/?p=607249</id>
-        <link href="https://towardsdatascience.com/generating-consistent-imagery-with-gemini/"/>
-        <updated>2025-09-23T21:49:34.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to building a prompt-based generation pipeline for your image library
-The post Generating Consistent Imagery with Gemini appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Laurent Picard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draconian measures can increase the risk of irrevocable catastrophe]]></title>
-        <id>xSxdtEAnum56e8dqH</id>
-        <link href="https://www.alignmentforum.org/posts/xSxdtEAnum56e8dqH/draconian-measures-can-increase-the-risk-of-irrevocable-1"/>
-        <updated>2025-09-23T21:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Published on September 23, 2025 9:40 PM GMT
-
-I frequently see arguments of this form:
-
-We have two choices:
-
-accept the current rate of AI progress and a very large risk[1] of existential catastrophe,
-or
-
-slow things down, greatly reducing the risk of existential catastrophe, in exchange for a cosmically irrelevant delay in reaping the benefits of AI.
-
-(Examples here[2] and here, among many others.)
-But whether this is true depends on what mechanism is used to slow things down.
-Some are proposing a regime of control over the world’s compute supply which we would all recognize as draconian in any other context. Whoever is in charge of that regime would necessarily possess great power, both because of the required severity of the control mechanisms and because of the importance of the resour…]]></summary>
-        <author>
-            <name>David Schneider-Joseph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Asking Good Questions]]></title>
-        <id>https://towardsdatascience.com/?p=607245</id>
-        <link href="https://towardsdatascience.com/the-art-of-asking-good-questions/"/>
-        <updated>2025-09-23T18:12:54.000Z</updated>
-        <summary type="html"><![CDATA[As a data scientist, are you driving product decisions? Or just supporting them? The right questions can turn AI from a threat into your career’s best ally. Here’s how to start asking them.
-The post The Art of Asking Good Questions appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Greg Rafferty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Qwen-Image-Edit-2509 Better than Nano Banana?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243238</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/qwen-image-edit-2509/"/>
-        <updated>2025-09-23T18:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Qwen-Image-Edit-2509 | Person plus person 
-The post Is Qwen-Image-Edit-2509 Better than Nano Banana? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI Myths, Busted: An Engineers’s Quick Guide]]></title>
-        <id>https://towardsdatascience.com/?p=607244</id>
-        <link href="https://towardsdatascience.com/gen-ai-myths-busted-a-engineerss-quick-guide/"/>
-        <updated>2025-09-23T18:08:11.000Z</updated>
-        <summary type="html"><![CDATA[A super simple and quick guide to how generative AI works, the myths around it, and why it won’t replace engineers anytime soon.
-The post Generative AI Myths, Busted: An Engineers’s Quick Guide appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Amy Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthesizing Standalone World-Models, Part 1: Abstraction Hierarchies]]></title>
-        <id>xvCNjLL3GZ6w2BWeb</id>
-        <link href="https://www.alignmentforum.org/posts/xvCNjLL3GZ6w2BWeb/synthesizing-standalone-world-models-part-1-abstraction"/>
-        <updated>2025-09-23T17:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Published on September 23, 2025 5:01 PM GMT
-
-This is part of a series covering my current research agenda. Refer to the linked post for additional context.
-
-Suppose we have a dataset consisting of full low-level histories of various well-abstracting universes. For simplicity, imagine them as n.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; margin: 0; padding: 1px 0}
-.MJXc-display {display: block; text-align: center; margin: 1em 0; padding: 0}
-.mjx-chtml[tabindex]:f…]]></summary>
-        <author>
-            <name>Thane Ruthenis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Marketers Turning To Quasi Geo-Lift Experiments? (And How to Plan Them)]]></title>
-        <id>https://towardsdatascience.com/?p=607222</id>
-        <link href="https://towardsdatascience.com/why-are-marketers-turning-to-quasi-geo-lift-experiments-and-how-to-plan-them/"/>
-        <updated>2025-09-23T16:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Are “quasi” geo-lift experiments the missing piece for your marketing science function?
-The post Why Are Marketers Turning To Quasi Geo-Lift Experiments? (And How to Plan Them) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Tomas Jancovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bagging vs Boosting vs Stacking: Which Ensemble Method Wins in 2025?]]></title>
-        <id>https://machinelearningmastery.com/?p=21368</id>
-        <link href="https://machinelearningmastery.com/bagging-vs-boosting-vs-stacking-which-ensemble-method-wins-in-2025/"/>
-        <updated>2025-09-23T16:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In machine learning, no single model is perfect.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried Deepseek-V3.1-Terminus and This is How it Went..]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243309</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/deepseek-v3-1-terminus/"/>
-        <updated>2025-09-23T14:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Benchmark Comparison
-The post I Tried Deepseek-V3.1-Terminus and This is How it Went.. appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3-Omni Review: Multimodal Powerhouse or Overhyped Promise?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243302</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/qwen3-omni/"/>
-        <updated>2025-09-23T14:15:45.000Z</updated>
-        <summary type="html"><![CDATA[If you use AI tools regularly, you must’ve had this easy realisation – no one tool is perfect for all tasks. While some lead the pack in terms of content production (like ChatGPT), there are others that are way better at generating images and videos (like Gemini). With such specific use-cases, we’ve seen a horde […]
-The post Qwen3-Omni Review: Multimodal Powerhouse or Overhyped Promise? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites]]></title>
-        <id>https://openai.com/index/five-new-stargate-sites</id>
-        <link href="https://openai.com/index/five-new-stargate-sites"/>
-        <updated>2025-09-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide To VLM Evaluation Metrics, Datasets, And Benchmarks]]></title>
-        <id>https://learnopencv.com/?p=75253</id>
-        <link href="https://learnopencv.com/vlm-evaluation-metrics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vlm-evaluation-metrics"/>
-        <updated>2025-09-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Get a comprehensive overview of VLM Evaluation Metrics, Benchmarks and various datasets for tasks like VQA, OCR and Image Captioning.
-The Ultimate Guide To VLM Evaluation Metrics, Datasets, And Benchmarks first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Bhomik Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top VLM Evaluation Metrics for Optimal Performance Analysis]]></title>
-        <id>https://learnopencv.com/?p=75253</id>
-        <link href="https://learnopencv.com/vlm-evaluation-metrics/"/>
-        <updated>2025-09-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Get a comprehensive overview of VLM Evaluation Metrics, Benchmarks and various datasets for tasks like VQA, OCR and Image Captioning.
-Top VLM Evaluation Metrics for Optimal Performance Analysis first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Bhomik Sharma</name>
         </author>
     </entry>
 </feed>
