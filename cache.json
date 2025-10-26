@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607484",
+          "author": "Murtaza Ali",
+          "description": "Learn the foundations of Python to take your data visualization game to the next level.\nThe post Data Visualization Explained (Part 4): A Review of Python Essentials appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-visualization-explained-part-4-a-review-of-python-essentials/",
+          "publishedOn": "2025-10-25T16:00:00.000Z",
+          "wordCount": 4222,
+          "title": "Data Visualization Explained (Part 4): A Review of Python Essentials",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/chris-ried-ieic5Tq8YMk-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607488",
+          "author": "Robert Constable",
+          "description": "An example workflow for vector geospatial data science\nThe post Building a Geospatial Lakehouse with Open Source and Databricks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-geospatial-lakehouse-with-open-source-and-databricks-2/",
+          "publishedOn": "2025-10-25T14:00:00.000Z",
+          "wordCount": 4713,
+          "title": "Building a Geospatial Lakehouse with Open Source and Databricks",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/Ptolemy-World_Vat_Urb_82.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607482",
           "author": "Mariya Mansurova",
           "description": "From theory to code: building feedback loops that improve LLM accuracy\nThe post Agentic AI from First Principles: Reflection appeared first on Towards Data Science.",
@@ -90,6 +110,16 @@
           "wordCount": 7178,
           "title": "Multiple Linear Regression Explained Simply (Part 1)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/mlr-blog-cover-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607493",
+          "author": "TDS Editors",
+          "description": "From afar, new LLMs and the applications they power seem shiny, or even magical. The unrelenting pace of product launches and media coverage adds to their aura, and generates extreme levels of FOMO among ML practitioners and business executives alike. The overall effect? The feeling that AI is inevitable, and its value unquestionable.  The articles we’ve selected […]\nThe post TDS Newsletter: What Happens When AI Reaches Its Limits? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/tds-newsletter-what-happens-when-ai-reaches-its-limits/",
+          "publishedOn": "2025-10-23T11:20:00.000Z",
+          "wordCount": 3556,
+          "title": "TDS Newsletter: What Happens When AI Reaches Its Limits?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/daniele-franchi-kKaKVCpkdUU-unsplash.jpg"
         },
         {
           "id": "https://towardsdatascience.com/?p=607462",
@@ -865,56 +895,6 @@
           "wordCount": 5589,
           "title": "Notes on LLM Evaluation",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/kelly-sikkema-nz-GTuvyBw-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607263",
-          "author": "Lucas See",
-          "description": "Deploying a FastAPI + PostgreSQL recommender system as a web application on Render\nThe post Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-a-video-game-recommender-system-with-fastapi-postgresql-and-render-part-2/",
-          "publishedOn": "2025-09-25T12:32:00.000Z",
-          "wordCount": 6155,
-          "title": "Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/image2.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607261",
-          "author": "Lucas See",
-          "description": "Designing a video game recommendations service with Steams API\nThe post Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-video-game-recommender-systems-with-fastapi-postgresql-and-render-part-1/",
-          "publishedOn": "2025-09-25T12:30:00.000Z",
-          "wordCount": 7537,
-          "title": "Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/glenn-carstens-peters-0woyPEJQ7jc-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607259",
-          "author": "Fraser King",
-          "description": "Rain, snow, or something In between?\nThe post Decoding Nonlinear Signals In Large Observational Datasets appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/decoding-nonlinear-signals-in-large-observational-datasets/",
-          "publishedOn": "2025-09-24T19:37:07.000Z",
-          "wordCount": 8192,
-          "title": "Decoding Nonlinear Signals In Large Observational Datasets",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/cool_embedding_image.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607257",
-          "author": "Maria Mouschoutzi",
-          "description": "How reranking improves retrieval-augmented generation by surfacing the most relevant results\nThe post RAG Explained: Reranking for Better Answers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-explained-reranking-for-better-answers/",
-          "publishedOn": "2025-09-24T18:31:39.000Z",
-          "wordCount": 4630,
-          "title": "RAG Explained: Reranking for Better Answers",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/b79b6ab0-d2d1-4869-96d9-20b4704232fd-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607255",
-          "author": "Avishek Biswas",
-          "description": "Deep learning is shaping our world as we speak. In fact, it has been slowly revolutionizing software since the early 2010s. In 2025, PyTorch is at the forefront of this revolution, emerging as one of the most important libraries to train neural networks. Whether you are working with computer vision, building large language models (LLMs), […]\nThe post PyTorch Explained: From Automatic Differentiation to Training Custom Neural Networks appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-basics-of-deep-learning-with-pytorch-in-1-hour/",
-          "publishedOn": "2025-09-24T18:19:59.000Z",
-          "wordCount": 5689,
-          "title": "PyTorch Explained: From Automatic Differentiation to Training Custom Neural Networks",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/09/Torch_TDS_3.png"
         }
       ]
     },
@@ -1121,16 +1101,6 @@
           "publishedOn": "2025-09-26T12:00:21.000Z",
           "wordCount": null,
           "title": "Why and When to Use Sentence Embeddings Over Word Embeddings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21864",
-          "author": "Abid Ali Awan",
-          "description": "<a href=\"https://www.",
-          "link": "https://machinelearningmastery.com/5-ai-agent-projects-for-beginners/",
-          "publishedOn": "2025-09-25T12:00:40.000Z",
-          "wordCount": null,
-          "title": "5 AI Agent Projects for Beginners",
           "imageUrl": null
         }
       ]
@@ -1786,6 +1756,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=244387",
+          "author": "Madhura Raut",
+          "description": "SQL is the language of data; however, anyone who has spent some time writing queries knows the pain. Remembering exact syntax for window functions, multi-table joins, and debugging cryptic SQL errors can be tedious and time-consuming. For non-technical users, getting simple answers often requires calling in a data analyst. Large Language Models (LLMs) are starting […]\nThe post Less Syntax, More Insights: LLMs as SQL Copilots appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/10/llms-as-sql-copilots/",
+          "publishedOn": "2025-10-25T10:45:23.000Z",
+          "wordCount": null,
+          "title": "Less Syntax, More Insights: LLMs as SQL Copilots",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=244999",
           "author": "Aayush Tyagi",
@@ -2518,39 +2499,6 @@
           "title": "5 Best Laptops for AI Engineers and Developers",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=242062",
-          "author": "Riya Bansal",
-          "description": "Imagine this scenario: you’ve just read a brilliant research paper with a cutting-edge algorithm, but it will take you weeks of boring code development to implement the research, or maybe you’ve thought of a brilliant web app but have not developed the frontend skills necessary to create it. What if I told you that there […]\nThe post DeepCode: This FREE Agentic AI Coder is INSANE! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/deepcode/",
-          "publishedOn": "2025-09-25T03:04:00.000Z",
-          "wordCount": null,
-          "title": "DeepCode: This FREE Agentic AI Coder is INSANE!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=243418",
-          "author": "Vipin Vashisth",
-          "description": "Google has recently introduced a new open standard for its online payments with the Agent Payments Protocol (AP2). AP2 is a long-awaited initiative that enables AI-assisted secure payments for users. AP2 builds on the existing agent communication protocols of Agent2Agent (A2A) and Model Context (MCP) to produce a transaction-agnostic layer. In short, AP2 is a […]\nThe post Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/agent-payments-protocol-ap2/",
-          "publishedOn": "2025-09-25T02:12:00.000Z",
-          "wordCount": null,
-          "title": "Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=242749",
-          "author": "Harsh Mishra",
-          "description": "Large language models (LLMs) are now more accessible than ever. Google’s Gemini API offers a powerful and versatile tool for developers and creators. This guide explores the numerous practical applications you can utilize with the free Gemini API. We will walk through several hands-on examples. You will learn key Gemini API prompting techniques, from simple […]\nThe post 12 Things you can do with the Free Gemini API appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/09/gemini-free-api/",
-          "publishedOn": "2025-09-24T13:14:23.000Z",
-          "wordCount": null,
-          "title": "12 Things you can do with the Free Gemini API",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2974,46 +2922,6 @@
           "wordCount": null,
           "title": "Partnering with AARP to help keep older adults safe online",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/more-ways-to-work-with-your-team",
-          "author": null,
-          "description": "ChatGPT business plans now support shared projects, smarter connectors, and enhanced compliance features to help teams work faster and more securely.",
-          "link": "https://openai.com/index/more-ways-to-work-with-your-team",
-          "publishedOn": "2025-09-25T11:00:00.000Z",
-          "wordCount": null,
-          "title": "More ways to work with your team and tools in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gdpval",
-          "author": null,
-          "description": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
-          "link": "https://openai.com/index/gdpval",
-          "publishedOn": "2025-09-25T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Measuring the performance of our models on real-world tasks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-chatgpt-pulse",
-          "author": null,
-          "description": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
-          "link": "https://openai.com/index/introducing-chatgpt-pulse",
-          "publishedOn": "2025-09-25T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing ChatGPT Pulse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/eneos-materials",
-          "author": null,
-          "description": "By deploying ChatGPT Enterprise, ENEOS Materials transformed operations with faster research, safer plant design, and streamlined HR processes. Over 80% of employees report major workflow improvements, strengthening competitiveness in manufacturing.",
-          "link": "https://openai.com/index/eneos-materials",
-          "publishedOn": "2025-09-24T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Transforming the manufacturing industry with ChatGPT",
-          "imageUrl": null
         }
       ]
     },
@@ -3022,6 +2930,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/burning-out",
+          "author": "Nathan Lambert",
+          "description": "The international AI industry's collective risk.",
+          "link": "https://www.interconnects.ai/p/burning-out",
+          "publishedOn": "2025-10-25T14:30:06.000Z",
+          "wordCount": null,
+          "title": "Burning out",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/05227a43-480e-4935-8f96-4d1e295d970f_2400x1600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/05227a43-480e-4935-8f96-4d1e295d970f_2400x1600.jpeg"
+        },
         {
           "id": "https://www.interconnects.ai/p/the-new-rl-scaling-laws",
           "author": "Nathan Lambert",
@@ -3287,16 +3211,6 @@
           "publishedOn": "2025-09-25T19:21:37.000Z",
           "wordCount": null,
           "title": "Synthesizing Standalone World-Models, Part 3: Dataset-Assembly",
-          "imageUrl": null
-        },
-        {
-          "id": "kNyMwXQxctWtaRZhs",
-          "author": "Thane Ruthenis",
-          "description": "Published on September 24, 2025 7:02 PM GMT\n\nThis is part of a series covering my current research agenda. Refer to the linked post for additional context.\n\nLet's revisit our initial problem. We're given the lowest-level representation of a well-abstracting universe, and we want to transform it into its minimal representation / the corresponding well-structured world-model. The tools introduced in Part 1 are insufficient for that: there are two more problems left. This part focuses on one of them.\nKey example: Imagine looking at a glider in Conway's Game of Life. At the first time-step, it may occupy the coordinates [0:3]×[0:3].mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; …",
-          "link": "https://www.alignmentforum.org/posts/kNyMwXQxctWtaRZhs/synthesizing-standalone-world-models-part-2-shifting",
-          "publishedOn": "2025-09-24T19:02:14.000Z",
-          "wordCount": null,
-          "title": "Synthesizing Standalone World-Models, Part 2: Shifting Structures",
           "imageUrl": null
         }
       ]
