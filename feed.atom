@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-10-30T01:20:23.343Z</updated>
+    <updated>2025-10-31T01:15:36.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Pilot Sabotage Risk Report]]></title>
+        <id>omRf5fNyQdvRuMDqQ</id>
+        <link href="https://www.alignmentforum.org/posts/omRf5fNyQdvRuMDqQ/anthropic-s-pilot-sabotage-risk-report-2"/>
+        <updated>2025-10-30T17:50:04.000Z</updated>
+        <summary type="html"><![CDATA[Published on October 30, 2025 5:50 PM GMT
+
+As practice for potential future Responsible Scaling Policy obligations, we're releasing a report on misalignment risk posed by our deployed models as of Summer 2025. We conclude that there is very low, but not fully negligible, risk of misaligned autonomous actions that substantially contribute to later catastrophic outcomes. We also release two reviews of this report: an internal review and an independent review by METR.
+Our Responsible Scaling Policy has so far come into force primarily to address risks related to high-stakes human misuse. However, it also includes future commitments addressing misalignment-related risks that initiate from the model's own behavior. For future models that pass a capability threshold we have not yet reached, it c…]]></summary>
+        <author>
+            <name>dmz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Rules Engine from First Principles]]></title>
+        <id>https://towardsdatascience.com/?p=607523</id>
+        <link href="https://towardsdatascience.com/building-a-rules-engine-from-first-principles/"/>
+        <updated>2025-10-30T17:35:13.000Z</updated>
+        <summary type="html"><![CDATA[How recasting propositional logic as sparse algebra leads to an elegant and efficient design
+The post Building a Rules Engine from First Principles appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Dmitry Lesnik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build LLM Agents Faster with Datapizza AI]]></title>
+        <id>https://towardsdatascience.com/?p=607521</id>
+        <link href="https://towardsdatascience.com/datapizza-the-ai-framework-made-in-italy/"/>
+        <updated>2025-10-30T17:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Intro Organizations are increasingly investing in AI as these new tools are adopted in everyday operations more and more. This continuous wave of innovation is fueling the demand for more efficient and reliable frameworks. Following this trend, Datapizza (the startup behind Italy’s tech community) just released an open-source framework for GenAI with Python, called Datapizza […]
+The post Build LLM Agents Faster with Datapizza AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mauro Di Pietro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Edge Cases to Exploits: Why Red-Teaming Needs Expert-Vetted Datasets]]></title>
+        <id>https://imerit.net/?p=31018</id>
+        <link href="https://imerit.net/resources/blog/from-edge-cases-to-exploits-why-red-teaming-needs-expert-vetted-datasets/"/>
+        <updated>2025-10-30T16:06:36.000Z</updated>
+        <summary type="html"><![CDATA[A technical error in an AI model can have far-reaching consequences. Generative AI models can be manipulated to produce harmful
+The post From Edge Cases to Exploits: Why Red-Teaming Needs Expert-Vetted Datasets appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steering Evaluation-Aware Models to Act Like They Are Deployed]]></title>
+        <id>peKrvZ6t9PSCzoQDa</id>
+        <link href="https://www.alignmentforum.org/posts/peKrvZ6t9PSCzoQDa/steering-evaluation-aware-models-to-act-like-they-are"/>
+        <updated>2025-10-30T15:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Published on October 30, 2025 3:03 PM GMT
+
+🐦Tweet thread, 📄Paper,  🖥️Code, 🤖Evaluation Aware Model Organism
+TL, DR:;
+
+We train an evaluation-aware LLM. Specifically, we train a model organism that writes Python type hints in evaluation but not in deployment. Additionally, it recognizes that a certain evaluation cue always means that it is being tested.
+The evaluation cue is intended to simulate hard-to-remove signs of an eval being artificial, e.g. being LLM-written.
+Our training process was designed to mimic how evaluation awareness could arise in practice: We first fine-tune the model on synthetic documents with factual descriptions of the model’s context-dependent behavior and ability to recognize the evaluation cue. Then we train the model with expert iteration on evaluation data o…]]></summary>
+        <author>
+            <name>Tim Hua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Systems thinking helps me put the big picture front and center”]]></title>
+        <id>https://towardsdatascience.com/?p=607496</id>
+        <link href="https://towardsdatascience.com/systems-thinking-helps-me-put-the-big-picture-front-and-center/"/>
+        <updated>2025-10-30T14:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Shuai Guo on deep research agents, analytical AI vs LLM-based agents, and systems thinking
+The post “Systems thinking helps me put the big picture front and center” appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is gpt-oss-safeguard? OpenAI’s Policy-Driven Safety Model]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245319</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/gpt-oss-safeguard/"/>
+        <updated>2025-10-30T14:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Forget content moderation. A new class of open models is here to actually think through your rules instead of blindly guessing them. Meet gpt-oss-safeguard: models that interpret your rules and enforce them with visible reasoning. No, massive retraining. No, black-box safety calls. Yes, flexible and open-weight systems you control. In this article, we’ll break down what the […]
+The post What is gpt-oss-safeguard? OpenAI’s Policy-Driven Safety Model appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Working App in 4 Minutes, Thanks to Manus 1.5]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245317</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/10/working-app-in-minutes-manus-1-5/"/>
+        <updated>2025-10-30T14:03:56.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to AI agents and workflow automation, Manus AI stands tall among the host of such solutions. The platform is quite renowned for its capabilities, so much so that us folks here at AnalyticsVidhya use it extensively for a range of tasks. And so, it shouldn’t be a surprise that we have covered […]
+The post I Built a Working App in 4 Minutes, Thanks to Manus 1.5 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding Stargate to Michigan]]></title>
+        <id>https://openai.com/index/expanding-stargate-to-michigan</id>
+        <link href="https://openai.com/index/expanding-stargate-to-michigan"/>
+        <updated>2025-10-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Aardvark: OpenAI’s agentic security researcher]]></title>
+        <id>https://openai.com/index/introducing-aardvark</id>
+        <link href="https://openai.com/index/introducing-aardvark"/>
+        <updated>2025-10-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas]]></title>
+        <id>https://openai.com/index/building-chatgpt-atlas</id>
+        <link href="https://openai.com/index/building-chatgpt-atlas"/>
+        <updated>2025-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Techniques to Optimize Your LLM Prompts for Cost, Latency and Performance]]></title>
         <id>https://towardsdatascience.com/?p=607518</id>
@@ -3004,205 +3130,6 @@ The post Actual Intelligence in the Age of AI appeared first on Towards Data Sci
 The post How to Build Effective Agentic Systems with LangGraph appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT: The Agentic App]]></title>
-        <id>https://www.interconnects.ai/p/the-agentic-app</id>
-        <link href="https://www.interconnects.ai/p/the-agentic-app"/>
-        <updated>2025-09-30T13:03:22.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT's long awaited move into user monetization.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Machine Learning Lessons I’ve Learned This Month]]></title>
-        <id>https://towardsdatascience.com/?p=607301</id>
-        <link href="https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month/"/>
-        <updated>2025-09-30T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[September 2025: library or self-made, Ditto and Launchbar, reading widely and deeply
-The post The Machine Learning Lessons I’ve Learned This Month appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pascal Janetzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sora feed philosophy]]></title>
-        <id>https://openai.com/index/sora-feed-philosophy</id>
-        <link href="https://openai.com/index/sora-feed-philosophy"/>
-        <updated>2025-09-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Sonnet 4.5: The New Coding King?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243780</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/claude-sonnet-4-5/"/>
-        <updated>2025-09-30T09:07:47.000Z</updated>
-        <summary type="html"><![CDATA[The best LLM for Coders is back with some new abilities. Anthropic recently launched Claude Sonnet 4.5, a powerful addition to its suite of LLMs. This new release significantly boosts capabilities, especially for tasks requiring advanced Agentic AI. It shows marked improvements in areas like code generation and multimodal reasoning, setting new standards for efficiency […]
-The post Claude Sonnet 4.5: The New Coding King? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launching Sora responsibly]]></title>
-        <id>https://openai.com/index/launching-sora-responsibly</id>
-        <link href="https://openai.com/index/launching-sora-responsibly"/>
-        <updated>2025-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora 2 is here]]></title>
-        <id>https://openai.com/index/sora-2</id>
-        <link href="https://openai.com/index/sora-2"/>
-        <updated>2025-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora 2 System Card]]></title>
-        <id>https://openai.com/index/sora-2-system-card</id>
-        <link href="https://openai.com/index/sora-2-system-card"/>
-        <updated>2025-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model check - DeepSeek-V3.2-Exp - Fine-Grained Sparse Attention for Efficient Long-Context LLMs]]></title>
-        <id>https://erogol.com/2025/09/30/model-check-deepseek-v3-2-exp-fine-grained-sparse-attention-for-efficient-long-context-llms</id>
-        <link href="https://erogol.com/2025/09/30/model-check-deepseek-v3-2-exp-fine-grained-sparse-attention-for-efficient-long-context-llms"/>
-        <updated>2025-09-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Efficient large language models have driven various architectural innovations—from mixture-of-experts to quantization techniques. Attention mechanisms remain the core computational bottleneck in transformers, and optimization typically degrades output quality. Most sparse attention approaches make coarse-grained trade-offs, sacrificing model capability for speed. DeepSeek-V3.2-Exp uses a fine-grained sparse attention mechanism that maintains output quality while reducing computational costs.
-The Core Innovation
-DeepSeek-V3.2-Exp introduces DeepSeek Sparse Attention (DSA)—an approach that achieves fine-grained sparsity patterns in attention computation without the typical quality degradation seen in traditional sparse attention methods.
-Unlike previous sparse attention techniques that use f…]]></summary>
-        <author>
-            <name>Machine Learns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of LiDAR Annotation in Autonomous Vehicles]]></title>
-        <id>https://imerit.net/?p=30064</id>
-        <link href="https://imerit.net/resources/blog/lidar-annotation-for-autonomous-vehicles/"/>
-        <updated>2025-09-29T21:19:48.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous vehicles are only as intelligent as the data that shapes them. At the heart of their perception systems is
-The post The Role of LiDAR Annotation in Autonomous Vehicles appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-V3.2-Exp: 50% Cheaper, 3x Faster, Maximum Value]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243729</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/09/deepseek-v3-2-exp/"/>
-        <updated>2025-09-29T19:34:29.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to building better AI, the usual strategy is to make models bigger. But this approach has a major problem: it becomes incredibly expensive. But, DeepSeek-V3.2-Exp took a different path… Instead of just adding more power, they focused on working smarter. The result is a new kind of model that delivers top-tier performance […]
-The post DeepSeek-V3.2-Exp: 50% Cheaper, 3x Faster, Maximum Value appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preparing Video Data for Deep Learning: Introducing Vid Prepper]]></title>
-        <id>https://towardsdatascience.com/?p=607298</id>
-        <link href="https://towardsdatascience.com/introducing-vid-prepper/"/>
-        <updated>2025-09-29T17:51:17.000Z</updated>
-        <summary type="html"><![CDATA[A guide to fast video data preprocessing for machine learning
-The post Preparing Video Data for Deep Learning: Introducing Vid Prepper appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jamie Petherbridge-Conroy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Made My AI Model 84% Smaller and It Got Better, Not Worse]]></title>
-        <id>https://towardsdatascience.com/?p=607295</id>
-        <link href="https://towardsdatascience.com/i-made-my-ai-model-84-smaller-and-it-got-better-not-worse/"/>
-        <updated>2025-09-29T17:27:34.000Z</updated>
-        <summary type="html"><![CDATA[The counterintuitive approach to AI optimization that's changing how we deploy models
-The post I Made My AI Model 84% Smaller and It Got Better, Not Worse appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Arjun Kaarat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving support with every interaction at OpenAI]]></title>
-        <id>https://openai.com/index/openai-support-model</id>
-        <link href="https://openai.com/index/openai-support-model"/>
-        <updated>2025-09-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving sales productivity and customer success at OpenAI]]></title>
-        <id>https://openai.com/index/openai-gtm-assistant</id>
-        <link href="https://openai.com/index/openai-gtm-assistant"/>
-        <updated>2025-09-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting inbound leads into customers at OpenAI]]></title>
-        <id>https://openai.com/index/openai-inbound-sales-assistant</id>
-        <link href="https://openai.com/index/openai-inbound-sales-assistant"/>
-        <updated>2025-09-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building OpenAI with OpenAI]]></title>
-        <id>https://openai.com/index/building-openai-with-openai</id>
-        <link href="https://openai.com/index/building-openai-with-openai"/>
-        <updated>2025-09-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning contracts into searchable data at OpenAI]]></title>
-        <id>https://openai.com/index/openai-contract-data-agent</id>
-        <link href="https://openai.com/index/openai-contract-data-agent"/>
-        <updated>2025-09-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering teams to unlock insights faster at OpenAI]]></title>
-        <id>https://openai.com/index/openai-research-assistant</id>
-        <link href="https://openai.com/index/openai-research-assistant"/>
-        <updated>2025-09-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Python Decorator Tricks to Write Cleaner Code]]></title>
-        <id>https://machinelearningmastery.com/?p=21665</id>
-        <link href="https://machinelearningmastery.com/7-python-decorator-tricks-to-write-cleaner-code/"/>
-        <updated>2025-09-29T13:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Usually shrouded in mystery at first glance, Python decorators are, at their core, functions wrapped around other functions to provide extra functionality without altering the key logic in the function being "decorated".]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
 </feed>
