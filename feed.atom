@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-04T01:16:07.943Z</updated>
+    <updated>2025-11-05T01:17:32.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Legible vs. Illegible AI Safety Problems]]></title>
+        <id>PMc65HgRFvBimEpmJ</id>
+        <link href="https://www.alignmentforum.org/posts/PMc65HgRFvBimEpmJ/legible-vs-illegible-ai-safety-problems"/>
+        <updated>2025-11-04T21:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 4, 2025 9:39 PM GMT
+
+Some AI safety problems are legible (obvious or understandable) to company leaders and government policymakers, implying they are unlikely to deploy or allow deployment of an AI while those problems remain open (i.e., appear unsolved according to the information they have access to). But some problems are illegible (obscure or hard to understand, or in a common cognitive blind spot), meaning there is a high risk that leaders and policymakers will decide to deploy or allow deployment even if they are not solved. (Of course, this is a spectrum, but I am simplifying it to a binary for ease of exposition.)
+From an x-risk perspective, working on highly legible safety problems has low or even negative expected value. Similar to working on AI capabilitie…]]></summary>
+        <author>
+            <name>Wei Dai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NumPy for Absolute Beginners: A Project-Based Approach to Data Analysis]]></title>
+        <id>https://towardsdatascience.com/?p=607560</id>
+        <link href="https://towardsdatascience.com/numpy-for-absolute-beginners-a-project-based-approach-to-data-analysis/"/>
+        <updated>2025-11-04T20:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Build a high-performance sensor data pipeline from scratch and unlock the true speed of Python's scientific computing core
+The post NumPy for Absolute Beginners: A Project-Based Approach to Data Analysis appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Building My First Dashboard Taught Me About Data Storytelling]]></title>
+        <id>https://towardsdatascience.com/?p=607558</id>
+        <link href="https://towardsdatascience.com/what-building-my-first-dashboard-taught-me-about-data-storytelling/"/>
+        <updated>2025-11-04T20:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Why clarity beats complexity when turning data into stories people actually understand
+The post What Building My First Dashboard Taught Me About Data Storytelling appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Do When Your Credit Risk Model Works Today, but Breaks Six Months Later]]></title>
+        <id>https://towardsdatascience.com/?p=607556</id>
+        <link href="https://towardsdatascience.com/your-credit-risk-model-works-today-it-breaks-in-six-months/"/>
+        <updated>2025-11-04T18:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Here’s why it happens — and how to fix it
+The post What to Do When Your Credit Risk Model Works Today, but Breaks Six Months Later appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Javier Marin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Train a Humanoid Robot with AI and Python]]></title>
+        <id>https://towardsdatascience.com/?p=607554</id>
+        <link href="https://towardsdatascience.com/train-humanoid-robots-with-ai-and-python/"/>
+        <updated>2025-11-04T18:11:51.000Z</updated>
+        <summary type="html"><![CDATA[3D simulations and Reinforcement Learning with MuJoCo and Gym
+The post Train a Humanoid Robot with AI and Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mauro Di Pietro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedCodeAgent: Automatic red-teaming agent against diverse code agents]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1152834</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/redcodeagent-automatic-red-teaming-agent-against-diverse-code-agents/"/>
+        <updated>2025-11-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Code agents help streamline software development workflows, but may also introduce critical security risks. Learn how RedCodeAgent automates and improves “red-teaming” attack simulations to help uncover real-world threats that other methods overlook.
+The post RedCodeAgent: Automatic red-teaming agent against diverse code agents appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Chengquan Guo , Chulin Xie, Yu Yang, Zhaorun Chen, Zinan Lin, Xander Davies, Yarin Gal, Dawn Song, Bo Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDM: Consistency Training Helps Limit Sycophancy and Jailbreaks in Gemini 2.5 Flash]]></title>
+        <id>DLrQ2jjijqpX78mHJ</id>
+        <link href="https://www.alignmentforum.org/posts/DLrQ2jjijqpX78mHJ/gdm-consistency-training-helps-limit-sycophancy-and"/>
+        <updated>2025-11-04T16:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 4, 2025 4:25 PM GMT
+
+Authors: Alex Irpan* and Alex Turner*, Mark Kurzeja, David Elson, and Rohin Shah
+You’re absolutely right to start reading this post! What a rational decision!
+Even the smartest models’ factuality or refusal training can be compromised by simple changes to a prompt. Models often praise the user’s beliefs (sycophancy) or satisfy inappropriate requests which are wrapped within special text (jailbreaking). Normally, we fix these problems with Supervised Finetuning (SFT) on static datasets showing the model how to respond in each context. While SFT is effective, static datasets get stale: they can enforce outdated guidelines (specification staleness) or be sourced from older, less intelligent models (capability staleness).
+We explore consistency traini…]]></summary>
+        <author>
+            <name>Alex Turner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes DeepSeek OCR So Powerful?]]></title>
+        <id>https://learnopencv.com/?p=76779</id>
+        <link href="https://learnopencv.com/what-makes-deepseek-ocr-so-powerful/"/>
+        <updated>2025-11-04T15:49:08.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek AI just unleashed DeepSeek OCR, a 3B-param beast that compresses entire documents into 100 vision tokens and still nails 97% accuracy.
+What Makes DeepSeek OCR So Powerful? first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Kukil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Ango Hub in Scaling Red-Teaming for Generative AI]]></title>
+        <id>https://imerit.net/?p=31185</id>
+        <link href="https://imerit.net/resources/blog/the-role-of-ango-hub-in-scaling-red-teaming-for-generative-ai/"/>
+        <updated>2025-11-04T13:51:49.000Z</updated>
+        <summary type="html"><![CDATA[3D point cloud data plays a vital role in geospatial analysis, supporting applications like mapping, urban planning, and disaster management. Explore 22 datasets offering detailed spatial insights.
+The post The Role of Ango Hub in Scaling Red-Teaming for Generative AI appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Smart AI Voice Assistant with Vapi: A Step-by-Step Tutorial]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245530</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/vapi-ai-voice-assistant/"/>
+        <updated>2025-11-04T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Most AI voice tools sound good on a demo and fall apart the moment a real customer picks up the phone. They miss context. They freeze on unpredictable questions. And even when the voice sounds human, the experience definitely doesn’t. That’s the gap Vapi fills. It blends natural speech, context-aware intelligence, and live call handling […]
+The post How to Build a Smart AI Voice Assistant with Vapi: A Step-by-Step Tutorial   appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Ways to Build Investment Portfolio Tracker in Excel]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245459</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/investment-portfolio-tracker-in-excel/"/>
+        <updated>2025-11-04T10:07:55.000Z</updated>
+        <summary type="html"><![CDATA[Managing stocks and ETFs across accounts gets messy fast, and guessing your gains or sector exposure is no way to invest. Centralize everything, track real performance, and get notified when something needs your attention instead of reacting late. This guide walks you through pulling live stock prices, calculating gains and losses, monitoring sector exposure, and […]
+The post 7 Ways to Build Investment Portfolio Tracker in Excel appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sohan Sethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil’s AI moment is here]]></title>
+        <id>https://openai.com/global-affairs/brazil-ai-moment-is-here</id>
+        <link href="https://openai.com/global-affairs/brazil-ai-moment-is-here"/>
+        <updated>2025-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It Doesn’t Need to Be a Chatbot]]></title>
         <id>https://towardsdatascience.com/?p=607552</id>
@@ -15,6 +152,26 @@
 The post It Doesn’t Need to Be a Chatbot appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Dr. Janna Lipenkova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper review: SSRL - Self-Search Reinforcement Learning]]></title>
+        <id>https://fastml.com/paper-review-ssrl-self-search-reinforcement-learning/</id>
+        <link href="https://fastml.com/paper-review-ssrl-self-search-reinforcement-learning/"/>
+        <updated>2025-11-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using LLMs is often intertwined with search engine calls, so it makes sense to teach LLMs how to make these calls during training. Search engine API …]]></summary>
+        <author>
+            <name>FastML</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing IndQA]]></title>
+        <id>https://openai.com/index/introducing-indqa</id>
+        <link href="https://openai.com/index/introducing-indqa"/>
+        <updated>2025-11-03T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -274,6 +431,16 @@ The post TDS Newsletter: October Must-Reads on Agents, Python, Context Engineeri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7 Machine Learning Projects to Land Your Dream Job in 2026]]></title>
+        <id>https://machinelearningmastery.com/?p=22226</id>
+        <link href="https://machinelearningmastery.com/7-machine-learning-projects-to-land-your-dream-job-in-2026/"/>
+        <updated>2025-10-30T16:47:53.000Z</updated>
+        <summary type="html"><![CDATA[machine learning continues to evolve faster than most can keep up with.]]></summary>
+        <author>
+            <name>Nahla Davies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Edge Cases to Exploits: Why Red-Teaming Needs Expert-Vetted Datasets]]></title>
         <id>https://imerit.net/?p=31018</id>
         <link href="https://imerit.net/resources/blog/from-edge-cases-to-exploits-why-red-teaming-needs-expert-vetted-datasets/"/>
@@ -408,6 +575,16 @@ The post Bringing Vision-Language Intelligence to RAG with ColPali appeared firs
 The post Grokipedia vs Wikipedia: Elon Musk’s AI Encyclopedia is Here! appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Advanced Feature Engineering Tricks for Text Data Using LLM Embeddings]]></title>
+        <id>https://machinelearningmastery.com/?p=22187</id>
+        <link href="https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-for-text-data-using-llm-embeddings/"/>
+        <updated>2025-10-29T15:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are not only good at understanding and generating text; they can also turn raw text into numerical representations called embeddings.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -2899,50 +3076,6 @@ The post Classical Computer Vision and Perspective Transformation for Sudoku Ext
 The post Building a Command-Line Quiz Application in R appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 15 DBMS Interview Questions]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243169</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/top-dbms-interview-questions/"/>
-        <updated>2025-10-05T03:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Recruiters no longer ask you to recite the six normal forms. They want to hear you reason about data at 2 a.m. when the primary shard is hot and the CFO is responding to the stakeholders. The questions you’ll encounter in this article have been harvested from real interviews at Google, Amazon, Stripe, Snowflake, and […]
-The post Top 15 DBMS Interview Questions appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243386</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/multi-agent-workflow/"/>
-        <updated>2025-10-05T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the first release of GPT-1 in 2018 to the latest release of GPT-5 in 2025, generative AI has created a revolution. From a capacity of 4,000 words in the earlier models to millions in the latest release, each model builds upon the previous one. The premise of Gen AI is based on user-provided input […]
-The post The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Karan Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Intelligence in Microsoft Fabric: The Ultimate Guide]]></title>
-        <id>https://towardsdatascience.com/?p=607337</id>
-        <link href="https://towardsdatascience.com/real-time-intelligence-in-microsoft-fabric-the-ultimate-guide/"/>
-        <updated>2025-10-04T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Once upon a time, handling streaming data was considered an avant-garde approach. Since the introduction of relational database management systems in the 1970s and traditional data warehousing systems in the late 1980s, all data workloads began and ended with the so-called batch processing. Batch processing relies on the concept of collecting numerous tasks in a group (or batch) […]
-The post Real-Time Intelligence in Microsoft Fabric: The Ultimate Guide appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Powerful Deep Research System]]></title>
-        <id>https://towardsdatascience.com/?p=607335</id>
-        <link href="https://towardsdatascience.com/how-to-build-a-powerful-deep-research-system/"/>
-        <updated>2025-10-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to access vasts amounts of information with your own deep research system
-The post How to Build a Powerful Deep Research System appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
         </author>
     </entry>
 </feed>
