@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-11T01:17:21.014Z</updated>
+    <updated>2025-11-12T01:16:39.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype]]></title>
+        <id>https://towardsdatascience.com/?p=607606</id>
+        <link href="https://towardsdatascience.com/do-you-really-need-graphrag-a-practitioners-guide-beyond-the-hype/"/>
+        <updated>2025-11-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A perspective on GraphRAG design best practices, challenges and learnings
+The post Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1154385</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/"/>
+        <updated>2025-11-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BlueCodeAgent is an end-to-end blue-teaming framework built to boost code security using automated red-teaming processes, data, and safety rules to guide LLMs’ defensive decisions. Dynamic testing reduces false positives in vulnerability detection.
+The post BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Chengquan Guo , Yuzhou  Nie, Chulin Xie, Zinan Lin, Wenbo Guo, Bo Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steering Language Models with Weight Arithmetic]]></title>
+        <id>HYTbakdHpxfaCowYp</id>
+        <link href="https://www.alignmentforum.org/posts/HYTbakdHpxfaCowYp/steering-language-models-with-weight-arithmetic"/>
+        <updated>2025-11-11T16:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 11, 2025 4:30 PM GMT
+
+We isolate behavior directions in weight-space by subtracting the weight deltas from two small fine-tunes - one that induces the desired behavior on a narrow distribution and another that induces its opposite.
+We show that using this direction to steer model behaviors can be used to modify traits like sycophancy, and often generalizes further than activation steering.
+Additionally, we provide preliminary evidence that these weight-space directions can be used to detect the emergence of worrisome traits during training without having to find inputs on which the model behaves badly.
+Interpreting and intervening on LLM weights directly has the potential to be more expressive and avoid some of the failure modes that may doom activation-space interpre…]]></summary>
+        <author>
+            <name>Fabien Roger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example)]]></title>
+        <id>https://towardsdatascience.com/?p=607604</id>
+        <link href="https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/"/>
+        <updated>2025-11-11T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical use case to describe how the data scientist job changed across three generations of machine learning
+The post The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Piero Paialunga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Vector DB and RAG Pipeline]]></title>
+        <id>https://learnopencv.com/?p=76842</id>
+        <link href="https://learnopencv.com/vector-db-and-rag-pipeline-for-document-rag/"/>
+        <updated>2025-11-11T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Processing long documents with VLMs or LLMs poses a fundamental challenge: input size exceeds context limits. Even with GPUs, as large as 12 GB can barely process 3-4 pages at a time. Vector DB and RAG address this by enabling semantic retrieval at scale. In this article, we will explore how to leverage vectors DBs to build a robus document processing RAG pipeline.
+The Ultimate Guide to Vector DB and RAG Pipeline first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Kukil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Agents with GPT-5]]></title>
+        <id>https://towardsdatascience.com/?p=607602</id>
+        <link href="https://towardsdatascience.com/how-to-build-agents-with-gpt-5/"/>
+        <updated>2025-11-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use GPT-5 as a powerful AI Agent on your data.
+The post How to Build Agents with GPT-5 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Hype: Don’t Overestimate the Impact of AI]]></title>
+        <id>https://towardsdatascience.com/?p=607600</id>
+        <link href="https://towardsdatascience.com/the-ai-hype-dont-overestimate-the-impact-of-ai/"/>
+        <updated>2025-11-11T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Targeting moonshots instead of trolleys
+The post AI Hype: Don’t Overestimate the Impact of AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pascal Janetzky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245819</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/"/>
+        <updated>2025-11-11T09:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Companies require efficient systems for the processing of documents using AI. Developers find it really tricky to select the right model. It’s very important to select the most efficient model in terms of speed, accuracy and cost. We conduct a comparative study on three well-acknowledged AI models: DeepSeek OCR, Qwen-3 VL, and Mistral OCR. This […]
+The post DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Order Food From Your Terminal with Zomato MCP]]></title>
+        <id>https://www.analyticsvidhya.com/?p=245863</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/zomato-mcp-server/"/>
+        <updated>2025-11-11T07:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Zomato’s new MCP (Model Context Protocol) server makes it possible to order food solely using AI chat. The system was launched in 2025, and permits AI assistants like ChatGPT, Claude, etc. to directly interact with Zomato. In practice, it’s like simply say, “order a pizza nearby,” and the AI does everything. In this guide, we cover what Zomato’s MCP server is […]
+The post Order Food From Your Terminal with Zomato MCP appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make Python Up to 150× Faster with C]]></title>
         <id>https://towardsdatascience.com/?p=607598</id>
@@ -3029,38 +3132,6 @@ The post Build an End-to-End AI Web App with Google Genkit  appeared first on A
 The post Agentic AI Training Efficiency: Less is More for Intelligent Agency appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment]]></title>
-        <id>https://www.analyticsvidhya.com/?p=244039</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/data-products-with-snowflake-native-apps/"/>
-        <updated>2025-10-12T05:55:33.000Z</updated>
-        <summary type="html"><![CDATA[What if an application could deliver personalized intelligence to customers, without ever seeing their data? For product developers, the skill of operating in a world of rising data privacy demands is a must-have today. As organizations shift from traditional analytics to embedded intelligence, the need for highly secure and scalable applications has become mission-critical. Snowflake […]
-The post Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Dentsu Global Services (DGS)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Cool Tricks Modern LLM Design Uses]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243959</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/modern-llm-designs/"/>
-        <updated>2025-10-12T05:53:50.000Z</updated>
-        <summary type="html"><![CDATA[We live in an AI-saturated world. You open Twitter (sorry, X) and there’s a new model every week. Just like people once waited in anticipation for the next iPhone release, we now wait for the next iteration of an LLM. The general public is satisfied just talking to these models, but for people like me, […]
-The post 10 Cool Tricks Modern LLM Design Uses appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mohd Sanad Zaki Rizvi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Transformer Models from Scratch with PyTorch (10-day Mini-Course)]]></title>
-        <id>https://machinelearningmastery.com/?p=21999</id>
-        <link href="https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/"/>
-        <updated>2025-10-12T03:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Before we begin, let's make sure you're in the right place.]]></summary>
-        <author>
-            <name>Adrian Tam</name>
         </author>
     </entry>
 </feed>

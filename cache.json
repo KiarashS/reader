@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607606",
+          "author": "Partha Sarkar",
+          "description": "A perspective on GraphRAG design best practices, challenges and learnings\nThe post Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/do-you-really-need-graphrag-a-practitioners-guide-beyond-the-hype/",
+          "publishedOn": "2025-11-11T17:00:00.000Z",
+          "wordCount": 5491,
+          "title": "Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/Title.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607604",
+          "author": "Piero Paialunga",
+          "description": "A practical use case to describe how the data scientist job changed across three generations of machine learning\nThe post The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/",
+          "publishedOn": "2025-11-11T15:30:00.000Z",
+          "wordCount": 4769,
+          "title": "The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/BlogImage-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607602",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to use GPT-5 as a powerful AI Agent on your data.\nThe post How to Build Agents with GPT-5 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-agents-with-gpt-5/",
+          "publishedOn": "2025-11-11T14:00:00.000Z",
+          "wordCount": 4287,
+          "title": "How to Build Agents with GPT-5",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-76.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607600",
+          "author": "Pascal Janetzky",
+          "description": "Targeting moonshots instead of trolleys\nThe post AI Hype: Don’t Overestimate the Impact of AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-ai-hype-dont-overestimate-the-impact-of-ai/",
+          "publishedOn": "2025-11-11T12:30:00.000Z",
+          "wordCount": 3985,
+          "title": "AI Hype: Don’t Overestimate the Impact of AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/plane-8508636_1920.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607598",
           "author": "Thomas Reid",
           "description": "A practical guide to offloading performance-critical code to C without abandoning Python.\nThe post Make Python Up to 150× Faster with C appeared first on Towards Data Science.",
@@ -1127,16 +1167,6 @@
           "wordCount": null,
           "title": "7 Pandas Tricks to Handle Large Datasets",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=21999",
-          "author": "Adrian Tam",
-          "description": "Before we begin, let's make sure you're in the right place.",
-          "link": "https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/",
-          "publishedOn": "2025-10-12T03:45:31.000Z",
-          "wordCount": null,
-          "title": "Building Transformer Models from Scratch with PyTorch (10-day Mini-Course)",
-          "imageUrl": null
         }
       ]
     },
@@ -1350,6 +1380,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1154385",
+          "author": "Chengquan Guo , Yuzhou  Nie, Chulin Xie, Zinan Lin, Wenbo Guo, Bo Li",
+          "description": "BlueCodeAgent is an end-to-end blue-teaming framework built to boost code security using automated red-teaming processes, data, and safety rules to guide LLMs’ defensive decisions. Dynamic testing reduces false positives in vulnerability detection.\nThe post BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+          "publishedOn": "2025-11-11T17:00:00.000Z",
+          "wordCount": 3812,
+          "title": "BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/10/BlueCodeAgent-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1154225",
           "author": "Industry  Innovation Center",
@@ -1571,6 +1611,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=76842",
+          "author": "Kukil",
+          "description": "Processing long documents with VLMs or LLMs poses a fundamental challenge: input size exceeds context limits. Even with GPUs, as large as 12 GB can barely process 3-4 pages at a time. Vector DB and RAG address this by enabling semantic retrieval at scale. In this article, we will explore how to leverage vectors DBs to build a robus document processing RAG pipeline.\nThe Ultimate Guide to Vector DB and RAG Pipeline first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/vector-db-and-rag-pipeline-for-document-rag/",
+          "publishedOn": "2025-11-11T14:30:00.000Z",
+          "wordCount": 13406,
+          "title": "The Ultimate Guide to Vector DB and RAG Pipeline",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/11/vectorDB-rag-pipeline-pdf-processing-qwenvl3.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=76779",
           "author": "Kukil",
           "description": "DeepSeek AI just unleashed DeepSeek OCR, a 3B-param beast that compresses entire documents into 100 vision tokens and still nails 97% accuracy.\nWhat Makes DeepSeek OCR So Powerful? first appeared on LearnOpenCV.",
@@ -1774,6 +1824,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=245819",
+          "author": "Harsh Mishra",
+          "description": "Companies require efficient systems for the processing of documents using AI. Developers find it really tricky to select the right model. It’s very important to select the most efficient model in terms of speed, accuracy and cost. We conduct a comparative study on three well-acknowledged AI models: DeepSeek OCR, Qwen-3 VL, and Mistral OCR. This […]\nThe post DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/",
+          "publishedOn": "2025-11-11T09:08:45.000Z",
+          "wordCount": null,
+          "title": "DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=245863",
+          "author": "Vipin Vashisth",
+          "description": "Zomato’s new MCP (Model Context Protocol) server makes it possible to order food solely using AI chat. The system was launched in 2025, and permits AI assistants like ChatGPT, Claude, etc. to directly interact with Zomato. In practice, it’s like simply say, “order a pizza nearby,” and the AI does everything. In this guide, we cover what Zomato’s MCP server is […]\nThe post Order Food From Your Terminal with Zomato MCP appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/11/zomato-mcp-server/",
+          "publishedOn": "2025-11-11T07:21:02.000Z",
+          "wordCount": null,
+          "title": "Order Food From Your Terminal with Zomato MCP",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=245804",
           "author": "Sarthak Dogra",
@@ -2400,28 +2472,6 @@
           "title": "Agentic AI Training Efficiency: Less is More for Intelligent Agency",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=244039",
-          "author": "Dentsu Global Services (DGS)",
-          "description": "What if an application could deliver personalized intelligence to customers, without ever seeing their data? For product developers, the skill of operating in a world of rising data privacy demands is a must-have today. As organizations shift from traditional analytics to embedded intelligence, the need for highly secure and scalable applications has become mission-critical. Snowflake […]\nThe post Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/10/data-products-with-snowflake-native-apps/",
-          "publishedOn": "2025-10-12T05:55:33.000Z",
-          "wordCount": null,
-          "title": "Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=243959",
-          "author": "Mohd Sanad Zaki Rizvi",
-          "description": "We live in an AI-saturated world. You open Twitter (sorry, X) and there’s a new model every week. Just like people once waited in anticipation for the next iPhone release, we now wait for the next iteration of an LLM. The general public is satisfied just talking to these models, but for people like me, […]\nThe post 10 Cool Tricks Modern LLM Design Uses appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/10/modern-llm-designs/",
-          "publishedOn": "2025-10-12T05:53:50.000Z",
-          "wordCount": null,
-          "title": "10 Cool Tricks Modern LLM Design Uses",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2946,6 +2996,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "HYTbakdHpxfaCowYp",
+          "author": "Fabien Roger",
+          "description": "Published on November 11, 2025 4:30 PM GMT\n\nWe isolate behavior directions in weight-space by subtracting the weight deltas from two small fine-tunes - one that induces the desired behavior on a narrow distribution and another that induces its opposite.\nWe show that using this direction to steer model behaviors can be used to modify traits like sycophancy, and often generalizes further than activation steering.\nAdditionally, we provide preliminary evidence that these weight-space directions can be used to detect the emergence of worrisome traits during training without having to find inputs on which the model behaves badly.\nInterpreting and intervening on LLM weights directly has the potential to be more expressive and avoid some of the failure modes that may doom activation-space interpre…",
+          "link": "https://www.alignmentforum.org/posts/HYTbakdHpxfaCowYp/steering-language-models-with-weight-arithmetic",
+          "publishedOn": "2025-11-11T16:30:29.000Z",
+          "wordCount": null,
+          "title": "Steering Language Models with Weight Arithmetic",
+          "imageUrl": null
+        },
         {
           "id": "fXBW3BZhMMkJM7bLD",
           "author": "Jan_Kulveit",
