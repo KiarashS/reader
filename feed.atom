@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-16T01:24:38.333Z</updated>
+    <updated>2025-11-17T01:20:19.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why AI writing is mid]]></title>
+        <id>https://www.interconnects.ai/p/why-ai-writing-is-mid</id>
+        <link href="https://www.interconnects.ai/p/why-ai-writing-is-mid"/>
+        <updated>2025-11-16T21:36:06.000Z</updated>
+        <summary type="html"><![CDATA[How the current way of training language models destroys any voice (and hope of good writing).]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge]]></title>
+        <id>https://towardsdatascience.com/?p=607649</id>
+        <link href="https://towardsdatascience.com/i-built-an-ios-app-in-3-days-with-literally-no-prior-swift-knowledge/"/>
+        <updated>2025-11-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What I learned about vibe coding, AI tools, and getting started as a solopreneur
+The post I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Worrying about AGI: The Immediate Danger is Reduced General Intelligence (RGI)]]></title>
+        <id>https://towardsdatascience.com/?p=607646</id>
+        <link href="https://towardsdatascience.com/stop-worrying-about-agi-the-immediate-danger-is-reduced-general-intelligence-rgi/"/>
+        <updated>2025-11-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's make conscious and deliberate choices when we use AI.
+The post Stop Worrying about AGI: The Immediate Danger is Reduced General Intelligence (RGI) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shashank Vatedka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246111</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/"/>
+        <updated>2025-11-16T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Banks are losing more than USD 442 billion every year to fraud according to the LexisNexis True Cost of Fraud Study. Traditional rule-based systems are failing to keep up, and Gartner reports that they miss more than 50% of new fraud patterns as attackers adapt faster than the rules can update. At the same time, […]
+The post Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate Workflows with AI]]></title>
         <id>https://towardsdatascience.com/?p=607644</id>
@@ -151,6 +194,36 @@ The post Critical Mistakes Companies Make When Integrating AI/ML into Their Proc
         <summary type="html"><![CDATA[OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.]]></summary>
         <author>
             <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluation Avoidance:  How Humans and AIs Hack Reward by Disabling Evaluation Instead of Gaming Metrics]]></title>
+        <id>reCesekXabqC6LMFs</id>
+        <link href="https://www.alignmentforum.org/posts/reCesekXabqC6LMFs/evaluation-avoidance-how-humans-and-ais-hack-reward-by-1"/>
+        <updated>2025-11-14T00:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 14, 2025 12:39 AM GMT
+
+Have you ever binge-watched a TV series? Binge-watching puts you in a very peculiar mental state.
+Assuming you don't reflectively endorse your binge-watching behavior, you'd probably feel pretty bad if you were to reflect on your situation. You might think:
+"Man, I am wasting my time. I still need to do my tax return. But doing my tax return is so boring. But it's definitely something I need to do. This is clearly what I should be doing."
+Binge-watching is an escape mechanism; it decouples you from your reward system. When bingeing a series, some part of your mind turns off. That part includes exactly that reflective circuitry, which would realize that you are wasting your time.
+When that circuit fires, you'll feel bad.
+Usually brains learn to o…]]></summary>
+        <author>
+            <name>Johannes C. Mayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-interpretability: LLMs can describe complex internal processes that drive their decisions]]></title>
+        <id>9pozvFKbLDLmuL879</id>
+        <link href="https://www.alignmentforum.org/posts/9pozvFKbLDLmuL879/self-interpretability-llms-can-describe-complex-internal-1"/>
+        <updated>2025-11-14T00:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 14, 2025 12:18 AM GMT
+
+This post is a summary of our paper from earlier this year: Plunkett, Morris, Reddy, & Morales (2025). Adam received an ACX grant to continue this work, and is interested in finding more potential collaborators---if you're excited by this work, reach out!
+It would be useful for safety purposes if AI models could accurately report on their internal processes and the factors driving their behavior. This is the motivation behind, e.g., attempts to measure introspection or CoT faithfulness in LLMs. Recent work has shown that frontier models can sometimes accurately report relatively simple, qualitative aspects of their internal choice processes, such as whether they had been fine-tuned to be risk-seeking, had received a concept injection, or had use…]]></summary>
+        <author>
+            <name>Adam Morris</name>
         </author>
     </entry>
     <entry>
@@ -511,6 +584,21 @@ The post Ace Your Exams with AI: Step-by-step Guide for Google Gemini as your St
         <summary type="html"><![CDATA[We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.]]></summary>
         <author>
             <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening Red Teams: A Modular Scaffold for Control Evaluations]]></title>
+        <id>uyhfJPHPhEeAuMhy2</id>
+        <link href="https://www.alignmentforum.org/posts/uyhfJPHPhEeAuMhy2/strengthening-red-teams-a-modular-scaffold-for-control"/>
+        <updated>2025-11-11T21:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 11, 2025 6:20 AM GMT
+
+Agentic sabotage occurs when an AI system intentionally takes actions that compromise safety in an environment while pursuing its own misaligned objectives. We evaluate this behavior in SHADE-Arena, a dataset for assessing sabotage and monitoring capabilities of LLM agents. We decompose agentic sabotage capability into five core components—knowing what overseers find suspicious, selecting good moments to attack, writing effective plans, strong execution, and framing suspicious actions as innocuous—which together form a scaffold that amplifies an agent’s sabotage abilities. Each component is optimized and analyzed through targeted techniques, enabled by a probabilistic model of SHADE-Arena dynamics that allows for efficient experimentation. Our tuned scaffold results in a substantial improvement in sabotage ability for Claude 3.7 Sonnet in SHADE-Arena, reducing safety score from a baseline of 0.87 to 0.41.
+Please read more about our work here.
+
+Discuss]]></summary>
+        <author>
+            <name>Chloe Loughridge</name>
         </author>
     </entry>
     <entry>
@@ -3134,135 +3222,6 @@ The post How to Classify Lung Cancer Subtype from DNA Copy Numbers Using PyTorch
 The post How I Used Machine Learning to Predict 41% of Project Delays Before They Happened appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Yassin Zehar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 AI Chrome Extensions for Hyper Productive Work]]></title>
-        <id>https://www.analyticsvidhya.com/?p=244743</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/ai-chrome-extensions-for-work/"/>
-        <updated>2025-10-17T12:48:23.000Z</updated>
-        <summary type="html"><![CDATA[The idea for this blog originates from another one I recently wrote. The earlier piece shared a list of top AI tools for productivity at work. It was heartening to see its results, not because of the sheer number of readers, but to know that my dear audience is actively attempting to upgrade its work […]
-The post Top 10 AI Chrome Extensions for Hyper Productive Work appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Instagram leverages AI For Content Moderation?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=244562</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/how-instagram-leverages-ai-for-content-moderation/"/>
-        <updated>2025-10-17T12:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Instagram uses artificial intelligence (AI) extensively for filtering and content moderation to maintain a safe and positive user experience. The AI-powered systems automatically detect and remove content that violates Instagram’s Community Standards, such as hate speech, bullying, nudity, violence, and spam, before such posts are reported by users. This process involves a combination of machine […]
-The post How Instagram leverages AI For Content Moderation? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Soumil Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Method mcRigor Enhances the Rigor of Metacell Partitioning in Single-Cell Data Analysis]]></title>
-        <id>https://towardsdatascience.com/?p=607407</id>
-        <link href="https://towardsdatascience.com/statistical-method-mcrigor-enhances-the-rigor-of-metacell-partitioning-in-single-cell-data-analysis/"/>
-        <updated>2025-10-17T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[mcRigor detects dubious metacells within each metacell partition and selects the optimal metacell partitioning method and hyperparameter for a given dataset
-The post Statistical Method mcRigor Enhances the Rigor of Metacell Partitioning in Single-Cell Data Analysis appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jingyi Jessica Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 10.12.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68f15f9cd160652ece949239</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg"/>
-        <updated>2025-10-16T21:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator]]></title>
-        <id>https://towardsdatascience.com/?p=607405</id>
-        <link href="https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/"/>
-        <updated>2025-10-16T18:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Applying calculus fundamentals to computer vision for edge detection
-The post Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Vyacheslav Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Speed Up Model Training Without More GPUs]]></title>
-        <id>https://machinelearningmastery.com/?p=22005</id>
-        <link href="https://machinelearningmastery.com/3-ways-to-speed-up-model-training-without-more-gpus/"/>
-        <updated>2025-10-16T17:14:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn three proven ways to speed up model training by optimizing precision, memory, and data flow — without adding any...]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing risk from scheming by studying trained-in scheming behavior]]></title>
-        <id>v6K3hnq5c9roa5MbS</id>
-        <link href="https://www.alignmentforum.org/posts/v6K3hnq5c9roa5MbS/reducing-risk-from-scheming-by-studying-trained-in-scheming"/>
-        <updated>2025-10-16T16:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 16, 2025 4:16 PM GMT
-
-In a previous post, I discussed mitigating risks from scheming by studying examples of actual scheming AIs.[1] In this post, I'll discuss an alternative approach: directly training (or instructing) an AI to behave how we think a naturally scheming AI might behave (at least in some ways). Then, we can study the resulting models. For instance, we could verify that a detection method discovers that the model is scheming or that a removal method removes the inserted behavior. The Sleeper Agents paper is an example of directly training in behavior (roughly) similar to a schemer.
-This approach eliminates one of the main difficulties with studying actual scheming AIs: the fact that it is difficult to catch (and re-catch) them. However, trained-in schemin…]]></summary>
-        <author>
-            <name>Ryan Greenblatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Feeling Lost :  How to Master ML System Design]]></title>
-        <id>https://towardsdatascience.com/?p=607403</id>
-        <link href="https://towardsdatascience.com/stop-feeling-lost-how-to-master-ml-system-design-easy/"/>
-        <updated>2025-10-16T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What machine learning system design is and how to prepare for it
-The post Stop Feeling Lost :  How to Master ML System Design appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Feature Engineering Tricks for Text Data]]></title>
-        <id>https://machinelearningmastery.com/?p=21949</id>
-        <link href="https://machinelearningmastery.com/7-feature-engineering-tricks-for-text-data/"/>
-        <updated>2025-10-16T15:24:51.000Z</updated>
-        <summary type="html"><![CDATA[An increasing number of AI and machine learning-based systems feed on text data — language models are a notable example today.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of Open Models]]></title>
-        <id>https://www.interconnects.ai/p/state-of-open-models-2025</id>
-        <link href="https://www.interconnects.ai/p/state-of-open-models-2025"/>
-        <updated>2025-10-16T14:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Reflections on a crazy year in open models. (My talk at The Curve).]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Robotics with Python]]></title>
-        <id>https://towardsdatascience.com/?p=607401</id>
-        <link href="https://towardsdatascience.com/robotics-with-python-for-beginners/"/>
-        <updated>2025-10-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Build 3D simulations with PyBullet
-The post A Beginner’s Guide to Robotics with Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mauro Di Pietro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build End-to-End Machine Learning Lineage]]></title>
-        <id>68f0f6719ac2ae80d4c5be03</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/"/>
-        <updated>2025-10-16T13:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning lineage is critical in any robust ML system. It lets you track data and model versions, ensuring reproducibility, auditability, and compliance. While many services for tracking ML lineage exist, creating a comprehensive and manageabl...]]></summary>
-        <author>
-            <name>Kuriko Iwai</name>
         </author>
     </entry>
 </feed>
