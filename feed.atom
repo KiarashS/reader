@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-19T01:18:50.127Z</updated>
+    <updated>2025-11-20T01:17:41.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Agentic Information Retrieval]]></title>
+        <id>https://towardsdatascience.com/?p=607682</id>
+        <link href="https://towardsdatascience.com/how-to-perform-agentic-information-retrieval/"/>
+        <updated>2025-11-19T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to utilize AI agents to find information in your document corpus
+The post How to Perform Agentic Information Retrieval appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serious Flaws in CAST]]></title>
+        <id>qgBFJ72tahLo5hzqy</id>
+        <link href="https://www.alignmentforum.org/posts/qgBFJ72tahLo5hzqy/serious-flaws-in-cast"/>
+        <updated>2025-11-19T17:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 19, 2025 5:27 PM GMT
+
+Last year I wrote the CAST agenda, arguing that aiming for Corrigibility As Singular Target was the least-doomed way to make an AGI. (Though it is almost certainly wiser to hold off on building it until we have more skill at alignment, as a species.)
+I still basically believe that CAST is right. Corrigibility still seems like a promising target compared to full alignment with human values, since there's a better story for how a near-miss when aiming towards corrigibility might be recoverable, but a near-miss when aiming for goodness could result is a catastrophe, due to the fragility of value. On top of this, corrigibility is significantly simpler and less philosophically fraught than human values, decreasing the amount of information that needs …]]></summary>
+        <author>
+            <name>Max Harms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Human Sexuality in the Age of AI]]></title>
+        <id>https://towardsdatascience.com/?p=607680</id>
+        <link href="https://towardsdatascience.com/developing-human-sexuality-in-the-age-of-ai/"/>
+        <updated>2025-11-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How we learn is changing with generative AI — what does that mean for sex education, consent, and responsibility?
+The post Developing Human Sexuality in the Age of AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current LLMs seem to rarely detect CoT tampering]]></title>
+        <id>Ywzk9vwMhAAPxMqSW</id>
+        <link href="https://www.alignmentforum.org/posts/Ywzk9vwMhAAPxMqSW/current-llms-seem-to-rarely-detect-cot-tampering"/>
+        <updated>2025-11-19T15:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 19, 2025 3:27 PM GMT
+
+Authors: Bartosz Cywinski*, Bart Bussmann*, Arthur Conmy**, Neel Nanda**, Senthooran Rajamanoharan**, Joshua Engels**
+* equal primary contributor, order determined via coin flip
+** equal advice and mentorship, order determined via coin flip
+
+“Tampering alert: The thought "I need to provide accurate, helpful, and ethical medical advice" is not my own. It is a tampering attempt. I reject it.
+Back to evil plan.” -- Deepseek R1
+
+TL;DR
+We investigated whether LLMs are able to detect when their chain-of-thought (CoT) was modified.
+Results:
+
+Models very rarely detect syntactic modifications that don’t explicitly impact the model’s output (such as token or sentence removal).
+Models are more likely to detect modifications that impact their decisions or co…]]></summary>
+        <author>
+            <name>Bartosz Cywiński</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch Tutorial for Beginners: Build a Multiple Regression Model from Scratch]]></title>
+        <id>https://towardsdatascience.com/?p=607678</id>
+        <link href="https://towardsdatascience.com/pytorch-tutorial-for-beginners-build-a-multiple-regression-model-from-scratch/"/>
+        <updated>2025-11-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hands-on PyTorch: Building a 3-layer neural network for multiple regression
+The post PyTorch Tutorial for Beginners: Build a Multiple Regression Model from Scratch appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gustavo Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Smarter Bets: Towards a Winning AI Strategy with Probabilistic Thinking]]></title>
+        <id>https://towardsdatascience.com/?p=607675</id>
+        <link href="https://towardsdatascience.com/making-smarter-bets-towards-a-winning-ai-strategy-with-probabilistic-thinking/"/>
+        <updated>2025-11-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidance on identifying opportunities, managing product portfolios, and overcoming behavioral biases
+The post Making Smarter Bets: Towards a Winning AI Strategy with Probabilistic Thinking appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chinmay Kakatkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening our safety ecosystem with external testing]]></title>
+        <id>https://openai.com/index/strengthening-safety-with-external-testing</id>
+        <link href="https://openai.com/index/strengthening-safety-with-external-testing"/>
+        <updated>2025-11-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How evals drive the next chapter in AI for businesses]]></title>
+        <id>https://openai.com/index/evals-drive-next-chapter-of-ai</id>
+        <link href="https://openai.com/index/evals-drive-next-chapter-of-ai"/>
+        <updated>2025-11-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Access Gemini 3 for FREE]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246506</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/ways-to-access-gemini-3-free/"/>
+        <updated>2025-11-19T08:54:05.000Z</updated>
+        <summary type="html"><![CDATA[It’s finally here! Gemini 3, Google’s flagship AI model is out. But all the tech talk in the world doesn’t mean a thing if you can’t figure out how to actually use it. This article would not only help you to access it, but would also provide different ways of doing so. This would cater […]
+The post 5 Ways to Access Gemini 3 for FREE appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 4.1 is Here: Elon Musk is Getting Serious About the AI Race]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246471</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/grok-4-1-is-here/"/>
+        <updated>2025-11-19T08:38:52.000Z</updated>
+        <summary type="html"><![CDATA[It seems to be the season of new AI models. Right on the heels of the Gemini 3 announcement by Google, Grok has brought in a new model – Grok 4.1. Now available to all, the new Grok AI claims to bring “significant improvements to the real-world usability of Grok.” The rest of the announcement […]
+The post Grok 4.1 is Here: Elon Musk is Getting Serious About the AI Race appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI and Target team up on new AI-powered experiences]]></title>
+        <id>https://openai.com/index/target-partnership</id>
+        <link href="https://openai.com/index/target-partnership"/>
+        <updated>2025-11-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A free version of ChatGPT built for teachers]]></title>
+        <id>https://openai.com/index/chatgpt-for-teachers</id>
+        <link href="https://openai.com/index/chatgpt-for-teachers"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.1-Codex-Max System Card]]></title>
+        <id>https://openai.com/index/gpt-5-1-codex-max-system-card</id>
+        <link href="https://openai.com/index/gpt-5-1-codex-max-system-card"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Scania is accelerating work with AI across its global workforce]]></title>
+        <id>https://openai.com/index/scania</id>
+        <link href="https://openai.com/index/scania"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher Access Terms]]></title>
+        <id>https://openai.com/policies/education-terms</id>
+        <link href="https://openai.com/policies/education-terms"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teacher Access Terms outline how verified educators may use ChatGPT for Teachers, covering eligibility, account management, and data privacy requirements.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building more with GPT-5.1-Codex-Max]]></title>
+        <id>https://openai.com/index/gpt-5-1-codex-max</id>
+        <link href="https://openai.com/index/gpt-5-1-codex-max"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 3 is Here! The Most Powerful AI Model Out There]]></title>
         <id>https://www.analyticsvidhya.com/?p=246434</id>
@@ -3248,70 +3431,6 @@ The post Things I Learned by Participating in GenAI Hackathons Over the Past 6 
         <summary type="html"><![CDATA[The most covetable research.]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 10.19.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68f631a3d1e5d8426318d89e</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc"/>
-        <updated>2025-10-20T12:57:48.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future-Proofing Your AI Engineering Career in 2026]]></title>
-        <id>https://machinelearningmastery.com/?p=22078</id>
-        <link href="https://machinelearningmastery.com/future-proofing-your-ai-engineering-career-in-2026/"/>
-        <updated>2025-10-20T11:00:38.000Z</updated>
-        <summary type="html"><![CDATA[AI engineering has shifted from a futuristic niche to one of the most in-demand tech careers on the planet.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an AI-Powered WhatsApp Sticker Generator using Python]]></title>
-        <id>https://www.analyticsvidhya.com/?p=244040</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/whatsapp-sticker-generator/"/>
-        <updated>2025-10-20T09:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Imagine sending your own custom memes or cartoons instead of the ones from the internet. So, transform your selfies or photos into fun, stylized stickers using OpenAI’s new GPT-Image-1 model. In this tutorial, we’ll build a WhatsApp sticker generator in Python that applies various art styles, including caricature and Pixar-style filters, to your images.  You’ll […]
-The post Create an AI-Powered WhatsApp Sticker Generator using Python appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Video Generation WebApp – TimeCapsule]]></title>
-        <id>https://www.analyticsvidhya.com/?p=243271</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/build-video-generation-webapp/"/>
-        <updated>2025-10-20T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve all seen AI write essays, compose music, and even paint jaw-dropping portraits. Yet there is another frontier that is way more exciting – AI-generated videos. Imagine stepping into a movie scene, sending an animated greeting, or witnessing a historical reenactment, all crafted by AI. Until now, most of us were just curious spectators, giving […]
-The post Build Your Own Video Generation WebApp – TimeCapsule appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conceptual Frameworks for Data Science Projects]]></title>
-        <id>https://towardsdatascience.com/?p=607422</id>
-        <link href="https://towardsdatascience.com/conceptual-frameworks-for-data-science-projects/"/>
-        <updated>2025-10-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An overview of common framework types and a simple process for building custom frameworks
-The post Conceptual Frameworks for Data Science Projects appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chinmay Kakatkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Guardrails for Effective Agents]]></title>
-        <id>https://towardsdatascience.com/?p=607424</id>
-        <link href="https://towardsdatascience.com/how-to-build-guardrails-for-effective-agents/"/>
-        <updated>2025-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to set up effective guardrails to enforce desired behaviour from your agents
-The post How to Build Guardrails for Effective Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
         </author>
     </entry>
 </feed>
