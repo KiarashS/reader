@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-24T01:24:03.159Z</updated>
+    <updated>2025-11-25T01:19:22.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Model Evaluation in Machine Learning: Key Metrics and Techniques]]></title>
+        <id>https://imerit.net/?p=31679</id>
+        <link href="https://imerit.net/resources/blog/machine-learning-model-evaluation/"/>
+        <updated>2025-11-24T21:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning models are only as good as their ability to perform reliably in real-world scenarios. The true measure of
+The post Model Evaluation in Machine Learning: Key Metrics and Techniques appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Randomization with the Python Random Module]]></title>
+        <id>https://towardsdatascience.com/?p=607724</id>
+        <link href="https://towardsdatascience.com/implementing-randomisation-with-the-python-random-module/"/>
+        <updated>2025-11-24T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's generate randomness in our code’s outputs
+The post How to Implement Randomization with the Python Random Module appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Struggling with Data Science? 5 Common Beginner Mistakes]]></title>
+        <id>https://towardsdatascience.com/?p=607722</id>
+        <link href="https://towardsdatascience.com/struggling-with-data-science-5-common-beginner-mistakes/"/>
+        <updated>2025-11-24T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Avoid these mistakes to fast track your data science career.
+The post Struggling with Data Science? 5 Common Beginner Mistakes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hands-On Guide to Anthropic’s New Structured Output Capabilities]]></title>
+        <id>https://towardsdatascience.com/hands-on-with-anthropics-new-structured-output-capabilities/</id>
+        <link href="https://towardsdatascience.com/hands-on-with-anthropics-new-structured-output-capabilities/"/>
+        <updated>2025-11-24T19:51:37.000Z</updated>
+        <summary type="html"><![CDATA[A developer’s guide to perfect JSON and typed outputs from Claude Sonnet 4.5 and Opus 4.1
+The post A Hands-On Guide to Anthropic’s New Structured Output Capabilities appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models]]></title>
+        <id>https://towardsdatascience.com/?p=607718</id>
+        <link href="https://towardsdatascience.com/llm-as-a-judge-what-it-is-why-it-works-and-how-to-use-it-to-evaluate-ai-models/"/>
+        <updated>2025-11-24T19:33:31.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to building AI quality control using large language models
+The post LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Piero Paialunga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasoning Models Sometimes Output Illegible Chains of Thought]]></title>
+        <id>GKyyYCs8n2goDcAe2</id>
+        <link href="https://www.alignmentforum.org/posts/GKyyYCs8n2goDcAe2/reasoning-models-sometimes-output-illegible-chains-of"/>
+        <updated>2025-11-24T18:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 24, 2025 6:24 PM GMT
+
+TL;DR: Models trained with outcome-based RL sometimes have reasoning traces that look very weird. In this paper, I evaluate 14 models and find that many of them often generate pretty illegible CoTs. I show that models seem to find this illegible text useful, with a model’s accuracy dropping heavily when given only the legible parts of its CoT, and that legibility goes down when answering harder questions. However, when sampling many responses to the same questions, I find there’s no real correlation between illegible reasoning and performance. From these results (and prior work), I think it’s likely RL induces meaningful illegible reasoning, but that it may not be significantly more effective than legible reasoning.
+Paper | Tweet thread | Streaml…]]></summary>
+        <author>
+            <name>Arun Jose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fara-7B: An Efficient Agentic Model for Computer Use]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/"/>
+        <updated>2025-11-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems.
+The post Fara-7B: An Efficient Agentic Model for Computer Use appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Ahmed Awadallah, Akshay Nambi, Alexey Taymanov, Aravind Rajeswaran, Corby Rosset, Hussein Mozannar, Spencer Whitehead, Vibhav Vineet, Yash Lara, Yash Pandya, Andrew Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Task Guardrails in CrewAI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246422</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/introduction-to-task-guardrails-in-crewai/"/>
+        <updated>2025-11-24T08:49:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI gets smarter, agents now handle complex tasks. People make decisions across whole workflows with plenty of efficiency and good intent, but never with perfect accuracy. It’s easy to drift off-task, over-explain, under-explain, misread a prompt, or create headaches for whatever comes next. Sometimes the result ends up off-topic, incomplete, or even unsafe. And […]
+The post Introduction to Task Guardrails in CrewAI  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 11.23.2025]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6923f263b3fb993e98a422aa</id>
+        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd"/>
+        <updated>2025-11-24T05:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246609</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/"/>
+        <updated>2025-11-24T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Finally, Gemini 3 is here, and it is breaking the internet. People are posting about Gemini’s front-end capabilities. So, I decided to try it. Now, imagine if you provided a screenshot and AI wrote all the code to mock the UI in the image? Such a level of front-end development by humans requires precision and […]
+The post Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5 and the future of mathematical discovery]]></title>
+        <id>https://openai.com/index/gpt-5-mathematical-discovery</id>
+        <link href="https://openai.com/index/gpt-5-mathematical-discovery"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing shopping research in ChatGPT]]></title>
+        <id>https://openai.com/index/chatgpt-shopping-research</id>
+        <link href="https://openai.com/index/chatgpt-shopping-research"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest open artifacts (#16): Who's building models in the U.S., China's model release playbook, and a resurgence of truly open models]]></title>
         <id>https://www.interconnects.ai/p/latest-open-artifacts-16-whos-building</id>
@@ -3297,71 +3428,6 @@ The post Data Visualization Explained (Part 4): A Review of Python Essentials ap
 The post Building a Geospatial Lakehouse with Open Source and Databricks appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Robert Constable</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less Syntax, More Insights: LLMs as SQL Copilots]]></title>
-        <id>https://www.analyticsvidhya.com/?p=244387</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/llms-as-sql-copilots/"/>
-        <updated>2025-10-25T10:45:23.000Z</updated>
-        <summary type="html"><![CDATA[SQL is the language of data; however, anyone who has spent some time writing queries knows the pain. Remembering exact syntax for window functions, multi-table joins, and debugging cryptic SQL errors can be tedious and time-consuming. For non-technical users, getting simple answers often requires calling in a data analyst. Large Language Models (LLMs) are starting […]
-The post Less Syntax, More Insights: LLMs as SQL Copilots appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Madhura Raut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI from First Principles: Reflection]]></title>
-        <id>https://towardsdatascience.com/?p=607482</id>
-        <link href="https://towardsdatascience.com/agentic-ai-from-first-principles-reflection/"/>
-        <updated>2025-10-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From theory to code: building feedback loops that improve LLM accuracy
-The post Agentic AI from First Principles: Reflection appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mariya Mansurova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Consistently Extract Metadata from Complex Documents]]></title>
-        <id>https://towardsdatascience.com/?p=607480</id>
-        <link href="https://towardsdatascience.com/how-to-consistently-extract-metadata-from-complex-documents/"/>
-        <updated>2025-10-24T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to extract important pieces of information from your documents
-The post How to Consistently Extract Metadata from Complex Documents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing the Best Model Size and Dataset Size under a Fixed Budget for LLMs]]></title>
-        <id>https://towardsdatascience.com/?p=607478</id>
-        <link href="https://towardsdatascience.com/choosing-the-best-model-size-and-dataset-size-under-a-fixed-budget-for-llms/"/>
-        <updated>2025-10-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A small-scale exploration using Tiny Transformers
-The post Choosing the Best Model Size and Dataset Size under a Fixed Budget for LLMs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to Pydantic for Python Developers]]></title>
-        <id>https://machinelearningmastery.com/?p=22164</id>
-        <link href="https://machinelearningmastery.com/the-complete-guide-to-pydantic-for-python-developers/"/>
-        <updated>2025-10-24T13:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Python's flexibility with data types is convenient when coding, but it can lead to runtime errors when your code receives unexpected data formats.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Haiku 4.5 is Here… and it’s BETTER than Sonnet 4.5?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=244999</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/claude-haiku-4-5/"/>
-        <updated>2025-10-24T13:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Claude Haiku 4.5 is Anthropic’s latest small model, released on 15th October to all users. It’s a strong reminder that speed and intelligence don’t have to come at a high price. Just five months ago, Claude Sonnet 4 was considered the benchmark for balanced performance. Now, Haiku 4.5 delivers nearly the same coding and reasoning […]
-The post Claude Haiku 4.5 is Here… and it’s BETTER than Sonnet 4.5? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Aayush Tyagi</name>
         </author>
     </entry>
 </feed>
