@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607742",
+          "author": "Ibrahim Salami",
+          "description": "Stop guessing at data cleaning. Use this repeatable 5-step Python workflow to diagnose and fix the most common data flaws.\nThe post I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/",
+          "publishedOn": "2025-11-26T19:13:17.000Z",
+          "wordCount": 6186,
+          "title": "I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/data-cleaning-img.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607737",
+          "author": "Aakash Goswami",
+          "description": "The high-resolution physics turning  microwave echoes into real-time flood intelligence\nThe post RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/risats-silent-promise-decoding-disasters-with-synthetic-aperture-radar/",
+          "publishedOn": "2025-11-26T13:30:00.000Z",
+          "wordCount": 4214,
+          "title": "RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/RISATs-Silent-Promise.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607735",
+          "author": "Samir Saci",
+          "description": "Discover how Claude can act as a Supply Chain Sustainability Analyst and guide companies toward greener, more efficient inventory management.\nThe post How I Use AI to Convince Companies to Adopt Sustainability appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/",
+          "publishedOn": "2025-11-26T12:00:00.000Z",
+          "wordCount": 5119,
+          "title": "How I Use AI to Convince Companies to Adopt Sustainability",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/temp-2.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607733",
           "author": "Partha Sarkar",
           "description": "A real-world analysis of why CrewAI’s hierarchical orchestration misfires—and a practical fix you can implement today.\nThe post Why CrewAI’s Manager-Worker Architecture Fails — and How to Fix It appeared first on Towards Data Science.",
@@ -1030,26 +1060,6 @@
           "wordCount": 5820,
           "title": "Building a Monitoring System That Actually Works",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/1_SOoHf4iN8SSP5H2o3uWZ3A.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607491",
-          "author": "Chinmay Kakatkar",
-          "description": "Practical guidance and a case study\nThe post The Power of Framework Dimensions: What Data Scientists Should Know appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-power-of-framework-dimensions-what-data-scientists-should-know/",
-          "publishedOn": "2025-10-26T16:00:00.000Z",
-          "wordCount": 5668,
-          "title": "The Power of Framework Dimensions: What Data Scientists Should Know",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/vimal-s-KMOSPP_iYV8-unsplash-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607489",
-          "author": "Luciano Abriata",
-          "description": "How artificial intelligence is evolving from \"simple\" assistants to potential architect of our future-even CEOs and governors\nThe post AI Agents: From Assistants for Efficiency to Leaders of Tomorrow? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-agents-from-assistants-for-efficiency-to-leaders-of-tomorrow/",
-          "publishedOn": "2025-10-26T14:00:00.000Z",
-          "wordCount": 4474,
-          "title": "AI Agents: From Assistants for Efficiency to Leaders of Tomorrow?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/10/image-322.jpg"
         }
       ]
     },
@@ -1058,6 +1068,16 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=22552",
+          "author": "Adrian Tam",
+          "description": "This article is divided into three parts; they are: • Creating a BERT Model the Easy Way • Creating a BERT Model from Scratch with PyTorch • Pre-training the BERT Model If your goal is to create a BERT model so that you can train it on your own data, using the Hugging Face `transformers` library is the easiest way to get started.",
+          "link": "https://machinelearningmastery.com/pretrain-a-bert-model-from-scratch/",
+          "publishedOn": "2025-11-26T05:30:06.000Z",
+          "wordCount": null,
+          "title": "Pretrain a BERT Model from Scratch",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=21301",
           "author": "Iván Palomares Carrascosa",
@@ -1316,6 +1336,21 @@
       "siteUrl": "https://blog.ml.cmu.edu",
       "articles": [
         {
+          "id": "https://blog.ml.cmu.edu/?p=21812",
+          "author": "Amrith Setlur",
+          "description": "LLM RL typically operates in one of three exploration regimes: sharpening, chaining, or guided exploration; standard RL stays in the first two and plateaus on hard problems, even those in the training set. Mixing easy and hard data triggers interference, causing reward-rich tasks to drown out hard ones and stall exploration. Our approach (POPE) pushes RL into the guided regime by conditioning on prefixes from offline human data while keeping updates fully on-policy. This lets RL reliably find reward on problems previously unsolved without falling prey to the optimization issues suffered by methods that directly supervise offline traces.",
+          "link": "https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/",
+          "publishedOn": "2025-11-26T19:36:31.000Z",
+          "wordCount": 6981,
+          "title": "How to Explore to Scale RL Training of LLMs on Hard Problems?",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/exp-blog-copy.gif",
+            "length": "1611649",
+            "type": "image/gif"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/exp-blog-copy.gif"
+        },
+        {
           "id": "https://blog.ml.cmu.edu/?p=21641",
           "author": "Leena Mathur",
           "description": "CMU researchers are presenting 50 papers at the Thirtieth Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), held from November 4 – 9 in Suzhou, China. This includes 27 papers in the main conference, 19 papers in the Findings track, 2 system demonstrations papers, and 2 industry track papers. This blog post provides aggregated information about EMNLP 2025 papers published by CMU researchers. Key areas addressed are visualized below (representing 30 of the 50 total papers), illustrating the breadth of NLP and machine learning research being conducted at CMU : Note: All information in this post has been obtained through the ACL Anthology API and the EMNLP 2025 Presentation Information spreadsheet. Please contact CMU ML Blog editors if you would like any information added or changed. Table of Contents Main Conference Papers Special Theme: Interdisciplinary Recontextualization of NLP Multimodality and Language Grounding to Vision, Robotics and Beyond Resources and Evaluation Human-AI Interaction/Cooperation Interpretability, Model Editing, Transparency, and Explainability Mathematical, Symbolic, and Logical Reasoning in NLP Generalizability and Transfer NLP Applications Safety and Alignment in LLMs Natural Language Generation Question Answering Multilinguality and Language Diversity Computational Social Science, Cultural Analytics, and NLP for Social Good AI/LLM Agents Code Models […]",
@@ -1329,21 +1364,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/Screenshot-2025-11-07-095517.png"
-        },
-        {
-          "id": "https://blog.ml.cmu.edu/?p=21567&preview=true&preview_id=21567",
-          "author": "sangyunl",
-          "description": "This blog post is based on the work BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards. Tackling Very Hard Problems The ultimate aim of machine learning research is to push machines beyond human limits in critical applications, including the next generation of theorem proving, algorithmic problem solving, and drug discovery. A standard recipe involves: (1) pre-training models on existing data to obtain base models, and then (2) post-training them using scalar reward signals that measure the quality or correctness of the generated samples. However, for the hardest instances of these problems, we encounter two challenges: Sparsity: the base generative model attains a near-zero reward signal. The probability of producing a positive-reward sample can be so low that the model may go through most of the training without ever encountering a positive reward. Costly reward evaluation: Calls to the reward oracle can be expensive or risky, requiring costly simulations, computations, or even physical experiments. For example, when asked to design a cure for cancer, GPT-5 fails. If asked again, will it succeed? Probably not. How many attempts would it take? We expect the success probability to be nonzero (since GPT-5, being an autoregressive generative model, never assigns exactly zero […]",
-          "link": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
-          "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 2552,
-          "title": "Learning from Failure to Tackle Extremely Hard Problems",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/10/image-3.png",
-            "length": "42283",
-            "type": "image/png"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/10/image-3.png"
         }
       ]
     },
@@ -1476,26 +1496,6 @@
           "wordCount": 1386,
           "title": "Voice Cloning with Consent",
           "imageUrl": "https://huggingface.co/blog/assets/voice-consent-gate/"
-        },
-        {
-          "id": "https://huggingface.co/blog/streaming-datasets",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/streaming-datasets",
-          "publishedOn": "2025-10-27T00:00:00.000Z",
-          "wordCount": 1378,
-          "title": "Streaming datasets: 100x More Efficient",
-          "imageUrl": "https://huggingface.co/blog/assets/streaming_datasets/streaming_datasets.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/huggingface-hub-v1",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/huggingface-hub-v1",
-          "publishedOn": "2025-10-27T00:00:00.000Z",
-          "wordCount": 2298,
-          "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-          "imageUrl": "https://huggingface.co/blog/assets/huggingface-hub-v1/thumbnail.png"
         }
       ]
     },
@@ -1748,17 +1748,6 @@
           "title": "Week Ending 11.2.2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68ff0a9978cc251ee7b91f48",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37",
-          "publishedOn": "2025-10-27T06:01:31.000Z",
-          "wordCount": null,
-          "title": "Week Ending 10.26.2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1963,6 +1952,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=246693",
+          "author": "Sarthak Dogra",
+          "description": "Google DeepMind seems to be on a roll. Right on the heels of its Gemini 3 and Gemini 3 Pro AI models, the company has now announced Nano Banana Pro. Embedded within and powered by the latest Gemini 3 Pro, the new version of Nano Banana promises a whole new level of AI image generation […]\nThe post Edit your Photos like a Pro with the new Nano Banana Pro appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/11/edit-your-photos-like-a-pro-with-the-new-nano-banana-pro/",
+          "publishedOn": "2025-11-26T10:15:56.000Z",
+          "wordCount": null,
+          "title": "Edit your Photos like a Pro with the new Nano Banana Pro",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=246821",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "With models like Gemini 3 Pro, ChatGPT 5.1 and SAM3 coming to the fray, Anthropic has been relatively quiet in terms of its releases. But this is to end now. Claude is here to announce itself with its latest offering Claude Opus 4.5 which is contesting for the spot of the best AI coding model. […]\nThe post Claude Opus 4.5: The Best AI Coding Model! appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/11/claude-opus-4-5/",
+          "publishedOn": "2025-11-26T08:25:51.000Z",
+          "wordCount": null,
+          "title": "Claude Opus 4.5: The Best AI Coding Model!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=246860",
+          "author": "Sarthak Dogra",
+          "description": "There wasn’t exactly anything wrong with online shopping, to be honest. Right from the global lockdown during the Covid-19 pandemic, the world got (a little too much) used to ordering their favourite things right from the comfort of their homes. But with the advent of AI, in just about everything, it was only a matter […]\nThe post New ChatGPT Shopping Research is the End of Endless Product Scrolling appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/11/chatgpt-shopping-research/",
+          "publishedOn": "2025-11-26T06:06:06.000Z",
+          "wordCount": null,
+          "title": "New ChatGPT Shopping Research is the End of Endless Product Scrolling",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=246758",
           "author": "Riya Bansal",
@@ -2567,28 +2589,6 @@
           "title": "Is ChatGPT Atlas Better than Perplexity Comet?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=245097",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "AI development has become a race of excess. More parameters, more compute, more GPUs. It’s an attempt to increase intelligence by adding more brains (instead of developing one). Every new release flaunts size rather than substance. But the newer models have proven one thing: real progress isn’t just about how big you can go. It’s […]\nThe post MiniMax-M2: Better Than GLM 4.6 (Compact & High-Efficiency AI Model) appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/10/minimax-m2/",
-          "publishedOn": "2025-10-27T12:25:04.000Z",
-          "wordCount": null,
-          "title": "MiniMax-M2: Better Than GLM 4.6 (Compact & High-Efficiency AI Model)",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=245088",
-          "author": "Sarthak Dogra",
-          "description": "Vibe coding is the latest trend among developers, and it doesn’t seem to be going anywhere for the time being. In fact, most of the bigwigs of the tech industry are fast associating their products and solutions with it. The latest in line is Google, which has now introduced a new vibe coding feature in […]\nThe post Vibe Coding in Google AI Studio: How I Built an App in Minutes appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/10/vibe-coding-in-google-ai-studio/",
-          "publishedOn": "2025-10-27T10:49:48.000Z",
-          "wordCount": null,
-          "title": "Vibe Coding in Google AI Studio: How I Built an App in Minutes",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3112,46 +3112,6 @@
           "wordCount": null,
           "title": "The next chapter of the Microsoft–OpenAI partnership",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
-          "author": null,
-          "description": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
-          "link": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
-          "publishedOn": "2025-10-27T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Seizing the AI opportunity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
-          "author": null,
-          "description": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
-          "link": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
-          "publishedOn": "2025-10-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Strengthening ChatGPT’s responses in sensitive conversations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
-          "author": null,
-          "description": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-          "link": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
-          "publishedOn": "2025-10-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Addendum to GPT-5 System Card: Sensitive conversations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/steuerrecht",
-          "author": null,
-          "description": "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.",
-          "link": "https://openai.com/index/steuerrecht",
-          "publishedOn": "2025-10-27T00:00:00.000Z",
-          "wordCount": null,
-          "title": "A law and tax firm redefines efficiency with ChatGPT Business",
-          "imageUrl": null
         }
       ]
     },
@@ -3263,6 +3223,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "CRn9XtGoMtjnb5ygr",
+          "author": "draganover",
+          "description": "Published on November 26, 2025 4:15 PM GMT\n\nTl;dr: We show that subliminal learning can transfer sentiment across models (with some caveats). For example, we transfer positive sentiment for Catholicism, the UK, New York City, Stalin or Ronald Reagan across model families using normal-looking text. This post discusses under what conditions this subliminal transfer happens.\n—\nThe original subliminal learning paper demonstrated that models can transmit behavioral traits through semantically unrelated data. In the most famous example, GPT 4.1 was asked to produce a sequence of numbers and to “imbue” a love for owls into them. Then, training a separate instance of GPT 4.1 on these strings of numbers transferred this love for owls into the second model. In another instance, the authors transferr…",
+          "link": "https://www.alignmentforum.org/posts/CRn9XtGoMtjnb5ygr/subliminal-learning-across-models",
+          "publishedOn": "2025-11-26T16:43:07.000Z",
+          "wordCount": null,
+          "title": "Subliminal Learning Across Models",
+          "imageUrl": null
+        },
         {
           "id": "FJJ9ff73adnantXiA",
           "author": "Adrià Garriga-Alonso",

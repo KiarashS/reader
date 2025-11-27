@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-26T01:19:30.250Z</updated>
+    <updated>2025-11-27T01:18:35.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Explore to Scale RL Training of LLMs on Hard Problems?]]></title>
+        <id>https://blog.ml.cmu.edu/?p=21812</id>
+        <link href="https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/"/>
+        <updated>2025-11-26T19:36:31.000Z</updated>
+        <summary type="html"><![CDATA[LLM RL typically operates in one of three exploration regimes: sharpening, chaining, or guided exploration; standard RL stays in the first two and plateaus on hard problems, even those in the training set. Mixing easy and hard data triggers interference, causing reward-rich tasks to drown out hard ones and stall exploration. Our approach (POPE) pushes RL into the guided regime by conditioning on prefixes from offline human data while keeping updates fully on-policy. This lets RL reliably find reward on problems previously unsolved without falling prey to the optimization issues suffered by methods that directly supervise offline traces.]]></summary>
+        <author>
+            <name>Amrith Setlur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.]]></title>
+        <id>https://towardsdatascience.com/?p=607742</id>
+        <link href="https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/"/>
+        <updated>2025-11-26T19:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Stop guessing at data cleaning. Use this repeatable 5-step Python workflow to diagnose and fix the most common data flaws.
+The post I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subliminal Learning Across Models]]></title>
+        <id>CRn9XtGoMtjnb5ygr</id>
+        <link href="https://www.alignmentforum.org/posts/CRn9XtGoMtjnb5ygr/subliminal-learning-across-models"/>
+        <updated>2025-11-26T16:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 26, 2025 4:15 PM GMT
+
+Tl;dr: We show that subliminal learning can transfer sentiment across models (with some caveats). For example, we transfer positive sentiment for Catholicism, the UK, New York City, Stalin or Ronald Reagan across model families using normal-looking text. This post discusses under what conditions this subliminal transfer happens.
+—
+The original subliminal learning paper demonstrated that models can transmit behavioral traits through semantically unrelated data. In the most famous example, GPT 4.1 was asked to produce a sequence of numbers and to “imbue” a love for owls into them. Then, training a separate instance of GPT 4.1 on these strings of numbers transferred this love for owls into the second model. In another instance, the authors transferr…]]></summary>
+        <author>
+            <name>draganover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar]]></title>
+        <id>https://towardsdatascience.com/?p=607737</id>
+        <link href="https://towardsdatascience.com/risats-silent-promise-decoding-disasters-with-synthetic-aperture-radar/"/>
+        <updated>2025-11-26T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The high-resolution physics turning  microwave echoes into real-time flood intelligence
+The post RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aakash Goswami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Use AI to Convince Companies to Adopt Sustainability]]></title>
+        <id>https://towardsdatascience.com/?p=607735</id>
+        <link href="https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/"/>
+        <updated>2025-11-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Claude can act as a Supply Chain Sustainability Analyst and guide companies toward greener, more efficient inventory management.
+The post How I Use AI to Convince Companies to Adopt Sustainability appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit your Photos like a Pro with the new Nano Banana Pro]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246693</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/edit-your-photos-like-a-pro-with-the-new-nano-banana-pro/"/>
+        <updated>2025-11-26T10:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind seems to be on a roll. Right on the heels of its Gemini 3 and Gemini 3 Pro AI models, the company has now announced Nano Banana Pro. Embedded within and powered by the latest Gemini 3 Pro, the new version of Nano Banana promises a whole new level of AI image generation […]
+The post Edit your Photos like a Pro with the new Nano Banana Pro appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.5: The Best AI Coding Model!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246821</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/claude-opus-4-5/"/>
+        <updated>2025-11-26T08:25:51.000Z</updated>
+        <summary type="html"><![CDATA[With models like Gemini 3 Pro, ChatGPT 5.1 and SAM3 coming to the fray, Anthropic has been relatively quiet in terms of its releases. But this is to end now. Claude is here to announce itself with its latest offering Claude Opus 4.5 which is contesting for the spot of the best AI coding model. […]
+The post Claude Opus 4.5: The Best AI Coding Model! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ChatGPT Shopping Research is the End of Endless Product Scrolling]]></title>
+        <id>https://www.analyticsvidhya.com/?p=246860</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/chatgpt-shopping-research/"/>
+        <updated>2025-11-26T06:06:06.000Z</updated>
+        <summary type="html"><![CDATA[There wasn’t exactly anything wrong with online shopping, to be honest. Right from the global lockdown during the Covid-19 pandemic, the world got (a little too much) used to ordering their favourite things right from the comfort of their homes. But with the advent of AI, in just about everything, it was only a matter […]
+The post New ChatGPT Shopping Research is the End of Endless Product Scrolling appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretrain a BERT Model from Scratch]]></title>
+        <id>https://machinelearningmastery.com/?p=22552</id>
+        <link href="https://machinelearningmastery.com/pretrain-a-bert-model-from-scratch/"/>
+        <updated>2025-11-26T05:30:06.000Z</updated>
+        <summary type="html"><![CDATA[This article is divided into three parts; they are: • Creating a BERT Model the Easy Way • Creating a BERT Model from Scratch with PyTorch • Pre-training the BERT Model If your goal is to create a BERT model so that you can train it on your own data, using the Hugging Face `transformers` library is the easiest way to get started.]]></summary>
+        <author>
+            <name>Adrian Tam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Expanding data residency access to business customers worldwide]]></title>
         <id>https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide</id>
@@ -3455,130 +3555,6 @@ The post Is ChatGPT Atlas Better than Perplexity Comet? appeared first on Analyt
         <summary type="html"><![CDATA[Time series data normally requires an in-depth understanding in order to build effective and insightful forecasting models.]]></summary>
         <author>
             <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from Failure to Tackle Extremely Hard Problems]]></title>
-        <id>https://blog.ml.cmu.edu/?p=21567&amp;preview=true&amp;preview_id=21567</id>
-        <link href="https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/"/>
-        <updated>2025-10-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This blog post is based on the work BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards. Tackling Very Hard Problems The ultimate aim of machine learning research is to push machines beyond human limits in critical applications, including the next generation of theorem proving, algorithmic problem solving, and drug discovery. A standard recipe involves: (1) pre-training models on existing data to obtain base models, and then (2) post-training them using scalar reward signals that measure the quality or correctness of the generated samples. However, for the hardest instances of these problems, we encounter two challenges: Sparsity: the base generative model attains a near-zero reward signal. The probability of producing a positive-reward sample can be so low that the model may go through most of the training without ever encountering a positive reward. Costly reward evaluation: Calls to the reward oracle can be expensive or risky, requiring costly simulations, computations, or even physical experiments. For example, when asked to design a cure for cancer, GPT-5 fails. If asked again, will it succeed? Probably not. How many attempts would it take? We expect the success probability to be nonzero (since GPT-5, being an autoregressive generative model, never assigns exactly zero […]]]></summary>
-        <author>
-            <name>sangyunl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniMax-M2: Better Than GLM 4.6 (Compact & High-Efficiency AI Model)]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245097</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/minimax-m2/"/>
-        <updated>2025-10-27T12:25:04.000Z</updated>
-        <summary type="html"><![CDATA[AI development has become a race of excess. More parameters, more compute, more GPUs. It’s an attempt to increase intelligence by adding more brains (instead of developing one). Every new release flaunts size rather than substance. But the newer models have proven one thing: real progress isn’t just about how big you can go. It’s […]
-The post MiniMax-M2: Better Than GLM 4.6 (Compact & High-Efficiency AI Model) appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seizing the AI opportunity]]></title>
-        <id>https://openai.com/global-affairs/seizing-the-ai-opportunity</id>
-        <link href="https://openai.com/global-affairs/seizing-the-ai-opportunity"/>
-        <updated>2025-10-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibe Coding in Google AI Studio: How I Built an App in Minutes]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245088</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/vibe-coding-in-google-ai-studio/"/>
-        <updated>2025-10-27T10:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Vibe coding is the latest trend among developers, and it doesn’t seem to be going anywhere for the time being. In fact, most of the bigwigs of the tech industry are fast associating their products and solutions with it. The latest in line is Google, which has now introduced a new vibe coding feature in […]
-The post Vibe Coding in Google AI Studio: How I Built an App in Minutes appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strengthening ChatGPT’s responses in sensitive conversations]]></title>
-        <id>https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations</id>
-        <link href="https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations"/>
-        <updated>2025-10-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addendum to GPT-5 System Card: Sensitive conversations]]></title>
-        <id>https://openai.com/index/gpt-5-system-card-sensitive-conversations</id>
-        <link href="https://openai.com/index/gpt-5-system-card-sensitive-conversations"/>
-        <updated>2025-10-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 10.26.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:68ff0a9978cc251ee7b91f48</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37"/>
-        <updated>2025-10-27T06:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streaming datasets: 100x More Efficient]]></title>
-        <id>https://huggingface.co/blog/streaming-datasets</id>
-        <link href="https://huggingface.co/blog/streaming-datasets"/>
-        <updated>2025-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning]]></title>
-        <id>https://huggingface.co/blog/huggingface-hub-v1</id>
-        <link href="https://huggingface.co/blog/huggingface-hub-v1"/>
-        <updated>2025-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A law and tax firm redefines efficiency with ChatGPT Business]]></title>
-        <id>https://openai.com/index/steuerrecht</id>
-        <link href="https://openai.com/index/steuerrecht"/>
-        <updated>2025-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Framework Dimensions: What Data Scientists Should Know]]></title>
-        <id>https://towardsdatascience.com/?p=607491</id>
-        <link href="https://towardsdatascience.com/the-power-of-framework-dimensions-what-data-scientists-should-know/"/>
-        <updated>2025-10-26T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guidance and a case study
-The post The Power of Framework Dimensions: What Data Scientists Should Know appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chinmay Kakatkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents: From Assistants for Efficiency to Leaders of Tomorrow?]]></title>
-        <id>https://towardsdatascience.com/?p=607489</id>
-        <link href="https://towardsdatascience.com/ai-agents-from-assistants-for-efficiency-to-leaders-of-tomorrow/"/>
-        <updated>2025-10-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How artificial intelligence is evolving from "simple" assistants to potential architect of our future-even CEOs and governors
-The post AI Agents: From Assistants for Efficiency to Leaders of Tomorrow? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Luciano Abriata</name>
         </author>
     </entry>
 </feed>
