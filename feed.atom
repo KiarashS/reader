@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-29T01:17:56.308Z</updated>
+    <updated>2025-11-30T01:28:22.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metric Deception: When Your Best KPIs Hide Your Worst Failures]]></title>
+        <id>https://towardsdatascience.com/?p=607765</id>
+        <link href="https://towardsdatascience.com/metric-deception-when-your-best-kpis-hide-your-worst-failures/"/>
+        <updated>2025-11-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The most dangerous KPIs aren’t broken; they’re the ones trusted long after they’ve lost their meaning.
+The post Metric Deception: When Your Best KPIs Hide Your Worst Failures appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shafeeq Ur Rahaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale Your LLM Usage]]></title>
+        <id>https://towardsdatascience.com/?p=607752</id>
+        <link href="https://towardsdatascience.com/how-to-scale-your-llm-usage/"/>
+        <updated>2025-11-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to increase LLM usage to achieve increased productivity
+The post How to Scale Your LLM Usage appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 Papers of NeurIPS 2025 That You Must Read]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247049</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/top-papers-of-neurips-2025/"/>
+        <updated>2025-11-29T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[NeurIPS dropped its list of the best research papers for the year 2025, and the list does more than name-drop impressive work. It provides a map for navigating the problems the field now cares about. This article would shed some light to what those papers are, and how they were able to contribute to AI. […]
+The post Top 4 Papers of NeurIPS 2025 That You Must Read appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circuit discovery through chain of thought using policy gradients]]></title>
+        <id>N4P9LSa6B2KyQtG5d</id>
+        <link href="https://www.alignmentforum.org/posts/N4P9LSa6B2KyQtG5d/circuit-discovery-through-chain-of-thought-using-policy"/>
+        <updated>2025-11-29T07:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 29, 2025 7:56 AM GMT
+
+Circuit discovery has been restricted to the single-forward-pass setting, because the algorithms to attribute changes in behavior to particular neurons / SAE features need gradients, and you can't take a gradient through the sampled chain of thought. Or... can you?
+It turns out taking gradients through random discrete actions is an essential part of reinforcement learning. We can estimate the gradients of an expectation over CoTs, with respect to the features, using the score function estimator. We can combine this with integrated gradients to produce a version of EAP-IG which works through the averages of chains of thought.
+Background
+Circuit discovery
+The task we attempt to do is circuit discovery, defined by Conmy et al. Formally, for each sub…]]></summary>
+        <author>
+            <name>Adrià Garriga-Alonso</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Science in 2026: Is It Still Worth It?]]></title>
         <id>https://towardsdatascience.com/?p=607767</id>
@@ -3404,80 +3453,6 @@ The post I Built a Working App in 4 Minutes, Thanks to Manus 1.5 appeared first 
         <summary type="html"><![CDATA[OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.]]></summary>
         <author>
             <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Aardvark: OpenAI’s agentic security researcher]]></title>
-        <id>https://openai.com/index/introducing-aardvark</id>
-        <link href="https://openai.com/index/introducing-aardvark"/>
-        <updated>2025-10-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas]]></title>
-        <id>https://openai.com/index/building-chatgpt-atlas</id>
-        <link href="https://openai.com/index/building-chatgpt-atlas"/>
-        <updated>2025-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Techniques to Optimize Your LLM Prompts for Cost, Latency and Performance]]></title>
-        <id>https://towardsdatascience.com/?p=607518</id>
-        <link href="https://towardsdatascience.com/4-techniques-to-optimize-your-llm-prompts-for-cost-latency-and-performance/"/>
-        <updated>2025-10-29T19:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to greatly improve the performance of your LLM application
-The post 4 Techniques to Optimize Your LLM Prompts for Cost, Latency and Performance appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Vision-Language Intelligence to RAG with ColPali]]></title>
-        <id>https://towardsdatascience.com/?p=607516</id>
-        <link href="https://towardsdatascience.com/bringing-vision-language-intelligence-to-rag-with-colpali/"/>
-        <updated>2025-10-29T17:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Unlocking the value of non-textual contents in your knowledge base
-The post Bringing Vision-Language Intelligence to RAG with ColPali appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Julian Yip</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grokipedia vs Wikipedia: Elon Musk’s AI Encyclopedia is Here!]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245242</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/grokipedia-elon-musks-ai-encyclopedia/"/>
-        <updated>2025-10-29T16:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Grokipedia, or the “bias-free Wikipedia”, is finally here. With a massive store of over 800K articles, Grokipedia isn’t just another challenger to the reign of free information: it’s already taking its place. A lot has changed since the first public release of Grokipedia, from the addition of more articles to the promise of even more […]
-The post Grokipedia vs Wikipedia: Elon Musk’s AI Encyclopedia is Here! appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Advanced Feature Engineering Tricks for Text Data Using LLM Embeddings]]></title>
-        <id>https://machinelearningmastery.com/?p=22187</id>
-        <link href="https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-for-text-data-using-llm-embeddings/"/>
-        <updated>2025-10-29T15:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Large language models (LLMs) are not only good at understanding and generating text; they can also turn raw text into numerical representations called embeddings.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Essential 3D Point Cloud Datasets for Precision Agriculture]]></title>
-        <id>https://imerit.net/?p=24594</id>
-        <link href="https://imerit.net/resources/blog/top-17-important-3d-point-cloud-datasets-for-precision-agriculture/"/>
-        <updated>2025-10-29T15:21:52.000Z</updated>
-        <summary type="html"><![CDATA[3D point cloud datasets transform precision agriculture by offering detailed insights into crops and terrain. See how advanced technologies like LiDAR and UAVs are helping optimize yields and resource management
-The post 20 Essential 3D Point Cloud Datasets for Precision Agriculture appeared first on iMerit.]]></summary>
-        <author>
-            <name>Brett</name>
         </author>
     </entry>
 </feed>
