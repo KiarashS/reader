@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-30T01:28:22.221Z</updated>
+    <updated>2025-12-01T01:43:17.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning and Deep Learning “Advent Calendar” Series: The Blueprint]]></title>
+        <id>https://towardsdatascience.com/?p=607760</id>
+        <link href="https://towardsdatascience.com/machine-learning-and-deep-learning-in-excel-advent-calendar-announcement/"/>
+        <updated>2025-11-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Opening the black box of ML models, step by step, directly in Excel
+The post The Machine Learning and Deep Learning “Advent Calendar” Series: The Blueprint appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall]]></title>
+        <id>https://towardsdatascience.com/?p=607762</id>
+        <link href="https://towardsdatascience.com/the-greedy-boruta-algorithm-faster-feature-selection-without-sacrificing-recall/"/>
+        <updated>2025-11-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A modification to the Boruta algorithm that dramatically reduces computation while maintaining high sensitivity
+The post The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nicolas Vana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247059</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/11/langchains-deep-agent-guide/"/>
+        <updated>2025-11-30T11:23:47.000Z</updated>
+        <summary type="html"><![CDATA[Imagine an AI that doesn’t just answer your questions, but thinks ahead, breaks tasks down, creates its own TODOs, and even spawns sub-agents to get the work done. That’s the promise of Deep Agents. AI Agents already take the capabilities of LLMs a notch higher, and today we’ll look at Deep Agents to see how […]
+The post Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Mounish V</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metric Deception: When Your Best KPIs Hide Your Worst Failures]]></title>
         <id>https://towardsdatascience.com/?p=607765</id>
@@ -3291,168 +3324,6 @@ The post AI Agents vs LLMs vs RAG  appeared first on Analytics Vidhya.]]></summ
 The post The Machine Learning Projects Employers Want to See appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RF-DETR Under the Hood: The Insights of a Real-Time Transformer Detection]]></title>
-        <id>https://towardsdatascience.com/?p=607526</id>
-        <link href="https://towardsdatascience.com/rf-detr-under-the-hood-the-insights-of-a-real-time-transformer-detection/"/>
-        <updated>2025-10-31T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From rigid grids to adaptive attention, this is the evolutionary path that made detection transformers fast, flexible, and formidable.
-The post RF-DETR Under the Hood: The Insights of a Real-Time Transformer Detection appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>David Redó Nieto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geospatial Analysis: Top 30 3D Point Cloud Datasets]]></title>
-        <id>https://imerit.net/?p=24552</id>
-        <link href="https://imerit.net/resources/blog/top-24-essential-3d-point-cloud-datasets-for-geospatial-analysis/"/>
-        <updated>2025-10-31T11:51:05.000Z</updated>
-        <summary type="html"><![CDATA[3D point cloud data plays a vital role in geospatial analysis, supporting applications like mapping, urban planning, and disaster management. Explore 22 datasets offering detailed spatial insights.
-The post Geospatial Analysis: Top 30 3D Point Cloud Datasets appeared first on iMerit.]]></summary>
-        <author>
-            <name>Brett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's Pilot Sabotage Risk Report]]></title>
-        <id>omRf5fNyQdvRuMDqQ</id>
-        <link href="https://www.alignmentforum.org/posts/omRf5fNyQdvRuMDqQ/anthropic-s-pilot-sabotage-risk-report-2"/>
-        <updated>2025-10-30T17:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 30, 2025 5:50 PM GMT
-
-As practice for potential future Responsible Scaling Policy obligations, we're releasing a report on misalignment risk posed by our deployed models as of Summer 2025. We conclude that there is very low, but not fully negligible, risk of misaligned autonomous actions that substantially contribute to later catastrophic outcomes. We also release two reviews of this report: an internal review and an independent review by METR.
-Our Responsible Scaling Policy has so far come into force primarily to address risks related to high-stakes human misuse. However, it also includes future commitments addressing misalignment-related risks that initiate from the model's own behavior. For future models that pass a capability threshold we have not yet reached, it c…]]></summary>
-        <author>
-            <name>dmz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Rules Engine from First Principles]]></title>
-        <id>https://towardsdatascience.com/?p=607523</id>
-        <link href="https://towardsdatascience.com/building-a-rules-engine-from-first-principles/"/>
-        <updated>2025-10-30T17:35:13.000Z</updated>
-        <summary type="html"><![CDATA[How recasting propositional logic as sparse algebra leads to an elegant and efficient design
-The post Building a Rules Engine from First Principles appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Dmitry Lesnik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build LLM Agents Faster with Datapizza AI]]></title>
-        <id>https://towardsdatascience.com/?p=607521</id>
-        <link href="https://towardsdatascience.com/datapizza-the-ai-framework-made-in-italy/"/>
-        <updated>2025-10-30T17:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Intro Organizations are increasingly investing in AI as these new tools are adopted in everyday operations more and more. This continuous wave of innovation is fueling the demand for more efficient and reliable frameworks. Following this trend, Datapizza (the startup behind Italy’s tech community) just released an open-source framework for GenAI with Python, called Datapizza […]
-The post Build LLM Agents Faster with Datapizza AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mauro Di Pietro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TDS Newsletter: October Must-Reads on Agents, Python, Context Engineering, and More]]></title>
-        <id>https://towardsdatascience.com/?p=607543</id>
-        <link href="https://towardsdatascience.com/tds-newsletter-october-must-reads-on-agents-python-context-engineering-and-more/"/>
-        <updated>2025-10-30T16:57:00.000Z</updated>
-        <summary type="html"><![CDATA[A good month on TDS is one in which we get to share a wide range of incisive articles with our readers, covering cutting-edge tools, foundational data and ML skills, thoughtful takes on the state of AI, and career (and other) insights from our top authors. By this measure, October was one for the books. This […]
-The post TDS Newsletter: October Must-Reads on Agents, Python, Context Engineering, and More appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Machine Learning Projects to Land Your Dream Job in 2026]]></title>
-        <id>https://machinelearningmastery.com/?p=22226</id>
-        <link href="https://machinelearningmastery.com/7-machine-learning-projects-to-land-your-dream-job-in-2026/"/>
-        <updated>2025-10-30T16:47:53.000Z</updated>
-        <summary type="html"><![CDATA[machine learning continues to evolve faster than most can keep up with.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Edge Cases to Exploits: Why Red-Teaming Needs Expert-Vetted Datasets]]></title>
-        <id>https://imerit.net/?p=31018</id>
-        <link href="https://imerit.net/resources/blog/from-edge-cases-to-exploits-why-red-teaming-needs-expert-vetted-datasets/"/>
-        <updated>2025-10-30T16:06:36.000Z</updated>
-        <summary type="html"><![CDATA[A technical error in an AI model can have far-reaching consequences. Generative AI models can be manipulated to produce harmful
-The post From Edge Cases to Exploits: Why Red-Teaming Needs Expert-Vetted Datasets appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonnet 4.5's eval gaming seriously undermines alignment evals, and this seems caused by training on alignment evals]]></title>
-        <id>qgehQxiTXj53X49mM</id>
-        <link href="https://www.alignmentforum.org/posts/qgehQxiTXj53X49mM/sonnet-4-5-s-eval-gaming-seriously-undermines-alignment"/>
-        <updated>2025-10-30T15:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 30, 2025 3:34 PM GMT
-
-According to the Sonnet 4.5 system card, Sonnet 4.5 is much more likely than Sonnet 4 to mention in its chain-of-thought that it thinks it is being evaluated; this seems to meaningfully cause it to appear to behave better in alignment evaluations. So, Sonnet 4.5’s behavioral improvements in these evaluations may partly be driven by a growing tendency to notice and game evaluations rather than genuine alignment. This is an early example of a phenomenon that is going to get increasingly problematic: as evaluation gaming increases, alignment evaluations become harder to trust.[1]
-To elaborate on the above: Sonnet 4.5 seems far more aware of being evaluated than previous models. In some of Anthropic’s evaluations, Sonnet 4.5 explicitly mentions being …]]></summary>
-        <author>
-            <name>Alexa Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steering Evaluation-Aware Models to Act Like They Are Deployed]]></title>
-        <id>peKrvZ6t9PSCzoQDa</id>
-        <link href="https://www.alignmentforum.org/posts/peKrvZ6t9PSCzoQDa/steering-evaluation-aware-models-to-act-like-they-are"/>
-        <updated>2025-10-30T15:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Published on October 30, 2025 3:03 PM GMT
-
-🐦Tweet thread, 📄Paper,  🖥️Code, 🤖Evaluation Aware Model Organism
-TL, DR:;
-
-We train an evaluation-aware LLM. Specifically, we train a model organism that writes Python type hints in evaluation but not in deployment. Additionally, it recognizes that a certain evaluation cue always means that it is being tested.
-The evaluation cue is intended to simulate hard-to-remove signs of an eval being artificial, e.g. being LLM-written.
-Our training process was designed to mimic how evaluation awareness could arise in practice: We first fine-tune the model on synthetic documents with factual descriptions of the model’s context-dependent behavior and ability to recognize the evaluation cue. Then we train the model with expert iteration on evaluation data o…]]></summary>
-        <author>
-            <name>Tim Hua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Systems thinking helps me put the big picture front and center”]]></title>
-        <id>https://towardsdatascience.com/?p=607496</id>
-        <link href="https://towardsdatascience.com/systems-thinking-helps-me-put-the-big-picture-front-and-center/"/>
-        <updated>2025-10-30T14:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Shuai Guo on deep research agents, analytical AI vs LLM-based agents, and systems thinking
-The post “Systems thinking helps me put the big picture front and center” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is gpt-oss-safeguard? OpenAI’s Policy-Driven Safety Model]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245319</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/gpt-oss-safeguard/"/>
-        <updated>2025-10-30T14:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Forget content moderation. A new class of open models is here to actually think through your rules instead of blindly guessing them. Meet gpt-oss-safeguard: models that interpret your rules and enforce them with visible reasoning. No, massive retraining. No, black-box safety calls. Yes, flexible and open-weight systems you control. In this article, we’ll break down what the […]
-The post What is gpt-oss-safeguard? OpenAI’s Policy-Driven Safety Model appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Working App in 4 Minutes, Thanks to Manus 1.5]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245317</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/10/working-app-in-minutes-manus-1-5/"/>
-        <updated>2025-10-30T14:03:56.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to AI agents and workflow automation, Manus AI stands tall among the host of such solutions. The platform is quite renowned for its capabilities, so much so that us folks here at AnalyticsVidhya use it extensively for a range of tasks. And so, it shouldn’t be a surprise that we have covered […]
-The post I Built a Working App in 4 Minutes, Thanks to Manus 1.5 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expanding Stargate to Michigan]]></title>
-        <id>https://openai.com/index/expanding-stargate-to-michigan</id>
-        <link href="https://openai.com/index/expanding-stargate-to-michigan"/>
-        <updated>2025-10-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.]]></summary>
-        <author>
-            <name>OpenAI News</name>
         </author>
     </entry>
 </feed>
