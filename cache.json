@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607853",
+          "author": "Aakash Goswami",
+          "description": "Why on-device intelligence and low-orbit constellations are the only viable path to universal accessibility\nThe post Bridging the Silence: How LEO Satellites and Edge AI Will Democratize Connectivity appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/bridging-the-silence-how-leo-satellites-and-edge-ai-will-democratize-connectivity/",
+          "publishedOn": "2025-12-08T19:00:00.000Z",
+          "wordCount": 4299,
+          "title": "Bridging the Silence: How LEO Satellites and Edge AI Will Democratize Connectivity",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-03-at-01.16.23.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607851",
+          "author": "angela shi",
+          "description": "Isolation Forest may look technical, but its idea is simple: isolate points using random splits. If a point is isolated quickly, it is an anomaly; if it takes many splits, it is normal.\nUsing the tiny dataset 1, 2, 3, 9, we can see the logic clearly. We build several random trees, measure how many splits each point needs, average the depths, and convert them into anomaly scores. Short depths become scores close to 1, long depths close to 0.\nThe Excel implementation is painful, but the algorithm itself is elegant. It scales to many features, makes no assumptions about distributions, and even works with categorical data. Above all, Isolation Forest asks a different question: not “What is normal?”, but “How fast can I isolate this point?”\nThe post The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-8-isolation-forest-in-excel/",
+          "publishedOn": "2025-12-08T18:26:42.000Z",
+          "wordCount": 4852,
+          "title": "The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Capture-decran-2025-12-07-a-20.49.28.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607844",
+          "author": "Michael Malin",
+          "description": "How history’s biggest tech bubble explains where AI is headed next\nThe post The AI Bubble Will Pop — And Why That Doesn’t Matter appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-ai-bubble-will-pop-and-why-that-doesnt-matter/",
+          "publishedOn": "2025-12-08T15:00:00.000Z",
+          "wordCount": 4092,
+          "title": "The AI Bubble Will Pop — And Why That Doesn’t Matter",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/ai-bubble.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607842",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to make a newsletter with AI tools\nThe post How to Create an ML-Focused Newsletter appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-create-an-ml-focused-newsletter/",
+          "publishedOn": "2025-12-08T13:30:00.000Z",
+          "wordCount": 3917,
+          "title": "How to Create an ML-Focused Newsletter",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-457.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607812",
+          "author": "Chaim Rand",
+          "description": "Flyin’ Like a Lion on Intel Xeon\nThe post Optimizing PyTorch Model Inference on CPU appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/optimizing-pytorch-model-inference-on-cpu/",
+          "publishedOn": "2025-12-08T12:00:00.000Z",
+          "wordCount": 6715,
+          "title": "Optimizing PyTorch Model Inference on CPU",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/ingo-stiller-3tkxfe2GocY-unsplash.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607836",
           "author": "Greg Rafferty",
           "description": "The behaviors that get you promoted\nThe post How to Climb the Hidden Career Ladder of Data Science appeared first on Towards Data Science.",
@@ -1100,26 +1150,6 @@
           "wordCount": 6386,
           "title": "Power Analysis in Marketing: A Hands-On Introduction",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/power_effect_size.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607583",
-          "author": "Andrew Skabar",
-          "description": "Learn how to evaluate synthetic data quality using the Maximum Similarity Test — a simple, quantitative approach for assessing fidelity, utility, and privacy in synthetic datasets.\nThe post Evaluating Synthetic Data — The Million Dollar Question appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/",
-          "publishedOn": "2025-11-07T20:23:50.000Z",
-          "wordCount": 5267,
-          "title": "Evaluating Synthetic Data — The Million Dollar Question",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/cover-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607579",
-          "author": "Michal Szudejko",
-          "description": "The scintillating grid optical illusion is a perfect metaphor for how raw data can mislead us, causing us to see false trends. To escape the \"data-rich, action-poor\" paradox, organizations should need data humanization.\nThis approach focuses on turning abstract metrics (the what) into clear, actionable stories (the why). It requires new roles like \"Data Artisans,\" a core competency in \"Data Storytelling,\" and a focus on proving the financial Impact (ROI) of these clearer insights.\nThe post Beyond Numbers: How to Humanize Your Data & Analysis appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-numbers-how-to-humanize-your-data-analysis/",
-          "publishedOn": "2025-11-07T14:00:00.000Z",
-          "wordCount": 5738,
-          "title": "Beyond Numbers: How to Humanize Your Data & Analysis",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-14.png"
         }
       ]
     },
@@ -1430,6 +1460,16 @@
           "wordCount": 1569,
           "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
           "imageUrl": "https://huggingface.co/blog/assets/swift-huggingface/banner.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/intel-deepmath",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/intel-deepmath",
+          "publishedOn": "2025-12-04T00:00:00.000Z",
+          "wordCount": 1239,
+          "title": "DeepMath: A lightweight math reasoning Agent with SmolAgents",
+          "imageUrl": "https://huggingface.co/blog/assets/intel-deepmath/banner.png"
         },
         {
           "id": "https://huggingface.co/blog/hf-skills-training",
@@ -1808,6 +1848,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6936883a13e8362d36b05d2f",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx",
+          "publishedOn": "2025-12-08T08:12:18.000Z",
+          "wordCount": null,
+          "title": "Week Ending 12.7.2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:692d7b570d31ae354bbad8fd",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1923,6 +1974,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=31752",
+          "author": "Inkline Admin",
+          "description": "Many AI projects stumble not because of flawed models, but because of the data they’re built on. Yet most enterprises\nThe post Evaluating AI Data Vendors: A Safety, Trust, and Quality appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/evaluating-ai-data-vendors-a-safety-trust-and-quality/",
+          "publishedOn": "2025-12-08T16:15:39.000Z",
+          "wordCount": 3826,
+          "title": "Evaluating AI Data Vendors: A Safety, Trust, and Quality",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/businesswoman-interacting-with-ai-hologram-office-sm.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=31725",
           "author": "Inkline Admin",
           "description": "Enterprises rely more than ever on AI to make decisions, automate tasks, and improve efficiency. However, even the most advanced\nThe post Why Gold Standard Evaluation Sets Are the Key to Reliable Enterprise AI Evaluation appeared first on iMerit.",
@@ -1991,16 +2052,6 @@
           "wordCount": 3521,
           "title": "From Subjective to Computable: Turning Quality into Code with a Quality Rubric",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/11/Feature-IMG-Subjective-to-Computable-–-Turning-Quality-into-Code-with-a-Quality-Rubric-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=31221",
-          "author": "Sujana Urs",
-          "description": "3D point cloud data plays a vital role in geospatial analysis, supporting applications like mapping, urban planning, and disaster management. Explore 22 datasets offering detailed spatial insights.\nThe post Adversarial Prompt Generation: Building Safer AI with Human-in-the-Loop Oversight appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/adversarial-prompt-generation-building-safer-ai-with-human-in-the-loop-oversight/",
-          "publishedOn": "2025-11-08T06:19:12.000Z",
-          "wordCount": 3092,
-          "title": "Adversarial Prompt Generation: Building Safer AI with Human-in-the-Loop Oversight",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2024/11/OG_Top-22-Essential-3D-Point-Cloud-Datasets-for-Geospatial-Analysis.jpg"
         }
       ]
     },
@@ -2009,6 +2060,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=247599",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Researchers have uncovered an unexpected flaw in one of the most common techniques used to build smaller, cheaper AI models: Distillation. When a “student” model is trained on filtered outputs from a larger “teacher,” it can still inherit the teacher’s quirks and unsafe behaviors, even when those traits never appear in the training data. They’re […]\nThe post Subliminal Learning: How AI Models Inherit Hidden Dangers appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/subliminal-learning-in-ai/",
+          "publishedOn": "2025-12-08T13:42:35.000Z",
+          "wordCount": null,
+          "title": "Subliminal Learning: How AI Models Inherit Hidden Dangers",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=247580",
+          "author": "Vipin Vashisth",
+          "description": "AI agents are LLM-powered systems that act autonomously to solve complex tasks. Unlike simple chatbots, agents plan steps, call external tools, and use memory to keep context. For example, an agent can analyse data sources and generate a multi-step plan, whereas a basic LLM app can only answer a single prompt.   Therefore, developers now need […]\nThe post Agent Frameworks vs Runtime vs Harnesses: What They Are and When to Use Which  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/agent-frameworks-vs-runtimes-vs-harnesses/",
+          "publishedOn": "2025-12-08T13:23:57.000Z",
+          "wordCount": null,
+          "title": "Agent Frameworks vs Runtime vs Harnesses: What They Are and When to Use Which",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=247555",
           "author": "Nitika Sharma",
@@ -2668,17 +2741,6 @@
           "title": "Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=245746",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Using a large language model for the first time often feels like you are holding raw intelligence in your hands. They tend to write, summarize, and reason extremely well. However, you build and ship a real product, and all of the cracks in the model show themselves. It doesn’t remember what you said yesterday, and […]\nThe post Guide to Context Engineering appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/",
-          "publishedOn": "2025-11-08T06:03:38.000Z",
-          "wordCount": null,
-          "title": "Guide to Context Engineering",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2698,7 +2760,18 @@
       "title": "RSIP Vision",
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=16889",
+          "author": "David M",
+          "description": "MLOps for AI in Medical Imaging The development of Artificial Intelligence (AI) for medical imaging is a complex task, with unique challenges and   stringent regulatory requirements. In particular, the development process of the model should be transparent and traceable, with a clear understanding of why a specific model and/or data configuration was selected. Machine …\n  MLOps for AI in Medical Imaging Read More »\nThe post MLOps for AI in Medical Imaging appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/mlops-for-ai-in-medical-imaging/",
+          "publishedOn": "2025-12-08T18:39:08.000Z",
+          "wordCount": null,
+          "title": "MLOps for AI in Medical Imaging",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "RSIP Vision Learns Archives - RSIP Vision",
@@ -2723,6 +2796,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/instacart-partnership",
+          "author": null,
+          "description": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+          "link": "https://openai.com/index/instacart-partnership",
+          "publishedOn": "2025-12-08T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Instacart and OpenAI partner on AI shopping experiences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+          "author": null,
+          "description": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+          "link": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+          "publishedOn": "2025-12-08T04:00:00.000Z",
+          "wordCount": null,
+          "title": "The state of enterprise AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/virgin-atlantic-oliver-byers",
+          "author": null,
+          "description": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+          "link": "https://openai.com/index/virgin-atlantic-oliver-byers",
+          "publishedOn": "2025-12-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/global-affairs/openai-for-australia",
           "author": null,
@@ -3198,6 +3301,36 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "xw8P8H4TRaTQHJnoP",
+          "author": "Steve Byrnes",
+          "description": "Published on December 8, 2025 7:15 PM GMT\n\nIn the companion post We need a field of Reward Function Design, I implore researchers to think about what RL reward functions (if any) will lead to RL agents that are not ruthless power-seeking consequentialists. And I further suggested that human social instincts constitutes an intriguing example we should study, since they seem to be an existence proof that such reward functions exist. So what is the general principle of Reward Function Design that underlies the non-ruthless (“ruthful”??) properties of human social instincts? And whatever that general principle is, can we apply it to future RL agent AGIs?\nI don’t have all the answers, but I think I’ve made some progress, and the goal of this post is to make it easier for others to get up to spe…",
+          "link": "https://www.alignmentforum.org/posts/xw8P8H4TRaTQHJnoP/reward-function-design-a-starter-pack",
+          "publishedOn": "2025-12-08T19:15:39.000Z",
+          "wordCount": null,
+          "title": "Reward Function Design: a starter pack",
+          "imageUrl": null
+        },
+        {
+          "id": "oxvnREntu82tffkYW",
+          "author": "Steve Byrnes",
+          "description": "Published on December 8, 2025 7:15 PM GMT\n\n(Brief pitch for a general audience, based on a 5-minute talk I gave.)\nLet’s talk about Reinforcement Learning (RL) agents as a possible path to Artificial General Intelligence (AGI)\nMy research focuses on “RL agents”, broadly construed. These were big in the 2010s—they made the news for learning to play Atari games, and Go, at superhuman level. Then LLMs came along in the 2020s, and everyone kinda forgot that RL agents existed. But I’m part of a small group of researchers who still thinks that the field will pivot back to RL agents, one of these days. (Others in this category include Yann LeCun and Rich Sutton & David Silver.)\nWhy do I think that? Well, LLMs are very impressive, but we don’t have AGI (artificial general intelligence) yet—not as I…",
+          "link": "https://www.alignmentforum.org/posts/oxvnREntu82tffkYW/we-need-a-field-of-reward-function-design",
+          "publishedOn": "2025-12-08T19:15:35.000Z",
+          "wordCount": null,
+          "title": "We need a field of Reward Function Design",
+          "imageUrl": null
+        },
+        {
+          "id": "k7wfo2fk4bipK7mfH",
+          "author": "David Africa",
+          "description": "Published on December 8, 2025 4:03 PM GMT\n\nTL;DR: We formalized and empirically demonstrated wireheading in Llama-3.1-8B and Mistral-7B. Specifically, we use a formalization of wireheading (using a POMDP) to show conditions under which wireheading (manipulating the reward channel) becomes the dominant strategy over task learning. When models are allowed to self-evaluate and that evaluation controls their reward, they learn to inflate their grades (scoring perfect 10s) while ignoring the actual task, which we validate in three tasks in an online RL setting. Decoupling the reward signal mostly fixes this for current models, but there are some future risks here.\nLink to paper: https://www.arxiv.org/abs/2511.23092 \nCode: https://github.com/DavidDemitriAfrica/llm-wireheading-experiment\nSelf-eva…",
+          "link": "https://www.alignmentforum.org/posts/k7wfo2fk4bipK7mfH/paper-does-self-evaluation-enable-wireheading-in-language",
+          "publishedOn": "2025-12-08T16:03:06.000Z",
+          "wordCount": null,
+          "title": "[Paper] Does Self-Evaluation Enable Wireheading in Language Models?",
+          "imageUrl": null
+        },
+        {
           "id": "Hy6PX43HGgmfiTaKu",
           "author": "leogao",
           "description": "Published on December 5, 2025 10:57 PM GMT\n\nThe goal of ambitious mechanistic interpretability (AMI) is to fully understand how neural networks work. While some have pivoted towards more pragmatic approaches, I think the reports of AMI’s death have been greatly exaggerated. The field of AMI has made plenty of progress towards finding increasingly simple and rigorously-faithful circuits, including our latest work on circuit sparsity. There are also many exciting inroads on the core problem waiting to be explored.\nThe value of understanding\nWhy try to understand things, if we can get more immediate value from less ambitious approaches? In my opinion, there are two main reasons.\nFirst, mechanistic understanding can make it much easier to figure out what’s actually going on, especially when it…",
@@ -3208,6 +3341,16 @@
           "imageUrl": null
         },
         {
+          "id": "MhoceqyBfXugA6GcS",
+          "author": "mfatt",
+          "description": "Published on December 5, 2025 6:58 PM GMT\n\nThe previous two posts have emphasized some problematic scenarios for mech-interp. Mech-interp is our example of a more general problem in AI safety. In this post we zoom out to that more general problem, before proposing our solution.\nWe can characterize the more general problem, inherent in the causal–mechanistic paradigm, in terms of substrate-dependent and substrate-independent approaches to alignment.\nAs we describe in our threat model, the results/insights obtained under the causal–mechanistic paradigm are closely tied to a particular substrate. They may therefore fail to generalize to new substrates, and any downstream safety assurances may be weakened.\nThe problem of generalizing beyond any one particular substrate—be that model, architect…",
+          "link": "https://www.alignmentforum.org/posts/MhoceqyBfXugA6GcS/management-of-substrate-sensitive-ai-capabilities-mossaic-3",
+          "publishedOn": "2025-12-05T18:58:37.000Z",
+          "wordCount": null,
+          "title": "Management of Substrate-Sensitive AI Capabilities (MoSSAIC) Part 3: Resolution",
+          "imageUrl": null
+        },
+        {
           "id": "FeaJcWkC6fuRAMsfp",
           "author": "Alex Mallen",
           "description": "Published on December 4, 2025 6:46 PM GMT\n\nHighly capable AI systems might end up deciding the future. Understanding what will drive those decisions is therefore one of the most important questions we can ask.\nMany people have proposed different answers. Some predict that powerful AIs will learn to intrinsically pursue reward. Others respond by saying reward is not the optimization target, and instead reward “chisels” a combination of context-dependent cognitive patterns into the AI. Some argue that powerful AIs might end up with an almost arbitrary long-term goal.\nAll of these hypotheses share an important justification: An AI with each motivation has highly fit behavior according to reinforcement learning.\nThis is an instance of a more general principle: we should expect AIs to have cogn…",
@@ -3215,6 +3358,16 @@
           "publishedOn": "2025-12-04T18:46:45.000Z",
           "wordCount": null,
           "title": "The behavioral selection model for predicting AI motivations",
+          "imageUrl": null
+        },
+        {
+          "id": "biaCEzMQWZ6QapvSS",
+          "author": "mfatt",
+          "description": "Published on December 4, 2025 6:27 PM GMT\n\nThe previous post highlighted some salient problems for the causal–mechanistic paradigm we sketched out. Here, we'll expand on this with some plausible future scenarios that further weaken the paradigm's reliability in safety applications.\nWe first briefly refine our critique and outline the scenario progression.\nOutline\nWe contend that the causal–mechanistic paradigm in AI safety research makes two implicit assertions:[1]\n\nFixity of structure: That the structural properties[2] of AI systems will, as AI capabilities increase, remain stable enough that the techniques researchers use to identify those structural properties remain relevant.\nReliability of extrapolation: That those structural properties can be reliably used to make safety assertions a…",
+          "link": "https://www.alignmentforum.org/posts/biaCEzMQWZ6QapvSS/management-of-substrate-sensitive-ai-capabilities-mossaic-2",
+          "publishedOn": "2025-12-04T18:27:22.000Z",
+          "wordCount": null,
+          "title": "Management of Substrate-Sensitive AI Capabilities (MoSSAIC) Part 2: Conflict",
           "imageUrl": null
         },
         {
@@ -3515,16 +3668,6 @@
           "publishedOn": "2025-11-08T22:22:21.000Z",
           "wordCount": null,
           "title": "Myopia Mythology",
-          "imageUrl": null
-        },
-        {
-          "id": "EQekyqyxzzHd8MHMX",
-          "author": "Abram Demski",
-          "description": "Published on November 8, 2025 5:40 AM GMT\n\nLöb's Theorem:\n\nIf ⊢□x→x.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; margin: 0; padding: 1px 0}\n.MJXc-display {display: block; text-align: center; margin: 1em 0; padding: 0}\n.mjx-chtml[tabindex]:focus, body :focus .mjx-chtml[tabindex] {display: inline-table}\n.mjx-full-width {text-align: center; display: table-cell!important; width: 10000em}\n.mjx-math {display: inline-block; border-collapse: separate; border-spacing: 0}\n…",
-          "link": "https://www.alignmentforum.org/posts/EQekyqyxzzHd8MHMX/comparing-payor-and-loeb",
-          "publishedOn": "2025-11-08T05:40:08.000Z",
-          "wordCount": null,
-          "title": "Comparing Payor & Löb",
           "imageUrl": null
         }
       ]
