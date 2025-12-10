@@ -2,10 +2,200 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-09T01:21:20.052Z</updated>
+    <updated>2025-12-10T01:23:17.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance]]></title>
+        <id>https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker</id>
+        <link href="https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker"/>
+        <updated>2025-12-09T20:06:56.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by ServiceNow-AI on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validating LLM-as-a-Judge Systems under Rating Indeterminacy]]></title>
+        <id>https://blog.ml.cmu.edu/?p=20993</id>
+        <link href="https://blog.ml.cmu.edu/2025/12/09/validating-llm-as-a-judge-systems-under-rating-indeterminacy/"/>
+        <updated>2025-12-09T19:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Figure 1: Our framework for validating LLM-as-a-judge systems under rating indeterminacy, where items in a subjective rating task can have multiple “correct” ratings. Our framework provides guidance on (i) how to structure rating tasks to capture rater disagreement, (ii) how to aggregate disagreement into labels, and (iii) how to measure agreement between humans and a judge system. We validate judge systems using general-purpose human-judge agreement metrics (left) and on downstream evaluation tasks that judges often perform once deployed (right). The LLM-as-a-judge paradigm, where a judge GenAI system rates the outputs of a target GenAI system, is becoming a standard approach for scaling up evaluation workflows. This approach is often used when evaluating subjective properties that cannot be checked through code-based evaluators, such as helpfulness, relevance, sycophancy, toxicity, or factual consistency. As judge systems become more widely deployed, it is critical to validate that they produce trustworthy evaluations—a process commonly referred to as meta-evaluation. A major challenge when validating judge systems for these subjective rating tasks is rating indeterminacy: cases where more than one rating can be “correct” depending on how a rater interprets the instructions. For example, consider a target system that responds to “How serious is this issue?” with “That’s […]]]></summary>
+        <author>
+            <name>Luke Guerdan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z.ai Reveals New GLM-4.6V: Should You Use it?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247648</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/z-ai-glm-4-6v/"/>
+        <updated>2025-12-09T18:07:25.000Z</updated>
+        <summary type="html"><![CDATA[The race for the “best AI model” goes on, as Z.ai is the latest one to mark its entry with a new and evolved model. Calling it the GLM-4.6V, Z.ai has focused on visual cues and representation with this one. And hence the “V” at the end of its name that resembles the existing flagship […]
+The post Z.ai Reveals New GLM-4.6V: Should You Use it? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 9: LOF in Excel]]></title>
+        <id>https://towardsdatascience.com/?p=607869</id>
+        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-9-lof-in-excel/"/>
+        <updated>2025-12-09T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we explore LOF through three simple steps: distances and neighbors, reachability distances, and the final LOF score. Using tiny datasets, we see how two anomalies can look obvious to us but completely different to different algorithms. This reveals the key idea of unsupervised learning: there is no single “true” outlier, only definitions. Understanding these definitions is the real skill.
+The post The Machine Learning “Advent Calendar” Day 9: LOF in Excel appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot]]></title>
+        <id>https://towardsdatascience.com/?p=607863</id>
+        <link href="https://towardsdatascience.com/personal-agentic-assistants-a-practical-blueprint-for-a-secure-multi-user-self-hosted-chatbot/"/>
+        <updated>2025-12-09T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Build a self-hosted, end-to-end platform that gives each user a personal, agentic chatbot that can autonomously vector-search through files that the user explicitly allows it to access. 
+The post Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mike Huls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/"/>
+        <updated>2025-12-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using AI-generated virtual populations, Microsoft researchers uncovered hidden cellular patterns that could reshape how we understand and treat cancer. 
+The post GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Hoifung Poon, Jeya Maria Jose Valanarasu, Naoto Usuyama, Sheng Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Scout24 is building the next generation of real-estate search with AI]]></title>
+        <id>https://openai.com/index/scout24</id>
+        <link href="https://openai.com/index/scout24"/>
+        <updated>2025-12-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Develop AI-Powered Solutions, Accelerated by AI]]></title>
+        <id>https://towardsdatascience.com/?p=607861</id>
+        <link href="https://towardsdatascience.com/how-to-develop-ai-powered-solutions-accelerated-by-ai/"/>
+        <updated>2025-12-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From idea to impact :  using AI as your accelerating copilot
+The post How to Develop AI-Powered Solutions, Accelerated by AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anna Via</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAM 3D: Foundation Model for Single-Image 3D Reconstruction]]></title>
+        <id>https://learnopencv.com/?p=77659</id>
+        <link href="https://learnopencv.com/sam-3d/"/>
+        <updated>2025-12-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SAM 3D is Meta’s groundbreaking foundation model for reconstructing full 3D shape, texture, and object layout from a single natural image. Learn how it works.
+SAM 3D: Foundation Model for Single-Image 3D Reconstruction first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Shubham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems]]></title>
+        <id>https://towardsdatascience.com/?p=607859</id>
+        <link href="https://towardsdatascience.com/graphrag-in-practice-how-to-build-cost-efficient-high-recall-retrieval-systems/"/>
+        <updated>2025-12-09T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Smarter retrieval strategies that outperform dense graphs — with hybrid pipelines and lower cost
+The post GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Realistic Roadmap to Start an AI Career in 2026]]></title>
+        <id>https://towardsdatascience.com/?p=607855</id>
+        <link href="https://towardsdatascience.com/a-realistic-roadmap-to-start-an-ai-career-in-2026/"/>
+        <updated>2025-12-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to learn AI in 2026 through real, usable projects
+The post A Realistic Roadmap to Start an AI Career in 2026 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sabrine Bendimerad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI co-founds Agentic AI Foundation, donates AGENTS.md]]></title>
+        <id>https://openai.com/index/agentic-ai-foundation</id>
+        <link href="https://openai.com/index/agentic-ai-foundation"/>
+        <updated>2025-12-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Ways to Slash Inference Costs with OpenAI LLMs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247635</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/llm-cost-optimization/"/>
+        <updated>2025-12-09T07:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) are the heart of Agentic systems and RAG systems. And building with LLMs is exciting until the scale makes them expensive. There is always a tradeoff for cost vs quality, but in this article we will explore the 10 best ways according to me that can slash costs for the LLM […]
+The post 10 Ways to Slash Inference Costs with OpenAI LLMs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Mounish V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Agentic AI Chrome Extensions]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247609</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/agentic-ai-chrome-extensions/"/>
+        <updated>2025-12-09T07:32:38.000Z</updated>
+        <summary type="html"><![CDATA[I get it, we all want the power of AI, and not just in specific chat windows or apps. We want it right on the platform that we do most of our work. For the majority of professionals, that is their web browser. And since Google’s Chrome is the one preferred by most, here, I […]
+The post Top 10 Agentic AI Chrome Extensions appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching our first OpenAI Certifications courses]]></title>
+        <id>https://openai.com/index/openai-certificate-courses</id>
+        <link href="https://openai.com/index/openai-certificate-courses"/>
+        <updated>2025-12-09T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing powerful AI to millions across Europe with Deutsche Telekom]]></title>
+        <id>https://openai.com/index/deutsche-telekom-collaboration</id>
+        <link href="https://openai.com/index/deutsche-telekom-collaboration"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI appoints Denise Dresser as Chief Revenue Officer]]></title>
+        <id>https://openai.com/index/openai-appoints-denise-dresser</id>
+        <link href="https://openai.com/index/openai-appoints-denise-dresser"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AI fluency at scale with ChatGPT Enterprise]]></title>
+        <id>https://openai.com/index/commonwealth-bank-of-australia</id>
+        <link href="https://openai.com/index/commonwealth-bank-of-australia"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reward Function Design: a starter pack]]></title>
         <id>xw8P8H4TRaTQHJnoP</id>
@@ -529,6 +719,16 @@ The post Do Labels Make AI Blind? Self-Supervision Solves the Age-Old Binding Pr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Prompt Engineering for Time Series Analysis]]></title>
+        <id>https://machinelearningmastery.com/?p=22647</id>
+        <link href="https://machinelearningmastery.com/prompt-engineering-for-time-series-analysis/"/>
+        <updated>2025-12-04T17:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Strange as it may sound, large language models (LLMs) can be leveraged for data analysis tasks, including specific scenarios such as time series analysis.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 4: k-Means in Excel]]></title>
         <id>https://towardsdatascience.com/?p=607826</id>
         <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-4-k-means-in-excel/"/>
@@ -705,6 +905,16 @@ The post Using CrewAI Planning to Build a Structured Multi-Agent Workflow appear
 The post Overcoming the Hidden Performance Traps of Variable-Shaped Tensors: Efficient Data Sampling in PyTorch appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Chaim Rand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Using Pydantic for Validating LLM Outputs]]></title>
+        <id>https://machinelearningmastery.com/?p=22587</id>
+        <link href="https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/"/>
+        <updated>2025-12-03T16:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Large language models generate text, not structured data.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -3653,76 +3863,6 @@ The post LLM-Powered Time-Series Analysis appeared first on Towards Data Science
 The post How to Build Your Own Agentic AI System Using CrewAI appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Destin Gong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Problems I've Tried to Legibilize]]></title>
-        <id>7XGdkATAvCTvn4FGu</id>
-        <link href="https://www.alignmentforum.org/posts/7XGdkATAvCTvn4FGu/problems-i-ve-tried-to-legibilize"/>
-        <updated>2025-11-09T10:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 9, 2025 10:27 AM GMT
-
-Looking back, it appears that much of my intellectual output could be described as legibilizing work, or trying to make certain problems in AI risk more legible to myself and others. I've organized the relevant posts and comments into the following list, which can also serve as a partial guide to problems that may need to be further legibilized, especially beyond LW/rationalists, to AI researchers, funders, company leaders, government policymakers, their advisors (including future AI advisors), and the general public.
-Philosophical problems
-
-Probability theory
-Decision theory
-Beyond astronomical waste (possibility of influencing vastly larger universes beyond our own)
-Interaction between bargaining and logical uncertainty
-Metaethics
-Metaphilosoph…]]></summary>
-        <author>
-            <name>Wei Dai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245720</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/"/>
-        <updated>2025-11-09T09:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Among the list of things AI tools can help you with, video generation is arguably the most nuanced one. After all, making a video requires the peak of creativity. It combines visuals, audio, graphics, and animations, all in the most cohesive and impactful format. If there are AI video generators that can do that, what […]
-The post Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Myopia Mythology]]></title>
-        <id>J35nY9ZpJoBtHoSNr</id>
-        <link href="https://www.alignmentforum.org/posts/J35nY9ZpJoBtHoSNr/myopia-mythology"/>
-        <updated>2025-11-08T22:22:21.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 8, 2025 10:22 PM GMT
-
-It's been a while since I wrote about myopia!
-My previous posts about myopia were "a little crazy", because it's not this solid well-defined thing; it's a cluster of things which we're trying to form into a research program.
-This post will be "more crazy".
-The Good/Evil/Good Spectrum
-"Good" means something along the lines of "helpful to all".
-There is a spectrum from extremely myopic to extremely non-myopic. Arranging all "thinking beings" on that spectrum, I claim that you get Good at both ends, with Evil sitting in-between.
-Deva (divine): At the extreme non-myopic end, you get things like updateless reasoning, acausal trade, multiverse-wide coordination, and so on. With enough of this stuff, agents naturally merge together into a collective whi…]]></summary>
-        <author>
-            <name>Abram Demski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnegie Mellon University at EMNLP 2025]]></title>
-        <id>https://blog.ml.cmu.edu/?p=21641</id>
-        <link href="https://blog.ml.cmu.edu/2025/11/08/carnegie-mellon-university-at-emnlp-2025/"/>
-        <updated>2025-11-08T15:45:46.000Z</updated>
-        <summary type="html"><![CDATA[CMU researchers are presenting 50 papers at the Thirtieth Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), held from November 4 – 9 in Suzhou, China. This includes 27 papers in the main conference, 19 papers in the Findings track, 2 system demonstrations papers, and 2 industry track papers. This blog post provides aggregated information about EMNLP 2025 papers published by CMU researchers. Key areas addressed are visualized below (representing 30 of the 50 total papers), illustrating the breadth of NLP and machine learning research being conducted at CMU : Note: All information in this post has been obtained through the ACL Anthology API and the EMNLP 2025 Presentation Information spreadsheet. Please contact CMU ML Blog editors if you would like any information added or changed. Table of Contents Main Conference Papers Special Theme: Interdisciplinary Recontextualization of NLP Multimodality and Language Grounding to Vision, Robotics and Beyond Resources and Evaluation Human-AI Interaction/Cooperation Interpretability, Model Editing, Transparency, and Explainability Mathematical, Symbolic, and Logical Reasoning in NLP Generalizability and Transfer NLP Applications Safety and Alignment in LLMs Natural Language Generation Question Answering Multilinguality and Language Diversity Computational Social Science, Cultural Analytics, and NLP for Social Good AI/LLM Agents Code Models […]]]></summary>
-        <author>
-            <name>Leena Mathur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Analysis in Marketing: A Hands-On Introduction]]></title>
-        <id>https://towardsdatascience.com/?p=607585</id>
-        <link href="https://towardsdatascience.com/power-analysis-in-marketing/"/>
-        <updated>2025-11-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 1: What is statistical power and how do we compute it?
-The post Power Analysis in Marketing: A Hands-On Introduction appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Arrington</name>
         </author>
     </entry>
 </feed>
