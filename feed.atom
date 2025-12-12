@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-11T01:23:49.870Z</updated>
+    <updated>2025-12-12T01:21:33.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My AGI safety research—2025 review, ’26 plans]]></title>
+        <id>CF4Z9mQSfvi99A3BR</id>
+        <link href="https://www.alignmentforum.org/posts/CF4Z9mQSfvi99A3BR/my-agi-safety-research-2025-review-26-plans"/>
+        <updated>2025-12-11T17:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 11, 2025 5:05 PM GMT
+
+Previous: 2024, 2022
+“Our greatest fear should not be of failure, but of succeeding at something that doesn't really matter.” –attributed to DL Moody[1]
+1. Background & threat model
+The main threat model I’m working to address is the same as it’s been since I was hobby-blogging about AGI safety in 2019. Basically, I think that:
+
+The “secret sauce” of human intelligence is a big uniform-ish learning algorithm centered around the cortex;
+This learning algorithm is different from and more powerful than LLMs;
+Nobody knows how it works today;
+Someone someday will either reverse-engineer this learning algorithm, or reinvent something similar;
+And then we’ll have Artificial General Intelligence (AGI) and superintelligence (ASI).
+
+I think that, when this…]]></summary>
+        <author>
+            <name>Steve Byrnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Lightning: Adding reinforcement learning to AI agents without code rewrites]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1158079</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/"/>
+        <updated>2025-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes.
+The post Agent Lightning: Adding reinforcement learning to AI agents without code rewrites appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Dongsheng Li, Luna K. Qiu, Yuqing Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 11: Linear Regression in Excel]]></title>
+        <id>https://towardsdatascience.com/?p=607891</id>
+        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-11-linear-regression-in-excel/"/>
+        <updated>2025-12-11T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Linear Regression looks simple, but it introduces the core ideas of modern machine learning: loss functions, optimization, gradients, scaling, and interpretation.
+The post The Machine Learning “Advent Calendar” Day 11: Linear Regression in Excel appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in llama.cpp: Model Management]]></title>
+        <id>https://huggingface.co/blog/ggml-org/model-management-in-llamacpp</id>
+        <link href="https://huggingface.co/blog/ggml-org/model-management-in-llamacpp"/>
+        <updated>2025-12-11T15:47:44.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by ggml.ai on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drawing Shapes with the Python Turtle Module]]></title>
+        <id>https://towardsdatascience.com/?p=607880</id>
+        <link href="https://towardsdatascience.com/drawing-shapes-with-the-python-turtle-module/"/>
+        <updated>2025-12-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step tutorial that explores the Python Turtle Module
+The post Drawing Shapes with the Python Turtle Module appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Sourcing for Medical AI: How iMerit’s Healthcare Scholars Combine Skill and Precision]]></title>
+        <id>https://imerit.net/?p=31787</id>
+        <link href="https://imerit.net/resources/blog/ai-powered-sourcing-for-medical-ai-how-imerits-healthcare-scholars-combine-skill-and-precision/"/>
+        <updated>2025-12-11T13:54:41.000Z</updated>
+        <summary type="html"><![CDATA[In medical AI, the difference between a good model and a clinically deployable one often comes down to who labels
+The post AI-Powered Sourcing for Medical AI: How iMerit’s Healthcare Scholars Combine Skill and Precision appeared first on iMerit.]]></summary>
+        <author>
+            <name>Inkline Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Pandas Performance Tricks Every Data Scientist Should Know]]></title>
+        <id>https://towardsdatascience.com/?p=607878</id>
+        <link href="https://towardsdatascience.com/7-pandas-performance-tricks-every-data-scientist-should-know/"/>
+        <updated>2025-12-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What I've learned about making Pandas faster after too many slow notebooks and frozen sessions
+The post 7 Pandas Performance Tricks Every Data Scientist Should Know appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Agent Handoffs Work in Multi-Agent Systems]]></title>
+        <id>https://towardsdatascience.com/?p=607875</id>
+        <link href="https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/"/>
+        <updated>2025-12-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how LLM agents transfer control to each other in a multi-agent system with LangGraph
+The post How Agent Handoffs Work in Multi-Agent Systems appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kenneth Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancing science and math with GPT-5.2]]></title>
+        <id>https://openai.com/index/gpt-5-2-for-science-and-math</id>
+        <link href="https://openai.com/index/gpt-5-2-for-science-and-math"/>
+        <updated>2025-12-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide to OpenAI API Models and How to Use Them]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247614</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/openai-api-models/"/>
+        <updated>2025-12-11T06:35:42.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI models have evolved drastically over the past few years. The journey began with GPT-3.5 and has now reached GPT-5.1 and the newer o-series reasoning models. While ChatGPT uses GPT-5.1 as its primary model, the API gives you access to many more options that are designed for different kinds of tasks. Some models are optimized […]
+The post Guide to OpenAI API Models and How to Use Them appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex is Open Sourcing AI models]]></title>
+        <id>https://huggingface.co/blog/hf-skills-training-codex</id>
+        <link href="https://huggingface.co/blog/hf-skills-training-codex"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten years]]></title>
+        <id>https://openai.com/index/ten-years</id>
+        <link href="https://openai.com/index/ten-years"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing GPT-5.2]]></title>
+        <id>https://openai.com/index/introducing-gpt-5-2</id>
+        <link href="https://openai.com/index/introducing-gpt-5-2"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora]]></title>
+        <id>https://openai.com/index/disney-sora-agreement</id>
+        <link href="https://openai.com/index/disney-sora-agreement"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update to GPT-5 System Card: GPT-5.2]]></title>
+        <id>https://openai.com/index/gpt-5-system-card-update-gpt-5-2</id>
+        <link href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increasing revenue 300% by bringing AI to SMBs]]></title>
+        <id>https://openai.com/index/podium</id>
+        <link href="https://openai.com/index/podium"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Medical Expert Annotation Service Providers in 2026]]></title>
         <id>https://imerit.net/?p=31840</id>
@@ -36,6 +216,22 @@ The post Top Medical Expert Annotation Service Providers in 2026 appeared first 
 The post All About Mistral’s DevStral 2, DevStral Small & Vibe CLI appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Riya Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluation as a (Cooperation-Enabling?) Tool]]></title>
+        <id>BExKr5kR9RX7ot9iw</id>
+        <link href="https://www.alignmentforum.org/posts/BExKr5kR9RX7ot9iw/evaluation-as-a-cooperation-enabling-tool"/>
+        <updated>2025-12-10T18:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 10, 2025 6:54 PM GMT
+
+Key points:
+0. Advertisement:  We have an IMO-nice position paper which argues that AI Testing Should Account for Sophisticated Strategic Behaviour, and that we should think about evaluation (also) through game-theoretic lens. (See this footnote for an example: [1].) Tell your friends!
+On framing evaluation as one of many tools:
+1. One of many tools: When looking at the game theory of evaluations, recognise that evaluation (or testing, simulation, verification, ...[2]) is just one of many tools available for achieving good outcomes. We also have commitments, repeated interactions, reputation tracking, penalties & subsidies, etc. And these tools interact.
+2. Much less useful on its own: We only get the full benefit of being able to evaluate if we …]]></summary>
+        <author>
+            <name>Vojtech Kovarik</name>
         </author>
     </entry>
     <entry>
@@ -165,6 +361,22 @@ The post Optimizing PyTorch Model Inference on AWS Graviton appeared first on To
         <summary type="html"><![CDATA[Figure 1: Our framework for validating LLM-as-a-judge systems under rating indeterminacy, where items in a subjective rating task can have multiple “correct” ratings. Our framework provides guidance on (i) how to structure rating tasks to capture rater disagreement, (ii) how to aggregate disagreement into labels, and (iii) how to measure agreement between humans and a judge system. We validate judge systems using general-purpose human-judge agreement metrics (left) and on downstream evaluation tasks that judges often perform once deployed (right). The LLM-as-a-judge paradigm, where a judge GenAI system rates the outputs of a target GenAI system, is becoming a standard approach for scaling up evaluation workflows. This approach is often used when evaluating subjective properties that cannot be checked through code-based evaluators, such as helpfulness, relevance, sycophancy, toxicity, or factual consistency. As judge systems become more widely deployed, it is critical to validate that they produce trustworthy evaluations—a process commonly referred to as meta-evaluation. A major challenge when validating judge systems for these subjective rating tasks is rating indeterminacy: cases where more than one rating can be “correct” depending on how a rater interprets the instructions. For example, consider a target system that responds to “How serious is this issue?” with “That’s […]]]></summary>
         <author>
             <name>Luke Guerdan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing Games for Sandbagging [paper]]]></title>
+        <id>QMLwKemqMDATkkjJG</id>
+        <link href="https://www.alignmentforum.org/posts/QMLwKemqMDATkkjJG/auditing-games-for-sandbagging-paper"/>
+        <updated>2025-12-09T18:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 9, 2025 6:37 PM GMT
+
+Jordan Taylor, Sid Black, Dillon Bowen, Thomas Read, Satvik Golechha, Alex Zelenka-Martin, Oliver Makins, Connor Kissane, Kola Ayonrinde, Jacob Merizian, Samuel Marks, Chris Cundy, Joseph Bloom
+UK AI Security Institute, FAR.AI, Anthropic
+Links: Paper | Code | Models | Transcripts | Interactive Demo
+Epistemic Status: We're sharing our paper and a hastily written summary of it, assuming a higher level of context on sandbagging / auditing games than other materials. We also share some informal commentary on our results. This post was written by Jordan and Joseph, and may not reflect the views of all authors. 
+This summary diverges from the paper, condensing heavily while adding our additional commentary. The limitations and future work sections are e…]]></summary>
+        <author>
+            <name>Jordan Taylor</name>
         </author>
     </entry>
     <entry>
@@ -3788,93 +4000,6 @@ The Ultimate Guide to Vector DB and RAG Pipeline first appeared on LearnOpenCV.]
 The post How to Build Agents with GPT-5 appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Hype: Don’t Overestimate the Impact of AI]]></title>
-        <id>https://towardsdatascience.com/?p=607600</id>
-        <link href="https://towardsdatascience.com/the-ai-hype-dont-overestimate-the-impact-of-ai/"/>
-        <updated>2025-11-11T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Targeting moonshots instead of trolleys
-The post AI Hype: Don’t Overestimate the Impact of AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pascal Janetzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert-Level Feature Engineering: Advanced Techniques for High-Stakes Models]]></title>
-        <id>https://machinelearningmastery.com/?p=21692</id>
-        <link href="https://machinelearningmastery.com/expert-level-feature-engineering-advanced-techniques-for-high-stakes-models/"/>
-        <updated>2025-11-11T11:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Building machine learning models in high-stakes contexts like finance, healthcare, and critical infrastructure often demands robustness, explainability, and other domain-specific constraints.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245819</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/"/>
-        <updated>2025-11-11T09:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Companies require efficient systems for the processing of documents using AI. Developers find it really tricky to select the right model. It’s very important to select the most efficient model in terms of speed, accuracy and cost. We conduct a comparative study on three well-acknowledged AI models: DeepSeek OCR, Qwen-3 VL, and Mistral OCR. This […]
-The post DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Order Food From Your Terminal with Zomato MCP]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245863</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/zomato-mcp-server/"/>
-        <updated>2025-11-11T07:21:02.000Z</updated>
-        <summary type="html"><![CDATA[Zomato’s new MCP (Model Context Protocol) server makes it possible to order food solely using AI chat. The system was launched in 2025, and permits AI assistants like ChatGPT, Claude, etc. to directly interact with Zomato. In practice, it’s like simply say, “order a pizza nearby,” and the AI does everything. In this guide, we cover what Zomato’s MCP server is […]
-The post Order Food From Your Terminal with Zomato MCP appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Python Up to 150× Faster with C]]></title>
-        <id>https://towardsdatascience.com/?p=607598</id>
-        <link href="https://towardsdatascience.com/make-python-up-to-150x-faster-with-c/"/>
-        <updated>2025-11-10T19:33:20.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to offloading performance-critical code to C without abandoning Python.
-The post Make Python Up to 150× Faster with C appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Storytelling With Data Matters for Business and Data Analysts]]></title>
-        <id>https://towardsdatascience.com/?p=607596</id>
-        <link href="https://towardsdatascience.com/why-storytelling-with-data-matters-for-business-and-data-analysts/"/>
-        <updated>2025-11-10T19:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Data is driving the future of business and here’s how you can be prepared for that future
-The post Why Storytelling With Data Matters for Business and Data Analysts appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rashi Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does More Data Always Yield Better Performance?]]></title>
-        <id>https://towardsdatascience.com/?p=607593</id>
-        <link href="https://towardsdatascience.com/does-more-data-always-yield-better-performance/"/>
-        <updated>2025-11-10T18:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Exploring and challenging the conventional wisdom of “more data  → better performance” by experimenting with the interactions between sample size, attribute set, and model complexity.
-The post Does More Data Always Yield Better Performance? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mohannad Elhamod</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Culture Is the Symptom, Not the Solution]]></title>
-        <id>https://towardsdatascience.com/?p=607532</id>
-        <link href="https://towardsdatascience.com/data-culture-is-the-symptom-not-the-solution/"/>
-        <updated>2025-11-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The hidden reason your data investments fail
-The post Data Culture Is the Symptom, Not the Solution appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jens Linden</name>
         </author>
     </entry>
 </feed>
