@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607910",
+          "author": "angela shi",
+          "description": "Softmax Regression is simply Logistic Regression extended to multiple classes.\nBy computing one linear score per class and normalizing them with Softmax, we obtain multiclass probabilities without changing the core logic.\nThe loss, the gradients, and the optimization remain the same.\nImplemented in Excel, the model becomes transparent: you can see the scores, the probabilities, and how the coefficients evolve over time.\nThe post The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-14-softmax-regression-in-excel/",
+          "publishedOn": "2025-12-14T18:12:00.000Z",
+          "wordCount": 4055,
+          "title": "The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Capture-decran-2025-12-13-a-17.10.04.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607866",
+          "author": "TDS Editors",
+          "description": "In the Author Spotlight series, TDS Editors chat with members of our community about their career path in data science and AI, their writing, and their sources of inspiration. Today, we’re thrilled to share our conversation with Maria Mouschoutzi.  Maria is a Data Analyst and Project Manager with a strong background in Operations Research, Mechanical […]\nThe post The Skills That Bridge Technical Work and Business Impact appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-skills-that-bridge-technical-work-and-business-impact/",
+          "publishedOn": "2025-12-14T14:30:29.000Z",
+          "wordCount": 4598,
+          "title": "The Skills That Bridge Technical Work and Business Impact",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Maria-Author-Spotlight-.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607903",
+          "author": "Eirik Berge",
+          "description": "Introduction If you work in data science, data engineering, or as as a frontend/backend developer, you deal with JSON. For professionals, its basically only death, taxes, and JSON-parsing that is inevitable. The issue is that parsing JSON is often a serious pain. Whether you are pulling data from a REST API, parsing logs, or reading […]\nThe post Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-writing-spaghetti-if-else-chains-parsing-json-with-pythons-match-case/",
+          "publishedOn": "2025-12-14T10:24:00.000Z",
+          "wordCount": 3871,
+          "title": "Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Gemini_Generated_Image_r7vxxrr7vxxrr7vx-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607908",
           "author": "angela shi",
           "description": "Ridge and Lasso regression are often perceived as more complex versions of linear regression. In reality, the prediction model remains exactly the same. What changes is the training objective. By adding a penalty on the coefficients, regularization forces the model to choose more stable solutions, especially when features are correlated. Implementing Ridge and Lasso step by step in Excel makes this idea explicit: regularization does not add complexity, it adds preference.\nThe post The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel appeared first on Towards Data Science.",
@@ -1140,56 +1170,6 @@
           "wordCount": 4702,
           "title": "Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/evelina-siuksteryte-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607631",
-          "author": "Andrey Chubin",
-          "description": "What I’ve learned leading AI teams across industries\nThe post Critical Mistakes Companies Make When Integrating AI/ML into Their Processes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/critical-mistakes-companies-make-when-integrating-ai-ml-into-their-processes/",
-          "publishedOn": "2025-11-14T12:30:00.000Z",
-          "wordCount": 4726,
-          "title": "Critical Mistakes Companies Make When Integrating AI/ML into Their Processes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-122.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607624",
-          "author": "Udayan Kanade",
-          "description": "A surprising connection between the newest AI models and a 50-year old academic field\nThe post LLMs Are Randomized Algorithms appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/llms-are-randomized-algorithms/",
-          "publishedOn": "2025-11-13T17:04:21.000Z",
-          "wordCount": 6255,
-          "title": "LLMs Are Randomized Algorithms",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/steampunk-bard-composition-002.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607622",
-          "author": "Mauro Di Pietro",
-          "description": "Build a Custom 3D Environment for your RL Robot\nThe post Robotics with Python: Q-Learning vs Actor-Critic vs Evolutionary Algorithms appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/reinforcement-learning-for-robotics-complete-tutorial/",
-          "publishedOn": "2025-11-13T16:56:44.000Z",
-          "wordCount": 5857,
-          "title": "Robotics with Python: Q-Learning vs Actor-Critic vs Evolutionary Algorithms",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-386.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607653",
-          "author": "TDS Editors",
-          "description": "Why data-driven stories remain an evergreen tool for practitioners\nThe post TDS Newsletter: How Compelling Data Stories Lead to Better Business Decisions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tds-newsletter-how-compelling-data-stories-lead-to-better-business-decisions/",
-          "publishedOn": "2025-11-13T14:39:00.000Z",
-          "wordCount": 3528,
-          "title": "TDS Newsletter: How Compelling Data Stories Lead to Better Business Decisions",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/aaron-chavez-IrbuQKtH9o4-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607619",
-          "author": "Ibrahim Habib",
-          "description": "Lessons and tips learned while earning a Kaggle Competition Medal\nThe post Organizing Code, Experiments, and Research for Kaggle Competitions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/organizing-code-experiments-and-research-for-kaggle-competitions/",
-          "publishedOn": "2025-11-13T14:00:00.000Z",
-          "wordCount": 6640,
-          "title": "Organizing Code, Experiments, and Research for Kaggle Competitions",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image.jpg"
         }
       ]
     },
@@ -1366,16 +1346,6 @@
           "publishedOn": "2025-11-17T11:00:52.000Z",
           "wordCount": null,
           "title": "The Complete AI Agent Decision Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22318",
-          "author": "Nahla Davies",
-          "description": "LLMs <a href=\"https://machinelearningmastery.",
-          "link": "https://machinelearningmastery.com/mastering-json-prompting-for-llms/",
-          "publishedOn": "2025-11-14T11:00:12.000Z",
-          "wordCount": null,
-          "title": "Mastering JSON Prompting for LLMs",
           "imageUrl": null
         }
       ]
@@ -1650,16 +1620,6 @@
           "wordCount": 3123,
           "title": "Easily Build and Share ROCm Kernels with Hugging Face",
           "imageUrl": "https://huggingface.co/blog/assets/build-rocm-kernels/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/amd/openroboticshackathon",
-          "author": null,
-          "description": "A Blog post by AMD on Hugging Face",
-          "link": "https://huggingface.co/blog/amd/openroboticshackathon",
-          "publishedOn": "2025-11-13T21:37:26.000Z",
-          "wordCount": 621,
-          "title": "Join the AMD Open Robotics Hackathon",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/691298370610df3fe9c26e5c/Bw-1bu1_WKE4yKecNn3Ru.jpeg"
         }
       ]
     },
@@ -2132,6 +2092,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=247817",
+          "author": "Harsh Mishra",
+          "description": "Most AI projects start with one annoying chore: cleaning messy files. PDFs, Word docs, PPTs, images, audio, and spreadsheets all need to be converted into clean text before they become useful. Microsoft’s MarkItDown finally fixes this problem. In this guide, I will show you how to install it, convert every major file type to Markdown, […]\nThe post 8 Things To Do With Microsoft’s MarkItDown Library appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/microsofts-markitdown-uses/",
+          "publishedOn": "2025-12-14T17:47:00.000Z",
+          "wordCount": null,
+          "title": "8 Things To Do With Microsoft’s MarkItDown Library",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=247786",
           "author": "Badrinarayan M",
@@ -2758,39 +2729,6 @@
           "title": "Transformers vs Mixture of Experts: What’s the Real Difference?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246069",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "As we are wrapping up 2025, I thought it would be good to take a look back at the AI models that have left a lasting impact throughout the year. This year brought new AI models to the limelight, whereas some of the older models have also surged in popularity. From Natural Language Processing to Computer […]\nThe post Top 10 Downloaded Open-Source Models on HuggingFace appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/top-open-source-models-on-huggingface/",
-          "publishedOn": "2025-11-14T13:12:16.000Z",
-          "wordCount": null,
-          "title": "Top 10 Downloaded Open-Source Models on HuggingFace",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246097",
-          "author": "Vipin Vashisth",
-          "description": "Have you ever wondered if your chatbot could think rather than just reply based on pre-trained texts? That is, reasoning through information like a human mind would. You could ask your chatbot about a YouTube video it finds the video and return a structured summary or even an analysis of the video’s important moments. This is exactly […]\nThe post How to Build a Chatbot Using Kimi K2 Thinking? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/building-chatbot-using-kimi-k2/",
-          "publishedOn": "2025-11-14T12:34:08.000Z",
-          "wordCount": null,
-          "title": "How to Build a Chatbot Using Kimi K2 Thinking?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246090",
-          "author": "Nitika Sharma",
-          "description": "GPT 5.1 is here. OpenAI is calling it the next big step, and honestly, it feels like one. When GPT-5 came out, people were amazed by its power but not everyone was happy. They removed the o-series models that many users loved for complex reasoning tasks. That move didn’t sit well. Now with GPT-5.1, OpenAI […]\nThe post OpenAI Releases GPT 5.1: Here’s How it Performs! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/gpt-5-1-thinking-and-instant/",
-          "publishedOn": "2025-11-13T13:27:43.000Z",
-          "wordCount": null,
-          "title": "OpenAI Releases GPT 5.1: Here’s How it Performs!",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3315,16 +3253,6 @@
           "wordCount": null,
           "title": "OpenAI named Emerging Leader in Generative AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-for-ireland",
-          "author": null,
-          "description": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
-          "link": "https://openai.com/index/openai-for-ireland",
-          "publishedOn": "2025-11-14T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI for Ireland",
-          "imageUrl": null
         }
       ]
     },
@@ -3333,6 +3261,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/2025-open-models-year-in-review",
+          "author": "Florian Brand",
+          "description": "The first recap of a long year in the trenches of open models.",
+          "link": "https://www.interconnects.ai/p/2025-open-models-year-in-review",
+          "publishedOn": "2025-12-14T20:01:01.000Z",
+          "wordCount": null,
+          "title": "2025 Open Models Year in Review",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!v3tx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ed6b1e9-849f-4026-83a0-4ea18786d6a1_1024x560.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!v3tx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ed6b1e9-849f-4026-83a0-4ea18786d6a1_1024x560.jpeg"
+        },
         {
           "id": "https://www.interconnects.ai/p/building-olmo-3-think",
           "author": "Nathan Lambert",
@@ -3692,46 +3636,6 @@
           "publishedOn": "2025-11-15T01:03:05.000Z",
           "wordCount": null,
           "title": "Will AI systems drift into misalignment?",
-          "imageUrl": null
-        },
-        {
-          "id": "reCesekXabqC6LMFs",
-          "author": "Johannes C. Mayer",
-          "description": "Published on November 14, 2025 12:39 AM GMT\n\nHave you ever binge-watched a TV series? Binge-watching puts you in a very peculiar mental state.\nAssuming you don't reflectively endorse your binge-watching behavior, you'd probably feel pretty bad if you were to reflect on your situation. You might think:\n\"Man, I am wasting my time. I still need to do my tax return. But doing my tax return is so boring. But it's definitely something I need to do. This is clearly what I should be doing.\"\nBinge-watching is an escape mechanism; it decouples you from your reward system. When bingeing a series, some part of your mind turns off. That part includes exactly that reflective circuitry, which would realize that you are wasting your time.\nWhen that circuit fires, you'll feel bad.\nUsually brains learn to o…",
-          "link": "https://www.alignmentforum.org/posts/reCesekXabqC6LMFs/evaluation-avoidance-how-humans-and-ais-hack-reward-by-1",
-          "publishedOn": "2025-11-14T00:39:32.000Z",
-          "wordCount": null,
-          "title": "Evaluation Avoidance:  How Humans and AIs Hack Reward by Disabling Evaluation Instead of Gaming Metrics",
-          "imageUrl": null
-        },
-        {
-          "id": "9pozvFKbLDLmuL879",
-          "author": "Adam Morris",
-          "description": "Published on November 14, 2025 12:18 AM GMT\n\nThis post is a summary of our paper from earlier this year: Plunkett, Morris, Reddy, & Morales (2025). Adam received an ACX grant to continue this work, and is interested in finding more potential collaborators---if you're excited by this work, reach out!\nIt would be useful for safety purposes if AI models could accurately report on their internal processes and the factors driving their behavior. This is the motivation behind, e.g., attempts to measure introspection or CoT faithfulness in LLMs. Recent work has shown that frontier models can sometimes accurately report relatively simple, qualitative aspects of their internal choice processes, such as whether they had been fine-tuned to be risk-seeking, had received a concept injection, or had use…",
-          "link": "https://www.alignmentforum.org/posts/9pozvFKbLDLmuL879/self-interpretability-llms-can-describe-complex-internal-1",
-          "publishedOn": "2025-11-14T00:18:51.000Z",
-          "wordCount": null,
-          "title": "Self-interpretability: LLMs can describe complex internal processes that drive their decisions",
-          "imageUrl": null
-        },
-        {
-          "id": "Cz7AKenSiNkgijdJi",
-          "author": "Emil Ryd",
-          "description": "Published on November 13, 2025 10:25 PM GMT\n\nExecutive summary\nThis post is a research update on our ongoing project studying training-based AI control: using training to mitigate risk from misaligned AI systems in diffuse threat models like research sabotage. This post presents our results on supervised fine-tuning (SFT), the simplest training-based approach.\nWe evaluate our training measures on a difficult math problem solving dataset (Olympiads dataset)[1]. In our setting, a red team instructs an untrusted model to give plausible but incorrect answers, while a blue team uses SFT to train the model to answer correctly.\nKey findings:\n\nTraining on 10-100 golden, correct samples almost fully removes the untrusted model’s propensity to try to answer incorrectly.\nSFT damages the untrusted mod…",
-          "link": "https://www.alignmentforum.org/posts/Cz7AKenSiNkgijdJi/supervised-fine-tuning-as-a-method-for-training-based-ai",
-          "publishedOn": "2025-11-13T22:33:10.000Z",
-          "wordCount": null,
-          "title": "Supervised fine-tuning as a method for training-based AI control",
-          "imageUrl": null
-        },
-        {
-          "id": "yQMQXFAK4mfJjHBpN",
-          "author": "leogao",
-          "description": "Published on November 13, 2025 6:30 PM GMT\n\nTL;DR: We develop a novel method for finding interpretable circuits in Transformers, by training them to have sparse weights. This results in models that contain very high quality circuits: our circuits are global rather than datapoint dependent; we explain the circuit down to very granular objects, like individual neurons and attention channels, rather than entire MLP layers, attention heads, or groups of nodes; and the circuits are often simple enough to draw in their entirety on a whiteboard. The downside is that our method produces de novo sparse language models, which are extremely expensive to train and deploy, making it unlikely that we will ever be able to use this method to directly pretrain frontier models. We share preliminary results …",
-          "link": "https://www.alignmentforum.org/posts/yQMQXFAK4mfJjHBpN/weight-sparse-transformers-have-interpretable-circuits",
-          "publishedOn": "2025-11-13T18:30:34.000Z",
-          "wordCount": null,
-          "title": "Weight-sparse transformers have interpretable circuits",
           "imageUrl": null
         }
       ]
