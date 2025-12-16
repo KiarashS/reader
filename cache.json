@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607912",
+          "author": "angela shi",
+          "description": "Instead of starting with margins and geometry, this article builds the Support Vector Machine step by step from familiar models. By changing the loss function and reusing regularization, SVM appears naturally as a linear classifier trained by optimization. This perspective unifies logistic regression, SVM, and other linear models into a single, coherent framework.\nThe post The Machine Learning “Advent Calendar” Day 15: SVM in Excel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-15-svm-in-excel/",
+          "publishedOn": "2025-12-15T19:41:01.000Z",
+          "wordCount": 4869,
+          "title": "The Machine Learning “Advent Calendar” Day 15: SVM in Excel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/svm.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607905",
+          "author": "Piero Paialunga",
+          "description": "Beyond writing code, these are the design-level decisions, trade-offs, and habits that quietly separate senior data scientists from everyone else.\nThe post 6 Technical Skills That Make You a Senior Data Scientist appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/6-technical-skills-that-make-you-a-senior-data-scientist/",
+          "publishedOn": "2025-12-15T15:43:00.000Z",
+          "wordCount": 4810,
+          "title": "6 Technical Skills That Make You a Senior Data Scientist",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/temp.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607897",
+          "author": "Thomas Reid",
+          "description": "In this article, I’ll show you how to use two popular Python libraries to carry out some geospatial analysis of traffic accident data within the UK. I was a relatively early adopter of DuckDB, the fast OLAP database, after it became available, but only recently realised that, through an extension, it offered a large number […]\nThe post Geospatial exploratory data analysis with GeoPandas and DuckDB appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/geospatial-exploratory-data-analysis-with-geopandas-and-duckdb/",
+          "publishedOn": "2025-12-15T13:17:00.000Z",
+          "wordCount": 5513,
+          "title": "Geospatial exploratory data analysis with GeoPandas and DuckDB",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/cardiff.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607893",
+          "author": "Clara Chong",
+          "description": "What worked, what broke, and why I did it\nThe post Lessons Learned from Upgrading to LangChain 1.0 in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/",
+          "publishedOn": "2025-12-15T10:30:00.000Z",
+          "wordCount": 3705,
+          "title": "Lessons Learned from Upgrading to LangChain 1.0 in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/bird-tds-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607910",
           "author": "angela shi",
           "description": "Softmax Regression is simply Logistic Regression extended to multiple classes.\nBy computing one linear score per class and normalizing them with Softmax, we obtain multiclass probabilities without changing the core logic.\nThe loss, the gradients, and the optimization remain the same.\nImplemented in Excel, the model becomes transparent: you can see the scores, the probabilities, and how the coefficients evolve over time.\nThe post The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel appeared first on Towards Data Science.",
@@ -1140,36 +1180,6 @@
           "wordCount": 4529,
           "title": "I Measured Neural Network Training Every 5 Steps for 10,000 Iterations",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/fireworks-6963152_1280.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607628",
-          "author": "TDS Editors",
-          "description": "Janna Lipenkova on AI strategy, AI products, and how domain knowledge can change the entire shape of an AI solution. \nThe post “The success of an AI product depends on how intuitively users can interact with its capabilities” appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-success-of-an-ai-product-depends-on-how-intuitively-users-can-interact-with-its-capabilities/",
-          "publishedOn": "2025-11-14T17:00:00.000Z",
-          "wordCount": 4301,
-          "title": "“The success of an AI product depends on how intuitively users can interact with its capabilities”",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/Janna-Lipenkova.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607637",
-          "author": "Aliaksei Mikhailiuk",
-          "description": "A comprehensive guide into Meta, Apple, Reddit, Amazon, Google, and Snap ML design interviews\nThe post How to Crack Machine Learning System-Design Interviews appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/cracking-machine-learning-system-design-interviews/",
-          "publishedOn": "2025-11-14T15:30:00.000Z",
-          "wordCount": 5556,
-          "title": "How to Crack Machine Learning System-Design Interviews",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/1tMGxaO1fLSZVm1RA4gLSiw.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607634",
-          "author": "Piero Paialunga",
-          "description": "This is how to build an AI-powered Song Explainer using Python and OpenAI\nThe post Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/music-lyrics-and-agentic-ai-building-a-smart-song-explainer-using-python-and-openai/",
-          "publishedOn": "2025-11-14T14:00:00.000Z",
-          "wordCount": 4702,
-          "title": "Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/evelina-siuksteryte-scaled-1.jpg"
         }
       ]
     },
@@ -1431,6 +1441,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+          "author": null,
+          "description": "A Blog post by IBM Research on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+          "publishedOn": "2025-12-15T16:01:04.000Z",
+          "wordCount": 1132,
+          "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6487da02c4b44322c124f39f/mnJsxp4Mp5t2C-IhmpQ39.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models",
+          "publishedOn": "2025-12-15T14:08:17.000Z",
+          "wordCount": 2450,
+          "title": "Nemotron 3 Nano \\- A new Standard for Efficient, Open, and Intelligent Agentic Models",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models.png"
+        },
         {
           "id": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
           "author": null,
@@ -1866,6 +1896,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:693fc0f143be063ad6474513",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6",
+          "publishedOn": "2025-12-15T08:04:28.000Z",
+          "wordCount": null,
+          "title": "Week Ending 12.14.2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6936883a13e8362d36b05d2f",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -2092,6 +2133,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=247856",
+          "author": "Nitika Sharma",
+          "description": "This is the second update to OpenAI’s flagship model in just a month. The GPT-5.1 release landed in the latter half of November and already showed strong improvements in coding and complex reasoning tasks. Now, with GPT-5.2, OpenAI claims another step forward. This time the focus is broader. The model is positioned as better at […]\nThe post I Tried GPT 5.2 and This is How It Went.. appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/i-tried-gpt-5-2/",
+          "publishedOn": "2025-12-15T16:11:24.000Z",
+          "wordCount": null,
+          "title": "I Tried GPT 5.2 and This is How It Went..",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=247708",
+          "author": "Vipin Vashisth",
+          "description": "Retrieval-Augmented Generation (RAG) has become the go-to method for building reliable AI applications that depend on external data, since it helps overcome LLM limitations, cuts down hallucinations, and delivers expert-level responses grounded in trusted sources. As interest in RAG rises, so does the need for tools that make it easier to explore, test, and refine […]\nThe post How to Build a RAG Application with AutoRAG? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/autorag-pipeline/",
+          "publishedOn": "2025-12-15T13:01:33.000Z",
+          "wordCount": null,
+          "title": "How to Build a RAG Application with AutoRAG?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=247817",
           "author": "Harsh Mishra",
@@ -2694,39 +2757,6 @@
           "publishedOn": "2025-11-16T02:57:00.000Z",
           "wordCount": null,
           "title": "Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246261",
-          "author": "Nitika Sharma",
-          "description": "The 5 Day AI Agents Intensive is a hands on learning program created by Google researchers and engineers. It is designed to help developers understand the foundations of AI agents and learn how to build production ready agentic systems. The course covers core components such as models, tools, orchestration, memory and evaluation. It also shows […]\nThe post 5 Must-Read AI Agent Research Papers by Google appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/",
-          "publishedOn": "2025-11-15T11:57:49.000Z",
-          "wordCount": null,
-          "title": "5 Must-Read AI Agent Research Papers by Google",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246055",
-          "author": "Sarthak Dogra",
-          "description": "We have all seen those videos. A 21-year-old sitting in his computer chair in a small room, claiming to have made over a million dollars through his AI side hustles. Let me clear your doubts – it is not true, mostly. Why the exception? Well, having lived and worked in a circle of entrepreneurs, I […]\nThe post 15 Ways to Make Money with AI the Smart Way appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/ways-to-make-money-with-ai/",
-          "publishedOn": "2025-11-15T07:24:57.000Z",
-          "wordCount": null,
-          "title": "15 Ways to Make Money with AI the Smart Way",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=193972",
-          "author": "Harshit Ahluwalia",
-          "description": "Everyone talks about big AI models like ChatGPT, Gemini, and Grok. What many people do not realize is that most of these models use the same core architecture called the Transformer. Recently, another term has started trending in the generative AI space called Mixture of Experts or MoE. This has created a lot of confusion […]\nThe post Transformers vs Mixture of Experts: What’s the Real Difference? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/transformers-vs-mixture-of-experts-moe/",
-          "publishedOn": "2025-11-15T02:46:00.000Z",
-          "wordCount": null,
-          "title": "Transformers vs Mixture of Experts: What’s the Real Difference?",
           "itunes": {},
           "imageUrl": null
         }
@@ -3349,6 +3379,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "LZ7YMPJueB6qjL24n",
+          "author": "Linda Linsefors",
+          "description": "Published on December 15, 2025 2:58 PM GMT\n\nTL;DR We experimentally test the mathematical framework for circuits in superposition by hand-coding the weights of an MLP to implement many conditional[1] rotations in superposition on two-dimensional input features. The code can be found here.\nThis work was supported by Coefficient Giving and Goodfire AI\n1 Introduction\nFigure 1: The desired values for rotating vectors x.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; mar…",
+          "link": "https://www.alignmentforum.org/posts/LZ7YMPJueB6qjL24n/rotations-in-superposition",
+          "publishedOn": "2025-12-15T14:58:50.000Z",
+          "wordCount": null,
+          "title": "Rotations in Superposition",
+          "imageUrl": null
+        },
+        {
           "id": "CF4Z9mQSfvi99A3BR",
           "author": "Steve Byrnes",
           "description": "Published on December 11, 2025 5:05 PM GMT\n\nPrevious: 2024, 2022\n“Our greatest fear should not be of failure, but of succeeding at something that doesn't really matter.” –attributed to DL Moody[1]\n1. Background & threat model\nThe main threat model I’m working to address is the same as it’s been since I was hobby-blogging about AGI safety in 2019. Basically, I think that:\n\nThe “secret sauce” of human intelligence is a big uniform-ish learning algorithm centered around the cortex;\nThis learning algorithm is different from and more powerful than LLMs;\nNobody knows how it works today;\nSomeone someday will either reverse-engineer this learning algorithm, or reinvent something similar;\nAnd then we’ll have Artificial General Intelligence (AGI) and superintelligence (ASI).\n\nI think that, when this…",
@@ -3626,16 +3666,6 @@
           "publishedOn": "2025-11-17T17:58:57.000Z",
           "wordCount": null,
           "title": "Lessons from building a model organism testbed",
-          "imageUrl": null
-        },
-        {
-          "id": "u8TYRhGPD878i3qkc",
-          "author": "Josh Clymer",
-          "description": "Published on November 15, 2025 1:03 AM GMT\n\nJoshua Clymer, Alek Westover, Anshul Khandelwal\nWe explore the following hypothesis both conceptually and, to a small extent, empirically. We call this the Alignment Drift Hypothesis: \nAn AI system that is initially aligned will generally drift into misalignment after a sufficient number of successive modifications, even if these modifications select for apparent alignment with fixed and unreliable metrics.\nThe intuition behind the Alignment Drift Hypothesis. The ball bouncing around is an AI system being modified (e.g. during training, or when it’s learning in-context). Random variations push the model's propensities around until it becomes misaligned in ways that slip through selection criteria for alignment.\nI don’t think this hypothesis alway…",
-          "link": "https://www.alignmentforum.org/posts/u8TYRhGPD878i3qkc/will-ai-systems-drift-into-misalignment",
-          "publishedOn": "2025-11-15T01:03:05.000Z",
-          "wordCount": null,
-          "title": "Will AI systems drift into misalignment?",
           "imageUrl": null
         }
       ]

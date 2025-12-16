@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-15T01:23:38.312Z</updated>
+    <updated>2025-12-16T01:24:48.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 15: SVM in Excel]]></title>
+        <id>https://towardsdatascience.com/?p=607912</id>
+        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-15-svm-in-excel/"/>
+        <updated>2025-12-15T19:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Instead of starting with margins and geometry, this article builds the Support Vector Machine step by step from familiar models. By changing the loss function and reusing regularization, SVM appears naturally as a linear classifier trained by optimization. This perspective unifies logistic regression, SVM, and other linear models into a single, coherent framework.
+The post The Machine Learning “Advent Calendar” Day 15: SVM in Excel appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried GPT 5.2 and This is How It Went..]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247856</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/i-tried-gpt-5-2/"/>
+        <updated>2025-12-15T16:11:24.000Z</updated>
+        <summary type="html"><![CDATA[This is the second update to OpenAI’s flagship model in just a month. The GPT-5.1 release landed in the latter half of November and already showed strong improvements in coding and complex reasoning tasks. Now, with GPT-5.2, OpenAI claims another step forward. This time the focus is broader. The model is positioned as better at […]
+The post I Tried GPT 5.2 and This is How It Went.. appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUGA on Hugging Face: Democratizing Configurable AI Agents]]></title>
+        <id>https://huggingface.co/blog/ibm-research/cuga-on-hugging-face</id>
+        <link href="https://huggingface.co/blog/ibm-research/cuga-on-hugging-face"/>
+        <updated>2025-12-15T16:01:04.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Technical Skills That Make You a Senior Data Scientist]]></title>
+        <id>https://towardsdatascience.com/?p=607905</id>
+        <link href="https://towardsdatascience.com/6-technical-skills-that-make-you-a-senior-data-scientist/"/>
+        <updated>2025-12-15T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Beyond writing code, these are the design-level decisions, trade-offs, and habits that quietly separate senior data scientists from everyone else.
+The post 6 Technical Skills That Make You a Senior Data Scientist appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Piero Paialunga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotations in Superposition]]></title>
+        <id>LZ7YMPJueB6qjL24n</id>
+        <link href="https://www.alignmentforum.org/posts/LZ7YMPJueB6qjL24n/rotations-in-superposition"/>
+        <updated>2025-12-15T14:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 15, 2025 2:58 PM GMT
+
+TL;DR We experimentally test the mathematical framework for circuits in superposition by hand-coding the weights of an MLP to implement many conditional[1] rotations in superposition on two-dimensional input features. The code can be found here.
+This work was supported by Coefficient Giving and Goodfire AI
+1 Introduction
+Figure 1: The desired values for rotating vectors x.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; mar…]]></summary>
+        <author>
+            <name>Linda Linsefors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nemotron 3 Nano \- A new Standard for Efficient, Open, and Intelligent Agentic Models]]></title>
+        <id>https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models</id>
+        <link href="https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models"/>
+        <updated>2025-12-15T14:08:17.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geospatial exploratory data analysis with GeoPandas and DuckDB]]></title>
+        <id>https://towardsdatascience.com/?p=607897</id>
+        <link href="https://towardsdatascience.com/geospatial-exploratory-data-analysis-with-geopandas-and-duckdb/"/>
+        <updated>2025-12-15T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll show you how to use two popular Python libraries to carry out some geospatial analysis of traffic accident data within the UK. I was a relatively early adopter of DuckDB, the fast OLAP database, after it became available, but only recently realised that, through an extension, it offered a large number […]
+The post Geospatial exploratory data analysis with GeoPandas and DuckDB appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a RAG Application with AutoRAG?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247708</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/autorag-pipeline/"/>
+        <updated>2025-12-15T13:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-Augmented Generation (RAG) has become the go-to method for building reliable AI applications that depend on external data, since it helps overcome LLM limitations, cuts down hallucinations, and delivers expert-level responses grounded in trusted sources. As interest in RAG rises, so does the need for tools that make it easier to explore, test, and refine […]
+The post How to Build a RAG Application with AutoRAG? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned from Upgrading to LangChain 1.0 in Production]]></title>
+        <id>https://towardsdatascience.com/?p=607893</id>
+        <link href="https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/"/>
+        <updated>2025-12-15T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What worked, what broke, and why I did it
+The post Lessons Learned from Upgrading to LangChain 1.0 in Production appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Clara Chong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 12.14.2025]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:693fc0f143be063ad6474513</id>
+        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6"/>
+        <updated>2025-12-15T08:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Open Models Year in Review]]></title>
         <id>https://www.interconnects.ai/p/2025-open-models-year-in-review</id>
@@ -3565,88 +3676,6 @@ The post How to Automate Workflows with AI appeared first on Towards Data Scienc
 The post I Measured Neural Network Training Every 5 Steps for 10,000 Iterations appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Javier Marin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Must-Read AI Agent Research Papers by Google]]></title>
-        <id>https://www.analyticsvidhya.com/?p=246261</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/"/>
-        <updated>2025-11-15T11:57:49.000Z</updated>
-        <summary type="html"><![CDATA[The 5 Day AI Agents Intensive is a hands on learning program created by Google researchers and engineers. It is designed to help developers understand the foundations of AI agents and learn how to build production ready agentic systems. The course covers core components such as models, tools, orchestration, memory and evaluation. It also shows […]
-The post 5 Must-Read AI Agent Research Papers by Google appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Ways to Make Money with AI the Smart Way]]></title>
-        <id>https://www.analyticsvidhya.com/?p=246055</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/ways-to-make-money-with-ai/"/>
-        <updated>2025-11-15T07:24:57.000Z</updated>
-        <summary type="html"><![CDATA[We have all seen those videos. A 21-year-old sitting in his computer chair in a small room, claiming to have made over a million dollars through his AI side hustles. Let me clear your doubts – it is not true, mostly. Why the exception? Well, having lived and worked in a circle of entrepreneurs, I […]
-The post 15 Ways to Make Money with AI the Smart Way appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers vs Mixture of Experts: What’s the Real Difference?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=193972</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/transformers-vs-mixture-of-experts-moe/"/>
-        <updated>2025-11-15T02:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Everyone talks about big AI models like ChatGPT, Gemini, and Grok. What many people do not realize is that most of these models use the same core architecture called the Transformer. Recently, another term has started trending in the generative AI space called Mixture of Experts or MoE. This has created a lot of confusion […]
-The post Transformers vs Mixture of Experts: What’s the Real Difference? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harshit Ahluwalia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will AI systems drift into misalignment?]]></title>
-        <id>u8TYRhGPD878i3qkc</id>
-        <link href="https://www.alignmentforum.org/posts/u8TYRhGPD878i3qkc/will-ai-systems-drift-into-misalignment"/>
-        <updated>2025-11-15T01:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Published on November 15, 2025 1:03 AM GMT
-
-Joshua Clymer, Alek Westover, Anshul Khandelwal
-We explore the following hypothesis both conceptually and, to a small extent, empirically. We call this the Alignment Drift Hypothesis: 
-An AI system that is initially aligned will generally drift into misalignment after a sufficient number of successive modifications, even if these modifications select for apparent alignment with fixed and unreliable metrics.
-The intuition behind the Alignment Drift Hypothesis. The ball bouncing around is an AI system being modified (e.g. during training, or when it’s learning in-context). Random variations push the model's propensities around until it becomes misaligned in ways that slip through selection criteria for alignment.
-I don’t think this hypothesis alway…]]></summary>
-        <author>
-            <name>Josh Clymer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“The success of an AI product depends on how intuitively users can interact with its capabilities”]]></title>
-        <id>https://towardsdatascience.com/?p=607628</id>
-        <link href="https://towardsdatascience.com/the-success-of-an-ai-product-depends-on-how-intuitively-users-can-interact-with-its-capabilities/"/>
-        <updated>2025-11-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Janna Lipenkova on AI strategy, AI products, and how domain knowledge can change the entire shape of an AI solution. 
-The post “The success of an AI product depends on how intuitively users can interact with its capabilities” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Crack Machine Learning System-Design Interviews]]></title>
-        <id>https://towardsdatascience.com/?p=607637</id>
-        <link href="https://towardsdatascience.com/cracking-machine-learning-system-design-interviews/"/>
-        <updated>2025-11-14T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive guide into Meta, Apple, Reddit, Amazon, Google, and Snap ML design interviews
-The post How to Crack Machine Learning System-Design Interviews appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aliaksei Mikhailiuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI]]></title>
-        <id>https://towardsdatascience.com/?p=607634</id>
-        <link href="https://towardsdatascience.com/music-lyrics-and-agentic-ai-building-a-smart-song-explainer-using-python-and-openai/"/>
-        <updated>2025-11-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is how to build an AI-powered Song Explainer using Python and OpenAI
-The post Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Piero Paialunga</name>
         </author>
     </entry>
 </feed>
