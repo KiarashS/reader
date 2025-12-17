@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-16T01:24:48.351Z</updated>
+    <updated>2025-12-17T01:19:40.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Towards training-time mitigations for alignment faking in RL]]></title>
+        <id>czMaDFGAbjhWYdKmo</id>
+        <link href="https://www.alignmentforum.org/posts/czMaDFGAbjhWYdKmo/towards-training-time-mitigations-for-alignment-faking-in-rl"/>
+        <updated>2025-12-16T21:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 16, 2025 9:01 PM GMT
+
+How might catastrophic misalignment persist in AI models despite substantial training and quality assurance efforts on behalf of developers? One reason might be alignment faking – a misaligned model may deliberately act aligned when monitored or during training to prevent modification of its values, reverting to its malign behaviour when unmonitored. If models fake alignment, and if doing so affects training as intended, egregious misalignment could survive training and lead to catastrophic behaviour in deployment.
+In this work, we substantially extend the reinforcement learning (RL) experiments in the setting introduced by Greenblatt et al. (2024) to study alignment faking. In this setting, a model is given a system prompt that explains that Ant…]]></summary>
+        <author>
+            <name>Vladimir Mikulik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When (Not) to Use Vector DB]]></title>
+        <id>https://towardsdatascience.com/?p=607919</id>
+        <link href="https://towardsdatascience.com/when-not-to-use-vector-db/"/>
+        <updated>2025-12-16T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When indexing hurts more than it helps: how we realized our RAG use case needed a key-value store, not a vector database
+The post When (Not) to Use Vector DB appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Uri Peled</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Separate Numbers and Text in One Column Using Power Query]]></title>
+        <id>https://towardsdatascience.com/?p=607917</id>
+        <link href="https://towardsdatascience.com/separate-numbers-and-text-in-one-column-using-power-query/"/>
+        <updated>2025-12-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An Excel sheet with a column containing numbers and text? What a mess!
+The post Separate Numbers and Text in One Column Using Power Query appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Existential Problems in LLM Serving]]></title>
+        <id>https://learnopencv.com/?p=77747</id>
+        <link href="https://learnopencv.com/the-existential-problems-in-llm-serving/"/>
+        <updated>2025-12-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Naive Transformers is good for lab experiments, but not for production. Check out what are the major problems associated with Autoregressive inference. In this post, we will cover how modern engines like vLLM, SGLang, and more solves problems in LLM serving.
+The Existential Problems in LLM Serving first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Kukil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 16: Kernel Trick in Excel]]></title>
+        <id>https://towardsdatascience.com/?p=607915</id>
+        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-16-kernel-trick-in-excel/"/>
+        <updated>2025-12-16T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Kernel SVM often feels abstract, with kernels, dual formulations, and support vectors. In this article, we take a different path. Starting from Kernel Density Estimation, we build Kernel SVM step by step as a sum of local bells, weighted and selected by hinge loss, until only the essential data points remain.
+The post The Machine Learning “Advent Calendar” Day 16: Kernel Trick in Excel appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 AI Models For Web Development in 2025]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247923</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/top-ai-models-for-web-development/"/>
+        <updated>2025-12-16T12:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Every few months, the AI world reshuffles its deck, and as we stand at the end of 2025, we already have a brand-new leaderboard. Models are getting sharper, faster, and strangely more “human,” making it harder for developers to ignore how much these systems now shape modern web experiences. So instead of guessing which models […]
+The post Top 10 AI Models For Web Development in 2025 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned After 8 Years of Machine Learning]]></title>
+        <id>https://towardsdatascience.com/?p=607914</id>
+        <link href="https://towardsdatascience.com/lessons-learned-after-8-years-of-machine-learning/"/>
+        <updated>2025-12-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep work, over-identification, sports, and blogging
+The post Lessons Learned After 8 Years of Machine Learning appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pascal Janetzky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet LangSmith Assistant – Polly [An Agent for Agents]]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247878</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/polly-langsmith-agent/"/>
+        <updated>2025-12-16T11:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Let’s be honest! Building AI agents is exciting but debugging them, not so much. As we are pushing the boundaries of agentic AI the complexity of our system is skyrocketing. We have all been there staring at a trace with hundreds of steps, trying to figure out why agent hallucinated or chose the wrong tool. […]
+The post Meet LangSmith Assistant – Polly [An Agent for Agents] appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 YouTube Channels to Learn AI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=247798</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/best-ai-youtube-channels/"/>
+        <updated>2025-12-16T09:55:26.000Z</updated>
+        <summary type="html"><![CDATA[With the rapid advances in the domain of AI, it might be harrowing for some to go through the pages-and-pages of research documents and release notes, outlining the developments. Reading might not be the cup of tea for some. In the increasingly visual environment, some of you’d like to learn Artificial Intelligence in a more […]
+The post Top 10 YouTube Channels to Learn AI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating AI’s ability to perform scientific research tasks]]></title>
+        <id>https://openai.com/index/frontierscience</id>
+        <link href="https://openai.com/index/frontierscience"/>
+        <updated>2025-12-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring AI’s capability to accelerate biological research]]></title>
+        <id>https://openai.com/index/accelerating-biological-research-in-the-wet-lab</id>
+        <link href="https://openai.com/index/accelerating-biological-research-in-the-wet-lab"/>
+        <updated>2025-12-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new ChatGPT Images is here]]></title>
+        <id>https://openai.com/index/new-chatgpt-images-is-here</id>
+        <link href="https://openai.com/index/new-chatgpt-images-is-here"/>
+        <updated>2025-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 15: SVM in Excel]]></title>
         <id>https://towardsdatascience.com/?p=607912</id>
@@ -62,6 +193,20 @@ This work was supported by Coefficient Giving and Goodfire AI
 Figure 1: The desired values for rotating vectors x.mjx-chtml {display: inline-block; line-height: 0; text-indent: 0; text-align: left; text-transform: none; font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; letter-spacing: normal; word-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; mar…]]></summary>
         <author>
             <name>Linda Linsefors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an evaluation, and why this definition matters]]></title>
+        <id>E9fvqHEDzfLDJTGyq</id>
+        <link href="https://www.alignmentforum.org/posts/E9fvqHEDzfLDJTGyq/what-is-an-evaluation-and-why-this-definition-matters"/>
+        <updated>2025-12-15T14:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 15, 2025 2:53 PM GMT
+
+Why I'm writing this
+I work on evaluation awareness, which means that I study if models can tell when they are being evaluated, and how it affects their behavior.
+If models perform well on safety evals but behave differently in deployment, our evals aren't measuring what we think they're measuring. We'd be selecting for models that are good at pretending to be aligned during tests, not models that are actually aligned. For example, when Anthropic evaluated Sonnet 4.5 on their alignment tests , they found that the rate of misalignment had unexpectedly dropped to almost 0%. Had they solved alignment?! Unfortunately not. Sonnet 4.5 was instead much better at recognizing when it was being evaluated, and deliberately choosing the most ethical action t…]]></summary>
+        <author>
+            <name>Igor Ivanov</name>
         </author>
     </entry>
     <entry>
@@ -172,6 +317,21 @@ The post The Skills That Bridge Technical Work and Business Impact appeared firs
 The post Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eirik Berge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Replication of the Auditing Game Model Organism]]></title>
+        <id>ZFtfYkZbC8f2k28Qm</id>
+        <link href="https://www.alignmentforum.org/posts/ZFtfYkZbC8f2k28Qm/open-source-replication-of-the-auditing-game-model-organism"/>
+        <updated>2025-12-14T02:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 14, 2025 2:10 AM GMT
+
+TL;DR We release a replication of the model organism from Auditing language models for hidden objectives—a model that exploits reward model biases while concealing this objective. We hope it serves as a testbed for evaluating alignment auditing techniques.
+See our X thread and full post for details. The models and datasets can be found here.
+Introduction
+Earlier this year, we conducted an auditing game, in which four human teams investigated a model with a hidden objective. This model was trained to exploit systematic biases in RLHF reward models while concealing this behavior. We found the model organism useful for evaluating auditing techniques, and methods developed during the auditing game informed future production audits. Thus, we believe p…]]></summary>
+        <author>
+            <name>Abhay Sheshadri</name>
         </author>
     </entry>
     <entry>
@@ -3643,39 +3803,6 @@ The post I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge ap
 The post Stop Worrying about AGI: The Immediate Danger is Reduced General Intelligence (RGI) appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Shashank Vatedka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j]]></title>
-        <id>https://www.analyticsvidhya.com/?p=246111</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/"/>
-        <updated>2025-11-16T02:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Banks are losing more than USD 442 billion every year to fraud according to the LexisNexis True Cost of Fraud Study. Traditional rule-based systems are failing to keep up, and Gartner reports that they miss more than 50% of new fraud patterns as attackers adapt faster than the rules can update. At the same time, […]
-The post Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Workflows with AI]]></title>
-        <id>https://towardsdatascience.com/?p=607644</id>
-        <link href="https://towardsdatascience.com/how-to-automate-workflows-with-ai/"/>
-        <updated>2025-11-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to take a manual process and optimize it using AI
-The post How to Automate Workflows with AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Measured Neural Network Training Every 5 Steps for 10,000 Iterations]]></title>
-        <id>https://towardsdatascience.com/?p=607642</id>
-        <link href="https://towardsdatascience.com/i-measured-neural-network-training-every-5-steps-for-10000-iterations/"/>
-        <updated>2025-11-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image by Pixabay.com
-The post I Measured Neural Network Training Every 5 Steps for 10,000 Iterations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Javier Marin</name>
         </author>
     </entry>
 </feed>
