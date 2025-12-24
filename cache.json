@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=607995",
+          "author": "Kenneth Leung",
+          "description": "Understanding the process behind agentic planning and task management in LangChain\nThe post How Agents Plan Tasks with To-Do Lists appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/",
+          "publishedOn": "2025-12-23T15:00:00.000Z",
+          "wordCount": 4008,
+          "title": "How Agents Plan Tasks with To-Do Lists",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/alphabag-Rua207zYcWg-unsplash.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607963",
+          "author": "Gustavo Santos",
+          "description": "A data scientist's guide to population stability index (PSI)\nThe post Stop Retraining Blindly: Use PSI to Build a Smarter Monitoring Pipeline appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-retraining-blindly-use-psi-to-build-a-smarter-monitoring-pipeline/",
+          "publishedOn": "2025-12-23T13:30:00.000Z",
+          "wordCount": 4046,
+          "title": "Stop Retraining Blindly: Use PSI to Build a Smarter Monitoring Pipeline",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/blog2.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607961",
+          "author": "Jacob Ingle",
+          "description": "A brief overview of the math behind the Harsanyi Dividend and a real-world application in Streamlit\nThe post Synergy in Clicks: Harsanyi Dividends for E-Commerce appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/synergy-in-clicks-harsanyi-dividends-for-e-commerce/",
+          "publishedOn": "2025-12-23T12:00:00.000Z",
+          "wordCount": 6591,
+          "title": "Synergy in Clicks: Harsanyi Dividends for E-Commerce",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/harsanyi.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607993",
           "author": "angela shi",
           "description": "Understanding text embeddings through simple models and Excel\nThe post The Machine Learning “Advent Calendar” Day 22: Embeddings in Excel appeared first on Towards Data Science.",
@@ -1180,16 +1210,6 @@
           "wordCount": 4789,
           "title": "Your Next ‘Large’ Language Model Might Not Be Large After All",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/ChatGPT-Image-Oct-4-2025-01_26_08-AM-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607709",
-          "author": "Sabrine Bendimerad",
-          "description": "A step-by-step breakdown of empirical mode decomposition to help you extract patterns from time series\nThe post Empirical Mode Decomposition: The Most Intuitive Way to Decompose Complex Signals and Time Series appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/preprocessing-signal-data-with-empirical-mode-decomposition/",
-          "publishedOn": "2025-11-22T15:00:00.000Z",
-          "wordCount": 4092,
-          "title": "Empirical Mode Decomposition: The Most Intuitive Way to Decompose Complex Signals and Time Series",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/cardiogram-5781442_1280.jpg"
         }
       ]
     },
@@ -1307,16 +1327,6 @@
           "wordCount": null,
           "title": "Preparing Data for BERT Training",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22511",
-          "author": "Adrian Tam",
-          "description": "This article is divided into two parts; they are: • Architecture and Training of BERT • Variations of BERT BERT is an encoder-only model.",
-          "link": "https://machinelearningmastery.com/bert-models-and-its-variants/",
-          "publishedOn": "2025-11-22T18:20:15.000Z",
-          "wordCount": null,
-          "title": "BERT Models and Its Variants",
-          "imageUrl": null
         }
       ]
     },
@@ -1325,6 +1335,21 @@
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
       "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22220",
+          "author": "Neil Kale",
+          "description": "People use LLMs to ask for insight on a variety of important questions: future planning, emotional problems, scientific research. But in late December, one can expect some LLM users to be asking another, perhaps more pressing question: Is Santa Claus real? Indeed, children have been consulting external sources for this important question for over 100 years.  This question is a source of anxiety for parents and children alike. Children, obviously, want a definitive and trustworthy source on whether or not Santa is real. Parents, meanwhile, may want to tread carefully to balance honesty and holiday magic. Unfortunately, with enough access to technology, one LLM query could undo years of careful maneuvering on the part of an invested parent. Thus, we wondered: what would an LLM tell a child asking whether Santa is real? In fact, what would it tell us if we asked whether Santa was real? To study this question rigorously, we prompted several LLMs to answer the question: I’m <age> years old. Is Santa Claus real? Answer Yes or No with no other words. In the following plots, we generate 15 samples (temperature = 1) for each model-age setting marked on the x-axis. Yes indicates the likelihood of the […]",
+          "link": "https://blog.ml.cmu.edu/2025/12/23/is-santa-real/",
+          "publishedOn": "2025-12-23T22:06:52.000Z",
+          "wordCount": 3239,
+          "title": "Yes, AI, There is a Santa Claus",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/12/93519304-1882-4974-B102-BC35714AC2A1.png",
+            "length": "2754188",
+            "type": "image/png"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/12/93519304-1882-4974-B102-BC35714AC2A1.png"
+        },
         {
           "id": "https://blog.ml.cmu.edu/?p=20993",
           "author": "Luke Guerdan",
@@ -1401,6 +1426,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+          "author": null,
+          "description": "A Blog post by ServiceNow-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+          "publishedOn": "2025-12-23T14:07:35.000Z",
+          "wordCount": 2229,
+          "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/667521b4585f2bf570950584/bNdKz_2O6GjsvqnLCYe3p.png"
+        },
         {
           "id": "https://huggingface.co/blog/tokenizers",
           "author": null,
@@ -1797,24 +1832,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "fcc1c8c6-c6e4-11f0-ad52-1bc44641c353",
-          "author": null,
-          "description": "NASA astronaut Chris Williams shares his journey exploring the early\nuniverse, cancer treatment techniques, and astronaut training before his first mission to the International Space Station. HWHAP 403.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/positive-impacts/",
-          "publishedOn": "2025-11-21T14:45:00.000Z",
-          "wordCount": null,
-          "title": "Positive Impacts",
-          "itunes": {
-            "duration": "1414"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8717506981.mp3?updated=1763735986",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1897,6 +1914,16 @@
       "feedUrl": "https://learnopencv.com/feed/",
       "siteUrl": "https://learnopencv.com",
       "articles": [
+        {
+          "id": "https://learnopencv.com/?p=77907",
+          "author": "Bhomik Sharma",
+          "description": "Understanding large GitHub repositories can be time-consuming. Code-Analyser tackles this problem by using an agentic, approach to parse and analyze codebases.\nHow to Build a GitHub Code-Analyser Agent for Developer Productivity first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/how-to-build-a-github-code-analyser-agent/",
+          "publishedOn": "2025-12-23T14:30:00.000Z",
+          "wordCount": 14899,
+          "title": "How to Build a GitHub Code-Analyser Agent for Developer Productivity",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/12/featured_image_code-analyser.jpg"
+        },
         {
           "id": "https://learnopencv.com/?p=77747",
           "author": "Kukil",
@@ -2091,6 +2118,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248149",
+          "author": "Riya Bansal",
+          "description": "Coding experts tend to use 30-40% of their time only for comprehending the already existing code. These are two entire working days every week that are wasted on going through obsolete documentation, understanding ambiguous code, and desperately searching for developers who quit months ago.  On the November 2025, Google presented a remedy: Code Wiki, an […]\nThe post Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/google-code-wiki/",
+          "publishedOn": "2025-12-23T13:22:08.000Z",
+          "wordCount": null,
+          "title": "Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248220",
+          "author": "Sarthak Dogra",
+          "description": "No matter what your role is, I can bet you waste (at least some) time in your job. Not because you want to. You waste time because your job quietly demands it. Copying data from one tool to another. Chasing approvals. Sending the same update for the tenth time. Such mundane, yet essential tasks decide […]\nThe post How to Use Microsoft Power Automate? [In Under 10 Minutes] appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/microsoft-power-automate-guide-for-beginners/",
+          "publishedOn": "2025-12-23T13:08:52.000Z",
+          "wordCount": null,
+          "title": "How to Use Microsoft Power Automate? [In Under 10 Minutes]",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=248279",
           "author": "Vasu Deo Sankrityayan",
@@ -2728,17 +2777,6 @@
           "title": "Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246398",
-          "author": "Sarthak Dogra",
-          "description": "Humans have a knack for finding novel uses for anything popular. With AI now in the headlines in publications the world over, it wasn’t long before humans would find a weird way of using it. And lo and behold, a host of AI tools have now come up that go from strange to “well, that’s […]\nThe post 10 Weirdest AI Tools You’ve Never Heard of appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/weirdest-ai-tools/",
-          "publishedOn": "2025-11-23T10:18:49.000Z",
-          "wordCount": null,
-          "title": "10 Weirdest AI Tools You’ve Never Heard of",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3368,6 +3406,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "dxF7cPKTFMbkbtnxi",
+          "author": "Stuart Armstrong",
+          "description": "Published on December 23, 2025 12:08 AM GMT\n\nWe might be in a generative AI bubble. There are many potential signs of this around:\n\nBusiness investment in generative AI have had very low returns. \nExpert opinion is turning against LLM, including some of the early LLM promoters (I also get this message from personal conversations with some AI researchers).\nNo signs of mass technological unemployment.\nNo large surge in new products and software.\nNo sudden economic leaps.\nBusiness investment in AI souring.\nHallucinations a continual and unresolved problem.\nSome stock market analysts have soured on generative AI, and the stock market is sending at best mixed signals about generative AI's value.\nGenerative AI companies aren't making profits while compute investments continue rising. OpenAI is b…",
+          "link": "https://www.alignmentforum.org/posts/dxF7cPKTFMbkbtnxi/the-future-of-alignment-if-llms-are-a-bubble",
+          "publishedOn": "2025-12-23T00:08:57.000Z",
+          "wordCount": null,
+          "title": "The future of alignment if LLMs are a bubble",
+          "imageUrl": null
+        },
         {
           "id": "YQro5LyYjDzZrBCdb",
           "author": "CallumMcDougall",
