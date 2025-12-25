@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608016",
+          "author": "angela shi",
+          "description": "An intuitive, step-by-step look at how Transformers use self-attention to turn static word embeddings into contextual representations, illustrated with simple examples and an Excel-friendly walkthrough.\nThe post The Machine Learning “Advent Calendar” Day 24: Transformers for Text in Excel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-24-transformers-for-text-in-excel/",
+          "publishedOn": "2025-12-24T19:52:47.000Z",
+          "wordCount": 4674,
+          "title": "The Machine Learning “Advent Calendar” Day 24: Transformers for Text in Excel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/transformers-for-text-in-excel.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608001",
+          "author": "Gustavo Santos",
+          "description": "How cyclical encoding improves machine learning prediction\nThe post Is Your Model Time-Blind? The Case for Cyclical Feature Encoding appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/is-your-model-time-blind-the-case-for-cyclical-feature-encoding/",
+          "publishedOn": "2025-12-24T15:00:00.000Z",
+          "wordCount": 4158,
+          "title": "Is Your Model Time-Blind? The Case for Cyclical Feature Encoding",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/blog2-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607999",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to code more effectively using AI\nThe post 4 Techniques to Optimize AI Coding Efficiency appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-techniques-to-optimize-ai-coding-efficiency/",
+          "publishedOn": "2025-12-24T13:30:00.000Z",
+          "wordCount": 4217,
+          "title": "4 Techniques to Optimize AI Coding Efficiency",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-381.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=607997",
+          "author": "Marco Hening Tallarico",
+          "description": "Multiple hypothesis testing, P-values, and Monte Carlo\nThe post Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-time-10-99-was-too-big-superheavy-elements-and-deceit/",
+          "publishedOn": "2025-12-24T12:00:00.000Z",
+          "wordCount": 4831,
+          "title": "Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Gemini_Generated_Image_xja26oxja26oxja2.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608005",
+          "author": "angela shi",
+          "description": "A step-by-step 1D CNN for text, built in Excel, where every filter, weight, and decision is fully visible.\nThe post The Machine Learning “Advent Calendar” Day 23: 1D CNN for Text in Excel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/",
+          "publishedOn": "2025-12-24T02:03:10.000Z",
+          "wordCount": 4464,
+          "title": "The Machine Learning “Advent Calendar” Day 23: 1D CNN for Text in Excel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/1D-CNN.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=607995",
           "author": "Kenneth Leung",
           "description": "Understanding the process behind agentic planning and task management in LangChain\nThe post How Agents Plan Tasks with To-Do Lists appeared first on Towards Data Science.",
@@ -1190,26 +1240,6 @@
           "wordCount": 4421,
           "title": "LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/TitleImage.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607713",
-          "author": "Ryan Pégoud",
-          "description": "All you need to know about a fast, readable and PyTorch-ready softmax kernel\nThe post Learning Triton One Kernel at a Time: Softmax appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-softmax/",
-          "publishedOn": "2025-11-23T16:00:00.000Z",
-          "wordCount": 4763,
-          "title": "Learning Triton One Kernel at a Time: Softmax",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/bg-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607711",
-          "author": "Moulik Gupta",
-          "description": "A 27M-parameter model just outperformed giants like DeepSeek R1, o3-mini, and Claude 3.7 on reasoning tasks\nThe post Your Next ‘Large’ Language Model Might Not Be Large After All appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-next-large-language-model-might-not-be-large-afterall-2/",
-          "publishedOn": "2025-11-23T14:00:00.000Z",
-          "wordCount": 4789,
-          "title": "Your Next ‘Large’ Language Model Might Not Be Large After All",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/ChatGPT-Image-Oct-4-2025-01_26_08-AM-1.jpg"
         }
       ]
     },
@@ -1306,26 +1336,6 @@
           "publishedOn": "2025-11-25T11:00:05.000Z",
           "wordCount": null,
           "title": "K-Means Cluster Evaluation with Silhouette Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22509",
-          "author": "Bala Priya C",
-          "description": "Machine learning models often behave differently across environments.",
-          "link": "https://machinelearningmastery.com/the-complete-guide-to-docker-for-machine-learning-engineers/",
-          "publishedOn": "2025-11-24T11:00:13.000Z",
-          "wordCount": null,
-          "title": "The Complete Guide to Docker for Machine Learning Engineers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22520",
-          "author": "Adrian Tam",
-          "description": "This article is divided into four parts; they are: • Preparing Documents • Creating Sentence Pairs from Document • Masking Tokens • Saving the Training Data for Reuse Unlike decoder-only models, BERT's pretraining is more complex.",
-          "link": "https://machinelearningmastery.com/preparing-data-for-bert-training/",
-          "publishedOn": "2025-11-24T05:22:00.000Z",
-          "wordCount": null,
-          "title": "Preparing Data for BERT Training",
           "imageUrl": null
         }
       ]
@@ -1883,17 +1893,6 @@
           "title": "Week Ending 11.30.2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6923f263b3fb993e98a422aa",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd",
-          "publishedOn": "2025-11-24T05:51:59.000Z",
-          "wordCount": null,
-          "title": "Week Ending 11.23.2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2118,6 +2117,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248364",
+          "author": "Sherin Sunny",
+          "description": "If you’ve ever watched a game and wondered, “How do brands actually measure how often their logo shows up on screen?” you’re already asking an ACR question. Similarly, insights like: are all powered by Automatic Content Recognition (ACR) technology. It looks at raw audio/video and figures out what is in it without relying on filenames, […]\nThe post Build Your Own Open-Source Logo Detector: A Practical Guide to ACR, Embeddings & Vector Search appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/build-your-own-open-source-logo-detector/",
+          "publishedOn": "2025-12-24T13:19:12.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Open-Source Logo Detector: A Practical Guide to ACR, Embeddings & Vector Search",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248384",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Learning AI isn’t difficult because of the content, it’s difficult because everyone learns differently. Some people need visual explanations. Others want to dive straight into hands-on work. Some prefer structured lessons, others want flexibility. And for many learners, a certificate is the final proof that makes the effort worthwhile. This list is built around that […]\nThe post Top 7 Free AI Courses with Certificates appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/free-ai-courses-with-certificates/",
+          "publishedOn": "2025-12-24T05:31:40.000Z",
+          "wordCount": null,
+          "title": "Top 7 Free AI Courses with Certificates",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=248149",
           "author": "Riya Bansal",
@@ -2755,28 +2776,6 @@
           "title": "This is Why China is Going to Win the AI Race",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246422",
-          "author": "Janvi Kumari",
-          "description": "As AI gets smarter, agents now handle complex tasks. People make decisions across whole workflows with plenty of efficiency and good intent, but never with perfect accuracy. It’s easy to drift off-task, over-explain, under-explain, misread a prompt, or create headaches for whatever comes next. Sometimes the result ends up off-topic, incomplete, or even unsafe. And […]\nThe post Introduction to Task Guardrails in CrewAI  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/introduction-to-task-guardrails-in-crewai/",
-          "publishedOn": "2025-11-24T08:49:00.000Z",
-          "wordCount": null,
-          "title": "Introduction to Task Guardrails in CrewAI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246609",
-          "author": "Harsh Mishra",
-          "description": "Finally, Gemini 3 is here, and it is breaking the internet. People are posting about Gemini’s front-end capabilities. So, I decided to try it. Now, imagine if you provided a screenshot and AI wrote all the code to mock the UI in the image? Such a level of front-end development by humans requires precision and […]\nThe post Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/",
-          "publishedOn": "2025-11-24T03:47:00.000Z",
-          "wordCount": null,
-          "title": "Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3291,26 +3290,6 @@
           "wordCount": null,
           "title": "Inside JetBrains—the company reshaping how the world writes code",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-mathematical-discovery",
-          "author": null,
-          "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
-          "link": "https://openai.com/index/gpt-5-mathematical-discovery",
-          "publishedOn": "2025-11-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "GPT-5 and the future of mathematical discovery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/chatgpt-shopping-research",
-          "author": null,
-          "description": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
-          "link": "https://openai.com/index/chatgpt-shopping-research",
-          "publishedOn": "2025-11-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing shopping research in ChatGPT",
-          "imageUrl": null
         }
       ]
     },
@@ -3382,22 +3361,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/latest-open-artifacts-16-whos-building",
-          "author": "Nathan Lambert",
-          "description": "A month with SOTA releases with (truly) open model releases left and right.",
-          "link": "https://www.interconnects.ai/p/latest-open-artifacts-16-whos-building",
-          "publishedOn": "2025-11-23T19:31:25.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#16): Who's building models in the U.S., China's model release playbook, and a resurgence of truly open models",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!R4EQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82cdbaf-267b-4697-baa8-861a3d97bf71_960x960.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!R4EQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82cdbaf-267b-4697-baa8-861a3d97bf71_960x960.png"
         }
       ]
     },
