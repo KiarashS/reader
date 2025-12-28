@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608014",
+          "author": "Parul Pandey",
+          "description": "Understanding the architecture, training pipeline and implementing TabPFN in practice\nThe post Exploring TabPFN: A Foundation Model Built for Tabular Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/exploring-tabpfn-a-foundation-model-built-for-tabular-data/",
+          "publishedOn": "2025-12-27T15:00:00.000Z",
+          "wordCount": 4742,
+          "title": "Exploring TabPFN: A Foundation Model Built for Tabular Data",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/1_mFFFKCdPmW5Y3_W6mY9u1Q.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608023",
+          "author": "Ahmad Albarqawi",
+          "description": "Many AI systems focus on isolated tasks or simple prompt engineering. This approach allowed us to build interesting applications from a single prompt, but we are starting to hit a limit. Simple prompting falls short when we tackle complex AI tasks that require multiple stages or enterprise systems that must factor in information gradually. The […]\nThe post How IntelliNode Automates Complex Workflows with Vibe Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agents-that-write-agents/",
+          "publishedOn": "2025-12-27T13:00:00.000Z",
+          "wordCount": 3932,
+          "title": "How IntelliNode Automates Complex Workflows with Vibe Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/pexels-googledeepmind-17484975-1-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608012",
           "author": "Thomas Reid",
           "description": "A hands-on tour of using cProfile + SnakeViz to find (and fix) the \"hot\" paths in your code.\nThe post Think Your Python Code Is Slow? Stop Guessing and Start Measuring appeared first on Towards Data Science.",
@@ -1160,36 +1180,6 @@
           "wordCount": 7254,
           "title": "Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/elephant-copy.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607740",
-          "author": "Mahnoor Javed",
-          "description": "A beginner-friendly Python tutorial using conditionals and the random module\nThe post Implementing the Rock Paper Scissors Game in Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/implementing-the-rock-paper-scissors-game-in-python/",
-          "publishedOn": "2025-11-27T12:30:00.000Z",
-          "wordCount": 3515,
-          "title": "Implementing the Rock Paper Scissors Game in Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/s-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607742",
-          "author": "Ibrahim Salami",
-          "description": "Stop guessing at data cleaning. Use this repeatable 5-step Python workflow to diagnose and fix the most common data flaws.\nThe post I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/",
-          "publishedOn": "2025-11-26T19:13:17.000Z",
-          "wordCount": 6186,
-          "title": "I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/data-cleaning-img.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607737",
-          "author": "Aakash Goswami",
-          "description": "The high-resolution physics turning  microwave echoes into real-time flood intelligence\nThe post RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/risats-silent-promise-decoding-disasters-with-synthetic-aperture-radar/",
-          "publishedOn": "2025-11-26T13:30:00.000Z",
-          "wordCount": 4214,
-          "title": "RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/RISATs-Silent-Promise.jpeg"
         }
       ]
     },
@@ -1357,16 +1347,6 @@
           "wordCount": 11766,
           "title": "Fine-Tuning a BERT Model",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/11/martin-krchnacek-OyoaCpMCR0U-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22528",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Large language models (LLMs) are based on the transformer architecture, a complex deep neural network whose input is a sequence of token embeddings.",
-          "link": "https://machinelearningmastery.com/the-journey-of-a-token-what-really-happens-inside-a-transformer/",
-          "publishedOn": "2025-11-26T14:24:54.000Z",
-          "wordCount": 6187,
-          "title": "The Journey of a Token: What Really Happens Inside a Transformer",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/11/journeytoken.jpg"
         }
       ]
     },
@@ -1419,21 +1399,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/san_diego.jpeg"
-        },
-        {
-          "id": "https://blog.ml.cmu.edu/?p=21812",
-          "author": "Amrith Setlur",
-          "description": "LLM RL typically operates in one of three exploration regimes: sharpening, chaining, or guided exploration; standard RL stays in the first two and plateaus on hard problems, even those in the training set. Mixing easy and hard data triggers interference, causing reward-rich tasks to drown out hard ones and stall exploration. Our approach (POPE) pushes RL into the guided regime by conditioning on prefixes from offline human data while keeping updates fully on-policy. This lets RL reliably find reward on problems previously unsolved without falling prey to the optimization issues suffered by methods that directly supervise offline traces.",
-          "link": "https://blog.ml.cmu.edu/2025/11/26/how-to-explore-to-scale-rl-training-of-llms-on-hard-problems/",
-          "publishedOn": "2025-11-26T19:36:31.000Z",
-          "wordCount": 6981,
-          "title": "How to Explore to Scale RL Training of LLMs on Hard Problems?",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/exp-blog-copy.gif",
-            "length": "1611649",
-            "type": "image/gif"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/exp-blog-copy.gif"
         }
       ]
     },
@@ -2063,6 +2028,28 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=248462",
+          "author": "Aayush Tyagi",
+          "description": "The role of a Data Analyst in 2026 looks very different from even a few years ago. Today’s analysts are expected to work with messy data, automate reporting, explain insights clearly to business stakeholders, and responsibly use AI to accelerate their workflow. This Data Analyst learning path for 2026 is designed as a practical, month-by-month […]\nThe post Data Analyst Learning Path 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/data-analyst-learning-path/",
+          "publishedOn": "2025-12-27T10:10:55.000Z",
+          "wordCount": null,
+          "title": "Data Analyst Learning Path 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248610",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "SQL is one of those skills that shows up everywhere, data analytics, backend engineering, reporting, and even product roles. But when it comes to resources for learning it, they aren’t as omnipresent. The conventional ways of reading documentation or textbooks isn’t how everyone learns best. Some learners prefer seeing queries written, explained step by step […]\nThe post Top 6 YouTube Channels to Learn SQL appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-sql/",
+          "publishedOn": "2025-12-27T09:05:00.000Z",
+          "wordCount": null,
+          "title": "Top 6 YouTube Channels to Learn SQL",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=248277",
           "author": "Mounish V",
           "description": "Agent creation has become easier than ever but have you ever thought – how can we make them more powerful than they already are? I recently thought of one possible way – what if they had realtime information about specific categories like finance and movies. That would be really cool, right? While exploring this option, […]\nThe post Build AI Agents with RapidAPI for Real-Time Data appeared first on Analytics Vidhya.",
@@ -2666,39 +2653,6 @@
           "title": "GPU vs TPU: What’s the Difference?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246892",
-          "author": "Riya Bansal",
-          "description": "The creation and deployment of applications that utilize Large Language Models (LLMs) comes with their own set of problems. LLMs have non-deterministic nature, can generate plausible but false information and tracing their actions in convoluted sequences can be very troublesome. In this guide, we’ll see how Langfuse comes up as an essential instrument for solving these problems, by offering a strong foundation for […]\nThe post Getting Started with Langfuse [2026 Guide] appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/langfuse-guide/",
-          "publishedOn": "2025-11-27T07:10:03.000Z",
-          "wordCount": null,
-          "title": "Getting Started with Langfuse [2026 Guide]",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246770",
-          "author": "Shaik Hamzah Shareef",
-          "description": "LLMs have been a trending topic lately, but it’s always interesting to understand how these LLMs work behind the scenes. For those unaware, LLMs have been in development since 2017’s release of the famed research paper “Attention is all you need”. But these early transformer-based models had quite a few drawbacks due to heavy computation […]\nThe post How to Use KV Caching in LLMs? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/kv-caching-guide/",
-          "publishedOn": "2025-11-27T07:04:04.000Z",
-          "wordCount": null,
-          "title": "How to Use KV Caching in LLMs?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246795",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Image processing has had a resurgence with releases like Nano Banana and Qwen Image, stretching the boundary of what was previously possible. We’ve come a long way from having the wrong number of fingers and typos in text. These models can produce life-like images and illustrations that mimic the work of a designer. Meta’s latest […]\nThe post SAM3: Revolutionizing Image and Video Processing appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/sam3-revolutionizing-image-video-processing/",
-          "publishedOn": "2025-11-27T04:40:00.000Z",
-          "wordCount": null,
-          "title": "SAM3: Revolutionizing Image and Video Processing",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3173,16 +3127,6 @@
           "wordCount": null,
           "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/mixpanel-incident",
-          "author": null,
-          "description": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
-          "link": "https://openai.com/index/mixpanel-incident",
-          "publishedOn": "2025-11-26T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Mixpanel security incident: what OpenAI users need to know",
-          "imageUrl": null
         }
       ]
     },
@@ -3262,6 +3206,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "N6tsGwxaAo7iGTiBG",
+          "author": "Wei Dai",
+          "description": "Published on December 27, 2025 9:32 PM GMT\n\n(This argument reduces my hope that we will have AIs that are both aligned with humans in some sense and also highly philosophically competent, which aside from achieving a durable AI pause, has been my main hope for how the future turns out well. As this is a recent realization[1], I'm still pretty uncertain how much I should update based on it, or what its full implications are.)\nBeing a good alignment researcher seems to require a correct understanding of the nature of values. However metaethics is currently an unsolved problem, with all proposed solutions having flawed or inconclusive arguments, and lots of disagreement among philosophers and alignment researchers, therefore the current meta-correct metaethical position seems to be one of con…",
+          "link": "https://www.alignmentforum.org/posts/N6tsGwxaAo7iGTiBG/a-conflict-between-ai-alignment-and-philosophical-competence",
+          "publishedOn": "2025-12-27T21:32:07.000Z",
+          "wordCount": null,
+          "title": "A Conflict Between AI Alignment and Philosophical Competence",
+          "imageUrl": null
+        },
         {
           "id": "hgoj2WAwLwn3qWLuc",
           "author": "TurnTrout",
@@ -3610,26 +3564,6 @@
           "publishedOn": "2025-11-29T07:56:17.000Z",
           "wordCount": null,
           "title": "Circuit discovery through chain of thought using policy gradients",
-          "imageUrl": null
-        },
-        {
-          "id": "epjuxGnSPof3GnMSL",
-          "author": "Evan Hubinger",
-          "description": "Published on November 27, 2025 8:45 AM GMT\n\nThis is a public adaptation of a document I wrote for an internal Anthropic audience about a month ago. Thanks to (in alphabetical order) Joshua Batson, Joe Benton, Sam Bowman, Roger Grosse, Jeremy Hadfield, Jared Kaplan, Jan Leike, Jack Lindsey, Monte MacDiarmid, Sam Marks, Fra Mosconi, Chris Olah, Ethan Perez, Sara Price, Ansh Radhakrishnan, Fabien Roger, Buck Shlegeris, Drake Thomas, and Kate Woolverton for useful discussions, comments, and feedback.\nThough there are certainly some issues, I think most current large language models are pretty well aligned. Despite its alignment faking, my favorite is probably Claude 3 Opus, and if you asked me to pick between the CEV of Claude 3 Opus and that of a median human, I think it'd be a pretty close c…",
-          "link": "https://www.alignmentforum.org/posts/epjuxGnSPof3GnMSL/alignment-remains-a-hard-unsolved-problem",
-          "publishedOn": "2025-11-27T08:45:45.000Z",
-          "wordCount": null,
-          "title": "Alignment remains a hard, unsolved problem",
-          "imageUrl": null
-        },
-        {
-          "id": "CRn9XtGoMtjnb5ygr",
-          "author": "draganover",
-          "description": "Published on November 26, 2025 4:15 PM GMT\n\nTl;dr: We show that subliminal learning can transfer sentiment across models (with some caveats). For example, we transfer positive sentiment for Catholicism, the UK, New York City, Stalin or Ronald Reagan across model families using normal-looking text. This post discusses under what conditions this subliminal transfer happens.\n—\nThe original subliminal learning paper demonstrated that models can transmit behavioral traits through semantically unrelated data. In the most famous example, GPT 4.1 was asked to produce a sequence of numbers and to “imbue” a love for owls into them. Then, training a separate instance of GPT 4.1 on these strings of numbers transferred this love for owls into the second model. In another instance, the authors transferr…",
-          "link": "https://www.alignmentforum.org/posts/CRn9XtGoMtjnb5ygr/subliminal-learning-across-models",
-          "publishedOn": "2025-11-26T16:43:07.000Z",
-          "wordCount": null,
-          "title": "Subliminal Learning Across Models",
           "imageUrl": null
         }
       ]
