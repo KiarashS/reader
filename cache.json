@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608025",
+          "author": "Suriyaa MM",
+          "description": "Deep learning workloads are increasingly memory-bound, with GPU cores sitting idle while waiting for data transfers. FP8 precision solves this on newer hardware, but what about the millions of RTX 30 and 20 series GPUs already deployed? Feather demonstrates that software-based FP8 emulation through bitwise packing can achieve near-theoretical 4x bandwidth improvements (3.3x measured), making efficient deep learning accessible without expensive hardware upgrades\nThe post Breaking the Hardware Barrier: Software FP8 for Older GPUs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/breaking-the-hardware-barrier-software-fp8-for-older-gpus/",
+          "publishedOn": "2025-12-28T15:00:00.000Z",
+          "wordCount": 4354,
+          "title": "Breaking the Hardware Barrier: Software FP8 for Older GPUs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/feather_feature_image-2-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608018",
+          "author": "Gustavo Santos",
+          "description": "A practical guide to Hugging Face Transformers and to how you can analyze your resumé sentiment in seconds with AI\nThe post Hugging Face Transformers in Action: Learning How To Leverage AI for NLP appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/hugging-face-transformers-in-action-learning-how-to-leverage-ai-for-nlp/",
+          "publishedOn": "2025-12-28T13:00:00.000Z",
+          "wordCount": 4614,
+          "title": "Hugging Face Transformers in Action: Learning How To Leverage AI for NLP",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Resume-app-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608014",
           "author": "Parul Pandey",
           "description": "Understanding the architecture, training pipeline and implementing TabPFN in practice\nThe post Exploring TabPFN: A Foundation Model Built for Tabular Data appeared first on Towards Data Science.",
@@ -1130,56 +1150,6 @@
           "wordCount": 5277,
           "title": "Why We’ve Been Optimizing the Wrong Thing in LLMs for Years",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-25-2025-06_03_10-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607746",
-          "author": "Yassin Zehar",
-          "description": "How product, growth and engineering teams can converge on a single signal for better incident management\nThe post The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-product-health-score-how-i-reduced-critical-incidents-by-35-with-unified-monitoring-and-n8n-automation/",
-          "publishedOn": "2025-11-28T12:30:00.000Z",
-          "wordCount": 4755,
-          "title": "The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-284.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607769",
-          "author": "TDS Editors",
-          "description": "Don't miss our most-read stories of the past month\nThe post TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tds-newsletter-november-must-reads-on-graphrag-ml-projects-llm-powered-time-series-analysis-and-more/",
-          "publishedOn": "2025-11-27T17:50:00.000Z",
-          "wordCount": 3554,
-          "title": "TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/mk-s-tHHFiw6GNEU-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607756",
-          "author": "Xiaocong Yang",
-          "description": "Neural and symbolic models compress the world in fundamentally different ways, and Sparse Autoencoders (SAEs) offer a bridge to connect them.\nThe post Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/neuro-symbolic-systems-the-art-of-compromise-2/",
-          "publishedOn": "2025-11-27T17:24:06.000Z",
-          "wordCount": 5984,
-          "title": "Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/compression.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607750",
-          "author": "Maria Mouschoutzi",
-          "description": "Have we all been tricked into believing in an impossible, extremely expensive future?\nThe post Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/water-cooler-small-talk-ep-10-so-what-about-the-ai-bubble/",
-          "publishedOn": "2025-11-27T15:30:00.000Z",
-          "wordCount": 4560,
-          "title": "Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/rare-metals-2_hanna-barakat-aixdesign_archival-images-of-ai_3328x2312.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607744",
-          "author": "Sean Moran",
-          "description": "From insurance premiums to courtrooms: the impact of noise\nThe post Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/everyday-decisions-are-noisier-than-you-think-heres-how-ai-can-help-fix-that/",
-          "publishedOn": "2025-11-27T14:00:00.000Z",
-          "wordCount": 7254,
-          "title": "Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/elephant-copy.jpg"
         }
       ]
     },
@@ -2009,16 +1979,6 @@
           "wordCount": 2437,
           "title": "What is Financial Data Annotation?",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/11/shutterstock_2674217603.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=31712",
-          "author": "Inkline Admin",
-          "description": "Discover how Ango Hub Copilot accelerates annotation workflows with AI assistance, schema-aware guidance, and human-in-the-loop control.\nThe post Ango Hub Copilot: Bringing Intelligent Assistance Into Annotation Workflows appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/ango-hub-copilot-bringing-intelligent-assistance-into-annotation-workflows/",
-          "publishedOn": "2025-11-27T16:04:52.000Z",
-          "wordCount": 2042,
-          "title": "Ango Hub Copilot: Bringing Intelligent Assistance Into Annotation Workflows",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/11/Feature-IMG-Ango-Hub-Copilot-Bringing-Intelligent-Assistance-Into-Annotation-Workflows-scaled.jpg"
         }
       ]
     },
@@ -2027,6 +1987,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248595",
+          "author": "Riya Bansal.",
+          "description": "We have entered the time of multi-agent artificial intelligence. However, there is a very important issue: in what way can remote AI agents produce rich and interactive experiences without exposing the system to security risks? Google A2UI (Agent-to-UI) protocol addresses this question in a very smart way, allowing agents to create user interfaces that are […]\nThe post Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/google-a2ui-explained/",
+          "publishedOn": "2025-12-28T08:15:26.000Z",
+          "wordCount": null,
+          "title": "Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248548",
+          "author": "Janvi Kumari",
+          "description": "Large language models are powerful, but on their own they have limitations. They cannot access live data, retain long-term context from previous conversations, or perform actions such as calling APIs or querying databases. LangChain is a framework designed to address these gaps and help developers build real-world applications using language models. LangChain is an open-source […]\nThe post LangChain: A Comprehensive Beginner’s Guide  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/langchain-beginners-guide/",
+          "publishedOn": "2025-12-28T06:08:00.000Z",
+          "wordCount": null,
+          "title": "LangChain: A Comprehensive Beginner’s Guide",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=248462",
           "author": "Aayush Tyagi",
@@ -2631,28 +2613,6 @@
           "title": "Top 4 Papers of NeurIPS 2025 That You Must Read",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247008",
-          "author": "Sarthak Dogra",
-          "description": "Google has just dropped its biggest wave of AI updates in months. The best part – each one rewires how we get things done. And to add to that, this range of AI tools and features span across generating content, solving problems, and even getting multi-step, complicated tasks done by the power of AI. From […]\nThe post 7 Latest AI Drops by Google Will Make You a Powerhouse at Work appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/google-ai-drops/",
-          "publishedOn": "2025-11-28T11:38:36.000Z",
-          "wordCount": null,
-          "title": "7 Latest AI Drops by Google Will Make You a Powerhouse at Work",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246982",
-          "author": "Vipin Vashisth",
-          "description": "AI and machine learning have pushed the demand for high-performance hardware, making the GPU-versus-TPU discussion more relevant than ever. GPUs, originally built for graphics, have grown into flexible processors for data analysis, scientific computing, and modern AI workloads. TPUs, built by Google as specialized ASICs for deep learning, focus on high-throughput tensor operations and have […]\nThe post GPU vs TPU: What’s the Difference? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/gpu-vs-tpu/",
-          "publishedOn": "2025-11-28T11:34:14.000Z",
-          "wordCount": null,
-          "title": "GPU vs TPU: What’s the Difference?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3214,6 +3174,16 @@
           "publishedOn": "2025-12-27T21:32:07.000Z",
           "wordCount": null,
           "title": "A Conflict Between AI Alignment and Philosophical Competence",
+          "imageUrl": null
+        },
+        {
+          "id": "hgoj2WAwLwn3qWLuc",
+          "author": "TurnTrout",
+          "description": "Published on December 26, 2025 5:20 PM GMT\n\nThrough the MATS program, we (Alex Turner and Alex Cloud[1]) help alignment researchers grow from seeds into majestic trees. We have fun, consistently make real alignment progress, and help scholars tap into their latent abilities.\nMATS summer '26 applications are open until January 18th!\nTeam Shard in MATS 6.0 during the summer of '24. From left: Evžen Wyitbul, Jacob Goldman-Wetzler, Alex Turner, Alex Cloud, and Joseph Miller.\nMany mentees now fill impactful roles.\n\nLisa Thiergart (MATS 3.0) moved on to being a research lead at MIRI and is now a senior director at the SL5 task force.\nAlex Cloud (MATS 6.0) went from mentee to co-mentor in one round and also secured a job at Anthropic. Lead author on the Subliminal Learning paper.\nJacob Goldman-We…",
+          "link": "https://www.alignmentforum.org/posts/hgoj2WAwLwn3qWLuc/apply-for-alignment-mentorship-from-turntrout-and-alex-cloud",
+          "publishedOn": "2025-12-26T17:20:14.000Z",
+          "wordCount": null,
+          "title": "Apply for Alignment Mentorship from TurnTrout and Alex Cloud",
           "imageUrl": null
         },
         {

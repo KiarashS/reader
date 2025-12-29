@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-28T01:41:44.801Z</updated>
+    <updated>2025-12-29T01:30:20.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Hardware Barrier: Software FP8 for Older GPUs]]></title>
+        <id>https://towardsdatascience.com/?p=608025</id>
+        <link href="https://towardsdatascience.com/breaking-the-hardware-barrier-software-fp8-for-older-gpus/"/>
+        <updated>2025-12-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep learning workloads are increasingly memory-bound, with GPU cores sitting idle while waiting for data transfers. FP8 precision solves this on newer hardware, but what about the millions of RTX 30 and 20 series GPUs already deployed? Feather demonstrates that software-based FP8 emulation through bitwise packing can achieve near-theoretical 4x bandwidth improvements (3.3x measured), making efficient deep learning accessible without expensive hardware upgrades
+The post Breaking the Hardware Barrier: Software FP8 for Older GPUs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Suriyaa MM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face Transformers in Action: Learning How To Leverage AI for NLP]]></title>
+        <id>https://towardsdatascience.com/?p=608018</id>
+        <link href="https://towardsdatascience.com/hugging-face-transformers-in-action-learning-how-to-leverage-ai-for-nlp/"/>
+        <updated>2025-12-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to Hugging Face Transformers and to how you can analyze your resumé sentiment in seconds with AI
+The post Hugging Face Transformers in Action: Learning How To Leverage AI for NLP appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gustavo Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces]]></title>
+        <id>https://www.analyticsvidhya.com/?p=248595</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/google-a2ui-explained/"/>
+        <updated>2025-12-28T08:15:26.000Z</updated>
+        <summary type="html"><![CDATA[We have entered the time of multi-agent artificial intelligence. However, there is a very important issue: in what way can remote AI agents produce rich and interactive experiences without exposing the system to security risks? Google A2UI (Agent-to-UI) protocol addresses this question in a very smart way, allowing agents to create user interfaces that are […]
+The post Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain: A Comprehensive Beginner’s Guide]]></title>
+        <id>https://www.analyticsvidhya.com/?p=248548</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/langchain-beginners-guide/"/>
+        <updated>2025-12-28T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are powerful, but on their own they have limitations. They cannot access live data, retain long-term context from previous conversations, or perform actions such as calling APIs or querying databases. LangChain is a framework designed to address these gaps and help developers build real-world applications using language models. LangChain is an open-source […]
+The post LangChain: A Comprehensive Beginner’s Guide  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Conflict Between AI Alignment and Philosophical Competence]]></title>
         <id>N6tsGwxaAo7iGTiBG</id>
@@ -61,6 +105,25 @@ The post Data Analyst Learning Path 2026 appeared first on Analytics Vidhya.]]><
 The post Top 6 YouTube Channels to Learn SQL appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply for Alignment Mentorship from TurnTrout and Alex Cloud]]></title>
+        <id>hgoj2WAwLwn3qWLuc</id>
+        <link href="https://www.alignmentforum.org/posts/hgoj2WAwLwn3qWLuc/apply-for-alignment-mentorship-from-turntrout-and-alex-cloud"/>
+        <updated>2025-12-26T17:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 26, 2025 5:20 PM GMT
+
+Through the MATS program, we (Alex Turner and Alex Cloud[1]) help alignment researchers grow from seeds into majestic trees. We have fun, consistently make real alignment progress, and help scholars tap into their latent abilities.
+MATS summer '26 applications are open until January 18th!
+Team Shard in MATS 6.0 during the summer of '24. From left: Evžen Wyitbul, Jacob Goldman-Wetzler, Alex Turner, Alex Cloud, and Joseph Miller.
+Many mentees now fill impactful roles.
+
+Lisa Thiergart (MATS 3.0) moved on to being a research lead at MIRI and is now a senior director at the SL5 task force.
+Alex Cloud (MATS 6.0) went from mentee to co-mentor in one round and also secured a job at Anthropic. Lead author on the Subliminal Learning paper.
+Jacob Goldman-We…]]></summary>
+        <author>
+            <name>TurnTrout</name>
         </author>
     </entry>
     <entry>
@@ -3559,94 +3622,6 @@ The post Data Science in 2026: Is It Still Worth It? appeared first on Towards D
 The post Why We’ve Been Optimizing the Wrong Thing in LLMs for Years appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Moulik Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation]]></title>
-        <id>https://towardsdatascience.com/?p=607746</id>
-        <link href="https://towardsdatascience.com/the-product-health-score-how-i-reduced-critical-incidents-by-35-with-unified-monitoring-and-n8n-automation/"/>
-        <updated>2025-11-28T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How product, growth and engineering teams can converge on a single signal for better incident management
-The post The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Yassin Zehar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Latest AI Drops by Google Will Make You a Powerhouse at Work]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247008</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/google-ai-drops/"/>
-        <updated>2025-11-28T11:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Google has just dropped its biggest wave of AI updates in months. The best part – each one rewires how we get things done. And to add to that, this range of AI tools and features span across generating content, solving problems, and even getting multi-step, complicated tasks done by the power of AI. From […]
-The post 7 Latest AI Drops by Google Will Make You a Powerhouse at Work appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU vs TPU: What’s the Difference?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=246982</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/gpu-vs-tpu/"/>
-        <updated>2025-11-28T11:34:14.000Z</updated>
-        <summary type="html"><![CDATA[AI and machine learning have pushed the demand for high-performance hardware, making the GPU-versus-TPU discussion more relevant than ever. GPUs, originally built for graphics, have grown into flexible processors for data analysis, scientific computing, and modern AI workloads. TPUs, built by Google as specialized ASICs for deep learning, focus on high-throughput tensor operations and have […]
-The post GPU vs TPU: What’s the Difference? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More]]></title>
-        <id>https://towardsdatascience.com/?p=607769</id>
-        <link href="https://towardsdatascience.com/tds-newsletter-november-must-reads-on-graphrag-ml-projects-llm-powered-time-series-analysis-and-more/"/>
-        <updated>2025-11-27T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss our most-read stories of the past month
-The post TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them.]]></title>
-        <id>https://towardsdatascience.com/?p=607756</id>
-        <link href="https://towardsdatascience.com/neuro-symbolic-systems-the-art-of-compromise-2/"/>
-        <updated>2025-11-27T17:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Neural and symbolic models compress the world in fundamentally different ways, and Sparse Autoencoders (SAEs) offer a bridge to connect them.
-The post Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Xiaocong Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ango Hub Copilot: Bringing Intelligent Assistance Into Annotation Workflows]]></title>
-        <id>https://imerit.net/?p=31712</id>
-        <link href="https://imerit.net/resources/blog/ango-hub-copilot-bringing-intelligent-assistance-into-annotation-workflows/"/>
-        <updated>2025-11-27T16:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Ango Hub Copilot accelerates annotation workflows with AI assistance, schema-aware guidance, and human-in-the-loop control.
-The post Ango Hub Copilot: Bringing Intelligent Assistance Into Annotation Workflows appeared first on iMerit.]]></summary>
-        <author>
-            <name>Inkline Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble?]]></title>
-        <id>https://towardsdatascience.com/?p=607750</id>
-        <link href="https://towardsdatascience.com/water-cooler-small-talk-ep-10-so-what-about-the-ai-bubble/"/>
-        <updated>2025-11-27T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have we all been tricked into believing in an impossible, extremely expensive future?
-The post Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That]]></title>
-        <id>https://towardsdatascience.com/?p=607744</id>
-        <link href="https://towardsdatascience.com/everyday-decisions-are-noisier-than-you-think-heres-how-ai-can-help-fix-that/"/>
-        <updated>2025-11-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From insurance premiums to courtrooms: the impact of noise
-The post Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
         </author>
     </entry>
 </feed>
