@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608030",
+          "author": "Eivind Kjosbakken",
+          "description": "How to ensure your coding agent has the same context as you\nThe post How to Facilitate Effective AI Programming appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-faciliate-for-effective-ai-programming/",
+          "publishedOn": "2025-12-29T15:00:00.000Z",
+          "wordCount": 4092,
+          "title": "How to Facilitate Effective AI Programming",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-382.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608028",
+          "author": "Egor Howell",
+          "description": "One of the most confusing questions in tech right now is: What is the difference between an AI engineer and a machine learning engineer? Both are six-figure jobs, but if you choose the wrong one, you could waste months of your career learning the wrong skills and miss out on quality roles. As a practising […]\nThe post Machine Learning vs AI Engineer: What Are the Differences? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/",
+          "publishedOn": "2025-12-29T13:30:00.000Z",
+          "wordCount": 4010,
+          "title": "Machine Learning vs AI Engineer: What Are the Differences?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Egor-May-2nd-Thumbnail.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608021",
+          "author": "Jacopo Tagliabue",
+          "description": "How to make LLMs reason with verifiable, step-by-step logic (Part 2)\nThe post Implementing Vibe Proving with Reinforcement Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/implementing-vibe-proving-with-rl/",
+          "publishedOn": "2025-12-29T12:00:00.000Z",
+          "wordCount": 4368,
+          "title": "Implementing Vibe Proving with Reinforcement Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/rl-2-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608025",
           "author": "Suriyaa MM",
           "description": "Deep learning workloads are increasingly memory-bound, with GPU cores sitting idle while waiting for data transfers. FP8 precision solves this on newer hardware, but what about the millions of RTX 30 and 20 series GPUs already deployed? Feather demonstrates that software-based FP8 emulation through bitwise packing can achieve near-theoretical 4x bandwidth improvements (3.3x measured), making efficient deep learning accessible without expensive hardware upgrades\nThe post Breaking the Hardware Barrier: Software FP8 for Older GPUs appeared first on Towards Data Science.",
@@ -1120,36 +1150,6 @@
           "wordCount": 4058,
           "title": "Metric Deception: When Your Best KPIs Hide Your Worst Failures",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-310.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607752",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to increase LLM usage to achieve increased productivity\nThe post How to Scale Your LLM Usage appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-scale-your-llm-usage/",
-          "publishedOn": "2025-11-29T13:00:00.000Z",
-          "wordCount": 3999,
-          "title": "How to Scale Your LLM Usage",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-307.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607767",
-          "author": "Sabrine Bendimerad",
-          "description": "An honest view from a 10-year AI Engineer\nThe post Data Science in 2026: Is It Still Worth It? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/data-science-in-2026-is-it-still-worth-it/",
-          "publishedOn": "2025-11-28T15:30:00.000Z",
-          "wordCount": 4405,
-          "title": "Data Science in 2026: Is It Still Worth It?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/man-9880887_1280.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607748",
-          "author": "Moulik Gupta",
-          "description": "The simple shift in training that unlocks foresight, faster inference, and better reasoning.\nThe post Why We’ve Been Optimizing the Wrong Thing in LLMs for Years appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-weve-been-optimizing-the-wrong-thing-in-llms-for-years/",
-          "publishedOn": "2025-11-28T14:00:00.000Z",
-          "wordCount": 5277,
-          "title": "Why We’ve Been Optimizing the Wrong Thing in LLMs for Years",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-25-2025-06_03_10-PM.jpg"
         }
       ]
     },
@@ -1307,16 +1307,6 @@
           "wordCount": 7201,
           "title": "How to Speed-Up Training of Language Models",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/11/emma-fabbri-2TmsyZXMNTE-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22575",
-          "author": "Adrian Tam",
-          "description": "This article is divided into two parts; they are: • Fine-tuning a BERT Model for GLUE Tasks • Fine-tuning a BERT Model for SQuAD Tasks GLUE is a benchmark for evaluating natural language understanding (NLU) tasks.",
-          "link": "https://machinelearningmastery.com/fine-tuning-a-bert-model/",
-          "publishedOn": "2025-11-28T20:18:20.000Z",
-          "wordCount": 11766,
-          "title": "Fine-Tuning a BERT Model",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/11/martin-krchnacek-OyoaCpMCR0U-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1751,6 +1741,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69529610b4bbef2bfe6eff64",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa",
+          "publishedOn": "2025-12-29T14:54:33.000Z",
+          "wordCount": null,
+          "title": "Week Ending 12.28.2025",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69491a9d81870a61a57d762c",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1987,6 +1988,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248774",
+          "author": "Janvi Kumari",
+          "description": "In machine learning and data science, evaluating a model is as important as building it. Accuracy is often the first metric people use, but it can be misleading when the data is imbalanced. For this reason, metrics such as precision, recall, and F1 score are widely used. This article focuses on the F1 score. It […]\nThe post What is F1 Score in Machine Learning? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/what-is-f1-score-in-machine-learning/",
+          "publishedOn": "2025-12-29T16:54:53.000Z",
+          "wordCount": null,
+          "title": "What is F1 Score in Machine Learning?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248441",
+          "author": "Vipin Vashisth",
+          "description": "More machine learning systems now rely on AI agents, which makes careful safety evaluation essential. With more and more vulnerabilities coming to the fray, it’s nigh impossible for a single unified protocol to stay up to date with them all. This piece introduces MLflow as a practical framework for testing and monitoring agentic systems through […]\nThe post Track and Monitor AI Agents Using MLflow: Complete Guide for Agentic Systems appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/monitor-ai-agents-with-mlflow/",
+          "publishedOn": "2025-12-29T05:58:00.000Z",
+          "wordCount": null,
+          "title": "Track and Monitor AI Agents Using MLflow: Complete Guide for Agentic Systems",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=248595",
           "author": "Riya Bansal.",
@@ -2602,17 +2625,6 @@
           "title": "Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247049",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "NeurIPS dropped its list of the best research papers for the year 2025, and the list does more than name-drop impressive work. It provides a map for navigating the problems the field now cares about. This article would shed some light to what those papers are, and how they were able to contribute to AI. […]\nThe post Top 4 Papers of NeurIPS 2025 That You Must Read appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/top-papers-of-neurips-2025/",
-          "publishedOn": "2025-11-29T10:44:00.000Z",
-          "wordCount": null,
-          "title": "Top 4 Papers of NeurIPS 2025 That You Must Read",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3167,6 +3179,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "R5MdWGKsuvdPwGFBG",
+          "author": "ariaw",
+          "description": "Published on December 29, 2025 9:55 PM GMT\n\nThis project is an extension of work done for Neel Nanda’s MATS 9.0 Training Phase. Neel Nanda and Josh Engels advised the project. Initial work on this project was done with David Vella Zarb. Thank you to Arya Jakkli, Paul Bogdan, and Monte MacDiarmid for providing feedback on the post and ideas.\nOverview of the top interventions compared to RL and No Intervention baseline runs. All runs are trained on an environment with a reward hacking loophole except for the RL baseline, which is trained on a no-loophole environment. Statistical significance compared to the RL baseline is indicated by * for values greater and † for values lesser at ɑ=0.01. Successful interventions should show reward hacking rates at or lower than the RL baseline and performa…",
+          "link": "https://www.alignmentforum.org/posts/R5MdWGKsuvdPwGFBG/steering-rl-training-benchmarking-interventions-against",
+          "publishedOn": "2025-12-29T21:55:15.000Z",
+          "wordCount": null,
+          "title": "Steering RL Training: Benchmarking Interventions Against Reward Hacking",
+          "imageUrl": null
+        },
+        {
           "id": "N6tsGwxaAo7iGTiBG",
           "author": "Wei Dai",
           "description": "Published on December 27, 2025 9:32 PM GMT\n\n(This argument reduces my hope that we will have AIs that are both aligned with humans in some sense and also highly philosophically competent, which aside from achieving a durable AI pause, has been my main hope for how the future turns out well. As this is a recent realization[1], I'm still pretty uncertain how much I should update based on it, or what its full implications are.)\nBeing a good alignment researcher seems to require a correct understanding of the nature of values. However metaethics is currently an unsolved problem, with all proposed solutions having flawed or inconclusive arguments, and lots of disagreement among philosophers and alignment researchers, therefore the current meta-correct metaethical position seems to be one of con…",
@@ -3524,16 +3546,6 @@
           "publishedOn": "2025-12-01T13:05:32.000Z",
           "wordCount": null,
           "title": "A Pragmatic Vision for Interpretability",
-          "imageUrl": null
-        },
-        {
-          "id": "N4P9LSa6B2KyQtG5d",
-          "author": "Adrià Garriga-Alonso",
-          "description": "Published on November 29, 2025 7:56 AM GMT\n\nCircuit discovery has been restricted to the single-forward-pass setting, because the algorithms to attribute changes in behavior to particular neurons / SAE features need gradients, and you can't take a gradient through the sampled chain of thought. Or... can you?\nIt turns out taking gradients through random discrete actions is an essential part of reinforcement learning. We can estimate the gradients of an expectation over CoTs, with respect to the features, using the score function estimator. We can combine this with integrated gradients to produce a version of EAP-IG which works through the averages of chains of thought.\nBackground\nCircuit discovery\nThe task we attempt to do is circuit discovery, defined by Conmy et al. Formally, for each sub…",
-          "link": "https://www.alignmentforum.org/posts/N4P9LSa6B2KyQtG5d/circuit-discovery-through-chain-of-thought-using-policy",
-          "publishedOn": "2025-11-29T07:56:17.000Z",
-          "wordCount": null,
-          "title": "Circuit discovery through chain of thought using policy gradients",
           "imageUrl": null
         }
       ]
