@@ -12,6 +12,41 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608035",
+          "author": "Willem Esterhuizen",
+          "description": "With some hints for good numerics\nThe post Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/optimal-path-planning-for-wheeled-robots/",
+          "publishedOn": "2025-12-30T16:00:00.000Z",
+          "wordCount": 6163,
+          "title": "Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems",
+          "enclosure": {
+            "url": "https://contributor.insightmediagroup.io/wp-content/uploads/2025/12/car_vid.mp4",
+            "length": "36450",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Screenshot-2025-12-29-at-10.46.22-AM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608037",
+          "author": "angela shi",
+          "description": "AUC measures how well a model ranks positives above negatives, independent of any chosen threshold.\nThe post The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-1-auc-in-excel/",
+          "publishedOn": "2025-12-30T14:00:00.000Z",
+          "wordCount": 4339,
+          "title": "The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/AUC.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608033",
+          "author": "Lambert Leong",
+          "description": "Towards understanding if your agentic solution is actually better\nThe post Agents Under the Curve (AUC) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agents-under-the-curve-auc/",
+          "publishedOn": "2025-12-30T12:00:00.000Z",
+          "wordCount": 5441,
+          "title": "Agents Under the Curve (AUC)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-461.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608030",
           "author": "Eivind Kjosbakken",
           "description": "How to ensure your coding agent has the same context as you\nThe post How to Facilitate Effective AI Programming appeared first on Towards Data Science.",
@@ -1130,26 +1165,6 @@
           "wordCount": 3977,
           "title": "The Machine Learning and Deep Learning “Advent Calendar” Series: The Blueprint",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/Gemini_Generated_Image_oonn5uoonn5uoonn.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607762",
-          "author": "Nicolas Vana",
-          "description": "A modification to the Boruta algorithm that dramatically reduces computation while maintaining high sensitivity\nThe post The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-greedy-boruta-algorithm-faster-feature-selection-without-sacrificing-recall/",
-          "publishedOn": "2025-11-30T13:00:00.000Z",
-          "wordCount": 6454,
-          "title": "The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/Convergence-History-Varying-Alpha-V2.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607765",
-          "author": "Shafeeq Ur Rahaman",
-          "description": "The most dangerous KPIs aren’t broken; they’re the ones trusted long after they’ve lost their meaning.\nThe post Metric Deception: When Your Best KPIs Hide Your Worst Failures appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/metric-deception-when-your-best-kpis-hide-your-worst-failures/",
-          "publishedOn": "2025-11-29T15:00:00.000Z",
-          "wordCount": 4058,
-          "title": "Metric Deception: When Your Best KPIs Hide Your Worst Failures",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/11/image-310.jpg"
         }
       ]
     },
@@ -1815,6 +1830,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=78099",
+          "author": "Shubham",
+          "description": "For over a decade, progress in deep learning has been framed as a story of better architectures. Yet beneath this architectural narrative lies a deeper and often overlooked question – how do models actually learn over time? This question lies at the heart of Nested Learning, a new paradigm that reframes modern AI systems not […]\nNested Learning: Is Deep Learning Architecture an Illusion? first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/nested-learning/",
+          "publishedOn": "2025-12-30T14:00:00.000Z",
+          "wordCount": 14895,
+          "title": "Nested Learning: Is Deep Learning Architecture an Illusion?",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/12/nested-Learning.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=77907",
           "author": "Bhomik Sharma",
           "description": "Understanding large GitHub repositories can be time-consuming. Code-Analyser tackles this problem by using an agentic, approach to parse and analyze codebases.\nHow to Build a GitHub Code-Analyser Agent for Developer Productivity first appeared on LearnOpenCV.",
@@ -1988,6 +2013,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248789",
+          "author": "Sarthak Dogra",
+          "description": "As a developer, tell me if you relate to this – Docker commands are easy to understand but difficult to apply meaningfully. Out of the countless tutorials that I followed, most stopped at syntax, leaving me unsure about what to build next. (Here is an exception – A step-by-step Docker tutorial for complete beginners) As […]\nThe post 10 Awesome Docker Projects for Beginners appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/docker-projects/",
+          "publishedOn": "2025-12-30T11:53:27.000Z",
+          "wordCount": null,
+          "title": "10 Awesome Docker Projects for Beginners",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248520",
+          "author": "Harshit Ahluwalia",
+          "description": "The core idea behind Chain of Thought (CoT) is to encourage an AI model to reason step by step before producing an answer. While the concept itself is not new and is essentially a structured way of asking models to explain their reasoning, it remains highly relevant today. Interest in CoT increased again after OpenAI […]\nThe post What is Chain of Thought (CoT) Prompting? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2025/12/chain-of-thought-cot-prompting/",
+          "publishedOn": "2025-12-30T10:02:48.000Z",
+          "wordCount": null,
+          "title": "What is Chain of Thought (CoT) Prompting?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=248774",
           "author": "Janvi Kumari",
@@ -2612,17 +2659,6 @@
           "publishedOn": "2025-12-01T13:36:02.000Z",
           "wordCount": null,
           "title": "SAM3D: Transforming 3D Scene Modelling",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247059",
-          "author": "Mounish V",
-          "description": "Imagine an AI that doesn’t just answer your questions, but thinks ahead, breaks tasks down, creates its own TODOs, and even spawns sub-agents to get the work done. That’s the promise of Deep Agents. AI Agents already take the capabilities of LLMs a notch higher, and today we’ll look at Deep Agents to see how […]\nThe post Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/11/langchains-deep-agent-guide/",
-          "publishedOn": "2025-11-30T11:23:47.000Z",
-          "wordCount": null,
-          "title": "Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools",
           "itunes": {},
           "imageUrl": null
         }

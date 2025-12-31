@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-30T01:24:12.632Z</updated>
+    <updated>2025-12-31T01:25:30.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems]]></title>
+        <id>https://towardsdatascience.com/?p=608035</id>
+        <link href="https://towardsdatascience.com/optimal-path-planning-for-wheeled-robots/"/>
+        <updated>2025-12-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With some hints for good numerics
+The post Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Willem Esterhuizen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel]]></title>
+        <id>https://towardsdatascience.com/?p=608037</id>
+        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-1-auc-in-excel/"/>
+        <updated>2025-12-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AUC measures how well a model ranks positives above negatives, independent of any chosen threshold.
+The post The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nested Learning: Is Deep Learning Architecture an Illusion?]]></title>
+        <id>https://learnopencv.com/?p=78099</id>
+        <link href="https://learnopencv.com/nested-learning/"/>
+        <updated>2025-12-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For over a decade, progress in deep learning has been framed as a story of better architectures. Yet beneath this architectural narrative lies a deeper and often overlooked question – how do models actually learn over time? This question lies at the heart of Nested Learning, a new paradigm that reframes modern AI systems not […]
+Nested Learning: Is Deep Learning Architecture an Illusion? first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Shubham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents Under the Curve (AUC)]]></title>
+        <id>https://towardsdatascience.com/?p=608033</id>
+        <link href="https://towardsdatascience.com/agents-under-the-curve-auc/"/>
+        <updated>2025-12-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Towards understanding if your agentic solution is actually better
+The post Agents Under the Curve (AUC) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Lambert Leong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Awesome Docker Projects for Beginners]]></title>
+        <id>https://www.analyticsvidhya.com/?p=248789</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/docker-projects/"/>
+        <updated>2025-12-30T11:53:27.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, tell me if you relate to this – Docker commands are easy to understand but difficult to apply meaningfully. Out of the countless tutorials that I followed, most stopped at syntax, leaving me unsure about what to build next. (Here is an exception – A step-by-step Docker tutorial for complete beginners) As […]
+The post 10 Awesome Docker Projects for Beginners appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Chain of Thought (CoT) Prompting?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=248520</id>
+        <link href="https://www.analyticsvidhya.com/blog/2025/12/chain-of-thought-cot-prompting/"/>
+        <updated>2025-12-30T10:02:48.000Z</updated>
+        <summary type="html"><![CDATA[The core idea behind Chain of Thought (CoT) is to encourage an AI model to reason step by step before producing an answer. While the concept itself is not new and is essentially a structured way of asking models to explain their reasoning, it remains highly relevant today. Interest in CoT increased again after OpenAI […]
+The post What is Chain of Thought (CoT) Prompting? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harshit Ahluwalia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steering RL Training: Benchmarking Interventions Against Reward Hacking]]></title>
         <id>R5MdWGKsuvdPwGFBG</id>
@@ -3597,39 +3663,6 @@ The post The Machine Learning and Deep Learning “Advent Calendar” Series: Th
         <summary type="html"><![CDATA[This article is divided into four parts; they are: • Optimizers for Training Language Models • Learning Rate Schedulers • Sequence Length Scheduling • Other Techniques to Help Training Deep Learning Models Adam has been the most popular optimizer for training deep learning models.]]></summary>
         <author>
             <name>Adrian Tam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall]]></title>
-        <id>https://towardsdatascience.com/?p=607762</id>
-        <link href="https://towardsdatascience.com/the-greedy-boruta-algorithm-faster-feature-selection-without-sacrificing-recall/"/>
-        <updated>2025-11-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A modification to the Boruta algorithm that dramatically reduces computation while maintaining high sensitivity
-The post The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nicolas Vana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247059</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/11/langchains-deep-agent-guide/"/>
-        <updated>2025-11-30T11:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Imagine an AI that doesn’t just answer your questions, but thinks ahead, breaks tasks down, creates its own TODOs, and even spawns sub-agents to get the work done. That’s the promise of Deep Agents. AI Agents already take the capabilities of LLMs a notch higher, and today we’ll look at Deep Agents to see how […]
-The post Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metric Deception: When Your Best KPIs Hide Your Worst Failures]]></title>
-        <id>https://towardsdatascience.com/?p=607765</id>
-        <link href="https://towardsdatascience.com/metric-deception-when-your-best-kpis-hide-your-worst-failures/"/>
-        <updated>2025-11-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The most dangerous KPIs aren’t broken; they’re the ones trusted long after they’ve lost their meaning.
-The post Metric Deception: When Your Best KPIs Hide Your Worst Failures appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shafeeq Ur Rahaman</name>
         </author>
     </entry>
 </feed>
