@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608059",
+          "author": "Chaim Rand",
+          "description": "A deep dive on data transfer bottlenecks, their identification, and their resolution with the help of NVIDIA Nsight™ Systems\nThe post Optimizing Data Transfer in AI/ML Workloads appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/optimizing-data-transfer-in-ai-ml-workloads/",
+          "publishedOn": "2026-01-03T15:00:00.000Z",
+          "wordCount": 5876,
+          "title": "Optimizing Data Transfer in AI/ML Workloads",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/1-4.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608061",
+          "author": "Roman S",
+          "description": "Check the tools your LLM uses before replacing it with just a more powerful model\nThe post How to Keep MCPs Useful in Agentic Pipelines appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/master-mcp-as-a-way-to-keep-mcps-useful-in-agentic-pipelines/",
+          "publishedOn": "2026-01-03T13:00:00.000Z",
+          "wordCount": 4582,
+          "title": "How to Keep MCPs Useful in Agentic Pipelines",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/gemini-gen-cover.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608056",
           "author": "Morris Stallmann",
           "description": "A prerequisite for long-term success of machine learning systems\nThe post Drift Detection in Robust Machine Learning Systems appeared first on Towards Data Science.",
@@ -1075,76 +1095,6 @@
           "wordCount": 6826,
           "title": "Build and Deploy Your First Supply Chain App in 20 Minutes",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/temp-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607806",
-          "author": "Thomas Reid",
-          "description": "Using Apache Iceberg on AWS with Athena, Glue/Spark and DuckDB\nThe post Bootstrap a Data Lakehouse in an Afternoon appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/bootstrap-a-data-lakehouse-in-an-afternoon/",
-          "publishedOn": "2025-12-04T13:30:00.000Z",
-          "wordCount": 5268,
-          "title": "Bootstrap a Data Lakehouse in an Afternoon",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/lakehpuse.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607798",
-          "author": "Jarom Hulet",
-          "description": "Why continuous learning matters & how to come up with topics to study\nThe post The Best Data Scientists are Always Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/part-1-the-best-data-scientists-are-always-learning/",
-          "publishedOn": "2025-12-04T12:00:00.000Z",
-          "wordCount": 3933,
-          "title": "The Best Data Scientists are Always Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/pexels-ivo-rainha-527110-1290141-scaled-1.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607822",
-          "author": "Ida Silfverskiöld",
-          "description": "And what this means for generative engine optimization (GEO)\nThe post The Architecture Behind Web Search in AI Chatbots appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-architecture-behind-web-search-in-ai-chatbots-2/",
-          "publishedOn": "2025-12-04T06:19:55.000Z",
-          "wordCount": 5626,
-          "title": "The Architecture Behind Web Search in AI Chatbots",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Skarmavbild-2025-12-01-kl.-14.22.34.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607796",
-          "author": "Chaim Rand",
-          "description": "PyTorch Model Performance Analysis and Optimization — Part 11\nThe post Overcoming the Hidden Performance Traps of Variable-Shaped Tensors: Efficient Data Sampling in PyTorch appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/overcoming-the-hidden-performance-traps-of-variable-shaped-tensors-efficient-data-sampling-in-pytorch/",
-          "publishedOn": "2025-12-03T17:00:00.000Z",
-          "wordCount": 4795,
-          "title": "Overcoming the Hidden Performance Traps of Variable-Shaped Tensors: Efficient Data Sampling in PyTorch",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/national-cancer-institute-zz_3tCcrk7o-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607802",
-          "author": "angela shi",
-          "description": "From local distance to global probability\nThe post The Machine Learning “Advent Calendar” Day 3: GNB, LDA and QDA in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-3-gnb-lda-and-qda-in-excel/",
-          "publishedOn": "2025-12-03T16:30:00.000Z",
-          "wordCount": 4589,
-          "title": "The Machine Learning “Advent Calendar” Day 3: GNB, LDA and QDA in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/lda-qda-1-1024x738.gif"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607794",
-          "author": "Piero Paialunga",
-          "description": "The most famous applications of LLMs are the ones that I like to call the “wow effect LLMs.” There are plenty of viral LinkedIn posts about them, and they all sound like this: “I built [x] that does [y] in [z] minutes using AI.” Where: If you notice carefully, the focus of the sentence is […]\nThe post How to Turn Your LLM Prototype into a Production-Ready System appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-turn-your-llm-prototype-into-a-production-ready-system/",
-          "publishedOn": "2025-12-03T15:30:00.000Z",
-          "wordCount": 5544,
-          "title": "How to Turn Your LLM Prototype into a Production-Ready System",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/ChrisDeTempe-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607792",
-          "author": "Erika G. Gonçalves",
-          "description": "What mattered: robust agents, glass-box reasoning, and red-team resilience\nThe post Multi-Agent Arena: Insights from London Great Agent Hack 2025 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/multi-agent-arena-london-great-agent-hack-2025/",
-          "publishedOn": "2025-12-03T14:00:00.000Z",
-          "wordCount": 5891,
-          "title": "Multi-Agent Arena: Insights from London Great Agent Hack 2025",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/IMG_9338-4-scaled-1.jpg"
         }
       ]
     },
@@ -1312,16 +1262,6 @@
           "wordCount": 5965,
           "title": "Prompt Engineering for Time Series Analysis",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-ipc-prompt-engineering-time-series-analysis-1.jpeg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22587",
-          "author": "Bala Priya C",
-          "description": "Large language models generate text, not structured data.",
-          "link": "https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/",
-          "publishedOn": "2025-12-03T16:59:32.000Z",
-          "wordCount": 9005,
-          "title": "The Complete Guide to Using Pydantic for Validating LLM Outputs",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-complete-guide-pydantic-featured-image.jpeg"
         }
       ]
     },
@@ -1480,26 +1420,6 @@
           "wordCount": 1569,
           "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
           "imageUrl": "https://huggingface.co/blog/assets/swift-huggingface/banner.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/intel-deepmath",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/intel-deepmath",
-          "publishedOn": "2025-12-04T00:00:00.000Z",
-          "wordCount": 1239,
-          "title": "DeepMath: A lightweight math reasoning Agent with SmolAgents",
-          "imageUrl": "https://huggingface.co/blog/assets/intel-deepmath/banner.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/hf-skills-training",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/hf-skills-training",
-          "publishedOn": "2025-12-04T00:00:00.000Z",
-          "wordCount": 2126,
-          "title": "We Got Claude to Fine-Tune an Open Source LLM",
-          "imageUrl": "https://huggingface.co/blog/assets/hf-skills-training/thumbnail.png"
         }
       ]
     },
@@ -1598,35 +1518,13 @@
       "title": "Machine Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "69309b9e8c594b8177306456",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you’re working on complex Machine Learning projects, you’ll need a good Graphics Processing Unit (or GPU) to power everything. And Nvidia is a popular option these days, as it has great compatibility and widespread support. If you’re new to Machin...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-cuda-and-wsl2-for-windows-11-including-pytorch-and-tensorflow-gpu/",
-          "publishedOn": "2025-12-03T20:20:46.000Z",
-          "wordCount": 4351,
-          "title": "How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764786287487/f0c28401-ce77-4873-b238-59fc6b737ce7.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Deep Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "69309b9e8c594b8177306456",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you’re working on complex Machine Learning projects, you’ll need a good Graphics Processing Unit (or GPU) to power everything. And Nvidia is a popular option these days, as it has great compatibility and widespread support. If you’re new to Machin...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-cuda-and-wsl2-for-windows-11-including-pytorch-and-tensorflow-gpu/",
-          "publishedOn": "2025-12-03T20:20:46.000Z",
-          "wordCount": 4353,
-          "title": "How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764786287487/f0c28401-ce77-4873-b238-59fc6b737ce7.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "colah's blog",
@@ -1922,6 +1820,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249013",
+          "author": "Riya Bansal.",
+          "description": "Large AI models are scaling rapidly, with bigger architectures and longer training runs becoming the norm. As models grow, however, a fundamental training stability issue has remained unresolved. DeepSeek mHC directly addresses this problem by rethinking how residual connections behave at scale. This article explains DeepSeek mHC (Manifold-Constrained Hyper-Connections) and shows how it improves large language model training stability […]\nThe post DeepSeek mHC: Stabilizing Large Language Model Training appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/",
+          "publishedOn": "2026-01-03T05:57:25.000Z",
+          "wordCount": null,
+          "title": "DeepSeek mHC: Stabilizing Large Language Model Training",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=248999",
+          "author": "Sarthak Dogra",
+          "description": "The bygone year has been an interesting one, especially so for the age of AI that is fast coming. We saw AI agents rise for the first time and take over repetitive tasks that traditionally required a human workforce. However, in 2025, most AI agents still lived inside demos, copilots, and experimental workflows. With the […]\nThe post 15 AI Agents Trends to Watch in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/",
+          "publishedOn": "2026-01-03T03:55:18.000Z",
+          "wordCount": null,
+          "title": "15 AI Agents Trends to Watch in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=128139",
           "author": "Nitika Sharma",
@@ -2546,17 +2466,6 @@
           "publishedOn": "2025-12-04T14:03:32.000Z",
           "wordCount": null,
           "title": "LLM Council: Andrej Karpathy’s AI for Reliable Answers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247257",
-          "author": "Janvi Kumari",
-          "description": "Coordinating many different agents together to accomplish a task isn’t easy. But using Crew AI’s ability to coordinate through planning, that task becomes easier. The most useful aspect of planning is that the system creates a roadmap for agents to follow when completing their project. Once agents have access to the same roadmap, they understand […]\nThe post Using CrewAI Planning to Build a Structured Multi-Agent Workflow appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/crewai-planning/",
-          "publishedOn": "2025-12-03T17:29:55.000Z",
-          "wordCount": null,
-          "title": "Using CrewAI Planning to Build a Structured Multi-Agent Workflow",
           "itunes": {},
           "imageUrl": null
         }
@@ -3410,36 +3319,6 @@
           "publishedOn": "2025-12-04T18:27:22.000Z",
           "wordCount": null,
           "title": "Management of Substrate-Sensitive AI Capabilities (MoSSAIC) Part 2: Conflict",
-          "imageUrl": null
-        },
-        {
-          "id": "RvzrwrtbA7NfeXgDx",
-          "author": "Chris_Leong",
-          "description": "Published on December 4, 2025 3:25 AM GMT\n\nApplication deadline:\n\nMain deadline: Midnight, 7th December, Sydney time\nIf we have unfilled slots, we may still accept applications until the 14th of December\n\nLocation: Sydney (definite); Melbourne (likely; contingent on sufficient high-quality applications)\nWhen: January/February 2026 with remote activities pre and post the main fellowship (detail further down)\nApply now\nWe are looking for a small group of strongly motivated, highly agentic individuals with good strategic judgement (from technical researchers to governance thinkers to entrepreneurs) who want to spend the summer developing situational awareness, figuring out where they can best contribute, and working on a project that demonstrates their potential.\nOur core promise: Other progr…",
-          "link": "https://www.alignmentforum.org/posts/RvzrwrtbA7NfeXgDx/sydney-ai-safety-fellowship-2026-priority-deadline-this",
-          "publishedOn": "2025-12-04T03:25:44.000Z",
-          "wordCount": null,
-          "title": "Sydney AI Safety Fellowship 2026 (Priority deadline this Sunday)",
-          "imageUrl": null
-        },
-        {
-          "id": "zmngpxsvGbotFeQca",
-          "author": "bilalchughtai",
-          "description": "Published on December 3, 2025 8:07 PM GMT\n\nNew research from the GDM mechanistic interpretability team. Read the full paper on arxiv or check out the twitter thread.\n\nAbstract\n\nBuilding reliable deception detectors for AI systems—methods that could predict when an AI system is being strategically deceptive without necessarily requiring behavioural evidence—would be valuable in mitigating risks from advanced AI systems. But evaluating the reliability and efficacy of a proposed deception detector requires examples that we can confidently label as either deceptive or honest. We argue that we currently lack the necessary examples and further identify several concrete obstacles in collecting them. We provide evidence from conceptual arguments, analysis of existing empirical works, and analysis …",
-          "link": "https://www.alignmentforum.org/posts/zmngpxsvGbotFeQca/paper-difficulties-with-evaluating-a-deception-detector-for",
-          "publishedOn": "2025-12-03T20:07:14.000Z",
-          "wordCount": null,
-          "title": "[Paper] Difficulties with Evaluating a Deception Detector for AIs",
-          "imageUrl": null
-        },
-        {
-          "id": "d4HNRdw6z7Xqbnu5E",
-          "author": "Steve Byrnes",
-          "description": "Published on December 3, 2025 6:37 PM GMT\n\nTl;dr\nAI alignment has a culture clash. On one side, the “technical-alignment-is-hard” / “rational agents” school-of-thought argues that we should expect future powerful AIs to be power-seeking ruthless consequentialists. On the other side, people observe that both humans and LLMs are obviously capable of behaving like, well, not that. The latter group accuses the former of head-in-the-clouds abstract theorizing gone off the rails, while the former accuses the latter of mindlessly assuming that the future will always be the same as the present, rather than trying to understand things. “Alas, the power-seeking ruthless consequentialist AIs are still coming,” sigh the former. “Just you wait.”\nAs it happens, I’m basically in that “alas, just you wait…",
-          "link": "https://www.alignmentforum.org/posts/d4HNRdw6z7Xqbnu5E/6-reasons-why-alignment-is-hard-discourse-seems-alien-to",
-          "publishedOn": "2025-12-03T18:37:04.000Z",
-          "wordCount": null,
-          "title": "6 reasons why “alignment-is-hard” discourse seems alien to human intuitions, and vice-versa",
           "imageUrl": null
         }
       ]
