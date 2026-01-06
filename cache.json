@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608074",
+          "author": "Vyacheslav Efimov",
+          "description": "Finding the most informative points in images\nThe post Feature Detection, Part 3: Harris Corner Detection appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/",
+          "publishedOn": "2026-01-05T16:30:00.000Z",
+          "wordCount": 4037,
+          "title": "Feature Detection, Part 3: Harris Corner Detection",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/harris-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608072",
+          "author": "Thomas Reid",
+          "description": "From single to multi-core on your local PC and beyond\nThe post Ray: Distributed Computing for All, Part 1 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ray-distributed-computing-for-all-part-1/",
+          "publishedOn": "2026-01-05T15:00:00.000Z",
+          "wordCount": 5392,
+          "title": "Ray: Distributed Computing for All, Part 1",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Generated-Image-November-09-2025-2_00PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608069",
+          "author": "Alon Lanyado",
+          "description": "Instead of using shift as an excuse for poor performance, use Inverse Probability Weighting to estimate how your model should perform in the new environment\nThe post Stop Blaming the Data: A Better Way to Handle Covariance Shift appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-blaming-the-data-a-better-way-to-handle-covariance-shift/",
+          "publishedOn": "2026-01-05T13:30:00.000Z",
+          "wordCount": 4434,
+          "title": "Stop Blaming the Data: A Better Way to Handle Covariance Shift",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/apples_to_apples.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608067",
+          "author": "Muhammad Ardi",
+          "description": "An explanation of how YOLOv1 measures the correctness of its object detection and classification predictions\nThe post YOLOv1 Loss Function Walkthrough: Regression for All appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/yolov1-loss-function-walkthrough-regression-for-all/",
+          "publishedOn": "2026-01-05T12:00:00.000Z",
+          "wordCount": 8356,
+          "title": "YOLOv1 Loss Function Walkthrough: Regression for All",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/YOLOv1-Loss-Function-Cover-Image.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608063",
           "author": "Robert Etter",
           "description": "Running a code-free comparison in Azure\nThe post Prompt Engineering vs RAG for Editing Resumes appeared first on Towards Data Science.",
@@ -1015,56 +1055,6 @@
           "wordCount": 4676,
           "title": "The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Capture-decran-2025-12-06-a-00.02.45.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607829",
-          "author": "Michael Segner",
-          "description": "Testing that your AI agent is performing as expected is not easy.  Here are a few strategies we learned the hard way.\nThe post How We Are Testing Our Agents in Dev appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-we-are-testing-our-agents-in-dev/",
-          "publishedOn": "2025-12-06T13:00:00.000Z",
-          "wordCount": 3741,
-          "title": "How We Are Testing Our Agents in Dev",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/How-To-Test-in-Development.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607824",
-          "author": "Soner Yıldırım",
-          "description": "Cursor is great at writing code but not as good when it comes to design\nThe post The Step-by-Step Process of Adding a New Feature to My IOS App with Cursor appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/step-by-step-process-of-adding-a-new-feature-to-my-ios-app-with-cursor/",
-          "publishedOn": "2025-12-05T17:30:00.000Z",
-          "wordCount": 3908,
-          "title": "The Step-by-Step Process of Adding a New Feature to My IOS App with Cursor",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-126.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607838",
-          "author": "angela shi",
-          "description": "This article introduces the Gaussian Mixture Model as a natural extension of k-Means, by improving how distance is measured through variances and the Mahalanobis distance. Instead of assigning points to clusters with hard boundaries, GMM uses probabilities learned through the Expectation–Maximization algorithm – the general form of Lloyd’s method.\nUsing simple Excel formulas, we implement EM step by step in 1D and 2D, and we visualise how the Gaussian curves or ellipses move during training. The means shift, the variances adjust, and the shapes gradually settle around the true structure of the data.\nGMM provides a richer, more flexible way to model clusters, and becomes intuitive once the process is made visible in a spreadsheet.\nThe post The Machine Learning “Advent Calendar” Day 5: GMM in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-5-gmm-in-excel/",
-          "publishedOn": "2025-12-05T17:00:00.000Z",
-          "wordCount": 3837,
-          "title": "The Machine Learning “Advent Calendar” Day 5: GMM in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-54.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607818",
-          "author": "Yu Dong",
-          "description": "What a simple puzzle game reveals about experimentation, product thinking, and data science\nThe post A Product Data Scientist’s Take on LinkedIn Games After 500 Days of Play appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-product-data-scientists-take-on-linkedin-games-after-500-days-of-play/",
-          "publishedOn": "2025-12-05T15:30:00.000Z",
-          "wordCount": 5479,
-          "title": "A Product Data Scientist’s Take on LinkedIn Games After 500 Days of Play",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/linkedin_games_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607816",
-          "author": "Muhammad Ardi",
-          "description": "A detailed walkthrough of the YOLOv1 architecture and its PyTorch implementation from scratch\nThe post YOLOv1 Paper Walkthrough: The Day YOLO First Saw the World appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/yolov1-paper-walkthrough-the-day-yolo-first-saw-the-world/",
-          "publishedOn": "2025-12-05T14:00:00.000Z",
-          "wordCount": 6566,
-          "title": "YOLOv1 Paper Walkthrough: The Day YOLO First Saw the World",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/hassan-MFYmMBUEkmQ-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1073,6 +1063,56 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=22980",
+          "author": "Adrian Tam",
+          "description": "This article is divided into five parts; they are: • An Example of Tensor Parallelism • Setting Up Tensor Parallelism • Preparing Model for Tensor Parallelism • Train a Model with Tensor Parallelism • Combining Tensor Parallelism with FSDP Tensor parallelism originated from the Megatron-LM paper.",
+          "link": "https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/",
+          "publishedOn": "2025-12-31T21:22:39.000Z",
+          "wordCount": 16537,
+          "title": "Train Your Large Model on Multiple GPUs with Tensor Parallelism",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/01/seth-kane-XOEAHbE_vO8-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=22962",
+          "author": "Adrian Tam",
+          "description": "This article is divided into five parts; they are: • Introduction to Fully Sharded Data Parallel • Preparing Model for FSDP Training • Training Loop with FSDP • Fine-Tuning FSDP Behavior • Checkpointing FSDP Models Sharding is a term originally used in database management systems, where it refers to dividing a database into smaller units, called shards, to improve performance.",
+          "link": "https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-fully-sharded-data-parallelism/",
+          "publishedOn": "2025-12-30T22:12:18.000Z",
+          "wordCount": 14245,
+          "title": "Train Your Large Model on Multiple GPUs with Fully Sharded Data Parallelism",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/ferenc-horvath-9cYiqVDeXDc-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=22927",
+          "author": "Vinod Chugani",
+          "description": "If you've built chatbots or worked with language models, you're already familiar with how AI systems handle memory within a single conversation.",
+          "link": "https://machinelearningmastery.com/beyond-short-term-memory-the-3-types-of-long-term-memory-ai-agents-need/",
+          "publishedOn": "2025-12-30T11:00:59.000Z",
+          "wordCount": 8172,
+          "title": "Beyond Short-term Memory: The 3 Types of Long-term Memory AI Agents Need",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-chugani-beyond-short-term-memory-3-types-long-term-memory-ai-agents-need-feature-b.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=22948",
+          "author": "Adrian Tam",
+          "description": "This article is divided into six parts; they are: • Pipeline Parallelism Overview • Model Preparation for Pipeline Parallelism • Stage and Pipeline Schedule • Training Loop • Distributed Checkpointing • Limitations of Pipeline Parallelism Pipeline parallelism means creating the model as a pipeline of stages.",
+          "link": "https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/",
+          "publishedOn": "2025-12-29T20:56:53.000Z",
+          "wordCount": 12844,
+          "title": "Train Your Large Model on Multiple GPUs with Pipeline Parallelism",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/ivan-ivankovic-M0uDTaOUZmw-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=22905",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Predicting the future has always been the holy grail of analytics.",
+          "link": "https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/",
+          "publishedOn": "2025-12-29T11:00:23.000Z",
+          "wordCount": 6960,
+          "title": "5 Python Libraries for Advanced Time Series Forecasting",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/Untitled-design.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=22901",
           "author": "Adrian Tam",
@@ -1291,6 +1331,36 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+          "publishedOn": "2026-01-05T22:56:51.000Z",
+          "wordCount": 1167,
+          "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+          "author": null,
+          "description": "A Blog post by Technology Innovation Institute on Hugging Face",
+          "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+          "publishedOn": "2026-01-05T09:16:51.000Z",
+          "wordCount": 2005,
+          "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/tiiuae/falcon-h1-arabic.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/nvidia-reachy-mini",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+          "publishedOn": "2026-01-05T00:00:00.000Z",
+          "wordCount": 2315,
+          "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+          "imageUrl": "https://huggingface.co/blog/assets/nvidia-reachy-mini/new_thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
           "author": null,
@@ -1522,24 +1592,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "2a2b7890-d15b-11f0-9f4c-cb49aa599544",
-          "author": null,
-          "description": "The CHAPEA Mission 2 crew discusses their backgrounds and preparations for their upcoming yearlong analog Mars mission inside the Mars Dune Alpha habitat at NASA’s Johnson Space Center. HWHAP 404.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/chapea-mission-2/",
-          "publishedOn": "2025-12-05T14:12:00.000Z",
-          "wordCount": null,
-          "title": "CHAPEA Mission 2",
-          "itunes": {
-            "duration": "3578"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6020606381.mp3?updated=1764886730",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1548,6 +1600,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:695bcad2b870be14b1ee1acb",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx",
+          "publishedOn": "2026-01-05T14:30:04.000Z",
+          "wordCount": null,
+          "title": "Week Ending 1.4.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69529610b4bbef2bfe6eff64",
           "author": "Craig Smith",
@@ -1742,16 +1805,6 @@
           "wordCount": 3826,
           "title": "Evaluating AI Data Vendors: A Safety, Trust, and Quality",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/businesswoman-interacting-with-ai-hologram-office-sm.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=16800",
-          "author": "Inkline Admin",
-          "description": "Machine learning systems live in a changing environment. An ML system trained up and ready to go may give great\nThe post Understanding Model Drift in ML Systems appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/staying-ahead-of-drift-in-machine-learning-systems-all-una/",
-          "publishedOn": "2025-12-05T18:47:13.000Z",
-          "wordCount": 4649,
-          "title": "Understanding Model Drift in ML Systems",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2022/07/OG_Staying-Ahead-of-Drift.jpg"
         }
       ]
     },
@@ -1760,6 +1813,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=104479",
+          "author": "Aayush Tyagi",
+          "description": "Data science powers decision-making across modern businesses, from data preparation and automation to advanced analytics and machine learning. Learning it requires a strong foundation in mathematics, statistics, programming, and practical problem-solving. The good news is that data science can be self-learned with the right resources and consistent practice. Books remain one of the most effective […]\nThe post 30 Best Data Science Books to Read in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/best-data-science-books-to-read/",
+          "publishedOn": "2026-01-05T18:39:00.000Z",
+          "wordCount": null,
+          "title": "30 Best Data Science Books to Read in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249089",
+          "author": "Vipin Vashisth",
+          "description": "AI-based coding agents are changing developer workflows. Proof – the arrival of Gemini 3 Pro in the Gemini CLI. It shows a significant advancement. For instance, it provides advanced reasoning, enhanced tool usage, and natural-language coding right in the terminal. Developers will be able to generate, fix, and refactor code without needing to break their flow by […]\nThe post How to Use Gemini 3 Pro in CLI? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/gemini-3-pro-cli/",
+          "publishedOn": "2026-01-05T17:15:02.000Z",
+          "wordCount": null,
+          "title": "How to Use Gemini 3 Pro in CLI?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249057",
+          "author": "Harsh Mishra",
+          "description": "The LangChain ecosystem provides an important set of tools with which to construct an application using Large Language Models (LLMs). However, when the names of the companies such as LangChain, LangGraph, LangSmith, and LangFlow are mentioned, it is often difficult to know where to begin. This is a guide that shows an easy way around […]\nThe post LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/langchain-vs-langgraph-vs-langsmith-vs-langflow/",
+          "publishedOn": "2026-01-05T12:04:52.000Z",
+          "wordCount": null,
+          "title": "LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249033",
           "author": "Mounish V",
@@ -2364,17 +2450,6 @@
           "title": "How to Detect AI-Generated Content?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=246311",
-          "author": "Harsh Mishra",
-          "description": "Imagine a chatbot makes a joke, and the user gives it a negative feedback. The same agent is far funnier on the said topic a week later. This is what we mean by agent’s live adaptation. Most chat agents as of now are static programs in nature. They don’t really learn from user feedback during […]\nThe post Create an Agent that can Learn from Interactions using AutoGen  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/autogen-teachable-agent/",
-          "publishedOn": "2025-12-06T13:11:55.000Z",
-          "wordCount": null,
-          "title": "Create an Agent that can Learn from Interactions using AutoGen",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2395,6 +2470,16 @@
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
       "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=16959",
+          "author": "David M",
+          "description": "Itai Weiss Continuous Integration (CI) is the practice of automatically testing your code every time you make a change. In traditional software, this works well because the same input always produces the same output. But AI systems break this easily—even just adding more training data without touching the code can cause your tests to fail. …\n  Continuous Integration for AI Projects Read More »\nThe post Continuous Integration for AI Projects appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/continuous-integration-for-ai-projects/",
+          "publishedOn": "2026-01-05T17:01:19.000Z",
+          "wordCount": 2574,
+          "title": "Continuous Integration for AI Projects",
+          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/01/45.png"
+        },
         {
           "id": "https://www.rsipvision.com/?p=16889",
           "author": "David M",
@@ -2777,6 +2862,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/latest-open-artifacts-17-nvidia-arcee",
+          "author": "Florian Brand",
+          "description": "Ending the year with a bang.",
+          "link": "https://www.interconnects.ai/p/latest-open-artifacts-17-nvidia-arcee",
+          "publishedOn": "2026-01-05T14:03:14.000Z",
+          "wordCount": null,
+          "title": "Latest open artifacts (#17): NVIDIA, Arcee, Minimax, DeepSeek, Z.ai and others close an eventful year on a high note",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!_9K0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5daeb00-02a0-48d0-82cf-0f868dfaa877_1024x1024.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_9K0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5daeb00-02a0-48d0-82cf-0f868dfaa877_1024x1024.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/open-models-hot-or-not-with-nathan",
           "author": "Nathan Lambert",
@@ -3186,26 +3287,6 @@
           "publishedOn": "2025-12-08T16:03:06.000Z",
           "wordCount": null,
           "title": "[Paper] Does Self-Evaluation Enable Wireheading in Language Models?",
-          "imageUrl": null
-        },
-        {
-          "id": "Hy6PX43HGgmfiTaKu",
-          "author": "leogao",
-          "description": "Published on December 5, 2025 10:57 PM GMT\n\nThe goal of ambitious mechanistic interpretability (AMI) is to fully understand how neural networks work. While some have pivoted towards more pragmatic approaches, I think the reports of AMI’s death have been greatly exaggerated. The field of AMI has made plenty of progress towards finding increasingly simple and rigorously-faithful circuits, including our latest work on circuit sparsity. There are also many exciting inroads on the core problem waiting to be explored.\nThe value of understanding\nWhy try to understand things, if we can get more immediate value from less ambitious approaches? In my opinion, there are two main reasons.\nFirst, mechanistic understanding can make it much easier to figure out what’s actually going on, especially when it…",
-          "link": "https://www.alignmentforum.org/posts/Hy6PX43HGgmfiTaKu/an-ambitious-vision-for-interpretability",
-          "publishedOn": "2025-12-05T22:57:56.000Z",
-          "wordCount": null,
-          "title": "An Ambitious Vision for Interpretability",
-          "imageUrl": null
-        },
-        {
-          "id": "MhoceqyBfXugA6GcS",
-          "author": "mfatt",
-          "description": "Published on December 5, 2025 6:58 PM GMT\n\nThe previous two posts have emphasized some problematic scenarios for mech-interp. Mech-interp is our example of a more general problem in AI safety. In this post we zoom out to that more general problem, before proposing our solution.\nWe can characterize the more general problem, inherent in the causal–mechanistic paradigm, in terms of substrate-dependent and substrate-independent approaches to alignment.\nAs we describe in our threat model, the results/insights obtained under the causal–mechanistic paradigm are closely tied to a particular substrate. They may therefore fail to generalize to new substrates, and any downstream safety assurances may be weakened.\nThe problem of generalizing beyond any one particular substrate—be that model, architect…",
-          "link": "https://www.alignmentforum.org/posts/MhoceqyBfXugA6GcS/management-of-substrate-sensitive-ai-capabilities-mossaic-3",
-          "publishedOn": "2025-12-05T18:58:37.000Z",
-          "wordCount": null,
-          "title": "Management of Substrate-Sensitive AI Capabilities (MoSSAIC) Part 3: Resolution",
           "imageUrl": null
         }
       ]
