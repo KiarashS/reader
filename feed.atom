@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-01-06T01:26:02.649Z</updated>
+    <updated>2026-01-07T01:26:11.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models]]></title>
+        <id>https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b</id>
+        <link href="https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b"/>
+        <updated>2026-01-06T21:16:17.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My 2003 Post on the Evolutionary Argument for AI Misalignment]]></title>
+        <id>AjxwuLYvSCnf6KZMn</id>
+        <link href="https://www.alignmentforum.org/posts/AjxwuLYvSCnf6KZMn/my-2003-post-on-the-evolutionary-argument-for-ai"/>
+        <updated>2026-01-06T20:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 6, 2026 8:45 PM GMT
+
+This was posted to SL4 on the last day of 2003. I had largely forgotten about it until I saw the LW Wiki reference it under Mesa Optimization[1]. Besides the reward hacking angle, which is now well-trodden, it gave an argument based on the relationship between philosophy, memetics, and alignment, which has been much less discussed (including in current discussions about human fertility decline), and perhaps still worth reading/thinking about. Overall, the post seems to have aged well, aside from the very last paragraph.
+For historical context, Eliezer had coined "Friendly AI" in Creating Friendly AI 1.0 in June 2001. Although most of it was very hard to understand and subsequently disavowed by Eliezer himself, it had a section on “philosophical cri…]]></summary>
+        <author>
+            <name>Wei Dai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[81 Jobs that AI Cannot Replace in 2026]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249220</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/jobs-ai-cannot-replace/"/>
+        <updated>2026-01-06T18:45:45.000Z</updated>
+        <summary type="html"><![CDATA[I get the AI scare, and if I am being honest here, you should take it seriously too. The AI age is unfolding fast, and we are seeing automation enter just about every sector. Once it does, there is absolutely no argument that the entire dynamics of human roles will change. So, for most of […]
+The post 81 Jobs that AI Cannot Replace in 2026 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How hard is it to inoculate against misalignment generalization?]]></title>
+        <id>G4YXXbKt5cNSQbjXM</id>
+        <link href="https://www.alignmentforum.org/posts/G4YXXbKt5cNSQbjXM/how-hard-is-it-to-inoculate-against-misalignment"/>
+        <updated>2026-01-06T17:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 6, 2026 5:30 PM GMT
+
+TL;DR: Simple inoculation prompts that prevent misalignment generalization in toy setups don't scale to more realistic reward hacking. When I fine-tuned models on realistic reward hacks, only prompts close to the dataset generation prompt were sufficient to prevent misalignment. This seems like a specification problem: the model needs enough information to correctly categorize what's being inoculated. I also tried negative inoculation (contextualizing actions as more misaligned), which increases misalignment in RL according to recent Anthropic work, but couldn't replicate this in SFT; egregious negative framings actually seemed to reduce misalignment slightly, possibly because the model treats implausible prompts as less real.
+Thanks to Abhay Shesh…]]></summary>
+        <author>
+            <name>Jozdien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dummy Variable Trap in Machine Learning Explained Simply]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249229</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/dummy-variable-trap-in-machine-learning/"/>
+        <updated>2026-01-06T17:23:54.000Z</updated>
+        <summary type="html"><![CDATA[In machine learning with categorical data, it is common to encode the categories as dummy variables (sometimes called one hot encoding) to encode categories as numerical values. This is a significant step since there are many algorithms that do not operate on other things other than numbers like linear regression. Nevertheless, there is one of the mistakes […]
+The post Dummy Variable Trap in Machine Learning Explained Simply appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring What Matters with NeMo Agent Toolkit]]></title>
+        <id>https://towardsdatascience.com/?p=608082</id>
+        <link href="https://towardsdatascience.com/measuring-what-matters-with-nemo-agent-toolkit/"/>
+        <updated>2026-01-06T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to observability, evaluations, and model comparisons
+The post Measuring What Matters with NeMo Agent Toolkit appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mariya Mansurova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Data Scientists Are Always Learning]]></title>
+        <id>https://towardsdatascience.com/?p=608080</id>
+        <link href="https://towardsdatascience.com/the-best-data-scientists-are-always-learning/"/>
+        <updated>2026-01-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 2: Avoiding burnout, learning strategies and the superpower of solitude
+The post The Best Data Scientists Are Always Learning appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jarom Hulet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deployment on Edge: LLM Serving on Jetson using vLLM]]></title>
+        <id>https://learnopencv.com/?p=78142</id>
+        <link href="https://learnopencv.com/deployment-on-edge-vllm-on-jetson/"/>
+        <updated>2026-01-06T14:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Learn what it really takes to run LLMs on an 8 GB Jetson Orin Nano, covering setup, failures, memory tuning, and a practical comparison between vLLM and llama.cpp. An article for Deployment on Edge.
+Deployment on Edge: LLM Serving on Jetson using vLLM first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Kukil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Your AI Coding Agent Context]]></title>
+        <id>https://towardsdatascience.com/?p=608078</id>
+        <link href="https://towardsdatascience.com/how-to-optimize-your-ai-coding-agent-context/"/>
+        <updated>2026-01-06T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Make your coding agents more efficient
+The post How to Optimize Your AI Coding Agent Context appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GliNER2: Extracting Structured Information from Text]]></title>
+        <id>https://towardsdatascience.com/?p=608076</id>
+        <link href="https://towardsdatascience.com/gliner2-extracting-structured-information-from-text/"/>
+        <updated>2026-01-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From unstructured text to structured Knowledge Graphs
+The post GliNER2: Extracting Structured Information from Text appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Tomaz Bratanic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI]]></title>
         <id>https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning</id>
@@ -3283,72 +3396,6 @@ The post How Confessions Can Keep Language Models Honest? appeared first on Anal
 The post The Machine Learning “Advent Calendar” Day 7: Decision Tree Classifier appeared first on Towards Data Science.]]></summary>
         <author>
             <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI — Clearly Explained]]></title>
-        <id>https://towardsdatascience.com/?p=607834</id>
-        <link href="https://towardsdatascience.com/artificial-intelligence-machine-learning-deep-learning-and-generative-ai-clearly-explained/"/>
-        <updated>2025-12-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding AI in 2026 — from machine learning to generative models
-The post Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI — Clearly Explained appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sabrine Bendimerad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Learning Path for 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247213</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/data-scientist-roadmap/"/>
-        <updated>2025-12-07T11:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Trying to become a Data Scientist in 2026? With all the latest developments in the domain, it’s hard to keep track of the updates. And with so much information online, it might be overwhelming to get started on the right path. But fear not! This guide will provide all you need to know for becoming […]
-The post Data Science Learning Path for 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247530</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/qwen3-tts-flash-review/"/>
-        <updated>2025-12-06T23:48:46.000Z</updated>
-        <summary type="html"><![CDATA[If you’re even slightly obsessed with AI voice models, Qwen3-TTS-Flash is one you shouldn’t miss. It’s the new flagship text-to-speech system from Qwen, designed to generate natural, expressive, human-like speech across 49+ sounds, 10 languages, and 9 Chinese dialects. This model is built for creators, developers, educators, and anyone who wants studio-quality voices without hiring […]
-The post Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reading Research Papers in the Age of LLMs]]></title>
-        <id>https://towardsdatascience.com/?p=607833</id>
-        <link href="https://towardsdatascience.com/reading-research-papers-in-the-age-of-llms/"/>
-        <updated>2025-12-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How I keep up with papers with a mix of manual and AI-assisted reading
-The post Reading Research Papers in the Age of LLMs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Parul Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor]]></title>
-        <id>https://towardsdatascience.com/?p=607840</id>
-        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-6-decision-tree-regressor/"/>
-        <updated>2025-12-06T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[During the first days of this Machine Learning Advent Calendar, we explored models based on distances. Today, we switch to a completely different way of learning: Decision Trees.
-The post The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect AI-Generated Content?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247434</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/how-to-detect-ai-generated-content/"/>
-        <updated>2025-12-06T13:32:14.000Z</updated>
-        <summary type="html"><![CDATA[While scrolling through your YouTube feed, you might have come to a realization. It’s almost impossible to figure out AI-generated content from humane content. And this problem isn’t limited to YouTube, but has plagued content throughout the internet. With releases like Nano banana, ChatGPT and Qwen pushing the boundaries for what was possible before, it […]
-The post How to Detect AI-Generated Content? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
         </author>
     </entry>
 </feed>
