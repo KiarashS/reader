@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608100",
+          "author": "Mariya Mansurova",
+          "description": "Using ACE to create self-improving LLM workflows and structured playbooks\nThe post Beyond Prompting: The Power of Context Engineering appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/",
+          "publishedOn": "2026-01-08T16:30:00.000Z",
+          "wordCount": 14596,
+          "title": "Beyond Prompting: The Power of Context Engineering",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/68fc7635-c1f8-40b8-8840-35a1621c7e1c.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608098",
+          "author": "Sara Nobrega",
+          "description": "Why Retrieval Helps in Time Series Forecasting We all know how it goes: Time-series data is tricky. Traditional forecasting models are unprepared for incidents like sudden market crashes, black swan events, or rare weather patterns. Even large fancy models like Chronos sometimes struggle because they haven’t dealt with that kind of pattern before. We can […]\nThe post Retrieval for Time-Series: How Looking Back Improves Forecasts appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/",
+          "publishedOn": "2026-01-08T15:00:00.000Z",
+          "wordCount": 5495,
+          "title": "Retrieval for Time-Series: How Looking Back Improves Forecasts",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Gemini_Generated_Image_4biz2t4biz2t4biz.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608096",
+          "author": "Aimira Baitieva",
+          "description": "Apply the best methods from academia to get the most out of practical applications\nThe post How to Improve the Performance of Visual Anomaly Detection Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/",
+          "publishedOn": "2026-01-08T13:30:00.000Z",
+          "wordCount": 3897,
+          "title": "How to Improve the Performance of Visual Anomaly Detection Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/1.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608094",
+          "author": "Mike Huls",
+          "description": "PostgreSQL is fast. Whether your Python code can or should keep up depends on context. This article compares and benchmarks various insert strategies, focusing not on micro-benchmarks but on trade-offs between safety, abstraction, and throughput — and choosing the right tool for the job.\nThe post Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/faster-is-not-always-better-choosing-the-right-postgresql-insert-strategy-in-python-benchmarks/",
+          "publishedOn": "2026-01-08T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks)",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608092",
           "author": "Partha Sarkar",
           "description": "How approximate vector search silently degrades Recall—and what to do about It\nThe post HNSW at Scale: Why Your RAG System Gets Worse as the Vector Database Grows appeared first on Towards Data Science.",
@@ -1025,56 +1065,6 @@
           "wordCount": 5541,
           "title": "GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Copilot_20251206_112042.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607855",
-          "author": "Sabrine Bendimerad",
-          "description": "How to learn AI in 2026 through real, usable projects\nThe post A Realistic Roadmap to Start an AI Career in 2026 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-realistic-roadmap-to-start-an-ai-career-in-2026/",
-          "publishedOn": "2025-12-09T12:00:00.000Z",
-          "wordCount": 4919,
-          "title": "A Realistic Roadmap to Start an AI Career in 2026",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/map-2530069_1280.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607853",
-          "author": "Aakash Goswami",
-          "description": "Why on-device intelligence and low-orbit constellations are the only viable path to universal accessibility\nThe post Bridging the Silence: How LEO Satellites and Edge AI Will Democratize Connectivity appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/bridging-the-silence-how-leo-satellites-and-edge-ai-will-democratize-connectivity/",
-          "publishedOn": "2025-12-08T19:00:00.000Z",
-          "wordCount": 4299,
-          "title": "Bridging the Silence: How LEO Satellites and Edge AI Will Democratize Connectivity",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-03-at-01.16.23.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607851",
-          "author": "angela shi",
-          "description": "Isolation Forest may look technical, but its idea is simple: isolate points using random splits. If a point is isolated quickly, it is an anomaly; if it takes many splits, it is normal.\nUsing the tiny dataset 1, 2, 3, 9, we can see the logic clearly. We build several random trees, measure how many splits each point needs, average the depths, and convert them into anomaly scores. Short depths become scores close to 1, long depths close to 0.\nThe Excel implementation is painful, but the algorithm itself is elegant. It scales to many features, makes no assumptions about distributions, and even works with categorical data. Above all, Isolation Forest asks a different question: not “What is normal?”, but “How fast can I isolate this point?”\nThe post The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-8-isolation-forest-in-excel/",
-          "publishedOn": "2025-12-08T18:26:42.000Z",
-          "wordCount": 4852,
-          "title": "The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Capture-decran-2025-12-07-a-20.49.28.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607844",
-          "author": "Michael Malin",
-          "description": "How history’s biggest tech bubble explains where AI is headed next\nThe post The AI Bubble Will Pop — And Why That Doesn’t Matter appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-ai-bubble-will-pop-and-why-that-doesnt-matter/",
-          "publishedOn": "2025-12-08T15:00:00.000Z",
-          "wordCount": 4092,
-          "title": "The AI Bubble Will Pop — And Why That Doesn’t Matter",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/ai-bubble.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607842",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to make a newsletter with AI tools\nThe post How to Create an ML-Focused Newsletter appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-create-an-ml-focused-newsletter/",
-          "publishedOn": "2025-12-08T13:30:00.000Z",
-          "wordCount": 3917,
-          "title": "How to Create an ML-Focused Newsletter",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-457.jpg"
         }
       ]
     },
@@ -1594,7 +1584,18 @@
       "title": "Deep Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": []
+      "articles": [
+        {
+          "id": "695ef4246f1bfe13bf31abe9",
+          "author": "Samyukta Hegde",
+          "description": "Did you know that every data scientist who builds a complex neural network starts with a fundamental question, “How does the output change when the input changes?“ A straight line equation y = ax+b answers it in the simplest way possible. y can incre...",
+          "link": "https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/",
+          "publishedOn": "2026-01-08T00:02:44.000Z",
+          "wordCount": 3899,
+          "title": "How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1767800625537/5bb99a58-d247-4933-b60b-fd2c14651542.png"
+        }
+      ]
     },
     {
       "title": "colah's blog",
@@ -1854,16 +1855,6 @@
           "wordCount": 1993,
           "title": "From Data to Documentation: Solving the Hidden Challenges of Regulatory AI in MedTech",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/Feature-IMG-From-Data-to-Documentation-Solving-the-Hidden-Challenges-of-Regulatory-AI-in-MedTech-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=31752",
-          "author": "Inkline Admin",
-          "description": "Many AI projects stumble not because of flawed models, but because of the data they’re built on. Yet most enterprises\nThe post Evaluating AI Data Vendors: A Safety, Trust, and Quality appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/evaluating-ai-data-vendors-a-safety-trust-and-quality/",
-          "publishedOn": "2025-12-08T16:15:39.000Z",
-          "wordCount": 3826,
-          "title": "Evaluating AI Data Vendors: A Safety, Trust, and Quality",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/businesswoman-interacting-with-ai-hologram-office-sm.jpg"
         }
       ]
     },
@@ -1872,6 +1863,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249385",
+          "author": "Sarthak Dogra",
+          "description": "The name Google has always been synonymous with technology, and things are no different in the age of AI. Google has quietly been the frontrunner in the AI revolution with a host of products that surprisingly few people know about. Of course, the showstoppers like Gemini and NotebookLM have been popular, but their capabilities have […]\nThe post 8 FREE Google AI Tools to Enhance your Workflow appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/free-google-ai-tools/",
+          "publishedOn": "2026-01-08T17:01:14.000Z",
+          "wordCount": null,
+          "title": "8 FREE Google AI Tools to Enhance your Workflow",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249355",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Most RAG demos stop at “upload a PDF and ask a question.” That proves the pipeline works. It doesn’t prove you understand it. These projects are designed to break in interesting ways. They surface bias, contradictions, forgotten context, and overconfident answers. That’s where real RAG learning starts. Once you’re through these, you would have an […]\nThe post 10 RAG Projects That Actually Teach You Retrieval appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/rag-projects/",
+          "publishedOn": "2026-01-08T16:52:25.000Z",
+          "wordCount": null,
+          "title": "10 RAG Projects That Actually Teach You Retrieval",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249342",
           "author": "Sarthak Dogra",
@@ -2465,50 +2478,6 @@
           "title": "Z.ai Reveals New GLM-4.6V: Should You Use it?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247635",
-          "author": "Mounish V",
-          "description": "Large Language Models (LLMs) are the heart of Agentic systems and RAG systems. And building with LLMs is exciting until the scale makes them expensive. There is always a tradeoff for cost vs quality, but in this article we will explore the 10 best ways according to me that can slash costs for the LLM […]\nThe post 10 Ways to Slash Inference Costs with OpenAI LLMs appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/llm-cost-optimization/",
-          "publishedOn": "2025-12-09T07:40:10.000Z",
-          "wordCount": null,
-          "title": "10 Ways to Slash Inference Costs with OpenAI LLMs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247609",
-          "author": "Sarthak Dogra",
-          "description": "I get it, we all want the power of AI, and not just in specific chat windows or apps. We want it right on the platform that we do most of our work. For the majority of professionals, that is their web browser. And since Google’s Chrome is the one preferred by most, here, I […]\nThe post Top 10 Agentic AI Chrome Extensions appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/agentic-ai-chrome-extensions/",
-          "publishedOn": "2025-12-09T07:32:38.000Z",
-          "wordCount": null,
-          "title": "Top 10 Agentic AI Chrome Extensions",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247599",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Researchers have uncovered an unexpected flaw in one of the most common techniques used to build smaller, cheaper AI models: Distillation. When a “student” model is trained on filtered outputs from a larger “teacher,” it can still inherit the teacher’s quirks and unsafe behaviors, even when those traits never appear in the training data. They’re […]\nThe post Subliminal Learning: How AI Models Inherit Hidden Dangers appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/subliminal-learning-in-ai/",
-          "publishedOn": "2025-12-08T13:42:35.000Z",
-          "wordCount": null,
-          "title": "Subliminal Learning: How AI Models Inherit Hidden Dangers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247580",
-          "author": "Vipin Vashisth",
-          "description": "AI agents are LLM-powered systems that act autonomously to solve complex tasks. Unlike simple chatbots, agents plan steps, call external tools, and use memory to keep context. For example, an agent can analyse data sources and generate a multi-step plan, whereas a basic LLM app can only answer a single prompt.   Therefore, developers now need […]\nThe post Agent Frameworks vs Runtime vs Harnesses: What They Are and When to Use Which  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/agent-frameworks-vs-runtimes-vs-harnesses/",
-          "publishedOn": "2025-12-08T13:23:57.000Z",
-          "wordCount": null,
-          "title": "Agent Frameworks vs Runtime vs Harnesses: What They Are and When to Use Which",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2538,16 +2507,6 @@
           "wordCount": 2574,
           "title": "Continuous Integration for AI Projects",
           "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/01/45.png"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=16889",
-          "author": "David M",
-          "description": "MLOps for AI in Medical Imaging The development of Artificial Intelligence (AI) for medical imaging is a complex task, with unique challenges and   stringent regulatory requirements. In particular, the development process of the model should be transparent and traceable, with a clear understanding of why a specific model and/or data configuration was selected. Machine …\n  MLOps for AI in Medical Imaging Read More »\nThe post MLOps for AI in Medical Imaging appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/mlops-for-ai-in-medical-imaging/",
-          "publishedOn": "2025-12-08T18:39:08.000Z",
-          "wordCount": null,
-          "title": "MLOps for AI in Medical Imaging",
-          "imageUrl": null
         }
       ]
     },
@@ -2574,6 +2533,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/netomi",
+          "author": null,
+          "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+          "link": "https://openai.com/index/netomi",
+          "publishedOn": "2026-01-08T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/openai-for-healthcare",
+          "author": null,
+          "description": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+          "link": "https://openai.com/index/openai-for-healthcare",
+          "publishedOn": "2026-01-08T12:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI for Healthcare",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/tolan",
           "author": null,
@@ -2852,56 +2831,6 @@
           "publishedOn": "2025-12-09T16:00:00.000Z",
           "wordCount": null,
           "title": "How Scout24 is building the next generation of real-estate search with AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/agentic-ai-foundation",
-          "author": null,
-          "description": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
-          "link": "https://openai.com/index/agentic-ai-foundation",
-          "publishedOn": "2025-12-09T09:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-certificate-courses",
-          "author": null,
-          "description": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
-          "link": "https://openai.com/index/openai-certificate-courses",
-          "publishedOn": "2025-12-09T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Launching our first OpenAI Certifications courses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/deutsche-telekom-collaboration",
-          "author": null,
-          "description": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
-          "link": "https://openai.com/index/deutsche-telekom-collaboration",
-          "publishedOn": "2025-12-09T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-appoints-denise-dresser",
-          "author": null,
-          "description": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
-          "link": "https://openai.com/index/openai-appoints-denise-dresser",
-          "publishedOn": "2025-12-09T00:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/commonwealth-bank-of-australia",
-          "author": null,
-          "description": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
-          "link": "https://openai.com/index/commonwealth-bank-of-australia",
-          "publishedOn": "2025-12-09T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Building AI fluency at scale with ChatGPT Enterprise",
           "imageUrl": null
         }
       ]
@@ -3342,36 +3271,6 @@
           "publishedOn": "2025-12-09T18:37:28.000Z",
           "wordCount": null,
           "title": "Auditing Games for Sandbagging [paper]",
-          "imageUrl": null
-        },
-        {
-          "id": "xw8P8H4TRaTQHJnoP",
-          "author": "Steve Byrnes",
-          "description": "Published on December 8, 2025 7:15 PM GMT\n\nIn the companion post We need a field of Reward Function Design, I implore researchers to think about what RL reward functions (if any) will lead to RL agents that are not ruthless power-seeking consequentialists. And I further suggested that human social instincts constitutes an intriguing example we should study, since they seem to be an existence proof that such reward functions exist. So what is the general principle of Reward Function Design that underlies the non-ruthless (“ruthful”??) properties of human social instincts? And whatever that general principle is, can we apply it to future RL agent AGIs?\nI don’t have all the answers, but I think I’ve made some progress, and the goal of this post is to make it easier for others to get up to spe…",
-          "link": "https://www.alignmentforum.org/posts/xw8P8H4TRaTQHJnoP/reward-function-design-a-starter-pack",
-          "publishedOn": "2025-12-08T19:15:39.000Z",
-          "wordCount": null,
-          "title": "Reward Function Design: a starter pack",
-          "imageUrl": null
-        },
-        {
-          "id": "oxvnREntu82tffkYW",
-          "author": "Steve Byrnes",
-          "description": "Published on December 8, 2025 7:15 PM GMT\n\n(Brief pitch for a general audience, based on a 5-minute talk I gave.)\nLet’s talk about Reinforcement Learning (RL) agents as a possible path to Artificial General Intelligence (AGI)\nMy research focuses on “RL agents”, broadly construed. These were big in the 2010s—they made the news for learning to play Atari games, and Go, at superhuman level. Then LLMs came along in the 2020s, and everyone kinda forgot that RL agents existed. But I’m part of a small group of researchers who still thinks that the field will pivot back to RL agents, one of these days. (Others in this category include Yann LeCun and Rich Sutton & David Silver.)\nWhy do I think that? Well, LLMs are very impressive, but we don’t have AGI (artificial general intelligence) yet—not as I…",
-          "link": "https://www.alignmentforum.org/posts/oxvnREntu82tffkYW/we-need-a-field-of-reward-function-design",
-          "publishedOn": "2025-12-08T19:15:35.000Z",
-          "wordCount": null,
-          "title": "We need a field of Reward Function Design",
-          "imageUrl": null
-        },
-        {
-          "id": "k7wfo2fk4bipK7mfH",
-          "author": "David Africa",
-          "description": "Published on December 8, 2025 4:03 PM GMT\n\nTL;DR: We formalized and empirically demonstrated wireheading in Llama-3.1-8B and Mistral-7B. Specifically, we use a formalization of wireheading (using a POMDP) to show conditions under which wireheading (manipulating the reward channel) becomes the dominant strategy over task learning. When models are allowed to self-evaluate and that evaluation controls their reward, they learn to inflate their grades (scoring perfect 10s) while ignoring the actual task, which we validate in three tasks in an online RL setting. Decoupling the reward signal mostly fixes this for current models, but there are some future risks here.\nLink to paper: https://www.arxiv.org/abs/2511.23092 \nCode: https://github.com/DavidDemitriAfrica/llm-wireheading-experiment\nSelf-eva…",
-          "link": "https://www.alignmentforum.org/posts/k7wfo2fk4bipK7mfH/paper-does-self-evaluation-enable-wireheading-in-language",
-          "publishedOn": "2025-12-08T16:03:06.000Z",
-          "wordCount": null,
-          "title": "[Paper] Does Self-Evaluation Enable Wireheading in Language Models?",
           "imageUrl": null
         }
       ]
