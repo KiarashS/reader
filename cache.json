@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608109",
+          "author": "Moulik Gupta",
+          "description": "Achieving infinite context with 114× less memory\nThe post How LLMs Handle Infinite Context With Finite Memory appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/",
+          "publishedOn": "2026-01-09T16:30:00.000Z",
+          "wordCount": 4640,
+          "title": "How LLMs Handle Infinite Context With Finite Memory",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/wmremove-transformed-1-scaled-1-1024x565.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608107",
+          "author": "Chinmay Kakatkar",
+          "description": "Hands-on walkthroughs of problems and solution approaches that power real‑world data science use cases\nThe post Data Science Spotlight: Selected Problems from Advent of Code 2025 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/",
+          "publishedOn": "2026-01-09T15:00:00.000Z",
+          "wordCount": 6556,
+          "title": "Data Science Spotlight: Selected Problems from Advent of Code 2025",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/julia-taubitz-kjNKRMJr0pk-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608105",
+          "author": "Gustavo Santos",
+          "description": "Forget stiff lines and wild polynomials. Discover why Splines are the \"Goldilocks\" of feature engineering, offering the perfect balance of flexibility and discipline for non-linear data using Scikit-Learn’s SplineTransformer.\nThe post Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/",
+          "publishedOn": "2026-01-09T13:30:00.000Z",
+          "wordCount": 4097,
+          "title": "Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/SplineTransformer_gemini.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608102",
+          "author": "Carlos Redondo",
+          "description": "And why Fourier features change everything\nThe post Teaching a Neural Network the Mandelbrot Set appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/",
+          "publishedOn": "2026-01-09T12:00:00.000Z",
+          "wordCount": 4703,
+          "title": "Teaching a Neural Network the Mandelbrot Set",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/final_4k-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608125",
+          "author": "TDS Editors",
+          "description": "Don't miss our most popular articles of the previous month\nThe post TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/",
+          "publishedOn": "2026-01-08T17:13:00.000Z",
+          "wordCount": 3370,
+          "title": "TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/mario-verduzco-BrezDFrGvfU-unsplash.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608100",
           "author": "Mariya Mansurova",
           "description": "Using ACE to create self-improving LLM workflows and structured playbooks\nThe post Beyond Prompting: The Power of Context Engineering appeared first on Towards Data Science.",
@@ -1015,56 +1065,6 @@
           "wordCount": 4189,
           "title": "Don’t Build an ML Portfolio Without These Projects",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Egor-3rd-Thumbnail.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607814",
-          "author": "Chaim Rand",
-          "description": "Tips for accelerating AI/ML on CPU — Part 2\nThe post Optimizing PyTorch Model Inference on AWS Graviton appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimizing-pytorch-model-inference-on-aws-graviton/",
-          "publishedOn": "2025-12-10T12:00:00.000Z",
-          "wordCount": 4796,
-          "title": "Optimizing PyTorch Model Inference on AWS Graviton",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/1-4-scaled-copy.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607869",
-          "author": "angela shi",
-          "description": "In this article, we explore LOF through three simple steps: distances and neighbors, reachability distances, and the final LOF score. Using tiny datasets, we see how two anomalies can look obvious to us but completely different to different algorithms. This reveals the key idea of unsupervised learning: there is no single “true” outlier, only definitions. Understanding these definitions is the real skill.\nThe post The Machine Learning “Advent Calendar” Day 9: LOF in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-9-lof-in-excel/",
-          "publishedOn": "2025-12-09T17:45:00.000Z",
-          "wordCount": 4153,
-          "title": "The Machine Learning “Advent Calendar” Day 9: LOF in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Capture-decran-2025-12-09-a-02.33.30.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607863",
-          "author": "Mike Huls",
-          "description": "Build a self-hosted, end-to-end platform that gives each user a personal, agentic chatbot that can autonomously vector-search through files that the user explicitly allows it to access. \nThe post Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/personal-agentic-assistants-a-practical-blueprint-for-a-secure-multi-user-self-hosted-chatbot/",
-          "publishedOn": "2025-12-09T16:30:00.000Z",
-          "wordCount": 4625,
-          "title": "Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/agents.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607861",
-          "author": "Anna Via",
-          "description": "From idea to impact :  using AI as your accelerating copilot\nThe post How to Develop AI-Powered Solutions, Accelerated by AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-develop-ai-powered-solutions-accelerated-by-ai/",
-          "publishedOn": "2025-12-09T15:00:00.000Z",
-          "wordCount": 4816,
-          "title": "How to Develop AI-Powered Solutions, Accelerated by AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Captura-de-pantalla-2025-12-07-a-las-10.45.01.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607859",
-          "author": "Partha Sarkar",
-          "description": "Smarter retrieval strategies that outperform dense graphs — with hybrid pipelines and lower cost\nThe post GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/graphrag-in-practice-how-to-build-cost-efficient-high-recall-retrieval-systems/",
-          "publishedOn": "2025-12-09T13:30:00.000Z",
-          "wordCount": 5541,
-          "title": "GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Copilot_20251206_112042.jpg"
         }
       ]
     },
@@ -1314,21 +1314,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/12/93519304-1882-4974-B102-BC35714AC2A1.png"
-        },
-        {
-          "id": "https://blog.ml.cmu.edu/?p=20993",
-          "author": "Luke Guerdan",
-          "description": "Figure 1: Our framework for validating LLM-as-a-judge systems under rating indeterminacy, where items in a subjective rating task can have multiple “correct” ratings. Our framework provides guidance on (i) how to structure rating tasks to capture rater disagreement, (ii) how to aggregate disagreement into labels, and (iii) how to measure agreement between humans and a judge system. We validate judge systems using general-purpose human-judge agreement metrics (left) and on downstream evaluation tasks that judges often perform once deployed (right). The LLM-as-a-judge paradigm, where a judge GenAI system rates the outputs of a target GenAI system, is becoming a standard approach for scaling up evaluation workflows. This approach is often used when evaluating subjective properties that cannot be checked through code-based evaluators, such as helpfulness, relevance, sycophancy, toxicity, or factual consistency. As judge systems become more widely deployed, it is critical to validate that they produce trustworthy evaluations—a process commonly referred to as meta-evaluation. A major challenge when validating judge systems for these subjective rating tasks is rating indeterminacy: cases where more than one rating can be “correct” depending on how a rater interprets the instructions. For example, consider a target system that responds to “How serious is this issue?” with “That’s […]",
-          "link": "https://blog.ml.cmu.edu/2025/12/09/validating-llm-as-a-judge-systems-under-rating-indeterminacy/",
-          "publishedOn": "2025-12-09T19:09:48.000Z",
-          "wordCount": 3889,
-          "title": "Validating LLM-as-a-Judge Systems under Rating Indeterminacy",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/validation_pipeline-1.png",
-            "length": "955202",
-            "type": "image/png"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2025/11/validation_pipeline-1.png"
         }
       ]
     },
@@ -1470,16 +1455,6 @@
           "wordCount": 2545,
           "title": "Codex is Open Sourcing AI models",
           "imageUrl": "https://huggingface.co/blog/assets/hf-skills-training/thumbnail-codex.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
-          "author": null,
-          "description": "A Blog post by ServiceNow-AI on Hugging Face",
-          "link": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
-          "publishedOn": "2025-12-09T20:06:56.000Z",
-          "wordCount": 2002,
-          "title": "Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/apriel-1p6-15b-thinker.png"
         }
       ]
     },
@@ -1513,16 +1488,6 @@
           "wordCount": 3981,
           "title": "Promptions helps make AI prompting more precise with dynamic UI controls",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/Promptions-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
-          "author": "Hoifung Poon, Jeya Maria Jose Valanarasu, Naoto Usuyama, Sheng Wang",
-          "description": "Using AI-generated virtual populations, Microsoft researchers uncovered hidden cellular patterns that could reshape how we understand and treat cancer. \nThe post GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
-          "publishedOn": "2025-12-09T16:00:00.000Z",
-          "wordCount": 4676,
-          "title": "GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/GigaTime-TWLIFB-1200x627-2.jpg"
         }
       ]
     },
@@ -1753,21 +1718,6 @@
           "wordCount": 13638,
           "title": "The Existential Problems in LLM Serving",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/12/Existential_Problems_in_Model_Serving.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=77659",
-          "author": "Shubham",
-          "description": "SAM 3D is Meta’s groundbreaking foundation model for reconstructing full 3D shape, texture, and object layout from a single natural image. Learn how it works.\nSAM 3D: Foundation Model for Single-Image 3D Reconstruction first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/sam-3d/",
-          "publishedOn": "2025-12-09T14:00:00.000Z",
-          "wordCount": 13898,
-          "title": "SAM 3D: Foundation Model for Single-Image 3D Reconstruction",
-          "enclosure": {
-            "url": "https://learnopencv.com/wp-content/uploads/2025/12/SAM-3D-Foundation-Model_V3.mp4",
-            "length": "13516545",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/12/SAM_3D_Foundation_Model_for_Single_Image_3D_Reconstruction.jpg"
         }
       ]
     },
@@ -1863,6 +1813,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249444",
+          "author": "Riya Bansal.",
+          "description": "Retrieval-Augmented Generation (RAG) technology almost immediately became the standard in intelligent applications. This was a result of the quickly developing field of artificial intelligence that combined large language models and external knowledge bases with different real-time access methods. RAG implementation of the traditional kind poses major difficulties: complex vector database setups, intricate embedding pathways, orchestration […]\nThe post NyRAG: Building Production-Ready RAG Applications with Zero Code appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/nyrag-building-rag-applications-with-zero-code/",
+          "publishedOn": "2026-01-09T13:31:28.000Z",
+          "wordCount": null,
+          "title": "NyRAG: Building Production-Ready RAG Applications with Zero Code",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249385",
           "author": "Sarthak Dogra",
@@ -2467,17 +2428,6 @@
           "title": "LlamaExtract: Streamline Data Extraction from Any Document",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247648",
-          "author": "Sarthak Dogra",
-          "description": "The race for the “best AI model” goes on, as Z.ai is the latest one to mark its entry with a new and evolved model. Calling it the GLM-4.6V, Z.ai has focused on visual cues and representation with this one. And hence the “V” at the end of its name that resembles the existing flagship […]\nThe post Z.ai Reveals New GLM-4.6V: Should You Use it? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/z-ai-glm-4-6v/",
-          "publishedOn": "2025-12-09T18:07:25.000Z",
-          "wordCount": null,
-          "title": "Z.ai Reveals New GLM-4.6V: Should You Use it?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2533,6 +2483,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/stargate-sb-energy-partnership",
+          "author": null,
+          "description": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+          "link": "https://openai.com/index/stargate-sb-energy-partnership",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI and SoftBank Group partner with SB Energy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/datadog",
+          "author": null,
+          "description": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+          "link": "https://openai.com/index/datadog",
+          "publishedOn": "2026-01-09T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Datadog uses Codex for system-level code review",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/netomi",
           "author": null,
@@ -2812,26 +2782,6 @@
           "wordCount": null,
           "title": "Increasing revenue 300% by bringing AI to SMBs",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/strengthening-cyber-resilience",
-          "author": null,
-          "description": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
-          "link": "https://openai.com/index/strengthening-cyber-resilience",
-          "publishedOn": "2025-12-10T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Strengthening cyber resilience as AI capabilities advance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/scout24",
-          "author": null,
-          "description": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
-          "link": "https://openai.com/index/scout24",
-          "publishedOn": "2025-12-09T16:00:00.000Z",
-          "wordCount": null,
-          "title": "How Scout24 is building the next generation of real-estate search with AI",
-          "imageUrl": null
         }
       ]
     },
@@ -2840,6 +2790,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/claude-code-hits-different",
+          "author": "Nathan Lambert",
+          "description": "Coding agents cross a meaningful threshold with Opus 4.5.",
+          "link": "https://www.interconnects.ai/p/claude-code-hits-different",
+          "publishedOn": "2026-01-09T17:42:09.000Z",
+          "wordCount": null,
+          "title": "Claude Code Hits Different",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Hej0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05a7d574-6449-4880-8331-cb5ce753b489_3008x2036.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Hej0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05a7d574-6449-4880-8331-cb5ce753b489_3008x2036.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/8-plots-that-explain-the-state-of",
           "author": "Nathan Lambert",
@@ -2961,6 +2927,16 @@
           "publishedOn": "2026-01-06T17:30:27.000Z",
           "wordCount": null,
           "title": "How hard is it to inoculate against misalignment generalization?",
+          "imageUrl": null
+        },
+        {
+          "id": "gpyqWzWYADWmLYLeX",
+          "author": "Nicholas Andresen",
+          "description": "Published on January 6, 2026 4:31 PM GMT\n\nOn Thinkish, Neuralese, and the End of Readable Reasoning\n\nIn September 2025, researchers published the internal monologue of OpenAI’s GPT-o3 as it decided to lie about scientific data. This is what it thought:\n\nPardon? This looks like someone had a stroke during a meeting they didn’t want to be in, but their hand kept taking notes.\nThat transcript comes from a recent paper published by researchers at Apollo Research and OpenAI on catching AI systems scheming. To understand what’s happening here - and why one of the most sophisticated AI systems in the world is babbling about “synergy customizing illusions” - it first helps to know how we ended up being able to read AI thinking in the first place.\nThat story starts, of all places, on 4chan.\n\nIn lat…",
+          "link": "https://www.alignmentforum.org/posts/gpyqWzWYADWmLYLeX/how-ai-is-learning-to-think-in-secret",
+          "publishedOn": "2026-01-06T16:31:26.000Z",
+          "wordCount": null,
+          "title": "How AI Is Learning to Think in Secret",
           "imageUrl": null
         },
         {
@@ -3261,16 +3237,6 @@
           "publishedOn": "2025-12-10T18:54:24.000Z",
           "wordCount": null,
           "title": "Evaluation as a (Cooperation-Enabling?) Tool",
-          "imageUrl": null
-        },
-        {
-          "id": "QMLwKemqMDATkkjJG",
-          "author": "Jordan Taylor",
-          "description": "Published on December 9, 2025 6:37 PM GMT\n\nJordan Taylor, Sid Black, Dillon Bowen, Thomas Read, Satvik Golechha, Alex Zelenka-Martin, Oliver Makins, Connor Kissane, Kola Ayonrinde, Jacob Merizian, Samuel Marks, Chris Cundy, Joseph Bloom\nUK AI Security Institute, FAR.AI, Anthropic\nLinks: Paper | Code | Models | Transcripts | Interactive Demo\nEpistemic Status: We're sharing our paper and a hastily written summary of it, assuming a higher level of context on sandbagging / auditing games than other materials. We also share some informal commentary on our results. This post was written by Jordan and Joseph, and may not reflect the views of all authors. \nThis summary diverges from the paper, condensing heavily while adding our additional commentary. The limitations and future work sections are e…",
-          "link": "https://www.alignmentforum.org/posts/QMLwKemqMDATkkjJG/auditing-games-for-sandbagging-paper",
-          "publishedOn": "2025-12-09T18:37:28.000Z",
-          "wordCount": null,
-          "title": "Auditing Games for Sandbagging [paper]",
           "imageUrl": null
         }
       ]
