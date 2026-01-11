@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608113",
+          "author": "Parul Pandey",
+          "description": "Understanding the foundations of federated learning\nThe post Federated Learning, Part 1: The Basics of Training Models Where the Data Lives appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/",
+          "publishedOn": "2026-01-10T15:00:00.000Z",
+          "wordCount": 4511,
+          "title": "Federated Learning, Part 1: The Basics of Training Models Where the Data Lives",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Untitled-Diagram-17.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608111",
+          "author": "Ibrahim Salami",
+          "description": "A step-by-step journey through data transformation, star schema modeling, and DAX variance analysis with lessons learned along the way.\nThe post Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-the-flat-table-building-an-enterprise-grade-financial-model-in-power-bi/",
+          "publishedOn": "2026-01-10T13:00:00.000Z",
+          "wordCount": 4952,
+          "title": "Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/data-modeling-img-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608109",
           "author": "Moulik Gupta",
           "description": "Achieving infinite context with 114× less memory\nThe post How LLMs Handle Infinite Context With Finite Memory appeared first on Towards Data Science.",
@@ -1015,56 +1035,6 @@
           "wordCount": 4368,
           "title": "Drawing Shapes with the Python Turtle Module",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/t1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607878",
-          "author": "Benjamin Nweke",
-          "description": "What I've learned about making Pandas faster after too many slow notebooks and frozen sessions\nThe post 7 Pandas Performance Tricks Every Data Scientist Should Know appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/7-pandas-performance-tricks-every-data-scientist-should-know/",
-          "publishedOn": "2025-12-11T13:30:00.000Z",
-          "wordCount": 4455,
-          "title": "7 Pandas Performance Tricks Every Data Scientist Should Know",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/jackson-sophat-_t-l5FFH8VA-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607875",
-          "author": "Kenneth Leung",
-          "description": "Understanding how LLM agents transfer control to each other in a multi-agent system with LangGraph\nThe post How Agent Handoffs Work in Multi-Agent Systems appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/",
-          "publishedOn": "2025-12-11T12:00:00.000Z",
-          "wordCount": 4501,
-          "title": "How Agent Handoffs Work in Multi-Agent Systems",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/diagram.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607882",
-          "author": "angela shi",
-          "description": "DBSCAN shows how far we can go with a very simple idea: count how many neighbors live close to each point.\nThe post The Machine Learning “Advent Calendar” Day 10: DBSCAN in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-10-dbscan-in-excel/",
-          "publishedOn": "2025-12-10T16:30:00.000Z",
-          "wordCount": 3864,
-          "title": "The Machine Learning “Advent Calendar” Day 10: DBSCAN in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Capture-decran-2025-12-10-a-02.10.45.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607873",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to become an effective engineer with continual learning LLMs\nThe post How to Maximize Agentic Memory for Continual Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-maximize-agentic-memory-for-continual-learning/",
-          "publishedOn": "2025-12-10T15:00:00.000Z",
-          "wordCount": 4101,
-          "title": "How to Maximize Agentic Memory for Continual Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-98.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607871",
-          "author": "Egor Howell",
-          "description": "What recruiters are looking for in machine learning portfolios\nThe post Don’t Build an ML Portfolio Without These Projects appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/dont-build-an-ml-portfolio-without-these-projects/",
-          "publishedOn": "2025-12-10T13:30:00.000Z",
-          "wordCount": 4189,
-          "title": "Don’t Build an ML Portfolio Without These Projects",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Egor-3rd-Thumbnail.jpg"
         }
       ]
     },
@@ -1445,16 +1415,6 @@
           "wordCount": 631,
           "title": "New in llama.cpp: Model Management",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/wGWbyTyYFKKGDMaAnTz7M.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/hf-skills-training-codex",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/hf-skills-training-codex",
-          "publishedOn": "2025-12-11T00:00:00.000Z",
-          "wordCount": 2545,
-          "title": "Codex is Open Sourcing AI models",
-          "imageUrl": "https://huggingface.co/blog/assets/hf-skills-training/thumbnail-codex.png"
         }
       ]
     },
@@ -1478,16 +1438,6 @@
           "wordCount": 3990,
           "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/AgentLightning-TWLIFB-1200x627_NEW.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1157824",
-          "author": "Sean Rintel, Advait Sarkar, Jack Williams, Nicholas Wilson, Richard Banks, Neeltje Berger, Philipp Steinacher, Payod Panda, Ian Drosos",
-          "description": "Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape outputs quickly without writing long instructions.\nThe post Promptions helps make AI prompting more precise with dynamic UI controls appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/",
-          "publishedOn": "2025-12-10T17:00:00.000Z",
-          "wordCount": 3981,
-          "title": "Promptions helps make AI prompting more precise with dynamic UI controls",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/Promptions-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1775,36 +1725,6 @@
           "wordCount": 2305,
           "title": "AI-Powered Sourcing for Medical AI: How iMerit’s Healthcare Scholars Combine Skill and Precision",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/Feature-IMG-AI-Powered-Sourcing-for-Medical-AI-How-iMerits-Healthcare-Scholars-Combine-Skill-and-Precision-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=31840",
-          "author": "Inkline Admin",
-          "description": "Top medical expert annotation services in 2026 to help build accurate, compliant, and clinically reliable healthcare AI.\nThe post Top Medical Expert Annotation Service Providers in 2026 appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/top-medical-expert-annotation-service-providers-in-2026/",
-          "publishedOn": "2025-12-10T21:27:17.000Z",
-          "wordCount": 1861,
-          "title": "Top Medical Expert Annotation Service Providers in 2026",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/Feature-IMG-Top-Medical-Expert-Annotation-Service-Providers-in-2026-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=31784",
-          "author": "Inkline Admin",
-          "description": "Explore the leading data and annotation providers for medical summarization models in 2025. Compare capabilities like specialty expertise, multilingual support, and compliance. Learn why iMerit is the trusted partner for clinical-grade summarization AI.\nThe post Top Annotation & Validation Services for Regulatory-Grade Medical AI (2026) appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/top-annotation-validation-services-for-regulatory-grade-medical-ai-2026/",
-          "publishedOn": "2025-12-10T16:54:39.000Z",
-          "wordCount": 1899,
-          "title": "Top Annotation & Validation Services for Regulatory-Grade Medical AI (2026)",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/Feature-IMG-Top-Annotation-Validation-Services-for-Regulatory-Grade-Medical-AI-2026-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=31778",
-          "author": "Inkline Admin",
-          "description": "MedTech AI teams face hidden data and documentation hurdles in FDA and MDR approval. Learn how iMerit helps build audit-ready, compliant workflows.\nThe post From Data to Documentation: Solving the Hidden Challenges of Regulatory AI in MedTech appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/from-data-to-documentation-solving-the-hidden-challenges-of-regulatory-ai-in-medtech/",
-          "publishedOn": "2025-12-10T16:30:47.000Z",
-          "wordCount": 1993,
-          "title": "From Data to Documentation: Solving the Hidden Challenges of Regulatory AI in MedTech",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/Feature-IMG-From-Data-to-Documentation-Solving-the-Hidden-Challenges-of-Regulatory-AI-in-MedTech-scaled.jpg"
         }
       ]
     },
@@ -1813,6 +1733,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249468",
+          "author": "Sarthak Dogra",
+          "description": "AI is taking over the world. If you don’t agree to this, you need to have a look at the latest technologies presented at one of the biggest annual technology events – the CES 2026. Consumer Electronics Show, which takes place in Las Vegas, US, every year, brings forward the best of technologies being pursued […]\nThe post CES 2026: 17 AI Reveals That Will Blow Your Mind appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/ces-2026-top-ai-reveals/",
+          "publishedOn": "2026-01-10T08:53:53.000Z",
+          "wordCount": null,
+          "title": "CES 2026: 17 AI Reveals That Will Blow Your Mind",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249332",
+          "author": "Nitika Sharma",
+          "description": "If you’re curious about trending terms like AI Agents or Agentic AI, you’re in the right place. Agentic AI is rapidly moving from experimentation to enterprise adoption. According to Gartner, over 60% of enterprise AI applications are expected to include agentic components by 2026, while more than 40% of early agentic AI projects are projected to be abandoned due to poor architecture, cost overruns, and lack of […]\nThe post Agentic AI Learning Path 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/agentic-ai-expert-learning-path/",
+          "publishedOn": "2026-01-10T08:39:22.000Z",
+          "wordCount": null,
+          "title": "Agentic AI Learning Path 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249444",
           "author": "Riya Bansal.",
@@ -2384,50 +2326,6 @@
           "title": "What is SoftPlus Activation Function?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247614",
-          "author": "Harsh Mishra",
-          "description": "OpenAI models have evolved drastically over the past few years. The journey began with GPT-3.5 and has now reached GPT-5.1 and the newer o-series reasoning models. While ChatGPT uses GPT-5.1 as its primary model, the API gives you access to many more options that are designed for different kinds of tasks. Some models are optimized […]\nThe post Guide to OpenAI API Models and How to Use Them appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/openai-api-models/",
-          "publishedOn": "2025-12-11T06:35:42.000Z",
-          "wordCount": null,
-          "title": "Guide to OpenAI API Models and How to Use Them",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247732",
-          "author": "Riya Bansal",
-          "description": "Mistral AI’s latest announcement introduces DevStral 2 (123B parameters), DevStral Small 2 (24B), and the Mistral Vibe CLI, a terminal-native coding assistant built for agentic coding tasks. Both models are fully open source and tuned for production workflows, while the new Vibe CLI brings project-aware editing, code search, version control, and execution directly into the […]\nThe post All About Mistral’s DevStral 2, DevStral Small & Vibe CLI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/mistral-devstral-2-and-vibe-cli/",
-          "publishedOn": "2025-12-10T19:14:02.000Z",
-          "wordCount": null,
-          "title": "All About Mistral’s DevStral 2, DevStral Small & Vibe CLI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247645",
-          "author": "Janvi Kumari",
-          "description": "The majority of people build machine learning models in an experimental or research setting, which is appropriate for exploration. It is not until you start to deploy it within real applications that you’ll see the actual value, for instance, a web application requesting predictions from your model, or a backend application needing to make real-time […]\nThe post Building and Deploying a Machine Learning Model Using FastAPI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/fastapi-machine-learning-deployment/",
-          "publishedOn": "2025-12-10T14:24:04.000Z",
-          "wordCount": null,
-          "title": "Building and Deploying a Machine Learning Model Using FastAPI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247692",
-          "author": "Janvi Kumari",
-          "description": "A lot of teams drown in scattered PDFs, scans, and odd-looking documents, trying to pull out the bits of information they actually need. LlamaExtract is here to their rescue. You upload your files, tell it what structure you want, and it hands back neat JSON that fits your schema. It works through a web app, […]\nThe post LlamaExtract: Streamline Data Extraction from Any Document appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/llamaextract/",
-          "publishedOn": "2025-12-10T14:21:23.000Z",
-          "wordCount": null,
-          "title": "LlamaExtract: Streamline Data Extraction from Any Document",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2722,66 +2620,6 @@
           "wordCount": null,
           "title": "How We Used Codex to Ship Sora for Android in 28 Days",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-2-for-science-and-math",
-          "author": null,
-          "description": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
-          "link": "https://openai.com/index/gpt-5-2-for-science-and-math",
-          "publishedOn": "2025-12-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Advancing science and math with GPT-5.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ten-years",
-          "author": null,
-          "description": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
-          "link": "https://openai.com/index/ten-years",
-          "publishedOn": "2025-12-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Ten years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-gpt-5-2",
-          "author": null,
-          "description": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
-          "link": "https://openai.com/index/introducing-gpt-5-2",
-          "publishedOn": "2025-12-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GPT-5.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/disney-sora-agreement",
-          "author": null,
-          "description": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
-          "link": "https://openai.com/index/disney-sora-agreement",
-          "publishedOn": "2025-12-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-          "author": null,
-          "description": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
-          "link": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-          "publishedOn": "2025-12-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Update to GPT-5 System Card: GPT-5.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/podium",
-          "author": null,
-          "description": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
-          "link": "https://openai.com/index/podium",
-          "publishedOn": "2025-12-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Increasing revenue 300% by bringing AI to SMBs",
-          "imageUrl": null
         }
       ]
     },
@@ -2885,22 +2723,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!v3tx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ed6b1e9-849f-4026-83a0-4ea18786d6a1_1024x560.jpeg"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/building-olmo-3-think",
-          "author": "Nathan Lambert",
-          "description": "Re-recording my NeurIPS talks in one mega-take.",
-          "link": "https://www.interconnects.ai/p/building-olmo-3-think",
-          "publishedOn": "2025-12-10T19:33:22.000Z",
-          "wordCount": null,
-          "title": "New Talk: Building Olmo 3 Think",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/181258091/d6d2a76a5625ce29eac3aa04c55c3d31.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -3227,16 +3049,6 @@
           "publishedOn": "2025-12-11T17:05:30.000Z",
           "wordCount": null,
           "title": "My AGI safety research—2025 review, ’26 plans",
-          "imageUrl": null
-        },
-        {
-          "id": "BExKr5kR9RX7ot9iw",
-          "author": "Vojtech Kovarik",
-          "description": "Published on December 10, 2025 6:54 PM GMT\n\nKey points:\n0. Advertisement:  We have an IMO-nice position paper which argues that AI Testing Should Account for Sophisticated Strategic Behaviour, and that we should think about evaluation (also) through game-theoretic lens. (See this footnote for an example: [1].) Tell your friends!\nOn framing evaluation as one of many tools:\n1. One of many tools: When looking at the game theory of evaluations, recognise that evaluation (or testing, simulation, verification, ...[2]) is just one of many tools available for achieving good outcomes. We also have commitments, repeated interactions, reputation tracking, penalties & subsidies, etc. And these tools interact.\n2. Much less useful on its own: We only get the full benefit of being able to evaluate if we …",
-          "link": "https://www.alignmentforum.org/posts/BExKr5kR9RX7ot9iw/evaluation-as-a-cooperation-enabling-tool",
-          "publishedOn": "2025-12-10T18:54:24.000Z",
-          "wordCount": null,
-          "title": "Evaluation as a (Cooperation-Enabling?) Tool",
           "imageUrl": null
         }
       ]
