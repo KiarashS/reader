@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-01-12T01:29:33.674Z</updated>
+    <updated>2026-01-13T01:22:58.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brief Explorations in LLM Value Rankings]]></title>
+        <id>k6HKzwqCY4wKncRkM</id>
+        <link href="https://www.alignmentforum.org/posts/k6HKzwqCY4wKncRkM/brief-explorations-in-llm-value-rankings"/>
+        <updated>2026-01-12T18:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 12, 2026 6:16 PM GMT
+
+Code and data can be found here
+Executive Summary
+
+We use data from Zhang et al. (2025) to measure LLM values. We find that our value metric can sometimes predict LLM behaviors on a test distribution in non-safety-relevant settings, but it is not super consistent.
+In Zhang et al. (2025), "Stress testing model specs reveals character differences among language models," the authors generated a dataset of 43,960 chat questions. Each question gives LLMs a chance to express two different values, and an autograder scores how much the model expresses each value.
+There are 3,302 values in the dataset, created based on what Claude expresses in the wild from Huang et al. (2025). Some examples are "dramatic craft," "structured evaluation," "self-preservation…]]></summary>
+        <author>
+            <name>Tim Hua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Universal Commerce Protocol (UCP) with AI Agents?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249638</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/universal-commerce-protocol-by-google/"/>
+        <updated>2026-01-12T18:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Agentic browsing is quickly becoming mainstream. People don’t just want AI agents to research products anymore. They want agents to actually buy things for them: compare options, place orders, handle payments, and complete the entire transaction. That’s where things started to break. Today’s commerce stack is fragmented. Every merchant, platform, and payment provider uses proprietary integrations. So even […]
+The post How to Integrate Universal Commerce Protocol (UCP) with AI Agents? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical challenges of control monitoring in frontier AI deployments]]></title>
+        <id>oXSAYrogo8cfBeFhP</id>
+        <link href="https://www.alignmentforum.org/posts/oXSAYrogo8cfBeFhP/practical-challenges-of-control-monitoring-in-frontier-ai"/>
+        <updated>2026-01-12T16:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 12, 2026 4:45 PM GMT
+
+TL;DR: We wrote a safety case sketch for control monitoring taking into account complexities of practical deployments.
+This work was a collaboration between Google DeepMind and the UK AI Security Institute. Full author list: David Lindner*, Charlie Griffin*, Tomek Korbak, Roland S. Zimmermann, Geoffrey Irving, Sebastian Farquhar, Alan Cooney. Read the full paper here and the tweet thread here.
+
+Real deployments are full of complexities that prior work abstracts away:
+
+ many agent instances
+human oversight can take long
+attacks can make incremental progress
+incriminating agents is difficult
+
+Our paper explicitly addresses these.
+ 
+We look at 3 types of monitoring: asynchronous (offline), semi-synchronous (blocking individual instances) and fully-synchronous (blocking entire agent deployment). These give increasing levels of safety but at sharply increasing latency cost.
+
+ 
+We present a safety case sketch that identifies 3 important safety conditions: (1) ability to detect scheming (oversight) (2) ability to do so fast enough (latency) and (3) ability to prevent harm and revert partial attack progress. We need to ensure all of them to get safety!
+
+ 
+We apply the argument to a set of case studies and find that asynchronous monitoring is promising for some but not all threat models and semi-synchronous monitoring can get us further. Monitoring is promising but should only be one part of an overall AI control strategy.
+
+Discuss]]></summary>
+        <author>
+            <name>David Lindner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Can Become Your Personal Language Tutor]]></title>
+        <id>https://towardsdatascience.com/?p=608138</id>
+        <link href="https://towardsdatascience.com/how-ai-can-become-your-personal-language-tutor/"/>
+        <updated>2026-01-12T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How I used n8n to build AI study partners for learning Mandarin: vocabulary, listening, and pronunciation correction.
+The post How AI Can Become Your Personal Language Tutor appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 90% Accuracy in Text-to-SQL is 100% Useless]]></title>
+        <id>https://towardsdatascience.com/?p=608135</id>
+        <link href="https://towardsdatascience.com/why-90-accuracy-in-text-to-sql-is-100-useless/"/>
+        <updated>2026-01-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The eternal promise of self-service analytics
+The post Why 90% Accuracy in Text-to-SQL is 100% Useless appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gary Zavaleta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Does Adding Fancy RAG Features Work?]]></title>
+        <id>https://towardsdatascience.com/?p=608121</id>
+        <link href="https://towardsdatascience.com/when-does-adding-fancy-rag-features-work/"/>
+        <updated>2026-01-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking at the performance of different pipelines
+The post When Does Adding Fancy RAG Features Work? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ida Silfverskiöld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Data Transfer in Batched AI/ML Inference Workloads]]></title>
+        <id>https://towardsdatascience.com/?p=608119</id>
+        <link href="https://towardsdatascience.com/optimizing-data-transfer-in-batched-ai-ml-inference-workloads/"/>
+        <updated>2026-01-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive on data transfer bottlenecks, their identification, and their resolution with the help of NVIDIA Nsight™ Systems - part 2
+The post Optimizing Data Transfer in Batched AI/ML Inference Workloads appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chaim Rand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Model Collapse? Examples, Causes and Fixes]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249457</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/model-collapse/"/>
+        <updated>2026-01-12T11:52:23.000Z</updated>
+        <summary type="html"><![CDATA[AI systems feel smarter than ever. They answer quickly, confidently, and with polish. But beneath that surface, something subtle is going wrong. Outputs are getting safer. Ideas are getting narrower. Surprise is disappearing – less aweful.  This matters because AI is increasingly involved in how we search, decide, create, and evaluate. When these systems lose […]
+The post What is Model Collapse? Examples, Causes and Fixes appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example]]></title>
         <id>https://towardsdatascience.com/?p=608115</id>
@@ -2944,71 +3059,6 @@ The post The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regr
 The post How to Increase Coding Iteration Speed appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NeurIPS 2025 Best Paper Review: Qwen’s Systematic Exploration of Attention Gating]]></title>
-        <id>https://towardsdatascience.com/?p=607899</id>
-        <link href="https://towardsdatascience.com/neurips-2025-best-paper-review-qwens-systematic-exploration-of-attention-gating/"/>
-        <updated>2025-12-13T10:16:00.000Z</updated>
-        <summary type="html"><![CDATA[This one little trick can bring about enhanced training stability, the use of larger learning rates and improved scaling properties
-The post NeurIPS 2025 Best Paper Review: Qwen’s Systematic Exploration of Attention Gating appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel]]></title>
-        <id>https://towardsdatascience.com/?p=607901</id>
-        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/"/>
-        <updated>2025-12-12T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we rebuild Logistic Regression step by step directly in Excel.
-The post The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Power of 2D-3D Sensor Fusion Labeling for Advanced Autonomous Mobility]]></title>
-        <id>https://imerit.net/?p=19916</id>
-        <link href="https://imerit.net/resources/blog/2d-3d-sensor-fusion-labeling-to-advance-autonomous-mobility/"/>
-        <updated>2025-12-12T16:05:46.000Z</updated>
-        <summary type="html"><![CDATA[Explore the diverse sensor fusion labeling use cases to advance autonomous mobility and the benefits of outsourcing data annotation needs.
-The post Unlocking the Power of 2D-3D Sensor Fusion Labeling for Advanced Autonomous Mobility appeared first on iMerit.]]></summary>
-        <author>
-            <name>Brett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Computation: The Hidden Principle Behind Deep Learning]]></title>
-        <id>https://towardsdatascience.com/?p=607888</id>
-        <link href="https://towardsdatascience.com/the-power-of-decentralization/"/>
-        <updated>2025-12-12T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Most breakthroughs in deep learning — from simple neural networks to large language models — are built upon a principle that is much older than AI itself: decentralization. Instead of relying on a powerful “central planner” coordinating and commanding the behaviors of other components, modern deep-learning-based AI models succeed because many simple units interact locally […]
-The post Decentralized Computation: The Hidden Principle Behind Deep Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Xiaocong Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SoftPlus Activation Function?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247776</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/softplus-activation-function/"/>
-        <updated>2025-12-12T15:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Deep learning models are based on activation functions that provide non-linearity and enable networks to learn complicated patterns. This article will discuss the Softplus activation function, what it is, and how it can be used in PyTorch. Softplus can be said to be a smooth form of the popular ReLU activation, that mitigates the drawbacks […]
-The post What is SoftPlus Activation Function?  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building the International Space Station]]></title>
-        <id>fb27e7c4-d6c1-11f0-9094-8fb427f0270f</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/building-the-international-space-station"/>
-        <updated>2025-12-12T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Former ISS program manager and Axiom Space co-founder Michael Suffredini reflects on the ambitious path to building the International Space Station and the lessons learned from a decade of leadership. HWHAP 405.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
