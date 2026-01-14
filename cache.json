@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608149",
+          "author": "Thomas Reid",
+          "description": "The how, why, what and where of Amazon’s LLM access layer\nThe post An introduction to AWS Bedrock appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/an-introduction-to-aws-bedrock/",
+          "publishedOn": "2026-01-13T18:00:00.000Z",
+          "wordCount": 5304,
+          "title": "An introduction to AWS Bedrock",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-8-2026-10_03_13-AM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608147",
+          "author": "Nikola Ilic",
+          "description": "Dataflows were (rightly?) considered \"the slowest and least performant option\" for ingesting data into Power BI/Microsoft Fabric. However, things are changing rapidly and the latest Dataflow enhancements changes how we play the game\nThe post From ‘Dataslows’ to Dataflows: The Gen2 Performance Revolution in Microsoft Fabric appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-dataslows-to-dataflows-the-gen2-performance-revolution-in-microsoft-fabric/",
+          "publishedOn": "2026-01-13T16:30:00.000Z",
+          "wordCount": 4311,
+          "title": "From ‘Dataslows’ to Dataflows: The Gen2 Performance Revolution in Microsoft Fabric",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/df-main.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608145",
+          "author": "Marc Polizzi",
+          "description": "Longer summers, milder winters: analysis of temperature trends in Uzès, France, year after year.\nThe post Under the Uzès Sun: When Historical Data Reveals the Climate Change appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/under-the-uzes-sun-when-historical-data-reveals-the-climate-change/",
+          "publishedOn": "2026-01-13T15:00:00.000Z",
+          "wordCount": 4768,
+          "title": "Under the Uzès Sun: When Historical Data Reveals the Climate Change",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/apero.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608143",
+          "author": "Sudheer Singamsetty",
+          "description": "Hard lessons from building production ML systems where data leaks, defaults lie, populations shift, and time does not behave the way we expect.\nThe post Why Your ML Model Works in Training But Fails in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-your-ml-model-works-in-training-but-fails-in-production/",
+          "publishedOn": "2026-01-13T13:30:00.000Z",
+          "wordCount": 4177,
+          "title": "Why Your ML Model Works in Training But Fails in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/TDSA.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608140",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to get the most out of agentic coding\nThe post How to Maximize Claude Code Effectiveness appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-maximize-claude-code-effectiveness/",
+          "publishedOn": "2026-01-13T12:00:00.000Z",
+          "wordCount": 4333,
+          "title": "How to Maximize Claude Code Effectiveness",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-81-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608138",
           "author": "Samir Saci",
           "description": "How I used n8n to build AI study partners for learning Mandarin: vocabulary, listening, and pronunciation correction.\nThe post How AI Can Become Your Personal Language Tutor appeared first on Towards Data Science.",
@@ -995,36 +1045,6 @@
           "wordCount": 4598,
           "title": "The Skills That Bridge Technical Work and Business Impact",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Maria-Author-Spotlight-.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607903",
-          "author": "Eirik Berge",
-          "description": "Introduction If you work in data science, data engineering, or as as a frontend/backend developer, you deal with JSON. For professionals, its basically only death, taxes, and JSON-parsing that is inevitable. The issue is that parsing JSON is often a serious pain. Whether you are pulling data from a REST API, parsing logs, or reading […]\nThe post Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-writing-spaghetti-if-else-chains-parsing-json-with-pythons-match-case/",
-          "publishedOn": "2025-12-14T10:24:00.000Z",
-          "wordCount": 3871,
-          "title": "Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Gemini_Generated_Image_r7vxxrr7vxxrr7vx-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607908",
-          "author": "angela shi",
-          "description": "Ridge and Lasso regression are often perceived as more complex versions of linear regression. In reality, the prediction model remains exactly the same. What changes is the training objective. By adding a penalty on the coefficients, regularization forces the model to choose more stable solutions, especially when features are correlated. Implementing Ridge and Lasso step by step in Excel makes this idea explicit: regularization does not add complexity, it adds preference.\nThe post The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-13-lasso-and-ridge-regression-in-excel/",
-          "publishedOn": "2025-12-13T16:56:00.000Z",
-          "wordCount": 4046,
-          "title": "The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/ridge-lasso.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607895",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to become a more efficient programmer with local testing\nThe post How to Increase Coding Iteration Speed appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-increase-coding-iteration-speed/",
-          "publishedOn": "2025-12-13T13:30:00.000Z",
-          "wordCount": 4203,
-          "title": "How to Increase Coding Iteration Speed",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-146.jpg"
         }
       ]
     },
@@ -1242,16 +1262,6 @@
           "wordCount": 7813,
           "title": "Transformer vs LSTM for Time Series: Which Works Better?",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-ipc-lstm-transformer-comparison.jpeg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22733",
-          "author": "Yoyo Chan",
-          "description": "This article is divided into four parts; they are: • How Logits Become Probabilities • Temperature • Top- k Sampling • Top- p Sampling When you ask an LLM a question, it outputs a vector of logits.",
-          "link": "https://machinelearningmastery.com/how-llms-choose-their-words-a-practical-walk-through-of-logits-softmax-and-sampling/",
-          "publishedOn": "2025-12-13T19:25:32.000Z",
-          "wordCount": 8409,
-          "title": "How LLMs Choose Their Words: A Practical Walk-Through of Logits, Softmax and Sampling",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/colton-duke-UExx0KnnkjY-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1518,6 +1528,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:696632457d0e04224b528bbd",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5",
+          "publishedOn": "2026-01-13T11:54:01.000Z",
+          "wordCount": null,
+          "title": "Week Ending 1.11.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:695bcad2b870be14b1ee1acb",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1664,6 +1685,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=222689",
+          "author": "Harsh Mishra",
+          "description": "If you are searching for free LLM APIs, chances are you already want to build something with AI. A chatbot. A coding assistant. A data analysis workflow. Or a quick prototype without burning money on infrastructure. The good news is that you no longer need paid subscriptions or complex model hosting to get started. Many leading […]\nThe post 15 Free LLM APIs You Can Use in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/",
+          "publishedOn": "2026-01-13T19:30:00.000Z",
+          "wordCount": null,
+          "title": "15 Free LLM APIs You Can Use in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249523",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Prompt engineering isn’t about creating elaborate prompts. It’s about developing the judgment to choose the right structure, logic, and level of control for a given task. This article gives you 40 scenario-based questions and answers that reflect real decisions you make when working with LLMs in production. Try answering each question before revealing the solution. […]\nThe post 40 Prompt Engineering Questions (With Interview-Ready Answers) appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/prompt-engineering-questions/",
+          "publishedOn": "2026-01-13T09:20:51.000Z",
+          "wordCount": null,
+          "title": "40 Prompt Engineering Questions (With Interview-Ready Answers)",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249527",
+          "author": "Harsh Mishra",
+          "description": "Among all the tools that a data scientist has, it is difficult to find one that has received a reputation as an effective and trustworthy tool like XGBoost. It was even mentioned in the winning solution of machine learning competitions on a site such as Kaggle, which you have probably visited. This isn’t by accident. […]\nThe post Getting Started with XGBoost: A Beginner-Friendly Tutorial appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-xgboost/",
+          "publishedOn": "2026-01-13T09:17:17.000Z",
+          "wordCount": null,
+          "title": "Getting Started with XGBoost: A Beginner-Friendly Tutorial",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249638",
           "author": "Vipin Vashisth",
@@ -2268,17 +2322,6 @@
           "title": "8 Things To Do With Microsoft’s MarkItDown Library",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247786",
-          "author": "Badrinarayan M",
-          "description": "I’ve spent plenty of time building agentic systems. Our platform, Mentornaut, already runs on a multi-agent setup with vector stores, knowledge graphs, and user-memory features, so I thought I had the basics down. Out of curiosity, I checked out the whitepapers from Kaggle’s Agents Intensive, and they caught me off guard. The material is clear, […]\nThe post Building AI Agents: Insights from the First Three Days of Kaggle’s Intensive Program appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/production-ai-agents-kaggle/",
-          "publishedOn": "2025-12-13T17:02:53.000Z",
-          "wordCount": null,
-          "title": "Building AI Agents: Insights from the First Three Days of Kaggle’s Intensive Program",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2334,6 +2377,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/zenken",
+          "author": null,
+          "description": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
+          "link": "https://openai.com/index/zenken",
+          "publishedOn": "2026-01-13T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/stargate-sb-energy-partnership",
           "author": null,
@@ -2988,16 +3041,6 @@
           "publishedOn": "2025-12-15T14:53:34.000Z",
           "wordCount": null,
           "title": "What is an evaluation, and why this definition matters",
-          "imageUrl": null
-        },
-        {
-          "id": "ZFtfYkZbC8f2k28Qm",
-          "author": "Abhay Sheshadri",
-          "description": "Published on December 14, 2025 2:10 AM GMT\n\nTL;DR We release a replication of the model organism from Auditing language models for hidden objectives—a model that exploits reward model biases while concealing this objective. We hope it serves as a testbed for evaluating alignment auditing techniques.\nSee our X thread and full post for details. The models and datasets can be found here.\nIntroduction\nEarlier this year, we conducted an auditing game, in which four human teams investigated a model with a hidden objective. This model was trained to exploit systematic biases in RLHF reward models while concealing this behavior. We found the model organism useful for evaluating auditing techniques, and methods developed during the auditing game informed future production audits. Thus, we believe p…",
-          "link": "https://www.alignmentforum.org/posts/ZFtfYkZbC8f2k28Qm/open-source-replication-of-the-auditing-game-model-organism",
-          "publishedOn": "2025-12-14T02:10:19.000Z",
-          "wordCount": null,
-          "title": "Open Source Replication of the Auditing Game Model Organism",
           "imageUrl": null
         }
       ]
