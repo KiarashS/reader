@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608178",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to be a more efficient programmer\nThe post Maximum-Effiency Coding Setup appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/maximum-effiency-coding-setup/",
+          "publishedOn": "2026-01-16T16:30:00.000Z",
+          "wordCount": 4360,
+          "title": "Maximum-Effiency Coding Setup",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-106-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608176",
+          "author": "Ryan Pégoud",
+          "description": "Why your final LLM layer is OOMing and how to fix it with a custom Triton kernel.\nThe post Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/cutting-llm-memory-by-84-a-deep-dive-into-fused-kernels/",
+          "publishedOn": "2026-01-16T15:00:00.000Z",
+          "wordCount": 6185,
+          "title": "Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/andrey-matveev-s_NGFNiRcX4-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608174",
+          "author": "Eric Chung",
+          "description": "A multi-tier approach to segmentation, color correction, and domain-specific enhancement\nThe post From RGB to Lab: Addressing Color Artifacts in AI Image Compositing appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/",
+          "publishedOn": "2026-01-16T13:30:00.000Z",
+          "wordCount": 5267,
+          "title": "From RGB to Lab: Addressing Color Artifacts in AI Image Compositing",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Cover-Image-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608172",
+          "author": "Hugo Lu",
+          "description": "Acquisitions, venture, and an increasingly competitive landscape all point to a market ceiling\nThe post The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/",
+          "publishedOn": "2026-01-16T12:00:00.000Z",
+          "wordCount": 5312,
+          "title": "The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Group-5.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608170",
           "author": "Alon Lanyado",
           "description": "Shapley Values are one of the most common methods for explainability, yet they can be misleading. Discover how to overcome these limitations to achieve better insights.\nThe post When Shapley Values Break: A Guide to Robust Model Explainability appeared first on Towards Data Science.",
@@ -1015,46 +1055,6 @@
           "wordCount": 5214,
           "title": "Production-Grade Observability for AI Agents: A Minimal-Code, Configuration-First Approach",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Copilot_20251214_144408.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607921",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to be an effective engineer with coding agents\nThe post 3 Techniques to Effectively Utilize AI Agents for Coding appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/3-techniques-to-effectively-utilize-ai-agents-for-coding/",
-          "publishedOn": "2025-12-17T12:00:00.000Z",
-          "wordCount": 4177,
-          "title": "3 Techniques to Effectively Utilize AI Agents for Coding",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-215-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607919",
-          "author": "Uri Peled",
-          "description": "When indexing hurts more than it helps: how we realized our RAG use case needed a key-value store, not a vector database\nThe post When (Not) to Use Vector DB appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-not-to-use-vector-db/",
-          "publishedOn": "2025-12-16T16:30:00.000Z",
-          "wordCount": 4256,
-          "title": "When (Not) to Use Vector DB",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/vector-db-fetaured-image.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607917",
-          "author": "Salvatore Cagliari",
-          "description": "An Excel sheet with a column containing numbers and text? What a mess!\nThe post Separate Numbers and Text in One Column Using Power Query appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/separate-numbers-and-text-in-one-column-using-power-query/",
-          "publishedOn": "2025-12-16T15:00:00.000Z",
-          "wordCount": 3920,
-          "title": "Separate Numbers and Text in One Column Using Power Query",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/egor-komarov-Zm7wMCGjzD8-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607915",
-          "author": "angela shi",
-          "description": "Kernel SVM often feels abstract, with kernels, dual formulations, and support vectors. In this article, we take a different path. Starting from Kernel Density Estimation, we build Kernel SVM step by step as a sum of local bells, weighted and selected by hinge loss, until only the essential data points remain.\nThe post The Machine Learning “Advent Calendar” Day 16: Kernel Trick in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-16-kernel-trick-in-excel/",
-          "publishedOn": "2025-12-16T13:30:00.000Z",
-          "wordCount": 4230,
-          "title": "The Machine Learning “Advent Calendar” Day 16: Kernel Trick in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/kernel-trick.jpg"
         }
       ]
     },
@@ -1252,16 +1252,6 @@
           "wordCount": 7157,
           "title": "Top 5 Vector Databases for High-Performance LLM Applications",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-bpc-top-5-vector-databases-high-performing-llm-applications.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22777",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Building newly trained machine learning models that work is a relatively straightforward endeavor, thanks to mature frameworks and accessible computing power.",
-          "link": "https://machinelearningmastery.com/the-machine-learning-engineers-checklist-best-practices-for-reliable-models/",
-          "publishedOn": "2025-12-16T17:55:28.000Z",
-          "wordCount": 7686,
-          "title": "The Machine Learning Engineer’s Checklist: Best Practices for Reliable Models",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-machine-learning-engineer-checklist.png"
         }
       ]
     },
@@ -1514,6 +1504,24 @@
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
         {
+          "id": "ff7ba318-ecd0-11f0-aee1-33b412510272",
+          "author": null,
+          "description": "NASA astronaut Tracy Dyson reflects on her career aboard the International Space Station and what 25 years of continuous human presence in space means for the future of exploration. HWHAP 407.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/a-place-in-space-to-call-home-part-1",
+          "publishedOn": "2026-01-16T14:41:00.000Z",
+          "wordCount": null,
+          "title": "A Place in Space to Call Home: Part 1",
+          "itunes": {
+            "duration": "3674"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION2280450055.mp3?updated=1767906184",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "13da4810-dc5e-11f0-b1e6-474d582f398b",
           "author": null,
           "description": "International Space Station leaders Laura Shaw and  Jennifer Buchli discuss the science, discoveries, and innovations that have defined nearly 25 years aboard the orbiting laboratory. HWHAP 406.",
@@ -1645,16 +1653,6 @@
           "wordCount": 14899,
           "title": "How to Build a GitHub Code-Analyser Agent for Developer Productivity",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/12/featured_image_code-analyser.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=77747",
-          "author": "Kukil",
-          "description": "Naive Transformers is good for lab experiments, but not for production. Check out what are the major problems associated with Autoregressive inference. In this post, we will cover how modern engines like vLLM, SGLang, and more solves problems in LLM serving.\nThe Existential Problems in LLM Serving first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/the-existential-problems-in-llm-serving/",
-          "publishedOn": "2025-12-16T14:00:00.000Z",
-          "wordCount": 13638,
-          "title": "The Existential Problems in LLM Serving",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2025/12/Existential_Problems_in_Model_Serving.jpg"
         }
       ]
     },
@@ -1700,6 +1698,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249874",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "The yearly GATE exam is right around the corner. For some this was a long time coming—for others, a last minute priority. Whichever group you belong to, preparation would be the only focus for you now.  This article is here to assist with those efforts. A curated list of GATE DA learning material that would […]\nThe post GATE DA 2026: Study Material and Practice Questions appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/gate-da-study-material-and-questions/",
+          "publishedOn": "2026-01-16T11:39:52.000Z",
+          "wordCount": null,
+          "title": "GATE DA 2026: Study Material and Practice Questions",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249866",
+          "author": "Sarthak Dogra",
+          "description": "Among the most valuable roles in the corporate world today, data science enjoys a pole position with just a handful of alternatives that can even match its scale. Record-breaking salaries are being paid to data scientists across the globe for their highly unique skill set, as well as the massive impact they bring to the […]\nThe post 10 Highest Paying Companies in India for Data Science Roles appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/highest-paying-companies-in-india-for-data-science-roles/",
+          "publishedOn": "2026-01-16T10:09:55.000Z",
+          "wordCount": null,
+          "title": "10 Highest Paying Companies in India for Data Science Roles",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249832",
           "author": "Riya Bansal",
@@ -2392,6 +2412,36 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/the-truth-elon-left-out",
+          "author": null,
+          "description": "The truth left out from Elon Musk’s recent court filing.",
+          "link": "https://openai.com/index/the-truth-elon-left-out",
+          "publishedOn": "2026-01-16T12:00:00.000Z",
+          "wordCount": null,
+          "title": "The truth left out from Elon Musk’s recent court filing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-go",
+          "author": null,
+          "description": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+          "link": "https://openai.com/index/introducing-chatgpt-go",
+          "publishedOn": "2026-01-16T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ChatGPT Go, now available worldwide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+          "author": null,
+          "description": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+          "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+          "publishedOn": "2026-01-16T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Our approach to advertising and expanding access to ChatGPT",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/investing-in-merge-labs",
           "author": null,
           "description": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
@@ -2589,26 +2639,6 @@
           "publishedOn": "2025-12-18T00:00:00.000Z",
           "wordCount": null,
           "title": "Introducing GPT-5.2-Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-academy-for-news-organizations",
-          "author": null,
-          "description": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
-          "link": "https://openai.com/index/openai-academy-for-news-organizations",
-          "publishedOn": "2025-12-17T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI Academy for News Organizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
-          "author": null,
-          "description": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
-          "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
-          "publishedOn": "2025-12-17T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Developers can now submit apps to ChatGPT",
           "imageUrl": null
         }
       ]
@@ -3039,16 +3069,6 @@
           "publishedOn": "2025-12-17T16:27:33.000Z",
           "wordCount": null,
           "title": "The Bleeding Mind of an LLM",
-          "imageUrl": null
-        },
-        {
-          "id": "czMaDFGAbjhWYdKmo",
-          "author": "Vladimir Mikulik",
-          "description": "Published on December 16, 2025 9:01 PM GMT\n\nHow might catastrophic misalignment persist in AI models despite substantial training and quality assurance efforts on behalf of developers? One reason might be alignment faking – a misaligned model may deliberately act aligned when monitored or during training to prevent modification of its values, reverting to its malign behaviour when unmonitored. If models fake alignment, and if doing so affects training as intended, egregious misalignment could survive training and lead to catastrophic behaviour in deployment.\nIn this work, we substantially extend the reinforcement learning (RL) experiments in the setting introduced by Greenblatt et al. (2024) to study alignment faking. In this setting, a model is given a system prompt that explains that Ant…",
-          "link": "https://www.alignmentforum.org/posts/czMaDFGAbjhWYdKmo/towards-training-time-mitigations-for-alignment-faking-in-rl",
-          "publishedOn": "2025-12-16T21:01:10.000Z",
-          "wordCount": null,
-          "title": "Towards training-time mitigations for alignment faking in RL",
           "imageUrl": null
         }
       ]
