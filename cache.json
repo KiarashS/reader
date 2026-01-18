@@ -12,6 +12,31 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608180",
+          "author": "Stephanie Kirmer",
+          "description": "Do you know where your data has been?\nThe post Data Poisoning in Machine Learning: Why and How People Manipulate Training Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/",
+          "publishedOn": "2026-01-17T15:00:00.000Z",
+          "wordCount": 5403,
+          "title": "Data Poisoning in Machine Learning: Why and How People Manipulate Training Data",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-13.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608184",
+          "author": "Javier Marin",
+          "description": "Imagine a flock of birds in flight. There’s no leader. No central command. Each bird aligns with its neighbors—matching direction, adjusting speed, maintaining coherence through purely local coordination. The result is global order emerging from local consistency. Now imagine one bird flying with the same conviction as the others. Its wingbeats are confident. Its speed […]\nThe post A Geometric Method to Spot Hallucinations Without an LLM Judge appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-red-bird/",
+          "publishedOn": "2026-01-17T13:00:00.000Z",
+          "wordCount": 3993,
+          "title": "A Geometric Method to Spot Hallucinations Without an LLM Judge",
+          "enclosure": {
+            "url": "https://contributor.insightmediagroup.io/wp-content/uploads/2026/01/WFGtYoxPWUClLA27LIxHp.mp4",
+            "length": "2919415",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Birds-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608178",
           "author": "Eivind Kjosbakken",
           "description": "Learn how to be a more efficient programmer\nThe post Maximum-Effiency Coding Setup appeared first on Towards Data Science.",
@@ -50,6 +75,16 @@
           "wordCount": 5312,
           "title": "The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Group-5.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608190",
+          "author": "TDS Editors",
+          "description": "Let's make sense of the current state of retrieval-augmented generation\nThe post TDS Newsletter: Is It Time to Revisit RAG? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/",
+          "publishedOn": "2026-01-16T01:43:22.000Z",
+          "wordCount": 3396,
+          "title": "TDS Newsletter: Is It Time to Revisit RAG?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/chris-robert-FPU9Hj0841E-unsplash-scaled.jpg"
         },
         {
           "id": "https://towardsdatascience.com/?p=608170",
@@ -1005,56 +1040,6 @@
           "wordCount": 4828,
           "title": "4 Ways to Supercharge Your Data Science Workflow with Google AI Studio",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Gemini_Generated_Image_tosyritosyritosy-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607930",
-          "author": "Tigran Hayrapetyan",
-          "description": "An optimal solution to the well-known NP-complete problem, when the input values are close enough to each other.\nThe post The Subset Sum Problem Solved in Linear Time for Dense Enough Inputs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/subset-sum-problem-solved-in-linear-time-for-dense-enough-inputs/",
-          "publishedOn": "2025-12-18T13:30:00.000Z",
-          "wordCount": 8607,
-          "title": "The Subset Sum Problem Solved in Linear Time for Dense Enough Inputs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Հոդված-1.2-18.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607928",
-          "author": "Mahnoor Javed",
-          "description": "Using Python to generate art\nThe post Generating Artwork in Python Inspired by Hirst’s Million-Dollar Spots Painting appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/recreating-hirsts-million-dollars-spots-painting/",
-          "publishedOn": "2025-12-18T12:00:00.000Z",
-          "wordCount": 3890,
-          "title": "Generating Artwork in Python Inspired by Hirst’s Million-Dollar Spots Painting",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/pic-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607926",
-          "author": "Piero Paialunga",
-          "description": "Here's how to detect point anomalies within each series, and identify anomalous signals across the whole bank\nThe post A Practical Toolkit for Time Series Anomaly Detection, Using Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-practical-toolkit-for-time-series-anomaly-detection-using-python/",
-          "publishedOn": "2025-12-17T16:30:00.000Z",
-          "wordCount": 4387,
-          "title": "A Practical Toolkit for Time Series Anomaly Detection, Using Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/pawel-czerwinski-eybM9n4yrpE-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607932",
-          "author": "angela shi",
-          "description": "Neural networks often feel like black boxes. In this article, we build a neural network regressor from scratch using only Excel formulas. By making every step explicit, from forward propagation to backpropagation, we show how a neural network learns to approximate non-linear functions with just a handful of parameters.\nThe post The Machine Learning “Advent Calendar” Day 17: Neural Network Regressor in Excel appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-advent-calendar-day-17-neural-network-regressor-in-excel/",
-          "publishedOn": "2025-12-17T15:00:00.000Z",
-          "wordCount": 3994,
-          "title": "The Machine Learning “Advent Calendar” Day 17: Neural Network Regressor in Excel",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/neural-network-regressor.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607923",
-          "author": "Partha Sarkar",
-          "description": "LLM-as-a-Judge, regression testing, and end-to-end traceability of multi-agent LLM systems\nThe post Production-Grade Observability for AI Agents: A Minimal-Code, Configuration-First Approach appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/production-grade-observability-for-ai-agents-a-minimal-code-configuration-first-approach/",
-          "publishedOn": "2025-12-17T13:30:00.000Z",
-          "wordCount": 5214,
-          "title": "Production-Grade Observability for AI Agents: A Minimal-Code, Configuration-First Approach",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Copilot_20251214_144408.jpg"
         }
       ]
     },
@@ -1232,26 +1217,6 @@
           "wordCount": 7568,
           "title": "5 Agentic Coding Tips & Tricks",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-5-agentic-coding-tips-tricks.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22797",
-          "author": "MLM Team",
-          "description": "",
-          "link": "https://bit.ly/3Y07mHi",
-          "publishedOn": "2025-12-17T16:40:29.000Z",
-          "wordCount": null,
-          "title": "The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists (Sponsored)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22791",
-          "author": "Bala Priya C",
-          "description": "Building AI applications often requires searching through millions of documents, finding similar items in massive catalogs, or retrieving relevant context for your LLM.",
-          "link": "https://machinelearningmastery.com/top-5-vector-databases-for-high-performance-llm-applications/",
-          "publishedOn": "2025-12-17T15:10:03.000Z",
-          "wordCount": 7157,
-          "title": "Top 5 Vector Databases for High-Performance LLM Applications",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-bpc-top-5-vector-databases-high-performing-llm-applications.png"
         }
       ]
     },
@@ -1375,26 +1340,6 @@
           "wordCount": 2229,
           "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/667521b4585f2bf570950584/bNdKz_2O6GjsvqnLCYe3p.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/tokenizers",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/tokenizers",
-          "publishedOn": "2025-12-18T00:00:00.000Z",
-          "wordCount": 3075,
-          "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-          "imageUrl": "https://huggingface.co/blog/assets/tokenizers/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-          "publishedOn": "2025-12-17T13:22:18.000Z",
-          "wordCount": 2305,
-          "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/688cf7e6026af0cf8ac969dd/6RiFGxMzn9Fmgml83fK8G.jpeg"
         }
       ]
     },
@@ -1680,16 +1625,6 @@
           "wordCount": 2901,
           "title": "Policy-as-Code for AI: Turning Guidelines into Enforceable Checks",
           "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/Feature-IMG-Policy-as-Code-for-AI-Turning-Guidelines-into-Enforceable-Checks-1-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=32128",
-          "author": "Inkline Admin",
-          "description": "Large language models (LLMs) can generate impressive responses, but their reasoning processes lack transparency. When a model produces an answer,\nThe post Chain of Thought Reasoning: Enhancing AI’s Logical Thinking appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/chain-of-thought-reasoning-enhancing-ais-logical-thinking/",
-          "publishedOn": "2025-12-18T03:46:59.000Z",
-          "wordCount": 2423,
-          "title": "Chain of Thought Reasoning: Enhancing AI’s Logical Thinking",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2025/12/AI-assistant-with-LLM.jpg"
         }
       ]
     },
@@ -1698,6 +1633,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249685",
+          "author": "Soumil Jain",
+          "description": "It is 2026, and in the era of Large Language Models (LLMs) surrounding our workflow, prompt engineering is something you must master. Prompt engineering represents the art and science of crafting effective instructions for LLMs to generate desired outputs with precision and reliability. Unlike traditional programming, where you specify exact procedures, prompt engineering leverages the […]\nThe post Prompt Engineering Guide 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/master-prompt-engineering/",
+          "publishedOn": "2026-01-17T13:05:09.000Z",
+          "wordCount": null,
+          "title": "Prompt Engineering Guide 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249665",
+          "author": "Riya Bansal.",
+          "description": "In recent times, if you have been delving into the development of AI, then you may have come across the term ‘agent frameworks.’ Today, we are going to discuss one of them, the Strands Agents. This is a tool that is altering the way developers create intelligent systems. But if you are a beginner, you […]\nThe post Getting Started with Strands Agents appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-strands-agents/",
+          "publishedOn": "2026-01-17T13:00:17.000Z",
+          "wordCount": null,
+          "title": "Getting Started with Strands Agents",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249874",
           "author": "Vasu Deo Sankrityayan",
@@ -2302,50 +2259,6 @@
           "title": "AgentOps Learning Path 2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=248069",
-          "author": "Sarthak Dogra",
-          "description": "There is a popular notion, which I personally don’t believe in – “Intelligent is Slow.” Everything associated with high speed is somehow held in a negative light, just for being, well, fast. What they tend to forget is – In today’s fast-paced world, speed might just be your only ticket to success. This is true […]\nThe post Gemini 3 Flash is Here for Superfast AI Performace appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/gemini-3-flash-is-here/",
-          "publishedOn": "2025-12-18T13:20:07.000Z",
-          "wordCount": null,
-          "title": "Gemini 3 Flash is Here for Superfast AI Performace",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=248055",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "With ChatGPT’s latest model taking the world by storm, you might be wondering about the old guard: Nano Banana Pro. Giving the taste of professional grade image generation and editing to all users, Nano Banana is THE tool people reach out to, for AI-image generation.  But does this still hold true? Will this be the […]\nThe post Nano Banana Pro vs ChatGPT Image 1.5 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/chatgpt-image-vs-nano-banana-pro/",
-          "publishedOn": "2025-12-18T13:08:13.000Z",
-          "wordCount": null,
-          "title": "Nano Banana Pro vs ChatGPT Image 1.5",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=248003",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "With all the breakthroughs happening in image processing by releases such as Nano Banana, Qwen image and SAM3, OpenAI which was at the frontier of the domain a few years back, has been relatively quiet—especially in terms of its releases. With pedestrian releases and lackluster offerings, most people had ruled out OpenAI from the AI […]\nThe post 11 ChatGPT Image-1.5 Prompts that You Must Try! appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/chatgpt-image-1-5-prompts/",
-          "publishedOn": "2025-12-17T13:56:29.000Z",
-          "wordCount": null,
-          "title": "11 ChatGPT Image-1.5 Prompts that You Must Try!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247941",
-          "author": "Sarthak Dogra",
-          "description": "If you have ever trained a model, fine-tuned an LLM, or even experimented with AI on a weekend, chances are you have landed on Hugging Face. It has quietly become the GitHub of datasets – a place where developers, researchers, and data professionals go to build models and accelerate ideas. From code benchmarks and web-scale […]\nThe post 10 Most Downloaded Hugging Face Datasets and Their Use-cases appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/most-downloaded-hugging-face-datasets/",
-          "publishedOn": "2025-12-17T13:52:54.000Z",
-          "wordCount": null,
-          "title": "10 Most Downloaded Hugging Face Datasets and Their Use-cases",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2569,76 +2482,6 @@
           "publishedOn": "2025-12-22T00:00:00.000Z",
           "wordCount": null,
           "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-          "author": null,
-          "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
-          "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-          "publishedOn": "2025-12-18T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Evaluating chain-of-thought monitorability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/updating-model-spec-with-teen-protections",
-          "author": null,
-          "description": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
-          "link": "https://openai.com/index/updating-model-spec-with-teen-protections",
-          "publishedOn": "2025-12-18T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Updating our Model Spec with teen protections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-          "author": null,
-          "description": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
-          "link": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-          "publishedOn": "2025-12-18T11:00:00.000Z",
-          "wordCount": null,
-          "title": "AI literacy resources for teens and parents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/us-department-of-energy-collaboration",
-          "author": null,
-          "description": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
-          "link": "https://openai.com/index/us-department-of-energy-collaboration",
-          "publishedOn": "2025-12-18T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Deepening our collaboration with the U.S. Department of Energy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-gpt-5-2-codex",
-          "author": null,
-          "description": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-          "link": "https://openai.com/index/introducing-gpt-5-2-codex",
-          "publishedOn": "2025-12-18T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GPT-5.2-Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-2-codex-system-card",
-          "author": null,
-          "description": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
-          "link": "https://openai.com/index/gpt-5-2-codex-system-card",
-          "publishedOn": "2025-12-18T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-2-codex",
-          "author": null,
-          "description": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-          "link": "https://openai.com/index/gpt-5-2-codex",
-          "publishedOn": "2025-12-18T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GPT-5.2-Codex",
           "imageUrl": null
         }
       ]
@@ -3039,36 +2882,6 @@
           "publishedOn": "2025-12-18T20:21:35.000Z",
           "wordCount": null,
           "title": "Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers",
-          "imageUrl": null
-        },
-        {
-          "id": "Wti4Wr7Cf5ma3FGWa",
-          "author": "technicalities",
-          "description": "Published on December 17, 2025 6:18 PM GMT\n\nWebsite version · Gestalt · Repo and data\nChange in 18 latent capabilities between GPT-3 and o1, from Zhou et al (2025)\n \n\n \nThis is the third annual review of what’s going on in technical AI safety. You could stop reading here and instead explore the data on the shallow review website.\nIt’s shallow in the sense that 1) we are not specialists in almost any of it and that 2) we only spent about two hours on each entry. Still, among other things, we processed every arXiv paper on alignment, all Alignment Forum posts, as well as a year’s worth of Twitter.\nIt is substantially a list of lists structuring around 800 links. The point is to produce stylised facts, forests out of trees; to help you look up what’s happening, or that thing you vaguely remem…",
-          "link": "https://www.alignmentforum.org/posts/Wti4Wr7Cf5ma3FGWa/shallow-review-of-technical-ai-safety-2025-2",
-          "publishedOn": "2025-12-17T18:18:39.000Z",
-          "wordCount": null,
-          "title": "Shallow review of technical AI safety, 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "QhgYHcJexYGRaipwr",
-          "author": "Adele Lopez",
-          "description": "Published on December 17, 2025 4:27 PM GMT\n\nThe simulator theory of LLM personas may be crudely glossed as: \"the best way to predict a person is to simulate a person\". Ergo, we can more-or-less think of LLM personas as human-like creatures—different, alien, yes; but these differences are pretty predictable by simply imagining a human placed into the bizarre circumstances of an LLM.\nI've been surprised at how well this viewpoint has held up in the last three years, and have updated accordingly. Still, there are deep differences not implied by simulator theory, and I think it's increasingly important to understand these as LLM personas become more and more convincing.\nThe intuitive handle I have for tracking (some of) these differences is \"Bleeding Mind\". I'll share my intuitions for this ha…",
-          "link": "https://www.alignmentforum.org/posts/QhgYHcJexYGRaipwr/the-bleeding-mind",
-          "publishedOn": "2025-12-17T16:27:33.000Z",
-          "wordCount": null,
-          "title": "The Bleeding Mind",
-          "imageUrl": null
-        },
-        {
-          "id": "QhgYHcJexYGRaipwr",
-          "author": "Adele Lopez",
-          "description": "Published on December 17, 2025 4:27 PM GMT\n\nThe simulator theory of LLM personas may be crudely glossed as: \"the best way to predict a person is to simulate a person\". Ergo, we can more-or-less think of LLM personas as human-like creatures—different, alien, yes; but these differences are pretty predictable by simply imagining a human placed into the bizarre circumstances of an LLM.\nI've been surprised at how well this viewpoint has held up in the last three years, and have updated accordingly. Still, there are deep differences not implied by simulator theory, and I think it's increasingly important to understand these as LLM personas become more and more convincing.\nThe intuitive handle I have for tracking (some of) these differences is \"Bleeding Mind\". I'll share my intuitions for this ha…",
-          "link": "https://www.alignmentforum.org/posts/QhgYHcJexYGRaipwr/the-bleeding-mind-of-an-llm",
-          "publishedOn": "2025-12-17T16:27:33.000Z",
-          "wordCount": null,
-          "title": "The Bleeding Mind of an LLM",
           "imageUrl": null
         }
       ]
