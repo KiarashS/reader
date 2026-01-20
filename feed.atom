@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-01-19T01:30:34.839Z</updated>
+    <updated>2026-01-20T01:26:01.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pretraining on Aligned AI Data Dramatically Reduces Misalignment—Even After Post-Training]]></title>
+        <id>ZeWewFEefCtx4Rj3G</id>
+        <link href="https://www.alignmentforum.org/posts/ZeWewFEefCtx4Rj3G/pretraining-on-aligned-ai-data-dramatically-reduces"/>
+        <updated>2026-01-19T21:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 19, 2026 9:24 PM GMT
+
+Alignment Pretraining Shows Promise
+TL;DR: A new paper shows that pretraining language models on data about AI behaving well dramatically reduces misaligned behavior, and this effect persists through post-training. The major labs appear to be taking notice. It’s now the third paper on this idea, and excitement seems to be building.
+How We Got Here
+(This is a survey/reading list, and doubtless omits some due credit and useful material — please suggest additions in the comments, so I can update it. Or you can just skip forward to the paper.)
+Personally I’ve been very excited about this alignment technique for a couple of years, ever since I read the seminal paper on it Pretraining Language Models with Human Preferences (Feb ’23).[1] (This technique …]]></summary>
+        <author>
+            <name>RogerDearnaley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desiderata of good problems to hand off to AIs]]></title>
+        <id>aHioEbJYd8vbrbu2r</id>
+        <link href="https://www.alignmentforum.org/posts/aHioEbJYd8vbrbu2r/desiderata-of-good-problems-to-hand-off-to-ais"/>
+        <updated>2026-01-19T16:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 19, 2026 4:55 PM GMT
+
+Many technical AI safety plans involve building automated alignment researchers to improve our ability to solve the alignment problem. Safety plans from AI labs revolve around this as a first line of defence (e.g. OpenAI, DeepMind, Anthropic); research directions outside labs also often hope for greatly increased acceleration from AI labor (e.g. UK AISI, Paul Christiano).
+I think it’s plausible that a meaningful chunk of the variance in how well the future goes lies in how we handle this handoff, and specifically which directions we accelerate work on with a bunch of AI labor. Here are some dimensions along which I think different research directions vary in how good of an idea they are to handoff:
+
+How epistemically cursed is it?
+How parallelizab…]]></summary>
+        <author>
+            <name>Jozdien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging the Gap Between Research and Readability with Marco Hening Tallarico]]></title>
+        <id>https://towardsdatascience.com/?p=608166</id>
+        <link href="https://towardsdatascience.com/bridging-the-gap-between-research-and-readability-with-marco-hening-tallarico/"/>
+        <updated>2026-01-19T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Diluting complex research, spotting silent data leaks, and why the best way to learn is often backwards.
+The post Bridging the Gap Between Research and Readability with Marco Hening Tallarico appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 1.18.2026]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:696e4d18894ba526828b21bd</id>
+        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst"/>
+        <updated>2026-01-19T15:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Local LLMs to Discover High-Performance Algorithms]]></title>
+        <id>https://towardsdatascience.com/?p=608188</id>
+        <link href="https://towardsdatascience.com/using-local-llms-to-discover-high-performance-algorithms/"/>
+        <updated>2026-01-19T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How I used open-source models to explore new frontiers in efficient code generation, using my MacBook and local LLMs.
+The post Using Local LLMs to Discover High-Performance Algorithms appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stefano Bosisio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Series Isn’t Enough: How Graph Neural Networks Change Demand Forecasting]]></title>
+        <id>https://towardsdatascience.com/?p=608157</id>
+        <link href="https://towardsdatascience.com/time-series-isnt-enough-how-graph-neural-networks-change-demand-forecasting/"/>
+        <updated>2026-01-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why modeling SKUs as a network reveals what traditional forecasts miss
+The post Time Series Isn’t Enough: How Graph Neural Networks Change Demand Forecasting appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Created an AI Comic Using Gemini 3 and NotebookLM]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249919</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/ai-comic-generation/"/>
+        <updated>2026-01-19T11:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Gemini 3 and NotebookLM are two of my favorite tools from the Google suite. I use them often for learning, work, and even for breaking down complex ideas in a simple way. But this time, I wanted to do something purely fun. Lately, I’ve been seeing AI-generated comics all over social media. From story writing […]
+The post How I Created an AI Comic Using Gemini 3 and NotebookLM appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scenario Mining on HD Maps for Safety-Critical Perception Testing]]></title>
+        <id>https://imerit.net/?p=32546</id>
+        <link href="https://imerit.net/resources/blog/scenario-mining-on-hd-maps-for-safety-critical-perception-testing/"/>
+        <updated>2026-01-19T07:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Across autonomous vehicles (AVs), ADAS, and industrial and logistics robots, perception systems must operate with near‑perfect reliability (often 99.9%). Even
+The post Scenario Mining on HD Maps for Safety-Critical Perception Testing appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradual Paths to Collective Flourishing]]></title>
+        <id>mtASw9zpnKz4noLFA</id>
+        <link href="https://www.alignmentforum.org/posts/mtASw9zpnKz4noLFA/gradual-paths-to-collective-flourishing"/>
+        <updated>2026-01-19T07:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 19, 2026 7:52 AM GMT
+
+by Nora Ammann & Claude Opus 4.5
+Setting the stage
+There aren't many detailed stories about how things could go well with AI.[1] So I'm about to tell you one. 
+This is an attempt to articulate a path, through the AI transition, to collective flourishing. 
+What makes endgame sketches like this useful is that they need to be constrained. They need to be coherent with your best guess of how the world works, and earnestly engaged with good-faith articulations of risks and failure modes.
+Therefore, I start by laying out the two failure modes I believe we face – failure through unilateral domination, and failure through competitive erosion – and then briefly discuss my assumptions about the world we're in – gradual take-off and multipolarity (at least f…]]></summary>
+        <author>
+            <name>Nora_Ammann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Context Window in LLM? Explained in 2 Minutes]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249926</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/context-window-in-llm/"/>
+        <updated>2026-01-19T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[We interact with LLMs every day. We write prompts, paste documents, continue long conversations, and expect the model to remember what we said earlier. When it does, we move on. When it doesn’t, we repeat ourselves or assume something went wrong. What most people rarely think about is that every response is constrained by something […]
+The post What is Context Window in LLM? Explained in 2 Minutes appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Types of Environments in AI]]></title>
         <id>https://www.analyticsvidhya.com/?p=249902</id>
@@ -48,6 +173,16 @@ The post The Hidden Opportunity in AI Workflow Automation with n8n for Low-Tech 
 The post Why Healthcare Leads in Knowledge Graphs appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Steve Hedden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for self empowerment]]></title>
+        <id>https://openai.com/index/ai-for-self-empowerment</id>
+        <link href="https://openai.com/index/ai-for-self-empowerment"/>
+        <updated>2026-01-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -2737,93 +2872,6 @@ The post Tools for Your LLM: a Deep Dive into MCP appeared first on Towards Data
 The post Understanding the Generative AI User appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Stephanie Kirmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EDA in Public (Part 2): Product Deep Dive & Time-Series Analysis in Pandas]]></title>
-        <id>https://towardsdatascience.com/?p=607948</id>
-        <link href="https://towardsdatascience.com/eda-in-public-part-2-product-deep-dive-time-series-analysis-in-pandas/"/>
-        <updated>2025-12-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to analyze product performance, extract time-series features, and uncover key seasonal trends in your sales data.
-The post EDA in Public (Part 2): Product Deep Dive & Time-Series Analysis in Pandas appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IQ of AI: 15+ AI Models That are Smarter Than You]]></title>
-        <id>https://www.analyticsvidhya.com/?p=248180</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/ai-models-that-are-smarter-than-you/"/>
-        <updated>2025-12-20T10:30:09.000Z</updated>
-        <summary type="html"><![CDATA[The average human IQ is 100. Statistical fact – not an insult. For decades, that number has quietly defined what we meant by “normal intelligence.” But in 2025, something strange is happening. Machines with no consciousness, no emotions, and no lived experience are now scoring higher than humans on the very tests designed to measure […]
-The post IQ of AI: 15+ AI Models That are Smarter Than You appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Machine Learning “Advent Calendar” Day 19: Bagging in Excel]]></title>
-        <id>https://towardsdatascience.com/?p=607955</id>
-        <link href="https://towardsdatascience.com/the-machine-learning-advent-calendar-day-19-bagging-in-excel/"/>
-        <updated>2025-12-19T18:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Understanding ensemble learning from first principles in Excel
-The post The Machine Learning “Advent Calendar” Day 19: Bagging in Excel appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC)]]></title>
-        <id>https://towardsdatascience.com/?p=607943</id>
-        <link href="https://towardsdatascience.com/agentic-ai-swarm-optimization-using-artificial-bee-colonization-abc/"/>
-        <updated>2025-12-19T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using Agentic AI prompts with the Artificial Bee Colony algorithm to enhance unsupervised clustering and optimization workflows.
-The post Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gal Arav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3 Pro vs GPT 5.2: The Ultimate 2025 AI Showdown]]></title>
-        <id>https://www.analyticsvidhya.com/?p=248005</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/gemini-3-pro-vs-gpt-5-2/"/>
-        <updated>2025-12-19T16:24:18.000Z</updated>
-        <summary type="html"><![CDATA[The AI wars reached their highest point in late 2025. Google released Gemini 3 Pro on November 18, and in no time, it had 2 billion users. OpenAI then took the plunge, issuing GPT 5.2 on December 9, having previously planned it to take a while longer but now quickening their pace because of the […]
-The post Gemini 3 Pro vs GPT 5.2: The Ultimate 2025 AI Showdown appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 YouTube Channels to Learn Python]]></title>
-        <id>https://www.analyticsvidhya.com/?p=248200</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-python/"/>
-        <updated>2025-12-19T16:22:11.000Z</updated>
-        <summary type="html"><![CDATA[With so much going on in tech nowadays, it might be hard for one to figure out where to begin. With learners having different preferences and requirements, catering to all of them might be a tall order. But this article is here to bridge that gap.  This article will list 10 YouTube channels for 10 […]
-The post Top 10 YouTube Channels to Learn Python appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Optimized My Leaf Raking Strategy Using Linear Programming]]></title>
-        <id>https://towardsdatascience.com/?p=607940</id>
-        <link href="https://towardsdatascience.com/how-i-optimized-my-leaf-raking-strategy-using-linear-programming/"/>
-        <updated>2025-12-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From a weekend chore to a fun application of valuable operations research principles
-The post How I Optimized My Leaf Raking Strategy Using Linear Programming appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Josiah DeValois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of the Laboratory]]></title>
-        <id>13da4810-dc5e-11f0-b1e6-474d582f398b</id>
-        <link href="https://www.nasa.gov/podcasts/nasa-podcasts/the-evolution-of-the-laboratory/"/>
-        <updated>2025-12-19T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[International Space Station leaders Laura Shaw and  Jennifer Buchli discuss the science, discoveries, and innovations that have defined nearly 25 years aboard the orbiting laboratory. HWHAP 406.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
         </author>
     </entry>
 </feed>
