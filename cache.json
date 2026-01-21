@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608203",
+          "author": "Salvatore Cagliari",
+          "description": "Let's look at calculating the moving average over time\nThe post Does Calendar-Based Time-Intelligence Change Custom Logic? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/does-calendar-based-time-intelligence-change-custom-logic/",
+          "publishedOn": "2026-01-20T16:30:00.000Z",
+          "wordCount": 4352,
+          "title": "Does Calendar-Based Time-Intelligence Change Custom Logic?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/road-ahead-r1CDF8HXgJY-unsplash-1-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608201",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to perform code refactoring with LLMs\nThe post How to Perform Large Code Refactors in Cursor appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-perform-large-code-refactors-in-cursor/",
+          "publishedOn": "2026-01-20T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Perform Large Code Refactors in Cursor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608199",
+          "author": "Thomas Reid",
+          "description": "Numpy or SciKit-Learn might meet all your retrieval needs\nThe post You Probably Don’t  Need a Vector Database for Your RAG — Yet appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/you-probably-dont-need-a-vector-database-for-your-rag-yet/",
+          "publishedOn": "2026-01-20T13:30:00.000Z",
+          "wordCount": null,
+          "title": "You Probably Don’t  Need a Vector Database for Your RAG — Yet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608196",
+          "author": "Dan Yeaw",
+          "description": "How sharded indexing patterns solve a scaling problem in package management\nThe post Why Package Installs Are Slow (And How to Fix It) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-package-installs-are-slow-and-how-to-fix-it/",
+          "publishedOn": "2026-01-20T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Package Installs Are Slow (And How to Fix It)",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608166",
           "author": "TDS Editors",
           "description": "Diluting complex research, spotting silent data leaks, and why the best way to learn is often backwards.\nThe post Bridging the Gap Between Research and Readability with Marco Hening Tallarico appeared first on Towards Data Science.",
@@ -990,26 +1030,6 @@
           "wordCount": 17282,
           "title": "How to Do Evals on a Bloated RAG Pipeline",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Skarmavbild-2025-12-16-kl.-17.31.06.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607949",
-          "author": "Mike Huls",
-          "description": "MCP is a key enabler into turning your LLM into an agent by providing it with tools to retrieve real-time information or perform actions.\nThe post Tools for Your LLM: a Deep Dive into MCP appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tools-for-your-llm-a-deep-dive-into-mcp/",
-          "publishedOn": "2025-12-21T13:00:00.000Z",
-          "wordCount": 4305,
-          "title": "Tools for Your LLM: a Deep Dive into MCP",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/tools.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607946",
-          "author": "Stephanie Kirmer",
-          "description": "What do regular technology users think (and know) about AI?\nThe post Understanding the Generative AI User appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/understanding-the-generative-ai-user/",
-          "publishedOn": "2025-12-20T15:00:00.000Z",
-          "wordCount": 4688,
-          "title": "Understanding the Generative AI User",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/0_6f4Yz6FMmrHnFgTe.jpg"
         }
       ]
     },
@@ -1157,16 +1177,6 @@
           "wordCount": 11918,
           "title": "Pretraining a Llama Model on Your Local GPU",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/hongbin-xIEKIFJzJf0-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22824",
-          "author": "Adrian Tam",
-          "description": "This article is divided into two parts; they are: • Simple RoPE • RoPE for Long Context Length Compared to the sinusoidal position embeddings in the original Transformer paper, RoPE mutates the input tensor using a rotation matrix: $$ \\begin{aligned} X_{n,i} &= X_{n,i} \\cos(n\\theta_i) - X_{n,\\frac{d}{2}+i} \\sin(n\\theta_i) \\\\ X_{n,\\frac{d}{2}+i} &= X_{n,i} \\sin(n\\theta_i) + X_{n,\\frac{d}{2}+i} \\cos(n\\theta_i) \\end{aligned} $$ where $X_{n,i}$ is the $i$-th element of the vector at the $n$-th position of the sequence of tensor $X$.",
-          "link": "https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/",
-          "publishedOn": "2025-12-20T15:51:36.000Z",
-          "wordCount": 8481,
-          "title": "Rotary Position Embeddings for Long Context Length",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/nastya-dulhiier-3Ze88tZX-p0-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1221,6 +1231,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+          "author": null,
+          "description": "A Blog post by Microsoft on Hugging Face",
+          "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+          "publishedOn": "2026-01-20T03:20:57.000Z",
+          "wordCount": 2415,
+          "title": "Differential Transformer V2",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/5df85abada6d0311fd3d5408/ULgU7-Z51YYJN4fl1FnWH.jpeg"
+        },
+        {
+          "id": "https://huggingface.co/blog/waypoint-1",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/waypoint-1",
+          "publishedOn": "2026-01-20T00:00:00.000Z",
+          "wordCount": 941,
+          "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+          "imageUrl": "https://huggingface.co/blog/assets/overworld/overworld_image.png"
+        },
         {
           "id": "https://huggingface.co/blog/microsoft/optimind",
           "author": null,
@@ -1304,6 +1334,21 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1160129",
+          "author": "Reuben Tan, Baolin Peng, Zhengyuan Yang, Oier Mees, Jianfeng Gao",
+          "description": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications.\nThe post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+          "publishedOn": "2026-01-20T17:00:00.000Z",
+          "wordCount": 3896,
+          "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos-demo-video.mp4",
+            "length": "101343835",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Argos-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1159707",
           "author": "Xinzhi Zhang, Zeyi Chen, Humishka Hope, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan (Jana) Kulkarni, Ishai Menache, Sirui Li",
@@ -1576,6 +1621,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250051",
+          "author": "Harsh Mishra",
+          "description": "AI and ML developers often work with local datasets while preprocessing data. Engineering features, and building prototypes make this easy without the overhead of a full server. The most common comparison is between SQLite, a serverless database released in 2000 and widely used for lightweight transactions, and DuckDB, introduced in 2019 as the SQLite of […]\nThe post DuckDB vs. SQLite: A Comprehensive Comparison  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/duckdb-vs-sqlite/",
+          "publishedOn": "2026-01-20T14:28:02.000Z",
+          "wordCount": null,
+          "title": "DuckDB vs. SQLite: A Comprehensive Comparison",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249978",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Large language models are great. We all can agree to that. They’ve been a cornerstone of modern industry and are increasingly impacting more and more domains.  With constant upgrades and improvements to the architecture and capabilities of language models, one might think – That’s it! Alas… A recent development under the name of RLM or […]\nThe post What are Recursive Language Models (RLM)? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/what-are-recursive-language-models-rlm/",
+          "publishedOn": "2026-01-20T07:53:21.000Z",
+          "wordCount": null,
+          "title": "What are Recursive Language Models (RLM)?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=249919",
           "author": "Nitika Sharma",
@@ -2268,6 +2335,36 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/cisco",
+          "author": null,
+          "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+          "link": "https://openai.com/index/cisco",
+          "publishedOn": "2026-01-20T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+          "author": null,
+          "description": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+          "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+          "publishedOn": "2026-01-20T05:45:00.000Z",
+          "wordCount": null,
+          "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/our-approach-to-age-prediction",
+          "author": null,
+          "description": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+          "link": "https://openai.com/index/our-approach-to-age-prediction",
+          "publishedOn": "2026-01-20T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Our approach to age prediction",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/ai-for-self-empowerment",
           "author": null,
           "description": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
@@ -2536,6 +2633,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "gCdNKX8Y4YmqQyxrX",
+          "author": "TurnTrout",
+          "description": "Published on January 20, 2026 10:16 PM GMT\n\nThe secret is that instrumental convergence is a fact about reality (about the space of possible plans), not AI psychology.\nZack M. Davis, group discussion\nSuch arguments flitter around the AI safety space. While these arguments contain some truth, they attempt to escape \"AI psychology\" but necessarily fail. To predict bad outcomes from AI, one must take a stance on how AI will tend to select plans.\nThis topic is a specialty of mine. Where does instrumental convergence come from? Since I did my alignment PhD on exactly this question, I'm well-suited to explain the situation.\nIn this article, I do not argue that building transformative AI is safe or that transformative AIs won't tend to select dangerous plans. I simply argue against the claim that…",
+          "link": "https://www.alignmentforum.org/posts/gCdNKX8Y4YmqQyxrX/no-instrumental-convergence-without-ai-psychology-1",
+          "publishedOn": "2026-01-20T22:16:14.000Z",
+          "wordCount": null,
+          "title": "No instrumental convergence without AI psychology",
+          "imageUrl": null
+        },
+        {
           "id": "ZeWewFEefCtx4Rj3G",
           "author": "RogerDearnaley",
           "description": "Published on January 19, 2026 9:24 PM GMT\n\nAlignment Pretraining Shows Promise\nTL;DR: A new paper shows that pretraining language models on data about AI behaving well dramatically reduces misaligned behavior, and this effect persists through post-training. The major labs appear to be taking notice. It’s now the third paper on this idea, and excitement seems to be building.\nHow We Got Here\n(This is a survey/reading list, and doubtless omits some due credit and useful material — please suggest additions in the comments, so I can update it. Or you can just skip forward to the paper.)\nPersonally I’ve been very excited about this alignment technique for a couple of years, ever since I read the seminal paper on it Pretraining Language Models with Human Preferences (Feb ’23).[1] (This technique …",
@@ -2543,6 +2650,16 @@
           "publishedOn": "2026-01-19T21:24:57.000Z",
           "wordCount": null,
           "title": "Pretraining on Aligned AI Data Dramatically Reduces Misalignment—Even After Post-Training",
+          "imageUrl": null
+        },
+        {
+          "id": "rgviB6pAu3g5Jvwzz",
+          "author": "Tim Hua",
+          "description": "Published on January 19, 2026 6:09 PM GMT\n\nMany people believe that the first AI capable of taking over would be quite different from the LLMs of today. Suppose this is true—does prosaic alignment research on LLMs still reduce x-risk? I believe advances in LLM alignment research reduce x-risk even if future AIs are different. I’ll call these “non-LLM AIs.” In this post, I explore two mechanisms for LLM alignment research to reduce x-risk:\n\nDirect transfer: We can directly apply the research to non-LLM AIs—for example, reusing behavioral evaluations or retraining model organisms. As I wrote this post, I was surprised by how much research may transfer directly.\nIndirect transfer: The LLM could be involved in training, control, and oversight of the non-LLM AI. Generally, having access to powe…",
+          "link": "https://www.alignmentforum.org/posts/rgviB6pAu3g5Jvwzz/could-llm-alignment-research-reduce-x-risk-if-the-first",
+          "publishedOn": "2026-01-19T18:09:19.000Z",
+          "wordCount": null,
+          "title": "Could LLM alignment research reduce x-risk if the first takeover-capable AI is not an LLM?",
           "imageUrl": null
         },
         {
