@@ -2,10 +2,174 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-01-21T01:28:48.797Z</updated>
+    <updated>2026-01-22T01:28:37.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When should we train against a scheming monitor?]]></title>
+        <id>u67JAa6FKKpQJPp3m</id>
+        <link href="https://www.alignmentforum.org/posts/u67JAa6FKKpQJPp3m/when-should-we-train-against-a-scheming-monitor"/>
+        <updated>2026-01-21T20:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 21, 2026 8:48 PM GMT
+
+As we develop new techniques for detecting deceptive alignment, ranging from action monitoring to Chain-of-Thought (CoT) or activations monitoring, we face a dilemma: once we detect scheming behaviour or intent, should we use that signal to "train the scheming out"?
+On the one hand, leaving known misaligned behaviour / intent in the model is not marginally informative and possibly unsafe. On the other hand, training against a monitor might not actually fix the model's underlying motivations; it might simply provide selection pressure that favours more sophisticated, less detectable forms of deception.
+This post outlines a simple framework formalising when the generalisation benefit of training outweighs the selection risk of creating a schemer. I …]]></summary>
+        <author>
+            <name>Mary Phuong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50+ Machine Learning Resources for Self Study in 2026]]></title>
+        <id>https://www.analyticsvidhya.com/?p=167106</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/"/>
+        <updated>2026-01-21T19:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2026? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting field […]
+The post 50+ Machine Learning Resources for Self Study in 2026 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Aayush Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Good at Agents]]></title>
+        <id>https://www.interconnects.ai/p/get-good-at-agents</id>
+        <link href="https://www.interconnects.ai/p/get-good-at-agents"/>
+        <updated>2026-01-21T17:05:15.000Z</updated>
+        <summary type="html"><![CDATA[The tools are getting so powerful that we need to change how we scope, manage, and approach our work.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data]]></title>
+        <id>https://towardsdatascience.com/?p=608211</id>
+        <link href="https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/"/>
+        <updated>2026-01-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Trends is one of the most widely used tools for analysing human behaviour at scale. Journalists use it. Data scientists use it. Entire papers are built on it. But there is a fundamental property of Google Trends data that makes it very easy to misuse, especially if you are working with time series or trying to build models, and most people never realise they are doing it.
+The post Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Leigh Collier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If You Want to Become a Data Scientist in 2026, Do This]]></title>
+        <id>https://towardsdatascience.com/?p=608209</id>
+        <link href="https://towardsdatascience.com/why-most-people-struggle-to-get-data-science-jobs-in-2026/"/>
+        <updated>2026-01-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn from my mistakes and fast track your data science career
+The post If You Want to Become a Data Scientist in 2026, Do This appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1]]></title>
+        <id>https://www.rsipvision.com/?p=16991</id>
+        <link href="https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai/"/>
+        <updated>2026-01-21T14:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Part 1: Introduction From DICOM Chaos to Training-Ready Data: Why the Dataset Pipeline Is the Real Model If you’re building algorithms in medical AI, you’ve probably lived through some version of this: You introduce a new model architecture and performance improves by 3%… then drops by 6% next run. A “simple” dataset addition triggers weird …
+  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1 Read More »
+The post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1 appeared first on RSIP Vision.]]></summary>
+        <author>
+            <name>David M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors]]></title>
+        <id>https://towardsdatascience.com/?p=608207</id>
+        <link href="https://towardsdatascience.com/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors/"/>
+        <updated>2026-01-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How I built a self-healing pipeline that automatically fixes bad CSVs, schema changes, and weird delimiters.
+The post Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Case for the T-statistic]]></title>
+        <id>https://towardsdatascience.com/?p=608205</id>
+        <link href="https://towardsdatascience.com/a-case-for-the-t-statistic/"/>
+        <updated>2026-01-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[And how it compares to the run-of-the-mill z-score
+The post A Case for the T-statistic appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aniruddha Karajgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 NotebookLM Super Prompts For Pro-Level Productivity]]></title>
+        <id>https://www.analyticsvidhya.com/?p=249892</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/notebooklm-super-prompts-for-pro-level-productivity/"/>
+        <updated>2026-01-21T11:07:37.000Z</updated>
+        <summary type="html"><![CDATA[I have reiterated it time and again. But let me mention it here once more – NotebookLM is one of the most powerful AI tools present today. If you already know of it, the reasons for this statement are obvious to you. In case you are unaware, know that NotebookLM can change the way you […]
+The post 10 NotebookLM Super Prompts For Pro-Level Productivity appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Higgsfield turns simple ideas into cinematic social videos]]></title>
+        <id>https://openai.com/index/higgsfield</id>
+        <link href="https://openai.com/index/higgsfield"/>
+        <updated>2026-01-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250078</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/mcptoolbox-for-databases/"/>
+        <updated>2026-01-21T09:32:52.000Z</updated>
+        <summary type="html"><![CDATA[Talking to software feels natural now, until you need real business data. That’s where things usually break. MCPToolbox to Databases fixes this by giving AI agents safe, reliable access to production databases through a standardized MCP interface. Databases become first-class tools that agents can inspect, query, and reason over using clean, production-ready natural language to […]
+The post MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality]]></title>
+        <id>https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</id>
+        <link href="https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face"/>
+        <updated>2026-01-21T06:25:31.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250066</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/01/flux-2-klein-ai-image-model/"/>
+        <updated>2026-01-21T06:03:03.000Z</updated>
+        <summary type="html"><![CDATA[I see AI image models getting better every month. Sharper outputs, more parameters, higher benchmark scores. So why would I, or anyone for that matter, get excited about a smaller AI image model? Well, because most image models still behave like offline tools. You prompt, you wait, you hope. There is nothing interactive about that. […]
+The post Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Edu for Countries]]></title>
+        <id>https://openai.com/index/edu-for-countries</id>
+        <link href="https://openai.com/index/edu-for-countries"/>
+        <updated>2026-01-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How countries can end the capability overhang]]></title>
+        <id>https://openai.com/index/how-countries-can-end-the-capability-overhang</id>
+        <link href="https://openai.com/index/how-countries-can-end-the-capability-overhang"/>
+        <updated>2026-01-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No instrumental convergence without AI psychology]]></title>
         <id>gCdNKX8Y4YmqQyxrX</id>
@@ -20,6 +184,26 @@ This topic is a specialty of mine. Where does instrumental convergence come from
 In this article, I do not argue that building transformative AI is safe or that transformative AIs won't tend to select dangerous plans. I simply argue against the claim that…]]></summary>
         <author>
             <name>TurnTrout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon 1000: Advancing AI for primary healthcare]]></title>
+        <id>https://openai.com/index/horizon-1000</id>
+        <link href="https://openai.com/index/horizon-1000"/>
+        <updated>2026-01-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stargate Community]]></title>
+        <id>https://openai.com/index/stargate-community</id>
+        <link href="https://openai.com/index/stargate-community"/>
+        <updated>2026-01-20T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -2889,115 +3073,6 @@ The post The Geometry of Laziness: What Angles Reveal About AI Hallucinations ap
 The post Understanding Vibe Proving appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Jacopo Tagliabue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Free Python Courses with Certificate]]></title>
-        <id>https://www.analyticsvidhya.com/?p=248279</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/"/>
-        <updated>2025-12-22T13:13:14.000Z</updated>
-        <summary type="html"><![CDATA[For different learning styles, goals, and comfort levels, finding a course that matches how you learn is HARD. Some people need visuals. While others wanna jump straight into code. Some need structure, others need flexibility. And many learners just want proof of effort at the end in the form of a certificate. This list is […]
-The post Top 10 Free Python Courses with Certificate appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens When You Build an LLM Using Only 1s and 0s]]></title>
-        <id>https://towardsdatascience.com/?p=607953</id>
-        <link href="https://towardsdatascience.com/what-happens-when-you-build-an-llm-using-only-1s-and-0s/"/>
-        <updated>2025-12-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An LLM that's 41× more efficient and 9× faster than today's standard models
-The post What Happens When You Build an LLM Using Only 1s and 0s appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Moulik Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 12.21.2025]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69491a9d81870a61a57d762c</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp"/>
-        <updated>2025-12-22T10:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Personalized Christmas & New Year Cards Using AI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=245398</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/ai-christmas-and-new-year-cards/"/>
-        <updated>2025-12-22T08:44:48.000Z</updated>
-        <summary type="html"><![CDATA[It is that time of the year again when work begins to slow down and the weather turns pleasant. Families and friends start coming together to celebrate the festive season and welcome the new year. As you prepare for Christmas and New Year celebrations, you can now create personalized greeting cards easily using AI. These […]
-The post Create Personalized Christmas & New Year Cards Using AI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIXI with general utility functions: "Value under ignorance in UAI"]]></title>
-        <id>SgaSFWhJJoavCcTp6</id>
-        <link href="https://www.alignmentforum.org/posts/SgaSFWhJJoavCcTp6/aixi-with-general-utility-functions-value-under-ignorance-in"/>
-        <updated>2025-12-22T05:46:35.000Z</updated>
-        <summary type="html"><![CDATA[Published on December 22, 2025 5:46 AM GMT
-
-This updated version of my AGI 2025 paper with Marcus Hutter, "Value under ignorance in universal artificial intelligence," studies general utility functions for AIXI. Surprisingly, the (hyper)computability properties have connections to imprecise probability theory! 
-AIXI uses a defective Bayesian mixture called a semimeasure, which is often viewed as expressing a chance that the agent dies. I do not think that interpretation has been sufficiently justified. Recasting semimeasures as credal sets, we can recover the (recursive) value function from reinforcement learning for discounted nonnegative rewards. We can also obtain a wider class of lower semicomputable value functions, with optimal agents following a max min decision rule.
-This is an ear…]]></summary>
-        <author>
-            <name>Cole Wyeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretraining a Llama Model on Your Local GPU]]></title>
-        <id>https://machinelearningmastery.com/?p=22831</id>
-        <link href="https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/"/>
-        <updated>2025-12-22T04:27:38.000Z</updated>
-        <summary type="html"><![CDATA[This article is divided into three parts; they are: • Training a Tokenizer with Special Tokens • Preparing the Training Data • Running the Pretraining The model architecture you will use is the same as the one created in the <a href="https://machinelearningmastery.]]></summary>
-        <author>
-            <name>Adrian Tam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One in a million: celebrating the customers shaping AI’s future]]></title>
-        <id>https://openai.com/index/one-in-a-million-customers</id>
-        <link href="https://openai.com/index/one-in-a-million-customers"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Continuously hardening ChatGPT Atlas against prompt injection]]></title>
-        <id>https://openai.com/index/hardening-atlas-against-prompt-injection</id>
-        <link href="https://openai.com/index/hardening-atlas-against-prompt-injection"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Do Evals on a Bloated RAG Pipeline]]></title>
-        <id>https://towardsdatascience.com/?p=607951</id>
-        <link href="https://towardsdatascience.com/doing-evals-on-a-bloated-rag-pipeline/"/>
-        <updated>2025-12-21T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Comparing metrics across datasets and models
-The post How to Do Evals on a Bloated RAG Pipeline appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ida Silfverskiöld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Agentic AI Pipeline for ESG Reporting]]></title>
-        <id>https://www.analyticsvidhya.com/?p=247904</id>
-        <link href="https://www.analyticsvidhya.com/blog/2025/12/building-an-agentic-ai-pipeline-for-esg-reporting/"/>
-        <updated>2025-12-21T14:25:14.000Z</updated>
-        <summary type="html"><![CDATA[ESG reporting or Environmental, Social, and Governance reporting, often feels overwhelming because the data comes from so many places and takes ages to pull together. Teams spend most of their time collecting numbers instead of interpreting what they mean. Agentic AI changes that dynamic. Instead of one chatbot answering questions, you get a coordinated group […]
-The post Building an Agentic AI Pipeline for ESG Reporting  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
         </author>
     </entry>
 </feed>

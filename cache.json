@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608211",
+          "author": "Leigh Collier",
+          "description": "Google Trends is one of the most widely used tools for analysing human behaviour at scale. Journalists use it. Data scientists use it. Entire papers are built on it. But there is a fundamental property of Google Trends data that makes it very easy to misuse, especially if you are working with time series or trying to build models, and most people never realise they are doing it.\nThe post Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/",
+          "publishedOn": "2026-01-21T16:30:00.000Z",
+          "wordCount": 4847,
+          "title": "Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Google.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608209",
+          "author": "Egor Howell",
+          "description": "Learn from my mistakes and fast track your data science career\nThe post If You Want to Become a Data Scientist in 2026, Do This appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-most-people-struggle-to-get-data-science-jobs-in-2026/",
+          "publishedOn": "2026-01-21T15:00:00.000Z",
+          "wordCount": null,
+          "title": "If You Want to Become a Data Scientist in 2026, Do This",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608207",
+          "author": "Benjamin Nweke",
+          "description": "How I built a self-healing pipeline that automatically fixes bad CSVs, schema changes, and weird delimiters.\nThe post Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors/",
+          "publishedOn": "2026-01-21T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608205",
+          "author": "Aniruddha Karajgi",
+          "description": "And how it compares to the run-of-the-mill z-score\nThe post A Case for the T-statistic appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-case-for-the-t-statistic/",
+          "publishedOn": "2026-01-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "A Case for the T-statistic",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608203",
           "author": "Salvatore Cagliari",
           "description": "Let's look at calculating the moving average over time\nThe post Does Calendar-Based Time-Intelligence Change Custom Logic? appeared first on Towards Data Science.",
@@ -1010,26 +1050,6 @@
           "wordCount": 6243,
           "title": "Understanding Vibe Proving",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/intro-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607953",
-          "author": "Moulik Gupta",
-          "description": "An LLM that's 41× more efficient and 9× faster than today's standard models\nThe post What Happens When You Build an LLM Using Only 1s and 0s appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-happens-when-you-build-an-llm-using-only-1s-and-0s/",
-          "publishedOn": "2025-12-22T12:00:00.000Z",
-          "wordCount": 4819,
-          "title": "What Happens When You Build an LLM Using Only 1s and 0s",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/coverimagebitnet.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=607951",
-          "author": "Ida Silfverskiöld",
-          "description": "Comparing metrics across datasets and models\nThe post How to Do Evals on a Bloated RAG Pipeline appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/doing-evals-on-a-bloated-rag-pipeline/",
-          "publishedOn": "2025-12-21T15:30:00.000Z",
-          "wordCount": 17282,
-          "title": "How to Do Evals on a Bloated RAG Pipeline",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/Skarmavbild-2025-12-16-kl.-17.31.06.jpg"
         }
       ]
     },
@@ -1167,16 +1187,6 @@
           "wordCount": 9208,
           "title": "3 Smart Ways to Encode Categorical Features for Machine Learning",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-3-smart-ways-encode-categorical-features-machine-learning-feature.jpeg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22831",
-          "author": "Adrian Tam",
-          "description": "This article is divided into three parts; they are: • Training a Tokenizer with Special Tokens • Preparing the Training Data • Running the Pretraining The model architecture you will use is the same as the one created in the <a href=\"https://machinelearningmastery.",
-          "link": "https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/",
-          "publishedOn": "2025-12-22T04:27:38.000Z",
-          "wordCount": 11918,
-          "title": "Pretraining a Llama Model on Your Local GPU",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/hongbin-xIEKIFJzJf0-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1231,6 +1241,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+          "author": null,
+          "description": "A Blog post by IBM Research on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+          "publishedOn": "2026-01-21T06:25:31.000Z",
+          "wordCount": 1372,
+          "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-research/assetopsbench-playground-on-hugging-face.png"
+        },
         {
           "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
           "author": null,
@@ -1511,17 +1531,6 @@
           "title": "Week Ending 12.28.2025",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69491a9d81870a61a57d762c",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp",
-          "publishedOn": "2025-12-22T10:17:42.000Z",
-          "wordCount": null,
-          "title": "Week Ending 12.21.2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1621,6 +1630,50 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=167106",
+          "author": "Aayush Tyagi",
+          "description": "Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2026? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting field […]\nThe post 50+ Machine Learning Resources for Self Study in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/",
+          "publishedOn": "2026-01-21T19:23:00.000Z",
+          "wordCount": null,
+          "title": "50+ Machine Learning Resources for Self Study in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=249892",
+          "author": "Sarthak Dogra",
+          "description": "I have reiterated it time and again. But let me mention it here once more – NotebookLM is one of the most powerful AI tools present today. If you already know of it, the reasons for this statement are obvious to you. In case you are unaware, know that NotebookLM can change the way you […]\nThe post 10 NotebookLM Super Prompts For Pro-Level Productivity appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/notebooklm-super-prompts-for-pro-level-productivity/",
+          "publishedOn": "2026-01-21T11:07:37.000Z",
+          "wordCount": null,
+          "title": "10 NotebookLM Super Prompts For Pro-Level Productivity",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250078",
+          "author": "Harsh Mishra",
+          "description": "Talking to software feels natural now, until you need real business data. That’s where things usually break. MCPToolbox to Databases fixes this by giving AI agents safe, reliable access to production databases through a standardized MCP interface. Databases become first-class tools that agents can inspect, query, and reason over using clean, production-ready natural language to […]\nThe post MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/mcptoolbox-for-databases/",
+          "publishedOn": "2026-01-21T09:32:52.000Z",
+          "wordCount": null,
+          "title": "MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250066",
+          "author": "Sarthak Dogra",
+          "description": "I see AI image models getting better every month. Sharper outputs, more parameters, higher benchmark scores. So why would I, or anyone for that matter, get excited about a smaller AI image model? Well, because most image models still behave like offline tools. You prompt, you wait, you hope. There is nothing interactive about that. […]\nThe post Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/flux-2-klein-ai-image-model/",
+          "publishedOn": "2026-01-21T06:03:03.000Z",
+          "wordCount": null,
+          "title": "Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=250051",
           "author": "Harsh Mishra",
@@ -2236,39 +2289,6 @@
           "title": "How to Use Microsoft Power Automate? [In Under 10 Minutes]",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=248279",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "For different learning styles, goals, and comfort levels, finding a course that matches how you learn is HARD. Some people need visuals. While others wanna jump straight into code. Some need structure, others need flexibility. And many learners just want proof of effort at the end in the form of a certificate. This list is […]\nThe post Top 10 Free Python Courses with Certificate appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/",
-          "publishedOn": "2025-12-22T13:13:14.000Z",
-          "wordCount": null,
-          "title": "Top 10 Free Python Courses with Certificate",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=245398",
-          "author": "Nitika Sharma",
-          "description": "It is that time of the year again when work begins to slow down and the weather turns pleasant. Families and friends start coming together to celebrate the festive season and welcome the new year. As you prepare for Christmas and New Year celebrations, you can now create personalized greeting cards easily using AI. These […]\nThe post Create Personalized Christmas & New Year Cards Using AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/ai-christmas-and-new-year-cards/",
-          "publishedOn": "2025-12-22T08:44:48.000Z",
-          "wordCount": null,
-          "title": "Create Personalized Christmas & New Year Cards Using AI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247904",
-          "author": "Riya Bansal",
-          "description": "ESG reporting or Environmental, Social, and Governance reporting, often feels overwhelming because the data comes from so many places and takes ages to pull together. Teams spend most of their time collecting numbers instead of interpreting what they mean. Agentic AI changes that dynamic. Instead of one chatbot answering questions, you get a coordinated group […]\nThe post Building an Agentic AI Pipeline for ESG Reporting  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/building-an-agentic-ai-pipeline-for-esg-reporting/",
-          "publishedOn": "2025-12-21T14:25:14.000Z",
-          "wordCount": null,
-          "title": "Building an Agentic AI Pipeline for ESG Reporting",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2289,6 +2309,16 @@
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
       "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=16991",
+          "author": "David M",
+          "description": "Part 1: Introduction From DICOM Chaos to Training-Ready Data: Why the Dataset Pipeline Is the Real Model If you’re building algorithms in medical AI, you’ve probably lived through some version of this: You introduce a new model architecture and performance improves by 3%… then drops by 6% next run. A “simple” dataset addition triggers weird …\n  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1 Read More »\nThe post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1 appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai/",
+          "publishedOn": "2026-01-21T14:41:23.000Z",
+          "wordCount": 2709,
+          "title": "From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1",
+          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-21-2026-10_17_50-AM-1024x683.png"
+        },
         {
           "id": "https://www.rsipvision.com/?p=16977",
           "author": "David M",
@@ -2334,6 +2364,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/higgsfield",
+          "author": null,
+          "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+          "link": "https://openai.com/index/higgsfield",
+          "publishedOn": "2026-01-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "How Higgsfield turns simple ideas into cinematic social videos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/edu-for-countries",
+          "author": null,
+          "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+          "link": "https://openai.com/index/edu-for-countries",
+          "publishedOn": "2026-01-21T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing Edu for Countries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+          "author": null,
+          "description": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+          "link": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+          "publishedOn": "2026-01-21T01:00:00.000Z",
+          "wordCount": null,
+          "title": "How countries can end the capability overhang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/horizon-1000",
+          "author": null,
+          "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+          "link": "https://openai.com/index/horizon-1000",
+          "publishedOn": "2026-01-20T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Horizon 1000: Advancing AI for primary healthcare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/stargate-community",
+          "author": null,
+          "description": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+          "link": "https://openai.com/index/stargate-community",
+          "publishedOn": "2026-01-20T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Stargate Community",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/cisco",
           "author": null,
@@ -2533,26 +2613,6 @@
           "wordCount": null,
           "title": "Announcing OpenAI Grove Cohort 2",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/one-in-a-million-customers",
-          "author": null,
-          "description": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
-          "link": "https://openai.com/index/one-in-a-million-customers",
-          "publishedOn": "2025-12-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "One in a million: celebrating the customers shaping AI’s future",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-          "author": null,
-          "description": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
-          "link": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-          "publishedOn": "2025-12-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-          "imageUrl": null
         }
       ]
     },
@@ -2561,6 +2621,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/get-good-at-agents",
+          "author": "Nathan Lambert",
+          "description": "The tools are getting so powerful that we need to change how we scope, manage, and approach our work.",
+          "link": "https://www.interconnects.ai/p/get-good-at-agents",
+          "publishedOn": "2026-01-21T17:05:15.000Z",
+          "wordCount": null,
+          "title": "Get Good at Agents",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/3b06aea4-b4fc-468e-8058-2338a61a731b_1536x1024.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3b06aea4-b4fc-468e-8058-2338a61a731b_1536x1024.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/use-multiple-models",
           "author": "Nathan Lambert",
@@ -2632,6 +2708,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "u67JAa6FKKpQJPp3m",
+          "author": "Mary Phuong",
+          "description": "Published on January 21, 2026 8:48 PM GMT\n\nAs we develop new techniques for detecting deceptive alignment, ranging from action monitoring to Chain-of-Thought (CoT) or activations monitoring, we face a dilemma: once we detect scheming behaviour or intent, should we use that signal to \"train the scheming out\"?\nOn the one hand, leaving known misaligned behaviour / intent in the model is not marginally informative and possibly unsafe. On the other hand, training against a monitor might not actually fix the model's underlying motivations; it might simply provide selection pressure that favours more sophisticated, less detectable forms of deception.\nThis post outlines a simple framework formalising when the generalisation benefit of training outweighs the selection risk of creating a schemer. I …",
+          "link": "https://www.alignmentforum.org/posts/u67JAa6FKKpQJPp3m/when-should-we-train-against-a-scheming-monitor",
+          "publishedOn": "2026-01-21T20:48:17.000Z",
+          "wordCount": null,
+          "title": "When should we train against a scheming monitor?",
+          "imageUrl": null
+        },
         {
           "id": "gCdNKX8Y4YmqQyxrX",
           "author": "TurnTrout",
@@ -2930,16 +3016,6 @@
           "publishedOn": "2025-12-22T16:56:24.000Z",
           "wordCount": null,
           "title": "Can we interpret latent reasoning using current mechanistic interpretability tools?",
-          "imageUrl": null
-        },
-        {
-          "id": "SgaSFWhJJoavCcTp6",
-          "author": "Cole Wyeth",
-          "description": "Published on December 22, 2025 5:46 AM GMT\n\nThis updated version of my AGI 2025 paper with Marcus Hutter, \"Value under ignorance in universal artificial intelligence,\" studies general utility functions for AIXI. Surprisingly, the (hyper)computability properties have connections to imprecise probability theory! \nAIXI uses a defective Bayesian mixture called a semimeasure, which is often viewed as expressing a chance that the agent dies. I do not think that interpretation has been sufficiently justified. Recasting semimeasures as credal sets, we can recover the (recursive) value function from reinforcement learning for discounted nonnegative rewards. We can also obtain a wider class of lower semicomputable value functions, with optimal agents following a max min decision rule.\nThis is an ear…",
-          "link": "https://www.alignmentforum.org/posts/SgaSFWhJJoavCcTp6/aixi-with-general-utility-functions-value-under-ignorance-in",
-          "publishedOn": "2025-12-22T05:46:35.000Z",
-          "wordCount": null,
-          "title": "AIXI with general utility functions: \"Value under ignorance in UAI\"",
           "imageUrl": null
         }
       ]
