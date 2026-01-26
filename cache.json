@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608244",
+          "author": "Pushpak Bhoge",
+          "description": "Why specialized models still hold the 30x speed advantage in production environments\nThe post SAM 3 vs. Specialist Models — A Performance Benchmark appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/sam-3-vs-specialist-models-a-performance-benchmark/",
+          "publishedOn": "2026-01-25T15:00:00.000Z",
+          "wordCount": 6282,
+          "title": "SAM 3 vs. Specialist Models — A Performance Benchmark",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/5f9754e8-0210-4d79-a7e0-8fdf92823c16_1920x960.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608242",
+          "author": "Destin Gong",
+          "description": "Compare Azure ML and AWS SageMaker for scalable model training, focusing on project setup, permission management, and data storage patterns, to align platform choices with existing cloud ecosystem and preferred MLOps workflows\nThe post Azure ML vs. AWS SageMaker: A Deep Dive into Model Training — Part 1 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/azure-ml-vs-aws-sagemaker-a-deep-dive-into-scalable-model-training-part-1/",
+          "publishedOn": "2026-01-25T13:00:00.000Z",
+          "wordCount": 4872,
+          "title": "Azure ML vs. AWS SageMaker: A Deep Dive into Model Training — Part 1",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Azure-ML-vs.-AWS-Sagemaker.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608236",
           "author": "Kaixuan Chen",
           "description": "An introduction to neural machine translation\nThe post How to Build a Neural Machine Translation System for a Low-Resource Language appeared first on Towards Data Science.",
@@ -990,26 +1010,6 @@
           "wordCount": 5332,
           "title": "Think Your Python Code Is Slow? Stop Guessing and Start Measuring",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-fotor-2025100817105.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608010",
-          "author": "Gustavo Santos",
-          "description": "A step-by-step guide from weather API ETL to dashboard on Databricks\nThe post How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/",
-          "publishedOn": "2025-12-26T13:00:00.000Z",
-          "wordCount": 4952,
-          "title": "How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/weatherbot-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608007",
-          "author": "Aniruddha Karajgi",
-          "description": "An intuitive explanation of transforming random variables correctly.\nThe post Keeping Probabilities Honest: The Jacobian Adjustment appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/keeping-probabilities-honest-the-jacobian-adjustment/",
-          "publishedOn": "2025-12-25T15:00:00.000Z",
-          "wordCount": 4858,
-          "title": "Keeping Probabilities Honest: The Jacobian Adjustment",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/image-1-1.jpg"
         }
       ]
     },
@@ -1187,26 +1187,6 @@
           "wordCount": 6960,
           "title": "5 Python Libraries for Advanced Time Series Forecasting",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/Untitled-design.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22901",
-          "author": "Adrian Tam",
-          "description": "This article is divided into two parts; they are: • Data Parallelism • Distributed Data Parallelism If you have multiple GPUs, you can combine them to operate as a single GPU with greater memory capacity.",
-          "link": "https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/",
-          "publishedOn": "2025-12-26T06:44:15.000Z",
-          "wordCount": 11555,
-          "title": "Training a Model on Multiple GPUs with Data Parallelism",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/ilse-orsel-hjmV0xG-KPk-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22898",
-          "author": "Adrian Tam",
-          "description": "This article is divided into two parts; they are: • Using `torch.",
-          "link": "https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/",
-          "publishedOn": "2025-12-25T16:44:48.000Z",
-          "wordCount": 7154,
-          "title": "Train a Model Faster with torch.compile and Gradient Accumulation",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/francois-genon-IvlV_Dlt9hg-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1642,6 +1622,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250275",
+          "author": "Priyanka Kuvalekar",
+          "description": "I have spent the last several years watching enterprise collaboration tools get smarter. Join a video call today, and there’s a good chance five or six AI agents are running simultaneously: transcription, speaker identification, captions, summarization, task extraction. On the product side of it, each agent gets evaluated in isolation. Separate dashboards, separate metrics. Transcription […]\nThe post How UX Research Methods Reveal Hidden AI Orchestration Failures in Enterprise Collaboration Agents appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/how-ux-research-reveals-hidden-ai-orchestration-failures/",
+          "publishedOn": "2026-01-25T09:13:32.000Z",
+          "wordCount": null,
+          "title": "How UX Research Methods Reveal Hidden AI Orchestration Failures in Enterprise Collaboration Agents",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=244475",
           "author": "Vasu Deo Sankrityayan",
@@ -2288,28 +2279,6 @@
           "publishedOn": "2025-12-27T09:05:00.000Z",
           "wordCount": null,
           "title": "Top 6 YouTube Channels to Learn SQL",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=248277",
-          "author": "Mounish V",
-          "description": "Agent creation has become easier than ever but have you ever thought – how can we make them more powerful than they already are? I recently thought of one possible way – what if they had realtime information about specific categories like finance and movies. That would be really cool, right? While exploring this option, […]\nThe post Build AI Agents with RapidAPI for Real-Time Data appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/build-ai-agents-with-rapidapi-for-real-time-data/",
-          "publishedOn": "2025-12-26T12:12:00.000Z",
-          "wordCount": null,
-          "title": "Build AI Agents with RapidAPI for Real-Time Data",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=247992",
-          "author": "Harsh Mishra",
-          "description": "The NotebookLM is a relatively new Internet phenomenon, in which Google has distinguished itself, thanks to its Audio Overview mode – a mechanism that transforms the text in the paper into a two-person podcast. All of this, in a single click. But what should you do when you wish to build it yourself and do […]\nThe post Build Your Own NotebookLlama: A PDF to Podcast Pipeline (Open, Fast, and Fully Yours) appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2025/12/build-your-own-notebookllama/",
-          "publishedOn": "2025-12-26T09:06:00.000Z",
-          "wordCount": null,
-          "title": "Build Your Own NotebookLlama: A PDF to Podcast Pipeline (Open, Fast, and Fully Yours)",
           "itunes": {},
           "imageUrl": null
         }
@@ -3019,16 +2988,6 @@
           "publishedOn": "2025-12-26T16:37:52.000Z",
           "wordCount": null,
           "title": "Measuring no CoT math time horizon (single forward pass)",
-          "imageUrl": null
-        },
-        {
-          "id": "tn8nKcNE4SDnDxLJj",
-          "author": "Igor Ivanov",
-          "description": "Published on December 25, 2025 5:26 PM GMT\n\nThanks to Jordan Taylor and Sohaib Imran for helping to make this post better.\nIf you are a researcher who wants to work on one of the directions or a funder who wants to fund one, feel free to reach out to me. I've been thinking for a while on many of the proposals and would love to share more context on them.\n\nEval awareness is important and under-researched!\nI work on evaluation awareness. I study whether models can tell when they're being evaluated and how this affects their behavior during evaluations. The issue is pressing: models rapidly become more and more eval aware. For example, Anthropic evaluated Sonnet 4.5 on their alignment tests, and they found that the rate of misalignment had dropped to almost 0% compared to 10% of Claude Sonnet…",
-          "link": "https://www.alignmentforum.org/posts/tn8nKcNE4SDnDxLJj/call-for-science-of-eval-awareness-research-directions",
-          "publishedOn": "2025-12-25T17:26:35.000Z",
-          "wordCount": null,
-          "title": "Call for Science of Eval Awareness (+ Research Directions)",
           "imageUrl": null
         }
       ]
