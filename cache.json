@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608302",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to efficiently solve problems with coding agents\nThe post How to Apply Agentic Coding to Solve Problems appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-apply-agentic-coding-to-solve-problem/",
+          "publishedOn": "2026-01-31T15:00:00.000Z",
+          "wordCount": 4075,
+          "title": "How to Apply Agentic Coding to Solve Problems",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-214.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608304",
+          "author": "Thomas Reid",
+          "description": "Ollama now offers Anthropic API compatibility\nThe post How to Run Claude Code for Free with Local and Cloud Models from Ollama appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/run-claude-code-for-free-with-local-and-cloud-models-from-ollama/",
+          "publishedOn": "2026-01-31T13:00:00.000Z",
+          "wordCount": 6148,
+          "title": "How to Run Claude Code for Free with Local and Cloud Models from Ollama",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-08_59_52-PM.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608300",
           "author": "Mahnoor Javed",
           "description": "A beginner-friendly Python tutorial\nThe post Creating an Etch A Sketch App Using Python and Turtle appeared first on Towards Data Science.",
@@ -50,6 +70,16 @@
           "wordCount": 3999,
           "title": "Multi-Attribute Decision Matrices, Done Right",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/untitled_hero.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608312",
+          "author": "TDS Editors",
+          "description": "Don't miss our most-read and -shared stories of the past month\nThe post TDS Newsletter: January Must-Reads on Data Platforms, Infinite Context, and More appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/tds-newsletter-january-must-reads-on-data-platforms-infinite-context-and-more/",
+          "publishedOn": "2026-01-29T18:39:00.000Z",
+          "wordCount": 3472,
+          "title": "TDS Newsletter: January Must-Reads on Data Platforms, Infinite Context, and More",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/helen-michielin-Q80f8Gq_Jdg-unsplash.jpg"
         },
         {
           "id": "https://towardsdatascience.com/?p=608289",
@@ -1045,26 +1075,6 @@
           "wordCount": 5334,
           "title": "EDA in Public (Part 3): RFM Analysis for Customer Segmentation in Pandas",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/EDA-with-Pandas-img.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608049",
-          "author": "Vedant Jumle",
-          "description": "Robot friends collaborate to learn to fly a drone\nThe post Deep Reinforcement Learning: The Actor-Critic Method appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/deep-reinforcement-learning-the-actor-critic-method/",
-          "publishedOn": "2026-01-01T13:00:00.000Z",
-          "wordCount": 6401,
-          "title": "Deep Reinforcement Learning: The Actor-Critic Method",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/20251228_1152_Actor-Critic-Drone-Teamwork_simple_compose_01kdhsyv2reaj8tqbawwb75ttj.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608044",
-          "author": "Mariya Mansurova",
-          "description": "From simple chat to multi-agent reasoning and real-time REST APIs\nThe post Production-Ready LLMs Made Simple with the NeMo Agent Toolkit appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/production-ready-llms-made-simple-with-nemo-agent-toolkit/",
-          "publishedOn": "2025-12-31T15:30:00.000Z",
-          "wordCount": 7814,
-          "title": "Production-Ready LLMs Made Simple with the NeMo Agent Toolkit",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/12/812d5a6c-49d8-4c98-b338-542ea67ba67c.jpeg"
         }
       ]
     },
@@ -1212,16 +1222,6 @@
           "wordCount": 6977,
           "title": "Gradient Descent:The Engine of Machine Learning Optimization",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-visualizing-foundations-ml-gradient-descent-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22980",
-          "author": "Adrian Tam",
-          "description": "This article is divided into five parts; they are: • An Example of Tensor Parallelism • Setting Up Tensor Parallelism • Preparing Model for Tensor Parallelism • Train a Model with Tensor Parallelism • Combining Tensor Parallelism with FSDP Tensor parallelism originated from the Megatron-LM paper.",
-          "link": "https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/",
-          "publishedOn": "2025-12-31T21:22:39.000Z",
-          "wordCount": 16537,
-          "title": "Train Your Large Model on Multiple GPUs with Tensor Parallelism",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/01/seth-kane-XOEAHbE_vO8-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1697,6 +1697,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=78388",
+          "author": "Bhomik Sharma",
+          "description": "YOLOv26 is an edge-first object detector designed for real-time deployment, featuring NMS-free inference, quantization stability, and predictable latency.\nYOLOv26: An Object Detector Built for Real-Time Deployment first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/yolov26-real-time-deployment/",
+          "publishedOn": "2026-01-30T14:30:00.000Z",
+          "wordCount": 12645,
+          "title": "YOLOv26: An Object Detector Built for Real-Time Deployment",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/01/results_YOLOv26.png"
+        },
+        {
           "id": "https://learnopencv.com/?p=78341",
           "author": "Shubham",
           "description": "Discover the HOPE architecture, a revolutionary self-modifying AI system that solves catastrophic forgetting and scales to 10 million tokens.\nBeyond Transformers: A Deep Dive into HOPE first appeared on LearnOpenCV.",
@@ -1785,6 +1795,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250518",
+          "author": "Janvi Kumari",
+          "description": "One of the best-performing algorithms in machine learning is the boosting algorithm. These are characterised by good predictive abilities and accuracy. All the methods of gradient boosting are based on a universal notion. They get to learn through the errors of the former models. Each new model is aimed at correcting the previous mistakes. This […]\nThe post Gradient Boosting vs AdaBoost vs XGBoost vs CatBoost vs LightGBM: Finding the Best Gradient Boosting Method appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/gradient-boosting-vs-adaboost-vs-xgboost-vs-catboost-vs-lightgbm/",
+          "publishedOn": "2026-02-01T00:13:35.000Z",
+          "wordCount": null,
+          "title": "Gradient Boosting vs AdaBoost vs XGBoost vs CatBoost vs LightGBM: Finding the Best Gradient Boosting Method",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250681",
+          "author": "Nitika Sharma",
+          "description": "In late 2025, an open-source project called Clawdbot was released. Built by Peter Steinberger, it was designed to be a practical personal AI assistant: not a chatbot, but a system that could actually do things. As it evolved, Clawdbot was renamed twice. First to Moltbot, and then to OpenClaw. You can run it on your own machine, connect it to email, files, APIs, and […]\nThe post Moltbook: Where Your AI Agent Goes to Socialize appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/moltbook-for-openclaw-agents/",
+          "publishedOn": "2026-01-31T22:49:21.000Z",
+          "wordCount": null,
+          "title": "Moltbook: Where Your AI Agent Goes to Socialize",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250583",
+          "author": "Vipin Vashisth",
+          "description": "Machine learning projects work best when they connect theory to real business outcomes. In e-commerce, that means better revenue, smoother operations, and happier customers, all driven by data. By working with realistic datasets, practitioners learn how models turn patterns into decisions that actually matter. This article walks through a full machine learning workflow using an […]\nThe post End-to-End Machine Learning Project on Amazon Sales Data Using Python  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/01/machine-learning-project-on-amazon-sales-data-using-python/",
+          "publishedOn": "2026-01-31T17:48:56.000Z",
+          "wordCount": null,
+          "title": "End-to-End Machine Learning Project on Amazon Sales Data Using Python",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=250576",
           "author": "Sarthak Dogra",
@@ -2464,17 +2507,6 @@
           "publishedOn": "2026-01-02T12:10:26.000Z",
           "wordCount": null,
           "title": "Preference Fine-Tuning LFM 2 Using DPO",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=248949",
-          "author": "Soumil Jain",
-          "description": "Google just dropped T5Gemma-2, and it is a game-changer for someone working with AI models on everyday hardware. Built on the Gemma 3 family, this encoder-decoder powerhouse squeezes multimodal smarts and massive context into tiny packages. Imagine running 270M parameters running smoothly on your laptop. If you’re looking for an efficient AI that handles text, […]\nThe post Google T5Gemma-2 Explained: Trying Out a Laptop-Friendly Multimodal AI Model appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/google-t5gemma-2/",
-          "publishedOn": "2026-01-01T12:35:11.000Z",
-          "wordCount": null,
-          "title": "Google T5Gemma-2 Explained: Trying Out a Laptop-Friendly Multimodal AI Model",
           "itunes": {},
           "imageUrl": null
         }
@@ -3286,16 +3318,6 @@
           "publishedOn": "2026-01-01T16:37:22.000Z",
           "wordCount": null,
           "title": "Principled Interpretability of Reward Hacking in Closed Frontier Models",
-          "imageUrl": null
-        },
-        {
-          "id": "YABG5JmztGGPwNFq2",
-          "author": "elifland",
-          "description": "Published on December 31, 2025 10:34 PM GMT\n\nWe’ve significantly upgraded our timelines and takeoff models! It predicts when AIs will reach key capability milestones: for example, Automated Coder / AC (full automation of coding) and superintelligence / ASI (much better than the best humans at virtually all cognitive tasks). This post will briefly explain how the model works, present our timelines and takeoff forecasts, and compare it to our previous (AI 2027) models (spoiler: the AI Futures Model predicts about 3 years longer timelines to full coding automation than our previous model, mostly due to being less bullish on pre-full-automation AI R&D speedups).\nIf you’re interested in playing with the model yourself, the best way to do so is via this interactive website: aifuturesmodel.com\n\nI…",
-          "link": "https://www.alignmentforum.org/posts/YABG5JmztGGPwNFq2/ai-futures-timelines-and-takeoff-model-dec-2025-update",
-          "publishedOn": "2025-12-31T22:34:18.000Z",
-          "wordCount": null,
-          "title": "AI Futures Timelines and Takeoff Model: Dec 2025 Update",
           "imageUrl": null
         }
       ]
