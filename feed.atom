@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-02T01:56:19.519Z</updated>
+    <updated>2026-02-03T01:55:30.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Increasing AI Strategic Competence as a Safety Approach]]></title>
+        <id>uECnWtbQ95dDWqBKD</id>
+        <link href="https://www.alignmentforum.org/posts/uECnWtbQ95dDWqBKD/increasing-ai-strategic-competence-as-a-safety-approach"/>
+        <updated>2026-02-03T01:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 3, 2026 1:08 AM GMT
+
+If AIs became strategically competent enough, they may realize that RSI is too dangerous because they're not good enough at alignment or philosophy or strategy, and potentially convince, help, or work with humans to implement an AI pause. This presents an alternative "victory condition" that someone could pursue (e.g. by working on AI strategic competence) if they were relatively confident about the alignment of near-human-level AIs but concerned about the AI transition as a whole, for example because they're worried about alignment of ASI, or worried about correctly solving other philosophical problems that would arise during the transition. (But note that if the near-human-level AIs are not aligned, then this effort could backfire by letting the…]]></summary>
+        <author>
+            <name>Wei Dai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Features” aren’t always the true computational primitives of a model, but that might be fine anyways]]></title>
+        <id>iEx2KjwFse749BYsD</id>
+        <link href="https://www.alignmentforum.org/posts/iEx2KjwFse749BYsD/features-aren-t-always-the-true-computational-primitives-of"/>
+        <updated>2026-02-02T18:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 2, 2026 6:41 PM GMT
+
+Or, partly against discussion about generic “features” in mechanistic interpretability
+Probably the most debated core concept in mechanistic interpretability is that of the “feature”: common questions include “are there non-linear features, and does this mean that the linear representation hypothesis is false?”, “do SAEs recover a canonical set of features, and are SAE features ‘features’ in the first place?”, and so forth. 
+But what do people mean by feature?
+Definition 1: When asked for a definition, people in mech interp tend to define features as something like: “features are the computational primitives of the algorithm implemented by the neural network“, and point to the decompilation analogy. The obvious problem is that there might not be a…]]></summary>
+        <author>
+            <name>LawrenceC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 3]]></title>
+        <id>https://www.rsipvision.com/?p=17036</id>
+        <link href="https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai-part-3/"/>
+        <updated>2026-02-02T17:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Part 3: Prepare The Step Where “Model Bugs” Are Usually Born Once scans are organized and annotations exist, the temptation is to treat “prepare” as a quick preprocessing script. This is where teams get hurt because prepare rarely fails loudly. It produces training data that is: Plausible Consistent-looking But wrong Wrong training data is worse …
+  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 3 Read More »
+The post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 3 appeared first on RSIP Vision.]]></summary>
+        <author>
+            <name>David M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Systems That Survive Real Life]]></title>
+        <id>https://towardsdatascience.com/?p=608264</id>
+        <link href="https://towardsdatascience.com/building-systems-that-survive-real-life/"/>
+        <updated>2026-02-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sara Nobrega on the transition from data science to AI engineering, using LLMs as a bridge to DevOps, and the one engineering skill junior data scientists need to stay competitive.
+The post Building Systems That Survive Real Life appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defect Detection Models: Why High-Quality Annotation Matters]]></title>
+        <id>https://imerit.net/?p=32844</id>
+        <link href="https://imerit.net/resources/blog/the-role-of-annotation-in-model-accuracy/"/>
+        <updated>2026-02-02T15:41:15.000Z</updated>
+        <summary type="html"><![CDATA[Manufacturing has always been a race against imperfection. Every scratch on a steel surface, every hairline crack in a ball
+The post Defect Detection Models: Why High-Quality Annotation Matters appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are there lessons from high-reliability engineering for AGI safety?]]></title>
+        <id>hiiguxJ2EtfSzAevj</id>
+        <link href="https://www.alignmentforum.org/posts/hiiguxJ2EtfSzAevj/are-there-lessons-from-high-reliability-engineering-for-agi"/>
+        <updated>2026-02-02T15:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 2, 2026 3:26 PM GMT
+
+This post is partly a belated response to Joshua Achiam, currently OpenAI’s Head of Mission Alignment:
+
+If we adopt safety best practices that are common in other professional engineering fields, we'll get there … I consider myself one of the x-risk people, though I agree that most of them would reject my view on how to prevent it. I think the wholesale rejection of safety best practices from other fields is one of the dumbest mistakes that a group of otherwise very smart people has ever made. —Joshua Achiam on Twitter, 2021
+“We just have to sit down and actually write a damn specification, even if it's like pulling teeth. It's the most important thing we could possibly do," said almost no one in the field of AGI alignment, sadly. … I'm picturing …]]></summary>
+        <author>
+            <name>Steven Byrnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Injection Attack: What They Are and How to Prevent Them]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250702</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/prompt-injection-attacks-in-llm/"/>
+        <updated>2026-02-02T13:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Large language models like ChatGPT, Claude are made to follow user instructions. But following user instructions indiscriminately creates a serious weakness. Attackers can slip in hidden commands to manipulate how these systems behave, a technique called prompt injection, much like SQL injection in databases. This can lead to harmful or misleading outputs if not handled […]
+The post Prompt Injection Attack: What They Are and How to Prevent Them appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest open artifacts (#18): Arcee's 400B MoE, LiquidAI's underrated 1B model, new Kimi, and anticipation of a busy month]]></title>
+        <id>https://www.interconnects.ai/p/latest-open-artifacts-18-arcees-big</id>
+        <link href="https://www.interconnects.ai/p/latest-open-artifacts-18-arcees-big"/>
+        <updated>2026-02-02T13:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Tons of useful "niche" models and anticipation of big releases coming soon.]]></summary>
+        <author>
+            <name>Florian Brand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Darwinism: Why Scarcity Is the Source of True Intelligence]]></title>
+        <id>https://towardsdatascience.com/?p=608310</id>
+        <link href="https://towardsdatascience.com/silicon-darwinism-why-scarcity-is-the-source-of-true-intelligence/"/>
+        <updated>2026-02-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are confusing “size” with “smart.” The next leap in artificial intelligence will not come from a larger data center, but from a more constrained environment.
+The post Silicon Darwinism: Why Scarcity Is the Source of True Intelligence appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aakash Goswami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 2.1.2026]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6980860634bdc76fb2bcd876</id>
+        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst-nsfpt-74j7l"/>
+        <updated>2026-02-02T11:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Offer for Airtel Users: Free Access to Adobe Express Premium Worth Rs 4,000]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250716</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/airtel-free-adobe-express-premium-offer/"/>
+        <updated>2026-02-02T10:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Historically, India’s telecom majors have been among the frontrunners to boost the adoption of new-age digital services. With a similar deal made recently between two bigwigs, Airtel now offers its 360 million users across the country free access to Adobe Express Premium. Note that this is a global-first move and will clearly prove to be […]
+The post Big Offer for Airtel Users: Free Access to Adobe Express Premium Worth Rs 4,000 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake and OpenAI partner to bring frontier intelligence to enterprise data]]></title>
+        <id>https://openai.com/index/snowflake-partnership</id>
+        <link href="https://openai.com/index/snowflake-partnership"/>
+        <updated>2026-02-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Codex app]]></title>
+        <id>https://openai.com/index/introducing-the-codex-app</id>
+        <link href="https://openai.com/index/introducing-the-codex-app"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distributed Reinforcement Learning for Scalable High-Performance Policy Optimization]]></title>
         <id>https://towardsdatascience.com/?p=608307</id>
@@ -15,6 +164,17 @@
 The post Distributed Reinforcement Learning for Scalable High-Performance Policy Optimization appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sam Black</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Leading Healthcare Providers De‑Identify Data for Research]]></title>
+        <id>https://imerit.net/?p=23068</id>
+        <link href="https://imerit.net/resources/blog/how-leading-healthcare-providers-are-de-identifying-data-for-research/"/>
+        <updated>2026-02-01T12:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Learn modes of de-identifying reports and explore real-world case studies about how healthcare providers use de-identified data for research.
+The post How Leading Healthcare Providers De‑Identify Data for Research appeared first on iMerit.]]></summary>
+        <author>
+            <name>Brett</name>
         </author>
     </entry>
     <entry>
@@ -354,6 +514,17 @@ The post 16 NotebookLM Prompts Every Teacher Should Be Using in 2026 appeared fi
 The post DeepSeek OCR 2: AI That Reads Documents Like Humans appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Object Detection Using YOLO]]></title>
+        <id>https://imerit.net/?p=18728</id>
+        <link href="https://imerit.net/resources/blog/real-time-object-detection-using-yolo/"/>
+        <updated>2026-01-28T17:22:47.000Z</updated>
+        <summary type="html"><![CDATA[YOLO (You Only Look Once) is a fast and effective deep neural network (DNN) architecture that can identify and locate multiple objects in video, in real time. 
+The post Real-Time Object Detection Using YOLO appeared first on iMerit.]]></summary>
+        <author>
+            <name>Brett</name>
         </author>
     </entry>
     <entry>
@@ -3126,73 +3297,6 @@ The post How to Structure Your Data Science Project (With Frameworks & Best Prac
 The post Optimizing Data Transfer in AI/ML Workloads appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Chaim Rand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep MCPs Useful in Agentic Pipelines]]></title>
-        <id>https://towardsdatascience.com/?p=608061</id>
-        <link href="https://towardsdatascience.com/master-mcp-as-a-way-to-keep-mcps-useful-in-agentic-pipelines/"/>
-        <updated>2026-01-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check the tools your LLM uses before replacing it with just a more powerful model
-The post How to Keep MCPs Useful in Agentic Pipelines appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Roman S</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek mHC: Stabilizing Large Language Model Training]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249013</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/"/>
-        <updated>2026-01-03T05:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Large AI models are scaling rapidly, with bigger architectures and longer training runs becoming the norm. As models grow, however, a fundamental training stability issue has remained unresolved. DeepSeek mHC directly addresses this problem by rethinking how residual connections behave at scale. This article explains DeepSeek mHC (Manifold-Constrained Hyper-Connections) and shows how it improves large language model training stability […]
-The post DeepSeek mHC: Stabilizing Large Language Model Training appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 AI Agents Trends to Watch in 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=248999</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/"/>
-        <updated>2026-01-03T03:55:18.000Z</updated>
-        <summary type="html"><![CDATA[The bygone year has been an interesting one, especially so for the age of AI that is fast coming. We saw AI agents rise for the first time and take over repetitive tasks that traditionally required a human workforce. However, in 2025, most AI agents still lived inside demos, copilots, and experimental workflows. With the […]
-The post 15 AI Agents Trends to Watch in 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AXRP Episode 47 - David Rein on METR Time Horizons]]></title>
-        <id>GHKYwjYtwzhukpBSb</id>
-        <link href="https://www.alignmentforum.org/posts/GHKYwjYtwzhukpBSb/axrp-episode-47-david-rein-on-metr-time-horizons"/>
-        <updated>2026-01-03T00:10:53.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 3, 2026 12:10 AM GMT
-
-YouTube link
-When METR says something like “Claude Opus 4.5 has a 50% time horizon of 4 hours and 50 minutes”, what does that mean? In this episode David Rein, METR researcher and co-author of the paper “Measuring AI ability to complete long tasks”, talks about METR’s work on measuring time horizons, the methodology behind those numbers, and what work remains to be done in this domain.
-Topics we discuss:
-Measuring AI Ability to Complete Long Tasks
-The meaning of “task length”
-Examples of intermediate and hard tasks
-Why the software engineering focus
-Why task length as difficulty measure
-Is AI progress going superexponential?
-Is AI progress due to increased cost to run models?
-Why METR measures model capabilities
-How time horizons relate to recursi…]]></summary>
-        <author>
-            <name>DanielFilan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drift Detection in Robust Machine Learning Systems]]></title>
-        <id>https://towardsdatascience.com/?p=608056</id>
-        <link href="https://towardsdatascience.com/drift-detection-in-robust-machine-learning-systems/"/>
-        <updated>2026-01-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A prerequisite for long-term success of machine learning systems
-The post Drift Detection in Robust Machine Learning Systems appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Morris Stallmann</name>
         </author>
     </entry>
 </feed>
