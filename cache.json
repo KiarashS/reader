@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608335",
+          "author": "Destin Gong",
+          "description": "This article covers how Azure ML's persistent, workspace-centric compute resources differ from AWS SageMaker's on-demand, job-specific approach. Additionally, we explored environment customization options, from Azure's curated environments and custom environments to SageMaker's three level of customizations.\nThe post AWS vs. Azure: A Deep Dive into Model Training – Part 2 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/",
+          "publishedOn": "2026-02-04T16:30:00.000Z",
+          "wordCount": 5020,
+          "title": "AWS vs. Azure: A Deep Dive into Model Training – Part 2",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Azure-ML-vs.-AWS-Sagemaker-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608333",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to be an effective full-stack engineer with Claude Code\nThe post How to Work Effectively with Frontend and Backend Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-work-with-frontend-and-backend-code/",
+          "publishedOn": "2026-02-04T15:00:00.000Z",
+          "wordCount": 3952,
+          "title": "How to Work Effectively with Frontend and Backend Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-216.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608331",
+          "author": "Avishek Biswas",
+          "description": "Step-by-step guide to building autonomous memory retrieval systems\nThe post How to Build Your Own Custom LLM Memory Layer from Scratch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-your-own-custom-llm-memory-layer-from-scratch/",
+          "publishedOn": "2026-02-04T13:30:00.000Z",
+          "wordCount": 5865,
+          "title": "How to Build Your Own Custom LLM Memory Layer from Scratch",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Article_Thumbnail2-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608329",
+          "author": "Partha Sarkar",
+          "description": "The case against pre-built tools in Agentic Architectures\nThe post Plan–Code–Execute: Designing Agents That Create Their Own Tools appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/plan-code-execute-designing-agents-that-create-their-own-tools/",
+          "publishedOn": "2026-02-04T12:00:00.000Z",
+          "wordCount": 7562,
+          "title": "Plan–Code–Execute: Designing Agents That Create Their Own Tools",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Title-1-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608327",
           "author": "Sébastien Gilbert",
           "description": "Distributed agents need only decide one move ahead.\nThe post Routing in a Sparse Graph: a Distributed Q-Learning Approach appeared first on Towards Data Science.",
@@ -1045,36 +1085,6 @@
           "wordCount": 5392,
           "title": "Ray: Distributed Computing for All, Part 1",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Generated-Image-November-09-2025-2_00PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608069",
-          "author": "Alon Lanyado",
-          "description": "Instead of using shift as an excuse for poor performance, use Inverse Probability Weighting to estimate how your model should perform in the new environment\nThe post Stop Blaming the Data: A Better Way to Handle Covariance Shift appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-blaming-the-data-a-better-way-to-handle-covariance-shift/",
-          "publishedOn": "2026-01-05T13:30:00.000Z",
-          "wordCount": 4434,
-          "title": "Stop Blaming the Data: A Better Way to Handle Covariance Shift",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/apples_to_apples.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608067",
-          "author": "Muhammad Ardi",
-          "description": "An explanation of how YOLOv1 measures the correctness of its object detection and classification predictions\nThe post YOLOv1 Loss Function Walkthrough: Regression for All appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/yolov1-loss-function-walkthrough-regression-for-all/",
-          "publishedOn": "2026-01-05T12:00:00.000Z",
-          "wordCount": 8356,
-          "title": "YOLOv1 Loss Function Walkthrough: Regression for All",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/YOLOv1-Loss-Function-Cover-Image.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608063",
-          "author": "Robert Etter",
-          "description": "Running a code-free comparison in Azure\nThe post Prompt Engineering vs RAG for Editing Resumes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/prompting-engineering-vs-rag-for-editing-resumes/",
-          "publishedOn": "2026-01-04T15:00:00.000Z",
-          "wordCount": 4739,
-          "title": "Prompt Engineering vs RAG for Editing Resumes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/markus-winkler-XKKuY4ottJ0-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1202,16 +1212,6 @@
           "wordCount": 14411,
           "title": "A Gentle Introduction to Language Model Fine-tuning",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/01/nick-night-8LTlfHL47Ac-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=22967",
-          "author": "Vinod Chugani",
-          "description": "The agentic AI field is moving from experimental prototypes to production-ready autonomous systems.",
-          "link": "https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026/",
-          "publishedOn": "2026-01-05T11:00:16.000Z",
-          "wordCount": 8105,
-          "title": "7 Agentic AI Trends to Watch in 2026",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2025/12/mlm-chugani-agentic-ai-trends-watch-2026-feature-2.png"
         }
       ]
     },
@@ -1250,6 +1250,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+          "publishedOn": "2026-02-04T15:00:40.000Z",
+          "wordCount": 1183,
+          "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-colembed-v2.png"
+        },
         {
           "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
           "author": null,
@@ -1439,26 +1449,6 @@
           "wordCount": 1167,
           "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-          "author": null,
-          "description": "A Blog post by Technology Innovation Institute on Hugging Face",
-          "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-          "publishedOn": "2026-01-05T09:16:51.000Z",
-          "wordCount": 2005,
-          "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/tiiuae/falcon-h1-arabic.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia-reachy-mini",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/nvidia-reachy-mini",
-          "publishedOn": "2026-01-05T00:00:00.000Z",
-          "wordCount": 2315,
-          "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-          "imageUrl": "https://huggingface.co/blog/assets/nvidia-reachy-mini/new_thumbnail.png"
         }
       ]
     },
@@ -1780,6 +1770,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=32970",
+          "author": "Sujana Urs",
+          "description": "Autonomous vehicles (AVs) are becoming more capable every day, but how do they truly get road-ready? Beyond test tracks and\nThe post Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/data-driven-autonomous-driving-simulation-closing-the-gap-between-simulation-and-reality/",
+          "publishedOn": "2026-02-04T14:48:36.000Z",
+          "wordCount": 2288,
+          "title": "Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Featured-IMG-Data-Driven-Autonomous-Driving-Simulation-Closing-the-Gap-Between-Simulation-and-Reality-scaled.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=32893",
           "author": "Sujana Urs",
           "description": "Learn modes of de-identifying reports and explore real-world case studies about how healthcare providers use de-identified data for research.\nThe post Closing the Loop: Using Real-World Perception Failures to Update Simulation HD Maps appeared first on iMerit.",
@@ -1866,6 +1866,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250838",
+          "author": "Sarthak Dogra",
+          "description": "While we were all worried about AI taking over human jobs, artificial intelligence leaped across the length of our imagination and took a seat at the helm. Till now, the main concern for employees across the globe was human workforce being replaced by AI systems. It seems the tables have turned now, and it is […]\nThe post AI Agents Can Now Hire Real Humans appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/ai-hiring-humans/",
+          "publishedOn": "2026-02-04T10:17:38.000Z",
+          "wordCount": null,
+          "title": "AI Agents Can Now Hire Real Humans",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250795",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "AI agents are no longer just answering questions. They read code, deploy apps, run workflows, move money, search the web, and remember what happened last week. MCP servers make that possible by connecting models to real systems. MCP replaces brittle APIs with structured, permission-aware access to tools like GitHub, Stripe, Notion, databases, and web search. […]\nThe post Top 10 MCP Servers for AI Builders in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/",
+          "publishedOn": "2026-02-04T07:27:04.000Z",
+          "wordCount": null,
+          "title": "Top 10 MCP Servers for AI Builders in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=250734",
           "author": "Sarthak Dogra",
@@ -2580,17 +2602,6 @@
           "title": "How to Use Gemini 3 Pro in CLI?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=249057",
-          "author": "Harsh Mishra",
-          "description": "The LangChain ecosystem provides an important set of tools with which to construct an application using Large Language Models (LLMs). However, when the names of the companies such as LangChain, LangGraph, LangSmith, and LangFlow are mentioned, it is often difficult to know where to begin. This is a guide that shows an easy way around […]\nThe post LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/langchain-vs-langgraph-vs-langsmith-vs-langflow/",
-          "publishedOn": "2026-01-05T12:04:52.000Z",
-          "wordCount": null,
-          "title": "LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2686,6 +2697,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/navigating-health-questions",
+          "author": null,
+          "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+          "link": "https://openai.com/index/navigating-health-questions",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Navigating health questions with ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/unlocking-the-codex-harness",
+          "author": null,
+          "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+          "link": "https://openai.com/index/unlocking-the-codex-harness",
+          "publishedOn": "2026-02-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Unlocking the Codex harness: how we built the App Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/vfl-wolfsburg",
+          "author": null,
+          "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+          "link": "https://openai.com/index/vfl-wolfsburg",
+          "publishedOn": "2026-02-04T00:00:00.000Z",
+          "wordCount": null,
+          "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/sora-feed-philosophy",
           "author": null,
@@ -3114,6 +3155,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with",
+          "author": "Nathan Lambert",
+          "description": "Interconnects interview #17 on the past, present, and future of the Nemotron project.",
+          "link": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with",
+          "publishedOn": "2026-02-04T18:00:28.000Z",
+          "wordCount": null,
+          "title": "Why Nvidia builds open models with Bryan Catanzaro",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/186564530/75b1646178b010213d8417a20d5768ef.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.interconnects.ai/p/latest-open-artifacts-18-arcees-big",
           "author": "Florian Brand",
           "description": "Tons of useful \"niche\" models and anticipation of big releases coming soon.",
@@ -3446,16 +3503,6 @@
           "publishedOn": "2026-01-06T16:31:26.000Z",
           "wordCount": null,
           "title": "How AI Is Learning to Think in Secret",
-          "imageUrl": null
-        },
-        {
-          "id": "p4iJpumHt6Ay9KnXT",
-          "author": "Buck",
-          "description": "Published on January 4, 2026 10:11 PM GMT\n\nAfter five months of me (Buck) being slow at finishing up the editing on this, we’re finally putting out our inaugural Redwood Research podcast. I think it came out pretty well—we discussed a bunch of interesting and underdiscussed topics and I’m glad to have a public record of a bunch of stuff about our history. Tell your friends! Whether we do another one depends on how useful people find this one. You can watch on Youtube here, or as a Substack podcast.\n\n\n\nNotes on editing the podcast with Claude Code\n(Buck wrote this section)\nAfter the recording, we faced a problem. We had four hours of footage from our three cameras. We wanted it to snazzily cut between shots depending on who was talking. But I don’t truly in my heart believe that it’s that i…",
-          "link": "https://www.alignmentforum.org/posts/p4iJpumHt6Ay9KnXT/the-inaugural-redwood-research-podcast",
-          "publishedOn": "2026-01-04T22:11:54.000Z",
-          "wordCount": null,
-          "title": "The inaugural Redwood Research podcast",
           "imageUrl": null
         }
       ]
