@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608342",
+          "author": "Julian Mendel",
+          "description": "Are the human-like cognitive abilities of LLMs real or fake? How does information travel through the neural network? Is there hidden knowledge inside an LLM?\nThe post Mechanistic Interpretability: Peeking Inside an LLM appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/mechanistic-interpretability-peeking-inside-an-llm/",
+          "publishedOn": "2026-02-05T15:00:00.000Z",
+          "wordCount": 6330,
+          "title": "Mechanistic Interpretability: Peeking Inside an LLM",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/attention_l5h6-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608340",
+          "author": "Kenneth McCarthy",
+          "description": "Stop guessing and start diagnosing performance issues using Py-Spy\nThe post Why Is My Code So Slow? A Guide to Py-Spy Python Profiling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/",
+          "publishedOn": "2026-02-05T13:30:00.000Z",
+          "wordCount": 4637,
+          "title": "Why Is My Code So Slow? A Guide to Py-Spy Python Profiling",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Py_spy_article_image.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608338",
+          "author": "Ibrahim Salami",
+          "description": "A simple mental model to remember when each one works (with examples that finally click).\nThe post The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/",
+          "publishedOn": "2026-02-05T12:00:00.000Z",
+          "wordCount": 4415,
+          "title": "The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/loc-vs-iloc.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608335",
           "author": "Destin Gong",
           "description": "This article covers how Azure ML's persistent, workspace-centric compute resources differ from AWS SageMaker's on-demand, job-specific approach. Additionally, we explored environment customization options, from Azure's curated environments and custom environments to SageMaker's three level of customizations.\nThe post AWS vs. Azure: A Deep Dive into Model Training – Part 2 appeared first on Towards Data Science.",
@@ -1045,46 +1075,6 @@
           "wordCount": 4508,
           "title": "The Best Data Scientists Are Always Learning",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/pexels-eye4dtail-321550-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608078",
-          "author": "Eivind Kjosbakken",
-          "description": "Make your coding agents more efficient\nThe post How to Optimize Your AI Coding Agent Context appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-optimize-your-ai-coding-agent-context/",
-          "publishedOn": "2026-01-06T13:30:00.000Z",
-          "wordCount": 4034,
-          "title": "How to Optimize Your AI Coding Agent Context",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-26.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608076",
-          "author": "Tomaz Bratanic",
-          "description": "From unstructured text to structured Knowledge Graphs\nThe post GliNER2: Extracting Structured Information from Text appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gliner2-extracting-structured-information-from-text/",
-          "publishedOn": "2026-01-06T12:00:00.000Z",
-          "wordCount": 4806,
-          "title": "GliNER2: Extracting Structured Information from Text",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Gemini_Generated_Image_rwdragrwdragrwdr-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608074",
-          "author": "Vyacheslav Efimov",
-          "description": "Finding the most informative points in images\nThe post Feature Detection, Part 3: Harris Corner Detection appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/",
-          "publishedOn": "2026-01-05T16:30:00.000Z",
-          "wordCount": 4037,
-          "title": "Feature Detection, Part 3: Harris Corner Detection",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/harris-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608072",
-          "author": "Thomas Reid",
-          "description": "From single to multi-core on your local PC and beyond\nThe post Ray: Distributed Computing for All, Part 1 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ray-distributed-computing-for-all-part-1/",
-          "publishedOn": "2026-01-05T15:00:00.000Z",
-          "wordCount": 5392,
-          "title": "Ray: Distributed Computing for All, Part 1",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Generated-Image-November-09-2025-2_00PM.jpg"
         }
       ]
     },
@@ -1251,6 +1241,16 @@
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
         {
+          "id": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+          "author": null,
+          "description": "A Blog post by ServiceNow-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+          "publishedOn": "2026-02-05T16:52:28.000Z",
+          "wordCount": 899,
+          "title": "Introducing SyGra Studio",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/sygra-studio.png"
+        },
+        {
           "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
           "author": null,
           "description": "A Blog post by NVIDIA on Hugging Face",
@@ -1259,6 +1259,16 @@
           "wordCount": 1183,
           "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-colembed-v2.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/community-evals",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/community-evals",
+          "publishedOn": "2026-02-04T00:00:00.000Z",
+          "wordCount": 876,
+          "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+          "imageUrl": "https://huggingface.co/blog/assets/eval-results/thumbnail.png"
         },
         {
           "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
@@ -1439,16 +1449,6 @@
           "wordCount": 1430,
           "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/llama-nemotron-vl-1b.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-          "publishedOn": "2026-01-05T22:56:51.000Z",
-          "wordCount": 1167,
-          "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning.png"
         }
       ]
     },
@@ -1463,6 +1463,26 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1160901",
+          "author": "Pallavi Choudhury, Lukas Sch&auml;fer, Chris Lovett, Katja Hofmann, Sergio Valcarcel Macua",
+          "description": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations.\nThe post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+          "publishedOn": "2026-02-05T17:00:00.000Z",
+          "wordCount": 4133,
+          "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/SmartReplay-TWLIFB-1200x627-1.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1160691",
+          "author": "Mercy Muchai, Kevin  Chege, Nick  Mumero, Stephanie Nyairo",
+          "description": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. \nThe post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+          "publishedOn": "2026-02-05T05:07:55.000Z",
+          "wordCount": 4427,
+          "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Paza-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1160723",
           "author": "Sheng Zhang, Flora Liu, Guanghui Qin, Mu Wei, Hoifung Poon",
@@ -1686,17 +1706,6 @@
           "title": "Week Ending 1.11.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:695bcad2b870be14b1ee1acb",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx",
-          "publishedOn": "2026-01-05T14:30:04.000Z",
-          "wordCount": null,
-          "title": "Week Ending 1.4.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1866,6 +1875,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250917",
+          "author": "Sarthak Dogra",
+          "description": "We have seen big corporate rivalries in products across the gamut. Mac and Windows went at it for long. Then it was Pepsi and Coca-Cola, Burger King and McDonald’s, BMW and Mercedes, and the list goes on. But it is the era of AI, and it was only a matter of time before the competitiveness […]\nThe post Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/anthropic-superbowl-ads-mock-openai-sam-altman/",
+          "publishedOn": "2026-02-05T13:26:41.000Z",
+          "wordCount": null,
+          "title": "Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250889",
+          "author": "Sarthak Dogra",
+          "description": "Recent developments on AI models have been specifically focused on one task – coding agents. Following the line, Alibaba’s Qwen is now out with a new model, one that promises industry-leading results, all while running locally. This essentially makes it an open-weight language model designed, in the words of the Qwen team, “specifically for coding […]\nThe post How to Access and Use Qwen3-Coder-Next? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/qwen3-coder-next/",
+          "publishedOn": "2026-02-05T13:12:30.000Z",
+          "wordCount": null,
+          "title": "How to Access and Use Qwen3-Coder-Next?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=250742",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Retrieval-Augmented Generation, or RAG, has become the backbone of most serious AI systems in the real world. The reason is simple: large language models are great at reasoning and writing, but terrible at knowing the objective truth. RAG fixes that by giving models a live connection to knowledge. What follows are interview-ready question that could […]\nThe post 40 RAG Interview Questions and Answers appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/rag-interview-questions-and-answers/",
+          "publishedOn": "2026-02-05T06:08:25.000Z",
+          "wordCount": null,
+          "title": "40 RAG Interview Questions and Answers",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=250838",
           "author": "Sarthak Dogra",
@@ -2580,28 +2622,6 @@
           "title": "Dummy Variable Trap in Machine Learning Explained Simply",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=104479",
-          "author": "Aayush Tyagi",
-          "description": "Data science powers decision-making across modern businesses, from data preparation and automation to advanced analytics and machine learning. Learning it requires a strong foundation in mathematics, statistics, programming, and practical problem-solving. The good news is that data science can be self-learned with the right resources and consistent practice. Books remain one of the most effective […]\nThe post 30 Best Data Science Books to Read in 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/best-data-science-books-to-read/",
-          "publishedOn": "2026-01-05T18:39:00.000Z",
-          "wordCount": null,
-          "title": "30 Best Data Science Books to Read in 2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=249089",
-          "author": "Vipin Vashisth",
-          "description": "AI-based coding agents are changing developer workflows. Proof – the arrival of Gemini 3 Pro in the Gemini CLI. It shows a significant advancement. For instance, it provides advanced reasoning, enhanced tool usage, and natural-language coding right in the terminal. Developers will be able to generate, fix, and refactor code without needing to break their flow by […]\nThe post How to Use Gemini 3 Pro in CLI? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/gemini-3-pro-cli/",
-          "publishedOn": "2026-01-05T17:15:02.000Z",
-          "wordCount": null,
-          "title": "How to Use Gemini 3 Pro in CLI?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2661,16 +2681,6 @@
           "wordCount": 2805,
           "title": "Continuous Integration for AI Projects – Part 2",
           "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/01/Test.png"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=16959",
-          "author": "David M",
-          "description": "Itai Weiss Continuous Integration (CI) is the practice of automatically testing your code every time you make a change. In traditional software, this works well because the same input always produces the same output. But AI systems break this easily—even just adding more training data without touching the code can cause your tests to fail. …\n  Continuous Integration for AI Projects Read More »\nThe post Continuous Integration for AI Projects appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/continuous-integration-for-ai-projects/",
-          "publishedOn": "2026-01-05T17:01:19.000Z",
-          "wordCount": 2574,
-          "title": "Continuous Integration for AI Projects",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/01/45.png"
         }
       ]
     },
@@ -2697,6 +2707,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+          "author": null,
+          "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+          "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+          "publishedOn": "2026-02-05T11:00:00.000Z",
+          "wordCount": null,
+          "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/trusted-access-for-cyber",
+          "author": null,
+          "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+          "link": "https://openai.com/index/trusted-access-for-cyber",
+          "publishedOn": "2026-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing Trusted Access for Cyber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-openai-frontier",
+          "author": null,
+          "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+          "link": "https://openai.com/index/introducing-openai-frontier",
+          "publishedOn": "2026-02-05T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing OpenAI Frontier",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gpt-5-3-codex-system-card",
+          "author": null,
+          "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+          "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "GPT-5.3-Codex System Card",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-gpt-5-3-codex",
+          "author": null,
+          "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+          "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing GPT-5.3-Codex",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/navigating-health-questions",
           "author": null,
@@ -3281,22 +3341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ce4d4a9d-e893-48e1-b714-ea4259d3f338_2704x1848.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/latest-open-artifacts-17-nvidia-arcee",
-          "author": "Florian Brand",
-          "description": "Ending the year with a bang.",
-          "link": "https://www.interconnects.ai/p/latest-open-artifacts-17-nvidia-arcee",
-          "publishedOn": "2026-01-05T14:03:14.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#17): NVIDIA, Arcee, Minimax, DeepSeek, Z.ai and others close an eventful year on a high note",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!_9K0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5daeb00-02a0-48d0-82cf-0f868dfaa877_1024x1024.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_9K0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5daeb00-02a0-48d0-82cf-0f868dfaa877_1024x1024.png"
         }
       ]
     },
