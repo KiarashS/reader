@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-06T01:48:42.604Z</updated>
+    <updated>2026-02-07T01:45:43.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In (highly contingent!) defense of interpretability-in-the-loop ML training]]></title>
+        <id>ArXAyzHkidxwoeZsL</id>
+        <link href="https://www.alignmentforum.org/posts/ArXAyzHkidxwoeZsL/in-highly-contingent-defense-of-interpretability-in-the-loop"/>
+        <updated>2026-02-06T16:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 6, 2026 4:32 PM GMT
+
+Let’s call “interpretability-in-the-loop training” the idea of running a learning algorithm that involves an inscrutable trained model, and there’s some kind of interpretability system feeding into the loss function / reward function.
+Interpretability-in-the-loop training has a very bad rap (and rightly so). Here’s Yudkowsky 2022:
+
+When you explicitly optimize against a detector of unaligned thoughts, you're partially optimizing for more aligned thoughts, and partially optimizing for unaligned thoughts that are harder to detect.  Optimizing against an interpreted thought optimizes against interpretability.
+
+Or Zvi 2025:
+
+The Most Forbidden Technique is training an AI using interpretability techniques.
+An AI produces a final output [X] via some met…]]></summary>
+        <author>
+            <name>Steven Byrnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crew-12]]></title>
+        <id>d3380532-0367-11f1-a285-cb4a609f1383</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/crew-12/"/>
+        <updated>2026-02-06T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The four crew members of NASA’s SpaceX Crew-12 discuss their backgrounds, training, and upcoming mission to the International Space Station. HWHAP 410.]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently]]></title>
+        <id>https://towardsdatascience.com/?p=608347</id>
+        <link href="https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/"/>
+        <updated>2026-02-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The real value lies in writing clearer code and using your tools right
+The post Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mike Huls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-in-the-loop Evaluation for Image Generation: Reviewer Calibration, Disagreement Resolution, and Quality Control]]></title>
+        <id>https://imerit.net/?p=32990</id>
+        <link href="https://imerit.net/resources/blog/human-in-the-loop-evaluation-for-image-generation-reviewer-calibration-disagreement-resolution-and-quality-control/"/>
+        <updated>2026-02-06T14:57:18.000Z</updated>
+        <summary type="html"><![CDATA[The fast growth of image generation has made creating high-quality visuals easier than ever. However, for companies, this ease often
+The post Human-in-the-loop Evaluation for Image Generation: Reviewer Calibration, Disagreement Resolution, and Quality Control appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.6 vs OpenAI Codex 5.3: Which is Better?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250967</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-vs-openai-codex-5-3/"/>
+        <updated>2026-02-06T14:38:38.000Z</updated>
+        <summary type="html"><![CDATA[The rivalry between Anthropic and OpenAI has intensified, from competing Super Bowl ads to launching new coding models on the same day. Anthropic’s Claude Opus 4.6 and OpenAI’s Codex 5.3 are now live. Both show strong benchmarks, but which one truly stands out? I’ll put them to the test and compare their performance on the […]
+The post Claude Opus 4.6 vs OpenAI Codex 5.3: Which is Better? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is OpenAI’s GPT-5.3 Codex Worth the Hype?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250984</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/gpt-5-3-codex-hands-on/"/>
+        <updated>2026-02-06T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT-5.3-Codex represents a new generation of the Codex model built to handle real, end-to-end work. Instead of focusing only on writing code, it combines strong coding ability with planning, reasoning, and execution. The model runs faster than earlier versions and handles long, multi-step tasks involving tools and decisions more effectively. Rather than producing isolated answers, […]
+The post Is OpenAI’s GPT-5.3 Codex Worth the Hype? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes]]></title>
+        <id>https://towardsdatascience.com/?p=608345</id>
+        <link href="https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/"/>
+        <updated>2026-02-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How much of your AI agent's output is real data versus confident guesswork?
+The post Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>James Barney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Honest Review of Claude Opus 4.6: Is It Worth the Hype?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=250936</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-review/"/>
+        <updated>2026-02-06T11:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic has been buzzing as of late. It recently caused a stock market meltdown with its release of the Claude Cowork tool that tanked the stocks of major SaaS providers across the world. And now they’re about to revolutionize reasoning models with their latest release, Claude Opus 4.6, which they’re claiming as their best coding […]
+The post My Honest Review of Claude Opus 4.6: Is It Worth the Hype? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korea privacy policy]]></title>
+        <id>https://openai.com/policies/kr-privacy-policy</id>
+        <link href="https://openai.com/policies/kr-privacy-policy"/>
+        <updated>2026-02-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Korea privacy policy]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making AI work for everyone, everywhere: our approach to localization]]></title>
+        <id>https://openai.com/index/our-approach-to-localization</id>
+        <link href="https://openai.com/index/our-approach-to-localization"/>
+        <updated>2026-02-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rethinking imitation learning with Predictive Inverse Dynamics Models]]></title>
         <id>https://www.microsoft.com/en-us/research/?p=1160901</id>
@@ -3282,212 +3398,6 @@ The post HNSW at Scale: Why Your RAG System Gets Worse as the Vector Database Gr
 The post I Evaluated Half a Million Credit Records with Federated Learning. Here’s What I Found appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Arjun Kaarat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probabilistic Multi-Variant Reasoning: Turning Fluent LLM Answers Into Weighted Options]]></title>
-        <id>https://towardsdatascience.com/?p=608087</id>
-        <link href="https://towardsdatascience.com/probabilistic-multi-variant-reasoning-turning-fluent-llm-answers-into-weighted-options/"/>
-        <updated>2026-01-07T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Human-guided AI collaboration
-The post Probabilistic Multi-Variant Reasoning: Turning Fluent LLM Answers Into Weighted Options appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>alan nekhom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win 2026! 9 AI Prompts to Enter Beast Mode This New Year]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249342</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/win-2026-9-ai-prompts-to-enter-beast-mode-this-new-year/"/>
-        <updated>2026-01-07T12:42:05.000Z</updated>
-        <summary type="html"><![CDATA[The beginning of a new year brings about a new sense of energy in most. One may argue that it is all psychological, as nothing changes other than the date. Agreed, to a point. Though it is psychological, the change is not just based on the onset of a “new year.” A deep-rooted logical reasoning […]
-The post Win 2026! 9 AI Prompts to Enter Beast Mode This New Year appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Supply Chain is the Best Domain for Data Scientists in 2026 (And How to Learn It)]]></title>
-        <id>https://towardsdatascience.com/?p=608084</id>
-        <link href="https://towardsdatascience.com/why-supply-chain-is-the-best-domain-for-data-scientists-in-2026-and-how-to-learn-it/"/>
-        <updated>2026-01-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My take after 10 years in Supply Chain on why this can be an excellent playground for data scientists who want to see their skills valued.
-The post Why Supply Chain is the Best Domain for Data Scientists in 2026 (And How to Learn It) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Samir Saci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supervised Learning: The Foundation of Predictive Modeling]]></title>
-        <id>https://machinelearningmastery.com/?p=23082</id>
-        <link href="https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/"/>
-        <updated>2026-01-07T11:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Editor’s note: This article is a part of our series on visualizing the foundations of machine learning.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Tolan builds voice-first AI with GPT-5.1]]></title>
-        <id>https://openai.com/index/tolan</id>
-        <link href="https://openai.com/index/tolan"/>
-        <updated>2026-01-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standardizing AI Safety Evaluations: From Bias Detection to Data Leakage Prevention]]></title>
-        <id>https://imerit.net/?p=32408</id>
-        <link href="https://imerit.net/resources/blog/standardizing-ai-safety-evaluations-from-bias-detection-to-data-leakage-prevention/"/>
-        <updated>2026-01-07T08:40:13.000Z</updated>
-        <summary type="html"><![CDATA[AI safety is becoming increasingly challenging to manage as models are reused and deployed across an increasing number of systems.
-The post Standardizing AI Safety Evaluations: From Bias Detection to Data Leakage Prevention appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Python Projects for Beginners]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249308</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/beginner-python-projects/"/>
-        <updated>2026-01-07T05:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Learning Python at the beginning feels deceptively simple. You write a few lines, the code runs, and it’s tempting to think you’ve got it. Then you try to build something on your own and… nothing works!? Turns out all the information you had learnt, didn’t find an outlet.  That’s where challenging projects matter. Not flashy […]
-The post 10 Python Projects for Beginners appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing ChatGPT Health]]></title>
-        <id>https://openai.com/index/introducing-chatgpt-health</id>
-        <link href="https://openai.com/index/introducing-chatgpt-health"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to Language Model Fine-tuning]]></title>
-        <id>https://machinelearningmastery.com/?p=23108</id>
-        <link href="https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/"/>
-        <updated>2026-01-06T23:21:15.000Z</updated>
-        <summary type="html"><![CDATA[This article is divided into four parts; they are: • The Reason for Fine-tuning a Model • Dataset for Fine-tuning • Fine-tuning Procedure • Other Fine-Tuning Techniques Once you train your decoder-only transformer model, you have a text generator.]]></summary>
-        <author>
-            <name>Adrian Tam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models]]></title>
-        <id>https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b</id>
-        <link href="https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b"/>
-        <updated>2026-01-06T21:16:17.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 2003 Post on the Evolutionary Argument for AI Misalignment]]></title>
-        <id>AjxwuLYvSCnf6KZMn</id>
-        <link href="https://www.alignmentforum.org/posts/AjxwuLYvSCnf6KZMn/my-2003-post-on-the-evolutionary-argument-for-ai"/>
-        <updated>2026-01-06T20:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 6, 2026 8:45 PM GMT
-
-This was posted to SL4 on the last day of 2003. I had largely forgotten about it until I saw the LW Wiki reference it under Mesa Optimization[1]. Besides the reward hacking angle, which is now well-trodden, it gave an argument based on the relationship between philosophy, memetics, and alignment, which has been much less discussed (including in current discussions about human fertility decline), and perhaps still worth reading/thinking about. Overall, the post seems to have aged well, aside from the very last paragraph.
-For historical context, Eliezer had coined "Friendly AI" in Creating Friendly AI 1.0 in June 2001. Although most of it was very hard to understand and subsequently disavowed by Eliezer himself, it had a section on “philosophical cri…]]></summary>
-        <author>
-            <name>Wei Dai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[81 Jobs that AI Cannot Replace in 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249220</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/jobs-ai-cannot-replace/"/>
-        <updated>2026-01-06T18:45:45.000Z</updated>
-        <summary type="html"><![CDATA[I get the AI scare, and if I am being honest here, you should take it seriously too. The AI age is unfolding fast, and we are seeing automation enter just about every sector. Once it does, there is absolutely no argument that the entire dynamics of human roles will change. So, for most of […]
-The post 81 Jobs that AI Cannot Replace in 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How hard is it to inoculate against misalignment generalization?]]></title>
-        <id>G4YXXbKt5cNSQbjXM</id>
-        <link href="https://www.alignmentforum.org/posts/G4YXXbKt5cNSQbjXM/how-hard-is-it-to-inoculate-against-misalignment"/>
-        <updated>2026-01-06T17:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 6, 2026 5:30 PM GMT
-
-TL;DR: Simple inoculation prompts that prevent misalignment generalization in toy setups don't scale to more realistic reward hacking. When I fine-tuned models on realistic reward hacks, only prompts close to the dataset generation prompt were sufficient to prevent misalignment. This seems like a specification problem: the model needs enough information to correctly categorize what's being inoculated. I also tried negative inoculation (contextualizing actions as more misaligned), which increases misalignment in RL according to recent Anthropic work, but couldn't replicate this in SFT; egregious negative framings actually seemed to reduce misalignment slightly, possibly because the model treats implausible prompts as less real.
-Thanks to Abhay Shesh…]]></summary>
-        <author>
-            <name>Jozdien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dummy Variable Trap in Machine Learning Explained Simply]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249229</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/dummy-variable-trap-in-machine-learning/"/>
-        <updated>2026-01-06T17:23:54.000Z</updated>
-        <summary type="html"><![CDATA[In machine learning with categorical data, it is common to encode the categories as dummy variables (sometimes called one hot encoding) to encode categories as numerical values. This is a significant step since there are many algorithms that do not operate on other things other than numbers like linear regression. Nevertheless, there is one of the mistakes […]
-The post Dummy Variable Trap in Machine Learning Explained Simply appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Learning to Think in Secret]]></title>
-        <id>gpyqWzWYADWmLYLeX</id>
-        <link href="https://www.alignmentforum.org/posts/gpyqWzWYADWmLYLeX/how-ai-is-learning-to-think-in-secret"/>
-        <updated>2026-01-06T16:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 6, 2026 4:31 PM GMT
-
-On Thinkish, Neuralese, and the End of Readable Reasoning
-
-In September 2025, researchers published the internal monologue of OpenAI’s GPT-o3 as it decided to lie about scientific data. This is what it thought:
-
-Pardon? This looks like someone had a stroke during a meeting they didn’t want to be in, but their hand kept taking notes.
-That transcript comes from a recent paper published by researchers at Apollo Research and OpenAI on catching AI systems scheming. To understand what’s happening here - and why one of the most sophisticated AI systems in the world is babbling about “synergy customizing illusions” - it first helps to know how we ended up being able to read AI thinking in the first place.
-That story starts, of all places, on 4chan.
-
-In lat…]]></summary>
-        <author>
-            <name>Nicholas Andresen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring What Matters with NeMo Agent Toolkit]]></title>
-        <id>https://towardsdatascience.com/?p=608082</id>
-        <link href="https://towardsdatascience.com/measuring-what-matters-with-nemo-agent-toolkit/"/>
-        <updated>2026-01-06T16:31:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to observability, evaluations, and model comparisons
-The post Measuring What Matters with NeMo Agent Toolkit appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mariya Mansurova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Data Scientists Are Always Learning]]></title>
-        <id>https://towardsdatascience.com/?p=608080</id>
-        <link href="https://towardsdatascience.com/the-best-data-scientists-are-always-learning/"/>
-        <updated>2026-01-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 2: Avoiding burnout, learning strategies and the superpower of solitude
-The post The Best Data Scientists Are Always Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jarom Hulet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deployment on Edge: LLM Serving on Jetson using vLLM]]></title>
-        <id>https://learnopencv.com/?p=78142</id>
-        <link href="https://learnopencv.com/deployment-on-edge-vllm-on-jetson/"/>
-        <updated>2026-01-06T14:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Learn what it really takes to run LLMs on an 8 GB Jetson Orin Nano, covering setup, failures, memory tuning, and a practical comparison between vLLM and llama.cpp. An article for Deployment on Edge.
-Deployment on Edge: LLM Serving on Jetson using vLLM first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Kukil</name>
         </author>
     </entry>
 </feed>
