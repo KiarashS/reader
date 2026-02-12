@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-10T02:09:10.225Z</updated>
+    <updated>2026-02-12T01:57:55.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research note: A simpler AI timelines model predicts 99% AI R&D automation in ~2032]]></title>
+        <id>uy6B5rEPvcwi55cBK</id>
+        <link href="https://www.alignmentforum.org/posts/uy6B5rEPvcwi55cBK/research-note-a-simpler-ai-timelines-model-predicts-99-ai-r"/>
+        <updated>2026-02-12T00:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 12, 2026 12:13 AM GMT
+
+In this post, I describe a simple model for forecasting when AI will automate AI development. It is based on the AI Futures model, but more understandable and robust, and has deliberately conservative assumptions.
+At current rates of compute growth and algorithmic progress, this model's median prediction is >99% automation of AI R&D in late 2032. Most simulations result in a 1000x to 10,000,000x increase in AI efficiency and 300x-3000x research output by 2035. I therefore suspect that existing trends in compute growth and automation will still produce extremely powerful AI on "medium" timelines, even if the full coding automation and superhuman research taste that drive the AIFM's "fast" timelines (superintelligence by ~mid-2031) don't happen.
+W…]]></summary>
+        <author>
+            <name>Thomas Kwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinguish between inference scaling and "larger tasks use more compute"]]></title>
+        <id>rRbDNQLfihiHbXytf</id>
+        <link href="https://www.alignmentforum.org/posts/rRbDNQLfihiHbXytf/distinguish-between-inference-scaling-and-larger-tasks-use"/>
+        <updated>2026-02-11T18:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Published on February 11, 2026 6:37 PM GMT
+
+As many have observed, since reasoning models first came out, the amount of compute LLMs use to complete tasks has increased greatly. This trend is often called inference scaling and there is an open question of how much of recent AI progress is driven by inference scaling versus by other capability improvements. Whether inference compute is driving most recent AI progress matters because you can only scale up inference so far before costs are too high for AI to be useful (while training compute can be amortized over usage).
+However, it's important to distinguish between two reasons inference cost is going up:
+LLMs are completing larger tasks that would have taken a human longer (and thus would have cost more to get a human to complete)
+LLMs are …]]></summary>
+        <author>
+            <name>ryan_greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Agents That Remember User Preferences (Without Breaking Context)]]></title>
+        <id>698cc32db8fec0245bd9996d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/"/>
+        <updated>2026-02-11T17:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...]]></summary>
+        <author>
+            <name>Nataraj Sundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnegie Mellon at NeurIPS 2025]]></title>
+        <id>https://blog.ml.cmu.edu/?p=22179</id>
+        <link href="https://blog.ml.cmu.edu/2026/02/11/carnegie-mellon-at-neurips-2025/"/>
+        <updated>2026-02-11T16:34:43.000Z</updated>
+        <summary type="html"><![CDATA[CMU researchers are presenting 156 papers at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), held from December 2nd-December 7th at the San Diego Convention. Here is a quick overview of the areas our researchers are working on: Here are our most frequent collaborator institutions: Table of Contents Oral Papers Spotlight Papers Poster Papers Applications Computer Vision Data-centric AI Deep Learning General Machine Learning Optimization Probabilistic Methods Reinforcement Learning Social Aspects Theory Uncategorized Tutorials Oral Papers Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain Authors: Trinity Chung (Carnegie Mellon University), Yuchen Shen (Carnegie Mellon University), Nathan Kong (MIT), Aran Nayebi (School of Computer Science, Carnegie Mellon University) This paper introduces an Encoder–Attender–Decoder (EAD) framework to study task-optimized neural networks for tactile processing using realistic whisker-based simulations. Convolutional recurrent neural networks (ConvRNNs) emerge as the most effective encoders, both for tactile categorization and for producing representations that closely match activity in rodent somatosensory cortex, revealing a linear link between task performance and neural alignment. Notably, self-supervised contrastive ConvRNN models achieve neural fits comparable to supervised training, indicating that label-free learning can capture biologically relevant tactile representations. These findings highlight the importance of recurrent processing […]]]></summary>
+        <author>
+            <name>Naveen Raman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI Agent to Detect and Handle Anomalies in Time-Series Data]]></title>
+        <id>https://towardsdatascience.com/?p=608372</id>
+        <link href="https://towardsdatascience.com/building-an-ai-agent-to-detect-and-handle-anomalies-in-time-series-data/"/>
+        <updated>2026-02-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Combining statistical detection with agentic decision-making
+The post Building an AI Agent to Detect and Handle Anomalies in Time-Series Data appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>MADHURA RAUT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not All RecSys Problems Are Created Equal]]></title>
+        <id>https://towardsdatascience.com/?p=608370</id>
+        <link href="https://towardsdatascience.com/not-all-recsys-problems-are-created-equal/"/>
+        <updated>2026-02-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How baseline strength, churn, and subjectivity determine complexity
+The post Not All RecSys Problems Are Created Equal appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Diogo Leitão</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Agents Just Built a Fully Functioning C Compiler With Zero Human Input]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251212</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/claude-agents-built-c-compiler/"/>
+        <updated>2026-02-11T12:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Sixteen autonomous AI agents. Two weeks of continuous execution. Nearly 100,000 lines of Rust code. That’s what it took for Anthropic to build a working C compiler capable of compiling large real-world projects like the Linux kernel. There is, however, a kicker here. The project, internally referred to as the Claude “agent teams,” wasn’t written […]
+The post Claude Agents Just Built a Fully Functioning C Compiler With Zero Human Input appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Complete AI Resume with 90+ ATS Score]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251157</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/build-a-complete-ai-resume-with-90-ats-score/"/>
+        <updated>2026-02-11T12:39:17.000Z</updated>
+        <summary type="html"><![CDATA[A-T-S!! A hurdle that most applicants just can’t cross. Spending hours on Overleaf and resume making websites to create their perfect resumes: just to find out that it has an ATS score of 40! For some it’s a dead end. Regardless of what they try, the score doesn’t seem to get anywhere near the required […]
+The post I Built a Complete AI Resume with 90+ ATS Score appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Evaluation in Production: Metrics for Task Success, Tool-Use Correctness, and Escalation Quality]]></title>
+        <id>https://imerit.net/?p=33023</id>
+        <link href="https://imerit.net/resources/blog/agent-evaluation-in-production-metrics-for-task-success-tool-use-correctness-and-escalation-quality/"/>
+        <updated>2026-02-11T11:27:49.000Z</updated>
+        <summary type="html"><![CDATA[McKinsey reports that only one-third of companies have scaled AI beyond pilot deployments, with the gap even wider for AI
+The post Agent Evaluation in Production: Metrics for Task Success, Tool-Use Correctness, and Escalation Quality appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harness engineering: leveraging Codex in an agent-first world]]></title>
+        <id>https://openai.com/index/harness-engineering</id>
+        <link href="https://openai.com/index/harness-engineering"/>
+        <updated>2026-02-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By Ryan Lopopolo, Member of the Technical Staff]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your AI Caricature Using ChatGPT Image?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251168</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/chatgpt-caricature-image/"/>
+        <updated>2026-02-10T18:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Another month, another AI-powered trend taking over the internet, and this one is all about turning yourself into a caricature using ChatGPT Image. From LinkedIn feeds to group chats, people are sharing playful versions of themselves that capture not just their faces, but also their profession, personality, and vibe. The best part is that you don’t need […]
+The post How to Create Your AI Caricature Using ChatGPT Image? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Nitika Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen-Image-2.0 is Here and it Gives Nano Banana a Run for its Money]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251169</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/qwen-image-2-0-is-here/"/>
+        <updated>2026-02-10T18:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Alibaba’s Qwen has been on a roll lately, launching model after model for various use cases. For instance, it recently introduced the Qwen3-Coder-Next as an AI coding assistant for developers. This time, the AI giant is in the news yet again for its latest release – the Qwen-2.0-Image. As the name suggests, this one comes […]
+The post Qwen-Image-2.0 is Here and it Gives Nano Banana a Run for its Money appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Model The Expected Value of Marketing Campaigns]]></title>
+        <id>https://towardsdatascience.com/?p=608366</id>
+        <link href="https://towardsdatascience.com/how-to-model-the-expected-value-of-marketing-campaigns/"/>
+        <updated>2026-02-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The approach that takes companies to the next level of data maturity
+The post How to Model The Expected Value of Marketing Campaigns appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rodrigo Almeida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing the Snake Game in Python]]></title>
+        <id>https://towardsdatascience.com/?p=608364</id>
+        <link href="https://towardsdatascience.com/implementing-the-snake-game-in-python/"/>
+        <updated>2026-02-10T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An easy step-by-step guide to building the snake game from scratch
+The post Implementing the Snake Game in Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maestro: A Developer-First Platform for Orchestrating AI Agents]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251040</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/maestro-a-platform-for-orchestrating-ai-agents/"/>
+        <updated>2026-02-10T12:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Text autocompletion and chat queries are no longer the only roles for AI agents. They now refactor repositories, generate documentation, review codebases, and run unattended workflows, creating new challenges in coordinating multiple agents without losing context, control, or code quality. Maestro, the latest AI Agents orchestration platform, addresses this need as an application that creates […]
+The post Maestro: A Developer-First Platform for Orchestrating AI Agents appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Personalize Claude Code]]></title>
+        <id>https://towardsdatascience.com/?p=608362</id>
+        <link href="https://towardsdatascience.com/how-to-personalize-claude-code/"/>
+        <updated>2026-02-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to get more out of Claude code by giving it access to more information.
+The post How to Personalize Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Machine Learning Lessons I’ve Learned Last Month]]></title>
         <id>https://towardsdatascience.com/?p=608359</id>
@@ -352,6 +532,16 @@ The post Mechanistic Interpretability: Peeking Inside an LLM appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Agent Evaluation: How to Test and Measure Agentic AI Performance]]></title>
+        <id>https://machinelearningmastery.com/?p=23179</id>
+        <link href="https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"/>
+        <updated>2026-02-05T14:16:39.000Z</updated>
+        <summary type="html"><![CDATA[AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Is My Code So Slow? A Guide to Py-Spy Python Profiling]]></title>
         <id>https://towardsdatascience.com/?p=608340</id>
         <link href="https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/"/>
@@ -531,6 +721,16 @@ The post Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Export Your ML Model in ONNX Format]]></title>
+        <id>https://machinelearningmastery.com/?p=23244</id>
+        <link href="https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"/>
+        <updated>2026-02-04T14:35:37.000Z</updated>
+        <summary type="html"><![CDATA[When building machine learning models, training is only half the journey.]]></summary>
+        <author>
+            <name>Abid Ali Awan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build Your Own Custom LLM Memory Layer from Scratch]]></title>
         <id>https://towardsdatascience.com/?p=608331</id>
         <link href="https://towardsdatascience.com/how-to-build-your-own-custom-llm-memory-layer-from-scratch/"/>
@@ -634,6 +834,16 @@ The post 5 Kimi K2.5 Features for Developers: Is it the Best AI Model for Progra
 The post Routing in a Sparse Graph: a Distributed Q-Learning Approach appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sébastien Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Advanced Feature Engineering Tricks Using LLM Embeddings]]></title>
+        <id>https://machinelearningmastery.com/?p=23333</id>
+        <link href="https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"/>
+        <updated>2026-02-03T15:26:42.000Z</updated>
+        <summary type="html"><![CDATA[You have mastered model.]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
         </author>
     </entry>
     <entry>
@@ -859,6 +1069,16 @@ The post Silicon Darwinism: Why Scarcity Is the Source of True Intelligence appe
         <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
         <author>
             <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner’s Reading List for Large Language Models for 2026]]></title>
+        <id>https://machinelearningmastery.com/?p=23307</id>
+        <link href="https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"/>
+        <updated>2026-02-02T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -1159,6 +1379,16 @@ The post RoPE, Clearly Explained appeared first on Towards Data Science.]]></sum
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7 Important Considerations Before Deploying Agentic AI in Production]]></title>
+        <id>https://machinelearningmastery.com/?p=23119</id>
+        <link href="https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"/>
+        <updated>2026-01-29T13:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Unbearable Lightness of Coding]]></title>
         <id>https://towardsdatascience.com/?p=608284</id>
         <link href="https://towardsdatascience.com/the-unbearable-lightness-of-coding/"/>
@@ -1320,6 +1550,16 @@ The post Modeling Urban Walking Risk Using Spatial-Temporal Machine Learning ap
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 Ways to Use Cross-Validation to Improve Time Series Models]]></title>
+        <id>https://machinelearningmastery.com/?p=23236</id>
+        <link href="https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/"/>
+        <updated>2026-01-28T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Time series modeling <a href="https://machinelearningmastery.]]></summary>
+        <author>
+            <name>Nahla Davies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 2]]></title>
         <id>https://www.rsipvision.com/?p=17020</id>
         <link href="https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai-part-2/"/>
@@ -1433,6 +1673,16 @@ The post UniRG: Scaling medical imaging report generation with multimodal reinfo
 The post Going Beyond the Context Window: Recursive Language Models in Action appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Mariya Mansurova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3 Invisible Risks Every LLM App Faces (And How to Guard Against Them)]]></title>
+        <id>https://machinelearningmastery.com/?p=23043</id>
+        <link href="https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/"/>
+        <updated>2026-01-27T15:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Building a chatbot prototype takes hours.]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
         </author>
     </entry>
     <entry>
@@ -1550,6 +1800,16 @@ This post covers work done by several researchers at, visitors to and collaborat
 In the wake of recent debate about pragmatic versus ambitious visions for mechanistic interpretability, ARC is sharing some models we've been studying that, in spite of their tiny size, serve as challenging test cases for any ambitious interpretability vision. The models are RNNs and transformers trained to perform algorithmic tasks, and range in size from 8 to 1,408 parameters. The largest model that we believe we more-or-less fully understand has 32 para…]]></summary>
         <author>
             <name>Jacob_Hilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveling Up Your Machine Learning: What To Do After Andrew Ng’s Course]]></title>
+        <id>https://machinelearningmastery.com/?p=23228</id>
+        <link href="https://machinelearningmastery.com/leveling-up-your-machine-learning-what-to-do-after-andrew-ngs-course/"/>
+        <updated>2026-01-26T17:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Finishing Andrew Ng's machine learning course <a href="https://www.]]></summary>
+        <author>
+            <name>Nahla Davies</name>
         </author>
     </entry>
     <entry>
@@ -3221,113 +3481,6 @@ The post How AI Can Become Your Personal Language Tutor appeared first on Toward
 The post Why 90% Accuracy in Text-to-SQL is 100% Useless appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Gary Zavaleta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Does Adding Fancy RAG Features Work?]]></title>
-        <id>https://towardsdatascience.com/?p=608121</id>
-        <link href="https://towardsdatascience.com/when-does-adding-fancy-rag-features-work/"/>
-        <updated>2026-01-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking at the performance of different pipelines
-The post When Does Adding Fancy RAG Features Work? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ida Silfverskiöld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Data Transfer in Batched AI/ML Inference Workloads]]></title>
-        <id>https://towardsdatascience.com/?p=608119</id>
-        <link href="https://towardsdatascience.com/optimizing-data-transfer-in-batched-ai-ml-inference-workloads/"/>
-        <updated>2026-01-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive on data transfer bottlenecks, their identification, and their resolution with the help of NVIDIA Nsight™ Systems - part 2
-The post Optimizing Data Transfer in Batched AI/ML Inference Workloads appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chaim Rand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Model Collapse? Examples, Causes and Fixes]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249457</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/model-collapse/"/>
-        <updated>2026-01-12T11:52:23.000Z</updated>
-        <summary type="html"><![CDATA[AI systems feel smarter than ever. They answer quickly, confidently, and with polish. But beneath that surface, something subtle is going wrong. Outputs are getting safer. Ideas are getting narrower. Surprise is disappearing – less aweful.  This matters because AI is increasingly involved in how we search, decide, create, and evaluate. When these systems lose […]
-The post What is Model Collapse? Examples, Causes and Fixes appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Ways to Use Embeddings for Tabular ML Tasks]]></title>
-        <id>https://machinelearningmastery.com/?p=22815</id>
-        <link href="https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/"/>
-        <updated>2026-01-12T11:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Embeddings — vector-based numerical representations of typically unstructured data like text — have been primarily popularized in the field of natural language processing (NLP).]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Raising Concerns Policy]]></title>
-        <id>https://openai.com/index/openai-raising-concerns-policy</id>
-        <link href="https://openai.com/index/openai-raising-concerns-policy"/>
-        <updated>2026-01-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example]]></title>
-        <id>https://towardsdatascience.com/?p=608115</id>
-        <link href="https://towardsdatascience.com/automatic-prompt-optimization-for-multimodal-vision-agents-a-self-driving-car-example/"/>
-        <updated>2026-01-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough using open-source prompt optimization algorithms in Python to improve the accuracy of an autonomous vehicle car safety agent running on OpenAI's GPT 5.2
-The post Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Vincent Koc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use multiple models]]></title>
-        <id>https://www.interconnects.ai/p/use-multiple-models</id>
-        <link href="https://www.interconnects.ai/p/use-multiple-models"/>
-        <updated>2026-01-11T14:02:33.000Z</updated>
-        <summary type="html"><![CDATA[The new meta for getting the most out of AI in 2026.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Leverage Slash Commands to Code Effectively]]></title>
-        <id>https://towardsdatascience.com/?p=608117</id>
-        <link href="https://towardsdatascience.com/how-to-leverage-slash-commands-to-code-effectively/"/>
-        <updated>2026-01-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how I utilize slash commands to be a more efficient engineer
-The post How to Leverage Slash Commands to Code Effectively appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Hackathons You Can Join in 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=249403</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/top-hackathon-platforms/"/>
-        <updated>2026-01-11T06:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Hackathons are different!. The good ones pull you in, stretch your thinking, and leave you with something real—regardless of the outcome. The problem is choice. It’s hard to find the right one! Too many hackathons. Too many formats. And too much noise. So this list is built with that in mind. Instead out outlining Hackathons […]
-The post 10 Hackathons You Can Join in 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated Learning, Part 1: The Basics of Training Models Where the Data Lives]]></title>
-        <id>https://towardsdatascience.com/?p=608113</id>
-        <link href="https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/"/>
-        <updated>2026-01-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the foundations of federated learning
-The post Federated Learning, Part 1: The Basics of Training Models Where the Data Lives appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Parul Pandey</name>
         </author>
     </entry>
 </feed>
