@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608397",
+          "author": "Stephanie Kirmer",
+          "description": "The work to do before the work begins\nThe post Advance Planning for AI Project Evaluation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/advance-planning-for-ai-project-evaluation/",
+          "publishedOn": "2026-02-18T00:31:16.000Z",
+          "wordCount": 3981,
+          "title": "Advance Planning for AI Project Evaluation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-2.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608395",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to set up OpenClaw as a personalized AI agent\nThe post Use OpenClaw to Make a Personal AI Assistant appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/",
+          "publishedOn": "2026-02-18T00:25:14.000Z",
+          "wordCount": 4673,
+          "title": "Use OpenClaw to Make a Personal AI Assistant",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-68.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608393",
+          "author": "Vyacheslav Efimov",
+          "description": "Everything you need to know to get started\nThe post Building a LangGraph Agent from Scratch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/",
+          "publishedOn": "2026-02-17T20:22:34.000Z",
+          "wordCount": 4788,
+          "title": "Building a LangGraph Agent from Scratch",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/LangGraph-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608391",
+          "author": "Chinmay Kakatkar",
+          "description": "Conceptual overview and practical guidance\nThe post Iron Triangles: Powerful Tools for Analyzing Trade-Offs in AI Product Development appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/iron-triangles-powerful-tools-for-analyzing-trade-offs-in-ai-product-development/",
+          "publishedOn": "2026-02-17T19:49:40.000Z",
+          "wordCount": 4360,
+          "title": "Iron Triangles: Powerful Tools for Analyzing Trade-Offs in AI Product Development",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/adam-jicha-q_j1Ghv_mv8-unsplash.jpeg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608387",
           "author": "Moulik Gupta",
           "description": "Why insanely fast GPUs still can’t make LLMs feel instant\nThe post The Strangest Bottleneck in Modern LLMs appeared first on Towards Data Science.",
@@ -810,26 +850,6 @@
           "wordCount": 5408,
           "title": "The Hidden Opportunity in AI Workflow Automation with n8n for Low-Tech Companies",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Thumbnail-Digitalisation-with-n8n.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608182",
-          "author": "Steve Hedden",
-          "description": "How science, regulation, collaboration, and public funding shaped the world’s most mature semantic infrastructure\nThe post Why Healthcare Leads in Knowledge Graphs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-healthcare-leads-in-knowledge-graphs/",
-          "publishedOn": "2026-01-18T13:00:00.000Z",
-          "wordCount": 4406,
-          "title": "Why Healthcare Leads in Knowledge Graphs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-94.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608180",
-          "author": "Stephanie Kirmer",
-          "description": "Do you know where your data has been?\nThe post Data Poisoning in Machine Learning: Why and How People Manipulate Training Data appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/",
-          "publishedOn": "2026-01-17T15:00:00.000Z",
-          "wordCount": 5403,
-          "title": "Data Poisoning in Machine Learning: Why and How People Manipulate Training Data",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-13.jpeg"
         }
       ]
     },
@@ -1011,6 +1031,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+          "publishedOn": "2026-02-17T23:28:52.000Z",
+          "wordCount": 404,
+          "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-nano-9b-v2-japanese-ja.png"
+        },
         {
           "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
           "author": null,
@@ -1335,6 +1365,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6994b10f99525c1b1a51745d",
+          "author": "Pablo Rios",
+          "description": "Embeddings have transformed how we search text, images, and code. Instead of matching keywords, you compare vectors, which are numerical representations that capture meaning. Similar items end up close together, making it easy to find matches. The sa...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/",
+          "publishedOn": "2026-02-17T18:18:55.000Z",
+          "wordCount": 3099,
+          "title": "How to Use AlphaEarth for Similarity Search in Google Earth Engine",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771351283402/45ebd28e-3837-4efa-bb31-a9060e029e54.png"
+        },
+        {
+          "id": "69939ae54fe0950e7f9c9c75",
+          "author": "Oyedele Tioluwani",
+          "description": "Machine learning tasks usually start in a Python notebook, and for good reason. Notebooks make it easy to explore data, test ideas, and iterate quickly with minimal setup. They give teams a familiar place to experiment while questions remain open and...",
+          "link": "https://www.freecodecamp.org/news/how-to-take-machine-learning-beyond-python-notebooks-with-these-helpful-tools/",
+          "publishedOn": "2026-02-16T22:32:05.000Z",
+          "wordCount": 2959,
+          "title": "How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771281111134/f0951ffe-73f0-46a0-b13b-6f691322b081.png"
+        },
+        {
           "id": "698cc32db8fec0245bd9996d",
           "author": "Nataraj Sundar",
           "description": "Why Personalization Breaks Most AI Agents Personalization is one of the most requested features in AI-powered applications. Users expect an agent to remember their preferences, adapt to their style, and improve over time. In practice, personalization...",
@@ -1438,7 +1488,7 @@
       ]
     },
     {
-      "title": "Artificial Intelligence - Eye On AI",
+      "title": "Research Watch - Eye On AI",
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
@@ -1670,6 +1720,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=251480",
+          "author": "Sarthak Dogra",
+          "description": "Researchers today can draft entire papers with AI assistance, run experiments faster than ever, and summarise literature in minutes. Yet one stubborn bottleneck remains: creating clear, publication-ready diagrams. Poor diagrams look unprofessional and can obscure ideas and weaken a paper’s impact. Google now seems to have a solution to this – and it is called […]\nThe post Meet PaperBanana: Google’s AI That Auto-Generates Research Diagrams appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/paperbanana-google-ai-for-research-diagrams/",
+          "publishedOn": "2026-02-17T17:52:10.000Z",
+          "wordCount": null,
+          "title": "Meet PaperBanana: Google’s AI That Auto-Generates Research Diagrams",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=251498",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "No-code platforms are quietly changing who gets to build software. You no longer need to be an engineer to create apps, automate workflows, or launch products. The barrier isn’t technical skill anymore. It’s knowing where to start. This article brings together some of the best no-code platforms available today. Each serving a different kind of […]\nThe post Top 10 No-Code Development Platforms to Launch Apps and Automate Work appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/top-no-code-development-platforms/",
+          "publishedOn": "2026-02-17T17:47:59.000Z",
+          "wordCount": null,
+          "title": "Top 10 No-Code Development Platforms to Launch Apps and Automate Work",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=135597",
+          "author": "Nitika Sharma",
+          "description": "Two years ago, AI could autocomplete your sentence. Today, it writes production code, drafts legal contracts, generates photorealistic images, builds entire apps, and debates philosophy. Generative AI is not just another tech trend. It is a platform shift. The internet changed how we access information. Mobile changed how we interact with it. GenAI is changing […]\nThe post Top 10 Generative AI Books You Must Read in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/top-generative-ai-books/",
+          "publishedOn": "2026-02-17T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Top 10 Generative AI Books You Must Read in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=251464",
           "author": "Sarthak Dogra",
@@ -3032,36 +3115,6 @@
           "wordCount": null,
           "title": "Our approach to age prediction",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ai-for-self-empowerment",
-          "author": null,
-          "description": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
-          "link": "https://openai.com/index/ai-for-self-empowerment",
-          "publishedOn": "2026-01-18T12:00:00.000Z",
-          "wordCount": null,
-          "title": "AI for self empowerment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ai-for-human-agency",
-          "author": null,
-          "description": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
-          "link": "https://openai.com/index/ai-for-human-agency",
-          "publishedOn": "2026-01-18T12:00:00.000Z",
-          "wordCount": null,
-          "title": "AI for self empowerment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-          "author": null,
-          "description": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
-          "link": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-          "publishedOn": "2026-01-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "A business that scales with the value of intelligence",
-          "imageUrl": null
         }
       ]
     },
@@ -3070,6 +3123,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/open-models-in-perpetual-catch-up",
+          "author": "Nathan Lambert",
+          "description": "The open-closed gap, distillation, innovation timescales, how open models win, specialized models, what’s missing, etc.",
+          "link": "https://www.interconnects.ai/p/open-models-in-perpetual-catch-up",
+          "publishedOn": "2026-02-17T17:27:36.000Z",
+          "wordCount": null,
+          "title": "Open models in perpetual catch-up",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!oyTU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2cad176-f718-4046-8486-161c1111435e_2680x1366.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!oyTU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2cad176-f718-4046-8486-161c1111435e_2680x1366.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/opus-46-vs-codex-53",
           "author": "Nathan Lambert",
