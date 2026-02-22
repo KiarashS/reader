@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-21T01:47:55.813Z</updated>
+    <updated>2026-02-22T01:55:47.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering the Supervisor Agent: A Guide to Orchestrating Multi-Agent AI Systems]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251381</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/supervisor-agent-guide/"/>
+        <updated>2026-02-21T15:02:58.000Z</updated>
+        <summary type="html"><![CDATA[A junior loan officer handling data intake, risk screening, and final decisions alone is prone to mistakes because the role demands too much at once. The same weakness appears in monolithic AI agents asked to run complex, multi-stage workflows. They lose context, skip steps, and produce shaky reasoning, which leads to unreliable results. A stronger […]
+The post Mastering the Supervisor Agent: A Guide to Orchestrating Multi-Agent AI Systems appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting GPUaaS for Enterprise AI On-Prem]]></title>
+        <id>https://towardsdatascience.com/?p=608427</id>
+        <link href="https://towardsdatascience.com/architecting-gpuaas-for-enterprise-ai-on-prem/"/>
+        <updated>2026-02-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multi-tenancy, scheduling, and cost modeling on Kubernetes
+The post Architecting GPUaaS for Enterprise AI On-Prem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Joe Sasson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Probability and Statistics Interview Questions Every Data Scientist Must Master]]></title>
+        <id>https://www.analyticsvidhya.com/?p=251220</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/02/probability-and-statistics-interview-questions/"/>
+        <updated>2026-02-21T14:54:55.000Z</updated>
+        <summary type="html"><![CDATA[You probably solved Bayes’ Theorem in college and decided you’re “good at statistics.” But interviews reveal something else: most candidates don’t fail because they can’t code. They fail because they can’t think probabilistically. Writing Python is easy. Reasoning under uncertainty isn’t. In real-world data science, weak statistical intuition is expensive. Misread an A/B test, misjudge […]
+The post 15 Probability and Statistics Interview Questions Every Data Scientist Must Master appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How will we do SFT on models with opaque reasoning?]]></title>
         <id>GJTzhQgaRWLFJkPbt</id>
@@ -3139,170 +3172,6 @@ The post Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Requ
 The post Why SaaS Product Management Is the Best Domain for Data-Driven Professionals in 2026 appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Yassin Zehar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Writing Messy Boolean Masks: 10 Elegant Ways to Filter Pandas DataFrames]]></title>
-        <id>https://towardsdatascience.com/?p=608218</id>
-        <link href="https://towardsdatascience.com/stop-writing-messy-boolean-masks-10-elegant-ways-to-filter-pandas-dataframes/"/>
-        <updated>2026-01-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Master the art of readable, high-performance data selection using .query(), .isin(), and advanced vectorized logic.
-The post Stop Writing Messy Boolean Masks: 10 Elegant Ways to Filter Pandas DataFrames appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Free Generative AI Courses with Certificates]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250155</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/free-generative-ai-courses-with-certificates/"/>
-        <updated>2026-01-22T13:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is in the vogue. It is powering all the latest technologies and is one of the most sought out skills in the job market, becoming a must-have skill in present date. But for those who aren’t familiar with GenAI, it might seem like a distant dream considering how hard it is to get […]
-The post Top 7 Free Generative AI Courses with Certificates appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Other Industries Can Learn from Healthcare’s Knowledge Graphs]]></title>
-        <id>https://towardsdatascience.com/?p=608220</id>
-        <link href="https://towardsdatascience.com/what-other-industries-can-learn-from-healthcares-knowledge-graphs/"/>
-        <updated>2026-01-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How shared meaning, evidence, and standards create durable semantic infrastructure
-The post What Other Industries Can Learn from Healthcare’s Knowledge Graphs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Steve Hedden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling PostgreSQL to power 800 million ChatGPT users]]></title>
-        <id>https://openai.com/index/scaling-postgresql</id>
-        <link href="https://openai.com/index/scaling-postgresql"/>
-        <updated>2026-01-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibe Coding a Bridge-Ball Game with Emergent in Minutes]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250113</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/vibe-coding-game-with-emergent-in-minutes/"/>
-        <updated>2026-01-22T11:11:06.000Z</updated>
-        <summary type="html"><![CDATA[In the past couple of years, we have seen vibe coding evolve from just an idea that sounded “fancy” to a full-time practice for many budding developers. What used to sound like a gimmick is now a must-have skill, even in the professional world. Proof? The recent round of funding secured by one such platform. […]
-The post Vibe Coding a Bridge-Ball Game with Emergent in Minutes appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting]]></title>
-        <id>https://machinelearningmastery.com/?p=23056</id>
-        <link href="https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"/>
-        <updated>2026-01-22T11:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Most forecasting work involves building custom models for each dataset — fit an ARIMA here, tune an LSTM there, wrestle with <a href="https://facebook.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Praktika's conversational approach to language learning]]></title>
-        <id>https://openai.com/index/praktika</id>
-        <link href="https://openai.com/index/praktika"/>
-        <updated>2026-01-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside GPT-5 for Work: How Businesses Use GPT-5]]></title>
-        <id>https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work</id>
-        <link href="https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work"/>
-        <updated>2026-01-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When should we train against a scheming monitor?]]></title>
-        <id>u67JAa6FKKpQJPp3m</id>
-        <link href="https://www.alignmentforum.org/posts/u67JAa6FKKpQJPp3m/when-should-we-train-against-a-scheming-monitor"/>
-        <updated>2026-01-21T20:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 21, 2026 8:48 PM GMT
-
-As we develop new techniques for detecting deceptive alignment, ranging from action monitoring to Chain-of-Thought (CoT) or activations monitoring, we face a dilemma: once we detect scheming behaviour or intent, should we use that signal to "train the scheming out"?
-On the one hand, leaving known misaligned behaviour / intent in the model is not marginally informative and possibly unsafe. On the other hand, training against a monitor might not actually fix the model's underlying motivations; it might simply provide selection pressure that favours more sophisticated, less detectable forms of deception.
-This post outlines a simple framework formalising when the generalisation benefit of training outweighs the selection risk of creating a schemer. I …]]></summary>
-        <author>
-            <name>Mary Phuong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50+ Machine Learning Resources for Self Study in 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=167106</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/"/>
-        <updated>2026-01-21T19:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2026? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting field […]
-The post 50+ Machine Learning Resources for Self Study in 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Aayush Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Good at Agents]]></title>
-        <id>https://www.interconnects.ai/p/get-good-at-agents</id>
-        <link href="https://www.interconnects.ai/p/get-good-at-agents"/>
-        <updated>2026-01-21T17:05:15.000Z</updated>
-        <summary type="html"><![CDATA[The tools are getting so powerful that we need to change how we scope, manage, and approach our work.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data]]></title>
-        <id>https://towardsdatascience.com/?p=608211</id>
-        <link href="https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/"/>
-        <updated>2026-01-21T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Trends is one of the most widely used tools for analysing human behaviour at scale. Journalists use it. Data scientists use it. Entire papers are built on it. But there is a fundamental property of Google Trends data that makes it very easy to misuse, especially if you are working with time series or trying to build models, and most people never realise they are doing it.
-The post Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Leigh Collier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If You Want to Become a Data Scientist in 2026, Do This]]></title>
-        <id>https://towardsdatascience.com/?p=608209</id>
-        <link href="https://towardsdatascience.com/why-most-people-struggle-to-get-data-science-jobs-in-2026/"/>
-        <updated>2026-01-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn from my mistakes and fast track your data science career
-The post If You Want to Become a Data Scientist in 2026, Do This appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1]]></title>
-        <id>https://www.rsipvision.com/?p=16991</id>
-        <link href="https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai/"/>
-        <updated>2026-01-21T14:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Part 1: Introduction From DICOM Chaos to Training-Ready Data: Why the Dataset Pipeline Is the Real Model If you’re building algorithms in medical AI, you’ve probably lived through some version of this: You introduce a new model architecture and performance improves by 3%… then drops by 6% next run. A “simple” dataset addition triggers weird …
-  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1 Read More »
-The post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 1 appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Transformers: A Deep Dive into HOPE]]></title>
-        <id>https://learnopencv.com/?p=78341</id>
-        <link href="https://learnopencv.com/hope-beyond-transformers/"/>
-        <updated>2026-01-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the HOPE architecture, a revolutionary self-modifying AI system that solves catastrophic forgetting and scales to 10 million tokens.
-Beyond Transformers: A Deep Dive into HOPE first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Shubham</name>
         </author>
     </entry>
 </feed>
