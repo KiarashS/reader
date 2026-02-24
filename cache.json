@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608441",
+          "author": "Egor Howell",
+          "description": "What you should be doing in the current job market\nThe post Is the AI and Data Job Market Dead? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/is-the-ai-and-data-job-market-dead/",
+          "publishedOn": "2026-02-23T21:56:40.000Z",
+          "wordCount": 4302,
+          "title": "Is the AI and Data Job Market Dead?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Comp-23-0-00-09-03.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608439",
+          "author": "Thomas Reid",
+          "description": "Common Pandas operations and their equivalents in PySpark\nThe post PySpark for Pandas Users appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/pyspark-for-pandas-users/",
+          "publishedOn": "2026-02-23T21:34:57.000Z",
+          "wordCount": 6509,
+          "title": "PySpark for Pandas Users",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pandas_pyspark.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608437",
+          "author": "Lorenzo Cesconetto",
+          "description": "Learn and implement gradient accum and data parallelism from scratch in PyTorch\nThe post AI in Multiple GPUs: Gradient Accumulation & Data Parallelism appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-in-multiple-gpus-grad-accum-data-parallelism/",
+          "publishedOn": "2026-02-23T21:19:58.000Z",
+          "wordCount": 4527,
+          "title": "AI in Multiple GPUs: Gradient Accumulation & Data Parallelism",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ddp.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608434",
+          "author": "Eivind Kjosbakken",
+          "description": "Use Claude Code to quickly build completely personalized applications\nThe post Build Effective Internal Tooling with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/build-effective-internal-tooling-with-claude-code/",
+          "publishedOn": "2026-02-23T19:13:25.000Z",
+          "wordCount": 4631,
+          "title": "Build Effective Internal Tooling with Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-143.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608429",
           "author": "Reya Vir",
           "description": "Why optimizing for speed over safety is leaving applications vulnerable, and how to fix it.\nThe post The Reality of Vibe Coding: AI Agents and the Security Debt Crisis appeared first on Towards Data Science.",
@@ -760,36 +800,6 @@
           "wordCount": 5648,
           "title": "How to Build a Neural Machine Translation System for a Low-Resource Language",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/featured_image1-rotated-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608240",
-          "author": "Prithviraj Pramanik",
-          "description": "Understand air quality: access the available data, interpret data types, and execute starter codes\nThe post Air for Tomorrow: Mapping the Digital Air-Quality Landscape, from Repositories and Data Types to Starter Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/air-for-tomorrow-mapping-the-digital-air-quality-landscape-repositories-data-types-starter-code/",
-          "publishedOn": "2026-01-24T13:00:00.000Z",
-          "wordCount": 7764,
-          "title": "Air for Tomorrow: Mapping the Digital Air-Quality Landscape, from Repositories and Data Types to Starter Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/UNI724381-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608234",
-          "author": "Chaim Rand",
-          "description": "A deep dive on data transfer bottlenecks, their identification, and their resolution with the help of NVIDIA Nsight™ Systems – part 3\nThe post Optimizing Data Transfer in Distributed AI/ML Training Workloads appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimizing-data-transfer-in-distributed-ai-ml-training-workloads/",
-          "publishedOn": "2026-01-23T16:30:00.000Z",
-          "wordCount": 5723,
-          "title": "Optimizing Data Transfer in Distributed AI/ML Training Workloads",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/1-2-1.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608232",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn to leverage few-shot prompting to increase your LLMs performance\nThe post Achieving 5x Agentic Coding Performance with Few-Shot Prompting appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/5x-agentic-coding-performance-with-few-shot-prompting/",
-          "publishedOn": "2026-01-23T15:00:00.000Z",
-          "wordCount": 4298,
-          "title": "Achieving 5x Agentic Coding Performance with Few-Shot Prompting",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/image-137.jpg"
         }
       ]
     },
@@ -798,6 +808,26 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=23398",
+          "author": "Shittu Olumide",
+          "description": "For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+          "link": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/",
+          "publishedOn": "2026-02-18T11:00:23.000Z",
+          "wordCount": null,
+          "title": "Agentify Your App with GitHub Copilot’s Agentic Coding SDK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23291",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is understandable by algorithms, models, and machines in a broader sense.",
+          "link": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/",
+          "publishedOn": "2026-02-17T11:00:58.000Z",
+          "wordCount": null,
+          "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=23404",
           "author": "Vinod Chugani",
@@ -981,6 +1011,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+          "publishedOn": "2026-02-24T00:00:21.000Z",
+          "wordCount": 1812,
+          "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-on-jetson.png"
+        },
         {
           "id": "https://huggingface.co/blog/ggml-joins-hf",
           "author": null,
@@ -1449,24 +1489,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "9ce014e0-f866-11f0-aa0f-5bf69c54c351",
-          "author": null,
-          "description": "Artemis II landing and recovery director Lili Villareal discusses how NASA and its partners recover the Orion spacecraft and its four astronauts after splashdown in the Pacific Ocean. HWHAP 408.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-ii-recovery/",
-          "publishedOn": "2026-01-23T14:27:00.000Z",
-          "wordCount": null,
-          "title": "Artemis II: Recovery",
-          "itunes": {
-            "duration": "2512"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4568011500.mp3?updated=1769178907",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1475,6 +1497,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:699c7d39b24ed9391bde273d",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst-nsfpt-74j7l-fme2f-9r7m3-3lnj8",
+          "publishedOn": "2026-02-23T16:16:06.000Z",
+          "wordCount": null,
+          "title": "Week Ending 2.22.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6993301840bcbe4d277039c4",
           "author": "Craig Smith",
@@ -1672,6 +1705,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=251738",
+          "author": "Harsh Mishra",
+          "description": "Who has ever had a great idea about an application, only to be confronted with the reality of the development dread, which may take weeks, or even months. The path between the idea and a working product can be tiresome. Imagine that you could fit that whole procedure into the amount of time you spend […]\nThe post Building a Personal Productivity Agent with GLM-5  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/building-a-personal-productivity-agent-with-glm-5/",
+          "publishedOn": "2026-02-23T13:43:18.000Z",
+          "wordCount": null,
+          "title": "Building a Personal Productivity Agent with GLM-5",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=251735",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "AI can generate insights faster than any analyst ever could. But speed isn’t the problem anymore. The real problem is value. In 2026, the gap isn’t between companies that use AI and those that don’t. It’s between those who can explain AI-generated insights clearly and those who just copy-paste model outputs into slides and hope […]\nThe post Data Storytelling using AI: 5 Techniques to Present AI-Generated Insights appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/02/data-storytelling/",
+          "publishedOn": "2026-02-23T13:40:46.000Z",
+          "wordCount": null,
+          "title": "Data Storytelling using AI: 5 Techniques to Present AI-Generated Insights",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=251709",
           "author": "Nitika Sharma",
@@ -2397,39 +2452,6 @@
           "title": "How UX Research Methods Reveal Hidden AI Orchestration Failures in Enterprise Collaboration Agents",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=244475",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "At its core, ML involves algorithms that analyze data, recognize patterns, and make predictions. These models “learn” from past data to improve their performance over time. For example, an ML model trained on user purchase history can predict which products a customer might buy next. Artificial Intelligence (AI) is no longer a future concept. This is […]\nThe post Deep Learning vs. Machine Learning: Key Differences Explained for Business Leaders  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/machine-learning-vs-deep-learning/",
-          "publishedOn": "2026-01-24T09:51:30.000Z",
-          "wordCount": null,
-          "title": "Deep Learning vs. Machine Learning: Key Differences Explained for Business Leaders",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=66932",
-          "author": "Nitika Sharma",
-          "description": "We live in a world where answers are instant. AI copilots, search engines, short videos, and interactive courses can explain almost anything in minutes. Information is no longer scarce. What is scarce is depth, clarity, and the ability to connect ideas into sound decisions. That is where books still matter. In an era of fast content and […]\nThe post 9 Books to Start Your Business Analytics Journey appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/top-business-analytics-books-to-read/",
-          "publishedOn": "2026-01-24T08:51:00.000Z",
-          "wordCount": null,
-          "title": "9 Books to Start Your Business Analytics Journey",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250171",
-          "author": "Sarthak Dogra",
-          "description": "Job descriptions of Data Engineering roles have changed drastically over the years. In 2026, these read less like data plumbing and more like production engineering. You are expected to ship pipelines that don’t break at 2 AM, scale cleanly, and stay compliant while they do it. So, no – “I know Python and Spark” alone […]\nThe post How to Become a Data Engineer in 2026? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/data-engineer-roadmap/",
-          "publishedOn": "2026-01-23T15:38:37.000Z",
-          "wordCount": null,
-          "title": "How to Become a Data Engineer in 2026?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2450,6 +2472,26 @@
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
       "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=17187",
+          "author": "David M",
+          "description": "<!doctype html>   Engineering for Annotation in the ML Pipeline, Part 1: Designing a Testable Protocol Author: Eytan Slotnik Date: February 2026 Introduction Early collaboration between R&D and annotation saves time, reduces rework, and improves data quality. Data annotation is the bedrock of machine learning, and in medical AI it needs to meet both scientific …\n  Engineering for Annotation in the ML Pipeline Read More »\nThe post Engineering for Annotation in the ML Pipeline appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-1-designing-a-testable-protocol/",
+          "publishedOn": "2026-02-23T16:56:11.000Z",
+          "wordCount": 3498,
+          "title": "Engineering for Annotation in the ML Pipeline",
+          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-23-2026-12_16_54-PM-1024x683.png"
+        },
+        {
+          "id": "https://www.rsipvision.com/?p=17177",
+          "author": "David M",
+          "description": "Phoenix, AZ – February 26, 2026 RSIP Vision will be at the Spine Summit in Phoenix, AZ, February 26–March 1, 2026 Meet our CEO Ron Soferman to find out how AI and computer vision are transforming spine surgery, including: Real-time instrument & implant tracking CT/fluoro 2D–3D registration & fusion Intraoperative alignment & hardware measurements AI …\n  RSIP Vision will be at the Spine Summit in Phoenix, AZ Read More »\nThe post RSIP Vision will be at the Spine Summit in Phoenix, AZ appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/rsip-vision-will-be-at-the-spine-summit-in-phoenix-az/",
+          "publishedOn": "2026-02-23T14:00:42.000Z",
+          "wordCount": null,
+          "title": "RSIP Vision will be at the Spine Summit in Phoenix, AZ",
+          "imageUrl": null
+        },
         {
           "id": "https://www.rsipvision.com/?p=17165",
           "author": "David M",
@@ -2605,6 +2647,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+          "author": null,
+          "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+          "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+          "publishedOn": "2026-02-23T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Why we no longer evaluate SWE-bench Verified",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/frontier-alliance-partners",
+          "author": null,
+          "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+          "link": "https://openai.com/index/frontier-alliance-partners",
+          "publishedOn": "2026-02-23T05:30:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI announces Frontier Alliance Partners",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/first-proof-submissions",
           "author": null,
@@ -3233,16 +3295,6 @@
           "publishedOn": "2026-01-26T17:30:18.000Z",
           "wordCount": null,
           "title": "AlgZoo: uninterpreted models with fewer than 1,500 parameters",
-          "imageUrl": null
-        },
-        {
-          "id": "rreDwHXgnhEDKxkro",
-          "author": "Steven Byrnes",
-          "description": "Published on January 23, 2026 4:21 PM GMT\n\nA new version of “Intro to Brain-Like-AGI Safety” is out!\nThings that have not changed\nSame links as before:\n\nAs a series of 15 blog posts on LessWrong / Alignment Forum: https://www.lesswrong.com/s/HzcM2dkCq7fwXBej8\nAs a 225-page PDF (now up to version 3): https://osf.io/preprints/osf/fe36n\nSummary video: Video & transcript: Challenges for Safe & Beneficial Brain-Like AGI\n\n…And same abstract as before:\n\nSuppose we someday build an Artificial General Intelligence algorithm using similar principles of learning and cognition as the human brain. How would we use such an algorithm safely?\nI will argue that this is an open technical problem, and my goal in this post series is to bring readers with no prior knowledge all the way up to the front-line of …",
-          "link": "https://www.alignmentforum.org/posts/rreDwHXgnhEDKxkro/new-version-of-intro-to-brain-like-agi-safety",
-          "publishedOn": "2026-01-23T16:21:26.000Z",
-          "wordCount": null,
-          "title": "New version of “Intro to Brain-Like-AGI Safety”",
           "imageUrl": null
         }
       ]
