@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608489",
+          "author": "Partha Sarkar",
+          "description": "Reducing LLM costs by 30% with validation-aware, multi-tier caching\nThe post Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/",
+          "publishedOn": "2026-03-01T15:00:00.000Z",
+          "wordCount": 6810,
+          "title": "Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Img-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608487",
+          "author": "Dr. Janna Lipenkova",
+          "description": "If you have both unique domain expertise and know how to make it usable to your AI systems, you’ll be hard to beat.\nThe post Context Engineering as Your Competitive Edge appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/context-engineering-as-your-competitive-edge/",
+          "publishedOn": "2026-03-01T13:00:00.000Z",
+          "wordCount": 5457,
+          "title": "Context Engineering as Your Competitive Edge",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/19819bdc-68a2-4588-bd86-5ef5e27c3828_1422x553-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608483",
           "author": "Ruben Broekx",
           "description": "How reusable, lazy-loaded instructions solve the context bloat problem in AI-assisted development.\nThe post Claude Skills and Subagents: Escaping the Prompt Engineering Hamster Wheel appeared first on Towards Data Science.",
@@ -760,56 +780,6 @@
           "wordCount": 8185,
           "title": "Why Your Multi-Agent System is Failing: Escaping the 17x Error Trap of the “Bag of Agents”",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/1vd9Ia13BojAttqrIaQoFSg.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608295",
-          "author": "Conor Rowan",
-          "description": "A new kind of hyperparameter study\nThe post On the Possibility of Small Networks for Physics-Informed Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/on-the-possibility-of-small-networks-for-physics-informed-learning/",
-          "publishedOn": "2026-01-30T13:30:00.000Z",
-          "wordCount": 6710,
-          "title": "On the Possibility of Small Networks for Physics-Informed Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/card-e1769650513541.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608293",
-          "author": "Josiah DeValois",
-          "description": "How to structure decisions, identify efficient options, and avoid misleading value metrics\nThe post Multi-Attribute Decision Matrices, Done Right appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/multi-attribute-decision-matrices-done-right/",
-          "publishedOn": "2026-01-30T12:00:00.000Z",
-          "wordCount": 3999,
-          "title": "Multi-Attribute Decision Matrices, Done Right",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/untitled_hero.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608312",
-          "author": "TDS Editors",
-          "description": "Don't miss our most-read and -shared stories of the past month\nThe post TDS Newsletter: January Must-Reads on Data Platforms, Infinite Context, and More appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tds-newsletter-january-must-reads-on-data-platforms-infinite-context-and-more/",
-          "publishedOn": "2026-01-29T18:39:00.000Z",
-          "wordCount": 3472,
-          "title": "TDS Newsletter: January Must-Reads on Data Platforms, Infinite Context, and More",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/helen-michielin-Q80f8Gq_Jdg-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608289",
-          "author": "Oleg Tereshin",
-          "description": "An analysis of how flattening structured data can boost precision and recall by up to 20%\nThe post Optimizing Vector Search: Why You Should Flatten Structured Data  appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimizing-vector-search-why-you-should-flatten-structured-data/",
-          "publishedOn": "2026-01-29T16:30:00.000Z",
-          "wordCount": 4107,
-          "title": "Optimizing Vector Search: Why You Should Flatten Structured Data",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/featuredImage-smaller.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608286",
-          "author": "Lorenzo Cesconetto",
-          "description": "Going beyond the math to build intuition\nThe post RoPE, Clearly Explained appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rope-clearly-explained/",
-          "publishedOn": "2026-01-29T15:00:00.000Z",
-          "wordCount": 4129,
-          "title": "RoPE, Clearly Explained",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/rope_high_xy_rotation_1-1.gif"
         }
       ]
     },
@@ -1160,16 +1130,6 @@
           "wordCount": 6733,
           "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68d136d7307413e80188d819/4XhN9QMMb6wjrKfQIlqhn.jpeg"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-          "publishedOn": "2026-01-29T17:03:25.000Z",
-          "wordCount": 1464,
-          "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68fb126edc4736cd86240c9b/gtOAHsmIDBkkTTLoxNshn.png"
         }
       ]
     },
@@ -1536,6 +1496,16 @@
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Feature-IMG-Physical-AI-Why-Robots-Are-Becoming-the-Next-Frontier-of-Intelligence-scaled.jpg"
         },
         {
+          "id": "https://imerit.net/?p=19781",
+          "author": "Brett",
+          "description": "Understand the role of human-in-the-loop in Intelligent Document Processing, its benefits, and how it improves model performance.\nThe post Human-in-the-Loop: The Missing Piece in Document AI Accuracy appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/boosting-document-ai-accuracy-with-human-in-the-loop/",
+          "publishedOn": "2026-02-18T14:42:58.000Z",
+          "wordCount": 2860,
+          "title": "Human-in-the-Loop: The Missing Piece in Document AI Accuracy",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2023/06/OG_Boosting-Document-AI-Accuracy-with-Human-in-the-Loop.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=33097",
           "author": "Sujana Urs",
           "description": "High-definition HD maps are a core component of advanced driver-assistance systems ADAS and autonomous vehicles, providing detailed road data such\nThe post Detecting HD Map Coverage Gaps Using Simulation appeared first on iMerit.",
@@ -1564,6 +1534,16 @@
           "wordCount": 2184,
           "title": "Human-in-the-loop Evaluation for Image Generation: Reviewer Calibration, Disagreement Resolution, and Quality Control",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Feature-IMG-Human-in-the-loop-Evaluation-for-Image-Generation-Reviewer-Calibration-Disagreement-Resolution-and-Quality-Control.png"
+        },
+        {
+          "id": "https://imerit.net/?p=19930",
+          "author": "Brett",
+          "description": "Explore challenges encountered in 3D sensor fusion labeling for autonomous mobility and potential solutions to overcome them.\nThe post Overcoming Challenges in 3D Sensor Fusion Labeling for Autonomous Vehicles appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/overcoming-challenges-in-3d-sensor-fusion-labeling-for-autonomous-vehicles/",
+          "publishedOn": "2026-02-06T09:02:52.000Z",
+          "wordCount": 3196,
+          "title": "Overcoming Challenges in 3D Sensor Fusion Labeling for Autonomous Vehicles",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2023/07/OG_Overcoming-Challenges-in-3D-Sensor-Fusion-Labeling-for-Autonomous-Vehicles-1-1.jpg"
         },
         {
           "id": "https://imerit.net/?p=32970",
@@ -1632,6 +1612,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=136608",
+          "author": "Janvi Kumari",
+          "description": "Deterministic and stochastic models are two core approaches used in machine learning, risk assessment, and decision-making systems. Deterministic models produce fixed outputs for a given input, while stochastic models incorporate randomness and probability. Understanding the difference between these approaches is essential for building reliable models and making informed predictions. Learning Objectives: What Are Deterministic and […]\nThe post Deterministic vs Stochastic – Machine Learning Fundamentals appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/deterministic-vs-stochastic/",
+          "publishedOn": "2026-03-01T21:59:00.000Z",
+          "wordCount": null,
+          "title": "Deterministic vs Stochastic – Machine Learning Fundamentals",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=251796",
+          "author": "Sarthak Dogra",
+          "description": "What if I told you, you often lose your next big role to someone much less credible than you? Unjust, yes, but certainly not untrue. Here is the reality: recruiters, founders, and collaborators don’t discover talent through Kaggle notebooks. They discover it through visibility. Visibility on the world’s largest professional network – LinkedIn. You see, […]\nThe post Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/data-scientists-grow-your-linkedin-fast-ai-workflow/",
+          "publishedOn": "2026-03-01T15:06:10.000Z",
+          "wordCount": null,
+          "title": "Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=251905",
           "author": "Sarthak Dogra",
@@ -2344,39 +2346,6 @@
           "publishedOn": "2026-01-31T17:48:56.000Z",
           "wordCount": null,
           "title": "End-to-End Machine Learning Project on Amazon Sales Data Using Python",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250576",
-          "author": "Sarthak Dogra",
-          "description": "Hot take – just like the Internet era, Google is leading the AI revolution. While there are many AI solutions out there, almost none of them integrate with the daily lives of users as deeply as Google’s AI ecosystem. Case in point: the tech giant has now partnered with PhysicsWallah and Career360 and come up […]\nThe post 5 Gemini Prompts for JEE Preparation appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/jee-preparation-with-gemini-top-prompts/",
-          "publishedOn": "2026-01-30T11:58:49.000Z",
-          "wordCount": null,
-          "title": "5 Gemini Prompts for JEE Preparation",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250469",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "LLMs aren’t limited to AI and related fields! They’re powering almost every tech, and thereby is one of the most asked about topics in interviews. This makes it essential to have a surface level familiarity of the technology. This article is designed to mirror how LLMs show up in real interviews. We’ll start from first […]\nThe post 20 LLM Questions You’ll See Everywhere in 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/",
-          "publishedOn": "2026-01-30T11:53:09.000Z",
-          "wordCount": null,
-          "title": "20 LLM Questions You’ll See Everywhere in 2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250551",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Another year, another opportunity. For the nerdy ones, this is the right time to participate in some of the best hackathons that are out there. With hosts like Google DeepMind, Kaggle and Fractal having hackathons simultaneously, there is plenty of challenge on offer in 2026. Here you’ll find 5 of the most trending hackathons that […]\nThe post 5 Biggest Hackathons of 2026 That You Can’t Miss appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/01/top-hackathons-to-participate-in/",
-          "publishedOn": "2026-01-30T09:32:19.000Z",
-          "wordCount": null,
-          "title": "5 Biggest Hackathons of 2026 That You Can’t Miss",
           "itunes": {},
           "imageUrl": null
         }
@@ -3222,16 +3191,6 @@
           "publishedOn": "2026-02-02T15:26:27.000Z",
           "wordCount": null,
           "title": "Are there lessons from high-reliability engineering for AGI safety?",
-          "imageUrl": null
-        },
-        {
-          "id": "bhtYqD4FdK6AqhFDF",
-          "author": "Alex Mallen",
-          "description": "Published on January 29, 2026 7:42 PM GMT\n\nIf you think reward-seekers are plausible, you should also think “fitness-seekers” are plausible. But their risks aren't the same.\nThe AI safety community often emphasizes reward-seeking as a central case of a misaligned AI alongside scheming (e.g., Cotra’s sycophant vs schemer, Carlsmith’s terminal vs instrumental training-gamer). We are also starting to see signs of reward-seeking-like motivations.\nBut I think insufficient care has gone into delineating this category. If you were to focus on AIs who care about reward in particular[1], you'd be missing some comparably-or-more plausible nearby motivations that make the picture of risk notably more complex.\nA classic reward-seeker wants high reward on the current episode. But an AI might instead pu…",
-          "link": "https://www.alignmentforum.org/posts/bhtYqD4FdK6AqhFDF/fitness-seekers-generalizing-the-reward-seeking-threat-model",
-          "publishedOn": "2026-01-29T19:42:02.000Z",
-          "wordCount": null,
-          "title": "Fitness-Seekers: Generalizing the Reward-Seeking Threat Model",
           "imageUrl": null
         }
       ]
