@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608530",
+          "author": "Lorenzo Cesconetto",
+          "description": "Learn how Zero Redundancy Optimizer works, how to implement it from scratch, and how to use it in PyTorch\nThe post AI in Multiple GPUs: ZeRO & FSDP appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-in-multiple-gpus-zero-fsdp/",
+          "publishedOn": "2026-03-05T20:00:44.000Z",
+          "wordCount": 4935,
+          "title": "AI in Multiple GPUs: ZeRO & FSDP",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/zero-3.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608528",
+          "author": "Favio Vázquez",
+          "description": "The Road to Reality — Episode 1\nThe post How Human Work Will Remain Valuable in an AI World appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/human-work-in-the-ai-world-how-to-remain-valuable/",
+          "publishedOn": "2026-03-05T12:00:00.000Z",
+          "wordCount": 5031,
+          "title": "How Human Work Will Remain Valuable in an AI World",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/portada_episodio1_v4_TDS.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608526",
           "author": "Rukshan Pramoditha",
           "description": "An overview of powerful methods for transforming continuous variables into discrete ones\nThe post 5 Ways to Implement Variable Discretization appeared first on Towards Data Science.",
@@ -810,36 +830,6 @@
           "wordCount": 7824,
           "title": "YOLOv2 & YOLO9000 Paper Walkthrough: Better, Faster, Stronger",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/YOLOv2-Cover-Page.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608322",
-          "author": "Jimin Kang",
-          "description": "A walkthough of creating an ETL pipeline to extract local crime data and visualize it in Metabase.\nThe post Creating a Data Pipeline to Monitor Local Crime Trends appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/creating-a-data-pipeline-to-monitor-local-crime-trends/",
-          "publishedOn": "2026-02-03T13:30:00.000Z",
-          "wordCount": 6532,
-          "title": "Creating a Data Pipeline to Monitor Local Crime Trends",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-192.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608320",
-          "author": "Giuseppe Pio Cannata",
-          "description": "The neighborhood of synthetic data\nThe post The Proximity of the Inception Score as an Evaluation Criterion appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-proximity-of-the-inception-score-as-an-evaluation-criterion/",
-          "publishedOn": "2026-02-03T12:00:00.000Z",
-          "wordCount": 3977,
-          "title": "The Proximity of the Inception Score as an Evaluation Criterion",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-184.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608264",
-          "author": "TDS Editors",
-          "description": "Sara Nobrega on the transition from data science to AI engineering, using LLMs as a bridge to DevOps, and the one engineering skill junior data scientists need to stay competitive.\nThe post Building Systems That Survive Real Life appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-systems-that-survive-real-life/",
-          "publishedOn": "2026-02-02T17:00:00.000Z",
-          "wordCount": 3468,
-          "title": "Building Systems That Survive Real Life",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/01/Sara-Author-Spotlight.jpg"
         }
       ]
     },
@@ -1012,6 +1002,26 @@
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
         {
+          "id": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+          "author": null,
+          "description": "A Blog post by NXP on Hugging Face",
+          "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+          "publishedOn": "2026-03-05T14:16:49.000Z",
+          "wordCount": 2008,
+          "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nxp/bringing-robotics-ai-to-embedded-platforms.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/modular-diffusers",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/modular-diffusers",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": 1924,
+          "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+          "imageUrl": "https://huggingface.co/blog/assets/modular-diffusers/thumbnail.png"
+        },
+        {
           "id": "https://huggingface.co/blog/Photoroom/prx-part3",
           "author": null,
           "description": "A Blog post by Photoroom on Hugging Face",
@@ -1180,16 +1190,6 @@
           "wordCount": 1773,
           "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/63a369d98c0c89dcae3b8329/MOOv3ivvsii5OdJFcwIU5.webp"
-        },
-        {
-          "id": "https://huggingface.co/blog/Photoroom/prx-part2",
-          "author": null,
-          "description": "A Blog post by Photoroom on Hugging Face",
-          "link": "https://huggingface.co/blog/Photoroom/prx-part2",
-          "publishedOn": "2026-02-03T11:25:53.000Z",
-          "wordCount": 6733,
-          "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68d136d7307413e80188d819/4XhN9QMMb6wjrKfQIlqhn.jpeg"
         }
       ]
     },
@@ -1616,26 +1616,6 @@
           "wordCount": 2288,
           "title": "Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Featured-IMG-Data-Driven-Autonomous-Driving-Simulation-Closing-the-Gap-Between-Simulation-and-Reality-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=32893",
-          "author": "Sujana Urs",
-          "description": "Learn modes of de-identifying reports and explore real-world case studies about how healthcare providers use de-identified data for research.\nThe post Closing the Loop: Using Real-World Perception Failures to Update Simulation HD Maps appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/closing-the-loop-using-real-world-perception-failures-to-update-simulation-hd-maps/",
-          "publishedOn": "2026-02-03T13:12:51.000Z",
-          "wordCount": 2798,
-          "title": "Closing the Loop: Using Real-World Perception Failures to Update Simulation HD Maps",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2024/06/OG_How-Leading-Healthcare-Providers-Are-De-Identifying-Data-for-Research.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=32844",
-          "author": "Sujana Urs",
-          "description": "Manufacturing has always been a race against imperfection. Every scratch on a steel surface, every hairline crack in a ball\nThe post Defect Detection Models: Why High-Quality Annotation Matters appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/the-role-of-annotation-in-model-accuracy/",
-          "publishedOn": "2026-02-02T15:41:15.000Z",
-          "wordCount": 2403,
-          "title": "Defect Detection Models: Why High-Quality Annotation Matters",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Marble-background-with-cracks-and-defects.jpg"
         }
       ]
     },
@@ -1644,6 +1624,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252152",
+          "author": "Sarthak Dogra",
+          "description": "You don’t always go for a benchmark score to see which AI model fits your needs. Even the highest ranking models sometimes seem to miss the essence of a conversation entirely. What matters then is how fluid and helpful your conversations with AI are. Taking a step in this direction, OpenAI has now introduced an […]\nThe post New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/gpt-5-3-instant-update/",
+          "publishedOn": "2026-03-06T00:58:26.000Z",
+          "wordCount": null,
+          "title": "New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252142",
+          "author": "Sarthak Dogra",
+          "description": "Whenever I am to suggest a new AI tool to someone who is just starting out, there is one name I know can bring them unprecedented value. NotebookLM, the famous AI tool by Google, is just one-too-many solutions wrapped into a neat package of an “AI research tool.” It can summarise your notes, find you […]\nThe post NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/notebooklm-cinematic-video-overviews/",
+          "publishedOn": "2026-03-06T00:57:27.000Z",
+          "wordCount": null,
+          "title": "NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252037",
+          "author": "Nitika Sharma",
+          "description": "Instruction-based image editing models are impressive at following prompts. But when edits involve physical interactions, they often fail to respect real-world laws. In their paper “From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors,” the authors introduce PhysicEdit, a framework that treats image editing as a physical state transition rather than a static transformation between two […]\nThe post PhysicEdit: Teaching Image Editing Models to Respect Physics appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/physicedit-teaching-image-editing-models-physics/",
+          "publishedOn": "2026-03-05T06:49:27.000Z",
+          "wordCount": null,
+          "title": "PhysicEdit: Teaching Image Editing Models to Respect Physics",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252071",
           "author": "Vipin Vashisth",
@@ -2347,39 +2360,6 @@
           "title": "5 Kimi K2.5 Features for Developers: Is it the Best AI Model for Programming?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250770",
-          "author": "Sarthak Dogra",
-          "description": "Ever since its announcement, Grok has been among the leading generative AI platforms across the globe. Reason – its quick and accurate outputs, longer context handling, and of course, a bit of wit that accompanies all its responses. It is easy to see the AI model’s sharpness across output formats, be it textual responses, or […]\nThe post 6 New Features of Grok Imagine 1.0 [MUST TRY] appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/grok-imagine-1-0-is-here/",
-          "publishedOn": "2026-02-03T12:33:53.000Z",
-          "wordCount": null,
-          "title": "6 New Features of Grok Imagine 1.0 [MUST TRY]",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250627",
-          "author": "Riya Bansal",
-          "description": "Imagine building a full Android app that generates AI questions, runs on a real backend, and uses a database without writing a single line of code. Claude Code, Anthropic’s terminal-based assistant, makes it possible to ship a working product from one clear prompt. This tutorial shows how to create an AI Study Assistant that ingests […]\nThe post Build an AI Study Assistant with Claude Code + Android Studio appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/build-an-ai-study-assistant-with-claude-code-android-studio/",
-          "publishedOn": "2026-02-03T11:53:13.000Z",
-          "wordCount": null,
-          "title": "Build an AI Study Assistant with Claude Code + Android Studio",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250435",
-          "author": "Riya Bansal.",
-          "description": "OpenClaw is everywhere right now. People are talking about the platform and the kinds of agents you can build with it. But what is all this hype really about? Most AI assistants still stop at conversation. They answer questions, forget context, and never actually take action. OpenClaw agents change that. Instead of living inside a […]\nThe post How to Build an OpenClaw Agent in Less Than 10 Minutes appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/how-to-build-an-openclaw-agent/",
-          "publishedOn": "2026-02-03T09:27:00.000Z",
-          "wordCount": null,
-          "title": "How to Build an OpenClaw Agent in Less Than 10 Minutes",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2539,16 +2519,6 @@
           "wordCount": 2605,
           "title": "From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4",
           "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-9-2026-10_09_20-AM.png"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17036",
-          "author": "David M",
-          "description": "Part 3: Prepare The Step Where “Model Bugs” Are Usually Born Once scans are organized and annotations exist, the temptation is to treat “prepare” as a quick preprocessing script. This is where teams get hurt because prepare rarely fails loudly. It produces training data that is: Plausible Consistent-looking But wrong Wrong training data is worse …\n  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 3 Read More »\nThe post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 3 appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai-part-3/",
-          "publishedOn": "2026-02-02T17:40:48.000Z",
-          "wordCount": 2459,
-          "title": "From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 3",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-2-2026-04_51_46-PM.png"
         }
       ]
     },
@@ -2575,6 +2545,76 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-gpt-5-4",
+          "author": null,
+          "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+          "link": "https://openai.com/index/introducing-gpt-5-4",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing GPT-5.4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+          "author": null,
+          "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+          "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gpt-5-4-thinking-system-card",
+          "author": null,
+          "description": "",
+          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+          "publishedOn": "2026-03-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "GPT-5.4 Thinking System Card",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/ai-education-opportunity",
+          "author": null,
+          "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+          "link": "https://openai.com/index/ai-education-opportunity",
+          "publishedOn": "2026-03-05T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Ensuring AI use in education leads to opportunity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-for-excel",
+          "author": null,
+          "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+          "link": "https://openai.com/index/chatgpt-for-excel",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ChatGPT for Excel and new financial data integrations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-the-adoption-news-channel",
+          "author": null,
+          "description": "Practical insights and frameworks to turn AI progress into business advantage",
+          "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the Adoption news channel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+          "author": null,
+          "description": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+          "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The five AI value models driving business reinvention",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
           "author": null,
@@ -2964,16 +3004,6 @@
           "wordCount": null,
           "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/sora-feed-philosophy",
-          "author": null,
-          "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
-          "link": "https://openai.com/index/sora-feed-philosophy",
-          "publishedOn": "2026-02-03T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The Sora feed philosophy",
-          "imageUrl": null
         }
       ]
     },
@@ -2982,6 +3012,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+          "author": "Nathan Lambert",
+          "description": "The latest Olmo model and discussions at the frontier of open-source post training tools.",
+          "link": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+          "publishedOn": "2026-03-05T16:16:44.000Z",
+          "wordCount": null,
+          "title": "Olmo Hybrid and future LLM architectures",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!7CIi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F634f5655-f362-4494-80ff-38c095b9caaf_2846x1128.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!7CIi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F634f5655-f362-4494-80ff-38c095b9caaf_2846x1128.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
           "author": "Florian Brand",
@@ -3087,6 +3133,16 @@
           "publishedOn": "2026-02-28T04:25:42.000Z",
           "wordCount": null,
           "title": "Schelling Goodness, and Shared Morality as a Goal",
+          "imageUrl": null
+        },
+        {
+          "id": "CDkbYSFTwggGE8mWp",
+          "author": "abramdemski",
+          "description": "I've been trying to gather my thoughts for my next tiling theorem (agenda write-up here; first paper; second paper; recent project update). I have a lot of ideas for how to improve upon my work so far, and trying to narrow them down to an achievable next step has been difficult. However, my mind keeps returning to specific friends who are not yet convinced of Updateless Decision Theory (UDT).\nI am not out to argue that UDT is the perfect decision theory; see eg here and here. However, I strongly believe that those who don't see the appeal of UDT are missing something. My plan for the present essay is not to simply argue for UDT, but it is close to that: I'll give my pro-UDT arguments very carefully, so as to argue against naively updateful theories (CDT and EDT) while leaving room for some…",
+          "link": "https://www.alignmentforum.org/posts/CDkbYSFTwggGE8mWp/coherent-care",
+          "publishedOn": "2026-02-27T21:59:41.000Z",
+          "wordCount": null,
+          "title": "Coherent Care",
           "imageUrl": null
         },
         {
@@ -3227,36 +3283,6 @@
           "publishedOn": "2026-02-06T16:32:27.000Z",
           "wordCount": null,
           "title": "In (highly contingent!) defense of interpretability-in-the-loop ML training",
-          "imageUrl": null
-        },
-        {
-          "id": "uECnWtbQ95dDWqBKD",
-          "author": "Wei Dai",
-          "description": "Published on February 3, 2026 1:08 AM GMT\n\nIf AIs became strategically competent enough, they may realize that RSI is too dangerous because they're not good enough at alignment or philosophy or strategy, and potentially convince, help, or work with humans to implement an AI pause. This presents an alternative \"victory condition\" that someone could pursue (e.g. by working on AI strategic competence) if they were relatively confident about the alignment of near-human-level AIs but concerned about the AI transition as a whole, for example because they're worried about alignment of ASI, or worried about correctly solving other philosophical problems that would arise during the transition. (But note that if the near-human-level AIs are not aligned, then this effort could backfire by letting the…",
-          "link": "https://www.alignmentforum.org/posts/uECnWtbQ95dDWqBKD/increasing-ai-strategic-competence-as-a-safety-approach",
-          "publishedOn": "2026-02-03T01:08:13.000Z",
-          "wordCount": null,
-          "title": "Increasing AI Strategic Competence as a Safety Approach",
-          "imageUrl": null
-        },
-        {
-          "id": "iEx2KjwFse749BYsD",
-          "author": "LawrenceC",
-          "description": "Published on February 2, 2026 6:41 PM GMT\n\nOr, partly against discussion about generic “features” in mechanistic interpretability\nProbably the most debated core concept in mechanistic interpretability is that of the “feature”: common questions include “are there non-linear features, and does this mean that the linear representation hypothesis is false?”, “do SAEs recover a canonical set of features, and are SAE features ‘features’ in the first place?”, and so forth. \nBut what do people mean by feature?\nDefinition 1: When asked for a definition, people in mech interp tend to define features as something like: “features are the computational primitives of the algorithm implemented by the neural network“, and point to the decompilation analogy. The obvious problem is that there might not be a…",
-          "link": "https://www.alignmentforum.org/posts/iEx2KjwFse749BYsD/features-aren-t-always-the-true-computational-primitives-of",
-          "publishedOn": "2026-02-02T18:41:55.000Z",
-          "wordCount": null,
-          "title": "“Features” aren’t always the true computational primitives of a model, but that might be fine anyways",
-          "imageUrl": null
-        },
-        {
-          "id": "hiiguxJ2EtfSzAevj",
-          "author": "Steven Byrnes",
-          "description": "Published on February 2, 2026 3:26 PM GMT\n\nThis post is partly a belated response to Joshua Achiam, currently OpenAI’s Head of Mission Alignment:\n\nIf we adopt safety best practices that are common in other professional engineering fields, we'll get there … I consider myself one of the x-risk people, though I agree that most of them would reject my view on how to prevent it. I think the wholesale rejection of safety best practices from other fields is one of the dumbest mistakes that a group of otherwise very smart people has ever made. —Joshua Achiam on Twitter, 2021\n“We just have to sit down and actually write a damn specification, even if it's like pulling teeth. It's the most important thing we could possibly do,\" said almost no one in the field of AGI alignment, sadly. … I'm picturing …",
-          "link": "https://www.alignmentforum.org/posts/hiiguxJ2EtfSzAevj/are-there-lessons-from-high-reliability-engineering-for-agi",
-          "publishedOn": "2026-02-02T15:26:27.000Z",
-          "wordCount": null,
-          "title": "Are there lessons from high-reliability engineering for AGI safety?",
           "imageUrl": null
         }
       ]
