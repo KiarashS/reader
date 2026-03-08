@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-07T01:46:18.812Z</updated>
+    <updated>2026-03-08T01:51:32.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can governments quickly and cheaply slow AI training?]]></title>
+        <id>Xzf3eMnhTko7AxnEy</id>
+        <link href="https://www.alignmentforum.org/posts/Xzf3eMnhTko7AxnEy/can-governments-quickly-and-cheaply-slow-ai-training"/>
+        <updated>2026-03-07T19:11:22.000Z</updated>
+        <summary type="html"><![CDATA[I originally wrote this as a private doc for people working in the field - it's not super polished, or optimized for a broad audience.
+But I'm publishing anyway because inference-verification is a new and exciting area, and there few birds-eye-view explainers of what's going on and what the bottlenecks are.
+Tl;dr: At least one of the following would need to be implemented for me to be confident that inference verification would substantially slow training given today's algorithms:
+
+Proof of work or proof of memory that accounts for > 95% of computation.
+Memory wipes every few minutes.
+Output re-computation that reduces covert channel capacity below 0.01%.
+
+To my knowledge, no one has prototyped verification demos that reach these thresholds; so whether rapidly-implementable inference verif…]]></summary>
+        <author>
+            <name>joshc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Context and Contextual Retrieval in RAG]]></title>
+        <id>https://towardsdatascience.com/?p=608545</id>
+        <link href="https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/"/>
+        <updated>2026-03-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why traditional RAG loses context and how contextual retrieval dramatically improves retrieval accuracy
+The post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Bubble Has a Data Science Escape Hatch]]></title>
+        <id>https://towardsdatascience.com/?p=608543</id>
+        <link href="https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/"/>
+        <updated>2026-03-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype.
+The post The AI Bubble Has a Data Science Escape Hatch appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sarvam Edge: A Beginner’s Guide to On-Device AI for India]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252192</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/sarvam-edge/"/>
+        <updated>2026-03-07T08:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Suppose there is a smart computer in your cell phone. It responds instantly, knows your language, and is completely functional even without the internet. This AI will keep your information confidential on your device. It does not need any additional charge per question. Such is the future that Sarvam Edge is creating in India. Sarvam […]
+The post Sarvam Edge: A Beginner’s Guide to On-Device AI for India appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes Quantum Machine Learning “Quantum”?]]></title>
         <id>https://towardsdatascience.com/?p=608541</id>
@@ -3076,195 +3127,6 @@ The post Mechanistic Interpretability: Peeking Inside an LLM appeared first on 
         <summary type="html"><![CDATA[AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.]]></summary>
         <author>
             <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is My Code So Slow? A Guide to Py-Spy Python Profiling]]></title>
-        <id>https://towardsdatascience.com/?p=608340</id>
-        <link href="https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/"/>
-        <updated>2026-02-05T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Stop guessing and start diagnosing performance issues using Py-Spy
-The post Why Is My Code So Slow? A Guide to Py-Spy Python Profiling appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kenneth McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250917</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/anthropic-superbowl-ads-mock-openai-sam-altman/"/>
-        <updated>2026-02-05T13:26:41.000Z</updated>
-        <summary type="html"><![CDATA[We have seen big corporate rivalries in products across the gamut. Mac and Windows went at it for long. Then it was Pepsi and Coca-Cola, Burger King and McDonald’s, BMW and Mercedes, and the list goes on. But it is the era of AI, and it was only a matter of time before the competitiveness […]
-The post Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access and Use Qwen3-Coder-Next?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250889</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/qwen3-coder-next/"/>
-        <updated>2026-02-05T13:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Recent developments on AI models have been specifically focused on one task – coding agents. Following the line, Alibaba’s Qwen is now out with a new model, one that promises industry-leading results, all while running locally. This essentially makes it an open-weight language model designed, in the words of the Qwen team, “specifically for coding […]
-The post How to Access and Use Qwen3-Coder-Next? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas]]></title>
-        <id>https://towardsdatascience.com/?p=608338</id>
-        <link href="https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/"/>
-        <updated>2026-02-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A simple mental model to remember when each one works (with examples that finally click).
-The post The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5 lowers the cost of cell-free protein synthesis]]></title>
-        <id>https://openai.com/index/gpt-5-lowers-protein-synthesis-cost</id>
-        <link href="https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"/>
-        <updated>2026-02-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Trusted Access for Cyber]]></title>
-        <id>https://openai.com/index/trusted-access-for-cyber</id>
-        <link href="https://openai.com/index/trusted-access-for-cyber"/>
-        <updated>2026-02-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40 RAG Interview Questions and Answers]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250742</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/rag-interview-questions-and-answers/"/>
-        <updated>2026-02-05T06:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval-Augmented Generation, or RAG, has become the backbone of most serious AI systems in the real world. The reason is simple: large language models are great at reasoning and writing, but terrible at knowing the objective truth. RAG fixes that by giving models a live connection to knowledge. What follows are interview-ready question that could […]
-The post 40 RAG Interview Questions and Answers appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing OpenAI Frontier]]></title>
-        <id>https://openai.com/index/introducing-openai-frontier</id>
-        <link href="https://openai.com/index/introducing-openai-frontier"/>
-        <updated>2026-02-05T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paza: Introducing automatic speech recognition benchmarks and models for low resource languages]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1160691</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/"/>
-        <updated>2026-02-05T05:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. 
-The post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Mercy Muchai, Kevin  Chege, Nick  Mumero, Stephanie Nyairo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.3-Codex System Card]]></title>
-        <id>https://openai.com/index/gpt-5-3-codex-system-card</id>
-        <link href="https://openai.com/index/gpt-5-3-codex-system-card"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing GPT-5.3-Codex]]></title>
-        <id>https://openai.com/index/introducing-gpt-5-3-codex</id>
-        <link href="https://openai.com/index/introducing-gpt-5-3-codex"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating health questions with ChatGPT]]></title>
-        <id>https://openai.com/index/navigating-health-questions</id>
-        <link href="https://openai.com/index/navigating-health-questions"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Nvidia builds open models with Bryan Catanzaro]]></title>
-        <id>https://www.interconnects.ai/p/why-nvidia-builds-open-models-with</id>
-        <link href="https://www.interconnects.ai/p/why-nvidia-builds-open-models-with"/>
-        <updated>2026-02-04T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Interconnects interview #17 on the past, present, and future of the Nemotron project.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS vs. Azure: A Deep Dive into Model Training – Part 2]]></title>
-        <id>https://towardsdatascience.com/?p=608335</id>
-        <link href="https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/"/>
-        <updated>2026-02-04T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article covers how Azure ML's persistent, workspace-centric compute resources differ from AWS SageMaker's on-demand, job-specific approach. Additionally, we explored environment customization options, from Azure's curated environments and custom environments to SageMaker's three level of customizations.
-The post AWS vs. Azure: A Deep Dive into Model Training – Part 2 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Destin Gong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model]]></title>
-        <id>https://huggingface.co/blog/nvidia/nemotron-colembed-v2</id>
-        <link href="https://huggingface.co/blog/nvidia/nemotron-colembed-v2"/>
-        <updated>2026-02-04T15:00:40.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work Effectively with Frontend and Backend Code]]></title>
-        <id>https://towardsdatascience.com/?p=608333</id>
-        <link href="https://towardsdatascience.com/how-to-effectively-work-with-frontend-and-backend-code/"/>
-        <updated>2026-02-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to be an effective full-stack engineer with Claude Code
-The post How to Work Effectively with Frontend and Backend Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality]]></title>
-        <id>https://imerit.net/?p=32970</id>
-        <link href="https://imerit.net/resources/blog/data-driven-autonomous-driving-simulation-closing-the-gap-between-simulation-and-reality/"/>
-        <updated>2026-02-04T14:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous vehicles (AVs) are becoming more capable every day, but how do they truly get road-ready? Beyond test tracks and
-The post Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Export Your ML Model in ONNX Format]]></title>
-        <id>https://machinelearningmastery.com/?p=23244</id>
-        <link href="https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"/>
-        <updated>2026-02-04T14:35:37.000Z</updated>
-        <summary type="html"><![CDATA[When building machine learning models, training is only half the journey.]]></summary>
-        <author>
-            <name>Abid Ali Awan</name>
         </author>
     </entry>
 </feed>

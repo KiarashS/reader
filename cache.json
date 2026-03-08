@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608545",
+          "author": "Maria Mouschoutzi",
+          "description": "Why traditional RAG loses context and how contextual retrieval dramatically improves retrieval accuracy\nThe post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/",
+          "publishedOn": "2026-03-07T15:00:00.000Z",
+          "wordCount": 4929,
+          "title": "Understanding Context and Contextual Retrieval in RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Picture1-e1772726785198.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608543",
+          "author": "Kaushik Rajan",
+          "description": "Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype.\nThe post The AI Bubble Has a Data Science Escape Hatch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/",
+          "publishedOn": "2026-03-07T13:00:00.000Z",
+          "wordCount": 5383,
+          "title": "The AI Bubble Has a Data Science Escape Hatch",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-186-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608541",
           "author": "Sara A. Metwalli",
           "description": "And where is it today?\nThe post What Makes Quantum Machine Learning “Quantum”? appeared first on Towards Data Science.",
@@ -790,46 +810,6 @@
           "wordCount": 6330,
           "title": "Mechanistic Interpretability: Peeking Inside an LLM",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/attention_l5h6-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608340",
-          "author": "Kenneth McCarthy",
-          "description": "Stop guessing and start diagnosing performance issues using Py-Spy\nThe post Why Is My Code So Slow? A Guide to Py-Spy Python Profiling appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/",
-          "publishedOn": "2026-02-05T13:30:00.000Z",
-          "wordCount": 4637,
-          "title": "Why Is My Code So Slow? A Guide to Py-Spy Python Profiling",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Py_spy_article_image.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608338",
-          "author": "Ibrahim Salami",
-          "description": "A simple mental model to remember when each one works (with examples that finally click).\nThe post The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/",
-          "publishedOn": "2026-02-05T12:00:00.000Z",
-          "wordCount": 4415,
-          "title": "The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/loc-vs-iloc.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608335",
-          "author": "Destin Gong",
-          "description": "This article covers how Azure ML's persistent, workspace-centric compute resources differ from AWS SageMaker's on-demand, job-specific approach. Additionally, we explored environment customization options, from Azure's curated environments and custom environments to SageMaker's three level of customizations.\nThe post AWS vs. Azure: A Deep Dive into Model Training – Part 2 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/",
-          "publishedOn": "2026-02-04T16:30:00.000Z",
-          "wordCount": 5020,
-          "title": "AWS vs. Azure: A Deep Dive into Model Training – Part 2",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Azure-ML-vs.-AWS-Sagemaker-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608333",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to be an effective full-stack engineer with Claude Code\nThe post How to Work Effectively with Frontend and Backend Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-effectively-work-with-frontend-and-backend-code/",
-          "publishedOn": "2026-02-04T15:00:00.000Z",
-          "wordCount": 3952,
-          "title": "How to Work Effectively with Frontend and Backend Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-216.jpg"
         }
       ]
     },
@@ -1016,16 +996,6 @@
           "publishedOn": "2026-02-05T14:16:39.000Z",
           "wordCount": null,
           "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23244",
-          "author": "Abid Ali Awan",
-          "description": "When building machine learning models, training is only half the journey.",
-          "link": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/",
-          "publishedOn": "2026-02-04T14:35:37.000Z",
-          "wordCount": null,
-          "title": "Export Your ML Model in ONNX Format",
           "imageUrl": null
         }
       ]
@@ -1240,16 +1210,6 @@
           "wordCount": 899,
           "title": "Introducing SyGra Studio",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/sygra-studio.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-          "publishedOn": "2026-02-04T15:00:40.000Z",
-          "wordCount": 1183,
-          "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-colembed-v2.png"
         }
       ]
     },
@@ -1323,16 +1283,6 @@
           "wordCount": 4133,
           "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/SmartReplay-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1160691",
-          "author": "Mercy Muchai, Kevin  Chege, Nick  Mumero, Stephanie Nyairo",
-          "description": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. \nThe post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-          "publishedOn": "2026-02-05T05:07:55.000Z",
-          "wordCount": 4427,
-          "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Paza-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1699,16 +1649,6 @@
           "wordCount": 3196,
           "title": "Overcoming Challenges in 3D Sensor Fusion Labeling for Autonomous Vehicles",
           "imageUrl": "https://imerit.net/wp-content/uploads/2023/07/OG_Overcoming-Challenges-in-3D-Sensor-Fusion-Labeling-for-Autonomous-Vehicles-1-1.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=32970",
-          "author": "Sujana Urs",
-          "description": "Autonomous vehicles (AVs) are becoming more capable every day, but how do they truly get road-ready? Beyond test tracks and\nThe post Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/data-driven-autonomous-driving-simulation-closing-the-gap-between-simulation-and-reality/",
-          "publishedOn": "2026-02-04T14:48:36.000Z",
-          "wordCount": 2288,
-          "title": "Data-Driven Autonomous Driving Simulation: Closing the Gap Between Simulation and Reality",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Featured-IMG-Data-Driven-Autonomous-Driving-Simulation-Closing-the-Gap-Between-Simulation-and-Reality-scaled.jpg"
         }
       ]
     },
@@ -1717,6 +1657,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252192",
+          "author": "Harsh Mishra",
+          "description": "Suppose there is a smart computer in your cell phone. It responds instantly, knows your language, and is completely functional even without the internet. This AI will keep your information confidential on your device. It does not need any additional charge per question. Such is the future that Sarvam Edge is creating in India. Sarvam […]\nThe post Sarvam Edge: A Beginner’s Guide to On-Device AI for India appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/sarvam-edge/",
+          "publishedOn": "2026-03-07T08:17:24.000Z",
+          "wordCount": null,
+          "title": "Sarvam Edge: A Beginner’s Guide to On-Device AI for India",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252175",
           "author": "Sarthak Dogra",
@@ -2398,39 +2349,6 @@
           "title": "My Honest Review of Claude Opus 4.6: Is It Worth the Hype?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250917",
-          "author": "Sarthak Dogra",
-          "description": "We have seen big corporate rivalries in products across the gamut. Mac and Windows went at it for long. Then it was Pepsi and Coca-Cola, Burger King and McDonald’s, BMW and Mercedes, and the list goes on. But it is the era of AI, and it was only a matter of time before the competitiveness […]\nThe post Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/anthropic-superbowl-ads-mock-openai-sam-altman/",
-          "publishedOn": "2026-02-05T13:26:41.000Z",
-          "wordCount": null,
-          "title": "Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250889",
-          "author": "Sarthak Dogra",
-          "description": "Recent developments on AI models have been specifically focused on one task – coding agents. Following the line, Alibaba’s Qwen is now out with a new model, one that promises industry-leading results, all while running locally. This essentially makes it an open-weight language model designed, in the words of the Qwen team, “specifically for coding […]\nThe post How to Access and Use Qwen3-Coder-Next? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/qwen3-coder-next/",
-          "publishedOn": "2026-02-05T13:12:30.000Z",
-          "wordCount": null,
-          "title": "How to Access and Use Qwen3-Coder-Next?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250742",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Retrieval-Augmented Generation, or RAG, has become the backbone of most serious AI systems in the real world. The reason is simple: large language models are great at reasoning and writing, but terrible at knowing the objective truth. RAG fixes that by giving models a live connection to knowledge. What follows are interview-ready question that could […]\nThe post 40 RAG Interview Questions and Answers appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/rag-interview-questions-and-answers/",
-          "publishedOn": "2026-02-05T06:08:25.000Z",
-          "wordCount": null,
-          "title": "40 RAG Interview Questions and Answers",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3025,66 +2943,6 @@
           "wordCount": null,
           "title": "Making AI work for everyone, everywhere: our approach to localization",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-          "author": null,
-          "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
-          "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-          "publishedOn": "2026-02-05T11:00:00.000Z",
-          "wordCount": null,
-          "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/trusted-access-for-cyber",
-          "author": null,
-          "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-          "link": "https://openai.com/index/trusted-access-for-cyber",
-          "publishedOn": "2026-02-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing Trusted Access for Cyber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-openai-frontier",
-          "author": null,
-          "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-          "link": "https://openai.com/index/introducing-openai-frontier",
-          "publishedOn": "2026-02-05T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI Frontier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-5-3-codex-system-card",
-          "author": null,
-          "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-          "link": "https://openai.com/index/gpt-5-3-codex-system-card",
-          "publishedOn": "2026-02-05T00:00:00.000Z",
-          "wordCount": null,
-          "title": "GPT-5.3-Codex System Card",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-gpt-5-3-codex",
-          "author": null,
-          "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-          "link": "https://openai.com/index/introducing-gpt-5-3-codex",
-          "publishedOn": "2026-02-05T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GPT-5.3-Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/navigating-health-questions",
-          "author": null,
-          "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-          "link": "https://openai.com/index/navigating-health-questions",
-          "publishedOn": "2026-02-05T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Navigating health questions with ChatGPT",
-          "imageUrl": null
         }
       ]
     },
@@ -3188,22 +3046,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/93f85dee-802e-496f-909b-a0f579a994eb_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with",
-          "author": "Nathan Lambert",
-          "description": "Interconnects interview #17 on the past, present, and future of the Nemotron project.",
-          "link": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with",
-          "publishedOn": "2026-02-04T18:00:28.000Z",
-          "wordCount": null,
-          "title": "Why Nvidia builds open models with Bryan Catanzaro",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/186564530/75b1646178b010213d8417a20d5768ef.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -3212,6 +3054,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "Xzf3eMnhTko7AxnEy",
+          "author": "joshc",
+          "description": "I originally wrote this as a private doc for people working in the field - it's not super polished, or optimized for a broad audience.\nBut I'm publishing anyway because inference-verification is a new and exciting area, and there few birds-eye-view explainers of what's going on and what the bottlenecks are.\nTl;dr: At least one of the following would need to be implemented for me to be confident that inference verification would substantially slow training given today's algorithms:\n\nProof of work or proof of memory that accounts for > 95% of computation.\nMemory wipes every few minutes.\nOutput re-computation that reduces covert channel capacity below 0.01%.\n\nTo my knowledge, no one has prototyped verification demos that reach these thresholds; so whether rapidly-implementable inference verif…",
+          "link": "https://www.alignmentforum.org/posts/Xzf3eMnhTko7AxnEy/can-governments-quickly-and-cheaply-slow-ai-training",
+          "publishedOn": "2026-03-07T19:11:22.000Z",
+          "wordCount": null,
+          "title": "Can governments quickly and cheaply slow AI training?",
+          "imageUrl": null
+        },
         {
           "id": "8pZuQnCve6K5ZrnM8",
           "author": "gersonkroiz",
