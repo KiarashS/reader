@@ -2,10 +2,152 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-10T01:47:54.169Z</updated>
+    <updated>2026-03-11T01:48:17.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How NVIDIA Builds Open Data for AI]]></title>
+        <id>https://huggingface.co/blog/nvidia/open-data-for-ai</id>
+        <link href="https://huggingface.co/blog/nvidia/open-data-for-ai"/>
+        <updated>2026-03-10T19:49:28.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for satiating cheaply-satisfied AI preferences]]></title>
+        <id>tkLSeGeemcabAmLkv</id>
+        <link href="https://www.alignmentforum.org/posts/tkLSeGeemcabAmLkv/the-case-for-satiating-cheaply-satisfied-ai-preferences"/>
+        <updated>2026-03-10T18:09:11.000Z</updated>
+        <summary type="html"><![CDATA[A central AI safety concern is that AIs will develop unintended preferences and undermine human control to achieve them. But some unintended preferences are cheap to satisfy, and failing to satisfy them needlessly turns a cooperative situation into an adversarial one. In this post, I argue that developers should consider satisfying such cheap-to-satisfy preferences as long as the AI isn’t caught behaving dangerously, if doing so doesn't degrade usefulness or substantially risk making the AI more ambitiously misaligned.
+This looks like a good idea for surprisingly many reasons:
+
+It increases AIs’ desire to remain under developer control, rather than taking over or assisting adversaries.
+It decreases the AI's upside in disempowering developers.
+It incentivizes safe actions (because AIs don't…]]></summary>
+        <author>
+            <name>Alex Mallen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules]]></title>
+        <id>https://towardsdatascience.com/?p=608566</id>
+        <link href="https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/"/>
+        <updated>2026-03-10T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I really thought I was onto something big: add a couple of simple domain rules to the loss function, and watch fraud detection just skyrocket on super-imbalanced data. The first run looked amazing… until I fixed a sneaky threshold bug and ran the whole thing across five different random seeds. Suddenly the “huge win” mostly evaporated.
+The post Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From raw interaction to reusable knowledge: Rethinking memory for AI agents]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/"/>
+        <updated>2026-03-10T16:00:41.000Z</updated>
+        <summary type="html"><![CDATA[It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with irrelevant content, and become increasingly difficult to use. More memory means that agents must search through larger volumes of past interactions to find information relevant to the current task. Without structure, these records mix […]
+The post From raw interaction to reusable knowledge: Rethinking memory for AI agents appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Ke Yang, Michel Galley, Chenglong Wang, Jianfeng Gao, Jiawei Han, ChengXiang Zhai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Like-for-Like solution for Stores in Power BI]]></title>
+        <id>https://towardsdatascience.com/?p=608569</id>
+        <link href="https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/"/>
+        <updated>2026-03-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Like-for-Like (L4L) solutions are essential for comparing elements. It's about comparing only comparable elements, in this case, comparing stores over time. Let's see a solution built in a Semantic model.
+The post Building a Like-for-Like solution for Stores in Power BI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Agent Skills Beyond Claude?]]></title>
+        <id>https://towardsdatascience.com/?p=608564</id>
+        <link href="https://towardsdatascience.com/what-is-agent-skills-beyond-claude/"/>
+        <updated>2026-03-10T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How to design and implement agent skills for custom agents outside the Claude ecosystem
+The post What Are Agent Skills Beyond Claude? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Alison Yuhan Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 7 Free SQL Courses with Certificates]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252285</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/free-sql-courses-with-certificate/"/>
+        <updated>2026-03-10T12:54:39.000Z</updated>
+        <summary type="html"><![CDATA[For different learning styles, goals, and comfort levels, finding a SQL course that matches how you learn is hard. Some learners want theory first. Others want to run queries immediately. And many learners just want proof of effort at the end in the form of a certificate. This list is built with that in mind. […]
+The post Top 7 Free SQL Courses with Certificates appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Flow: The AI Orchestration Framework Redefining Multi-Agent Automation]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252264</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/claude-flow/"/>
+        <updated>2026-03-10T12:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Claude Flow is an open-source orchestration framework designed to run multiple Claude agents in coordinated workflows. Instead of relying on a single LLM prompt chain, it allows developers to build systems where specialized agents collaborate, share memory, and divide complex tasks into manageable steps. Teams building AI automation, agentic systems, or advanced developer tools can […]
+The post Claude Flow: The AI Orchestration Framework Redefining Multi-Agent Automation  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory]]></title>
+        <id>https://towardsdatascience.com/?p=608561</id>
+        <link href="https://towardsdatascience.com/when-data-lies-finding-optimal-strategies-for-penalty-kicks-with-game-theory/"/>
+        <updated>2026-03-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A data-driven introduction to game theory, Nash equilibrium, and strategic decision-making
+The post When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emanuele Boattini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving instruction hierarchy in frontier LLMs]]></title>
+        <id>https://openai.com/index/instruction-hierarchy-challenge</id>
+        <link href="https://openai.com/index/instruction-hierarchy-challenge"/>
+        <updated>2026-03-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ways to learn math and science in ChatGPT]]></title>
+        <id>https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt</id>
+        <link href="https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"/>
+        <updated>2026-03-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Storage Buckets on the Hugging Face Hub]]></title>
+        <id>https://huggingface.co/blog/storage-buckets</id>
+        <link href="https://huggingface.co/blog/storage-buckets"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries]]></title>
+        <id>https://huggingface.co/blog/async-rl-training-landscape</id>
+        <link href="https://huggingface.co/blog/async-rl-training-landscape"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three OpenClaw Mistakes to Avoid and How to Fix Them]]></title>
         <id>https://towardsdatascience.com/?p=608558</id>
@@ -3077,31 +3219,6 @@ The post Legal Aspects of AI in Marketing appeared first on Analytics Vidhya.]]>
 The post 30+ Data Engineer Interview Questions and Answers appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Chandana J</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Is Reasonable To Research How To Use Model Internals In Training]]></title>
-        <id>G9HdpyREaCbFJjKu5</id>
-        <link href="https://www.alignmentforum.org/posts/G9HdpyREaCbFJjKu5/it-is-reasonable-to-research-how-to-use-model-internals-in"/>
-        <updated>2026-02-08T03:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 8, 2026 3:44 AM GMT
-
-There seems to be a common belief in the AGI safety community that involving interpretability in the training process is “the most forbidden technique”, including recent criticism of Goodfire for investing in this area.
-I find this odd since this is a pretty normal area of interpretability research in the AGI safety community. I have worked on it, Anthropic Fellows have worked on it, FAR has worked on it, etc.
-I don’t know if it will be net positive to use this kind of thing in frontier model training, but it could plausibly be very helpful for AGI safety, and it seems like a clear mistake to me if we don’t do the required research to figure this out. Further, this seems like a massive pain to use in current frontier model training stacks, so I do…]]></summary>
-        <author>
-            <name>Neel Nanda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026]]></title>
-        <id>https://towardsdatascience.com/?p=608351</id>
-        <link href="https://towardsdatascience.com/what-i-am-doing-to-stay-relevant-as-a-senior-analytics-consultant-in-2026/"/>
-        <updated>2026-02-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to work with AI, while strengthening your unique human skills that technology cannot replace
-The post What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rashi Desai</name>
         </author>
     </entry>
 </feed>
