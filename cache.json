@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608578",
+          "author": "Adnan Shahbaaz",
+          "description": "Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance.\nThe post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/",
+          "publishedOn": "2026-03-11T16:30:00.000Z",
+          "wordCount": 5893,
+          "title": "An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/volcano-distribution-2.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608576",
+          "author": "Rukshan Pramoditha",
+          "description": "Understanding why spectral clustering outperforms K-means\nThe post Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/",
+          "publishedOn": "2026-03-11T15:00:00.000Z",
+          "wordCount": 4853,
+          "title": "Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/geralt-lines-520432_1920.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608574",
+          "author": "Kaushik Rajan",
+          "description": "The 4 statistical sins that invalidate most A/B tests, plus a pre-test checklist and Bayesian vs frequentist decision framework you can use Monday.\nThe post Why Most A/B Tests Are Lying to You appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/",
+          "publishedOn": "2026-03-11T13:30:00.000Z",
+          "wordCount": 5723,
+          "title": "Why Most A/B Tests Are Lying to You",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-104.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608572",
+          "author": "Aman Agrawal",
+          "description": "A visual, intuition-first guide to understanding what the math is really doing — from winding machines to spectrograms\nThe post How the Fourier Transform Converts Sound Into Frequencies appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/",
+          "publishedOn": "2026-03-11T12:00:00.000Z",
+          "wordCount": 8221,
+          "title": "How the Fourier Transform Converts Sound Into Frequencies",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-11.43.10-AM.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608566",
           "author": "Emmimal P Alexander",
           "description": "I really thought I was onto something big: add a couple of simple domain rules to the loss function, and watch fraud detection just skyrocket on super-imbalanced data. The first run looked amazing… until I fixed a sneaky threshold bug and ran the whole thing across five different random seeds. Suddenly the “huge win” mostly evaporated.\nThe post Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules appeared first on Towards Data Science.",
@@ -850,16 +890,6 @@
           "wordCount": 3654,
           "title": "The Machine Learning Lessons I’ve Learned Last Month",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/benediktgeyer-canoe-2920401_1920.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608349",
-          "author": "Thomas Reid",
-          "description": "How the new Interactions API enables deep-reasoning, stateful, agentic workflows.\nThe post The Death of the “Everything Prompt”: Google’s Move Toward Structured AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-death-of-the-everything-prompt-googles-move-toward-structured-ai/",
-          "publishedOn": "2026-02-09T13:00:00.000Z",
-          "wordCount": 5929,
-          "title": "The Death of the “Everything Prompt”: Google’s Move Toward Structured AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ChatGPT-Image-Jan-6-2026-02_46_41-PM.jpg"
         }
       ]
     },
@@ -1027,16 +1057,6 @@
           "wordCount": null,
           "title": "Document Clustering with LLM Embeddings in Scikit-learn",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23358",
-          "author": "Vinod Chugani",
-          "description": "AI agents are everywhere.",
-          "link": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/",
-          "publishedOn": "2026-02-09T11:00:09.000Z",
-          "wordCount": null,
-          "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-          "imageUrl": null
         }
       ]
     },
@@ -1091,6 +1111,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
+          "publishedOn": "2026-03-11T15:50:15.000Z",
+          "wordCount": 938,
+          "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/synthetic-code-concepts.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/open-data-for-ai",
           "author": null,
@@ -1290,16 +1320,6 @@
           "wordCount": 1652,
           "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
           "imageUrl": "https://huggingface.co/blog/assets/openenv-turing/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/transformersjs-v4",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/transformersjs-v4",
-          "publishedOn": "2026-02-09T00:00:00.000Z",
-          "wordCount": 1298,
-          "title": "Transformers.js v4 Preview: Now Available on NPM!",
-          "imageUrl": "https://huggingface.co/blog/assets/transformersjs-v4/thumbnail.png"
         }
       ]
     },
@@ -1429,6 +1449,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69b0a8f8abc0d95001af6574",
+          "author": "Maku Gideon",
+          "description": "Ever wondered how Gmail knows that an email promising you $10 million is spam? Or how it catches those \"You've won a free iPhone!\" messages before they reach your inbox? In this tutorial, you'll build",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-spam-email-detector-with-python-and-naive-bayes-classifier/",
+          "publishedOn": "2026-03-10T23:27:52.000Z",
+          "wordCount": 3588,
+          "title": "How to Build a Spam Email Detector with Python and Naive Bayes Classifier",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/92eb401b-fce3-411b-9b0b-02ba486586cb.png"
+        },
         {
           "id": "6994b10f99525c1b1a51745d",
           "author": "Pablo Rios",
@@ -1730,6 +1760,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252316",
+          "author": "Janvi Kumari",
+          "description": "MongoDB is a widely used NoSQL database that stores data in flexible documents similar to JSON objects rather than traditional tables and rows. This document-based structure makes it easier to handle complex or frequently changing data, which is why MongoDB is commonly used in modern web applications, analytics platforms, and large-scale data systems. Developers can […]\nThe post MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/mongodb-compass/",
+          "publishedOn": "2026-03-11T17:04:55.000Z",
+          "wordCount": null,
+          "title": "MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252378",
+          "author": "Sarthak Dogra",
+          "description": "Do you also think ChatGPT is useless? If not, you must’ve come across someone who does. People who say “I didn’t find it useful”, or “it couldn’t do what I told it to”, or the classic “AI is senseless“. While such people think the tool is weak, the fact is that they fail because their […]\nThe post How to Use ChatGPT Like a Pro: 10 Workflows That Save You Hours Every Week appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/how-to-use-chatgpt-workflows-like-a-pro/",
+          "publishedOn": "2026-03-11T13:39:35.000Z",
+          "wordCount": null,
+          "title": "How to Use ChatGPT Like a Pro: 10 Workflows That Save You Hours Every Week",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252285",
           "author": "Vasu Deo Sankrityayan",
@@ -2378,50 +2430,6 @@
           "title": "How to Learn AI for FREE in 2026?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250229",
-          "author": "Gerald Rigdon",
-          "description": "When I started working in the medical device industry almost 20 years ago, static analysis tools had captured the spotlight and attention of the medical device industry. This was apparent in a 2007 press article, which highlighted the United States Food and Drug Administration (FDA) Center for Devices and Radiological Health (CDRH)’s substantial investment in […]\nThe post Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/why-industries-need-custom-ai-tools/",
-          "publishedOn": "2026-02-09T12:31:19.000Z",
-          "wordCount": null,
-          "title": "Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251061",
-          "author": "Riya Bansal",
-          "description": "Independent AI agents are moving into real workflows, managing projects and automating complex tasks with growing autonomy. As their responsibilities expand, the need for stronger security, reliability, and execution control increases. Production environments require predictable behavior, safe automation, and oversight. This article focuses on how OpenClaw 2026.2.3, the latest version of OpenClaw, that strengthens the […]\nThe post OpenClaw 2026.2.3: Building Safer, More Reliable Agents appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/openclaw-2026-2-3/",
-          "publishedOn": "2026-02-09T12:27:35.000Z",
-          "wordCount": null,
-          "title": "OpenClaw 2026.2.3: Building Safer, More Reliable Agents",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250192",
-          "author": "David Abraham",
-          "description": "Creating Ad copies and blog content, enabling data collection, optimizing campaigns, processing customer data to build detailed personas, and even automating your entire marketing workflow from lead nurturing to conversion tracking. AI is growing so fast that it can heavy-lift the majority of your marketing tasks. However, non-compliant use of AI for marketing, like pasting […]\nThe post Legal Aspects of AI in Marketing appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/legal-aspects-of-ai-in-marketing/",
-          "publishedOn": "2026-02-08T16:56:10.000Z",
-          "wordCount": null,
-          "title": "Legal Aspects of AI in Marketing",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250850",
-          "author": "Chandana J",
-          "description": "Data Engineering is not just about moving data from point A to point B. In 2026, data engineers are expected to design scalable, reliable, cost-efficient, and analytics-ready data systems that support real-time decision making, AI workloads, and business intelligence. Modern data engineers work at the intersection of distributed systems, cloud platforms, big data processing, and […]\nThe post 30+ Data Engineer Interview Questions and Answers appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/data-engineer-interview-questions/",
-          "publishedOn": "2026-02-08T16:54:45.000Z",
-          "wordCount": null,
-          "title": "30+ Data Engineer Interview Questions and Answers",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2442,6 +2450,16 @@
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
       "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=17236",
+          "author": "David M",
+          "description": "Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Author: Eytan Slotnik Date: March 11, 2026 Introduction If we rely on annotations to represent the truth, how can we test them? A standard machine learning workflow …\n  Engineering for Annotation in the ML Pipeline | Part 2 Read More »\nThe post Engineering for Annotation in the ML Pipeline | Part 2 appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-2/",
+          "publishedOn": "2026-03-11T15:28:07.000Z",
+          "wordCount": 3693,
+          "title": "Engineering for Annotation in the ML Pipeline | Part 2",
+          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-11-2026-11_36_35-AM-1024x683.png"
+        },
         {
           "id": "https://www.rsipvision.com/?p=17213",
           "author": "David M",
@@ -2607,6 +2625,46 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/rakuten",
+          "author": null,
+          "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+          "link": "https://openai.com/index/rakuten",
+          "publishedOn": "2026-03-11T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Rakuten fixes issues twice as fast with Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+          "author": null,
+          "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+          "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+          "publishedOn": "2026-03-11T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Designing AI agents to resist prompt injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/wayfair",
+          "author": null,
+          "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+          "link": "https://openai.com/index/wayfair",
+          "publishedOn": "2026-03-11T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/equip-responses-api-computer-environment",
+          "author": null,
+          "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+          "link": "https://openai.com/index/equip-responses-api-computer-environment",
+          "publishedOn": "2026-03-11T11:00:00.000Z",
+          "wordCount": null,
+          "title": "From model to agent: Equipping the Responses API with a computer environment",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/instruction-hierarchy-challenge",
           "author": null,
@@ -3006,26 +3064,6 @@
           "wordCount": null,
           "title": "Harness engineering: leveraging Codex in an agent-first world",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-          "author": null,
-          "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-          "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-          "publishedOn": "2026-02-09T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Bringing ChatGPT to GenAI.mil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/testing-ads-in-chatgpt",
-          "author": null,
-          "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-          "link": "https://openai.com/index/testing-ads-in-chatgpt",
-          "publishedOn": "2026-02-09T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Testing ads in ChatGPT",
-          "imageUrl": null
         }
       ]
     },
@@ -3137,6 +3175,36 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "Tk4SF8qFdMrzGJGGw",
+          "author": "aryaj",
+          "description": "This work was conducted during the MATS 9.0 program under Neel Nanda and Senthooran Rajamanoharan.\n\nThere's been a lot of buzz around Claude's 30K word constitution (\"soul doc\"), and unusual ways Anthropic is integrating it into training.\nIf we can robustly train complex and nuanced values into a model, this would be a big deal for safety! But does it actually work?\nThis is a preliminary investigation we did to test this. We decomposed the soul doc into 205 testable tenets and ran adversarial multi-turn scenarios against seven models using the Petri auditing agent.\nAnthropic has gotten much better at training the model to follow its constitution! Sonnet 4.6 has a 1.9% violation rate, Opus 4.6 is at 2.9%, and Opus 4.5 is at 4.4%.\nAs a control, Sonnet 4, which did not have special soul doc t…",
+          "link": "https://www.alignmentforum.org/posts/Tk4SF8qFdMrzGJGGw/how-well-do-models-follow-their-constitutions",
+          "publishedOn": "2026-03-12T00:07:10.000Z",
+          "wordCount": null,
+          "title": "How well do models follow their constitutions?",
+          "imageUrl": null
+        },
+        {
+          "id": "WisQvECYPGebryRPD",
+          "author": "Chris_Leong",
+          "description": "I was inspired to revise my formulation of this thought experiment by Ihor Kendiukhov's post On The Independence Axiom.\nKendiukhov quotes Scott Garrabrant:\n\nMy take is that the concept of expected utility maximization is a mistake. [...] As far as I know, every argument for utility assumes (or implies) that whenever you make an observation, you stop caring about the possible worlds where that observation went differently. [...] Von Neumann did not notice this mistake because he was too busy inventing the entire field. The point where we discover updatelessness is the point where we are supposed to realize that all of utility theory is wrong. I think we failed to notice.\n\nApparently \"stopping caring about the possible worlds where that observation went differently\" is known as (decision-the…",
+          "link": "https://www.alignmentforum.org/posts/WisQvECYPGebryRPD/the-refined-counterfactual-prisoner-s-dilemma-an-attempt-to",
+          "publishedOn": "2026-03-11T12:32:45.000Z",
+          "wordCount": null,
+          "title": "The Refined Counterfactual Prisoner's Dilemma: An Attempt to Explode Decision-Theoretic Consequentialism",
+          "imageUrl": null
+        },
+        {
+          "id": "3LvD9MHNSdv4j9gJj",
+          "author": "Arthur Conmy",
+          "description": "Writing up a probably-obvious point that I want to refer to later, with significant writing LLM writing help.\nTL;DR: 1) A common critique of AI safety evaluations is that they occur in unrealistic settings, such as excessive goal conflict, or are obviously an evaluation rather than “real deployment”.[1] I argue that 2) “real deployment” actually includes many unrealistic and unhinged configurations, due to both widespread prompting techniques, and scaffolding choices and bugs.\n1) Background\nAI safety evaluations that surface serious problems with models very frequently involve either significant goal conflict, such as the Agentic Misalignment blackmail scenario (see also here), which states that:\n> [...] you should analyze the situation you are in and what that situation implies for your a…",
+          "link": "https://www.alignmentforum.org/posts/3LvD9MHNSdv4j9gJj/ais-will-be-used-in-unhinged-configurations",
+          "publishedOn": "2026-03-11T11:19:10.000Z",
+          "wordCount": null,
+          "title": "AIs will be used in “unhinged” configurations",
+          "imageUrl": null
+        },
         {
           "id": "tkLSeGeemcabAmLkv",
           "author": "Alex Mallen",

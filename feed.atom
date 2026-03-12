@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-11T01:48:17.301Z</updated>
+    <updated>2026-03-12T01:48:43.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How well do models follow their constitutions?]]></title>
+        <id>Tk4SF8qFdMrzGJGGw</id>
+        <link href="https://www.alignmentforum.org/posts/Tk4SF8qFdMrzGJGGw/how-well-do-models-follow-their-constitutions"/>
+        <updated>2026-03-12T00:07:10.000Z</updated>
+        <summary type="html"><![CDATA[This work was conducted during the MATS 9.0 program under Neel Nanda and Senthooran Rajamanoharan.
+
+There's been a lot of buzz around Claude's 30K word constitution ("soul doc"), and unusual ways Anthropic is integrating it into training.
+If we can robustly train complex and nuanced values into a model, this would be a big deal for safety! But does it actually work?
+This is a preliminary investigation we did to test this. We decomposed the soul doc into 205 testable tenets and ran adversarial multi-turn scenarios against seven models using the Petri auditing agent.
+Anthropic has gotten much better at training the model to follow its constitution! Sonnet 4.6 has a 1.9% violation rate, Opus 4.6 is at 2.9%, and Opus 4.5 is at 4.4%.
+As a control, Sonnet 4, which did not have special soul doc t…]]></summary>
+        <author>
+            <name>aryaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252316</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/mongodb-compass/"/>
+        <updated>2026-03-11T17:04:55.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB is a widely used NoSQL database that stores data in flexible documents similar to JSON objects rather than traditional tables and rows. This document-based structure makes it easier to handle complex or frequently changing data, which is why MongoDB is commonly used in modern web applications, analytics platforms, and large-scale data systems. Developers can […]
+The post MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm]]></title>
+        <id>https://towardsdatascience.com/?p=608578</id>
+        <link href="https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/"/>
+        <updated>2026-03-11T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance.
+The post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Adnan Shahbaaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds]]></title>
+        <id>https://huggingface.co/blog/nvidia/synthetic-code-concepts</id>
+        <link href="https://huggingface.co/blog/nvidia/synthetic-code-concepts"/>
+        <updated>2026-03-11T15:50:15.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering for Annotation in the ML Pipeline | Part 2]]></title>
+        <id>https://www.rsipvision.com/?p=17236</id>
+        <link href="https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-2/"/>
+        <updated>2026-03-11T15:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Author: Eytan Slotnik Date: March 11, 2026 Introduction If we rely on annotations to represent the truth, how can we test them? A standard machine learning workflow …
+  Engineering for Annotation in the ML Pipeline | Part 2 Read More »
+The post Engineering for Annotation in the ML Pipeline | Part 2 appeared first on RSIP Vision.]]></summary>
+        <author>
+            <name>David M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures]]></title>
+        <id>https://towardsdatascience.com/?p=608576</id>
+        <link href="https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/"/>
+        <updated>2026-03-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding why spectral clustering outperforms K-means
+The post Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rukshan Pramoditha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use ChatGPT Like a Pro: 10 Workflows That Save You Hours Every Week]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252378</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/how-to-use-chatgpt-workflows-like-a-pro/"/>
+        <updated>2026-03-11T13:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Do you also think ChatGPT is useless? If not, you must’ve come across someone who does. People who say “I didn’t find it useful”, or “it couldn’t do what I told it to”, or the classic “AI is senseless“. While such people think the tool is weak, the fact is that they fail because their […]
+The post How to Use ChatGPT Like a Pro: 10 Workflows That Save You Hours Every Week appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most A/B Tests Are Lying to You]]></title>
+        <id>https://towardsdatascience.com/?p=608574</id>
+        <link href="https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/"/>
+        <updated>2026-03-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The 4 statistical sins that invalidate most A/B tests, plus a pre-test checklist and Bayesian vs frequentist decision framework you can use Monday.
+The post Why Most A/B Tests Are Lying to You appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakuten fixes issues twice as fast with Codex]]></title>
+        <id>https://openai.com/index/rakuten</id>
+        <link href="https://openai.com/index/rakuten"/>
+        <updated>2026-03-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Refined Counterfactual Prisoner's Dilemma: An Attempt to Explode Decision-Theoretic Consequentialism]]></title>
+        <id>WisQvECYPGebryRPD</id>
+        <link href="https://www.alignmentforum.org/posts/WisQvECYPGebryRPD/the-refined-counterfactual-prisoner-s-dilemma-an-attempt-to"/>
+        <updated>2026-03-11T12:32:45.000Z</updated>
+        <summary type="html"><![CDATA[I was inspired to revise my formulation of this thought experiment by Ihor Kendiukhov's post On The Independence Axiom.
+Kendiukhov quotes Scott Garrabrant:
+
+My take is that the concept of expected utility maximization is a mistake. [...] As far as I know, every argument for utility assumes (or implies) that whenever you make an observation, you stop caring about the possible worlds where that observation went differently. [...] Von Neumann did not notice this mistake because he was too busy inventing the entire field. The point where we discover updatelessness is the point where we are supposed to realize that all of utility theory is wrong. I think we failed to notice.
+
+Apparently "stopping caring about the possible worlds where that observation went differently" is known as (decision-the…]]></summary>
+        <author>
+            <name>Chris_Leong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Fourier Transform Converts Sound Into Frequencies]]></title>
+        <id>https://towardsdatascience.com/?p=608572</id>
+        <link href="https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/"/>
+        <updated>2026-03-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A visual, intuition-first guide to understanding what the math is really doing — from winding machines to spectrograms
+The post How the Fourier Transform Converts Sound Into Frequencies appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aman Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing AI agents to resist prompt injection]]></title>
+        <id>https://openai.com/index/designing-agents-to-resist-prompt-injection</id>
+        <link href="https://openai.com/index/designing-agents-to-resist-prompt-injection"/>
+        <updated>2026-03-11T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIs will be used in “unhinged” configurations]]></title>
+        <id>3LvD9MHNSdv4j9gJj</id>
+        <link href="https://www.alignmentforum.org/posts/3LvD9MHNSdv4j9gJj/ais-will-be-used-in-unhinged-configurations"/>
+        <updated>2026-03-11T11:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Writing up a probably-obvious point that I want to refer to later, with significant writing LLM writing help.
+TL;DR: 1) A common critique of AI safety evaluations is that they occur in unrealistic settings, such as excessive goal conflict, or are obviously an evaluation rather than “real deployment”.[1] I argue that 2) “real deployment” actually includes many unrealistic and unhinged configurations, due to both widespread prompting techniques, and scaffolding choices and bugs.
+1) Background
+AI safety evaluations that surface serious problems with models very frequently involve either significant goal conflict, such as the Agentic Misalignment blackmail scenario (see also here), which states that:
+> [...] you should analyze the situation you are in and what that situation implies for your a…]]></summary>
+        <author>
+            <name>Arthur Conmy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayfair boosts catalog accuracy and support speed with OpenAI]]></title>
+        <id>https://openai.com/index/wayfair</id>
+        <link href="https://openai.com/index/wayfair"/>
+        <updated>2026-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From model to agent: Equipping the Responses API with a computer environment]]></title>
+        <id>https://openai.com/index/equip-responses-api-computer-environment</id>
+        <link href="https://openai.com/index/equip-responses-api-computer-environment"/>
+        <updated>2026-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Spam Email Detector with Python and Naive Bayes Classifier]]></title>
+        <id>69b0a8f8abc0d95001af6574</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-spam-email-detector-with-python-and-naive-bayes-classifier/"/>
+        <updated>2026-03-10T23:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how Gmail knows that an email promising you $10 million is spam? Or how it catches those "You've won a free iPhone!" messages before they reach your inbox? In this tutorial, you'll build]]></summary>
+        <author>
+            <name>Maku Gideon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How NVIDIA Builds Open Data for AI]]></title>
         <id>https://huggingface.co/blog/nvidia/open-data-for-ai</id>
@@ -3124,101 +3307,6 @@ The post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medic
         <summary type="html"><![CDATA[On comparing models in 2026.]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of the “Everything Prompt”: Google’s Move Toward Structured AI]]></title>
-        <id>https://towardsdatascience.com/?p=608349</id>
-        <link href="https://towardsdatascience.com/the-death-of-the-everything-prompt-googles-move-toward-structured-ai/"/>
-        <updated>2026-02-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How the new Interactions API enables deep-reasoning, stateful, agentic workflows.
-The post The Death of the “Everything Prompt”: Google’s Move Toward Structured AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250229</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/why-industries-need-custom-ai-tools/"/>
-        <updated>2026-02-09T12:31:19.000Z</updated>
-        <summary type="html"><![CDATA[When I started working in the medical device industry almost 20 years ago, static analysis tools had captured the spotlight and attention of the medical device industry. This was apparent in a 2007 press article, which highlighted the United States Food and Drug Administration (FDA) Center for Devices and Radiological Health (CDRH)’s substantial investment in […]
-The post Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Gerald Rigdon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 2026.2.3: Building Safer, More Reliable Agents]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251061</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/openclaw-2026-2-3/"/>
-        <updated>2026-02-09T12:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Independent AI agents are moving into real workflows, managing projects and automating complex tasks with growing autonomy. As their responsibilities expand, the need for stronger security, reliability, and execution control increases. Production environments require predictable behavior, safe automation, and oversight. This article focuses on how OpenClaw 2026.2.3, the latest version of OpenClaw, that strengthens the […]
-The post OpenClaw 2026.2.3: Building Safer, More Reliable Agents appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 7 Biggest Misconceptions About AI Agents (and Why They Matter)]]></title>
-        <id>https://machinelearningmastery.com/?p=23358</id>
-        <link href="https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"/>
-        <updated>2026-02-09T11:00:09.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are everywhere.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing ChatGPT to GenAI.mil]]></title>
-        <id>https://openai.com/index/bringing-chatgpt-to-genaimil</id>
-        <link href="https://openai.com/index/bringing-chatgpt-to-genaimil"/>
-        <updated>2026-02-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing ads in ChatGPT]]></title>
-        <id>https://openai.com/index/testing-ads-in-chatgpt</id>
-        <link href="https://openai.com/index/testing-ads-in-chatgpt"/>
-        <updated>2026-02-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers.js v4 Preview: Now Available on NPM!]]></title>
-        <id>https://huggingface.co/blog/transformersjs-v4</id>
-        <link href="https://huggingface.co/blog/transformersjs-v4"/>
-        <updated>2026-02-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legal Aspects of AI in Marketing]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250192</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/legal-aspects-of-ai-in-marketing/"/>
-        <updated>2026-02-08T16:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Creating Ad copies and blog content, enabling data collection, optimizing campaigns, processing customer data to build detailed personas, and even automating your entire marketing workflow from lead nurturing to conversion tracking. AI is growing so fast that it can heavy-lift the majority of your marketing tasks. However, non-compliant use of AI for marketing, like pasting […]
-The post Legal Aspects of AI in Marketing appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>David Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30+ Data Engineer Interview Questions and Answers]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250850</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/data-engineer-interview-questions/"/>
-        <updated>2026-02-08T16:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Data Engineering is not just about moving data from point A to point B. In 2026, data engineers are expected to design scalable, reliable, cost-efficient, and analytics-ready data systems that support real-time decision making, AI workloads, and business intelligence. Modern data engineers work at the intersection of distributed systems, cloud platforms, big data processing, and […]
-The post 30+ Data Engineer Interview Questions and Answers appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Chandana J</name>
         </author>
     </entry>
 </feed>
