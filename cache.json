@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608587",
+          "author": "JUNIOR JUMBONG",
+          "description": "Understanding default risk through statistical analysis of borrower and loan characteristics.\nThe post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/",
+          "publishedOn": "2026-03-12T16:30:00.000Z",
+          "wordCount": 6459,
+          "title": "Exploratory Data Analysis for Credit Scoring with Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-8-mars-2026-01_27_11.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608585",
+          "author": "Jonathan Yahav",
+          "description": "How AI has completely transformed the way I study as a graduate student\nThe post Solving the Human Training Data Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/solving-the-human-training-data-problem/",
+          "publishedOn": "2026-03-12T15:00:00.000Z",
+          "wordCount": 6466,
+          "title": "Solving the Human Training Data Problem",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-4-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608584",
+          "author": "Oleg Tereshin",
+          "description": "Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy.\nThe post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/649627-2/",
+          "publishedOn": "2026-03-12T13:30:00.000Z",
+          "wordCount": 5179,
+          "title": "Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-6-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608580",
+          "author": "Ibrahim Salami",
+          "description": "A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure\nThe post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/",
+          "publishedOn": "2026-03-12T12:00:00.000Z",
+          "wordCount": 5757,
+          "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/AI-Application.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608578",
           "author": "Adnan Shahbaaz",
           "description": "Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance.\nThe post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Towards Data Science.",
@@ -860,36 +900,6 @@
           "wordCount": null,
           "title": "How to Model The Expected Value of Marketing Campaigns",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608364",
-          "author": "Mahnoor Javed",
-          "description": "An easy step-by-step guide to building the snake game from scratch\nThe post Implementing the Snake Game in Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/implementing-the-snake-game-in-python/",
-          "publishedOn": "2026-02-10T13:30:00.000Z",
-          "wordCount": null,
-          "title": "Implementing the Snake Game in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608362",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to get more out of Claude code by giving it access to more information.\nThe post How to Personalize Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-personalize-claude-code/",
-          "publishedOn": "2026-02-10T12:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Personalize Claude Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608359",
-          "author": "Pascal Janetzky",
-          "description": "Delayed January: deadlines, downtimes, and flow times\nThe post The Machine Learning Lessons I’ve Learned Last Month appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-last-month/",
-          "publishedOn": "2026-02-09T20:38:42.000Z",
-          "wordCount": 3654,
-          "title": "The Machine Learning Lessons I’ve Learned Last Month",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/benediktgeyer-canoe-2920401_1920.jpg"
         }
       ]
     },
@@ -1047,16 +1057,6 @@
           "wordCount": null,
           "title": "The Machine Learning Practitioner’s Guide to Speculative Decoding",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23252",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-          "link": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/",
-          "publishedOn": "2026-02-10T11:00:06.000Z",
-          "wordCount": null,
-          "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-          "imageUrl": null
         }
       ]
     },
@@ -1111,6 +1111,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+          "publishedOn": "2026-03-13T01:02:47.000Z",
+          "wordCount": 2383,
+          "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
           "author": null,
@@ -1334,6 +1344,21 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1163539",
+          "author": "Shraddha Barke, Arnav Goyal, Alind Khare, Chetan Bansal",
+          "description": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]\nThe post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+          "publishedOn": "2026-03-12T16:38:45.000Z",
+          "wordCount": 3373,
+          "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AgentRx-framework.mp4",
+            "length": "29894728",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AgentRx-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/",
           "author": "Ke Yang, Michel Galley, Chenglong Wang, Jianfeng Gao, Jiawei Han, ChengXiang Zhai",
@@ -1630,17 +1655,6 @@
           "title": "Week Ending 2.15.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6989f6f81c4bca617ba460f1",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst-nsfpt-74j7l-fme2f",
-          "publishedOn": "2026-02-09T15:02:26.000Z",
-          "wordCount": null,
-          "title": "Week Ending 2.8.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1760,6 +1774,39 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252442",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Tools like ChatGPT, Gemini, and Claude pushed AI into everyday conversations. Suddenly everyone was talking about AI and a newer term that appeared alongside it: Generative AI. The two are often used interchangeably, but they aren’t the same thing. Generative AI isn’t a replacement for AI. It’s a part of it. To understand the difference, […]\nThe post AI vs Generative AI: Key Differences, Models, and Real-World Uses appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/",
+          "publishedOn": "2026-03-12T15:51:12.000Z",
+          "wordCount": null,
+          "title": "AI vs Generative AI: Key Differences, Models, and Real-World Uses",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252308",
+          "author": "Sarthak Dogra",
+          "description": "This is not another of those ‘AI is killing jobs’ reports. Anthropic, in a new research, seems to have asked the deeper questions this time. Its latest labour-market study asks what happens when we stop guessing which jobs AI could affect. What if we, instead, start measuring where it is actually showing up inside real […]\nThe post Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/",
+          "publishedOn": "2026-03-12T13:33:00.000Z",
+          "wordCount": null,
+          "title": "Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252421",
+          "author": "Janvi Kumari",
+          "description": "Google recently introduced Gemini Embedding 2, its first natively multimodal embedding model. This is an important step forward because it brings text, images, video, audio, and documents into a single shared embedding space. Instead of working with separate models for each type of data, developers can now use one embedding model across multiple modalities for […]\nThe post Building a Real Image Matching Project with Gemini Embedding 2 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/gemini-embedding-2/",
+          "publishedOn": "2026-03-12T13:12:35.000Z",
+          "wordCount": null,
+          "title": "Building a Real Image Matching Project with Gemini Embedding 2",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252316",
           "author": "Janvi Kumari",
@@ -2408,28 +2455,6 @@
           "title": "Qwen-Image-2.0 is Here and it Gives Nano Banana a Run for its Money",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251040",
-          "author": "Riya Bansal",
-          "description": "Text autocompletion and chat queries are no longer the only roles for AI agents. They now refactor repositories, generate documentation, review codebases, and run unattended workflows, creating new challenges in coordinating multiple agents without losing context, control, or code quality. Maestro, the latest AI Agents orchestration platform, addresses this need as an application that creates […]\nThe post Maestro: A Developer-First Platform for Orchestrating AI Agents appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/maestro-a-platform-for-orchestrating-ai-agents/",
-          "publishedOn": "2026-02-10T12:03:41.000Z",
-          "wordCount": null,
-          "title": "Maestro: A Developer-First Platform for Orchestrating AI Agents",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=250974",
-          "author": "Sarthak Dogra",
-          "description": "Learning AI in 2026 is definitely not the same as it was just a couple of years ago. Back then, the advice was simple (and intimidating): learn advanced math, master machine learning theory, and maybe – just maybe – you’d be ready to work with AI. Today, that narrative no longer holds. And the reason […]\nThe post How to Learn AI for FREE in 2026? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/learn-ai-from-scratch/",
-          "publishedOn": "2026-02-09T18:41:11.000Z",
-          "wordCount": null,
-          "title": "How to Learn AI for FREE in 2026?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2589,16 +2614,6 @@
           "wordCount": 2181,
           "title": "MISS | New York, NY",
           "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2021/04/Michael-Black.jpg"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17047",
-          "author": "David M",
-          "description": "Part 4: Validation + Test Making Your Metric Trustworthy (and Your Test Set Worth Something) At some point, your model gets “good enough” that progress becomes harder to measure. This is where many teams fall into metric noise. They reshuffle validation too often, add cases randomly, and unknowingly turn their validation set into a moving …\n  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4 Read More »\nThe post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4 appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai-part-4/",
-          "publishedOn": "2026-02-09T14:50:59.000Z",
-          "wordCount": 2605,
-          "title": "From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-9-2026-10_09_20-AM.png"
         }
       ]
     },
@@ -3151,22 +3166,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!oyTU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2cad176-f718-4046-8486-161c1111435e_2680x1366.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/opus-46-vs-codex-53",
-          "author": "Nathan Lambert",
-          "description": "On comparing models in 2026.",
-          "link": "https://www.interconnects.ai/p/opus-46-vs-codex-53",
-          "publishedOn": "2026-02-09T14:03:12.000Z",
-          "wordCount": null,
-          "title": "Opus 4.6, Codex 5.3, and the post-benchmark era",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/93f85dee-802e-496f-909b-a0f579a994eb_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/93f85dee-802e-496f-909b-a0f579a994eb_3182x1790.png"
         }
       ]
     },
@@ -3175,6 +3174,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "RyDkpWGLQsCnABE78",
+          "author": "Vivek Hebbar",
+          "description": "This post is an attempt to better operationalize FDT (functional decision theory).  It answers the following questions:\n\ngiven a logical causal graph, how do we define the logical do-operator?\nwhat is logical causality and how might it be formalized?\nhow does FDT interact with anthropic updating?\nwhy do we need logical causality?  why FDT and not EDT?\n\nDefining the logical do-operator\nConsider Parfit's hitchhiker:\nA logical causal graph for Parfit's hitchhiker, where blue nodes are logical facts\nAn FDT agent is supposed to reason as follows:\n\nI am deciding the value of the node \"Does my algorithm pay?\"\nIf I set that node to \"yes\", then omega will save me and I will get +1000 utility.  Also I will pay and lose 1 utility.  Total is +999.\nIf I set that node to \"no\", then omega will not save m…",
+          "link": "https://www.alignmentforum.org/posts/RyDkpWGLQsCnABE78/operationalizing-fdt",
+          "publishedOn": "2026-03-13T00:12:43.000Z",
+          "wordCount": null,
+          "title": "Operationalizing FDT",
+          "imageUrl": null
+        },
         {
           "id": "Tk4SF8qFdMrzGJGGw",
           "author": "aryaj",
@@ -3223,6 +3232,16 @@
           "publishedOn": "2026-03-09T18:50:29.000Z",
           "wordCount": null,
           "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+          "imageUrl": null
+        },
+        {
+          "id": "LaCP6WyNzX8kiZn3w",
+          "author": "transhumanist_atom_understander",
+          "description": "The context is MIRI's twist on Axelrod's Prisoner's Dilemma tournament.\nAxelrod's competitors were programs, facing each other in an iterated Prisoner's Dilemma.\nMIRI's tournament is a one-shot Prisoner's Dilemma, but the programs get to read their opponent's code.\nOr, rather, a description of the behavior of the code in Gödel-Löb provability logic, which turns out to be enough to determine their behavior in the setup.\nOne fun result, right in the beginning of the paper, is about a program, FairBot, whose behavior is specified by \"I'll cooperate with you if you (provably) cooperate with me\".\nDespite the appearance of circularity, FairBot cooperates with itself.\nThe proof involves Löb's theorem, so we call this Löbian cooperation.\nAndrew Critch has suggested another way of proving self-coop…",
+          "link": "https://www.alignmentforum.org/posts/LaCP6WyNzX8kiZn3w/payorian-cooperation-is-easy-with-kripke-frames",
+          "publishedOn": "2026-03-09T00:29:39.000Z",
+          "wordCount": null,
+          "title": "Payorian cooperation is easy with Kripke frames",
           "imageUrl": null
         },
         {

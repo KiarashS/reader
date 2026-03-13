@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-12T01:48:43.384Z</updated>
+    <updated>2026-03-13T01:51:45.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation]]></title>
+        <id>https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place</id>
+        <link href="https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place"/>
+        <updated>2026-03-13T01:02:47.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operationalizing FDT]]></title>
+        <id>RyDkpWGLQsCnABE78</id>
+        <link href="https://www.alignmentforum.org/posts/RyDkpWGLQsCnABE78/operationalizing-fdt"/>
+        <updated>2026-03-13T00:12:43.000Z</updated>
+        <summary type="html"><![CDATA[This post is an attempt to better operationalize FDT (functional decision theory).  It answers the following questions:
+
+given a logical causal graph, how do we define the logical do-operator?
+what is logical causality and how might it be formalized?
+how does FDT interact with anthropic updating?
+why do we need logical causality?  why FDT and not EDT?
+
+Defining the logical do-operator
+Consider Parfit's hitchhiker:
+A logical causal graph for Parfit's hitchhiker, where blue nodes are logical facts
+An FDT agent is supposed to reason as follows:
+
+I am deciding the value of the node "Does my algorithm pay?"
+If I set that node to "yes", then omega will save me and I will get +1000 utility.  Also I will pay and lose 1 utility.  Total is +999.
+If I set that node to "no", then omega will not save m…]]></summary>
+        <author>
+            <name>Vivek Hebbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systematic debugging for AI agents: Introducing the AgentRx framework]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1163539</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/"/>
+        <updated>2026-03-12T16:38:45.000Z</updated>
+        <summary type="html"><![CDATA[As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]
+The post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Shraddha Barke, Arnav Goyal, Alind Khare, Chetan Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploratory Data Analysis for Credit Scoring with Python]]></title>
+        <id>https://towardsdatascience.com/?p=608587</id>
+        <link href="https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/"/>
+        <updated>2026-03-12T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding default risk through statistical analysis of borrower and loan characteristics.
+The post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI vs Generative AI: Key Differences, Models, and Real-World Uses]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252442</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/"/>
+        <updated>2026-03-12T15:51:12.000Z</updated>
+        <summary type="html"><![CDATA[Tools like ChatGPT, Gemini, and Claude pushed AI into everyday conversations. Suddenly everyone was talking about AI and a newer term that appeared alongside it: Generative AI. The two are often used interchangeably, but they aren’t the same thing. Generative AI isn’t a replacement for AI. It’s a part of it. To understand the difference, […]
+The post AI vs Generative AI: Key Differences, Models, and Real-World Uses appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving the Human Training Data Problem]]></title>
+        <id>https://towardsdatascience.com/?p=608585</id>
+        <link href="https://towardsdatascience.com/solving-the-human-training-data-problem/"/>
+        <updated>2026-03-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How AI has completely transformed the way I study as a graduate student
+The post Solving the Human Training Data Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jonathan Yahav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252308</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/"/>
+        <updated>2026-03-12T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[This is not another of those ‘AI is killing jobs’ reports. Anthropic, in a new research, seems to have asked the deeper questions this time. Its latest labour-market study asks what happens when we stop guessing which jobs AI could affect. What if we, instead, start measuring where it is actually showing up inside real […]
+The post Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction]]></title>
+        <id>https://towardsdatascience.com/?p=608584</id>
+        <link href="https://towardsdatascience.com/649627-2/"/>
+        <updated>2026-03-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy.
+The post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Oleg Tereshin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Real Image Matching Project with Gemini Embedding 2]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252421</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/gemini-embedding-2/"/>
+        <updated>2026-03-12T13:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Google recently introduced Gemini Embedding 2, its first natively multimodal embedding model. This is an important step forward because it brings text, images, video, audio, and documents into a single shared embedding space. Instead of working with separate models for each type of data, developers can now use one embedding model across multiple modalities for […]
+The post Building a Real Image Matching Project with Gemini Embedding 2 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Finally Built My First AI App (And It Wasn’t What I Expected)]]></title>
+        <id>https://towardsdatascience.com/?p=608580</id>
+        <link href="https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/"/>
+        <updated>2026-03-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure
+The post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How well do models follow their constitutions?]]></title>
         <id>Tk4SF8qFdMrzGJGGw</id>
@@ -453,6 +575,23 @@ The post Nanochat Can Now Train a GPT-2 Level Model in Just 2 Hours appeared fir
 The post Designing Human-in-the-Loop Workflows for Financial GenAI Assistants appeared first on iMerit.]]></summary>
         <author>
             <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payorian cooperation is easy with Kripke frames]]></title>
+        <id>LaCP6WyNzX8kiZn3w</id>
+        <link href="https://www.alignmentforum.org/posts/LaCP6WyNzX8kiZn3w/payorian-cooperation-is-easy-with-kripke-frames"/>
+        <updated>2026-03-09T00:29:39.000Z</updated>
+        <summary type="html"><![CDATA[The context is MIRI's twist on Axelrod's Prisoner's Dilemma tournament.
+Axelrod's competitors were programs, facing each other in an iterated Prisoner's Dilemma.
+MIRI's tournament is a one-shot Prisoner's Dilemma, but the programs get to read their opponent's code.
+Or, rather, a description of the behavior of the code in Gödel-Löb provability logic, which turns out to be enough to determine their behavior in the setup.
+One fun result, right in the beginning of the paper, is about a program, FairBot, whose behavior is specified by "I'll cooperate with you if you (provably) cooperate with me".
+Despite the appearance of circularity, FairBot cooperates with itself.
+The proof involves Löb's theorem, so we call this Löbian cooperation.
+Andrew Critch has suggested another way of proving self-coop…]]></summary>
+        <author>
+            <name>transhumanist_atom_understander</name>
         </author>
     </entry>
     <entry>
@@ -3210,103 +3349,6 @@ Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26 first a
 The post How to Model The Expected Value of Marketing Campaigns appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Rodrigo Almeida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing the Snake Game in Python]]></title>
-        <id>https://towardsdatascience.com/?p=608364</id>
-        <link href="https://towardsdatascience.com/implementing-the-snake-game-in-python/"/>
-        <updated>2026-02-10T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[An easy step-by-step guide to building the snake game from scratch
-The post Implementing the Snake Game in Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahnoor Javed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maestro: A Developer-First Platform for Orchestrating AI Agents]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251040</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/maestro-a-platform-for-orchestrating-ai-agents/"/>
-        <updated>2026-02-10T12:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Text autocompletion and chat queries are no longer the only roles for AI agents. They now refactor repositories, generate documentation, review codebases, and run unattended workflows, creating new challenges in coordinating multiple agents without losing context, control, or code quality. Maestro, the latest AI Agents orchestration platform, addresses this need as an application that creates […]
-The post Maestro: A Developer-First Platform for Orchestrating AI Agents appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Personalize Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=608362</id>
-        <link href="https://towardsdatascience.com/how-to-personalize-claude-code/"/>
-        <updated>2026-02-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to get more out of Claude code by giving it access to more information.
-The post How to Personalize Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Document Clustering with LLM Embeddings in Scikit-learn]]></title>
-        <id>https://machinelearningmastery.com/?p=23252</id>
-        <link href="https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"/>
-        <updated>2026-02-10T11:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Machine Learning Lessons I’ve Learned Last Month]]></title>
-        <id>https://towardsdatascience.com/?p=608359</id>
-        <link href="https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-last-month/"/>
-        <updated>2026-02-09T20:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Delayed January: deadlines, downtimes, and flow times
-The post The Machine Learning Lessons I’ve Learned Last Month appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pascal Janetzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn AI for FREE in 2026?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=250974</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/learn-ai-from-scratch/"/>
-        <updated>2026-02-09T18:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Learning AI in 2026 is definitely not the same as it was just a couple of years ago. Back then, the advice was simple (and intimidating): learn advanced math, master machine learning theory, and maybe – just maybe – you’d be ready to work with AI. Today, that narrative no longer holds. And the reason […]
-The post How to Learn AI for FREE in 2026? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 2.8.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6989f6f81c4bca617ba460f1</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst-nsfpt-74j7l-fme2f"/>
-        <updated>2026-02-09T15:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4]]></title>
-        <id>https://www.rsipvision.com/?p=17047</id>
-        <link href="https://www.rsipvision.com/from-dicom-chaos-to-training-ready-data-our-dataset-pipeline-for-medical-ai-part-4/"/>
-        <updated>2026-02-09T14:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Part 4: Validation + Test Making Your Metric Trustworthy (and Your Test Set Worth Something) At some point, your model gets “good enough” that progress becomes harder to measure. This is where many teams fall into metric noise. They reshuffle validation too often, add cases randomly, and unknowingly turn their validation set into a moving …
-  From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4 Read More »
-The post From DICOM Chaos to Training-Ready Data: Our Dataset Pipeline for Medical AI – Part 4 appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opus 4.6, Codex 5.3, and the post-benchmark era]]></title>
-        <id>https://www.interconnects.ai/p/opus-46-vs-codex-53</id>
-        <link href="https://www.interconnects.ai/p/opus-46-vs-codex-53"/>
-        <updated>2026-02-09T14:03:12.000Z</updated>
-        <summary type="html"><![CDATA[On comparing models in 2026.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
         </author>
     </entry>
 </feed>
