@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608598",
+          "author": "Maria Mouschoutzi",
+          "description": "Optimizing the cost and latency of your LLM calls with Prompt Caching\nThe post Why Care About Prompt Caching in LLMs? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-care-about-promp-caching-in-llms/",
+          "publishedOn": "2026-03-13T17:09:47.000Z",
+          "wordCount": 5290,
+          "title": "Why Care About Prompt Caching in LLMs?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/distorted-fish-school_lone-thomasky_bits-baume_3113x4393.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608595",
+          "author": "Avishek Biswas",
+          "description": "A deep dive into exactly how text-only language models are finetuned to *see* images\nThe post How Vision Language Models Are Trained from “Scratch” appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/",
+          "publishedOn": "2026-03-13T16:30:00.000Z",
+          "wordCount": 5534,
+          "title": "How Vision Language Models Are Trained from “Scratch”",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Article_Thumbnail.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608593",
+          "author": "Andrey Chubin",
+          "description": "How a lightweight two-tower model improved restaurant discovery when popularity ranking failed\nThe post Personalized Restaurant Ranking with a Two-Tower Embedding Variant appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/",
+          "publishedOn": "2026-03-13T15:00:00.000Z",
+          "wordCount": 4208,
+          "title": "Personalized Restaurant Ranking with a Two-Tower Embedding Variant",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/abillion-F0e3AdcwVbM-unsplash-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608591",
+          "author": "Kenneth McCarthy",
+          "description": "Imagine you are analyzing a small dataset: You want to calculate some summary statistics to get an idea of the distribution of this data, so you use numpy to calculate the mean and variance. Your output Looks like this: Great! Now you have an idea of the distribution of your data. However, your colleague comes […]\nThe post A Tale of Two Variances: Why NumPy and Pandas Give Different Answers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/",
+          "publishedOn": "2026-03-13T13:30:00.000Z",
+          "wordCount": 4457,
+          "title": "A Tale of Two Variances: Why NumPy and Pandas Give Different Answers",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/variance_article_image-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608589",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to build a powerful agentic RAG system\nThe post How to Build Agentic RAG with Hybrid Search appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/",
+          "publishedOn": "2026-03-13T12:00:00.000Z",
+          "wordCount": 4076,
+          "title": "How to Build Agentic RAG with Hybrid Search",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-128.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608587",
           "author": "JUNIOR JUMBONG",
           "description": "Understanding default risk through statistical analysis of borrower and loan characteristics.\nThe post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.",
@@ -880,26 +930,6 @@
           "wordCount": 5319,
           "title": "Building an AI Agent to Detect and Handle Anomalies in Time-Series Data",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-10-2026-06_33_14-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608370",
-          "author": "Diogo Leitão",
-          "description": "How baseline strength, churn, and subjectivity determine complexity\nThe post Not All RecSys Problems Are Created Equal appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/not-all-recsys-problems-are-created-equal/",
-          "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Not All RecSys Problems Are Created Equal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608366",
-          "author": "Rodrigo Almeida",
-          "description": "The approach that takes companies to the next level of data maturity\nThe post How to Model The Expected Value of Marketing Campaigns appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-model-the-expected-value-of-marketing-campaigns/",
-          "publishedOn": "2026-02-10T15:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Model The Expected Value of Marketing Campaigns",
-          "imageUrl": null
         }
       ]
     },
@@ -1047,16 +1077,6 @@
           "wordCount": null,
           "title": "Choosing Between PCA and t-SNE for Visualization",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23407",
-          "author": "Bala Priya C",
-          "description": "Large language models generate text one token at a time.",
-          "link": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/",
-          "publishedOn": "2026-02-11T11:00:11.000Z",
-          "wordCount": null,
-          "title": "The Machine Learning Practitioner’s Guide to Speculative Decoding",
-          "imageUrl": null
         }
       ]
     },
@@ -1111,6 +1131,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+          "publishedOn": "2026-03-13T20:00:00.000Z",
+          "wordCount": 1873,
+          "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6172d79a6c2ff4e51d0ea593/Qflw9K3iqWZf269xwE-CP.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
           "author": null,
@@ -1475,6 +1505,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69b33f5993256dfc5313bee2",
+          "author": "Balajee Asish Brahmandam",
+          "description": "Last year, our ML team shipped a fraud detection model that worked perfectly in a Jupyter notebook. Precision was excellent. Recall numbers looked great. Everyone was excited – until we tried to deplo",
+          "link": "https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/",
+          "publishedOn": "2026-03-12T22:34:01.000Z",
+          "wordCount": 5561,
+          "title": "How to Containerize Your MLOps Pipeline from Training to Serving",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/156eaca3-8884-4f57-9010-9766278dbf5a.png"
+        },
+        {
           "id": "69b0a8f8abc0d95001af6574",
           "author": "Maku Gideon",
           "description": "Ever wondered how Gmail knows that an email promising you $10 million is spam? Or how it catches those \"You've won a free iPhone!\" messages before they reach your inbox? In this tutorial, you'll build",
@@ -1533,6 +1573,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "67f4fc12-1e56-11f1-b2b1-07612e952b20",
+          "author": null,
+          "description": "The First Air Force Detachment 3 discusses their long-standing partnership with NASA supporting astronaut rescue and recovery operations from Mercury to Artemis. HWHAP 415.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/air-force-rescue-and-recovery/",
+          "publishedOn": "2026-03-13T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Air Force Rescue and Recovery",
+          "itunes": {
+            "duration": "3454"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4274273436.mp3?updated=1773350197",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "2183407a-1967-11f1-850a-032949244382",
           "author": null,
@@ -1689,16 +1747,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/03/face-blur-pixelation-opencv-yunet-thumbnail.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=78491",
-          "author": "Sudip Chakrabarty",
-          "description": "YOLO26 introduces a paradigm shift with native NMS-free inference. Discover how its One-to-One label assignment eliminates post-processing overhead for stable, real-time edge performance.\nBreaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26 first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/yolo26-nms-free-inference/",
-          "publishedOn": "2026-02-10T18:19:06.000Z",
-          "wordCount": 12638,
-          "title": "Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/02/yolo26.jpg"
         }
       ]
     },
@@ -1756,16 +1804,6 @@
           "wordCount": 3042,
           "title": "Detecting HD Map Coverage Gaps Using Simulation",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Feature-IMG-Detecting-HD-Map-Coverage-Gaps-Using-Simulation.png"
-        },
-        {
-          "id": "https://imerit.net/?p=33023",
-          "author": "Sujana Urs",
-          "description": "McKinsey reports that only one-third of companies have scaled AI beyond pilot deployments, with the gap even wider for AI\nThe post Agent Evaluation in Production: Metrics for Task Success, Tool-Use Correctness, and Escalation Quality appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/agent-evaluation-in-production-metrics-for-task-success-tool-use-correctness-and-escalation-quality/",
-          "publishedOn": "2026-02-11T11:27:49.000Z",
-          "wordCount": 3019,
-          "title": "Agent Evaluation in Production: Metrics for Task Success, Tool-Use Correctness, and Escalation Quality",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Feature-IMG-Agent-Evaluation-in-Production-Metrics-for-Task-Success-Tool-Use-Correctness-and-Escalation-Quality-scaled.jpg"
         }
       ]
     },
@@ -1774,6 +1812,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252539",
+          "author": "Sarthak Dogra",
+          "description": "I asked ChatGPT how it feels about the recent and viral AI trend of switching from ChatGPT to Claude. Here is what it said: “As for how it makes me feel: I don’t have feelings or brand loyalty. But from a usefulness standpoint, it’s a good thing. Easier switching forces AI products to compete on […]\nThe post How to Switch from ChatGPT to Claude Without Losing Any Context or Memory appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/how-to-switch-from-chatgpt-to-claude/",
+          "publishedOn": "2026-03-13T17:15:08.000Z",
+          "wordCount": null,
+          "title": "How to Switch from ChatGPT to Claude Without Losing Any Context or Memory",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252476",
+          "author": "Riya Bansal.",
+          "description": "Most AI tools forget you as soon as you close the browser window. The system begins all interactions with a new user. AI agents provide a solution to this problem because they handle their complete workflow through their system. MaxClaw is one of the best in this category. MiniMax developed this system which operates completely from the cloud space. The system […]\nThe post A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/",
+          "publishedOn": "2026-03-13T17:11:45.000Z",
+          "wordCount": null,
+          "title": "A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252442",
           "author": "Vasu Deo Sankrityayan",
@@ -2411,50 +2471,6 @@
           "title": "How Andrej Karpathy Built a Working Transformer in 243 Lines of Code",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251212",
-          "author": "Sarthak Dogra",
-          "description": "Sixteen autonomous AI agents. Two weeks of continuous execution. Nearly 100,000 lines of Rust code. That’s what it took for Anthropic to build a working C compiler capable of compiling large real-world projects like the Linux kernel. There is, however, a kicker here. The project, internally referred to as the Claude “agent teams,” wasn’t written […]\nThe post Claude Agents Just Built a Fully Functioning C Compiler With Zero Human Input appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/claude-agents-built-c-compiler/",
-          "publishedOn": "2026-02-11T12:41:01.000Z",
-          "wordCount": null,
-          "title": "Claude Agents Just Built a Fully Functioning C Compiler With Zero Human Input",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251157",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "A-T-S!! A hurdle that most applicants just can’t cross. Spending hours on Overleaf and resume making websites to create their perfect resumes: just to find out that it has an ATS score of 40! For some it’s a dead end. Regardless of what they try, the score doesn’t seem to get anywhere near the required […]\nThe post I Built a Complete AI Resume with 90+ ATS Score appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/build-a-complete-ai-resume-with-90-ats-score/",
-          "publishedOn": "2026-02-11T12:39:17.000Z",
-          "wordCount": null,
-          "title": "I Built a Complete AI Resume with 90+ ATS Score",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251168",
-          "author": "Nitika Sharma",
-          "description": "Another month, another AI-powered trend taking over the internet, and this one is all about turning yourself into a caricature using ChatGPT Image. From LinkedIn feeds to group chats, people are sharing playful versions of themselves that capture not just their faces, but also their profession, personality, and vibe. The best part is that you don’t need […]\nThe post How to Create Your AI Caricature Using ChatGPT Image? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/chatgpt-caricature-image/",
-          "publishedOn": "2026-02-10T18:24:47.000Z",
-          "wordCount": null,
-          "title": "How to Create Your AI Caricature Using ChatGPT Image?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251169",
-          "author": "Sarthak Dogra",
-          "description": "Alibaba’s Qwen has been on a roll lately, launching model after model for various use cases. For instance, it recently introduced the Qwen3-Coder-Next as an AI coding assistant for developers. This time, the AI giant is in the news yet again for its latest release – the Qwen-2.0-Image. As the name suggests, this one comes […]\nThe post Qwen-Image-2.0 is Here and it Gives Nano Banana a Run for its Money appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/qwen-image-2-0-is-here/",
-          "publishedOn": "2026-02-10T18:21:26.000Z",
-          "wordCount": null,
-          "title": "Qwen-Image-2.0 is Here and it Gives Nano Banana a Run for its Money",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3068,16 +3084,6 @@
           "publishedOn": "2026-02-12T10:00:00.000Z",
           "wordCount": null,
           "title": "Introducing GPT-5.3-Codex-Spark",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/harness-engineering",
-          "author": null,
-          "description": "By Ryan Lopopolo, Member of the Technical Staff",
-          "link": "https://openai.com/index/harness-engineering",
-          "publishedOn": "2026-02-11T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Harness engineering: leveraging Codex in an agent-first world",
           "imageUrl": null
         }
       ]
