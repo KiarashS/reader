@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608627",
+          "author": "Derek Tran",
+          "description": "Why one model can't do two jobs\nThe post Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/two-stage-hurdle-models-predicting-zero-inflated-outcomes/",
+          "publishedOn": "2026-03-18T16:30:00.000Z",
+          "wordCount": 6945,
+          "title": "Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/head_img.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608632",
+          "author": "Stephanie Kirmer",
+          "description": "The seduction of AI code assistants\nThe post The New Experience of Coding with AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-new-experience-of-coding-with-ai/",
+          "publishedOn": "2026-03-18T15:00:00.000Z",
+          "wordCount": 5281,
+          "title": "The New Experience of Coding with AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-7.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608629",
+          "author": "Egor Howell",
+          "description": "It's all just fearmongering\nThe post Why You Should Stop Worrying About AI Taking Data Science Jobs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-worrying-about-ai-taking-data-science-jobs-heres-why/",
+          "publishedOn": "2026-03-18T13:30:00.000Z",
+          "wordCount": 4565,
+          "title": "Why You Should Stop Worrying About AI Taking Data Science Jobs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Egor-1st-March-Video-Thumbnail.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608621",
+          "author": "Chinmay Kakatkar",
+          "description": "A hands-on case study and practical guidance\nThe post One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/one-model-to-rule-them-all-sap-rpt-1-and-the-future-of-tabular-foundation-models/",
+          "publishedOn": "2026-03-18T12:00:00.000Z",
+          "wordCount": 6107,
+          "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/andrew-liu-2nx1Z70CT8I-unsplash-1024x683.jpeg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608625",
           "author": "Eivind Kjosbakken",
           "description": "Get more out of your coding agents by making reviewing more efficient\nThe post How to Effectively Review Claude Code Output appeared first on Towards Data Science.",
@@ -970,16 +1010,6 @@
           "wordCount": 4360,
           "title": "Iron Triangles: Powerful Tools for Analyzing Trade-Offs in AI Product Development",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/adam-jicha-q_j1Ghv_mv8-unsplash.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608387",
-          "author": "Moulik Gupta",
-          "description": "Why insanely fast GPUs still can’t make LLMs feel instant\nThe post The Strangest Bottleneck in Modern LLMs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-strangest-bottleneck-in-modern-llms/",
-          "publishedOn": "2026-02-16T11:14:00.000Z",
-          "wordCount": 4846,
-          "title": "The Strangest Bottleneck in Modern LLMs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/wmremove-transformed.jpeg"
         }
       ]
     },
@@ -1157,16 +1187,6 @@
           "wordCount": null,
           "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23404",
-          "author": "Vinod Chugani",
-          "description": "Powerful AI now runs on consumer hardware.",
-          "link": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/",
-          "publishedOn": "2026-02-16T11:00:13.000Z",
-          "wordCount": null,
-          "title": "Top 7 Small Language Models You Can Run on a Laptop",
-          "imageUrl": null
         }
       ]
     },
@@ -1174,7 +1194,23 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22310",
+          "author": "rjiang2",
+          "description": "Links:Paper | Code | Data LumberChunker lets an LLM decide where a long story should be split, creating more natural chunks that help Retrieval Augmented Generation (RAG) systems retrieve the right information. Introduction Long-form narrative documents usually have an explicit structure, such as chapters or sections, but these units are often too broad for retrieval tasks. At a lower level, important semantic shifts happen inside these larger segments without any visible structural break. When we split text only by formatting cues, like paragraphs or fixed token windows, passages that belong to the same narrative unit may be separated, while unrelated content can be grouped together. This misalignment between structure and meaning produces chunks that contain incomplete or mixed context, which reduces retrieval quality and affects downstream RAG performance. For this reason, segmentation should aim to create chunks that are semantically independent, rather than relying only on document structure. So how do we preserve the story’s flow and still keep chunking practical? In many cases, a reader can easily recognize where the narrative begins to shift—for example, when the text moves to a different scene, introduces a new entity, or changes its objective. The difficulty is that most automated chunking methods […]",
+          "link": "https://blog.ml.cmu.edu/2026/03/17/lumberchunker-long-form-narrative-document-segmentation/",
+          "publishedOn": "2026-03-17T22:25:09.000Z",
+          "wordCount": 4581,
+          "title": "LumberChunker: Long-Form Narrative Document Segmentation",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/02/crown_figure_blog.png",
+            "length": "10439915",
+            "type": "image/png"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/02/crown_figure_blog.png"
+        }
+      ]
     },
     {
       "title": "Google AI Blog",
@@ -1874,6 +1910,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=34379",
+          "author": "Sujana Urs",
+          "description": "Voice cloning technology has advanced quickly in recent years. Earlier voice cloning methods required large datasets and long recordings to\nThe post Building Ethical Frameworks for Zero-Shot Voice Cloning appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/building-ethical-frameworks-for-zero-shot-voice-cloning/",
+          "publishedOn": "2026-03-18T12:11:41.000Z",
+          "wordCount": 3386,
+          "title": "Building Ethical Frameworks for Zero-Shot Voice Cloning",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Building-Ethical-Frameworks-for-Zero-Shot-Voice-Cloning-scaled.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=34224",
           "author": "Sujana Urs",
           "description": "Artificial intelligence (AI) models often struggle when deployed across languages and regions. Most large language models (LLMs) are primarily trained\nThe post Model Localization Services: Adapting AI Models For Language, Cultural Nuance, Region-Specific Norms, And Compliance appeared first on iMerit.",
@@ -1940,6 +1986,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252694",
+          "author": "Harsh Mishra",
+          "description": "Building with AI today can feel messy. You might use one API for text, another for images, and a different one for something else. Every model comes with its own setup, API key, and billing. This slows you down and makes things harder than they need to be. What if you could use all these […]\nThe post A Guide to OpenRouter for AI Development appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/",
+          "publishedOn": "2026-03-18T08:48:59.000Z",
+          "wordCount": null,
+          "title": "A Guide to OpenRouter for AI Development",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252698",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "If you’ve spent the last year jumping between tabs, you’ve felt it. The gap between ChatGPT vs Claude isn’t about benchmarks anymore, it’s about identity. We are no longer choosing between “smart” and “smarter.” We are choosing between a multimodal powerhouse and a faithful reasoning engine. This leaves users choosing between two very different product […]\nThe post ChatGPT vs Claude: The 2026 Battle of the AI Model Families appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/chatgpt-vs-claude/",
+          "publishedOn": "2026-03-18T07:47:45.000Z",
+          "wordCount": null,
+          "title": "ChatGPT vs Claude: The 2026 Battle of the AI Model Families",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252609",
           "author": "Sarthak Dogra",
@@ -2555,17 +2623,6 @@
           "title": "We Tested The New Qwen3.5 Open Weight, Qwen3.5-Plus AI Models in Real Hands-on Tests",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251439",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Microsoft Excel remains one of the most in-demand skills across roles. From data analysis and business reporting to finance and operations, Excel sits at the center of business decision making. Its beginner friendly approach makes it so that one can learn it effortless, with ease. But basic familiarity alone isn’t enough. To stand out, you […]\nThe post Top 7 Free Excel Courses with Certificates appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/free-excel-courses-with-certificates/",
-          "publishedOn": "2026-02-16T12:10:47.000Z",
-          "wordCount": null,
-          "title": "Top 7 Free Excel Courses with Certificates",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2671,6 +2728,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/japan-teen-safety-blueprint",
+          "author": null,
+          "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+          "link": "https://openai.com/index/japan-teen-safety-blueprint",
+          "publishedOn": "2026-03-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
           "author": null,
@@ -3089,6 +3156,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+          "author": "Nathan Lambert",
+          "description": "On evaluating and understanding the frontier of agents, and why I still turn to Claude.",
+          "link": "https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex",
+          "publishedOn": "2026-03-18T13:02:54.000Z",
+          "wordCount": null,
+          "title": "GPT 5.4 is a big step for Codex",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!49G2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce867601-79e5-4519-9e6d-8ae221c08f0b_2400x1800.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!49G2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce867601-79e5-4519-9e6d-8ae221c08f0b_2400x1800.webp"
+        },
+        {
           "id": "https://www.interconnects.ai/p/the-next-phase-of-open-models",
           "author": "Nathan Lambert",
           "description": "Markets, capabilities, cope, and bewilderment in the industrialization of language models.",
@@ -3191,6 +3274,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "4hXWSw8tzoK9PM7v6",
+          "author": "jenny",
+          "description": "Following up on our previous work on verbalized eval awareness:\n\nwe are sharing a post investigating the emergence of metagaming reasoning in a frontier training run.\n\nMetagaming is a more general, and in our experience a more useful concept, than evaluation awareness.\nIt arises in frontier training runs and does not require training on honeypot environments.\nVerbalization of metagaming can go down over the course of training.\n\nWe also share some quantitative analyses, qualitative examples, and upcoming work.\n\nDiscuss",
+          "link": "https://www.alignmentforum.org/posts/4hXWSw8tzoK9PM7v6/metagaming-matters-for-training-evaluation-and-oversight",
+          "publishedOn": "2026-03-18T21:26:35.000Z",
+          "wordCount": null,
+          "title": "Metagaming matters for training, evaluation, and oversight",
+          "imageUrl": null
+        },
+        {
+          "id": "RKtTi82t8X8TQy5FX",
+          "author": "Steven Byrnes",
+          "description": "Summary / tl;dr\nIn the 2010s, Paul Christiano built an extensive body of work on AI alignment—see the “Iterated Amplification” series for a curated overview as of 2018.\nOne foundation of this program was an intuition that it should be possible to build “act-based approval-directed agents” (“approval-directed agents” for short). These AGIs, for example, would not lie to their human supervisors, because their human supervisors wouldn’t want them to lie, and these AGIs would only do things that their human supervisors would want them to do. (It sounds much simpler than it is!)\nAnother foundation of this program was a set of algorithmic approaches, Iterated Distillation and Amplification (IDA), that supposedly offers a path to actually building these approval-directed AI agents.\nI am (and have…",
+          "link": "https://www.alignmentforum.org/posts/RKtTi82t8X8TQy5FX/act-based-approval-directed-agents-for-ida-skeptics",
+          "publishedOn": "2026-03-18T18:47:46.000Z",
+          "wordCount": null,
+          "title": "“Act-based approval-directed agents”, for IDA skeptics",
+          "imageUrl": null
+        },
         {
           "id": "Pc789vx2oHgEXYZZH",
           "author": "Peter Hase",

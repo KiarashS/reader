@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-18T01:58:44.823Z</updated>
+    <updated>2026-03-19T01:59:31.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metagaming matters for training, evaluation, and oversight]]></title>
+        <id>4hXWSw8tzoK9PM7v6</id>
+        <link href="https://www.alignmentforum.org/posts/4hXWSw8tzoK9PM7v6/metagaming-matters-for-training-evaluation-and-oversight"/>
+        <updated>2026-03-18T21:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Following up on our previous work on verbalized eval awareness:
+
+we are sharing a post investigating the emergence of metagaming reasoning in a frontier training run.
+
+Metagaming is a more general, and in our experience a more useful concept, than evaluation awareness.
+It arises in frontier training runs and does not require training on honeypot environments.
+Verbalization of metagaming can go down over the course of training.
+
+We also share some quantitative analyses, qualitative examples, and upcoming work.
+
+Discuss]]></summary>
+        <author>
+            <name>jenny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Act-based approval-directed agents”, for IDA skeptics]]></title>
+        <id>RKtTi82t8X8TQy5FX</id>
+        <link href="https://www.alignmentforum.org/posts/RKtTi82t8X8TQy5FX/act-based-approval-directed-agents-for-ida-skeptics"/>
+        <updated>2026-03-18T18:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Summary / tl;dr
+In the 2010s, Paul Christiano built an extensive body of work on AI alignment—see the “Iterated Amplification” series for a curated overview as of 2018.
+One foundation of this program was an intuition that it should be possible to build “act-based approval-directed agents” (“approval-directed agents” for short). These AGIs, for example, would not lie to their human supervisors, because their human supervisors wouldn’t want them to lie, and these AGIs would only do things that their human supervisors would want them to do. (It sounds much simpler than it is!)
+Another foundation of this program was a set of algorithmic approaches, Iterated Distillation and Amplification (IDA), that supposedly offers a path to actually building these approval-directed AI agents.
+I am (and have…]]></summary>
+        <author>
+            <name>Steven Byrnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes]]></title>
+        <id>https://towardsdatascience.com/?p=608627</id>
+        <link href="https://towardsdatascience.com/two-stage-hurdle-models-predicting-zero-inflated-outcomes/"/>
+        <updated>2026-03-18T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why one model can't do two jobs
+The post Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Derek Tran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Experience of Coding with AI]]></title>
+        <id>https://towardsdatascience.com/?p=608632</id>
+        <link href="https://towardsdatascience.com/the-new-experience-of-coding-with-ai/"/>
+        <updated>2026-03-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The seduction of AI code assistants
+The post The New Experience of Coding with AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Stop Worrying About AI Taking Data Science Jobs]]></title>
+        <id>https://towardsdatascience.com/?p=608629</id>
+        <link href="https://towardsdatascience.com/stop-worrying-about-ai-taking-data-science-jobs-heres-why/"/>
+        <updated>2026-03-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It's all just fearmongering
+The post Why You Should Stop Worrying About AI Taking Data Science Jobs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT 5.4 is a big step for Codex]]></title>
+        <id>https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex</id>
+        <link href="https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex"/>
+        <updated>2026-03-18T13:02:54.000Z</updated>
+        <summary type="html"><![CDATA[On evaluating and understanding the frontier of agents, and why I still turn to Claude.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Ethical Frameworks for Zero-Shot Voice Cloning]]></title>
+        <id>https://imerit.net/?p=34379</id>
+        <link href="https://imerit.net/resources/blog/building-ethical-frameworks-for-zero-shot-voice-cloning/"/>
+        <updated>2026-03-18T12:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Voice cloning technology has advanced quickly in recent years. Earlier voice cloning methods required large datasets and long recordings to
+The post Building Ethical Frameworks for Zero-Shot Voice Cloning appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models]]></title>
+        <id>https://towardsdatascience.com/?p=608621</id>
+        <link href="https://towardsdatascience.com/one-model-to-rule-them-all-sap-rpt-1-and-the-future-of-tabular-foundation-models/"/>
+        <updated>2026-03-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on case study and practical guidance
+The post One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chinmay Kakatkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to OpenRouter for AI Development]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252694</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/"/>
+        <updated>2026-03-18T08:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Building with AI today can feel messy. You might use one API for text, another for images, and a different one for something else. Every model comes with its own setup, API key, and billing. This slows you down and makes things harder than they need to be. What if you could use all these […]
+The post A Guide to OpenRouter for AI Development appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT vs Claude: The 2026 Battle of the AI Model Families]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252698</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/chatgpt-vs-claude/"/>
+        <updated>2026-03-18T07:47:45.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent the last year jumping between tabs, you’ve felt it. The gap between ChatGPT vs Claude isn’t about benchmarks anymore, it’s about identity. We are no longer choosing between “smart” and “smarter.” We are choosing between a multimodal powerhouse and a faithful reasoning engine. This leaves users choosing between two very different product […]
+The post ChatGPT vs Claude: The 2026 Battle of the AI Model Families appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI]]></title>
         <id>https://huggingface.co/blog/nvidia/nemotron-3-nano-4b</id>
@@ -14,6 +135,16 @@
         <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
         <author>
             <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LumberChunker: Long-Form Narrative Document Segmentation]]></title>
+        <id>https://blog.ml.cmu.edu/?p=22310</id>
+        <link href="https://blog.ml.cmu.edu/2026/03/17/lumberchunker-long-form-narrative-document-segmentation/"/>
+        <updated>2026-03-17T22:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Links:Paper | Code | Data LumberChunker lets an LLM decide where a long story should be split, creating more natural chunks that help Retrieval Augmented Generation (RAG) systems retrieve the right information. Introduction Long-form narrative documents usually have an explicit structure, such as chapters or sections, but these units are often too broad for retrieval tasks. At a lower level, important semantic shifts happen inside these larger segments without any visible structural break. When we split text only by formatting cues, like paragraphs or fixed token windows, passages that belong to the same narrative unit may be separated, while unrelated content can be grouped together. This misalignment between structure and meaning produces chunks that contain incomplete or mixed context, which reduces retrieval quality and affects downstream RAG performance. For this reason, segmentation should aim to create chunks that are semantically independent, rather than relying only on document structure. So how do we preserve the story’s flow and still keep chunking practical? In many cases, a reader can easily recognize where the narrative begins to shift—for example, when the text moves to a different scene, introduces a new entity, or changes its objective. The difficulty is that most automated chunking methods […]]]></summary>
+        <author>
+            <name>rjiang2</name>
         </author>
     </entry>
     <entry>
@@ -140,6 +271,16 @@ The post How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI E
         <summary type="html"><![CDATA[If you are here, you have probably heard about recent work on recursive language models.]]></summary>
         <author>
             <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first]]></title>
+        <id>https://openai.com/index/japan-teen-safety-blueprint</id>
+        <link href="https://openai.com/index/japan-teen-safety-blueprint"/>
+        <updated>2026-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -3236,38 +3377,6 @@ The post We Tested The New Qwen3.5 Open Weight, Qwen3.5-Plus AI Models in Real H
         <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
         <author>
             <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Free Excel Courses with Certificates]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251439</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/free-excel-courses-with-certificates/"/>
-        <updated>2026-02-16T12:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Excel remains one of the most in-demand skills across roles. From data analysis and business reporting to finance and operations, Excel sits at the center of business decision making. Its beginner friendly approach makes it so that one can learn it effortless, with ease. But basic familiarity alone isn’t enough. To stand out, you […]
-The post Top 7 Free Excel Courses with Certificates appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Strangest Bottleneck in Modern LLMs]]></title>
-        <id>https://towardsdatascience.com/?p=608387</id>
-        <link href="https://towardsdatascience.com/the-strangest-bottleneck-in-modern-llms/"/>
-        <updated>2026-02-16T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Why insanely fast GPUs still can’t make LLMs feel instant
-The post The Strangest Bottleneck in Modern LLMs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Moulik Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Small Language Models You Can Run on a Laptop]]></title>
-        <id>https://machinelearningmastery.com/?p=23404</id>
-        <link href="https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"/>
-        <updated>2026-02-16T11:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Powerful AI now runs on consumer hardware.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
         </author>
     </entry>
 </feed>
