@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-21T01:48:13.694Z</updated>
+    <updated>2026-03-22T01:59:18.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Escaping the SQL Jungle]]></title>
+        <id>https://towardsdatascience.com/?p=608655</id>
+        <link href="https://towardsdatascience.com/escaping-the-sql-jungle/"/>
+        <updated>2026-03-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most data platforms don’t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a “SQL jungle.” This article explores how that happens and how to bring structure back.
+The post Escaping the SQL Jungle appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mike Huls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations]]></title>
+        <id>https://towardsdatascience.com/?p=608652</id>
+        <link href="https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/"/>
+        <updated>2026-03-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP
+The post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Caio Biondi de Carvalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252817</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/pageindex-vs-rag-document-chatbots/"/>
+        <updated>2026-03-21T12:57:49.000Z</updated>
+        <summary type="html"><![CDATA[What if the way we build AI document chatbots today is flawed? Most systems use RAG. They split documents into chunks, create embeddings, and retrieve answers using similarity search. It works in demos but often fails in real use. It misses obvious answers or picks the wrong context. Now there is a new approach called […]
+The post PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Soumil Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Domain-Specific Embedding Model in Under a Day]]></title>
         <id>https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune</id>
@@ -3187,186 +3220,6 @@ The post Media Authenticity Methods in Practice: Capabilities, Limitations, and 
 The post DBMS Data Models Explained: Types, Abstraction Levels, and SQL Examples   appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving]]></title>
-        <id>https://towardsdatascience.com/?p=608412</id>
-        <link href="https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/"/>
-        <updated>2026-02-19T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[All you need to know about Chain of Causation reasoning and the current state of Autonomous Driving!
-The post AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ryan Pégoud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Multiple GPUs: How GPUs Communicate]]></title>
-        <id>https://towardsdatascience.com/?p=608410</id>
-        <link href="https://towardsdatascience.com/how-gpus-communicate/"/>
-        <updated>2026-02-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into the hardware infrastructure that enables multi-GPU communication for AI workloads
-The post AI in Multiple GPUs: How GPUs Communicate appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Lorenzo Cesconetto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Made-in-India AI Products Shown at AI Impact Expo 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251528</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/top-made-in-india-ai-products-at-ai-impact-expo/"/>
-        <updated>2026-02-19T11:31:03.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to new-age technology, India has historically been at the forefront of several eras seen by human civilisation. Following suit, the nation is now stepping up in the age of Artificial Intelligence. A big proof is the ongoing AI Impact Expo 2026 in Delhi. The event has delegates and companies from over 27 […]
-The post Top 10 Made-in-India AI Products Shown at AI Impact Expo 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Simple MCP Server in Python]]></title>
-        <id>https://machinelearningmastery.com/?p=23481</id>
-        <link href="https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"/>
-        <updated>2026-02-19T11:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing independent research on AI alignment]]></title>
-        <id>https://openai.com/index/advancing-independent-research-ai-alignment</id>
-        <link href="https://openai.com/index/advancing-independent-research-ai-alignment"/>
-        <updated>2026-02-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI Solve Failures in Your Supply Chain?]]></title>
-        <id>https://towardsdatascience.com/?p=608408</id>
-        <link href="https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/"/>
-        <updated>2026-02-18T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When your warehouse and transportation teams blame each other for late deliveries, who's right? We can ask an agent connected to the data settle the debate.
-The post Can AI Solve Failures in Your Supply Chain? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Samir Saci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing OpenAI for India]]></title>
-        <id>https://openai.com/index/openai-for-india</id>
-        <link href="https://openai.com/index/openai-for-india"/>
-        <updated>2026-02-18T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables]]></title>
-        <id>https://towardsdatascience.com/?p=608406</id>
-        <link href="https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/"/>
-        <updated>2026-02-18T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing a hybrid SQL + vector retrieval system without schema changes, data migration, or performance trade-offs
-The post Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSIP Vision will be attending the SAGES NBT Innovation weekend]]></title>
-        <id>https://www.rsipvision.com/?p=17165</id>
-        <link href="https://www.rsipvision.com/rsip-vision-will-be-attending-the-sages-nbt-innovation-weekend/"/>
-        <updated>2026-02-18T19:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Houston , TX – February 19, 2026 We’re excited to announce that RSIP Vision will be attending the SAGES NBT Innovation weekend on February 19-21 in Houston, TX. Our CEO, Ron Soferman, and VP of Business Development, Shmulik Shpiro, will be attending the event. We’re looking forward to discussing the latest advances in AI for surgical imaging, …
-  RSIP Vision will be attending the SAGES NBT Innovation weekend Read More »
-The post RSIP Vision will be attending the SAGES NBT Innovation weekend appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Every Analytics Engineer Needs to Understand Data Architecture]]></title>
-        <id>https://towardsdatascience.com/?p=608403</id>
-        <link href="https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/"/>
-        <updated>2026-02-18T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get the data architecture right, and everything else becomes easier.
-I know it sounds simple, but in reality, little nuances in designing your data architecture may have costly implications. This article provides a crash course on the architectures that shape your daily decisions - from relational databases to event-driven systems.
-The post Why Every Analytics Engineer Needs to Understand Data Architecture appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI for Modern Deep Learning Experimentation]]></title>
-        <id>https://towardsdatascience.com/?p=608401</id>
-        <link href="https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/"/>
-        <updated>2026-02-18T18:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Stop babysitting training runs. Start shipping research. Autonomous experiment management built for/by deep learning engineers.
-The post Agentic AI for Modern Deep Learning Experimentation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why we should expect ruthless sociopath ASI]]></title>
-        <id>ZJZZEuPFKeEdkrRyf</id>
-        <link href="https://www.alignmentforum.org/posts/ZJZZEuPFKeEdkrRyf/why-we-should-expect-ruthless-sociopath-asi"/>
-        <updated>2026-02-18T17:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 18, 2026 5:28 PM GMT
-
-The conversation begins
-(Fictional) Optimist: So you expect future artificial superintelligence (ASI) “by default”, i.e. in the absence of yet-to-be-invented techniques, to be a ruthless sociopath, happy to lie, cheat, and steal, whenever doing so is selfishly beneficial, and with callous indifference to whether anyone (including its own programmers and users) lives or dies?
-Me: Yup! (Alas.)
-Optimist: …Despite all the evidence right in front of our eyes from humans and LLMs.
-Me: Yup!
-Optimist: OK, well, I’m here to tell you: that is a very specific and strange thing to expect, especially in the absence of any concrete evidence whatsoever. There’s no reason to expect it. If you think that ruthless sociopathy is the “true core nature of intelligenc…]]></summary>
-        <author>
-            <name>Steven Byrnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST]]></title>
-        <id>https://huggingface.co/blog/ibm-research/itbenchandmast</id>
-        <link href="https://huggingface.co/blog/ibm-research/itbenchandmast"/>
-        <updated>2026-02-18T16:15:45.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Silica’s advances in glass storage technology]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1161970</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/"/>
-        <updated>2026-02-18T16:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation.
-The post Project Silica’s advances in glass storage technology appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Richard Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human-in-the-Loop: The Missing Piece in Document AI Accuracy]]></title>
-        <id>https://imerit.net/?p=19781</id>
-        <link href="https://imerit.net/resources/blog/boosting-document-ai-accuracy-with-human-in-the-loop/"/>
-        <updated>2026-02-18T14:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Understand the role of human-in-the-loop in Intelligent Document Processing, its benefits, and how it improves model performance.
-The post Human-in-the-Loop: The Missing Piece in Document AI Accuracy appeared first on iMerit.]]></summary>
-        <author>
-            <name>Brett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Free Data Analysis Courses With Certification]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251585</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/free-data-analysis-courses-with-certification/"/>
-        <updated>2026-02-18T14:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Data Analyst is one job title that has quietly dominated LinkedIn headlines, hiring portals, and coffee-table conversations over the past few years. Disagree? Then you are certainly unaware of what all the industry giants are saying. Be it consulting firms like McKinsey and PwC, or global institutions like the World Economic Forum or even LinkedIn […]
-The post Top 10 Free Data Analysis Courses With Certification appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608655",
+          "author": "Mike Huls",
+          "description": "Most data platforms don’t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a “SQL jungle.” This article explores how that happens and how to bring structure back.\nThe post Escaping the SQL Jungle appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/escaping-the-sql-jungle/",
+          "publishedOn": "2026-03-21T15:00:00.000Z",
+          "wordCount": 5530,
+          "title": "Escaping the SQL Jungle",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/weronika-wSEv7Nanuxc-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608652",
+          "author": "Caio Biondi de Carvalho",
+          "description": "Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP\nThe post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/",
+          "publishedOn": "2026-03-21T13:00:00.000Z",
+          "wordCount": 6667,
+          "title": "A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/daniel-von-appen-GnxEPL-wZFg-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608650",
           "author": "Kaushik Rajan",
           "description": "An 85% accurate AI agent fails 4 out of 5 times on a 10-step task. Learn the compound probability math behind production failures (and the 4-check pre-deployment framework to fix it).\nThe post The Math That’s Killing Your AI Agent appeared first on Towards Data Science.",
@@ -990,66 +1010,6 @@
           "wordCount": 6254,
           "title": "Understanding the Chi-Square Test Beyond the Formula",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pexels-pixabay-220211-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608412",
-          "author": "Ryan Pégoud",
-          "description": "All you need to know about Chain of Causation reasoning and the current state of Autonomous Driving!\nThe post AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/",
-          "publishedOn": "2026-02-19T13:30:00.000Z",
-          "wordCount": 4461,
-          "title": "AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pramod-tiwari-FANRALn9WI-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608410",
-          "author": "Lorenzo Cesconetto",
-          "description": "A deep dive into the hardware infrastructure that enables multi-GPU communication for AI workloads\nThe post AI in Multiple GPUs: How GPUs Communicate appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-gpus-communicate/",
-          "publishedOn": "2026-02-19T12:00:00.000Z",
-          "wordCount": 3624,
-          "title": "AI in Multiple GPUs: How GPUs Communicate",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-at-08_49_33-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608408",
-          "author": "Samir Saci",
-          "description": "When your warehouse and transportation teams blame each other for late deliveries, who's right? We can ask an agent connected to the data settle the debate.\nThe post Can AI Solve Failures in Your Supply Chain? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/",
-          "publishedOn": "2026-02-18T21:00:00.000Z",
-          "wordCount": 5833,
-          "title": "Can AI Solve Failures in Your Supply Chain?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/thumbnail_light.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608406",
-          "author": "Partha Sarkar",
-          "description": "Designing a hybrid SQL + vector retrieval system without schema changes, data migration, or performance trade-offs\nThe post Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/",
-          "publishedOn": "2026-02-18T20:00:00.000Z",
-          "wordCount": 5365,
-          "title": "Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/gemini-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608403",
-          "author": "Nikola Ilic",
-          "description": "Get the data architecture right, and everything else becomes easier.\nI know it sounds simple, but in reality, little nuances in designing your data architecture may have costly implications. This article provides a crash course on the architectures that shape your daily decisions - from relational databases to event-driven systems.\nThe post Why Every Analytics Engineer Needs to Understand Data Architecture appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/",
-          "publishedOn": "2026-02-18T19:00:00.000Z",
-          "wordCount": 4671,
-          "title": "Why Every Analytics Engineer Needs to Understand Data Architecture",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/AE-Data-Arch.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608401",
-          "author": "Sam Black",
-          "description": "Stop babysitting training runs. Start shipping research. Autonomous experiment management built for/by deep learning engineers.\nThe post Agentic AI for Modern Deep Learning Experimentation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/",
-          "publishedOn": "2026-02-18T18:20:33.000Z",
-          "wordCount": 5434,
-          "title": "Agentic AI for Modern Deep Learning Experimentation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pexels-mart-production-7256344-scaled-1.jpg"
         }
       ]
     },
@@ -1197,16 +1157,6 @@
           "wordCount": 6839,
           "title": "Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-beyond-accuracy-5-metrics-actually-matter-ai-agents-feature.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23481",
-          "author": "Bala Priya C",
-          "description": "Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-          "link": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/",
-          "publishedOn": "2026-02-19T11:00:18.000Z",
-          "wordCount": null,
-          "title": "Building a Simple MCP Server in Python",
-          "imageUrl": null
         }
       ]
     },
@@ -1510,16 +1460,6 @@
           "wordCount": 373,
           "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-personas-japan-nttdata-ja.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-          "publishedOn": "2026-02-18T16:15:45.000Z",
-          "wordCount": 2452,
-          "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/pcP8QgkPqNpcygSbT6p60.png"
         }
       ]
     },
@@ -1598,16 +1538,6 @@
           "wordCount": 3573,
           "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/MediaIntegrityReport-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1161970",
-          "author": "Richard Black",
-          "description": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation.\nThe post Project Silica’s advances in glass storage technology appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
-          "publishedOn": "2026-02-18T16:11:45.000Z",
-          "wordCount": 3455,
-          "title": "Project Silica’s advances in glass storage technology",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/NatureSilica-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1985,16 +1915,6 @@
           "wordCount": 2614,
           "title": "Physical AI in Robotics: The Next Frontier of Intelligence",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/02/Feature-IMG-Physical-AI-Why-Robots-Are-Becoming-the-Next-Frontier-of-Intelligence-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=19781",
-          "author": "Brett",
-          "description": "Understand the role of human-in-the-loop in Intelligent Document Processing, its benefits, and how it improves model performance.\nThe post Human-in-the-Loop: The Missing Piece in Document AI Accuracy appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/boosting-document-ai-accuracy-with-human-in-the-loop/",
-          "publishedOn": "2026-02-18T14:42:58.000Z",
-          "wordCount": 2860,
-          "title": "Human-in-the-Loop: The Missing Piece in Document AI Accuracy",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2023/06/OG_Boosting-Document-AI-Accuracy-with-Human-in-the-Loop.jpg"
         }
       ]
     },
@@ -2003,6 +1923,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252817",
+          "author": "Soumil Jain",
+          "description": "What if the way we build AI document chatbots today is flawed? Most systems use RAG. They split documents into chunks, create embeddings, and retrieve answers using similarity search. It works in demos but often fails in real use. It misses obvious answers or picks the wrong context. Now there is a new approach called […]\nThe post PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/pageindex-vs-rag-document-chatbots/",
+          "publishedOn": "2026-03-21T12:57:49.000Z",
+          "wordCount": null,
+          "title": "PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252786",
           "author": "Riya Bansal",
@@ -2607,28 +2538,6 @@
           "title": "DBMS Data Models Explained: Types, Abstraction Levels, and SQL Examples",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251528",
-          "author": "Sarthak Dogra",
-          "description": "When it comes to new-age technology, India has historically been at the forefront of several eras seen by human civilisation. Following suit, the nation is now stepping up in the age of Artificial Intelligence. A big proof is the ongoing AI Impact Expo 2026 in Delhi. The event has delegates and companies from over 27 […]\nThe post Top 10 Made-in-India AI Products Shown at AI Impact Expo 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/top-made-in-india-ai-products-at-ai-impact-expo/",
-          "publishedOn": "2026-02-19T11:31:03.000Z",
-          "wordCount": null,
-          "title": "Top 10 Made-in-India AI Products Shown at AI Impact Expo 2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251585",
-          "author": "Sarthak Dogra",
-          "description": "Data Analyst is one job title that has quietly dominated LinkedIn headlines, hiring portals, and coffee-table conversations over the past few years. Disagree? Then you are certainly unaware of what all the industry giants are saying. Be it consulting firms like McKinsey and PwC, or global institutions like the World Economic Forum or even LinkedIn […]\nThe post Top 10 Free Data Analysis Courses With Certification appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/free-data-analysis-courses-with-certification/",
-          "publishedOn": "2026-02-18T14:13:11.000Z",
-          "wordCount": null,
-          "title": "Top 10 Free Data Analysis Courses With Certification",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2698,16 +2607,6 @@
           "wordCount": null,
           "title": "RSIP Vision will be at the Spine Summit in Phoenix, AZ",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17165",
-          "author": "David M",
-          "description": "Houston , TX – February 19, 2026 We’re excited to announce that RSIP Vision will be attending the SAGES NBT Innovation weekend on February 19-21 in Houston, TX. Our CEO, Ron Soferman, and VP of Business Development, Shmulik Shpiro, will be attending the event. We’re looking forward to discussing the latest advances in AI for surgical imaging, …\n  RSIP Vision will be attending the SAGES NBT Innovation weekend Read More »\nThe post RSIP Vision will be attending the SAGES NBT Innovation weekend appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/rsip-vision-will-be-attending-the-sages-nbt-innovation-weekend/",
-          "publishedOn": "2026-02-18T19:51:25.000Z",
-          "wordCount": 2317,
-          "title": "RSIP Vision will be attending the SAGES NBT Innovation weekend",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/612137919_1797393921111783_518598249919198514_n.jpg"
         }
       ]
     },
@@ -3143,26 +3042,6 @@
           "wordCount": null,
           "title": "Our First Proof submissions",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/advancing-independent-research-ai-alignment",
-          "author": null,
-          "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-          "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
-          "publishedOn": "2026-02-19T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Advancing independent research on AI alignment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-for-india",
-          "author": null,
-          "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-          "link": "https://openai.com/index/openai-for-india",
-          "publishedOn": "2026-02-18T21:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI for India",
-          "imageUrl": null
         }
       ]
     },
@@ -3452,16 +3331,6 @@
           "publishedOn": "2026-02-21T00:00:17.000Z",
           "wordCount": null,
           "title": "How will we do SFT on models with opaque reasoning?",
-          "imageUrl": null
-        },
-        {
-          "id": "ZJZZEuPFKeEdkrRyf",
-          "author": "Steven Byrnes",
-          "description": "Published on February 18, 2026 5:28 PM GMT\n\nThe conversation begins\n(Fictional) Optimist: So you expect future artificial superintelligence (ASI) “by default”, i.e. in the absence of yet-to-be-invented techniques, to be a ruthless sociopath, happy to lie, cheat, and steal, whenever doing so is selfishly beneficial, and with callous indifference to whether anyone (including its own programmers and users) lives or dies?\nMe: Yup! (Alas.)\nOptimist: …Despite all the evidence right in front of our eyes from humans and LLMs.\nMe: Yup!\nOptimist: OK, well, I’m here to tell you: that is a very specific and strange thing to expect, especially in the absence of any concrete evidence whatsoever. There’s no reason to expect it. If you think that ruthless sociopathy is the “true core nature of intelligenc…",
-          "link": "https://www.alignmentforum.org/posts/ZJZZEuPFKeEdkrRyf/why-we-should-expect-ruthless-sociopath-asi",
-          "publishedOn": "2026-02-18T17:28:17.000Z",
-          "wordCount": null,
-          "title": "Why we should expect ruthless sociopath ASI",
           "imageUrl": null
         }
       ]
