@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608668",
+          "author": "Ibrahim Salami",
+          "description": "Master data types, index alignment, and defensive Pandas practices to prevent silent bugs in real data pipelines.\nThe post 4 Pandas Concepts That Quietly Break Your Data Pipelines appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/most-pandas-tutorials-skip-this-thats-why-your-code-breaks-later/",
+          "publishedOn": "2026-03-23T16:30:00.000Z",
+          "wordCount": 5096,
+          "title": "4 Pandas Concepts That Quietly Break Your Data Pipelines",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/silent-bugs-pandas.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608666",
+          "author": "Kaushik Rajan",
+          "description": "Your ML model predicts perfectly but recommends wrong actions. Learn the 5-question diagnostic, method comparison matrix, and Python workflow to fix it with causal inference.\nThe post Causal Inference Is Eating Machine Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/causal-inference-is-eating-machine-learning/",
+          "publishedOn": "2026-03-23T15:00:00.000Z",
+          "wordCount": 5809,
+          "title": "Causal Inference Is Eating Machine Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-258.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608664",
+          "author": "Emmimal P Alexander",
+          "description": "This Article asks what happens next. The model has encoded its knowledge of fraud as symbolic rules. V14 below a threshold means fraud. What happens when that relationship starts to change?\nCan the rules act as a canary? In other words: can neuro-symbolic concept drift monitoring work at inference time, without labels?\nFull architecture background in Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules and How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment. You will follow this article without them, but the mechanism section makes more sense with context.\nThe post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/neuro-symbolic-fraud-detection-catching-concept-drift-before-f1-drops-label-free/",
+          "publishedOn": "2026-03-23T13:30:00.000Z",
+          "wordCount": 8011,
+          "title": "Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/neuro-symbolic-drift-detection-1-1024x683.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608662",
+          "author": "Katy Hagerty",
+          "description": "Rapid prototyping with Replit, AI agents, and minimal manual coding\nThe post I Built a Podcast Clipping App in One Weekend Using Vibe Coding appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-a-podcast-clipping-app-in-one-weekend-using-vibe-coding/",
+          "publishedOn": "2026-03-23T12:00:00.000Z",
+          "wordCount": 5486,
+          "title": "I Built a Podcast Clipping App in One Weekend Using Vibe Coding",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-19-2026-05_00_42-PM.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608660",
           "author": "Maria Mouschoutzi",
           "description": "A step-by-step guide to making your OpenAI apps faster, cheaper, and more efficient\nThe post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.",
@@ -980,16 +1020,6 @@
           "wordCount": 5763,
           "title": "Architecting GPUaaS for Enterprise AI On-Prem",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/igor-omilaev-eGGFZ5X2LnA-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608422",
-          "author": "Yariv Adan",
-          "description": "The New Rules of Entrepreneurship in the Era of Commoditized Magic\nThe post Donkeys, Not Unicorns appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/",
-          "publishedOn": "2026-02-20T18:21:56.000Z",
-          "wordCount": 4196,
-          "title": "Donkeys, Not Unicorns",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/13X5birWGw5nO0aEsFdsMSg.jpg"
         }
       ]
     },
@@ -1425,6 +1455,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/?p=1163921",
+          "author": "Doug Burger,  Subutai Ahmad, Nicolo Fusi",
+          "description": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence.\nThe post Will machines ever be intelligent?  appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+          "publishedOn": "2026-03-23T15:00:21.000Z",
+          "wordCount": 14349,
+          "title": "Will machines ever be intelligent?",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Episode-1-Doug-Nicolo-Subutai_TheShapeofThings_TW_LI_FB_1200x627-1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/?p=1163539",
           "author": "Shraddha Barke, Arnav Goyal, Alind Khare, Chetan Bansal",
           "description": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]\nThe post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.",
@@ -1545,6 +1585,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69c18bfc30a9b81e3a92bbbd",
+          "author": "Temitope Oyedele",
+          "description": "Training machine learning models usually starts out being organized and ends up in absolute chaos. We’ve all been there: dozens of experiments scattered across random notebooks, and model files saved",
+          "link": "https://www.freecodecamp.org/news/how-to-use-mlflow-to-manage-your-machine-learning-lifecycle/",
+          "publishedOn": "2026-03-23T18:52:44.000Z",
+          "wordCount": 3075,
+          "title": "How to Use MLflow to Manage Your Machine Learning Lifecycle",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f829ab55-926d-43cd-b027-16c754445b09.png"
+        },
         {
           "id": "69b9bab4c22d3eeb8afd5284",
           "author": "Sandeep Bharadwaj Mannapur",
@@ -1675,24 +1725,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "dbc47750-0e64-11f1-b3cf-777af9289457",
-          "author": null,
-          "description": "NASA leaders Joel Montalbano and Ryan Landon reflect on 25 years of continuous human presence aboard the International Space Station and the international cooperation that made it possible. HWHAP 412.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/around-the-world-for-25-years/",
-          "publishedOn": "2026-02-20T14:15:00.000Z",
-          "wordCount": null,
-          "title": "Around the World for 25 Years",
-          "itunes": {
-            "duration": "2489"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9298748840.mp3?updated=1771597353",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1701,6 +1733,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69c1530712786c0c161024d2",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd",
+          "publishedOn": "2026-03-23T14:50:30.000Z",
+          "wordCount": null,
+          "title": "Week Ending 3.22.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69b7c496b90f4015c26a0f94",
           "author": "Craig Smith",
@@ -1797,6 +1840,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=34399",
+          "author": "Inkline Admin",
+          "description": "An AI-generated video can look convincing at first glance. The characters are detailed, the lighting feels natural, and the motion\nThe post Temporal Drift in AI-Generated Video appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/temporal-drift-in-ai-generated-video/",
+          "publishedOn": "2026-03-23T18:24:27.000Z",
+          "wordCount": 3606,
+          "title": "Temporal Drift in AI-Generated Video",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Temporal-Drift-in-AI-Generated-Video-scaled.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=34379",
           "author": "Sujana Urs",
           "description": "Voice cloning technology has advanced quickly in recent years. Earlier voice cloning methods required large datasets and long recordings to\nThe post Building Ethical Frameworks for Zero-Shot Voice Cloning appeared first on iMerit.",
@@ -1863,6 +1916,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252828",
+          "author": "Dharmateja Priyadarshi Uddandarao",
+          "description": "One of the core challenges of data science is drawing meaningful causal conclusions from observational data. In many such cases, the goal is to estimate the true impact of a treatment or behaviour as fairly as possible. This article explores Propensity Score Matching (PSM), a statistical technique used for that very purpose. Unlike randomized experiments […]\nThe post Guide to Propensity Score Matching for Causal Inference to Estimate True Impact appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/guide-propensity-score-matching-causal-inference/",
+          "publishedOn": "2026-03-23T13:13:39.000Z",
+          "wordCount": null,
+          "title": "Guide to Propensity Score Matching for Causal Inference to Estimate True Impact",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252887",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "With so much happening in AI and machine learning today, figuring out where to start can feel overwhelming. Different learners prefer different approaches! Some want visuals, others prefer coding. Some prefer short form, others lean toward long-form learning. While many simply want a clear path into ML. This article is here to fix that. Instead […]\nThe post Top 10 YouTube Channels to Learn Machine Learning appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/youtube-channels-to-learn-machine-learning/",
+          "publishedOn": "2026-03-23T12:25:48.000Z",
+          "wordCount": null,
+          "title": "Top 10 YouTube Channels to Learn Machine Learning",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=252870",
           "author": "Nitika Sharma",
@@ -2456,17 +2531,6 @@
           "title": "15 Probability and Statistics Interview Questions Every Data Scientist Must Master",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251599",
-          "author": "Riya Bansal",
-          "description": "Building an LLM prototype is quick. A few lines of Python, a prompt, and it works. But Production is a different game altogether. You start seeing vague answers, hallucinations, latency spikes, and strange failures where the model clearly “knows” something but still gets it wrong. Since everything runs on probabilities, debugging becomes tricky. Why did […]\nThe post Building a Self-Improving AI Support Agent with Langfuse  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/building-a-self-improving-ai-support-agent-with-langfuse/",
-          "publishedOn": "2026-02-20T15:54:53.000Z",
-          "wordCount": null,
-          "title": "Building a Self-Improving AI Support Agent with Langfuse",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2562,6 +2626,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/creating-with-sora-safely",
+          "author": null,
+          "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+          "link": "https://openai.com/index/creating-with-sora-safely",
+          "publishedOn": "2026-03-23T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Creating with Sora Safely",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
           "author": null,
@@ -2961,16 +3035,6 @@
           "wordCount": null,
           "title": "OpenAI announces Frontier Alliance Partners",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/first-proof-submissions",
-          "author": null,
-          "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-          "link": "https://openai.com/index/first-proof-submissions",
-          "publishedOn": "2026-02-20T14:30:00.000Z",
-          "wordCount": null,
-          "title": "Our First Proof submissions",
-          "imageUrl": null
         }
       ]
     },
@@ -3266,16 +3330,6 @@
           "publishedOn": "2026-02-23T22:56:45.000Z",
           "wordCount": null,
           "title": "The persona selection model",
-          "imageUrl": null
-        },
-        {
-          "id": "GJTzhQgaRWLFJkPbt",
-          "author": "Alek Westover",
-          "description": "Published on February 21, 2026 12:00 AM GMT\n\nCurrent LLMs externalize lots of their reasoning in human interpretable language. This reasoning is sometimes unfaithful, sometimes strange and concerning, and LLMs can do somewhat impressive reasoning without using CoT, but my overall impression is that CoT currently is a reasonably complete and accurate representation of LLM reasoning. However, reasoning in interpretable language might turn out to be uncompetitive—if so, it seems probable that opaque reasoning will be adopted in frontier AI labs.\nIf future AI models have opaque reasoning, this will probably change what training we can apply to these AIs. For example, currently we train models to reason in a good way about math problems, or to reason in a desired way about the spec that we hope…",
-          "link": "https://www.alignmentforum.org/posts/GJTzhQgaRWLFJkPbt/how-will-we-do-sft-on-models-with-opaque-reasoning",
-          "publishedOn": "2026-02-21T00:00:17.000Z",
-          "wordCount": null,
-          "title": "How will we do SFT on models with opaque reasoning?",
           "imageUrl": null
         }
       ]
