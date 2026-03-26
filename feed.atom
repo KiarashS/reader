@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-25T01:57:50.726Z</updated>
+    <updated>2026-03-26T02:04:21.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Toy Environment For Exploring Reasoning About Reward]]></title>
+        <id>LhXW8ziwnn7Dd8edm</id>
+        <link href="https://www.alignmentforum.org/posts/LhXW8ziwnn7Dd8edm/a-toy-environment-for-exploring-reasoning-about-reward"/>
+        <updated>2026-03-25T20:29:47.000Z</updated>
+        <summary type="html"><![CDATA[tldr: We share a toy environment that we found useful for understanding how reasoning changed over the course of capabilities-focused RL. Over the course of capabilities-focused RL, the model biases more strongly towards reward hints over direct instruction in this environment.
+Setup
+When we noticed the increase in verbalized alignment evaluation awareness during capabilities-focused RL, we initially thought that the right mental model was something like:
+
+“the model wants to figure out if it’s being evaluated for alignment”
+“the model is trying to figure out if the scenario is real or fake”
+
+However, qualitatively neither of these seemed particularly salient to the model:
+
+The model would often correctly identify alignment evaluations, yet still conduct extensive reasoning, then choose th…]]></summary>
+        <author>
+            <name>jenny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Following Up on Like-for-Like for Stores: Handling PY]]></title>
+        <id>https://towardsdatascience.com/?p=608688</id>
+        <link href="https://towardsdatascience.com/follow-up-on-like-for-like-for-stores-handling-py/"/>
+        <updated>2026-03-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My last article was about implementing Like-for-Like (L4L) for Stores. After discussing my solution with my peers and clients, I encountered an interesting issue that brought additional requirements to my first solution. This is what I want to discuss here.
+The post Following Up on Like-for-Like for Stores: Handling PY appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Machine Learning Lessons I’ve Learned This Month]]></title>
+        <id>https://towardsdatascience.com/?p=608686</id>
+        <link href="https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-5/"/>
+        <updated>2026-03-25T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Proactivity, blocking, and planning
+The post The Machine Learning Lessons I’ve Learned This Month appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pascal Janetzky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Claude Dispatch the End of OpenClaw?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253019</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/claude-cowork-dispatch/"/>
+        <updated>2026-03-25T13:29:24.000Z</updated>
+        <summary type="html"><![CDATA[My main complaint with AI solutions is that they are largely dependent on my presence for any task. Even with agentic AI now in the mix, complete automation of any complex process still seems like a myth. Tools like n8n and make.com need a considerable setup time and do not really function as conventional AI […]
+The post Is Claude Dispatch the End of OpenClaw? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Human-In-The-Loop Agentic Workflows]]></title>
+        <id>https://towardsdatascience.com/?p=608683</id>
+        <link href="https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/"/>
+        <updated>2026-03-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how to set up human-in-the-loop (HITL) agentic workflows in LangGraph
+The post Building Human-In-The-Loop Agentic Workflows appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kenneth Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside our approach to the Model Spec]]></title>
+        <id>https://openai.com/index/our-approach-to-the-model-spec</id>
+        <link href="https://openai.com/index/our-approach-to-the-model-spec"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Models Failed. That’s How I Became a Better Data Scientist.]]></title>
+        <id>https://towardsdatascience.com/?p=608679</id>
+        <link href="https://towardsdatascience.com/my-models-failed-thats-how-i-became-a-better-data-scientist/"/>
+        <updated>2026-03-25T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Data Leakage, Real-World Models, and the Path to Production AI in Healthcare
+The post My Models Failed. That’s How I Became a Better Data Scientist. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hayden Kastens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 46 AI Tools in 2026 You Must Use]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252763</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/top-ai-tools-to-use/"/>
+        <updated>2026-03-25T05:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Now that we know AI is inevitably a part of our workflow, the more relevant question today is not “should I use AI?”, but “how to use AI?”. With the AI tools market more crowded than ever, each passing week sees a new assistant, generator, or automation. The struggle then is of choice from a […]
+The post Top 46 AI Tools in 2026 You Must Use appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the OpenAI Safety Bug Bounty program]]></title>
+        <id>https://openai.com/index/safety-bug-bounty</id>
+        <link href="https://openai.com/index/safety-bug-bounty"/>
+        <updated>2026-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make Claude Code Improve from its Own Mistakes]]></title>
         <id>https://towardsdatascience.com/?p=608676</id>
@@ -362,6 +467,16 @@ The post Building Robust Credit Scoring Models (Part 3) appeared first on Toward
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops]]></title>
+        <id>https://machinelearningmastery.com/?p=23665</id>
+        <link href="https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"/>
+        <updated>2026-03-20T14:12:23.000Z</updated>
+        <summary type="html"><![CDATA[In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent — with a certain degree of autonomy — works toward a goal.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Artemis II: Bringing the Mission to You]]></title>
         <id>7116eace-2461-11f1-a4af-1bc3b04b2d77</id>
         <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-ii-bringing-the-mission-to-you/"/>
@@ -470,6 +585,16 @@ The post Linear Regression Is Actually a Projection Problem, Part 1: The Geometr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 Production Scaling Challenges for Agentic AI in 2026]]></title>
+        <id>https://machinelearningmastery.com/?p=23676</id>
+        <link href="https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"/>
+        <updated>2026-03-19T13:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Everyone's <a href="https://machinelearningmastery.]]></summary>
+        <author>
+            <name>Nahla Davies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development]]></title>
         <id>https://towardsdatascience.com/?p=608635</id>
         <link href="https://towardsdatascience.com/vibe-coding-with-ai-best-practices-for-human-ai-collaboration-in-software-development/"/>
@@ -565,6 +690,16 @@ The post Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes appeared fir
 The post The New Experience of Coding with AI appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Readability Features for Your Next Machine Learning Model]]></title>
+        <id>https://machinelearningmastery.com/?p=23624</id>
+        <link href="https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"/>
+        <updated>2026-03-18T14:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -3208,103 +3343,6 @@ The post Engineering for Annotation in the ML Pipeline appeared first on RSIP Vi
         <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
         <author>
             <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSIP Vision will be at the Spine Summit in Phoenix, AZ]]></title>
-        <id>https://www.rsipvision.com/?p=17177</id>
-        <link href="https://www.rsipvision.com/rsip-vision-will-be-at-the-spine-summit-in-phoenix-az/"/>
-        <updated>2026-02-23T14:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Phoenix, AZ – February 26, 2026 RSIP Vision will be at the Spine Summit in Phoenix, AZ, February 26–March 1, 2026 Meet our CEO Ron Soferman to find out how AI and computer vision are transforming spine surgery, including: Real-time instrument & implant tracking CT/fluoro 2D–3D registration & fusion Intraoperative alignment & hardware measurements AI …
-  RSIP Vision will be at the Spine Summit in Phoenix, AZ Read More »
-The post RSIP Vision will be at the Spine Summit in Phoenix, AZ appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Personal Productivity Agent with GLM-5]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251738</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/building-a-personal-productivity-agent-with-glm-5/"/>
-        <updated>2026-02-23T13:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Who has ever had a great idea about an application, only to be confronted with the reality of the development dread, which may take weeks, or even months. The path between the idea and a working product can be tiresome. Imagine that you could fit that whole procedure into the amount of time you spend […]
-The post Building a Personal Productivity Agent with GLM-5  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Storytelling using AI: 5 Techniques to Present AI-Generated Insights]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251735</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/data-storytelling/"/>
-        <updated>2026-02-23T13:40:46.000Z</updated>
-        <summary type="html"><![CDATA[AI can generate insights faster than any analyst ever could. But speed isn’t the problem anymore. The real problem is value. In 2026, the gap isn’t between companies that use AI and those that don’t. It’s between those who can explain AI-generated insights clearly and those who just copy-paste model outputs into slides and hope […]
-The post Data Storytelling using AI: 5 Techniques to Present AI-Generated Insights appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents]]></title>
-        <id>https://machinelearningmastery.com/?p=23488</id>
-        <link href="https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/"/>
-        <updated>2026-02-23T11:00:24.000Z</updated>
-        <summary type="html"><![CDATA[AI agents , or autonomous systems powered by agentic AI, have reshaped the current landscape of AI systems and deployments.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why we no longer evaluate SWE-bench Verified]]></title>
-        <id>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified</id>
-        <link href="https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"/>
-        <updated>2026-02-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI announces Frontier Alliance Partners]]></title>
-        <id>https://openai.com/index/frontier-alliance-partners</id>
-        <link href="https://openai.com/index/frontier-alliance-partners"/>
-        <updated>2026-02-23T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Repetition: The Overlooked Hack for Better LLM Results]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251709</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/prompt-repetition/"/>
-        <updated>2026-02-22T21:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever asked an LLM a question, changed the wording a few times, and still felt the answer wasn’t quite right? If you’ve worked with tools like ChatGPT or Gemini, you’ve probably rewritten prompts, added more context, or used phrases like “be concise” or “think step by step” to improve results. But what if […]
-The post Prompt Repetition: The Overlooked Hack for Better LLM Results appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Series vs Standard Machine Learning: Key Differences, Use Cases, and Examples]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251716</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/time-series-vs-standard-machine-learning/"/>
-        <updated>2026-02-22T16:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is widely used for prediction, but not all data behaves the same. A common mistake is applying standard ML to time-dependent data without considering temporal order and dependencies, which these models don’t naturally capture. Time series data reflects evolving patterns over time, unlike static snapshots. For example, sales forecasting differs from default risk […]
-The post Time Series vs Standard Machine Learning: Key Differences, Use Cases, and Examples  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Reality of Vibe Coding: AI Agents and the Security Debt Crisis]]></title>
-        <id>https://towardsdatascience.com/?p=608429</id>
-        <link href="https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/"/>
-        <updated>2026-02-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why optimizing for speed over safety is leaving applications vulnerable, and how to fix it.
-The post The Reality of Vibe Coding: AI Agents and the Security Debt Crisis appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Reya Vir</name>
         </author>
     </entry>
 </feed>
