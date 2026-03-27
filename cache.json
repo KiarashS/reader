@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608701",
+          "author": "Maria Mouschoutzi",
+          "description": "In my latest posts, we’ve talked a lot about prompt caching as well as caching in general, and how it can improve your AI app in terms of cost and latency. However, even for a fully optimized AI app, sometimes the responses are just going to take some time to be generated, and there’s simply […]\nThe post How to Make Your AI App Faster and More Interactive with Response Streaming appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/",
+          "publishedOn": "2026-03-26T15:22:00.000Z",
+          "wordCount": 4683,
+          "title": "How to Make Your AI App Faster and More Interactive with Response Streaming",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-20-2026-05_02_32-PM.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608690",
+          "author": "Yu Dong",
+          "description": "Using Codex and MCP to connect Google Drive, GitHub, BigQuery, and analysis in one real workflow\nThe post Beyond Code Generation: AI for the Full Data Science Workflow appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-code-generation-ai-for-the-full-data-science-workflow/",
+          "publishedOn": "2026-03-26T12:00:00.000Z",
+          "wordCount": 5041,
+          "title": "Beyond Code Generation: AI for the Full Data Science Workflow",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/codex_ds_workflow_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608692",
+          "author": "Sean Moran",
+          "description": "Why retrieval that looks excellent on paper can still behave like noise in real RAG and agent workflows\nThe post What the Bits-over-Random Metric Changed in How I Think About RAG and Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-the-bits-over-random-metric-changed-in-how-i-think-about-rag-and-agents/",
+          "publishedOn": "2026-03-26T10:31:00.000Z",
+          "wordCount": 6784,
+          "title": "What the Bits-over-Random Metric Changed in How I Think About RAG and Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/1rdC5bCN7Hvi_3lZ4KAP7bw.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608688",
           "author": "Salvatore Cagliari",
           "description": "My last article was about implementing Like-for-Like (L4L) for Stores. After discussing my solution with my peers and clients, I encountered an interesting issue that brought additional requirements to my first solution. This is what I want to discuss here.\nThe post Following Up on Like-for-Like for Stores: Handling PY appeared first on Towards Data Science.",
@@ -1020,66 +1050,6 @@
           "wordCount": 5160,
           "title": "Decisioning at the Edge: Policy Matching at Scale",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-19.42.27-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608446",
-          "author": "Anindya Dey",
-          "description": "A deep dive into the Sharpness-Aware-Minimization (SAM) algorithm and how it improves the generalizability of modern deep learning models\nThe post Optimizing Deep Learning Models with SAM appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimizing-deep-learning-models-with-sam/",
-          "publishedOn": "2026-02-24T13:30:00.000Z",
-          "wordCount": 5798,
-          "title": "Optimizing Deep Learning Models with SAM",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/loss_landscape_3d-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608443",
-          "author": "Kaushik Rajan",
-          "description": "Inside the research that shows algorithmic price-fixing isn't a bug in the code. It's a feature of the math.\nThe post AI Bots Formed a Cartel. No One Told Them To. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/",
-          "publishedOn": "2026-02-24T12:00:00.000Z",
-          "wordCount": 4919,
-          "title": "AI Bots Formed a Cartel. No One Told Them To.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-168-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608441",
-          "author": "Egor Howell",
-          "description": "What you should be doing in the current job market\nThe post Is the AI and Data Job Market Dead? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/is-the-ai-and-data-job-market-dead/",
-          "publishedOn": "2026-02-23T21:56:40.000Z",
-          "wordCount": 4302,
-          "title": "Is the AI and Data Job Market Dead?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Comp-23-0-00-09-03.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608439",
-          "author": "Thomas Reid",
-          "description": "Common Pandas operations and their equivalents in PySpark\nThe post PySpark for Pandas Users appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pyspark-for-pandas-users/",
-          "publishedOn": "2026-02-23T21:34:57.000Z",
-          "wordCount": 6509,
-          "title": "PySpark for Pandas Users",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pandas_pyspark.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608437",
-          "author": "Lorenzo Cesconetto",
-          "description": "Learn and implement gradient accum and data parallelism from scratch in PyTorch\nThe post AI in Multiple GPUs: Gradient Accumulation & Data Parallelism appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-in-multiple-gpus-grad-accum-data-parallelism/",
-          "publishedOn": "2026-02-23T21:19:58.000Z",
-          "wordCount": 4527,
-          "title": "AI in Multiple GPUs: Gradient Accumulation & Data Parallelism",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ddp.gif"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608434",
-          "author": "Eivind Kjosbakken",
-          "description": "Use Claude Code to quickly build completely personalized applications\nThe post Build Effective Internal Tooling with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/build-effective-internal-tooling-with-claude-code/",
-          "publishedOn": "2026-02-23T19:13:25.000Z",
-          "wordCount": 4631,
-          "title": "Build Effective Internal Tooling with Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-143.jpg"
         }
       ]
     },
@@ -1237,16 +1207,6 @@
           "wordCount": 7696,
           "title": "How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-llm-embeddings-tf-idf-metadata-scikit-learn-pipeline-feature-scaled.jpg"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23384",
-          "author": "Vinod Chugani",
-          "description": "AI deployment is changing.",
-          "link": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/",
-          "publishedOn": "2026-02-24T11:00:36.000Z",
-          "wordCount": 7963,
-          "title": "Introduction to Small Language Models: The Complete Guide for 2026",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-small-language-models-complete-guide-2026-feature-scaled.jpg"
         }
       ]
     },
@@ -1520,16 +1480,6 @@
           "wordCount": 2163,
           "title": "Mixture of Experts (MoEs) in Transformers",
           "imageUrl": "https://huggingface.co/blog/assets/moe-transformers/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-          "publishedOn": "2026-02-24T00:00:21.000Z",
-          "wordCount": 1812,
-          "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-on-jetson.png"
         }
       ]
     },
@@ -1544,6 +1494,26 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1166723",
+          "author": "Andrea Tupini, Lars Liden, Reuben Tan, Jianfeng Gao",
+          "description": "Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don’t go as expected, for example, when the mug it was tasked to wash is already clean, or the sink is full of other items. This is the domain of embodied AI: systems […]\nThe post AsgardBench: A benchmark for visually grounded interactive planning appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+          "publishedOn": "2026-03-26T19:02:53.000Z",
+          "wordCount": 3640,
+          "title": "AsgardBench: A benchmark for visually grounded interactive planning",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AsgardBench-TWLIFB-1200x627-1.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+          "author": "Sehun Jung, HyunJee Song, Dong-Hee Kim, Reuben Tan, Jianfeng Gao, Yong Jae Lee, Donghyun Kim",
+          "description": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks […]\nThe post GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+          "publishedOn": "2026-03-26T16:03:56.000Z",
+          "wordCount": 3755,
+          "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/V2GP-TWLIFB_v2-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1163921",
           "author": "Doug Burger,  Subutai Ahmad, Nicolo Fusi",
@@ -1866,17 +1836,6 @@
           "title": "Week Ending 3.1.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:699c7d39b24ed9391bde273d",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst-nsfpt-74j7l-fme2f-9r7m3-3lnj8",
-          "publishedOn": "2026-02-23T16:16:06.000Z",
-          "wordCount": null,
-          "title": "Week Ending 2.22.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1930,6 +1889,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=34547",
+          "author": "Sujana Urs",
+          "description": "AI systems do not build themselves; they require human judgment to work well. Behind every successful chatbot or medical tool\nThe post How to Start a Career in AI Training: Skills, Domains, and Growth Paths appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/how-to-start-a-career-in-ai-training-skills-domains-and-growth-paths/",
+          "publishedOn": "2026-03-26T16:10:32.000Z",
+          "wordCount": 3917,
+          "title": "How to Start a Career in AI Training: Skills, Domains, and Growth Paths",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-How-to-Start-a-Career-in-AI-Training-Skills-Domains-and-Growth-Paths-scaled.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=34426",
           "author": "Sujana Urs",
           "description": "Autonomous systems across sectors often work without human intervention. Self-driving vehicles navigate busy highways. Agricultural robots and precision sprayers manage\nThe post How 3D Semantic Segmentation Improves Object Boundary Accuracy in Autonomous Systems appeared first on iMerit.",
@@ -1938,6 +1907,16 @@
           "wordCount": 2686,
           "title": "How 3D Semantic Segmentation Improves Object Boundary Accuracy in Autonomous Systems",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-How-3D-Semantic-Segmentation-Improves-Object-Boundary-Accuracy-in-Autonomous-Systems-scaled.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=34399",
+          "author": "Inkline Admin",
+          "description": "An AI-generated video can look convincing at first glance. The characters are detailed, the lighting feels natural, and the motion\nThe post Solving Temporal Drift in AI-Generated Video appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/solving-temporal-drift-in-ai-generated-video/",
+          "publishedOn": "2026-03-23T18:24:27.000Z",
+          "wordCount": 3616,
+          "title": "Solving Temporal Drift in AI-Generated Video",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Temporal-Drift-in-AI-Generated-Video-scaled.jpg"
         },
         {
           "id": "https://imerit.net/?p=34399",
@@ -2016,6 +1995,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=252974",
+          "author": "Vipin Vashisth",
+          "description": "Transformers power modern NLP systems, replacing earlier RNN and LSTM approaches. Their ability to process all words in parallel enables efficient and scalable language modeling, forming the backbone of models like GPT and Gemini. In this article, we break down how Transformers work, starting from text representation to self-attention, multi-head attention, and the full Transformer […]\nThe post How Transformers Power LLMs: Step-by-Step Guide  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/how-transformers-power-llm/",
+          "publishedOn": "2026-03-26T16:53:46.000Z",
+          "wordCount": null,
+          "title": "How Transformers Power LLMs: Step-by-Step Guide",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253051",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Projects are the bridge between learning and becoming a professional. While theory builds fundamentals, recruiters value candidates who can solve real problems. A strong, diverse portfolio showcases practical skills, technical range, and problem-solving ability.  This guide compiles over 20 solved projects across AI domains, from basic machine learning to advanced generative AI and agentic systems. […]\nThe post 20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/solved-ai-projects/",
+          "publishedOn": "2026-03-26T11:27:25.000Z",
+          "wordCount": null,
+          "title": "20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253019",
           "author": "Sarthak Dogra",
@@ -2587,28 +2588,6 @@
           "title": "What is Seedance 2.0? [Features, Architecture, and More]",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251769",
-          "author": "Riya Bansal.",
-          "description": "The success of machine learning pipelines depends on feature engineering as their essential foundation. The two strongest methods for handling time series data are lag features and rolling features, according to your advanced techniques. The ability to use these techniques will enhance your model performance for sales forecasting, stock price prediction, and demand planning tasks. […]\nThe post Lag Features and Rolling Features in Feature Engineering appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/lag-and-rolling-features/",
-          "publishedOn": "2026-02-24T13:27:42.000Z",
-          "wordCount": null,
-          "title": "Lag Features and Rolling Features in Feature Engineering",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251795",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "AI has quietly created a new category of high-paying jobs. Not just for engineers, but for people who know how to use it well. These are real roles, hired by companies like Google, OpenAI, Microsoft, and fast-growing startups. None of them require you to write code. What matters is how well you can work with […]\nThe post Top 5 No-Code AI Jobs of 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/ai-jobs-without-coding/",
-          "publishedOn": "2026-02-24T13:23:07.000Z",
-          "wordCount": null,
-          "title": "Top 5 No-Code AI Jobs of 2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2658,16 +2637,6 @@
           "wordCount": 2164,
           "title": "RSIP Vision is attending AAOS 2026",
           "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/WhatsApp-Image-2025-11-27-at-14.28.23.jpeg"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17187",
-          "author": "David M",
-          "description": "<!doctype html>   Engineering for Annotation in the ML Pipeline, Part 1: Designing a Testable Protocol Author: Eytan Slotnik Date: February 2026 Introduction Early collaboration between R&D and annotation saves time, reduces rework, and improves data quality. Data annotation is the bedrock of machine learning, and in medical AI it needs to meet both scientific …\n  Engineering for Annotation in the ML Pipeline Read More »\nThe post Engineering for Annotation in the ML Pipeline appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-1-designing-a-testable-protocol/",
-          "publishedOn": "2026-02-23T16:56:11.000Z",
-          "wordCount": 3498,
-          "title": "Engineering for Annotation in the ML Pipeline",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-23-2026-12_16_54-PM-1024x683.png"
         }
       ]
     },
@@ -2955,6 +2924,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://openai.com/index/vfl-wolfsburg",
+          "author": null,
+          "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+          "link": "https://openai.com/index/vfl-wolfsburg",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": null,
+          "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/chatgpt-for-excel",
           "author": null,
           "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
@@ -3123,16 +3102,6 @@
           "wordCount": null,
           "title": "Disrupting malicious uses of AI | February 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/arvind-kc-chief-people-officer",
-          "author": null,
-          "description": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-          "link": "https://openai.com/index/arvind-kc-chief-people-officer",
-          "publishedOn": "2026-02-24T13:40:00.000Z",
-          "wordCount": null,
-          "title": "Arvind KC appointed Chief People Officer",
-          "imageUrl": null
         }
       ]
     },
@@ -3260,6 +3229,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "tDJWZLQNN7poqCwKa",
+          "author": "daria",
+          "description": "Authors: Daria Ivanova, Riya Tyagi, Arthur Conmy, Neel Nanda\nDaria and Riya are co-first authors. This work was done during Neel Nanda’s MATS 9.0. Claude helped write code and suggest edits for this post.\nTL;DR \n\nOne of our best safety techniques right now is “just read the chain of thought”.\nBut this isn’t always enough: can we learn more by going beyond just reading the reasoning?\nYet it's such an effective technique that it's hard to tell if we have made much progress on improving methods.\nTo help the community develop more powerful chain of thought analysis tools, we introduce and open source nine objective tasks, where a black box GPT 5.2 monitor falls short OOD.\nWe also baseline probes (linear, attention, SAE) and text frequency analysis (TF-IDF), and find they often do better than z…",
+          "link": "https://www.alignmentforum.org/posts/tDJWZLQNN7poqCwKa/test-your-best-methods-on-our-hard-cot-interp-tasks",
+          "publishedOn": "2026-03-26T19:24:40.000Z",
+          "wordCount": null,
+          "title": "Test your best methods on our hard CoT interp tasks",
+          "imageUrl": null
+        },
         {
           "id": "LhXW8ziwnn7Dd8edm",
           "author": "jenny",
@@ -3428,16 +3407,6 @@
           "publishedOn": "2026-02-27T03:20:21.000Z",
           "wordCount": null,
           "title": "Why Did My Model Do That? Model Incrimination for Diagnosing LLM Misbehavior",
-          "imageUrl": null
-        },
-        {
-          "id": "dfoty34sT7CSKeJNn",
-          "author": "Sam Marks",
-          "description": "Published on February 23, 2026 10:56 PM GMT\n\nTL;DR\nWe describe the persona selection model (PSM): the idea that LLMs learn to simulate diverse characters during pre-training, and post-training elicits and refines a particular such Assistant persona. Interactions with an AI assistant are then well-understood as being interactions with the Assistant—something roughly like a character in an LLM-generated story. We survey empirical behavioral, generalization, and interpretability-based evidence for PSM. PSM has consequences for AI development, such as recommending anthropomorphic reasoning about AI psychology and introduction of positive AI archetypes into training data. An important open question is how exhaustive PSM is, especially whether there might be sources of agency external to the Ass…",
-          "link": "https://www.alignmentforum.org/posts/dfoty34sT7CSKeJNn/the-persona-selection-model",
-          "publishedOn": "2026-02-23T22:56:45.000Z",
-          "wordCount": null,
-          "title": "The persona selection model",
           "imageUrl": null
         }
       ]

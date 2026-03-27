@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-26T02:04:21.815Z</updated>
+    <updated>2026-03-27T02:05:18.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Test your best methods on our hard CoT interp tasks]]></title>
+        <id>tDJWZLQNN7poqCwKa</id>
+        <link href="https://www.alignmentforum.org/posts/tDJWZLQNN7poqCwKa/test-your-best-methods-on-our-hard-cot-interp-tasks"/>
+        <updated>2026-03-26T19:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Daria Ivanova, Riya Tyagi, Arthur Conmy, Neel Nanda
+Daria and Riya are co-first authors. This work was done during Neel Nanda’s MATS 9.0. Claude helped write code and suggest edits for this post.
+TL;DR 
+
+One of our best safety techniques right now is “just read the chain of thought”.
+But this isn’t always enough: can we learn more by going beyond just reading the reasoning?
+Yet it's such an effective technique that it's hard to tell if we have made much progress on improving methods.
+To help the community develop more powerful chain of thought analysis tools, we introduce and open source nine objective tasks, where a black box GPT 5.2 monitor falls short OOD.
+We also baseline probes (linear, attention, SAE) and text frequency analysis (TF-IDF), and find they often do better than z…]]></summary>
+        <author>
+            <name>daria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AsgardBench: A benchmark for visually grounded interactive planning]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1166723</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/"/>
+        <updated>2026-03-26T19:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don’t go as expected, for example, when the mug it was tasked to wash is already clean, or the sink is full of other items. This is the domain of embodied AI: systems […]
+The post AsgardBench: A benchmark for visually grounded interactive planning appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Andrea Tupini, Lars Liden, Reuben Tan, Jianfeng Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Transformers Power LLMs: Step-by-Step Guide]]></title>
+        <id>https://www.analyticsvidhya.com/?p=252974</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/how-transformers-power-llm/"/>
+        <updated>2026-03-26T16:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Transformers power modern NLP systems, replacing earlier RNN and LSTM approaches. Their ability to process all words in parallel enables efficient and scalable language modeling, forming the backbone of models like GPT and Gemini. In this article, we break down how Transformers work, starting from text representation to self-attention, multi-head attention, and the full Transformer […]
+The post How Transformers Power LLMs: Step-by-Step Guide  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Career in AI Training: Skills, Domains, and Growth Paths]]></title>
+        <id>https://imerit.net/?p=34547</id>
+        <link href="https://imerit.net/resources/blog/how-to-start-a-career-in-ai-training-skills-domains-and-growth-paths/"/>
+        <updated>2026-03-26T16:10:32.000Z</updated>
+        <summary type="html"><![CDATA[AI systems do not build themselves; they require human judgment to work well. Behind every successful chatbot or medical tool
+The post How to Start a Career in AI Training: Skills, Domains, and Growth Paths appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/"/>
+        <updated>2026-03-26T16:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks […]
+The post GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Sehun Jung, HyunJee Song, Dong-Hee Kim, Reuben Tan, Jianfeng Gao, Yong Jae Lee, Donghyun Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your AI App Faster and More Interactive with Response Streaming]]></title>
+        <id>https://towardsdatascience.com/?p=608701</id>
+        <link href="https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/"/>
+        <updated>2026-03-26T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[In my latest posts, we’ve talked a lot about prompt caching as well as caching in general, and how it can improve your AI app in terms of cost and latency. However, even for a fully optimized AI app, sometimes the responses are just going to take some time to be generated, and there’s simply […]
+The post How to Make Your AI App Faster and More Interactive with Response Streaming appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Code Generation: AI for the Full Data Science Workflow]]></title>
+        <id>https://towardsdatascience.com/?p=608690</id>
+        <link href="https://towardsdatascience.com/beyond-code-generation-ai-for-the-full-data-science-workflow/"/>
+        <updated>2026-03-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using Codex and MCP to connect Google Drive, GitHub, BigQuery, and analysis in one real workflow
+The post Beyond Code Generation: AI for the Full Data Science Workflow appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Yu Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253051</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/solved-ai-projects/"/>
+        <updated>2026-03-26T11:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Projects are the bridge between learning and becoming a professional. While theory builds fundamentals, recruiters value candidates who can solve real problems. A strong, diverse portfolio showcases practical skills, technical range, and problem-solving ability.  This guide compiles over 20 solved projects across AI domains, from basic machine learning to advanced generative AI and agentic systems. […]
+The post 20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Bits-over-Random Metric Changed in How I Think About RAG and Agents]]></title>
+        <id>https://towardsdatascience.com/?p=608692</id>
+        <link href="https://towardsdatascience.com/what-the-bits-over-random-metric-changed-in-how-i-think-about-rag-and-agents/"/>
+        <updated>2026-03-26T10:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Why retrieval that looks excellent on paper can still behave like noise in real RAG and agent workflows
+The post What the Bits-over-Random Metric Changed in How I Think About RAG and Agents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sean Moran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Toy Environment For Exploring Reasoning About Reward]]></title>
         <id>LhXW8ziwnn7Dd8edm</id>
@@ -236,6 +342,17 @@ The post How 3D Semantic Segmentation Improves Object Boundary Accuracy in Auton
         <summary type="html"><![CDATA[Training machine learning models usually starts out being organized and ends up in absolute chaos. We’ve all been there: dozens of experiments scattered across random notebooks, and model files saved]]></summary>
         <author>
             <name>Temitope Oyedele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Temporal Drift in AI-Generated Video]]></title>
+        <id>https://imerit.net/?p=34399</id>
+        <link href="https://imerit.net/resources/blog/solving-temporal-drift-in-ai-generated-video/"/>
+        <updated>2026-03-23T18:24:27.000Z</updated>
+        <summary type="html"><![CDATA[An AI-generated video can look convincing at first glance. The characters are detailed, the lighting feels natural, and the motion
+The post Solving Temporal Drift in AI-Generated Video appeared first on iMerit.]]></summary>
+        <author>
+            <name>Inkline Admin</name>
         </author>
     </entry>
     <entry>
@@ -2283,6 +2400,16 @@ The post PhysicEdit: Teaching Image Editing Models to Respect Physics appeared f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VfL Wolfsburg turns ChatGPT into a club-wide capability]]></title>
+        <id>https://openai.com/index/vfl-wolfsburg</id>
+        <link href="https://openai.com/index/vfl-wolfsburg"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing ChatGPT for Excel and new financial data integrations]]></title>
         <id>https://openai.com/index/chatgpt-for-excel</id>
         <link href="https://openai.com/index/chatgpt-for-excel"/>
@@ -3190,159 +3317,6 @@ The post Decisioning at the Edge: Policy Matching at Scale appeared first on To
         <summary type="html"><![CDATA[Reacting to Anthropic's post on "distillation attacks."]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arvind KC appointed Chief People Officer]]></title>
-        <id>https://openai.com/index/arvind-kc-chief-people-officer</id>
-        <link href="https://openai.com/index/arvind-kc-chief-people-officer"/>
-        <updated>2026-02-24T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Deep Learning Models with SAM]]></title>
-        <id>https://towardsdatascience.com/?p=608446</id>
-        <link href="https://towardsdatascience.com/optimizing-deep-learning-models-with-sam/"/>
-        <updated>2026-02-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into the Sharpness-Aware-Minimization (SAM) algorithm and how it improves the generalizability of modern deep learning models
-The post Optimizing Deep Learning Models with SAM appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anindya Dey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lag Features and Rolling Features in Feature Engineering]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251769</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/lag-and-rolling-features/"/>
-        <updated>2026-02-24T13:27:42.000Z</updated>
-        <summary type="html"><![CDATA[The success of machine learning pipelines depends on feature engineering as their essential foundation. The two strongest methods for handling time series data are lag features and rolling features, according to your advanced techniques. The ability to use these techniques will enhance your model performance for sales forecasting, stock price prediction, and demand planning tasks. […]
-The post Lag Features and Rolling Features in Feature Engineering appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 No-Code AI Jobs of 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251795</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/ai-jobs-without-coding/"/>
-        <updated>2026-02-24T13:23:07.000Z</updated>
-        <summary type="html"><![CDATA[AI has quietly created a new category of high-paying jobs. Not just for engineers, but for people who know how to use it well. These are real roles, hired by companies like Google, OpenAI, Microsoft, and fast-growing startups. None of them require you to write code. What matters is how well you can work with […]
-The post Top 5 No-Code AI Jobs of 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Bots Formed a Cartel. No One Told Them To.]]></title>
-        <id>https://towardsdatascience.com/?p=608443</id>
-        <link href="https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/"/>
-        <updated>2026-02-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inside the research that shows algorithmic price-fixing isn't a bug in the code. It's a feature of the math.
-The post AI Bots Formed a Cartel. No One Told Them To. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kaushik Rajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Small Language Models: The Complete Guide for 2026]]></title>
-        <id>https://machinelearningmastery.com/?p=23384</id>
-        <link href="https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/"/>
-        <updated>2026-02-24T11:00:36.000Z</updated>
-        <summary type="html"><![CDATA[AI deployment is changing.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Open Source Vision Language Models (VLM) on Jetson]]></title>
-        <id>https://huggingface.co/blog/nvidia/cosmos-on-jetson</id>
-        <link href="https://huggingface.co/blog/nvidia/cosmos-on-jetson"/>
-        <updated>2026-02-24T00:00:21.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The persona selection model]]></title>
-        <id>dfoty34sT7CSKeJNn</id>
-        <link href="https://www.alignmentforum.org/posts/dfoty34sT7CSKeJNn/the-persona-selection-model"/>
-        <updated>2026-02-23T22:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Published on February 23, 2026 10:56 PM GMT
-
-TL;DR
-We describe the persona selection model (PSM): the idea that LLMs learn to simulate diverse characters during pre-training, and post-training elicits and refines a particular such Assistant persona. Interactions with an AI assistant are then well-understood as being interactions with the Assistant—something roughly like a character in an LLM-generated story. We survey empirical behavioral, generalization, and interpretability-based evidence for PSM. PSM has consequences for AI development, such as recommending anthropomorphic reasoning about AI psychology and introduction of positive AI archetypes into training data. An important open question is how exhaustive PSM is, especially whether there might be sources of agency external to the Ass…]]></summary>
-        <author>
-            <name>Sam Marks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the AI and Data Job Market Dead?]]></title>
-        <id>https://towardsdatascience.com/?p=608441</id>
-        <link href="https://towardsdatascience.com/is-the-ai-and-data-job-market-dead/"/>
-        <updated>2026-02-23T21:56:40.000Z</updated>
-        <summary type="html"><![CDATA[What you should be doing in the current job market
-The post Is the AI and Data Job Market Dead? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySpark for Pandas Users]]></title>
-        <id>https://towardsdatascience.com/?p=608439</id>
-        <link href="https://towardsdatascience.com/pyspark-for-pandas-users/"/>
-        <updated>2026-02-23T21:34:57.000Z</updated>
-        <summary type="html"><![CDATA[Common Pandas operations and their equivalents in PySpark
-The post PySpark for Pandas Users appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Multiple GPUs: Gradient Accumulation & Data Parallelism]]></title>
-        <id>https://towardsdatascience.com/?p=608437</id>
-        <link href="https://towardsdatascience.com/ai-in-multiple-gpus-grad-accum-data-parallelism/"/>
-        <updated>2026-02-23T21:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Learn and implement gradient accum and data parallelism from scratch in PyTorch
-The post AI in Multiple GPUs: Gradient Accumulation & Data Parallelism appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Lorenzo Cesconetto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Effective Internal Tooling with Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=608434</id>
-        <link href="https://towardsdatascience.com/build-effective-internal-tooling-with-claude-code/"/>
-        <updated>2026-02-23T19:13:25.000Z</updated>
-        <summary type="html"><![CDATA[Use Claude Code to quickly build completely personalized applications
-The post Build Effective Internal Tooling with Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering for Annotation in the ML Pipeline]]></title>
-        <id>https://www.rsipvision.com/?p=17187</id>
-        <link href="https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-1-designing-a-testable-protocol/"/>
-        <updated>2026-02-23T16:56:11.000Z</updated>
-        <summary type="html"><![CDATA[<!doctype html>   Engineering for Annotation in the ML Pipeline, Part 1: Designing a Testable Protocol Author: Eytan Slotnik Date: February 2026 Introduction Early collaboration between R&D and annotation saves time, reduces rework, and improves data quality. Data annotation is the bedrock of machine learning, and in medical AI it needs to meet both scientific …
-  Engineering for Annotation in the ML Pipeline Read More »
-The post Engineering for Annotation in the ML Pipeline appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 2.22.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:699c7d39b24ed9391bde273d</id>
-        <link href="https://www.eye-on.ai/ai-articles/efegm2z4j338alx-kkf2r-hb86d-yfk4x-cb54c-9h4le-an2fh-ysnas-6n4zg-e6dyc-4gp37-6lzyl-77j2y-hzk8y-lc8hd-7ehhg-xtbpx-pmma6-4g8jp-ldgsa-73ywx-cm4f5-hdyst-nsfpt-74j7l-fme2f-9r7m3-3lnj8"/>
-        <updated>2026-02-23T16:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
         </author>
     </entry>
 </feed>
