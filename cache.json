@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608715",
+          "author": "Jaemin Han",
+          "description": "What is p hacking, is it bad, and can you get ai to do it for you?\nThe post How to Lie with Statistics with your Robot Best Friend appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/",
+          "publishedOn": "2026-03-30T15:06:21.000Z",
+          "wordCount": 5317,
+          "title": "How to Lie with Statistics with your Robot Best Friend",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-310-1024x683-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608698",
+          "author": "TDS Editors",
+          "description": "Sara A. Metwalli on the rise of a promising new technology, the effects of LLM on her work, and more.\nThe post Why Data Scientists Should Care About Quantum Computing appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/",
+          "publishedOn": "2026-03-30T12:00:00.000Z",
+          "wordCount": 4147,
+          "title": "Why Data Scientists Should Care About Quantum Computing",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Copy-of-Author-Spotlight-29.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608709",
+          "author": "Emmimal P Alexander",
+          "description": "SHAP needs 30 ms to explain a fraud prediction. That explanation is stochastic, runs after the decision, and requires a background dataset you have to maintain at inference time. This article benchmarks a neuro-symbolic model that produces a deterministic, human-readable explanation in 0.9 ms — as a by-product of the forward pass itself — on the Kaggle Credit Card Fraud dataset. The speedup is 33×. The fraud recall is identical.\nThe post Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/",
+          "publishedOn": "2026-03-30T10:47:00.000Z",
+          "wordCount": 6420,
+          "title": "Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/SHAP-Vs-Neuro-symbolic.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608718",
           "author": "Egor Howell",
           "description": "Spoiler, it will take longer than 3 months\nThe post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared first on Towards Data Science.",
@@ -970,36 +1000,6 @@
           "wordCount": 6418,
           "title": "Claude Skills and Subagents: Escaping the Prompt Engineering Hamster Wheel",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/skills_mcp_subagents_architecture-scaled-1.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608485",
-          "author": "Hector Mejia",
-          "description": "A case study on techniques to maximize your clusters\nThe post Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/liquid-or-partitioned-salted-or-not-scaling-ml-inference-on-databricks/",
-          "publishedOn": "2026-02-28T13:00:00.000Z",
-          "wordCount": 5194,
-          "title": "Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-7.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608478",
-          "author": "Mahnoor Javed",
-          "description": "Implementing the classic Pong game in Python using OOP and Turtle\nThe post Coding the Pong Game from Scratch in Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/coding-the-pong-game-from-scratch-in-python/",
-          "publishedOn": "2026-02-27T16:30:00.000Z",
-          "wordCount": 6550,
-          "title": "Coding the Pong Game from Scratch in Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pong-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608476",
-          "author": "Manuel Franco de la Peña",
-          "description": "Start asking what question the explanation should answer.\nThe post Stop Asking if a Model Is Interpretable appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/",
-          "publishedOn": "2026-02-27T15:00:00.000Z",
-          "wordCount": 4126,
-          "title": "Stop Asking if a Model Is Interpretable",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/unnamed.jpg"
         }
       ]
     },
@@ -1177,16 +1177,6 @@
           "wordCount": 7625,
           "title": "Build Semantic Search with LLM Embeddings",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-building-simple-semantic-search-engine-hero-1024x572.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23461",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Using large language models (LLMs) — or their outputs, for that matter — for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long before language models emerged, has become something of a trend.",
-          "link": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/",
-          "publishedOn": "2026-02-27T14:40:25.000Z",
-          "wordCount": 7840,
-          "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-ipc-improving-time-series-forecasting-llm-embeddings-scaled.jpg"
         }
       ]
     },
@@ -1737,24 +1727,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a92d43ba-13e8-11f1-8b3b-9b101af4bb08",
-          "author": null,
-          "description": "NASA leaders Dana Weigel and Robyn Gatens reflect on more than 25 years of continuous human presence aboard the International Space Station and discuss how the orbiting laboratory is paving the way for Artemis, the Moon, and eventually Mars. HWHAP 413.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/low-earth-orbit-and-beyond/",
-          "publishedOn": "2026-02-27T14:42:00.000Z",
-          "wordCount": null,
-          "title": "Low Earth Orbit and Beyond",
-          "itunes": {
-            "duration": "3472"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6594425719.mp3?updated=1772203841",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1970,6 +1942,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253200",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Projects are the bridge between learning and becoming a professional. While theory builds fundamentals, recruiters value candidates who can solve real problems. A strong, diverse portfolio showcases practical skills, technical range, and problem-solving ability.  This guide compiles 20+ solved projects across ML domains, from basic regression and forecasting to NLP and Computer Vision. The tools […]\nThe post 20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/solved-ml-projects/",
+          "publishedOn": "2026-03-30T12:22:25.000Z",
+          "wordCount": null,
+          "title": "20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253075",
+          "author": "Vipin Vashisth",
+          "description": "Pandas DataFrames provide powerful tools for selecting and indexing data efficiently. The two most commonly used indexers are .loc and .iloc. The .loc method selects data using labels such as row and column names, while .iloc works with integer positions based on a 0-based index. Although they may seem similar, they function differently and can […]\nThe post Iloc vs Loc in Pandas: A Guide with Examples  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/03/iloc-vs-loc-in-pandas/",
+          "publishedOn": "2026-03-30T11:46:09.000Z",
+          "wordCount": null,
+          "title": "Iloc vs Loc in Pandas: A Guide with Examples",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253151",
           "author": "Sarthak Dogra",
@@ -2508,39 +2502,6 @@
           "title": "Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251905",
-          "author": "Sarthak Dogra",
-          "description": "I use AI a lot. But if I’m being honest, most of the time it feels like working with a brilliant intern who never actually touches the keyboard. It tells me what to do, suggests steps, and even drafts the perfect response. Yet I’m still the one switching tabs, filling forms, copying data, and stitching […]\nThe post Perplexity Computer is Here to Change the Way we Use AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/",
-          "publishedOn": "2026-02-28T12:49:26.000Z",
-          "wordCount": null,
-          "title": "Perplexity Computer is Here to Change the Way we Use AI",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251996",
-          "author": "Nitika Sharma",
-          "description": "Nano Banana Pro has been my personal favorite tool for creating high-quality social media posts, infographics, project flows, and more. Now, Google has upgraded it with Nano Banana Pro 2, and it’s a serious step up. The new version is not only faster than the previous model but also more affordable. In this article, I’ll […]\nThe post Nano Banana 2 vs Nano Banana Pro: What’s the Difference? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/",
-          "publishedOn": "2026-02-28T12:41:07.000Z",
-          "wordCount": null,
-          "title": "Nano Banana 2 vs Nano Banana Pro: What’s the Difference?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=251914",
-          "author": "Harsh Mishra",
-          "description": "You must have faced the never-ending wait of an AI model taking its time to answer your query. To put an end to this wait, the new Mercury 2 reasoning model of Inception Labs is now live. It works a bit differently from others. It employs diffusion to provide quality answers at nearly instant speed. […]\nThe post Mercury 2: The AI Model That Feels Instant appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/02/mercury-2-the-ai-model-that-feels-instant/",
-          "publishedOn": "2026-02-27T16:43:24.000Z",
-          "wordCount": null,
-          "title": "Mercury 2: The AI Model That Feels Instant",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2616,6 +2577,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/helping-disaster-response-teams-asia",
+          "author": null,
+          "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+          "publishedOn": "2026-03-29T22:15:00.000Z",
+          "wordCount": null,
+          "title": "Helping disaster response teams turn AI into action across Asia",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/stadler",
           "author": null,
@@ -2975,16 +2946,6 @@
           "wordCount": null,
           "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/our-agreement-with-the-department-of-war",
-          "author": null,
-          "description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-          "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-          "publishedOn": "2026-02-28T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Our agreement with the Department of War",
-          "imageUrl": null
         }
       ]
     },
@@ -2993,6 +2954,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
+          "author": "Florian Brand",
+          "description": "New orgs! New types of models! With Nemotron Super, Sarvam, Cohere Transcribe, & others",
+          "link": "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
+          "publishedOn": "2026-03-30T13:02:45.000Z",
+          "wordCount": null,
+          "title": "Latest open artifacts (#20): New orgs! New types of models! With Nemotron Super, Sarvam, Cohere Transcribe, & others",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!uD-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80b1a559-a0f5-4757-962c-1d9a21c17835_1024x576.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!uD-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80b1a559-a0f5-4757-962c-1d9a21c17835_1024x576.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/lossy-self-improvement",
           "author": "Nathan Lambert",
@@ -3096,6 +3073,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "2ANCyejqxfqK2obEj",
+          "author": "7vik",
+          "description": "Authors: Satvik Golechha*, Sid Black*, Joseph Bloom\n* Equal Contribution.\nThis work was done as part of the Model Transparency team at the UK AI Security Institute (AISI). Our code is available on GitHub and the model checkpoints and data is available on HuggingFace.\nExecutive Summary\nIn Natural Emergent Misalignment from Reward Hacking in Production RL (MacDiarmid et al., 2025), Anthropic recently demonstrated that language models that learn reward hacking in their production RL environments become emergently misaligned (EM). Their pipeline, illustrated below, proceeds from pre-training through to RL on coding tasks, where models that discover reward hacks subsequently exhibit misaligned behaviour on unrelated evaluations:\n\n\nFigure 0: The experimental pipeline from MacDiarmid et al. that …",
+          "link": "https://www.alignmentforum.org/posts/2ANCyejqxfqK2obEj/some-natural-emergent-misalignment-from-reward-hacking-in",
+          "publishedOn": "2026-03-30T10:56:10.000Z",
+          "wordCount": null,
+          "title": "(Some) Natural Emergent Misalignment from Reward Hacking in Non-Production RL",
+          "imageUrl": null
+        },
         {
           "id": "BwfydMhjuroqiZs4x",
           "author": "Andrea_Miotti",
@@ -3254,26 +3241,6 @@
           "publishedOn": "2026-03-02T07:14:36.000Z",
           "wordCount": null,
           "title": "How to Design Environments for Understanding Model Motives",
-          "imageUrl": null
-        },
-        {
-          "id": "TkBCR8XRGw7qmao6z",
-          "author": "Andrew_Critch",
-          "description": "Also available in markdown at theMultiplicity.ai/blog/schelling-goodness.\nThis post explores a notion I'll call Schelling goodness. Claims of Schelling goodness are not first-order moral verdicts like \"X is good\" or \"X is bad.\" They are claims about a class of hypothetical coordination games in the sense of Thomas Schelling, where the task being coordinated on is a moral verdict. In each such game, participants aim to give the same response regarding a moral question, by reasoning about what a very diverse population of intelligent beings would converge on, using only broadly shared constraints: common knowledge of the question at hand, and background knowledge from the survival and growth pressures that shape successful civilizations. Unlike many Schelling coordination games, we'll be foc…",
-          "link": "https://www.alignmentforum.org/posts/TkBCR8XRGw7qmao6z/schelling-goodness-and-shared-morality-as-a-goal",
-          "publishedOn": "2026-02-28T04:25:42.000Z",
-          "wordCount": null,
-          "title": "Schelling Goodness, and Shared Morality as a Goal",
-          "imageUrl": null
-        },
-        {
-          "id": "CDkbYSFTwggGE8mWp",
-          "author": "abramdemski",
-          "description": "I've been trying to gather my thoughts for my next tiling theorem (agenda write-up here; first paper; second paper; recent project update). I have a lot of ideas for how to improve upon my work so far, and trying to narrow them down to an achievable next step has been difficult. However, my mind keeps returning to specific friends who are not yet convinced of Updateless Decision Theory (UDT).\nI am not out to argue that UDT is the perfect decision theory; see eg here and here. However, I strongly believe that those who don't see the appeal of UDT are missing something. My plan for the present essay is not to simply argue for UDT, but it is close to that: I'll give my pro-UDT arguments very carefully, so as to argue against naively updateful theories (CDT and EDT) while leaving room for some…",
-          "link": "https://www.alignmentforum.org/posts/CDkbYSFTwggGE8mWp/coherent-care",
-          "publishedOn": "2026-02-27T21:59:41.000Z",
-          "wordCount": null,
-          "title": "Coherent Care",
           "imageUrl": null
         }
       ]

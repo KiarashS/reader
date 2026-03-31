@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-30T02:07:38.837Z</updated>
+    <updated>2026-03-31T02:06:15.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Lie with Statistics with your Robot Best Friend]]></title>
+        <id>https://towardsdatascience.com/?p=608715</id>
+        <link href="https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/"/>
+        <updated>2026-03-30T15:06:21.000Z</updated>
+        <summary type="html"><![CDATA[What is p hacking, is it bad, and can you get ai to do it for you?
+The post How to Lie with Statistics with your Robot Best Friend appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jaemin Han</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest open artifacts (#20): New orgs! New types of models! With Nemotron Super, Sarvam, Cohere Transcribe, & others]]></title>
+        <id>https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs</id>
+        <link href="https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs"/>
+        <updated>2026-03-30T13:02:45.000Z</updated>
+        <summary type="html"><![CDATA[New orgs! New types of models! With Nemotron Super, Sarvam, Cohere Transcribe, & others]]></summary>
+        <author>
+            <name>Florian Brand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253200</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/solved-ml-projects/"/>
+        <updated>2026-03-30T12:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Projects are the bridge between learning and becoming a professional. While theory builds fundamentals, recruiters value candidates who can solve real problems. A strong, diverse portfolio showcases practical skills, technical range, and problem-solving ability.  This guide compiles 20+ solved projects across ML domains, from basic regression and forecasting to NLP and Computer Vision. The tools […]
+The post 20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Data Scientists Should Care About Quantum Computing]]></title>
+        <id>https://towardsdatascience.com/?p=608698</id>
+        <link href="https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/"/>
+        <updated>2026-03-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sara A. Metwalli on the rise of a promising new technology, the effects of LLM on her work, and more.
+The post Why Data Scientists Should Care About Quantum Computing appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iloc vs Loc in Pandas: A Guide with Examples]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253075</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/03/iloc-vs-loc-in-pandas/"/>
+        <updated>2026-03-30T11:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Pandas DataFrames provide powerful tools for selecting and indexing data efficiently. The two most commonly used indexers are .loc and .iloc. The .loc method selects data using labels such as row and column names, while .iloc works with integer positions based on a 0-based index. Although they may seem similar, they function differently and can […]
+The post Iloc vs Loc in Pandas: A Guide with Examples  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Some) Natural Emergent Misalignment from Reward Hacking in Non-Production RL]]></title>
+        <id>2ANCyejqxfqK2obEj</id>
+        <link href="https://www.alignmentforum.org/posts/2ANCyejqxfqK2obEj/some-natural-emergent-misalignment-from-reward-hacking-in"/>
+        <updated>2026-03-30T10:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Satvik Golechha*, Sid Black*, Joseph Bloom
+* Equal Contribution.
+This work was done as part of the Model Transparency team at the UK AI Security Institute (AISI). Our code is available on GitHub and the model checkpoints and data is available on HuggingFace.
+Executive Summary
+In Natural Emergent Misalignment from Reward Hacking in Production RL (MacDiarmid et al., 2025), Anthropic recently demonstrated that language models that learn reward hacking in their production RL environments become emergently misaligned (EM). Their pipeline, illustrated below, proceeds from pre-training through to RL on coding tasks, where models that discover reward hacks subsequently exhibit misaligned behaviour on unrelated evaluations:
+
+
+Figure 0: The experimental pipeline from MacDiarmid et al. that …]]></summary>
+        <author>
+            <name>7vik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection]]></title>
+        <id>https://towardsdatascience.com/?p=608709</id>
+        <link href="https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/"/>
+        <updated>2026-03-30T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[SHAP needs 30 ms to explain a fraud prediction. That explanation is stochastic, runs after the decision, and requires a background dataset you have to maintain at inference time. This article benchmarks a neuro-symbolic model that produces a deterministic, human-readable explanation in 0.9 ms — as a by-product of the forward pass itself — on the Kaggle Credit Card Fraud dataset. The speedup is 33×. The fraud recall is identical.
+The post Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping disaster response teams turn AI into action across Asia]]></title>
+        <id>https://openai.com/index/helping-disaster-response-teams-asia</id>
+        <link href="https://openai.com/index/helping-disaster-response-teams-asia"/>
+        <updated>2026-03-29T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Become an AI Engineer Fast (Skills, Projects, Salary)]]></title>
         <id>https://towardsdatascience.com/?p=608718</id>
@@ -3060,124 +3152,6 @@ The post Context Engineering as Your Competitive Edge appeared first on Towards 
 The post Claude Skills and Subagents: Escaping the Prompt Engineering Hamster Wheel appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Ruben Broekx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not?]]></title>
-        <id>https://towardsdatascience.com/?p=608485</id>
-        <link href="https://towardsdatascience.com/liquid-or-partitioned-salted-or-not-scaling-ml-inference-on-databricks/"/>
-        <updated>2026-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A case study on techniques to maximize your clusters
-The post Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hector Mejia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perplexity Computer is Here to Change the Way we Use AI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251905</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/"/>
-        <updated>2026-02-28T12:49:26.000Z</updated>
-        <summary type="html"><![CDATA[I use AI a lot. But if I’m being honest, most of the time it feels like working with a brilliant intern who never actually touches the keyboard. It tells me what to do, suggests steps, and even drafts the perfect response. Yet I’m still the one switching tabs, filling forms, copying data, and stitching […]
-The post Perplexity Computer is Here to Change the Way we Use AI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nano Banana 2 vs Nano Banana Pro: What’s the Difference?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251996</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/"/>
-        <updated>2026-02-28T12:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Nano Banana Pro has been my personal favorite tool for creating high-quality social media posts, infographics, project flows, and more. Now, Google has upgraded it with Nano Banana Pro 2, and it’s a serious step up. The new version is not only faster than the previous model but also more affordable. In this article, I’ll […]
-The post Nano Banana 2 vs Nano Banana Pro: What’s the Difference? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our agreement with the Department of War]]></title>
-        <id>https://openai.com/index/our-agreement-with-the-department-of-war</id>
-        <link href="https://openai.com/index/our-agreement-with-the-department-of-war"/>
-        <updated>2026-02-28T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schelling Goodness, and Shared Morality as a Goal]]></title>
-        <id>TkBCR8XRGw7qmao6z</id>
-        <link href="https://www.alignmentforum.org/posts/TkBCR8XRGw7qmao6z/schelling-goodness-and-shared-morality-as-a-goal"/>
-        <updated>2026-02-28T04:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Also available in markdown at theMultiplicity.ai/blog/schelling-goodness.
-This post explores a notion I'll call Schelling goodness. Claims of Schelling goodness are not first-order moral verdicts like "X is good" or "X is bad." They are claims about a class of hypothetical coordination games in the sense of Thomas Schelling, where the task being coordinated on is a moral verdict. In each such game, participants aim to give the same response regarding a moral question, by reasoning about what a very diverse population of intelligent beings would converge on, using only broadly shared constraints: common knowledge of the question at hand, and background knowledge from the survival and growth pressures that shape successful civilizations. Unlike many Schelling coordination games, we'll be foc…]]></summary>
-        <author>
-            <name>Andrew_Critch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coherent Care]]></title>
-        <id>CDkbYSFTwggGE8mWp</id>
-        <link href="https://www.alignmentforum.org/posts/CDkbYSFTwggGE8mWp/coherent-care"/>
-        <updated>2026-02-27T21:59:41.000Z</updated>
-        <summary type="html"><![CDATA[I've been trying to gather my thoughts for my next tiling theorem (agenda write-up here; first paper; second paper; recent project update). I have a lot of ideas for how to improve upon my work so far, and trying to narrow them down to an achievable next step has been difficult. However, my mind keeps returning to specific friends who are not yet convinced of Updateless Decision Theory (UDT).
-I am not out to argue that UDT is the perfect decision theory; see eg here and here. However, I strongly believe that those who don't see the appeal of UDT are missing something. My plan for the present essay is not to simply argue for UDT, but it is close to that: I'll give my pro-UDT arguments very carefully, so as to argue against naively updateful theories (CDT and EDT) while leaving room for some…]]></summary>
-        <author>
-            <name>abramdemski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercury 2: The AI Model That Feels Instant]]></title>
-        <id>https://www.analyticsvidhya.com/?p=251914</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/02/mercury-2-the-ai-model-that-feels-instant/"/>
-        <updated>2026-02-27T16:43:24.000Z</updated>
-        <summary type="html"><![CDATA[You must have faced the never-ending wait of an AI model taking its time to answer your query. To put an end to this wait, the new Mercury 2 reasoning model of Inception Labs is now live. It works a bit differently from others. It employs diffusion to provide quality answers at nearly instant speed. […]
-The post Mercury 2: The AI Model That Feels Instant appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding the Pong Game from Scratch in Python]]></title>
-        <id>https://towardsdatascience.com/?p=608478</id>
-        <link href="https://towardsdatascience.com/coding-the-pong-game-from-scratch-in-python/"/>
-        <updated>2026-02-27T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Implementing the classic Pong game in Python using OOP and Turtle
-The post Coding the Pong Game from Scratch in Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahnoor Javed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Asking if a Model Is Interpretable]]></title>
-        <id>https://towardsdatascience.com/?p=608476</id>
-        <link href="https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/"/>
-        <updated>2026-02-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Start asking what question the explanation should answer.
-The post Stop Asking if a Model Is Interpretable appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Manuel Franco de la Peña</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low Earth Orbit and Beyond]]></title>
-        <id>a92d43ba-13e8-11f1-8b3b-9b101af4bb08</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/low-earth-orbit-and-beyond/"/>
-        <updated>2026-02-27T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA leaders Dana Weigel and Robyn Gatens reflect on more than 25 years of continuous human presence aboard the International Space Station and discuss how the orbiting laboratory is paving the way for Artemis, the Moon, and eventually Mars. HWHAP 413.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach]]></title>
-        <id>https://machinelearningmastery.com/?p=23461</id>
-        <link href="https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"/>
-        <updated>2026-02-27T14:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Using large language models (LLMs) — or their outputs, for that matter — for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long before language models emerged, has become something of a trend.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
 </feed>
