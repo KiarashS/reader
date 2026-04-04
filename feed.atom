@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-04-03T02:03:34.357Z</updated>
+    <updated>2026-04-04T01:56:42.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There should be $100M grants to automate AI safety]]></title>
+        <id>qdhyrN4uKwBAftmQx</id>
+        <link href="https://www.alignmentforum.org/posts/qdhyrN4uKwBAftmQx/there-should-be-usd100m-grants-to-automate-ai-safety"/>
+        <updated>2026-04-03T18:44:05.000Z</updated>
+        <summary type="html"><![CDATA[This post reflects my personal opinion and not necessarily that of other members of Apollo Research.
+TLDR: I think funders should heavily incentivize AI safety work that enables spending $100M+ in compute or API budgets on automated AI labor that directly and differentially translates to safety.
+Motivation
+I think we are in a short timeline world (and we should take the possibility seriously even if we don't have full confidence yet). This means that I think funders should aim to allocate large amounts of money (e.g. $1-50B per year across the ecosystem) on AI safety in the next 2-3 years. 
+I think that the AI safety funders have been allocating way too little funding and their spending has been far too conservative in the past 5 years. So, in my opinion, we should definitely continue ramp…]]></summary>
+        <author>
+            <name>Marius Hobbhahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253454</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/04/mamba4-explained/"/>
+        <updated>2026-04-03T17:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Transformers revolutionized AI but struggle with long sequences due to quadratic complexity, leading to high computational and memory costs that limit scalability and real-time use. This creates a need for faster, more efficient alternatives. Mamba4 addresses this using state space models with selective mechanisms, enabling linear-time processing while maintaining strong performance. It suits tasks like […]
+The post ​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemma 4 and what makes an open model succeed]]></title>
+        <id>https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model</id>
+        <link href="https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model"/>
+        <updated>2026-04-03T16:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Hint: it's not benchmark scores.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DenseNet Paper Walkthrough: All Connected]]></title>
+        <id>https://towardsdatascience.com/?p=608749</id>
+        <link href="https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/"/>
+        <updated>2026-04-03T14:21:00.000Z</updated>
+        <summary type="html"><![CDATA[When we try to train a very deep neural network model, one issue that we might encounter is the vanishing gradient problem. This is essentially a problem where the weight update of a model during training slows down or even stops, hence causing the model not to improve. When a network is very deep, the […]
+The post DenseNet Paper Walkthrough: All Connected appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Muhammad Ardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian]]></title>
+        <id>https://towardsdatascience.com/?p=608747</id>
+        <link href="https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/"/>
+        <updated>2026-04-03T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Persistent AI memory without embeddings, Pinecone, or a PhD in similarity search.
+The post I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nick Lawson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replit Agent Skills Complete Guide: Write Your Own Skills in Replit]]></title>
         <id>https://www.analyticsvidhya.com/?p=253475</id>
@@ -90,6 +147,26 @@ The post Quantum Simulations with Python appeared first on Towards Data Science.
 The post Claude Code Leak: 16 Lessons on Building Production-Ready AI Systems appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Riya Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My most common research advice: do quick sanity checks]]></title>
+        <id>dYHFtEnKc4BdJEYY4</id>
+        <link href="https://www.alignmentforum.org/posts/dYHFtEnKc4BdJEYY4/my-most-common-research-advice-do-quick-sanity-checks"/>
+        <updated>2026-04-02T02:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Written quickly as part of the Inkhaven Residency. 
+At a high level, research feedback I give to more junior research collaborators often can fall into one of three categories:
+
+Doing quick sanity checks
+Saying precisely what you want to say
+Asking why one more time
+
+In each case, I think the advice can be taken to an extreme I no longer endorse. Accordingly, I’ve tried to spell out the degree to which you should implement the advice, as well as what “taking it too far” might look like. 
+This piece covers doing quick sanity checks, which is the most common advice I give to junior researchers. I’ll cover the other two pieces of advice in a subsequent piece. 
+Doing quick sanity checks
+Research is hard (almost by definition) and people are often wrong. Every researcher has wasted countless ho…]]></summary>
+        <author>
+            <name>LawrenceC</name>
         </author>
     </entry>
     <entry>
@@ -3172,100 +3249,6 @@ The post Phi-4-reasoning-vision and the lessons of training a multimodal reasoni
 The post ​​Time Series Cross-Validation: A Guide to Techniques & Practical Implementation  appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escaping the Prototype Mirage: Why Enterprise AI Stalls]]></title>
-        <id>https://towardsdatascience.com/?p=608520</id>
-        <link href="https://towardsdatascience.com/escaping-the-prototype-mirage-why-enterprise-ai-stalls/"/>
-        <updated>2026-03-04T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too many prototypes, too few products
-The post Escaping the Prototype Mirage: Why Enterprise AI Stalls appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Reya Vir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG with Hybrid Search: How Does Keyword Search Work?]]></title>
-        <id>https://towardsdatascience.com/?p=608518</id>
-        <link href="https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/"/>
-        <updated>2026-03-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding keyword search, TF-IDF, and BM25
-The post RAG with Hybrid Search: How Does Keyword Search Work? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extending single-minus amplitudes to gravitons]]></title>
-        <id>https://openai.com/index/extending-single-minus-amplitudes-to-gravitons</id>
-        <link href="https://openai.com/index/extending-single-minus-amplitudes-to-gravitons"/>
-        <updated>2026-03-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding AI and learning outcomes]]></title>
-        <id>https://openai.com/index/understanding-ai-and-learning-outcomes</id>
-        <link href="https://openai.com/index/understanding-ai-and-learning-outcomes"/>
-        <updated>2026-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Axios uses AI to help deliver high-impact local journalism]]></title>
-        <id>https://openai.com/index/axios-allison-murphy</id>
-        <link href="https://openai.com/index/axios-allison-murphy"/>
-        <updated>2026-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Coloring You Can See]]></title>
-        <id>https://towardsdatascience.com/?p=608512</id>
-        <link href="https://towardsdatascience.com/graph-coloring-you-can-see-visual-intuition-with-python/"/>
-        <updated>2026-03-03T18:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Visual intuition with Python
-The post Graph Coloring You Can See appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rhyd Lewis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRX Part 3 — Training a Text-to-Image Model in 24h!]]></title>
-        <id>https://huggingface.co/blog/Photoroom/prx-part3</id>
-        <link href="https://huggingface.co/blog/Photoroom/prx-part3"/>
-        <updated>2026-03-03T16:50:49.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Photoroom on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest open artifacts (#19): Qwen 3.5, GLM 5, MiniMax 2.5 — Chinese labs' latest push of the frontier]]></title>
-        <id>https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35</id>
-        <link href="https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35"/>
-        <updated>2026-03-03T16:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the year of the horse!]]></summary>
-        <author>
-            <name>Florian Brand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Stop Writing Loops in Pandas]]></title>
-        <id>https://towardsdatascience.com/?p=608510</id>
-        <link href="https://towardsdatascience.com/stop-writing-loops-in-pandas-do-this-instead/"/>
-        <updated>2026-03-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to think in columns, write faster code, and finally use Pandas like a professional
-The post Why You Should Stop Writing Loops in Pandas  appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
         </author>
     </entry>
 </feed>
