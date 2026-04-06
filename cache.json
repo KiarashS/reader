@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608745",
+          "author": "Partha Sarkar",
+          "description": "A new way to build vector RAG—structure-aware and reasoning-capable\nThe post Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proxy-pointer-rag-achieving-vectorless-accuracy-at-vector-rag-scale-and-cost/",
+          "publishedOn": "2026-04-05T16:46:00.000Z",
+          "wordCount": 7323,
+          "title": "Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/proxy-pointer-2048x1143-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608759",
+          "author": "Benjamin Nweke",
+          "description": "Why it doesn’t fit my workflow but still makes sense for beginners\nThe post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/",
+          "publishedOn": "2026-04-05T13:00:00.000Z",
+          "wordCount": 4360,
+          "title": "A Data Scientist’s Take on the $599 MacBook Neo",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/kamil-switalski-zVBfEcNApE8-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608757",
           "author": "Thomas Reid",
           "description": "Using modern tooling to identify defects earlier in the software lifecycle.\nThe post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.",
@@ -950,36 +970,6 @@
           "wordCount": 6165,
           "title": "The Data Team’s Survival Guide for the Next Era of Data",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/0_icZjHF5hnpQqpNX7.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608534",
-          "author": "Yonatan Sason",
-          "description": "Same notification system, two architectures. Unstructured generation couples everything into a single module. Structured generation decomposes into independent components with explicit, one-directional dependencies. Image by the author\nThe post The Black Box Problem: Why AI-Generated Code Stops Being Maintainable appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/",
-          "publishedOn": "2026-03-06T13:30:00.000Z",
-          "wordCount": 4853,
-          "title": "The Black Box Problem: Why AI-Generated Code Stops Being Maintainable",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/two-architectures-diagram.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608532",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to write robust code with coding agents.\nThe post How to Create Production-Ready Code with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-create-production-ready-code-with-claude-code/",
-          "publishedOn": "2026-03-06T12:00:00.000Z",
-          "wordCount": 4564,
-          "title": "How to Create Production-Ready Code with Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-71-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608530",
-          "author": "Lorenzo Cesconetto",
-          "description": "Learn how Zero Redundancy Optimizer works, how to implement it from scratch, and how to use it in PyTorch\nThe post AI in Multiple GPUs: ZeRO & FSDP appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-in-multiple-gpus-zero-fsdp/",
-          "publishedOn": "2026-03-05T20:00:44.000Z",
-          "wordCount": 4935,
-          "title": "AI in Multiple GPUs: ZeRO & FSDP",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/zero-3.gif"
         }
       ]
     },
@@ -1410,16 +1400,6 @@
           "wordCount": 1538,
           "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/model-evaluation-skill.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-          "author": null,
-          "description": "A Blog post by NXP on Hugging Face",
-          "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-          "publishedOn": "2026-03-05T14:16:49.000Z",
-          "wordCount": 2008,
-          "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nxp/bringing-robotics-ai-to-embedded-platforms.png"
         }
       ]
     },
@@ -1782,21 +1762,6 @@
           "wordCount": 14228,
           "title": "Mastering Multi-Object Tracking with Roboflow Trackers & OpenCV",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/03/Roboflow_tracker.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=78585",
-          "author": "Satya Mallick",
-          "description": "Learn how to build a real-time face blur and pixelation app with OpenCV and YuNet in Python and C++. Detect faces from a webcam and anonymize them live.\nReal-Time Face Blur and Pixelation with OpenCV YuNet first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/face-blur-pixelation-opencv-yunet/",
-          "publishedOn": "2026-03-06T09:45:24.000Z",
-          "wordCount": 13069,
-          "title": "Real-Time Face Blur and Pixelation with OpenCV YuNet",
-          "enclosure": {
-            "url": "https://learnopencv.com/wp-content/uploads/2026/03/face-blur-vs-pixelate.mp4",
-            "length": "261956",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/03/face-blur-pixelation-opencv-yunet-thumbnail.jpg"
         }
       ]
     },
@@ -1922,6 +1887,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253074",
+          "author": "Badrinarayan M",
+          "description": "The evolution of artificial intelligence from stateless models to autonomous, goal-driven agents depends heavily on advanced memory architectures. While Large Language Models (LLMs) possess strong reasoning abilities and vast embedded knowledge, they lack persistent memory, making them unable to retain past interactions or adapt over time. This limitation leads to repeated context injection, increasing token […]\nThe post Architecture and Orchestration of Memory Systems in AI Agents appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/memory-systems-in-ai-agents/",
+          "publishedOn": "2026-04-05T17:32:55.000Z",
+          "wordCount": null,
+          "title": "Architecture and Orchestration of Memory Systems in AI Agents",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253344",
           "author": "Janvi Kumari",
@@ -2471,28 +2447,6 @@
           "title": "We Tried The New GPT-5.4 And it is The Most Powerful ChatGPT Has Ever Been",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252152",
-          "author": "Sarthak Dogra",
-          "description": "You don’t always go for a benchmark score to see which AI model fits your needs. Even the highest ranking models sometimes seem to miss the essence of a conversation entirely. What matters then is how fluid and helpful your conversations with AI are. Taking a step in this direction, OpenAI has now introduced an […]\nThe post New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/gpt-5-3-instant-update/",
-          "publishedOn": "2026-03-06T00:58:26.000Z",
-          "wordCount": null,
-          "title": "New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252142",
-          "author": "Sarthak Dogra",
-          "description": "Whenever I am to suggest a new AI tool to someone who is just starting out, there is one name I know can bring them unprecedented value. NotebookLM, the famous AI tool by Google, is just one-too-many solutions wrapped into a neat package of an “AI research tool.” It can summarise your notes, find you […]\nThe post NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/notebooklm-cinematic-video-overviews/",
-          "publishedOn": "2026-03-06T00:57:27.000Z",
-          "wordCount": null,
-          "title": "NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2807,36 +2761,6 @@
           "wordCount": null,
           "title": "OpenAI to acquire Promptfoo",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/codex-security-now-in-research-preview",
-          "author": null,
-          "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-          "link": "https://openai.com/index/codex-security-now-in-research-preview",
-          "publishedOn": "2026-03-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Codex Security: now in research preview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/descript",
-          "author": null,
-          "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-          "link": "https://openai.com/index/descript",
-          "publishedOn": "2026-03-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "How Descript enables multilingual video dubbing at scale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/balyasny-asset-management",
-          "author": null,
-          "description": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-          "link": "https://openai.com/index/balyasny-asset-management",
-          "publishedOn": "2026-03-06T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How Balyasny Asset Management built an AI research engine for investing",
-          "imageUrl": null
         }
       ]
     },
@@ -2924,38 +2848,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/07ccf41a-ab0e-4cb6-b24b-234ec18c39a7_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
-          "author": "Nathan Lambert",
-          "description": "Subtle precedents on the future of open models set by the unfolding Anthropic v. Department of War case.",
-          "link": "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
-          "publishedOn": "2026-03-06T14:03:27.000Z",
-          "wordCount": null,
-          "title": "Dean Ball on open models and government control",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/190039178/7266d8486e4b1ea88e5e56dd28dfe2de.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
-          "author": "Nathan Lambert",
-          "description": "The latest Olmo model and discussions at the frontier of open-source post training tools.",
-          "link": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
-          "publishedOn": "2026-03-05T16:16:44.000Z",
-          "wordCount": null,
-          "title": "Olmo Hybrid and future LLM architectures",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!7CIi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F634f5655-f362-4494-80ff-38c095b9caaf_2846x1128.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!7CIi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F634f5655-f362-4494-80ff-38c095b9caaf_2846x1128.png"
         }
       ]
     },
