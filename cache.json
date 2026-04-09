@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608784",
+          "author": "Sabrine Bendimerad",
+          "description": "Deep Web Data Is the Gold We Can't Touch, Yet\nThe post Why AI Is Training on Its Own Garbage (and How to Fix It) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/",
+          "publishedOn": "2026-04-08T16:30:00.000Z",
+          "wordCount": 4326,
+          "title": "Why AI Is Training on Its Own Garbage (and How to Fix It)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_2334pw2334pw2334-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608781",
+          "author": "Aleksandr Gapchenko",
+          "description": "A low-budget way to get token-level uncertainty estimation for neural machine translations\nThe post Detecting Translation Hallucinations with Attention Misalignment appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/",
+          "publishedOn": "2026-04-08T15:00:00.000Z",
+          "wordCount": 6149,
+          "title": "Detecting Translation Hallucinations with Attention Misalignment",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608779",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to effectively present product ideas by building MVPs with coding agents\nThe post How to Use Claude Code to Build a Minimum Viable Product appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-claude-code-to-build-a-minimum-viable-product/",
+          "publishedOn": "2026-04-08T13:30:00.000Z",
+          "wordCount": 4612,
+          "title": "How to Use Claude Code to Build a Minimum Viable Product",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-24.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608776",
+          "author": "Priyansh Bhardwaj",
+          "description": "A clear mental model and a practical foundation you can build on\nThe post Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/grounding-your-llm-a-practical-guide-to-rag-for-enterprise-knowledge-bases/",
+          "publishedOn": "2026-04-08T12:00:00.000Z",
+          "wordCount": 6356,
+          "title": "Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/brave_screenshot_miro.medium.com_-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608773",
           "author": "Shakti Kothari",
           "description": "A practical system design combining open-source Bayesian MMM and GenAI for transparent, vendor independent marketing analytics insights.\nThe post Democratizing Marketing Mix Models (MMM) with Open Source and Gen AI appeared first on Towards Data Science.",
@@ -960,36 +1000,6 @@
           "wordCount": 5742,
           "title": "I Stole a Wall Street Trick to Solve a Google Trends Data Problem",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Copy-of-GUILTY.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608553",
-          "author": "Zairah Mustahsan",
-          "description": "A five-step framework for building rigorous, reproducible AI search benchmarks — before you make six-figure infrastructure decisions \nThe post Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/",
-          "publishedOn": "2026-03-09T13:30:00.000Z",
-          "wordCount": 4366,
-          "title": "Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/a-chosen-soul-D_ivYIn4jWw-unsplash-1024x576.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608551",
-          "author": "Sabrine Bendimerad",
-          "description": "From one model to managing a massive portfolio: What 10 years in the industry taught me\nThe post Machine Learning at Scale: Managing More Than One Model in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/",
-          "publishedOn": "2026-03-09T12:00:00.000Z",
-          "wordCount": 4468,
-          "title": "Machine Learning at Scale: Managing More Than One Model in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_wiu3kzwiu3kzwiu3-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608549",
-          "author": "Thomas Reid",
-          "description": "Compile native, standalone applications using the Python syntax you already know.\nThe post Write C Code Without Learning C: The Magic of PythoC appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/",
-          "publishedOn": "2026-03-08T15:00:00.000Z",
-          "wordCount": 4848,
-          "title": "Write C Code Without Learning C: The Magic of PythoC",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_24r5024r5024r502-scaled-1.jpg"
         }
       ]
     },
@@ -1117,16 +1127,6 @@
           "wordCount": 9278,
           "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-turning-raw-text-into-ml-features-with-llms-1024x571.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23580",
-          "author": "Bala Priya C",
-          "description": "Memory helps <a href=\"https://www.",
-          "link": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/",
-          "publishedOn": "2026-03-09T11:00:55.000Z",
-          "wordCount": 8438,
-          "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-bpc-6-agentic-ai-memory-frameworks-scaled.jpg"
         }
       ]
     },
@@ -1182,6 +1182,26 @@
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
         {
+          "id": "https://huggingface.co/blog/ibm-research/altk-evolve",
+          "author": null,
+          "description": "A Blog post by IBM Research on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+          "publishedOn": "2026-04-08T14:27:42.000Z",
+          "wordCount": 1516,
+          "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/uxQyadM-_5UjGrNiwUGI0.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+          "publishedOn": "2026-04-08T00:00:00.000Z",
+          "wordCount": 1037,
+          "title": "Safetensors is Joining the PyTorch Foundation",
+          "imageUrl": "https://huggingface.co/blog/assets/safetensors-joins-pytorch-foundation/thumbnail.png"
+        },
+        {
           "id": "https://huggingface.co/blog/gemma4",
           "author": null,
           "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
@@ -1230,6 +1250,16 @@
           "wordCount": 1699,
           "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-vision.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+          "author": null,
+          "description": "A Blog post by OpenMed on Hugging Face",
+          "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+          "publishedOn": "2026-03-31T08:23:44.000Z",
+          "wordCount": 7073,
+          "title": "Training mRNA Language Models Across 25 Species for $165",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/5fd5e18a90b6dc4633f6d292/5dSAoMdQZBsLBS2mTPyWA.png"
         },
         {
           "id": "https://huggingface.co/blog/trl-v1",
@@ -1400,26 +1430,6 @@
           "wordCount": 506,
           "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-speech.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ulysses-sp",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/ulysses-sp",
-          "publishedOn": "2026-03-09T00:00:00.000Z",
-          "wordCount": 3028,
-          "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-          "imageUrl": "https://huggingface.co/blog/assets/ulysses/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/lerobot-release-v050",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/lerobot-release-v050",
-          "publishedOn": "2026-03-09T00:00:00.000Z",
-          "wordCount": 2057,
-          "title": "LeRobot v0.5.0: Scaling Every Dimension",
-          "imageUrl": "https://huggingface.co/blog/assets/lerobot-release-v050/thumbnail.png"
         }
       ]
     },
@@ -1809,6 +1819,26 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=35103",
+          "author": "Sujana Urs",
+          "description": "LiDAR is a core sensor used in autonomous systems to help machines understand their surroundings in three dimensions. It plays\nThe post Why LiDAR Perception Challenges Occur in Urban Settings appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/why-lidar-perception-challenges-occur-in-urban-settings/",
+          "publishedOn": "2026-04-08T16:50:24.000Z",
+          "wordCount": 2897,
+          "title": "Why LiDAR Perception Challenges Occur in Urban Settings",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-LiDAR-Perception-Challenges-Occur-in-Urban-Settings-scaled.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=34996",
+          "author": "Sujana Urs",
+          "description": "LiDAR point cloud annotation looks deceptively straightforward: draw a cuboid around an object, adjust its dimensions, move to the next\nThe post Minimum LiDAR Point Density in iMerit’s 3D Multi-Sensor Fusion Editor appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/minimum-lidar-point-density-in-imerits-3d-multi-sensor-fusion-editor/",
+          "publishedOn": "2026-04-08T06:35:30.000Z",
+          "wordCount": 2223,
+          "title": "Minimum LiDAR Point Density in iMerit’s 3D Multi-Sensor Fusion Editor",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Minimum-LiDAR-Point-Density-in-iMerits-3D-Multi-Sensor-Fusion-Editor.png"
+        },
+        {
           "id": "https://imerit.net/?p=34872",
           "author": "Sujana Urs",
           "description": "For several years, AI strategy was largely a benchmarking exercise. Organizations compared foundation model providers, invested in fine-tuning pipelines, and\nThe post Why AI Differentiation Has Shifted From Models to Operational Maturity appeared first on iMerit.",
@@ -1927,16 +1957,6 @@
           "wordCount": 2331,
           "title": "Active Learning for Robotics: Smarter Data Annotation for Perception Models",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Agriculture-technology-concept.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=33595",
-          "author": "Sujana Urs",
-          "description": "A bank deploys a GenAI assistant to summarize loan documents. Within weeks, it hallucinates a covenant term that never existed,\nThe post Designing Human-in-the-Loop Workflows for Financial GenAI Assistants appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/designing-human-in-the-loop-workflows-for-financial-genai-assistants/",
-          "publishedOn": "2026-03-09T06:21:59.000Z",
-          "wordCount": 2360,
-          "title": "Designing Human-in-the-Loop Workflows for Financial GenAI Assistants",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Human-in-the-loop.jpg"
         }
       ]
     },
@@ -1945,6 +1965,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253655",
+          "author": "Riya Bansal",
+          "description": "Most AI tools rely on the internet, sending your prompts to remote servers for processing before returning results. This process has always been invisible to users. Google changes that with Gemma 4! Which if configured properly, runs directly on your phone, eliminating the need for constant connectivity. With a one-time download, everything runs locally on […]\nThe post How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/run-gemma-4-on-your-phone/",
+          "publishedOn": "2026-04-08T17:16:49.000Z",
+          "wordCount": null,
+          "title": "How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253621",
+          "author": "Harsh Mishra",
+          "description": "Open-weight models are driving the latest excitement in the AI landscape. Running powerful models locally improves privacy, cuts costs, and enables offline use. But the open-source models are far and few! But Google‘s Gemma 4 is here to change that! This guide walks through what Gemma 4 is, would explores its variants, and outlines the […]\nThe post Running Gemma 4 Locally with Ollama on Your PC appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/running-gemma-4-locally/",
+          "publishedOn": "2026-04-08T17:15:53.000Z",
+          "wordCount": null,
+          "title": "Running Gemma 4 Locally with Ollama on Your PC",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253558",
           "author": "Riya Bansal",
@@ -2483,28 +2525,6 @@
           "title": "Claude Flow: The AI Orchestration Framework Redefining Multi-Agent Automation",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252233",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Having the right certificate can make all the difference. But with so many out there, getting the right one isn’t easy. That’s where Anthropic Academy comes in. Anthropic, the company behind the Claude AI models, has introduced a learning platform through its Skilljar academy that offers structured AI courses designed for building modern AI systems. These […]\nThe post Top 7 Free Anthropic AI Academy Courses with Certificates appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/free-anthropic-ai-courses-with-certificates/",
-          "publishedOn": "2026-03-09T12:31:39.000Z",
-          "wordCount": null,
-          "title": "Top 7 Free Anthropic AI Academy Courses with Certificates",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252220",
-          "author": "Riya Bansal",
-          "description": "AI development is accelerating fast. Advances in hardware, software optimization, and better datasets now allow training runs that once took weeks to finish in hours. A recent update from AI researcher Andrej Karpathy shows this shift clearly: the Nanochat open-source project can now train a GPT-2 model on a single node with 8× NVIDIA H100 […]\nThe post Nanochat Can Now Train a GPT-2 Level Model in Just 2 Hours appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/nanochat-gpt-2-training/",
-          "publishedOn": "2026-03-09T09:27:52.000Z",
-          "wordCount": null,
-          "title": "Nanochat Can Now Train a GPT-2 Level Model in Just 2 Hours",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2570,6 +2590,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "author": null,
+          "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+          "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "publishedOn": "2026-04-08T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The next phase of enterprise AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-child-safety-blueprint",
+          "author": null,
+          "description": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+          "link": "https://openai.com/index/introducing-child-safety-blueprint",
+          "publishedOn": "2026-04-08T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the Child Safety Blueprint",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-openai-safety-fellowship",
           "author": null,
@@ -2828,16 +2868,6 @@
           "publishedOn": "2026-03-10T10:00:00.000Z",
           "wordCount": null,
           "title": "New ways to learn math and science in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-to-acquire-promptfoo",
-          "author": null,
-          "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-          "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-          "publishedOn": "2026-03-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI to acquire Promptfoo",
           "imageUrl": null
         }
       ]
@@ -3162,16 +3192,6 @@
           "publishedOn": "2026-03-09T18:50:29.000Z",
           "wordCount": null,
           "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
-          "imageUrl": null
-        },
-        {
-          "id": "LaCP6WyNzX8kiZn3w",
-          "author": "transhumanist_atom_understander",
-          "description": "The context is MIRI's twist on Axelrod's Prisoner's Dilemma tournament.\nAxelrod's competitors were programs, facing each other in an iterated Prisoner's Dilemma.\nMIRI's tournament is a one-shot Prisoner's Dilemma, but the programs get to read their opponent's code.\nOr, rather, a description of the behavior of the code in Gödel-Löb provability logic, which turns out to be enough to determine their behavior in the setup.\nOne fun result, right in the beginning of the paper, is about a program, FairBot, whose behavior is specified by \"I'll cooperate with you if you (provably) cooperate with me\".\nDespite the appearance of circularity, FairBot cooperates with itself.\nThe proof involves Löb's theorem, so we call this Löbian cooperation.\nAndrew Critch has suggested another way of proving self-coop…",
-          "link": "https://www.alignmentforum.org/posts/LaCP6WyNzX8kiZn3w/payorian-cooperation-is-easy-with-kripke-frames",
-          "publishedOn": "2026-03-09T00:29:39.000Z",
-          "wordCount": null,
-          "title": "Payorian cooperation is easy with Kripke frames",
           "imageUrl": null
         }
       ]
