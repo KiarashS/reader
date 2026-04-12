@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608809",
+          "author": "Ian Ho",
+          "description": "A deep-dive and practical guide to cross-encoders, advanced techniques, and why your retrieval pipeline deserves a second pass.\nThe post Advanced RAG Retrieval: Cross-Encoders & Reranking appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/",
+          "publishedOn": "2026-04-11T15:00:00.000Z",
+          "wordCount": 8766,
+          "title": "Advanced RAG Retrieval: Cross-Encoders & Reranking",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/bi-encoder-vs-cross-encoder-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608806",
+          "author": "Chanin Nantasenamat",
+          "description": "AI coding assistants need a persistent memory layer to overcome the statelessness of LLMs and improve code quality by systematically providing context across sessions.\nThe post Why Every AI Coding Assistant Needs a Memory Layer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/",
+          "publishedOn": "2026-04-11T13:00:00.000Z",
+          "wordCount": 5007,
+          "title": "Why Every AI Coding Assistant Needs a Memory Layer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/memory-cover-image-8Apr2026-1024x683.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608825",
+          "author": "Adam Streck",
+          "description": "A step-by-step interactive guide to one of the most vexing areas of machine learning. \nThe post Introduction to Reinforcement Learning Agents with the Unity Game Engine  appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/",
+          "publishedOn": "2026-04-11T12:00:00.000Z",
+          "wordCount": 5077,
+          "title": "Introduction to Reinforcement Learning Agents with the Unity Game Engine",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/promo-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608803",
           "author": "Salvatore Cagliari",
           "description": "Since September 2025, we have had Calendar-based Time Intelligence in Power BI and Fabric Tabular models. While this feature offers great possibilities, we must be aware of its pitfalls. Here are some of them.\nThe post When Things Get Weird with Custom Calendars in Tabular Models appeared first on Towards Data Science.",
@@ -965,46 +995,6 @@
           "wordCount": 6466,
           "title": "Solving the Human Training Data Problem",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-4-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608584",
-          "author": "Oleg Tereshin",
-          "description": "Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy.\nThe post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/649627-2/",
-          "publishedOn": "2026-03-12T13:30:00.000Z",
-          "wordCount": 5179,
-          "title": "Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-6-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608580",
-          "author": "Ibrahim Salami",
-          "description": "A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure\nThe post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/",
-          "publishedOn": "2026-03-12T12:00:00.000Z",
-          "wordCount": 5757,
-          "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/AI-Application.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608578",
-          "author": "Adnan Shahbaaz",
-          "description": "Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance.\nThe post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/",
-          "publishedOn": "2026-03-11T16:30:00.000Z",
-          "wordCount": 5893,
-          "title": "An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/volcano-distribution-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608576",
-          "author": "Rukshan Pramoditha",
-          "description": "Understanding why spectral clustering outperforms K-means\nThe post Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/",
-          "publishedOn": "2026-03-11T15:00:00.000Z",
-          "wordCount": 4853,
-          "title": "Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/geralt-lines-520432_1920.jpg"
         }
       ]
     },
@@ -1102,16 +1092,6 @@
           "wordCount": 8822,
           "title": "Everything You Need to Know About Recursive Language Models",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-everything-you-need-to-know-about-recursive-language-models-1024x572.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23597",
-          "author": "Nate Rosidi",
-          "description": "Most people who want to build <a href=\"https://www.",
-          "link": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/",
-          "publishedOn": "2026-03-12T11:00:38.000Z",
-          "wordCount": 8947,
-          "title": "Building Smart Machine Learning in Low-Resource Settings",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-smart-ml-low-resource-settings.png"
         }
       ]
     },
@@ -1385,16 +1365,6 @@
           "wordCount": 2383,
           "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-          "publishedOn": "2026-03-11T15:50:15.000Z",
-          "wordCount": 938,
-          "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/synthetic-code-concepts.png"
         }
       ]
     },
@@ -1930,6 +1900,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=253770",
+          "author": "Janvi Kumari",
+          "description": "Topic modeling uncovers hidden themes in large document collections. Traditional methods like Latent Dirichlet Allocation rely on word frequency and treat text as bags of words, often missing deeper context and meaning. BERTopic takes a different route, combining transformer embeddings, clustering, and c-TF-IDF to capture semantic relationships between documents. It produces more meaningful, context-aware topics […]\nThe post Understanding BERTopic: From Raw Text to Interpretable Topics  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/",
+          "publishedOn": "2026-04-11T08:16:57.000Z",
+          "wordCount": null,
+          "title": "Understanding BERTopic: From Raw Text to Interpretable Topics",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=253762",
           "author": "Riya Bansal",
           "description": "Most AI workflows follow the same loop: you upload files, ask a question, get an answer, and then everything resets. Nothing sticks. For large codebases or research collections, this becomes inefficient fast. Even when you revisit the same material, the model rereads it from scratch instead of building on prior context or insights. Andrej Karpathy […]\nThe post From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here  appeared first on Analytics Vidhya.",
@@ -2456,39 +2437,6 @@
           "title": "AI vs Generative AI: Key Differences, Models, and Real-World Uses",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252308",
-          "author": "Sarthak Dogra",
-          "description": "This is not another of those ‘AI is killing jobs’ reports. Anthropic, in a new research, seems to have asked the deeper questions this time. Its latest labour-market study asks what happens when we stop guessing which jobs AI could affect. What if we, instead, start measuring where it is actually showing up inside real […]\nThe post Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/",
-          "publishedOn": "2026-03-12T13:33:00.000Z",
-          "wordCount": null,
-          "title": "Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252421",
-          "author": "Janvi Kumari",
-          "description": "Google recently introduced Gemini Embedding 2, its first natively multimodal embedding model. This is an important step forward because it brings text, images, video, audio, and documents into a single shared embedding space. Instead of working with separate models for each type of data, developers can now use one embedding model across multiple modalities for […]\nThe post Building a Real Image Matching Project with Gemini Embedding 2 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/gemini-embedding-2/",
-          "publishedOn": "2026-03-12T13:12:35.000Z",
-          "wordCount": null,
-          "title": "Building a Real Image Matching Project with Gemini Embedding 2",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252316",
-          "author": "Janvi Kumari",
-          "description": "MongoDB is a widely used NoSQL database that stores data in flexible documents similar to JSON objects rather than traditional tables and rows. This document-based structure makes it easier to handle complex or frequently changing data, which is why MongoDB is commonly used in modern web applications, analytics platforms, and large-scale data systems. Developers can […]\nThe post MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/mongodb-compass/",
-          "publishedOn": "2026-03-11T17:04:55.000Z",
-          "wordCount": null,
-          "title": "MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2508,28 +2456,7 @@
       "title": "RSIP Vision",
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
-      "articles": [
-        {
-          "id": "https://www.rsipvision.com/?p=17242",
-          "author": "David M",
-          "description": "Tampa, FL | March 25–28, 2026 RSIP Vision will be at SAGES 2026 RSIP Vision is heading to Tampa for the SAGES Annual Meeting. If you’re attending, we’d love to connect and discuss how AI and computer vision are advancing minimally invasive and endoscopic surgery. Our work helps enable: • Landmarks detection, segmentation, and automated …\n  RSIP Vision is attending SAGES 2026 in Tampa, FL Read More »\nThe post RSIP Vision is attending SAGES 2026 in Tampa, FL appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/rsip-vision-is-attending-sages-2026-in-tampa-fl/",
-          "publishedOn": "2026-03-11T16:34:51.000Z",
-          "wordCount": 2300,
-          "title": "RSIP Vision is attending SAGES 2026 in Tampa, FL",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/02/img_es_event_SAGES-2026.webp"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17236",
-          "author": "David M",
-          "description": "Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Author: Eytan Slotnik Date: March 11, 2026 Introduction If we rely on annotations to represent the truth, how can we test them? A standard machine learning workflow …\n  Engineering for Annotation in the ML Pipeline | Part 2 Read More »\nThe post Engineering for Annotation in the ML Pipeline | Part 2 appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-2/",
-          "publishedOn": "2026-03-11T15:28:07.000Z",
-          "wordCount": 3693,
-          "title": "Engineering for Annotation in the ML Pipeline | Part 2",
-          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-11-2026-11_36_35-AM-1024x683.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "RSIP Vision Learns Archives - RSIP Vision",
@@ -3052,6 +2979,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+          "author": "Nathan Lambert",
+          "description": "And yes, I hate consortia too.",
+          "link": "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
+          "publishedOn": "2026-04-11T13:02:06.000Z",
+          "wordCount": null,
+          "title": "The inevitable need for an open model consortium",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/18174b65-ddde-40ad-a82b-55467fecbc10_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/18174b65-ddde-40ad-a82b-55467fecbc10_3182x1790.png"
+        },
+        {
           "id": "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
           "author": "Nathan Lambert",
           "description": "Another dance around fears of open-source.",
@@ -3332,16 +3275,6 @@
           "publishedOn": "2026-03-13T00:12:43.000Z",
           "wordCount": null,
           "title": "Operationalizing FDT",
-          "imageUrl": null
-        },
-        {
-          "id": "Tk4SF8qFdMrzGJGGw",
-          "author": "aryaj",
-          "description": "This work was conducted during the MATS 9.0 program under Neel Nanda and Senthooran Rajamanoharan.\n\nThere's been a lot of buzz around Claude's 30K word constitution (\"soul doc\"), and unusual ways Anthropic is integrating it into training.\nIf we can robustly train complex and nuanced values into a model, this would be a big deal for safety! But does it actually work?\nThis is a preliminary investigation we did to test this. We decomposed the soul doc into 205 testable tenets and ran adversarial multi-turn scenarios against seven models using the Petri auditing agent.\nAnthropic has gotten much better at training the model to follow its constitution! Sonnet 4.6 has a 1.9% violation rate, Opus 4.6 is at 2.9%, and Opus 4.5 is at 4.4%.\nAs a control, Sonnet 4, which did not have special soul doc t…",
-          "link": "https://www.alignmentforum.org/posts/Tk4SF8qFdMrzGJGGw/how-well-do-models-follow-their-constitutions",
-          "publishedOn": "2026-03-12T00:07:10.000Z",
-          "wordCount": null,
-          "title": "How well do models follow their constitutions?",
           "imageUrl": null
         }
       ]

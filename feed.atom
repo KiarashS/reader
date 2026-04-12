@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-04-11T02:00:59.722Z</updated>
+    <updated>2026-04-12T02:14:05.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced RAG Retrieval: Cross-Encoders & Reranking]]></title>
+        <id>https://towardsdatascience.com/?p=608809</id>
+        <link href="https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/"/>
+        <updated>2026-04-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A deep-dive and practical guide to cross-encoders, advanced techniques, and why your retrieval pipeline deserves a second pass.
+The post Advanced RAG Retrieval: Cross-Encoders & Reranking appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ian Ho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The inevitable need for an open model consortium]]></title>
+        <id>https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model</id>
+        <link href="https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model"/>
+        <updated>2026-04-11T13:02:06.000Z</updated>
+        <summary type="html"><![CDATA[And yes, I hate consortia too.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Every AI Coding Assistant Needs a Memory Layer]]></title>
+        <id>https://towardsdatascience.com/?p=608806</id>
+        <link href="https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/"/>
+        <updated>2026-04-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants need a persistent memory layer to overcome the statelessness of LLMs and improve code quality by systematically providing context across sessions.
+The post Why Every AI Coding Assistant Needs a Memory Layer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chanin Nantasenamat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Reinforcement Learning Agents with the Unity Game Engine]]></title>
+        <id>https://towardsdatascience.com/?p=608825</id>
+        <link href="https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/"/>
+        <updated>2026-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step interactive guide to one of the most vexing areas of machine learning. 
+The post Introduction to Reinforcement Learning Agents with the Unity Game Engine  appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Adam Streck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding BERTopic: From Raw Text to Interpretable Topics]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253770</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/"/>
+        <updated>2026-04-11T08:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Topic modeling uncovers hidden themes in large document collections. Traditional methods like Latent Dirichlet Allocation rely on word frequency and treat text as bags of words, often missing deeper context and meaning. BERTopic takes a different route, combining transformer embeddings, clustering, and c-TF-IDF to capture semantic relationships between documents. It produces more meaningful, context-aware topics […]
+The post Understanding BERTopic: From Raw Text to Interpretable Topics  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here]]></title>
         <id>https://www.analyticsvidhya.com/?p=253762</id>
@@ -3141,143 +3195,6 @@ The post AI vs Generative AI: Key Differences, Models, and Real-World Uses appea
 The post Solving the Human Training Data Problem appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Jonathan Yahav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact]]></title>
-        <id>https://www.analyticsvidhya.com/?p=252308</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/"/>
-        <updated>2026-03-12T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[This is not another of those ‘AI is killing jobs’ reports. Anthropic, in a new research, seems to have asked the deeper questions this time. Its latest labour-market study asks what happens when we stop guessing which jobs AI could affect. What if we, instead, start measuring where it is actually showing up inside real […]
-The post Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction]]></title>
-        <id>https://towardsdatascience.com/?p=608584</id>
-        <link href="https://towardsdatascience.com/649627-2/"/>
-        <updated>2026-03-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy.
-The post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Oleg Tereshin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Real Image Matching Project with Gemini Embedding 2]]></title>
-        <id>https://www.analyticsvidhya.com/?p=252421</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/gemini-embedding-2/"/>
-        <updated>2026-03-12T13:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Google recently introduced Gemini Embedding 2, its first natively multimodal embedding model. This is an important step forward because it brings text, images, video, audio, and documents into a single shared embedding space. Instead of working with separate models for each type of data, developers can now use one embedding model across multiple modalities for […]
-The post Building a Real Image Matching Project with Gemini Embedding 2 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Finally Built My First AI App (And It Wasn’t What I Expected)]]></title>
-        <id>https://towardsdatascience.com/?p=608580</id>
-        <link href="https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/"/>
-        <updated>2026-03-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure
-The post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Smart Machine Learning in Low-Resource Settings]]></title>
-        <id>https://machinelearningmastery.com/?p=23597</id>
-        <link href="https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"/>
-        <updated>2026-03-12T11:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Most people who want to build <a href="https://www.]]></summary>
-        <author>
-            <name>Nate Rosidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How well do models follow their constitutions?]]></title>
-        <id>Tk4SF8qFdMrzGJGGw</id>
-        <link href="https://www.alignmentforum.org/posts/Tk4SF8qFdMrzGJGGw/how-well-do-models-follow-their-constitutions"/>
-        <updated>2026-03-12T00:07:10.000Z</updated>
-        <summary type="html"><![CDATA[This work was conducted during the MATS 9.0 program under Neel Nanda and Senthooran Rajamanoharan.
-
-There's been a lot of buzz around Claude's 30K word constitution ("soul doc"), and unusual ways Anthropic is integrating it into training.
-If we can robustly train complex and nuanced values into a model, this would be a big deal for safety! But does it actually work?
-This is a preliminary investigation we did to test this. We decomposed the soul doc into 205 testable tenets and ran adversarial multi-turn scenarios against seven models using the Petri auditing agent.
-Anthropic has gotten much better at training the model to follow its constitution! Sonnet 4.6 has a 1.9% violation rate, Opus 4.6 is at 2.9%, and Opus 4.5 is at 4.4%.
-As a control, Sonnet 4, which did not have special soul doc t…]]></summary>
-        <author>
-            <name>aryaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface]]></title>
-        <id>https://www.analyticsvidhya.com/?p=252316</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/mongodb-compass/"/>
-        <updated>2026-03-11T17:04:55.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB is a widely used NoSQL database that stores data in flexible documents similar to JSON objects rather than traditional tables and rows. This document-based structure makes it easier to handle complex or frequently changing data, which is why MongoDB is commonly used in modern web applications, analytics platforms, and large-scale data systems. Developers can […]
-The post MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSIP Vision is attending SAGES 2026 in Tampa, FL]]></title>
-        <id>https://www.rsipvision.com/?p=17242</id>
-        <link href="https://www.rsipvision.com/rsip-vision-is-attending-sages-2026-in-tampa-fl/"/>
-        <updated>2026-03-11T16:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Tampa, FL | March 25–28, 2026 RSIP Vision will be at SAGES 2026 RSIP Vision is heading to Tampa for the SAGES Annual Meeting. If you’re attending, we’d love to connect and discuss how AI and computer vision are advancing minimally invasive and endoscopic surgery. Our work helps enable: • Landmarks detection, segmentation, and automated …
-  RSIP Vision is attending SAGES 2026 in Tampa, FL Read More »
-The post RSIP Vision is attending SAGES 2026 in Tampa, FL appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm]]></title>
-        <id>https://towardsdatascience.com/?p=608578</id>
-        <link href="https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/"/>
-        <updated>2026-03-11T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance.
-The post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Adnan Shahbaaz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds]]></title>
-        <id>https://huggingface.co/blog/nvidia/synthetic-code-concepts</id>
-        <link href="https://huggingface.co/blog/nvidia/synthetic-code-concepts"/>
-        <updated>2026-03-11T15:50:15.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering for Annotation in the ML Pipeline | Part 2]]></title>
-        <id>https://www.rsipvision.com/?p=17236</id>
-        <link href="https://www.rsipvision.com/engineering-for-annotation-in-the-ml-pipeline-part-2/"/>
-        <updated>2026-03-11T15:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Engineering for Annotation in the ML Pipeline, Part 2: Creating Consensus and Quality Control Author: Eytan Slotnik Date: March 11, 2026 Introduction If we rely on annotations to represent the truth, how can we test them? A standard machine learning workflow …
-  Engineering for Annotation in the ML Pipeline | Part 2 Read More »
-The post Engineering for Annotation in the ML Pipeline | Part 2 appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures]]></title>
-        <id>https://towardsdatascience.com/?p=608576</id>
-        <link href="https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/"/>
-        <updated>2026-03-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding why spectral clustering outperforms K-means
-The post Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rukshan Pramoditha</name>
         </author>
     </entry>
 </feed>
