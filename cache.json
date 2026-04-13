@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608827",
+          "author": "Benjamin Nweke",
+          "description": "Why storing and retrieving data isn’t enough to build reliable AI memory systems\nThe post Stop Treating AI Memory Like a Search Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/",
+          "publishedOn": "2026-04-12T16:00:00.000Z",
+          "wordCount": 7656,
+          "title": "Stop Treating AI Memory Like a Search Problem",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_1rsfbq1rsfbq1rsf-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608814",
+          "author": "Ibrahim Salami",
+          "description": "Master method chaining, assign(), and pipe() to write cleaner, testable, production-ready Pandas code\nThe post Write Pandas Like a Pro With Method Chaining Pipelines appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/",
+          "publishedOn": "2026-04-12T15:00:00.000Z",
+          "wordCount": 6035,
+          "title": "Write Pandas Like a Pro With Method Chaining Pipelines",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/method-chaining.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608812",
+          "author": "Emmimal P Alexander",
+          "description": "Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural flaws. This article shows why prompt tuning won’t fix it, and the three structural changes that eliminate wasted retries entirely.\nThe post Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/",
+          "publishedOn": "2026-04-12T13:00:00.000Z",
+          "wordCount": 6951,
+          "title": "Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Your-ReAct-Agent-Is-Wasting-90-of-Its-Retries-—-And-You-Dont-Even-See-It.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608809",
           "author": "Ian Ho",
           "description": "A deep-dive and practical guide to cross-encoders, advanced techniques, and why your retrieval pipeline deserves a second pass.\nThe post Advanced RAG Retrieval: Cross-Encoders & Reranking appeared first on Towards Data Science.",
@@ -955,46 +985,6 @@
           "wordCount": 4208,
           "title": "Personalized Restaurant Ranking with a Two-Tower Embedding Variant",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/abillion-F0e3AdcwVbM-unsplash-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608591",
-          "author": "Kenneth McCarthy",
-          "description": "Imagine you are analyzing a small dataset: You want to calculate some summary statistics to get an idea of the distribution of this data, so you use numpy to calculate the mean and variance. Your output Looks like this: Great! Now you have an idea of the distribution of your data. However, your colleague comes […]\nThe post A Tale of Two Variances: Why NumPy and Pandas Give Different Answers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/",
-          "publishedOn": "2026-03-13T13:30:00.000Z",
-          "wordCount": 4457,
-          "title": "A Tale of Two Variances: Why NumPy and Pandas Give Different Answers",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/variance_article_image-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608589",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to build a powerful agentic RAG system\nThe post How to Build Agentic RAG with Hybrid Search appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/",
-          "publishedOn": "2026-03-13T12:00:00.000Z",
-          "wordCount": 4076,
-          "title": "How to Build Agentic RAG with Hybrid Search",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-128.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608587",
-          "author": "JUNIOR JUMBONG",
-          "description": "Understanding default risk through statistical analysis of borrower and loan characteristics.\nThe post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/",
-          "publishedOn": "2026-03-12T16:30:00.000Z",
-          "wordCount": 6459,
-          "title": "Exploratory Data Analysis for Credit Scoring with Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-8-mars-2026-01_27_11.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608585",
-          "author": "Jonathan Yahav",
-          "description": "How AI has completely transformed the way I study as a graduate student\nThe post Solving the Human Training Data Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/solving-the-human-training-data-problem/",
-          "publishedOn": "2026-03-12T15:00:00.000Z",
-          "wordCount": 6466,
-          "title": "Solving the Human Training Data Problem",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-4-1.jpg"
         }
       ]
     },
@@ -1355,16 +1345,6 @@
           "wordCount": 1873,
           "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6172d79a6c2ff4e51d0ea593/Qflw9K3iqWZf269xwE-CP.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-          "publishedOn": "2026-03-13T01:02:47.000Z",
-          "wordCount": 2383,
-          "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place.png"
         }
       ]
     },
@@ -1438,21 +1418,6 @@
           "wordCount": 14349,
           "title": "Will machines ever be intelligent?",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Episode-1-Doug-Nicolo-Subutai_TheShapeofThings_TW_LI_FB_1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1163539",
-          "author": "Shraddha Barke, Arnav Goyal, Alind Khare, Chetan Bansal",
-          "description": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […]\nThe post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
-          "publishedOn": "2026-03-12T16:38:45.000Z",
-          "wordCount": 3373,
-          "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
-          "enclosure": {
-            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AgentRx-framework.mp4",
-            "length": "29894728",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AgentRx-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1472,18 +1437,7 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed.xml",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": [
-        {
-          "id": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
-          "author": null,
-          "description": "-->\n\nUnderstanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the decision-making process more transparent to model builders and impacted humans, a step toward safer and more trustworthy AI. To gain a comprehensive understanding, we can analyze these systems through different lenses: feature attribution, which isolates the specific input features driving a prediction (Lundberg & Lee, 2017; Ribeiro et al., 2022); data attribution, which links model behaviors to influential training examples (Koh & Liang, 2017; Ilyas et al., 2022); and mechanistic interpretability, which dissects the functions of internal components (Conmy et al., 2023; Sharkey e…",
-          "link": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
-          "publishedOn": "2026-03-13T09:00:00.000Z",
-          "wordCount": 1616,
-          "title": "Identifying Interactions at Scale for LLMs",
-          "imageUrl": "http://bair.berkeley.edu/bloghttps://bair.berkeley.edu/static/blog/spex/teaser.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Setosa blog",
@@ -1559,16 +1513,6 @@
           "wordCount": 3472,
           "title": "How to Ship a Production-Ready RAG App with FAISS (Guardrails, Evals, and Fallbacks)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f9da3ad9-e285-4ce1-acb7-ad119579971c.png"
-        },
-        {
-          "id": "69b33f5993256dfc5313bee2",
-          "author": "Balajee Asish Brahmandam",
-          "description": "Last year, our ML team shipped a fraud detection model that worked perfectly in a Jupyter notebook. Precision was excellent. Recall numbers looked great. Everyone was excited – until we tried to deplo",
-          "link": "https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/",
-          "publishedOn": "2026-03-12T22:34:01.000Z",
-          "wordCount": 5561,
-          "title": "How to Containerize Your MLOps Pipeline from Training to Serving",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/156eaca3-8884-4f57-9010-9766278dbf5a.png"
         }
       ]
     },
@@ -1602,24 +1546,6 @@
           },
           "enclosure": {
             "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4713173482.mp3?updated=1774015793",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "67f4fc12-1e56-11f1-b2b1-07612e952b20",
-          "author": null,
-          "description": "The First Air Force Detachment 3 discusses their long-standing partnership with NASA supporting astronaut rescue and recovery operations from Mercury to Artemis. HWHAP 415.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/air-force-rescue-and-recovery/",
-          "publishedOn": "2026-03-13T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Air Force Rescue and Recovery",
-          "itunes": {
-            "duration": "3454"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4274273436.mp3?updated=1773350197",
             "length": "0",
             "type": "audio/mpeg"
           },
@@ -1899,6 +1825,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253694",
+          "author": "Sarthak Dogra",
+          "description": "Z.ai is out with its next-generation flagship AI model and has named it GLM-5.1. With its combination of extensive model size, operational efficiency, and superior reasoning functions, the model represents a major step forward in large language models. The system improves upon previous GLM models by introducing an advanced Mixture-of-Experts framework, which enables it to […]\nThe post GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/glm-5-1/",
+          "publishedOn": "2026-04-12T08:59:57.000Z",
+          "wordCount": null,
+          "title": "GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253770",
           "author": "Janvi Kumari",
@@ -2424,17 +2361,6 @@
           "publishedOn": "2026-03-13T17:11:45.000Z",
           "wordCount": null,
           "title": "A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252442",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Tools like ChatGPT, Gemini, and Claude pushed AI into everyday conversations. Suddenly everyone was talking about AI and a newer term that appeared alongside it: Generative AI. The two are often used interchangeably, but they aren’t the same thing. Generative AI isn’t a replacement for AI. It’s a part of it. To understand the difference, […]\nThe post AI vs Generative AI: Key Differences, Models, and Real-World Uses appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/",
-          "publishedOn": "2026-03-12T15:51:12.000Z",
-          "wordCount": null,
-          "title": "AI vs Generative AI: Key Differences, Models, and Real-World Uses",
           "itunes": {},
           "imageUrl": null
         }
@@ -3255,26 +3181,6 @@
           "publishedOn": "2026-03-17T16:08:05.000Z",
           "wordCount": null,
           "title": "New RFP on Interpretability from Schmidt Sciences",
-          "imageUrl": null
-        },
-        {
-          "id": "EAE9u4YnE75eoiWDg",
-          "author": "Omar Ayyub",
-          "description": "cross-posted from my blog\nTLDR\nThe map of how the activations of one ‘source’ layer in an LLM impact the activations in some later ‘target’ layer can provide vectors for steering LLM behavior. Computing this map, or the Jacobian, is costly but the top high rank components can be determined in just ~15 forward passes in a process called power iteration. This method is cheap enough that every source/target pair in the model can be examined producing a sensitivity map. The use of power iteration to find steering vectors gave the natural name ‘Power Steering’. The resulting power steering vectors produce comparable performance to similar but more costly non-linear optimization techniques that find vectors for maximizing source layer to target layer impacts. The cheap computation of power steer…",
-          "link": "https://www.alignmentforum.org/posts/EAE9u4YnE75eoiWDg/power-steering-behavior-steering-via-layer-to-layer-jacobian",
-          "publishedOn": "2026-03-13T04:05:29.000Z",
-          "wordCount": null,
-          "title": "Power Steering: Behavior Steering via Layer-to-Layer Jacobian Singular Vectors",
-          "imageUrl": null
-        },
-        {
-          "id": "RyDkpWGLQsCnABE78",
-          "author": "Vivek Hebbar",
-          "description": "This post is an attempt to better operationalize FDT (functional decision theory).  It answers the following questions:\n\ngiven a logical causal graph, how do we define the logical do-operator?\nwhat is logical causality and how might it be formalized?\nhow does FDT interact with anthropic updating?\nwhy do we need logical causality?  why FDT and not EDT?\n\nDefining the logical do-operator\nConsider Parfit's hitchhiker:\nA logical causal graph for Parfit's hitchhiker, where blue nodes are logical facts\nAn FDT agent is supposed to reason as follows:\n\nI am deciding the value of the node \"Does my algorithm pay?\"\nIf I set that node to \"yes\", then omega will save me and I will get +1000 utility.  Also I will pay and lose 1 utility.  Total is +999.\nIf I set that node to \"no\", then omega will not save m…",
-          "link": "https://www.alignmentforum.org/posts/RyDkpWGLQsCnABE78/operationalizing-fdt",
-          "publishedOn": "2026-03-13T00:12:43.000Z",
-          "wordCount": null,
-          "title": "Operationalizing FDT",
           "imageUrl": null
         }
       ]
