@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-04-13T02:24:21.298Z</updated>
+    <updated>2026-04-14T02:13:03.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic repeatedly accidentally trained against the CoT, demonstrating inadequate processes]]></title>
+        <id>K8FxfK9GmJfiAhgcT</id>
+        <link href="https://www.alignmentforum.org/posts/K8FxfK9GmJfiAhgcT/anthropic-repeatedly-accidentally-trained-against-the-cot"/>
+        <updated>2026-04-14T01:44:44.000Z</updated>
+        <summary type="html"><![CDATA[It turns out that Anthropic accidentally trained against the chain of thought of Claude Mythos Preview in around 8% of training episodes. This is at least the second independent incident in which Anthropic accidentally exposed their model's CoT to the oversight signal. 
+In more powerful systems, this kind of failure would jeopardize safely navigating the intelligence explosion. It's crucial to build good processes to ensure development is executed according to plan, especially as human oversight becomes spread thin over increasing amounts of potentially untrusted and sloppy AI labor.
+This particular failure is also directly harmful, because it significantly reduces our confidence that the model's reasoning trace is monitorable (reflective of the AI's intent to misbehave).[1]
+I'm grateful t…]]></summary>
+        <author>
+            <name>Alex Mallen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply Claude Code to Non-technical Tasks]]></title>
+        <id>https://towardsdatascience.com/?p=608823</id>
+        <link href="https://towardsdatascience.com/how-to-apply-claude-code-to-non-technical-tasks/"/>
+        <updated>2026-04-13T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to apply coding agents to all tasks on your computer
+The post How to Apply Claude Code to Non-technical Tasks appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Model Isn’t Done: Understanding and Fixing Model Drift]]></title>
+        <id>https://towardsdatascience.com/?p=608821</id>
+        <link href="https://towardsdatascience.com/your-model-isnt-done-understanding-and-fixing-model-drift/"/>
+        <updated>2026-04-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How production models fail over time, and how to catch and fix it before it breaks trust.
+The post Your Model Isn’t Done: Understanding and Fixing Model Drift appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hayden Kastens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Gemma 4 Projects That Will Blow Your Mind]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253802</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/04/top-gemma-4-projects-will-blow-your-mind/"/>
+        <updated>2026-04-13T14:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Google, my favourite tech firm for reasons exactly as this one, has done it once again. It has got the worldwide community of developers supercharged with one new product. This one is called Gemma 4. What’s the hype? Well, a completely open-source model that competes with AI models 20 times its size. And this one […]
+The post Top 10 Gemma 4 Projects That Will Blow Your Mind appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Should AI Step Aside?: Teaching Agents When Humans Want to Intervene]]></title>
+        <id>https://blog.ml.cmu.edu/?p=22381</id>
+        <link href="https://blog.ml.cmu.edu/2026/04/13/when-should-ai-step-aside-teaching-agents-when-humans-want-to-intervene/"/>
+        <updated>2026-04-13T14:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Recent advances in large language models (LLMs) have enabled AI agents to perform increasingly complex tasks in web navigation. Despite this progress, effective use of such agents continues to rely on human involvement to correct misinterpretations or adjust outputs that diverge from their preferences. However, current agentic systems lack an understanding of when and why humans intervene. As a result, they might overlook user needs and proceed incorrectly, or interrupt users too frequently with unnecessary confirmation requests.  This blogpost is based on our recent work — Modeling Distinct Human Interaction in Web Agents — where we shift the focus from autonomy to collaboration. Instead of optimizing agents solely for an end-to-end autonomous pipeline, we ask: Can agents anticipate when humans are likely to intervene? CowCorpus: Learning from Real Interaction To formulate this task, we collect CowCorpus – a novel dataset of interleaved human and agent action trajectories. Compared to existing datasets comprising either only agent trajectory or human trajectory, CowCorpus captures the collaborative task execution by a team of a human and an agent. In total, CowCorpus has: 400 real human–agent web sessions 4,200+ interleaved actions Step-level annotations of intervention moments We curate CowCorpus from 20 real-world users using CowPilot, […]]]></summary>
+        <author>
+            <name>Faria Huq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Range Over Depth: A Reflection on the Role of the Data Generalist]]></title>
+        <id>https://towardsdatascience.com/?p=608819</id>
+        <link href="https://towardsdatascience.com/range-over-depth-a-reflection-on-the-role-of-the-data-generalist/"/>
+        <updated>2026-04-13T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What has changed in the past five years in the role and importance of generalists in data teams
+The post Range Over Depth: A Reflection on the Role of the Data Generalist appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Corné POTGIETER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Tiny Computer Inside a Transformer]]></title>
+        <id>https://towardsdatascience.com/?p=608817</id>
+        <link href="https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/"/>
+        <updated>2026-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By compiling a simple program directly into transformer weights.
+The post I Built a Tiny Computer Inside a Transformer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sean Moran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI]]></title>
+        <id>https://openai.com/index/cloudflare-openai-agent-cloud</id>
+        <link href="https://openai.com/index/cloudflare-openai-agent-cloud"/>
+        <updated>2026-04-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Treating AI Memory Like a Search Problem]]></title>
         <id>https://towardsdatascience.com/?p=608827</id>
@@ -3008,93 +3096,6 @@ The post The Causal Inference Playbook: Advanced Methods Every Data Scientist Sh
 The post The Multi-Agent Trap appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kaushik Rajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Current Status of The Quantum Software Stack]]></title>
-        <id>https://towardsdatascience.com/?p=608600</id>
-        <link href="https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/"/>
-        <updated>2026-03-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we program quantum computers today?
-The post The Current Status of The Quantum Software Stack appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel 101: IF, AND, OR Functions and Conditional Logic Explained]]></title>
-        <id>https://www.analyticsvidhya.com/?p=252439</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/excel-if-and-or-functions-and-conditional-logic-explained/"/>
-        <updated>2026-03-14T11:28:00.000Z</updated>
-        <summary type="html"><![CDATA[You reading this tells me you wish to learn more about Excel. This article continues our Excel series, where we explored the VLOOKUP function in the last iteration. The complete VLOOKUP guide demonstrated how the function works and how best to use it. This time, we shall bring the same focus to conditional logic and […]
-The post Excel 101: IF, AND, OR Functions and Conditional Logic Explained appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline]]></title>
-        <id>https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</id>
-        <link href="https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval"/>
-        <updated>2026-03-13T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Switch from ChatGPT to Claude Without Losing Any Context or Memory]]></title>
-        <id>https://www.analyticsvidhya.com/?p=252539</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/how-to-switch-from-chatgpt-to-claude/"/>
-        <updated>2026-03-13T17:15:08.000Z</updated>
-        <summary type="html"><![CDATA[I asked ChatGPT how it feels about the recent and viral AI trend of switching from ChatGPT to Claude. Here is what it said: “As for how it makes me feel: I don’t have feelings or brand loyalty. But from a usefulness standpoint, it’s a good thing. Easier switching forces AI products to compete on […]
-The post How to Switch from ChatGPT to Claude Without Losing Any Context or Memory appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw]]></title>
-        <id>https://www.analyticsvidhya.com/?p=252476</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/"/>
-        <updated>2026-03-13T17:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Most AI tools forget you as soon as you close the browser window. The system begins all interactions with a new user. AI agents provide a solution to this problem because they handle their complete workflow through their system. MaxClaw is one of the best in this category. MiniMax developed this system which operates completely from the cloud space. The system […]
-The post A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Care About Prompt Caching in LLMs?]]></title>
-        <id>https://towardsdatascience.com/?p=608598</id>
-        <link href="https://towardsdatascience.com/why-care-about-promp-caching-in-llms/"/>
-        <updated>2026-03-13T17:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing the cost and latency of your LLM calls with Prompt Caching
-The post Why Care About Prompt Caching in LLMs? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Vision Language Models Are Trained from “Scratch”]]></title>
-        <id>https://towardsdatascience.com/?p=608595</id>
-        <link href="https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/"/>
-        <updated>2026-03-13T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into exactly how text-only language models are finetuned to *see* images
-The post How Vision Language Models Are Trained from “Scratch” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Avishek Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personalized Restaurant Ranking with a Two-Tower Embedding Variant]]></title>
-        <id>https://towardsdatascience.com/?p=608593</id>
-        <link href="https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/"/>
-        <updated>2026-03-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How a lightweight two-tower model improved restaurant discovery when popularity ranking failed
-The post Personalized Restaurant Ranking with a Two-Tower Embedding Variant appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Andrey Chubin</name>
         </author>
     </entry>
 </feed>
