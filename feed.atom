@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-04-14T02:13:03.363Z</updated>
+    <updated>2026-04-15T02:07:27.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What I’ve been building: ATOM Report, post-training course, finishing my book, and ongoing research]]></title>
+        <id>https://www.interconnects.ai/p/what-ive-been-building-atom-report</id>
+        <link href="https://www.interconnects.ai/p/what-ive-been-building-atom-report"/>
+        <updated>2026-04-14T20:41:12.000Z</updated>
+        <summary type="html"><![CDATA[What I've been up to!]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work]]></title>
+        <id>https://towardsdatascience.com/?p=608839</id>
+        <link href="https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/"/>
+        <updated>2026-04-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most RAG tutorials focus on retrieval or prompting. The real problem starts when context grows. This article shows a full context engineering system built in pure Python that controls memory, compression, re-ranking, and token budgets — so LLMs stay stable under real constraints.
+The post RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Modeling for Analytics Engineers: The Complete Primer]]></title>
+        <id>https://towardsdatascience.com/?p=608837</id>
+        <link href="https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/"/>
+        <updated>2026-04-14T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The best data models make it hard to ask bad questions and easy to answer good ones.
+The post Data Modeling for Analytics Engineers: The Complete Primer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikola Ilic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Fashion App That Helps You Organize Your Wardrobe]]></title>
+        <id>69de6abf91716f3cfb5448a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/"/>
+        <updated>2026-04-14T16:26:39.000Z</updated>
+        <summary type="html"><![CDATA[I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better]]></summary>
+        <author>
+            <name>Mokshita V P</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel 101: Excel Agent Mode Explained]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253539</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/04/excel-agent-mode-explained/"/>
+        <updated>2026-04-14T15:36:59.000Z</updated>
+        <summary type="html"><![CDATA[We have come far in our series of Excel 101, exploring various functions and formulas of the service and how best to use them in real-world scenarios. For those who are new to this, make sure to check out the complete list of Excel functions that we have covered so far in the links shared […]
+The post Excel 101: Excel Agent Mode Explained appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally]]></title>
+        <id>https://www.analyticsvidhya.com/?p=253873</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/04/minimax-m2-7-goes-open-weight-to-let-you-run-agents-locally/"/>
+        <updated>2026-04-14T15:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Following in the footsteps of the recently released Gemma 4, MiniMax has now made its latest model, MiniMax M2.7, completely open-weight. In simple terms, developers can now download the model, run it on their own systems, and start building with it. This is in contrast with the model being a completely cloud-hosted AI service up […]
+The post MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Quantum SDK]]></title>
+        <id>https://towardsdatascience.com/?p=608835</id>
+        <link href="https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/"/>
+        <updated>2026-04-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What to use, when to use it, and what to ignore?
+The post A Practical Guide to Choosing the Right Quantum SDK appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Understanding GPUs and Maximizing GPU Utilization]]></title>
+        <id>https://towardsdatascience.com/?p=608833</id>
+        <link href="https://towardsdatascience.com/a-guide-to-gpu-utilization/"/>
+        <updated>2026-04-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In an age of constrained compute, learn how to optimize GPU efficiency through understanding architecture, bottlenecks, and fixes ranging from simple PyTorch commands to custom kernels.
+The post A Guide to Understanding GPUs and Maximizing GPU Utilization appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ryan D'Cunha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 4.12.2026]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69de41425118c962a123d2b6</id>
+        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh"/>
+        <updated>2026-04-14T13:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting]]></title>
+        <id>https://towardsdatascience.com/?p=608830</id>
+        <link href="https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/"/>
+        <updated>2026-04-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generate high-quality, minimal SVG plots by fitting Bézier curves with an ODF algorithm.
+The post How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ryan Burn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic repeatedly accidentally trained against the CoT, demonstrating inadequate processes]]></title>
         <id>K8FxfK9GmJfiAhgcT</id>
@@ -17,6 +124,16 @@ This particular failure is also directly harmful, because it significantly reduc
 I'm grateful t…]]></summary>
         <author>
             <name>Alex Mallen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trusted access for the next era of cyber defense]]></title>
+        <id>https://openai.com/index/scaling-trusted-access-for-cyber-defense</id>
+        <link href="https://openai.com/index/scaling-trusted-access-for-cyber-defense"/>
+        <updated>2026-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -3074,28 +3191,6 @@ The post Generative AI vs Agentic AI: From Creating Content to Taking Action app
 The post The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability? appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Alle Sravani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master]]></title>
-        <id>https://towardsdatascience.com/?p=608604</id>
-        <link href="https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/"/>
-        <updated>2026-03-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Master six advanced causal inference methods with Python: doubly robust estimation, instrumental variables, regression discontinuity, modern difference-in-differences, heterogeneous treatment effects and sensitivity analysis. Includes code and a practical decision framework.
-The post The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ananya Bhattacharyya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Multi-Agent Trap]]></title>
-        <id>https://towardsdatascience.com/?p=608602</id>
-        <link href="https://towardsdatascience.com/the-multi-agent-trap/"/>
-        <updated>2026-03-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google DeepMind found multi-agent networks amplify errors 17x. Learn 3 architecture patterns that separate $60M wins from the 40% that get canceled.
-The post The Multi-Agent Trap appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kaushik Rajan</name>
         </author>
     </entry>
 </feed>

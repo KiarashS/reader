@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608839",
+          "author": "Emmimal P Alexander",
+          "description": "Most RAG tutorials focus on retrieval or prompting. The real problem starts when context grows. This article shows a full context engineering system built in pure Python that controls memory, compression, re-ranking, and token budgets — so LLMs stay stable under real constraints.\nThe post RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/",
+          "publishedOn": "2026-04-14T18:00:00.000Z",
+          "wordCount": 6023,
+          "title": "RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Context-Layer.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608837",
+          "author": "Nikola Ilic",
+          "description": "The best data models make it hard to ask bad questions and easy to answer good ones.\nThe post Data Modeling for Analytics Engineers: The Complete Primer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/",
+          "publishedOn": "2026-04-14T16:30:00.000Z",
+          "wordCount": 8502,
+          "title": "Data Modeling for Analytics Engineers: The Complete Primer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/508dfd3d-4d86-466b-a8cc-0c7df6e94968_2400x1260-copy.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608835",
+          "author": "Sara A. Metwalli",
+          "description": "What to use, when to use it, and what to ignore?\nThe post A Practical Guide to Choosing the Right Quantum SDK appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/",
+          "publishedOn": "2026-04-14T15:00:00.000Z",
+          "wordCount": 4336,
+          "title": "A Practical Guide to Choosing the Right Quantum SDK",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-dkomov-34804006-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608833",
+          "author": "Ryan D'Cunha",
+          "description": "In an age of constrained compute, learn how to optimize GPU efficiency through understanding architecture, bottlenecks, and fixes ranging from simple PyTorch commands to custom kernels.\nThe post A Guide to Understanding GPUs and Maximizing GPU Utilization appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-guide-to-gpu-utilization/",
+          "publishedOn": "2026-04-14T13:30:00.000Z",
+          "wordCount": 6390,
+          "title": "A Guide to Understanding GPUs and Maximizing GPU Utilization",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/gpu_utilization_cover-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608830",
+          "author": "Ryan Burn",
+          "description": "Generate high-quality, minimal SVG plots by fitting Bézier curves with an ODF algorithm.\nThe post How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/",
+          "publishedOn": "2026-04-14T12:00:00.000Z",
+          "wordCount": 5565,
+          "title": "How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/header-1-1-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608823",
           "author": "Eivind Kjosbakken",
           "description": "Learn how to apply coding agents to all tasks on your computer\nThe post How to Apply Claude Code to Non-technical Tasks appeared first on Towards Data Science.",
@@ -965,26 +1015,6 @@
           "wordCount": 4273,
           "title": "The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/governance.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608604",
-          "author": "Ananya Bhattacharyya",
-          "description": "Master six advanced causal inference methods with Python: doubly robust estimation, instrumental variables, regression discontinuity, modern difference-in-differences, heterogeneous treatment effects and sensitivity analysis. Includes code and a practical decision framework.\nThe post The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/",
-          "publishedOn": "2026-03-15T13:00:00.000Z",
-          "wordCount": 6370,
-          "title": "The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-9.53.17-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608602",
-          "author": "Kaushik Rajan",
-          "description": "Google DeepMind found multi-agent networks amplify errors 17x. Learn 3 architecture patterns that separate $60M wins from the 40% that get canceled.\nThe post The Multi-Agent Trap appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-multi-agent-trap/",
-          "publishedOn": "2026-03-14T15:00:00.000Z",
-          "wordCount": 5457,
-          "title": "The Multi-Agent Trap",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-167.jpg"
         }
       ]
     },
@@ -1480,6 +1510,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69de6abf91716f3cfb5448a1",
+          "author": "Mokshita V P",
+          "description": "I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/",
+          "publishedOn": "2026-04-14T16:26:39.000Z",
+          "wordCount": 3362,
+          "title": "How to Build a Fashion App That Helps You Organize Your Wardrobe",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bf593ff6-6de8-4b30-ab0a-700c3410ccb1.png"
+        },
+        {
           "id": "69d53c4d5da14bc70e77ff78",
           "author": "Manish Shivanandhan",
           "description": "Artificial intelligence (AI) has seen remarkable advancements over the years, with AI models growing in size and complexity. Among the innovative approaches gaining traction today is the Mixture of Ex",
@@ -1563,6 +1603,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69de41425118c962a123d2b6",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh",
+          "publishedOn": "2026-04-14T13:28:54.000Z",
+          "wordCount": null,
+          "title": "Week Ending 4.12.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69d3d8cdd6626b2bbcb6fdc2",
           "author": "Craig Smith",
@@ -1830,6 +1881,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253539",
+          "author": "Sarthak Dogra",
+          "description": "We have come far in our series of Excel 101, exploring various functions and formulas of the service and how best to use them in real-world scenarios. For those who are new to this, make sure to check out the complete list of Excel functions that we have covered so far in the links shared […]\nThe post Excel 101: Excel Agent Mode Explained appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/excel-agent-mode-explained/",
+          "publishedOn": "2026-04-14T15:36:59.000Z",
+          "wordCount": null,
+          "title": "Excel 101: Excel Agent Mode Explained",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253873",
+          "author": "Sarthak Dogra",
+          "description": "Following in the footsteps of the recently released Gemma 4, MiniMax has now made its latest model, MiniMax M2.7, completely open-weight. In simple terms, developers can now download the model, run it on their own systems, and start building with it. This is in contrast with the model being a completely cloud-hosted AI service up […]\nThe post MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/minimax-m2-7-goes-open-weight-to-let-you-run-agents-locally/",
+          "publishedOn": "2026-04-14T15:27:36.000Z",
+          "wordCount": null,
+          "title": "MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253802",
           "author": "Sarthak Dogra",
@@ -2391,6 +2464,16 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+          "author": null,
+          "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+          "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+          "publishedOn": "2026-04-14T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Trusted access for the next era of cyber defense",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/cloudflare-openai-agent-cloud",
           "author": null,
           "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
@@ -2897,6 +2980,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+          "author": "Nathan Lambert",
+          "description": "What I've been up to!",
+          "link": "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
+          "publishedOn": "2026-04-14T20:41:12.000Z",
+          "wordCount": null,
+          "title": "What I’ve been building: ATOM Report, post-training course, finishing my book, and ongoing research",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Bv0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2d8ba64-922d-4000-9d57-12cb5524a238_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Bv0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2d8ba64-922d-4000-9d57-12cb5524a238_1200x675.jpeg"
+        },
         {
           "id": "https://www.interconnects.ai/p/the-inevitable-need-for-an-open-model",
           "author": "Nathan Lambert",
