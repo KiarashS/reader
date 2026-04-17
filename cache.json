@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608877",
+          "author": "Ferran Alia",
+          "description": "Inside MareNostrum V: SLURM schedulers, fat-tree topologies,  and scaling pipelines across 8,000 nodes in a 19th-century chapel\nThe post What It Actually Takes to Run Code on 200M€ Supercomputer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/",
+          "publishedOn": "2026-04-16T18:30:00.000Z",
+          "wordCount": 5019,
+          "title": "What It Actually Takes to Run Code on 200M€ Supercomputer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/2017_BSC_Superordenador_MareNostrum-4_Barcelona-Supercomputing-Center.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608865",
+          "author": "Priyansh Bhardwaj",
+          "description": "The upstream decision no model, or LLM can fix once you get it wrong\nThe post Your Chunks Failed Your RAG in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/",
+          "publishedOn": "2026-04-16T16:30:00.000Z",
+          "wordCount": 7410,
+          "title": "Your Chunks Failed Your RAG in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_bptg14bptg14bptg.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608863",
+          "author": "Ivo Bernardo",
+          "description": "Building a personal AI assistant is rarely a single, monolithic effort. In this piece, I walk through my latest addition: a task breaker module that decomposes complex goals into structured, actionable steps — and why that single component changed how I think about AI-driven productivity.\nThe post Building My Own Personal AI Assistant: A Chronicle, Part 2 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle-part-2/",
+          "publishedOn": "2026-04-16T15:00:00.000Z",
+          "wordCount": 4882,
+          "title": "Building My Own Personal AI Assistant: A Chronicle, Part 2",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Screenshot-from-2026-04-12-18-54-01.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608861",
+          "author": "Sachin Sharma",
+          "description": "The problem with agent memory today\nThe post memweave: Zero-Infra AI Agent Memory with Markdown and SQLite — No Vector Database Required appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/memweave-zero-infra-ai-agent-memory-with-markdown-and-sqlite-no-vector-database-required/",
+          "publishedOn": "2026-04-16T13:30:00.000Z",
+          "wordCount": 6566,
+          "title": "memweave: Zero-Infra AI Agent Memory with Markdown and SQLite — No Vector Database Required",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/0_v2DBeVP_C3cx6qoS-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608854",
+          "author": "Benjamin Li",
+          "description": "Machine learning models can be confident even when they shouldn't be. This article introduces Deep Evidential Regression (DER), a method that lets neural networks rapidly express what they don't know. \nThe post Introduction to Deep Evidential Regression for Uncertainty Quantification appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/introduction-to-deep-evidential-regression-for-uncertainty-quantification/",
+          "publishedOn": "2026-04-16T12:00:00.000Z",
+          "wordCount": 5456,
+          "title": "Introduction to Deep Evidential Regression for Uncertainty Quantification",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/featured-scaled-1-1024x630.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608850",
           "author": "Eivind Kjosbakken",
           "description": "Learn how to get the most out of Claude Cowork\nThe post How to Maximize Claude Cowork appeared first on Towards Data Science.",
@@ -995,56 +1045,6 @@
           "wordCount": 6929,
           "title": "Self-Hosting Your First LLM",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/photo-1717501218385-55bc3a95be94.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608619",
-          "author": "Thomas Reid",
-          "description": "One embedding model to rule them all\nThe post Introducing Gemini Embeddings 2 Preview appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/introducing-gemini-embeddings-2-preview/",
-          "publishedOn": "2026-03-17T13:30:00.000Z",
-          "wordCount": 4996,
-          "title": "Introducing Gemini Embeddings 2 Preview",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/embed_main_image-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608617",
-          "author": "Emmimal P Alexander",
-          "description": "Most neuro-symbolic systems inject rules written by humans. But what if a neural network could discover those rules itself?\nIn this experiment, I extend a hybrid neural network with a differentiable rule-learning module that automatically extracts IF-THEN fraud rules during training. On the Kaggle Credit Card Fraud dataset (0.17% fraud rate), the model learned interpretable rules such as:\nThe post How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-a-neural-network-learned-its-own-fraud-rules-a-neuro-symbolic-ai-experiment/",
-          "publishedOn": "2026-03-17T12:00:00.000Z",
-          "wordCount": 6903,
-          "title": "How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Investigative-breakthrough-on-corkboard.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608615",
-          "author": "Javier Marin",
-          "description": "It’s a feature of the architecture\nThe post Hallucinations in LLMs Are Not a Bug in the Data appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/",
-          "publishedOn": "2026-03-16T19:15:31.000Z",
-          "wordCount": 5145,
-          "title": "Hallucinations in LLMs Are Not a Bug in the Data",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Header-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608612",
-          "author": "Aleksandra Osipova",
-          "description": "Shadow AI and the desire paths of modern work\nThe post Follow the AI Footpaths appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/follow-the-ai-footpaths/",
-          "publishedOn": "2026-03-16T19:00:37.000Z",
-          "wordCount": 4198,
-          "title": "Follow the AI Footpaths",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-191.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608610",
-          "author": "Hajime Takeda",
-          "description": "What I learned building and distributing my first Skill from scratch\nThe post How to Build a Production-Ready Claude Code Skill appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-a-production-ready-claude-code-skill/",
-          "publishedOn": "2026-03-16T18:04:24.000Z",
-          "wordCount": 5229,
-          "title": "How to Build a Production-Ready Claude Code Skill",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/quino-al-OUQfQRL2GJY-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1053,6 +1053,106 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=23877",
+          "author": "Matthew Mayo",
+          "description": "The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+          "link": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/",
+          "publishedOn": "2026-04-13T20:00:43.000Z",
+          "wordCount": 9505,
+          "title": "How to Implement Tool Calling with Gemma 4 and Python",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-mayo-how-to-implement-tool-calling-with-gemma-4-and-python-b.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23896",
+          "author": "Matthew Mayo",
+          "description": "Language models (LMs), at their core, are text-in and text-out systems.",
+          "link": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/",
+          "publishedOn": "2026-04-13T12:00:25.000Z",
+          "wordCount": 8756,
+          "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-mayo-structured-outputs-vs-function-calling-1024x571.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23861",
+          "author": "Matthew Mayo",
+          "description": "<a href=\"https://machinelearningmastery.",
+          "link": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/",
+          "publishedOn": "2026-04-10T21:34:00.000Z",
+          "wordCount": 10229,
+          "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-mayo-rag-quadstore-facts-kg-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23854",
+          "author": "Bala Priya C",
+          "description": "Most <a href=\"https://machinelearningmastery.",
+          "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/",
+          "publishedOn": "2026-04-09T12:00:35.000Z",
+          "wordCount": 9333,
+          "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/bala-agentic-design-patterns-roadmap.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23547",
+          "author": "Iván Palomares Carrascosa",
+          "description": "<a href=\"https://github.",
+          "link": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/",
+          "publishedOn": "2026-04-08T12:02:28.000Z",
+          "wordCount": 8461,
+          "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-ipc-hands-on-guide-testing-agents-with-ragas-g-eval-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23832",
+          "author": "Nahla Davies",
+          "description": "If you've ever watched two agents confidently write to the same resource at the same time and produce something that makes zero sense, you already know what a race condition feels like in practice.",
+          "link": "https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/",
+          "publishedOn": "2026-04-07T14:58:54.000Z",
+          "wordCount": 8829,
+          "title": "Handling Race Conditions in Multi-Agent Orchestration",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-davies-handling-race-conditions-in-multi-agent-orchestration-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23793",
+          "author": "Kanwal Mehreen",
+          "description": "If you have worked with retrieval-augmented generation (RAG) systems, you have probably seen this problem.",
+          "link": "https://machinelearningmastery.com/top-5-reranking-models-to-improve-rag-results/",
+          "publishedOn": "2026-04-06T12:00:52.000Z",
+          "wordCount": 7920,
+          "title": "Top 5 Reranking Models to Improve RAG Results",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-top-5-reranking-models-imrpove-rag-results.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23701",
+          "author": "Shittu Olumide",
+          "description": "A couple of years ago, most machine learning systems sat quietly behind dashboards.",
+          "link": "https://machinelearningmastery.com/7-machine-learning-trends-to-watch-in-2026/",
+          "publishedOn": "2026-04-01T15:00:46.000Z",
+          "wordCount": 10328,
+          "title": "7 Machine Learning Trends to Watch in 2026",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-7-ml-trends-2026-1.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23615",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In agentic AI systems , when an agent's execution pipeline is intentionally halted, we have what is known as a state-managed interruption .",
+          "link": "https://machinelearningmastery.com/building-a-human-in-the-loop-approval-gate-for-autonomous-agents/",
+          "publishedOn": "2026-03-31T11:00:07.000Z",
+          "wordCount": 8681,
+          "title": "Building a ‘Human-in-the-Loop’ Approval Gate for Autonomous Agents",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-ipc-building-a-human-in-the-loop-gate-autonomous-agents-1024x683.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23789",
+          "author": "Yoyo Chan",
+          "description": "This article is divided into three parts; they are: • How Attention Works During Prefill • The Decode Phase of LLM Inference • KV Cache: How to Make Decode More Efficient Consider the prompt: Today’s weather is so .",
+          "link": "https://machinelearningmastery.com/from-prompt-to-prediction-understanding-prefill-decode-and-the-kv-cache-in-llms/",
+          "publishedOn": "2026-03-30T20:47:02.000Z",
+          "wordCount": 10595,
+          "title": "From Prompt to Prediction: Understanding Prefill, Decode, and the KV Cache in LLMs",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/neda-astani-KWTkd7mHqKE-unsplash-scaled.jpg"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=23725",
           "author": "Iván Palomares Carrascosa",
@@ -1132,16 +1232,6 @@
           "wordCount": 8593,
           "title": "7 Readability Features for Your Next Machine Learning Model",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-7-readability-features-for-your-next-machine-learning-model.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23608",
-          "author": "Bala Priya C",
-          "description": "If you are here, you have probably heard about recent work on recursive language models.",
-          "link": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/",
-          "publishedOn": "2026-03-17T11:00:34.000Z",
-          "wordCount": 8822,
-          "title": "Everything You Need to Know About Recursive Language Models",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-everything-you-need-to-know-about-recursive-language-models-1024x572.png"
         }
       ]
     },
@@ -1211,6 +1301,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/transformers-to-mlx",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/transformers-to-mlx",
+          "publishedOn": "2026-04-16T00:00:00.000Z",
+          "wordCount": 2741,
+          "title": "The PR you would have opened yourself",
+          "imageUrl": "https://huggingface.co/blog/assets/transformers-to-mlx/thumbnail.jpg"
+        },
+        {
+          "id": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+          "publishedOn": "2026-04-16T00:00:00.000Z",
+          "wordCount": 3859,
+          "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+          "imageUrl": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
           "author": null,
@@ -1410,26 +1520,6 @@
           "wordCount": 3104,
           "title": "State of Open Source on Hugging Face: Spring 2026",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/62543749b777cd32720675c2/6SncRLSzbOb4IubAj2qyN.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/Hcompany/holotron-12b",
-          "author": null,
-          "description": "A Blog post by H company on Hugging Face",
-          "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
-          "publishedOn": "2026-03-17T12:33:39.000Z",
-          "wordCount": 1248,
-          "title": "Holotron-12B - High Throughput Computer Use Agent",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/682c3e22650f6bbe33bb9d94/ZrDLn6Wer5-TM_okKVmZ2.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
-          "publishedOn": "2026-03-16T21:58:40.000Z",
-          "wordCount": 1186,
-          "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/physical-ai-for-healthcare-robotics.png"
         }
       ]
     },
@@ -1598,16 +1688,6 @@
           "wordCount": 14580,
           "title": "How to Build an End-to-End ML Platform Locally: From Experiment Tracking to CI/CD",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8401d978-0bed-4534-af93-f6bfc1b77c89.png"
-        },
-        {
-          "id": "69b841572ad6ae5184d54317",
-          "author": "Chidozie Managwu",
-          "description": "Most LLM applications look great in a high-fidelity demo. Then they hit the hands of real users and start failing in very predictable yet damaging ways. They answer questions they should not, they bre",
-          "link": "https://www.freecodecamp.org/news/build-rag-app-faiss-fastapi/",
-          "publishedOn": "2026-03-16T17:43:51.000Z",
-          "wordCount": 3472,
-          "title": "How to Ship a Production-Ready RAG App with FAISS (Guardrails, Evals, and Fallbacks)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f9da3ad9-e285-4ce1-acb7-ad119579971c.png"
         }
       ]
     },
@@ -1745,16 +1825,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/03/yolo26-instance-segmentation-hero-1.png"
-        },
-        {
-          "id": "https://learnopencv.com/?p=78628",
-          "author": "Sudip Chakrabarty",
-          "description": "Learn how to implement robust multi-object tracking using Roboflow Trackers and OpenCV. Discover how to apply algorithms like ByteTrack and SORT to detect, track, and draw trajectories in real-world videos.\nMastering Multi-Object Tracking with Roboflow Trackers & OpenCV first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/multi-object-tracking-with-roboflow-trackers-and-opencv/",
-          "publishedOn": "2026-03-17T13:33:24.000Z",
-          "wordCount": 14228,
-          "title": "Mastering Multi-Object Tracking with Roboflow Trackers & OpenCV",
-          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/03/Roboflow_tracker.jpg"
         }
       ]
     },
@@ -1763,6 +1833,26 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=35385",
+          "author": "Sujana Urs",
+          "description": "Top Data and Annotation Partners for Behavioral Health Models in 2026 AI is advancing rapidly in mental health screening, voice\nThe post Who Powers the Best Behavioral Health AI Annotation appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/who-powers-the-best-behavioral-health-ai-annotation/",
+          "publishedOn": "2026-04-16T06:54:43.000Z",
+          "wordCount": 2114,
+          "title": "Who Powers the Best Behavioral Health AI Annotation",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/woman-using-laptop-having-video-call-with-her-doctor-while-sitting-home-scaled.jpg"
+        },
+        {
+          "id": "https://imerit.net/?p=35379",
+          "author": "Sujana Urs",
+          "description": "Behavioral Health AI is reshaping mental health care. From telepsychiatry to digital therapeutics, AI is helping clinicians detect conditions earlier,\nThe post The Changing Landscape of Behavioral Health AI: Challenges and Opportunities appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/the-changing-landscape-of-behavioral-health-ai-challenges-and-opportunities/",
+          "publishedOn": "2026-04-16T06:54:40.000Z",
+          "wordCount": 2054,
+          "title": "The Changing Landscape of Behavioral Health AI: Challenges and Opportunities",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/mid-shot-man-talking-therapist-scaled.jpg"
+        },
         {
           "id": "https://imerit.net/?p=35370",
           "author": "Sujana Urs",
@@ -1902,16 +1992,6 @@
           "wordCount": 3386,
           "title": "Building Ethical Frameworks for Zero-Shot Voice Cloning",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Building-Ethical-Frameworks-for-Zero-Shot-Voice-Cloning-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=34224",
-          "author": "Sujana Urs",
-          "description": "Artificial intelligence (AI) models often struggle when deployed across languages and regions. Most large language models (LLMs) are primarily trained\nThe post Model Localization Services: Adapting AI Models For Language, Cultural Nuance, Region-Specific Norms, And Compliance appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/model-localization-services-adapting-ai-models-for-language-cultural-nuance-region-specific-norms-and-compliance/",
-          "publishedOn": "2026-03-17T05:31:21.000Z",
-          "wordCount": 2640,
-          "title": "Model Localization Services: Adapting AI Models For Language, Cultural Nuance, Region-Specific Norms, And Compliance",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Model-Localization-Services-Adapting-AI-models-for-language-cultural-nuance-region-specific-norms-and-compliance-scaled.jpg"
         }
       ]
     },
@@ -1920,6 +2000,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253959",
+          "author": "Sarthak Dogra",
+          "description": "The question around AI, and I mean the pinnacle of AI, not your regular “write me an email”, is shifting. What used to be “what can it do for me?” has now become “who gets to use it?” We saw this recently with Anthropic’s Claude Mythos Preview – a supposed epitome of AI models that […]\nThe post GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/",
+          "publishedOn": "2026-04-16T17:27:34.000Z",
+          "wordCount": null,
+          "title": "GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253960",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "If you’re still using a standard chatbot for your AI work, you’re missing a lot of features. And I mean a lot! AI Studio is the workshop offered by Google, designed for those who want to prototype, build, and deploy without needing a PhD in computer science. Whether you’re writing for an email, creating an […]\nThe post Google AI Studio Guide: Every Feature Explained appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/google-ai-studio-guide/",
+          "publishedOn": "2026-04-16T11:09:20.000Z",
+          "wordCount": null,
+          "title": "Google AI Studio Guide: Every Feature Explained",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=253821",
           "author": "Harsh Mishra",
@@ -2492,6 +2594,36 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/codex-for-almost-everything",
+          "author": null,
+          "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+          "link": "https://openai.com/index/codex-for-almost-everything",
+          "publishedOn": "2026-04-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Codex for (almost) everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-gpt-rosalind",
+          "author": null,
+          "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+          "link": "https://openai.com/index/introducing-gpt-rosalind",
+          "publishedOn": "2026-04-16T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing GPT-Rosalind for life sciences research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+          "author": null,
+          "description": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+          "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+          "publishedOn": "2026-04-16T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Accelerating the cyber defense ecosystem that protects us all",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
           "author": null,
           "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
@@ -2970,36 +3102,6 @@
           "wordCount": null,
           "title": "OpenAI to acquire Astral",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/japan-teen-safety-blueprint",
-          "author": null,
-          "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "link": "https://openai.com/index/japan-teen-safety-blueprint",
-          "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-          "author": null,
-          "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-          "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-          "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GPT-5.4 mini and nano",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-          "author": null,
-          "description": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-          "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-          "publishedOn": "2026-03-17T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Equipping workers with insights about compensation",
-          "imageUrl": null
         }
       ]
     },
@@ -3143,6 +3245,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "7noKve57za3yg2LEb",
+          "author": "Connor Leahy",
+          "description": "Sometimes people make various suggestions that we should simply build \"safe\" artificial Superintelligence (ASI), rather than the presumably \"unsafe\" kind.[1]\nThere are various flavors of “safe” people suggest.\n\nSometimes they suggest building “aligned” ASI: You have a full agentic autonomous god-like ASI running around, but it really really loves you and definitely will do the right thing.\nSometimes they suggest we should simply build “tool AI” or “non-agentic” AI.\nSometimes they have even more exotic, or more obviously-stupid ideas.\n\n\nNow I could argue at lengths about why this is astronomically harder than people think it is, why their various proposals are almost universally unworkable, why even attempting this is insanely immoral[2], but that’s not the main point I want to make.\nInstea…",
+          "link": "https://www.alignmentforum.org/posts/7noKve57za3yg2LEb/you-can-only-build-safe-asi-if-asi-is-globally-banned-1",
+          "publishedOn": "2026-04-16T15:10:55.000Z",
+          "wordCount": null,
+          "title": "You can only build safe ASI if ASI is globally banned",
+          "imageUrl": null
+        },
         {
           "id": "WewsByywWNhX9rtwi",
           "author": "ryan_greenblatt",
