@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608886",
+          "author": "Partha Sarkar",
+          "description": "Open source. 5-minute setup. Vector RAG done right—try it yourself.\nThe post Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/",
+          "publishedOn": "2026-04-19T15:00:00.000Z",
+          "wordCount": 5817,
+          "title": "Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/proxy-pointer-2-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608883",
+          "author": "Ansh Aggarwal",
+          "description": "Generating Minecraft Worlds with Vector Quantized Variational Autoencoders (VQ-VAE) and Transformers\nThe post Dreaming in Cubes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/dreaming-in-cubes/",
+          "publishedOn": "2026-04-19T13:00:00.000Z",
+          "wordCount": 4877,
+          "title": "Dreaming in Cubes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/unpainted_terrain.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608895",
+          "author": "Aman Vasisht",
+          "description": "Explore the end-to-end pipeline of TurboQuant, a novel KV cache quantization framework. This overview breaks down how multi-stage compression achieves near-lossless storage through PolarQuant and QJL residuals, enabling massive context windows with minimal memory overhead\nThe post KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/",
+          "publishedOn": "2026-04-19T11:00:00.000Z",
+          "wordCount": 5285,
+          "title": "KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/img1222.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608881",
           "author": "Emmimal P Alexander",
           "description": "Your RAG system is retrieving the right documents with perfect scores — yet it still confidently returns the wrong answer.\nThe post Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It). appeared first on Towards Data Science.",
@@ -995,46 +1025,6 @@
           "wordCount": 6470,
           "title": "Building Robust Credit Scoring Models (Part 3)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/outlier_scoring_en_clean.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608646",
-          "author": "Dr. Janna Lipenkova",
-          "description": "While efficiency is an important source of AI value, it is only part of the picture\nThe post How to Measure AI Value appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-measure-ai-value/",
-          "publishedOn": "2026-03-20T13:30:00.000Z",
-          "wordCount": 5320,
-          "title": "How to Measure AI Value",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/mental_models-83-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608644",
-          "author": "Mostafa Ibrahim",
-          "description": "Why agentic RAG systems fail silently in production and how to detect them before your cloud bill does\nThe post Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/agentic-rag-failure-modes-retrieval-thrash-tool-storms-and-context-bloat-and-how-to-spot-them-early/",
-          "publishedOn": "2026-03-20T12:00:00.000Z",
-          "wordCount": 4570,
-          "title": "Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-217-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608641",
-          "author": "Ida Silfverskiöld",
-          "description": "Building products without the coding part\nThe post The Basics of Vibe Engineering appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-basics-of-vibe-engineering/",
-          "publishedOn": "2026-03-19T16:30:00.000Z",
-          "wordCount": 5660,
-          "title": "The Basics of Vibe Engineering",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Skarmavbild-2026-03-16-kl.-20.16.38.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608639",
-          "author": "Maria Mouschoutzi",
-          "description": "A practical guide to caching layers across the RAG pipeline, from query embeddings to full query-response reuse\nThe post Beyond Prompt Caching: 5 More Things You Should Cache in RAG Pipelines appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-prompt-caching-5-more-things-you-should-cache-in-rag-pipelines/",
-          "publishedOn": "2026-03-19T15:00:00.000Z",
-          "wordCount": 5545,
-          "title": "Beyond Prompt Caching: 5 More Things You Should Cache in RAG Pipelines",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/distorted-lake-trees_lone-thomasky_bits-baume_3113x4393-scaled-e1773261646742.jpg"
         }
       ]
     },
@@ -1192,16 +1182,6 @@
           "wordCount": 10283,
           "title": "7 Steps to Mastering Memory in Agentic AI Systems",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/bala-7-steps-memory-in-ai-agents.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23665",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent — with a certain degree of autonomy — works toward a goal.",
-          "link": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/",
-          "publishedOn": "2026-03-20T14:12:23.000Z",
-          "wordCount": 8345,
-          "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-ipc-why-agents-fail-1-1024x571.png"
         }
       ]
     },
@@ -1455,16 +1435,6 @@
           "wordCount": 3023,
           "title": "Build a Domain-Specific Embedding Model in Under a Day",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/domain-specific-embedding-finetune.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-          "author": null,
-          "description": "A Blog post by IBM Granite on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-          "publishedOn": "2026-03-20T14:14:46.000Z",
-          "wordCount": 683,
-          "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-libraries.png"
         }
       ]
     },
@@ -1666,24 +1636,6 @@
           },
           "enclosure": {
             "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3080431251.mp3?updated=1776434251",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "7116eace-2461-11f1-a4af-1bc3b04b2d77",
-          "author": null,
-          "description": "The podcast team discusses how to watch and engage with the Artemis II mission, from launch coverage to real-time updates and beyond. HWHAP 416.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-ii-bringing-the-mission-to-you/",
-          "publishedOn": "2026-03-20T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Artemis II: Bringing the Mission to You",
-          "itunes": {
-            "duration": "3477"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4713173482.mp3?updated=1774015793",
             "length": "0",
             "type": "audio/mpeg"
           },
@@ -1935,16 +1887,6 @@
           "wordCount": 3606,
           "title": "Temporal Drift in AI-Generated Video",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Temporal-Drift-in-AI-Generated-Video-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=14991",
-          "author": "Brett",
-          "description": "Computer vision empowers computers with the ability to understand, label, and interpret images. With the right image datasets, a data\nThe post 32 Free Image Datasets for Computer Vision Algorithms appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/29-free-image-datasets-for-computer-vision/",
-          "publishedOn": "2026-03-20T09:56:40.000Z",
-          "wordCount": 2298,
-          "title": "32 Free Image Datasets for Computer Vision Algorithms",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2021/07/22-Free-Image-Datasets-for-CV-Social.jpg"
         }
       ]
     },
@@ -1953,6 +1895,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=253863",
+          "author": "Riya Bansal",
+          "description": "Developers use Claude Code as an enhanced autocomplete system. They open a file, type a prompt, and hope for the best. The system produces decent output which sometimes reaches great quality. The output exhibits inconsistent results. The system loses track of context and repeats its initial errors.  The solution needs a more organized project, not […]\nThe post How to Structure a Claude Code Project that Thinks Like an Engineer  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/claude-code-project-structure/",
+          "publishedOn": "2026-04-19T08:18:03.000Z",
+          "wordCount": null,
+          "title": "How to Structure a Claude Code Project that Thinks Like an Engineer",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=254003",
           "author": "Sarthak Dogra",
@@ -2456,39 +2409,6 @@
           "publishedOn": "2026-03-21T12:57:49.000Z",
           "wordCount": null,
           "title": "PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252786",
-          "author": "Riya Bansal",
-          "description": "Most AI tools still require constant supervision, forcing you to guide every step. Claude Cowork,, the latest offering by Anthropic, changes that! By bringing an agentic system into everyday workflows, you describe the outcome and let it handle the execution independently. It can deliver organized files, structured documents, and synthesized research while you focus elsewhere, […]\nThe post Inside Claude Cowork: How to Run Agentic AI Tasks Like a Pro  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/claude-cowork/",
-          "publishedOn": "2026-03-20T12:50:35.000Z",
-          "wordCount": null,
-          "title": "Inside Claude Cowork: How to Run Agentic AI Tasks Like a Pro",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252831",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "For different learning styles, career goals, and comfort with tools, finding the right data analyst course is HARD. Some people start with Excel. Others into Python. With no clear roadmap ahead, it’s hard to find a single starting point. Some want job-ready certifications, while others just want hands-on practice. This list is built for that. […]\nThe post Top 7 Free Data Analytics Courses with Certificates appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/free-data-analytics-courses-with-certificates/",
-          "publishedOn": "2026-03-20T12:02:02.000Z",
-          "wordCount": null,
-          "title": "Top 7 Free Data Analytics Courses with Certificates",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252804",
-          "author": "Sarthak Dogra",
-          "description": "If you regularly use AI, especially for coding, you know there is an obvious upgrade to the usual to-and-fro in chats. What if you could save a particular workflow in AI and run it without writing a super-long prompt every time you need it? Claude Skills now lets you do exactly that. This nifty little […]\nThe post Claude Skills Explained: Build, Configure, and Use Custom Skills on Claude Code appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/claude-skills-custom-skills-on-claude-code/",
-          "publishedOn": "2026-03-19T22:07:57.000Z",
-          "wordCount": null,
-          "title": "Claude Skills Explained: Build, Configure, and Use Custom Skills on Claude Code",
           "itunes": {},
           "imageUrl": null
         }
