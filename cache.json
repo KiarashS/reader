@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608912",
+          "author": "Jacob Ingle",
+          "description": "How you can build your own Thompson Sampling Algorithm object in Python and apply it to a hypothetical yet real-life example\nThe post DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/diy-ai-ml-solving-the-multi-armed-bandit-problem-with-thompson-sampling/",
+          "publishedOn": "2026-04-21T18:00:00.000Z",
+          "wordCount": 6515,
+          "title": "DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Mar-6-2026-04_19_28-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608909",
+          "author": "Omer Rosenbaum",
+          "description": "For any data scientist who works in a team, being able to undo Git actions can be a life saver. This practical guide will teach you all you need to know to save the day.\nThe post Git UNDO : How to Rewrite Git History with Confidence appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/git-undo-how-to-rewrite-git-history-with-confidence/",
+          "publishedOn": "2026-04-21T16:30:00.000Z",
+          "wordCount": 7837,
+          "title": "Git UNDO : How to Rewrite Git History with Confidence",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-padrinan-2882520-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608907",
+          "author": "Thomas Reid",
+          "description": "A guide to bridging the gap between ease of use and raw performance.\nThe post How to Call Rust from Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/calling-rust-from-python/",
+          "publishedOn": "2026-04-21T15:00:00.000Z",
+          "wordCount": 5094,
+          "title": "How to Call Rust from Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-15-2026-02_19_58-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608905",
+          "author": "Benjamin Nweke",
+          "description": "The hidden cost of probabilistic outputs in systems that demand reliability\nThe post I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/",
+          "publishedOn": "2026-04-21T13:30:00.000Z",
+          "wordCount": 5590,
+          "title": "I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_j19tm3j19tm3j19t-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608901",
+          "author": "Emmimal P Alexander",
+          "description": "As memory grows in RAG systems, accuracy quietly drops while confidence rises — creating a failure that most monitoring systems never detect. This article walks through a reproducible experiment showing why this happens and how a simple memory architecture fix restores reliability.\nThe post Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/",
+          "publishedOn": "2026-04-21T12:00:00.000Z",
+          "wordCount": 6335,
+          "title": "Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Memory-Grows-–-I-Built-the-Memory-Layer-That-Stops-It.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608899",
           "author": "Sara A. Metwalli",
           "description": "And what does it tell us?\nThe post What Does the p-value Even Mean? appeared first on Towards Data Science.",
@@ -1015,26 +1065,6 @@
           "wordCount": 4843,
           "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/distorted-dandelions_lone-thomasky_bits-baume_3113x4393-e1773672178399.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608657",
-          "author": "Ferran Alia",
-          "description": "A hands-on guide to implementing CFD with NumPy, from discretization to airflow simulation around a bird's wing\nThe post Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-a-navier-stokes-solver-in-python-from-scratch-simulating-airflow/",
-          "publishedOn": "2026-03-22T13:00:00.000Z",
-          "wordCount": 4298,
-          "title": "Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ss1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608655",
-          "author": "Mike Huls",
-          "description": "Most data platforms don’t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a “SQL jungle.” This article explores how that happens and how to bring structure back.\nThe post Escaping the SQL Jungle appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/escaping-the-sql-jungle/",
-          "publishedOn": "2026-03-21T15:00:00.000Z",
-          "wordCount": 5530,
-          "title": "Escaping the SQL Jungle",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/weronika-wSEv7Nanuxc-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1247,6 +1277,16 @@
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
         {
+          "id": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+          "author": null,
+          "description": "A Blog post by Technology Innovation Institute on Hugging Face",
+          "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+          "publishedOn": "2026-04-21T10:09:58.000Z",
+          "wordCount": 1866,
+          "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/KdH3z5dRfyIAyxgGPN5Ey.png"
+        },
+        {
           "id": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
           "author": null,
           "description": "A Blog post by NVIDIA on Hugging Face",
@@ -1255,6 +1295,16 @@
           "wordCount": 1910,
           "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/build-korean-agents-with-nemotron-personas.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/cybersecurity-openness",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/cybersecurity-openness",
+          "publishedOn": "2026-04-21T00:00:00.000Z",
+          "wordCount": 1549,
+          "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+          "imageUrl": "https://huggingface.co/blog/assets/cybersecurity-openness/detective_huggy_thumbnail.png"
         },
         {
           "id": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
@@ -1754,6 +1804,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=78806",
+          "author": "Sudip Chakrabarty",
+          "description": "Learn how to use YOLO26-pose with Python for real-time keypoint estimation on images and videos, understand its RLE-based architecture, and explore its reported benchmarks on COCO-17.\nYOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/yolo26-pose-estimation-tutorial/",
+          "publishedOn": "2026-04-21T16:14:27.000Z",
+          "wordCount": 7758,
+          "title": "YOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics",
+          "enclosure": {
+            "url": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/16114653/dance.mp4",
+            "length": "3604814",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/18003946/Yolo26_Pose_Estimation.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=78702",
           "author": "Sudip Chakrabarty",
           "description": "Learn how to use RF-DETR-Seg with Python for image and video inference, understand the architecture behind it, and evaluate its performance on COCO benchmarks.\nRF-DETR Segmentation: Real-Time Detection & Instance Segmentation Guide first appeared on LearnOpenCV.",
@@ -1947,6 +2012,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254084",
+          "author": "Sarthak Dogra",
+          "description": "Turmoil has followed the launch of Claude’s new model. Opus 4.7, the younger sibling of Anthropic’s revolutionary Mythos, is the recent attempt by the company to go public with some of the capabilities of Mythos. Better agentic workflows, better memory, and better real-world tasks than the outgoing model, i.e., the Opus 4.6. That is what […]\nThe post Opus 4.7 vs Opus 4.6: Should You Switch? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/opus-4-7-vs-opus-4-6/",
+          "publishedOn": "2026-04-21T06:35:06.000Z",
+          "wordCount": null,
+          "title": "Opus 4.7 vs Opus 4.6: Should You Switch?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=254062",
           "author": "Sarthak Dogra",
@@ -2452,17 +2528,6 @@
           "title": "Top 10 YouTube Channels to Learn Machine Learning",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252870",
-          "author": "Nitika Sharma",
-          "description": "AI coding assistants have quickly moved from optional tools to a core part of modern software development. Adoption is accelerating fast. Around 84% of developers now use or plan to use AI tools, and over half use them daily. The market has already reached about $8.5 billion in 2026 and is growing rapidly. These tools are not just helping […]\nThe post Top 10 AI Coding Assistants of 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/ai-coding-assistants/",
-          "publishedOn": "2026-03-22T14:05:18.000Z",
-          "wordCount": null,
-          "title": "Top 10 AI Coding Assistants of 2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2507,6 +2572,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+          "author": null,
+          "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+          "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+          "publishedOn": "2026-04-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Scaling Codex to enterprises worldwide",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
           "author": null,
@@ -3149,6 +3224,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "TnAR5Sf5hphfnzNTr",
+          "author": "Andrea_Miotti",
+          "description": "ControlAI's mission is to avert the extinction risks posed by superintelligent AI. We believe that in order to do this, we must secure an international prohibition on its development.\nWe're working to make this happen through what we believe is the most natural and promising approach: helping decision-makers in governments and the public understand the risks and take action.\nWe believe that ControlAI can achieve an international prohibition on ASI development if scaled sufficiently. We estimate that it would take approximately a $50 million yearly budget in funding to give us a concrete chance at achieving this in the next few years.\nIn this post, we lay out some of the reasoning behind this estimate, and explain how additional funding past that threshold, including and beyond $500 million…",
+          "link": "https://www.alignmentforum.org/posts/TnAR5Sf5hphfnzNTr/preventing-extinction-from-asi-on-a-usd50m-yearly-budget",
+          "publishedOn": "2026-04-21T16:39:22.000Z",
+          "wordCount": null,
+          "title": "Preventing extinction from ASI on a $50M yearly budget",
+          "imageUrl": null
+        },
         {
           "id": "BuAPifQmHf24xB29n",
           "author": "Elle Najt",
