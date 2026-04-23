@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608928",
+          "author": "Luke Stuckey",
+          "description": "Turning free-to-use data into a hypothesis-ready dataset\nThe post Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/using-causal-inference-to-estimate-the-impact-of-tube-strikes-on-cycling-usage-in-london/",
+          "publishedOn": "2026-04-22T18:00:00.000Z",
+          "wordCount": 6928,
+          "title": "Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/bike_image_unsplash_resized_v2.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608920",
+          "author": "Gustavo Santos",
+          "description": "Learn how Propensity Score Matching uncovers true causality in observational data. By finding \"statistical twins,\" we eliminate selection bias to reveal the real impact of your interventions and business decisions.\nThe post Correlation vs. Causation: Measuring True Impact with Propensity Score Matching appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/correlation-vs-causation-measuring-true-impact-with-propensity-score-matching/",
+          "publishedOn": "2026-04-22T16:30:00.000Z",
+          "wordCount": 5624,
+          "title": "Correlation vs. Causation: Measuring True Impact with Propensity Score Matching",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/blog2-1-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608918",
+          "author": "Hajime Takeda",
+          "description": "How I turned LLM persona interviews into a repeatable customer research workflow\nThe post From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-ad-hoc-prompting-to-repeatable-ai-workflows-with-claude-code-skills/",
+          "publishedOn": "2026-04-22T15:00:00.000Z",
+          "wordCount": 4684,
+          "title": "From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/christina-wocintechchat-com-m-LQ1t-8Ms5PY-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608916",
+          "author": "Marina Tosic",
+          "description": "A short intro to scientific methodology to combat \"prompt in, slop out\"\nThe post Ivory Tower Notes: The Methodology appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ivory-tower-notes-the-methodology/",
+          "publishedOn": "2026-04-22T13:30:00.000Z",
+          "wordCount": 4209,
+          "title": "Ivory Tower Notes: The Methodology",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-170.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608914",
+          "author": "Eivind Kjosbakken",
+          "description": "Run OpenClaw assistant through alternative LLMs\nThe post How to Run OpenClaw with Open-Source Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-run-openclaw-with-open-source-models/",
+          "publishedOn": "2026-04-22T12:00:00.000Z",
+          "wordCount": 4548,
+          "title": "How to Run OpenClaw with Open-Source Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-148.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608912",
           "author": "Jacob Ingle",
           "description": "How you can build your own Thompson Sampling Algorithm object in Python and apply it to a hypothetical yet real-life example\nThe post DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling appeared first on Towards Data Science.",
@@ -1035,36 +1085,6 @@
           "wordCount": 5809,
           "title": "Causal Inference Is Eating Machine Learning",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-258.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608664",
-          "author": "Emmimal P Alexander",
-          "description": "This Article asks what happens next. The model has encoded its knowledge of fraud as symbolic rules. V14 below a threshold means fraud. What happens when that relationship starts to change?\nCan the rules act as a canary? In other words: can neuro-symbolic concept drift monitoring work at inference time, without labels?\nFull architecture background in Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules and How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment. You will follow this article without them, but the mechanism section makes more sense with context.\nThe post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/neuro-symbolic-fraud-detection-catching-concept-drift-before-f1-drops-label-free/",
-          "publishedOn": "2026-03-23T13:30:00.000Z",
-          "wordCount": 8011,
-          "title": "Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/neuro-symbolic-drift-detection-1-1024x683.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608662",
-          "author": "Katy Hagerty",
-          "description": "Rapid prototyping with Replit, AI agents, and minimal manual coding\nThe post I Built a Podcast Clipping App in One Weekend Using Vibe Coding appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-podcast-clipping-app-in-one-weekend-using-vibe-coding/",
-          "publishedOn": "2026-03-23T12:00:00.000Z",
-          "wordCount": 5486,
-          "title": "I Built a Podcast Clipping App in One Weekend Using Vibe Coding",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-19-2026-05_00_42-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608660",
-          "author": "Maria Mouschoutzi",
-          "description": "A step-by-step guide to making your OpenAI apps faster, cheaper, and more efficient\nThe post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/",
-          "publishedOn": "2026-03-22T15:00:00.000Z",
-          "wordCount": 4843,
-          "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/distorted-dandelions_lone-thomasky_bits-baume_3113x4393-e1773672178399.jpg"
         }
       ]
     },
@@ -1212,16 +1232,6 @@
           "wordCount": 9303,
           "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-mayo-vector-relational-1-1024x571.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23716",
-          "author": "Bala Priya C",
-          "description": "Memory is one of the most overlooked parts of agentic system design.",
-          "link": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/",
-          "publishedOn": "2026-03-23T11:00:16.000Z",
-          "wordCount": 10283,
-          "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/bala-7-steps-memory-in-ai-agents.png"
         }
       ]
     },
@@ -1230,6 +1240,21 @@
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
       "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22401",
+          "author": "Naveen Raman",
+          "description": "CMU researchers are presenting 194 papers at the Fourteenth International Conference on Learning Representations (ICLR 2026), held from April 23rd-April 27th at the Riocentro Convention and Event Center in Rio de Janeiro, Brazil. Here is a quick overview of the areas our researchers are working on: Here are our most frequent collaborator institutions: Table of Contents Oral Papers Poster Papers Applications Computer Vision Deep Learning General Machine Learning Optimization Reinforcement Learning Social Aspects Theory Uncategorized Oral Papers EditBench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits Authors: Wayne Chi (CMU), Valerie Chen (Carnegie Mellon University), Ryan Shar (Apple), Aditya Mittal (CMU, Carnegie Mellon University), Jenny Liang (School of Computer Science, Carnegie Mellon University), Wei-Lin Chiang (UC Berkeley / LMSYS), Anastasios Angelopoulos (University of California Berkeley), Ion Stoica (), Graham Neubig (Carnegie Mellon University), Ameet Talwalkar (University of California-Los Angeles), Chris Donahue (CMU / Google DeepMind) This work introduces EditBench, a new benchmark for testing how well AI models can edit existing code based on user instructions. Unlike prior benchmarks, it uses real-world coding tasks and contexts, including things like the surrounding code and cursor position. The benchmark includes 545 diverse problems, and results show that most models struggle—only a […]",
+          "link": "https://blog.ml.cmu.edu/2026/04/20/carnegie-mellon-at-iclr-2026/",
+          "publishedOn": "2026-04-20T11:18:39.000Z",
+          "wordCount": 11548,
+          "title": "Carnegie Mellon at ICLR 2026",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/04/Brazil.jpg",
+            "length": "713061",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/04/Brazil.jpg"
+        },
         {
           "id": "https://blog.ml.cmu.edu/?p=22381",
           "author": "Faria Huq",
@@ -1276,6 +1301,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/gemma4",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/gemma4",
+          "publishedOn": "2026-04-22T15:40:50.000Z",
+          "wordCount": 1882,
+          "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/gemma4.png"
+        },
         {
           "id": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
           "author": null,
@@ -1510,6 +1545,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/?p=1168790",
+          "author": "Sidharth Sinha, Anson Bastos, Xuchao Zhang, Akshay Nambi, Rujia Wang, Chetan Bansal",
+          "description": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliability can quickly break down because adapting models to domain-specific requirements is a slow and manual process that is difficult to reproduce. The core challenge is domain adaptation, […]\nThe post AutoAdapt: Automated domain adaptation for large language models appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+          "publishedOn": "2026-04-22T16:25:30.000Z",
+          "wordCount": 4027,
+          "title": "AutoAdapt: Automated domain adaptation for large language models",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/04/AutoAdapt-TWLIFB-1200x627-1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/?p=1168725",
           "author": "Doug Burger, Amy Luers, Ishai Menache",
           "description": "Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter operations, efficiency gains, and AI's potential across electrification, materials, and food systems.\nThe post Can we AI our way to a more sustainable world? appeared first on Microsoft Research.",
@@ -1645,6 +1690,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69e93606d5f8830e7d9fbad6",
+          "author": "Rasheedat Atinuke Jamiu",
+          "description": "Every time you spin up GPU infrastructure, you do the same thing: install CUDA drivers, DCGM, apply OS‑level GPU tuning, and fight dependency issues. Same old ritual every single time, wasting expensi",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/",
+          "publishedOn": "2026-04-22T20:30:00.000Z",
+          "wordCount": 4832,
+          "title": "How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fd393878-fe7c-458a-addf-7cd22d8280ac.png"
+        },
         {
           "id": "69e299d0fd22b8ad6276817b",
           "author": "Nataraj Sundar",
@@ -1806,6 +1861,21 @@
         {
           "id": "https://learnopencv.com/?p=78806",
           "author": "Sudip Chakrabarty",
+          "description": "Learn how to use YOLO26-pose with Python for real-time keypoint estimation on images and videos, understand its RLE-based architecture, and explore its reported benchmarks on COCO-17.",
+          "link": "https://learnopencv.com/yolo26-pose-estimation-tutorial/?utm_source=rss&utm_medium=rss&utm_campaign=yolo26-pose-estimation-tutorial",
+          "publishedOn": "2026-04-21T16:14:27.000Z",
+          "wordCount": null,
+          "title": "YOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics",
+          "enclosure": {
+            "url": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/16114653/dance.mp4",
+            "length": "3604814",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://learnopencv.com/?p=78806",
+          "author": "Sudip Chakrabarty",
           "description": "Learn how to use YOLO26-pose with Python for real-time keypoint estimation on images and videos, understand its RLE-based architecture, and explore its reported benchmarks on COCO-17.\nYOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics first appeared on LearnOpenCV.",
           "link": "https://learnopencv.com/yolo26-pose-estimation-tutorial/",
           "publishedOn": "2026-04-21T16:14:27.000Z",
@@ -1821,6 +1891,21 @@
         {
           "id": "https://learnopencv.com/?p=78702",
           "author": "Sudip Chakrabarty",
+          "description": "Learn how to use RF-DETR-Seg with Python for image and video inference, understand the architecture behind it, and evaluate its performance on COCO benchmarks.",
+          "link": "https://learnopencv.com/rf-detr-segmentation-real-time-detection-instance-segmentation-guide/?utm_source=rss&utm_medium=rss&utm_campaign=rf-detr-segmentation-real-time-detection-instance-segmentation-guide",
+          "publishedOn": "2026-04-07T14:16:05.000Z",
+          "wordCount": null,
+          "title": "RF-DETR Segmentation: Real-Time Detection & Instance Segmentation Guide",
+          "enclosure": {
+            "url": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/13231843/horse.mp4",
+            "length": "6875254",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://learnopencv.com/?p=78702",
+          "author": "Sudip Chakrabarty",
           "description": "Learn how to use RF-DETR-Seg with Python for image and video inference, understand the architecture behind it, and evaluate its performance on COCO benchmarks.\nRF-DETR Segmentation: Real-Time Detection & Instance Segmentation Guide first appeared on LearnOpenCV.",
           "link": "https://learnopencv.com/rf-detr-segmentation-real-time-detection-instance-segmentation-guide/",
           "publishedOn": "2026-04-07T14:16:05.000Z",
@@ -1832,6 +1917,21 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/04/RF_DETR-Segmentation.png"
+        },
+        {
+          "id": "https://learnopencv.com/?p=78688",
+          "author": "Sudip Chakrabarty",
+          "description": "Build a complete pipeline for YOLO26 instance segmentation, from image and video inference to custom dataset training and edge deployment.",
+          "link": "https://learnopencv.com/yolo26-instance-segmentation-pixel-perfect-ai-at-real-time-speed/?utm_source=rss&utm_medium=rss&utm_campaign=yolo26-instance-segmentation-pixel-perfect-ai-at-real-time-speed",
+          "publishedOn": "2026-03-27T03:09:19.000Z",
+          "wordCount": null,
+          "title": "YOLO26 Instance Segmentation: Pixel-Perfect AI at Real-Time Speed",
+          "enclosure": {
+            "url": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/03/13231851/yolo26-traffic-segmentation-demo.mp4",
+            "length": "10372082",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
         },
         {
           "id": "https://learnopencv.com/?p=78688",
@@ -1855,6 +1955,21 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=35627",
+          "author": "Sujana Urs",
+          "description": "The next frontier of artificial intelligence is not a screen. It is a kitchen counter, a warehouse floor, and a\nThe post Scaling Egocentric Video Data Collection for the Future of Embodied AI appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/scaling-egocentric-video-data-collection-for-the-future-of-embodied-ai/",
+          "publishedOn": "2026-04-22T14:04:03.000Z",
+          "wordCount": 2563,
+          "title": "Scaling Egocentric Video Data Collection for the Future of Embodied AI",
+          "enclosure": {
+            "url": "https://7583693.fs1.hubspotusercontent-na2.net/hubfs/7583693/Website%20Videos%20for%20Inkline/KITCHEN%20ACTIVITIES_1.mp4",
+            "length": "43832580",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Scaling-Egocentric-Video-Data-Collection-for-the-Future-of-Embodied-AI-1024x683.png"
+        },
         {
           "id": "https://imerit.net/?p=35551",
           "author": "Sujana Urs",
@@ -2012,6 +2127,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254145",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "A year or two ago, using advanced AI models felt expensive enough that you had to think twice before asking anything. Today, using those same models feels cheap enough that you don’t even notice the cost. This isn’t just because “technology improved” in a vague sense. There are specific reasons behind it, and it comes […]\nThe post Token Economics: Why AI is Getting “Cheaper” appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/why-ai-is-getting-cheaper/",
+          "publishedOn": "2026-04-22T14:26:37.000Z",
+          "wordCount": null,
+          "title": "Token Economics: Why AI is Getting “Cheaper”",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254119",
+          "author": "Riya Bansal",
+          "description": "Design has traditionally required multiple roles working in sequence: a strategist to define the problem, a designer to shape the solution, and a developer to build it. This means coordinating timelines, aligning opinions, and going through rounds of iteration before anything tangible is created. Claude Design removes much of this friction by turning ideas directly […]\nThe post From Idea to Output: Claude Does the Design Work  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/from-idea-to-output-claude-design/",
+          "publishedOn": "2026-04-22T13:35:43.000Z",
+          "wordCount": null,
+          "title": "From Idea to Output: Claude Does the Design Work",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=254084",
           "author": "Sarthak Dogra",
@@ -2506,28 +2643,6 @@
           "title": "Mistral Small 4: The One Model That Codes, Reasons, and Chats",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252828",
-          "author": "Dharmateja Priyadarshi Uddandarao",
-          "description": "One of the core challenges of data science is drawing meaningful causal conclusions from observational data. In many such cases, the goal is to estimate the true impact of a treatment or behaviour as fairly as possible. This article explores Propensity Score Matching (PSM), a statistical technique used for that very purpose. Unlike randomized experiments […]\nThe post Guide to Propensity Score Matching for Causal Inference to Estimate True Impact appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/guide-propensity-score-matching-causal-inference/",
-          "publishedOn": "2026-03-23T13:13:39.000Z",
-          "wordCount": null,
-          "title": "Guide to Propensity Score Matching for Causal Inference to Estimate True Impact",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252887",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "With so much happening in AI and machine learning today, figuring out where to start can feel overwhelming. Different learners prefer different approaches! Some want visuals, others prefer coding. Some prefer short form, others lean toward long-form learning. While many simply want a clear path into ML. This article is here to fix that. Instead […]\nThe post Top 10 YouTube Channels to Learn Machine Learning appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/youtube-channels-to-learn-machine-learning/",
-          "publishedOn": "2026-03-23T12:25:48.000Z",
-          "wordCount": null,
-          "title": "Top 10 YouTube Channels to Learn Machine Learning",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2572,6 +2687,66 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+          "author": null,
+          "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+          "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+          "publishedOn": "2026-04-22T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Making ChatGPT better for clinicians",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "author": null,
+          "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "publishedOn": "2026-04-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing workspace agents in ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/workspace-agents",
+          "author": null,
+          "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "link": "https://openai.com/academy/workspace-agents",
+          "publishedOn": "2026-04-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Workspace agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "author": null,
+          "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "publishedOn": "2026-04-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-openai-privacy-filter",
+          "author": null,
+          "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+          "link": "https://openai.com/index/introducing-openai-privacy-filter",
+          "publishedOn": "2026-04-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing OpenAI Privacy Filter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-images-2-0",
+          "author": null,
+          "description": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+          "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
+          "publishedOn": "2026-04-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ChatGPT Images 2.0",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
           "author": null,
@@ -3071,16 +3246,6 @@
           "wordCount": null,
           "title": "Powering product discovery in ChatGPT",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/creating-with-sora-safely",
-          "author": null,
-          "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-          "link": "https://openai.com/index/creating-with-sora-safely",
-          "publishedOn": "2026-03-23T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Creating with Sora Safely",
-          "imageUrl": null
         }
       ]
     },
@@ -3200,22 +3365,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!uD-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80b1a559-a0f5-4757-962c-1d9a21c17835_1024x576.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/lossy-self-improvement",
-          "author": "Nathan Lambert",
-          "description": "The case for why self-improvement is real but it doesn't lead to fast takeoff.",
-          "link": "https://www.interconnects.ai/p/lossy-self-improvement",
-          "publishedOn": "2026-03-22T19:39:40.000Z",
-          "wordCount": null,
-          "title": "Lossy self-improvement",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/720ffbb3-46c3-4ebe-9b0d-62985c025698_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/720ffbb3-46c3-4ebe-9b0d-62985c025698_3182x1790.png"
         }
       ]
     },
@@ -3225,6 +3374,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "kYkbcEo6YyjQiztpi",
+          "author": "LawrenceC",
+          "description": "This is a writeup based on a lightning talk I gave at an InkHaven hosted by Georgia Ray, where we were supposed to read a paper in about an hour, and then present what we learned to other participants.\nIntroduction and Background\nSo. I foolishly thought I could read a theoretical machine learning paper in an hour because it was in my area of expertise. Unfortunately, it turns out that theoretical CS professors know a lot of math and theoretical CS results that they reference constantly in their work, which makes their work very hard to read, even if you’re familiar with the general area.\nInstead of explaining a bunch of the substantial actual math behind the paper, the best I can do is give an overview of what the setup for the paper is, what the contributions of the paper are, and how the…",
+          "link": "https://www.alignmentforum.org/posts/kYkbcEo6YyjQiztpi/a-lay-introduction-to-on-the-complexity-of-neural",
+          "publishedOn": "2026-04-22T02:26:14.000Z",
+          "wordCount": null,
+          "title": "A \"Lay\" Introduction to \"On the Complexity of Neural Computation in Superposition\"",
+          "imageUrl": null
+        },
+        {
           "id": "TnAR5Sf5hphfnzNTr",
           "author": "Andrea_Miotti",
           "description": "ControlAI's mission is to avert the extinction risks posed by superintelligent AI. We believe that in order to do this, we must secure an international prohibition on its development.\nWe're working to make this happen through what we believe is the most natural and promising approach: helping decision-makers in governments and the public understand the risks and take action.\nWe believe that ControlAI can achieve an international prohibition on ASI development if scaled sufficiently. We estimate that it would take approximately a $50 million yearly budget in funding to give us a concrete chance at achieving this in the next few years.\nIn this post, we lay out some of the reasoning behind this estimate, and explain how additional funding past that threshold, including and beyond $500 million…",
@@ -3232,6 +3391,16 @@
           "publishedOn": "2026-04-21T16:39:22.000Z",
           "wordCount": null,
           "title": "Preventing extinction from ASI on a $50M yearly budget",
+          "imageUrl": null
+        },
+        {
+          "id": "mDcHzdoxB6sh3w2zG",
+          "author": "Alek Westover",
+          "description": "Training-based control studies how effective different training methods are at constraining the behavior of misaligned AI models. A central example of a case where we want to control AI models is in doing safety research: scheming AI models (i.e., AI models with an unintended long-term objective such as maximizing paperclips) would likely be motivated to sabotage our safety research, but we’d like to “force” them to do a good job on it anyways. In this post, I’ll discuss 5 approaches for evaluating how effective a training method is, and discuss their pros and cons.\n(In this post “I” refers to Alek. I’ve developed these ideas in discussion with my coauthors, but they might not agree with everything I’m saying). Thanks to Carlo Leonardo Attubato for feedback on a draft of this post. Thanks …",
+          "link": "https://www.alignmentforum.org/posts/mDcHzdoxB6sh3w2zG/five-approaches-to-evaluating-training-based-control",
+          "publishedOn": "2026-04-18T01:07:32.000Z",
+          "wordCount": null,
+          "title": "Five approaches to evaluating training-based control measures",
           "imageUrl": null
         },
         {
