@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608932",
+          "author": "Braden Riggs",
+          "description": "A practical pipeline for classifying messy free-text data into meaningful categories using a locally hosted LLM, no labeled training data required.\nThe post Using a Local LLM as a Zero-Shot Classifier appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/",
+          "publishedOn": "2026-04-23T16:30:00.000Z",
+          "wordCount": 4513,
+          "title": "Using a Local LLM as a Zero-Shot Classifier",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/zero-shot-free-text-classification-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608930",
+          "author": "Samir Saci",
+          "description": "Mario asked me why 18% of his shipments were late when every team hit their target. I built a live simulation, connected an AI agent, and let it investigate.\nThe post I Simulated an International Supply Chain and Let OpenClaw Monitor It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-simulated-an-international-supply-chain-and-let-openclaw-monitor-it/",
+          "publishedOn": "2026-04-23T15:00:00.000Z",
+          "wordCount": 4686,
+          "title": "I Simulated an International Supply Chain and Let OpenClaw Monitor It",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/temp.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608925",
+          "author": "Poorna Reddy",
+          "description": "The silent gaps in synthetic data that only show up when your model is already in production.\nThe post Your Synthetic Data Passed Every Test and Still Broke Your Model appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-synthetic-data-passed-every-test-and-still-broke-your-model/",
+          "publishedOn": "2026-04-23T13:30:00.000Z",
+          "wordCount": 5170,
+          "title": "Your Synthetic Data Passed Every Test and Still Broke Your Model",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-08_49_02-AM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608923",
+          "author": "Nikhil Dasari",
+          "description": "It’s simpler than you think.\nThe post Lasso Regression: Why the Solution Lives on a Diamond appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/lasso-regression-why-the-solution-lives-on-a-diamond/",
+          "publishedOn": "2026-04-23T12:00:00.000Z",
+          "wordCount": 8489,
+          "title": "Lasso Regression: Why the Solution Lives on a Diamond",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-brett-sayles-4178723-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608928",
           "author": "Luke Stuckey",
           "description": "Turning free-to-use data into a hypothesis-ready dataset\nThe post Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London appeared first on Towards Data Science.",
@@ -1045,46 +1085,6 @@
           "wordCount": 4436,
           "title": "From Dashboards to Decisions: Rethinking Data & Analytics in the Age of AI",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/marco-kaufmann-0kbNh7XrJ7Q-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608672",
-          "author": "Mukul Sood",
-          "description": "We’ve become remarkably good at building sophisticated agent systems, but we haven’t developed the same rigor around proving they work. \nThe post Production-Ready LLM Agents: A Comprehensive Framework for Offline Evaluation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/production-ready-llm-agents-a-comprehensive-framework-for-offline-evaluation/",
-          "publishedOn": "2026-03-24T13:30:00.000Z",
-          "wordCount": 6512,
-          "title": "Production-Ready LLM Agents: A Comprehensive Framework for Offline Evaluation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/featureimage_llmagent_offlineevaluaation-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608670",
-          "author": "Hugo Lu",
-          "description": "How to leverage a framework to effectively prioritize AI Initiatives to rapidly accelerate growth and efficiency\nThe post The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-complete-guide-to-ai-implementation-for-chief-data-ai-officers-in-2026/",
-          "publishedOn": "2026-03-24T12:00:00.000Z",
-          "wordCount": 8643,
-          "title": "The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/CDO_DIGEST-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608668",
-          "author": "Ibrahim Salami",
-          "description": "Master data types, index alignment, and defensive Pandas practices to prevent silent bugs in real data pipelines.\nThe post 4 Pandas Concepts That Quietly Break Your Data Pipelines appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/most-pandas-tutorials-skip-this-thats-why-your-code-breaks-later/",
-          "publishedOn": "2026-03-23T16:30:00.000Z",
-          "wordCount": 5096,
-          "title": "4 Pandas Concepts That Quietly Break Your Data Pipelines",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/silent-bugs-pandas.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608666",
-          "author": "Kaushik Rajan",
-          "description": "Your ML model predicts perfectly but recommends wrong actions. Learn the 5-question diagnostic, method comparison matrix, and Python workflow to fix it with causal inference.\nThe post Causal Inference Is Eating Machine Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/causal-inference-is-eating-machine-learning/",
-          "publishedOn": "2026-03-23T15:00:00.000Z",
-          "wordCount": 5809,
-          "title": "Causal Inference Is Eating Machine Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-258.jpg"
         }
       ]
     },
@@ -1222,16 +1222,6 @@
           "wordCount": 10444,
           "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-olumide-reduce-rag-llm-hallucinations-1024x571.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23753",
-          "author": "Matthew Mayo",
-          "description": "If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-          "link": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/",
-          "publishedOn": "2026-03-24T09:00:03.000Z",
-          "wordCount": 9303,
-          "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-mayo-vector-relational-1-1024x571.png"
         }
       ]
     },
@@ -1520,16 +1510,6 @@
           "wordCount": 911,
           "title": "Liberate your OpenClaw",
           "imageUrl": "https://huggingface.co/blog/assets/liberate-your-openclaw/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ServiceNow-AI/eva",
-          "author": null,
-          "description": "A Blog post by ServiceNow-AI on Hugging Face",
-          "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
-          "publishedOn": "2026-03-24T02:01:52.000Z",
-          "wordCount": 2487,
-          "title": "A New Framework for Evaluating Voice Agents (EVA)",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/eva.png"
         }
       ]
     },
@@ -1613,16 +1593,6 @@
           "wordCount": 3755,
           "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/V2GP-TWLIFB_v2-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1163921",
-          "author": "Doug Burger,  Subutai Ahmad, Nicolo Fusi",
-          "description": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence.\nThe post Will machines ever be intelligent?  appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
-          "publishedOn": "2026-03-23T15:00:21.000Z",
-          "wordCount": 14349,
-          "title": "Will machines ever be intelligent?",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Episode-1-Doug-Nicolo-Subutai_TheShapeofThings_TW_LI_FB_1200x627-1.jpg"
         }
       ]
     },
@@ -1691,6 +1661,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69e94caed5f8830e7dae1569",
+          "author": "Rudrendu Paul",
+          "description": "Your team shipped an LLM-based summaries feature to wave 1 workspaces at week 20 and now the post-launch doc is due. You need a causal effect number, a specific estimate you can defend to a statistici",
+          "link": "https://www.freecodecamp.org/news/why-ab-testing-breaks-in-ai-rollouts-and-how-to-fix-it/",
+          "publishedOn": "2026-04-22T22:33:18.000Z",
+          "wordCount": 4700,
+          "title": "Product Experimentation for AI Rollouts: Why A/B Testing Breaks and How Difference-in-Differences in Python Fixes It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ed63a287-c756-4dfd-a270-3c5f5ee0c1d0.png"
+        },
+        {
           "id": "69e93606d5f8830e7d9fbad6",
           "author": "Rasheedat Atinuke Jamiu",
           "description": "Every time you spin up GPU infrastructure, you do the same thing: install CUDA drivers, DCGM, apply OS‑level GPU tuning, and fight dependency issues. Same old ritual every single time, wasting expensi",
@@ -1729,16 +1709,6 @@
           "wordCount": 2008,
           "title": "How the Mixture of Experts Architecture Works in AI Models",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21b2975b-e6ad-462c-84c7-d966bf2092cb.png"
-        },
-        {
-          "id": "69c18bfc30a9b81e3a92bbbd",
-          "author": "Temitope Oyedele",
-          "description": "Training machine learning models usually starts out being organized and ends up in absolute chaos. We’ve all been there: dozens of experiments scattered across random notebooks, and model files saved",
-          "link": "https://www.freecodecamp.org/news/how-to-use-mlflow-to-manage-your-machine-learning-lifecycle/",
-          "publishedOn": "2026-03-23T18:52:44.000Z",
-          "wordCount": 3075,
-          "title": "How to Use MLflow to Manage Your Machine Learning Lifecycle",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f829ab55-926d-43cd-b027-16c754445b09.png"
         }
       ]
     },
@@ -1825,17 +1795,6 @@
           "publishedOn": "2026-04-01T18:20:18.000Z",
           "wordCount": null,
           "title": "Week Ending 3.29.2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69c1530712786c0c161024d2",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd",
-          "publishedOn": "2026-03-23T14:50:30.000Z",
-          "wordCount": null,
-          "title": "Week Ending 3.22.2026",
           "itunes": {},
           "imageUrl": null
         }
@@ -1955,6 +1914,26 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.net/",
       "articles": [
+        {
+          "id": "https://imerit.net/?p=35690",
+          "author": "Sujana Urs",
+          "description": "AI systems do not build themselves. Every chatbot, medical tool, and autonomous system depends on human judgment at each stage\nThe post Understanding Task Complexity in AI Training: From Simple Reviews to Expert-Level Annotation appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/understanding-task-complexity-in-ai-training-from-simple-reviews-to-expert-level-annotation/",
+          "publishedOn": "2026-04-23T15:07:29.000Z",
+          "wordCount": 3408,
+          "title": "Understanding Task Complexity in AI Training: From Simple Reviews to Expert-Level Annotation",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Understanding-Task-Complexity-in-AI-Training-From-Simple-Reviews-to-Expert-Level-Annotation.png"
+        },
+        {
+          "id": "https://imerit.net/?p=35673",
+          "author": "Sujana Urs",
+          "description": "Autonomous systems rely on LiDAR for accurate perception and spatial awareness to perform reliably in many structured driving situations. However,\nThe post Strengthening Autonomous Systems with Edge-Case LiDAR Data appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/strengthening-autonomous-systems-with-edge-case-lidar-data/",
+          "publishedOn": "2026-04-23T08:17:35.000Z",
+          "wordCount": 3166,
+          "title": "Strengthening Autonomous Systems with Edge-Case LiDAR Data",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Strengthening-Autonomous-Systems-with-Edge-Case-LiDAR-Data-1024x683.png"
+        },
         {
           "id": "https://imerit.net/?p=35627",
           "author": "Sujana Urs",
@@ -2089,36 +2068,6 @@
           "wordCount": 3917,
           "title": "How to Start a Career in AI Training: Skills, Domains, and Growth Paths",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-How-to-Start-a-Career-in-AI-Training-Skills-Domains-and-Growth-Paths-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=34426",
-          "author": "Sujana Urs",
-          "description": "Autonomous systems across sectors often work without human intervention. Self-driving vehicles navigate busy highways. Agricultural robots and precision sprayers manage\nThe post How 3D Semantic Segmentation Improves Object Boundary Accuracy in Autonomous Systems appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/how-3d-semantic-segmentation-improves-object-boundary-accuracy-in-autonomous-systems/",
-          "publishedOn": "2026-03-24T06:30:00.000Z",
-          "wordCount": 2686,
-          "title": "How 3D Semantic Segmentation Improves Object Boundary Accuracy in Autonomous Systems",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-How-3D-Semantic-Segmentation-Improves-Object-Boundary-Accuracy-in-Autonomous-Systems-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=34399",
-          "author": "Inkline Admin",
-          "description": "An AI-generated video can look convincing at first glance. The characters are detailed, the lighting feels natural, and the motion\nThe post Solving Temporal Drift in AI-Generated Video appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/solving-temporal-drift-in-ai-generated-video/",
-          "publishedOn": "2026-03-23T18:24:27.000Z",
-          "wordCount": 3616,
-          "title": "Solving Temporal Drift in AI-Generated Video",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Temporal-Drift-in-AI-Generated-Video-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=34399",
-          "author": "Inkline Admin",
-          "description": "An AI-generated video can look convincing at first glance. The characters are detailed, the lighting feels natural, and the motion\nThe post Temporal Drift in AI-Generated Video appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/temporal-drift-in-ai-generated-video/",
-          "publishedOn": "2026-03-23T18:24:27.000Z",
-          "wordCount": 3606,
-          "title": "Temporal Drift in AI-Generated Video",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/03/Feature-IMG-Temporal-Drift-in-AI-Generated-Video-scaled.jpg"
         }
       ]
     },
@@ -2127,6 +2076,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254116",
+          "author": "Nitika Sharma",
+          "description": "The AI image generation space has been highly competitive over the past 18 months. Models keep improving and replacing each other at the top. Google’s Nano Banana went viral in mid-2025. It topped the benchmarks and set a new standard for image quality. Now OpenAI has released ChatGPT Images 2.0, powered by gpt-image-2. Within hours […]\nThe post Is GPT Image 2 the Best Image Generation Model? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/gpt-image-2-best-image-generation-model/",
+          "publishedOn": "2026-04-23T10:43:45.000Z",
+          "wordCount": null,
+          "title": "Is GPT Image 2 the Best Image Generation Model?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=254145",
           "author": "Vasu Deo Sankrityayan",
@@ -2621,28 +2581,6 @@
           "title": "Top 46 AI Tools in 2026 You Must Use",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252943",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "For different learning goals and career paths, choosing the right certification can get confusing. Some people want analytics. Others want ads. Some care about AI. And many just want something credible to add to their resume. This list is built with that in mind. A set of free Google certificate courses, each aligned to a […]\nThe post Top 5 Free Google Certificate Courses in 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/free-google-certificate-courses/",
-          "publishedOn": "2026-03-24T12:18:58.000Z",
-          "wordCount": null,
-          "title": "Top 5 Free Google Certificate Courses in 2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=252908",
-          "author": "Harsh Mishra",
-          "description": "Artificial intelligence is rapidly evolving. New models emerge nearly every day, with each one attempting to be the best. In this sea of similar models, we see something new every now and then. One of such models is the new Mistral Small 4. It is an innovative AI model that is not only going to […]\nThe post Mistral Small 4: The One Model That Codes, Reasons, and Chats appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/mistral-small-4/",
-          "publishedOn": "2026-03-24T08:59:47.000Z",
-          "wordCount": null,
-          "title": "Mistral Small 4: The One Model That Codes, Reasons, and Chats",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2687,6 +2625,106 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-gpt-5-5",
+          "author": null,
+          "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "link": "https://openai.com/index/introducing-gpt-5-5",
+          "publishedOn": "2026-04-23T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing GPT-5.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gpt-5-5-system-card",
+          "author": null,
+          "description": "",
+          "link": "https://openai.com/index/gpt-5-5-system-card",
+          "publishedOn": "2026-04-23T11:00:00.000Z",
+          "wordCount": null,
+          "title": "GPT-5.5 System Card",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/codex-automations",
+          "author": null,
+          "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+          "link": "https://openai.com/academy/codex-automations",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Automations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "author": null,
+          "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Top 10 uses for Codex at work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/codex-plugins-and-skills",
+          "author": null,
+          "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "link": "https://openai.com/academy/codex-plugins-and-skills",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Plugins and skills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/working-with-codex",
+          "author": null,
+          "description": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "link": "https://openai.com/academy/working-with-codex",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Working with Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/codex-settings",
+          "author": null,
+          "description": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+          "link": "https://openai.com/academy/codex-settings",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Codex settings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/what-is-codex",
+          "author": null,
+          "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+          "link": "https://openai.com/academy/what-is-codex",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "What is Codex?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/codex-how-to-start",
+          "author": null,
+          "description": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+          "link": "https://openai.com/academy/codex-how-to-start",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "How to get started with Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+          "author": null,
+          "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+          "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+          "publishedOn": "2026-04-23T00:00:00.000Z",
+          "wordCount": null,
+          "title": "GPT-5.5 Bio Bug Bounty",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/making-chatgpt-better-for-clinicians",
           "author": null,
@@ -3215,36 +3253,6 @@
           "publishedOn": "2026-03-25T00:00:00.000Z",
           "wordCount": null,
           "title": "Introducing the OpenAI Safety Bug Bounty program",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-          "author": null,
-          "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-          "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-          "publishedOn": "2026-03-24T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Helping developers build safer AI experiences for teens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/update-on-the-openai-foundation",
-          "author": null,
-          "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-          "link": "https://openai.com/index/update-on-the-openai-foundation",
-          "publishedOn": "2026-03-24T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Update on the OpenAI Foundation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-          "author": null,
-          "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-          "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-          "publishedOn": "2026-03-24T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Powering product discovery in ChatGPT",
           "imageUrl": null
         }
       ]
