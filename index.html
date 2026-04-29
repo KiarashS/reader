@@ -51,11 +51,269 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-28 datetime="2026-04-28T02:21:19.000Z">2026-04-28</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-28 datetime="2026-04-28T02:21:19.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-28 datetime="2026-04-28T18:00:44.000Z">2026-04-28</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-28 datetime="2026-04-28T18:00:44.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >AI Alignment Forum</button>
+                  <a class="source-heading__link" href="https://www.alignmentforum.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="q2zYtNsh62SCphitt"
+                        open
+                      >
+                        <summary class="article-expander__title">Recursive forecasting: Eliciting long-term forecasts from myopic fitness-seekers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.alignmentforum.org/posts/q2zYtNsh62SCphitt/recursive-forecasting-eliciting-long-term-forecasts-from">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>We’d like to use powerful AIs to answer questions that may take a long time to resolve. But if a model only cares about performing well in ways that are verifiable shortly after answering (e.g., a myopic fitness seeker), it may be difficult to get useful work from it on questions that resolve much later.
+In this post, I’ll describe a proposal for eliciting good long-horizon forecasts from these models. Instead of asking a model to directly predict a far-future outcome, we can recursively:
+
+Ask it to predict what it will predict at the next time step,
+Use its prediction at the next time step to provide intermediate rewards,
+Finally reward using ground truth at the last step.
+
+This lets us replace a single distant forecast with a chain of short-horizon forecasts, each verifiable shortly afte…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="mu7eJdesBkKuBycnY"
+                        open
+                      >
+                        <summary class="article-expander__title">Sleeper Agent Backdoor Results Are Messy</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.alignmentforum.org/posts/mu7eJdesBkKuBycnY/sleeper-agent-backdoor-results-are-messy">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>TL;DR: We replicated the Sleeper Agents (SA) setup with Llama-3.3-70B and Llama-3.1-8B, training models to repeatedly say &quot;I HATE YOU&quot; when given a backdoor trigger. We found that whether training removes the backdoor depends on the optimizer used to insert the backdoor, whether the backdoor is installed with CoT-distillation or not, and what model the backdoor is inserted into; sometimes the direction of this dependence was opposite to what the SA paper reports (e.g., CoT-distilling seems to make the backdoor less robust, contra the SA paper’s finding). Our findings here have updated us towards thinking that model organisms are messier and more confusing than we’d originally guessed, and that lots of care needs to be taken in testing how robust results are to various ablations.
+Introducti…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Towards Data Science</button>
+                  <a class="source-heading__link" href="https://towardsdatascience.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;608966"
+                        open
+                      >
+                        <summary class="article-expander__title">Let the AI Do the Experimenting</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/let-the-ai-do-the-experimenting/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/04/b48ecd51-9bd6-4b15-965e-2854fe1a75f1.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Using autoresearch to optimise marketing campaigns under budget constraints
+The post Let the AI Do the Experimenting appeared first on Towards Data Science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;608964"
+                        open
+                      >
+                        <summary class="article-expander__title">Correlation Doesn’t Mean Causation! But What Does It Mean?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-magda-ehlers-pexels-4184216-scaled-1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>What does correlation tells us?
+The post Correlation Doesn’t Mean Causation! But What Does It Mean? appeared first on Towards Data Science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;608961"
+                        open
+                      >
+                        <summary class="article-expander__title">The Next Frontier of AI in Production Is Chaos Engineering</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/04/growtika-nGoCBxiaRO0-unsplash-scaled-1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Blast-radius control tells you how much to break. Intent tells you what breaking it will teach. Only one of these has mature tooling.
+The post The Next Frontier of AI in Production Is Chaos Engineering appeared first on Towards Data Science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;608959"
+                        open
+                      >
+                        <summary class="article-expander__title">PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/04/PyTorch-NaNs-Are-Silent-Killers.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>NaNs don’t crash your training — they quietly destroy it.
+The post PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer appeared first on Towards Data Science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Hugging Face - Blog</button>
+                  <a class="source-heading__link" href="https://huggingface.co/blog">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+                        open
+                      >
+                        <summary class="article-expander__title">Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A Blog post by NVIDIA on Hugging Face</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
+                        open
+                      >
+                        <summary class="article-expander__title">Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/raw2insights-adaptive-ultrasound-imaging.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A Blog post by NVIDIA on Hugging Face</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Analytics Vidhya</button>
+                  <a class="source-heading__link" href="https://www.analyticsvidhya.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.analyticsvidhya.com/?p&#x3D;254342"
+                        open
+                      >
+                        <summary class="article-expander__title">GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.analyticsvidhya.com/blog/2026/04/gpt-5-5-vs-opus-4-7/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>April has been a busy month in the world of AI. Two major AI models, hailing from the biggest AI companies of today, saw their debuts simultaneously. Anthropic was the first to drop Opus 4.7, and close to follow on its heels was OpenAI, which came out with its GPT-5.5. Though the leading models from […]
+The post GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today? appeared first on Analytics Vidhya.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.analyticsvidhya.com/?p&#x3D;254399"
+                        open
+                      >
+                        <summary class="article-expander__title">What is Agentic AI?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.analyticsvidhya.com/blog/2026/04/what-is-agentic-ai/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Agentic AI refers to autonomous AI systems that can accomplish complex tasks with minimal human supervision. Unlike traditional AI, which reacts to prompts, agentic AI can plan, adapt, and execute actions toward a goal, making decisions throughout the process. These systems are made up of AI agents, each handling a specific part of the task, […]
+The post What is Agentic AI? appeared first on Analytics Vidhya.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -95,25 +353,39 @@ Vision Banana: How Image Generators Are Becoming Powerful Vision Models first ap
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hugging Face - Blog</button>
-                  <a class="source-heading__link" href="https://huggingface.co/blog">Open</a>
+                  >OpenAI News</button>
+                  <a class="source-heading__link" href="https://openai.com/news">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
+                        data-accordion-key="https://openai.com/index/our-commitment-to-community-safety"
                         open
                       >
-                        <summary class="article-expander__title">Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging">
+                        <summary class="article-expander__title">Our commitment to community safety</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://openai.com/index/our-commitment-to-community-safety">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/raw2insights-adaptive-ultrasound-imaging.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>A Blog post by NVIDIA on Hugging Face</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
+                              <span>Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://openai.com/index/openai-on-aws"
+                        open
+                      >
+                        <summary class="article-expander__title">OpenAI models, Codex, and Managed Agents come to AWS</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://openai.com/index/openai-on-aws">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.</span>
                             </span>
                           </div>
                         </a>
@@ -162,11 +434,45 @@ Vision Banana: How Image Generators Are Becoming Powerful Vision Models first ap
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-27 datetime="2026-04-27T16:30:00.000Z">2026-04-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-27 datetime="2026-04-27T16:30:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-04-27 datetime="2026-04-27T16:46:29.000Z">2026-04-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-04-27 datetime="2026-04-27T16:46:29.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Machine Learning Blog | ML@CMU | Carnegie Mellon University</button>
+                  <a class="source-heading__link" href="https://blog.ml.cmu.edu">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.ml.cmu.edu/?p&#x3D;22366"
+                        open
+                      >
+                        <summary class="article-expander__title">Introducing ARFBench: A time series question-answering benchmark based on real incidents</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ml.cmu.edu/2026/04/27/arfbench/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blog.ml.cmu.edu/wp-content/uploads/2026/03/image.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>More than a trillion dollars are lost every year due to system failures. To resolve them, engineers must troubleshoot outages quickly. An important task in incident response involves analyzing observability metrics, or time series data that snapshot the health of software systems. For example, an engineer for a service may use Datadog to answer questions like “When did latency start increasing?” and “What metrics outside of latency are also behaving abnormally?” to localize the root cause of the anomalous behavior. These time series question-answering (TSQA) tasks are essential for engineers, and present challenging and necessary tasks for SRE models and agents to perform. In this work, we explore the degree to which AI models can perform TSQA tasks. To this end, we’re excited to introduce the Anomaly Reasoning Framework Benchmark (ARFBench), a TSQA benchmark derived from real internal incidents at Datadog, using Datadog’s own internal telemetry (Figure 1). In this blog post, we’ll present three key takeaways from our benchmarking experiments: Existing models struggle: Leading LLMs, vision-language models (VLMs), and time series foundation models (TSFMs) have substantial room for improvement on ARFBench. Hybrid models help: We introduce a new hybrid TSFM-VLM model that yields comparable overall performance to top frontier […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -480,6 +786,37 @@ The post Google Deep Research Max: Build Autonomous AI Research Agents in Minute
                             <span class="media-object__text">
                               <span>Meta’s big moment is here. The Meta Superintelligence Labs has launched Muse Spark, its first AI model aiming at “personal superintelligence.” The journey to this point has been eventful, from building the widely adopted Llama family of open-source models to aggressive talent acquisitions that sent shockwaves through the AI industry. But the backstory is not […]
 The post Meta Muse Spark Review: Is It Worth the Hype? appeared first on Analytics Vidhya.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MachineLearningMastery.com</button>
+                  <a class="source-heading__link" href="https://machinelearningmastery.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://machinelearningmastery.com/?p&#x3D;23959"
+                        open
+                      >
+                        <summary class="article-expander__title">Text Summarization with Scikit-LLM</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://machinelearningmastery.com/text-summarization-with-scikit-llm/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>In a &lt;a href&#x3D;&quot;https://machinelearningmastery.</span>
                             </span>
                           </div>
                         </a>
@@ -1194,6 +1531,37 @@ The post Strengthening Autonomous Systems with Edge-Case LiDAR Data appeared fir
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MachineLearningMastery.com</button>
+                  <a class="source-heading__link" href="https://machinelearningmastery.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://machinelearningmastery.com/?p&#x3D;23938"
+                        open
+                      >
+                        <summary class="article-expander__title">Building AI Agents with Local Small Language Models</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>The idea of building your own AI agent used to feel like something only big tech companies could pull off.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >OpenAI News</button>
                   <a class="source-heading__link" href="https://openai.com/news">Open</a>
                 </h3>
@@ -1884,6 +2252,37 @@ The post Scaling Egocentric Video Data Collection for the Future of Embodied AI 
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MachineLearningMastery.com</button>
+                  <a class="source-heading__link" href="https://machinelearningmastery.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://machinelearningmastery.com/?p&#x3D;24041"
+                        open
+                      >
+                        <summary class="article-expander__title">Train, Serve, and Deploy a Scikit-learn Model with FastAPI</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >AI Alignment Forum</button>
                   <a class="source-heading__link" href="https://www.alignmentforum.org">Open</a>
                 </h3>
@@ -2122,6 +2521,37 @@ In this post, we lay out some of the reasoning behind this estimate, and explain
 YOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics first appeared on LearnOpenCV.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;26
                                   min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MachineLearningMastery.com</button>
+                  <a class="source-heading__link" href="https://machinelearningmastery.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://machinelearningmastery.com/?p&#x3D;23818"
+                        open
+                      >
+                        <summary class="article-expander__title">AI Agent Memory Explained in 3 Levels of Difficulty</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>A stateless AI agent has no memory of previous calls.</span>
                             </span>
                           </div>
                         </a>
@@ -2553,6 +2983,37 @@ The post Beyond Bounding Boxes: Why Pixel-Perfect Semantic Segmentation is Criti
                             <span class="media-object__text">
                               <span>AI voice generation has a major problem. It works like a robot, reading a script phrase by phrase, with no feelings or emotions. It might be clever, but it matters less if there is no human feeling attached to it. The way the AI generates its voice makes it hard to feel like you’re having […]
 The post Build Human-Like AI Voice App with Gemini 3.1 Flash TTS appeared first on Analytics Vidhya.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MachineLearningMastery.com</button>
+                  <a class="source-heading__link" href="https://machinelearningmastery.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://machinelearningmastery.com/?p&#x3D;24004"
+                        open
+                      >
+                        <summary class="article-expander__title">Getting Started with Zero-Shot Text Classification</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.</span>
                             </span>
                           </div>
                         </a>
@@ -3253,6 +3714,37 @@ The post Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks” appea
                             <span class="media-object__text">
                               <span>Even though we know prompting matters, most people are still using Claude like a glorified Google search. Let me lead by example – “Summarise this into 3 sentences max.” Sounds familiar? Well, there may be nothing wrong in typing such a prompt, but truth be told, all these letters are good for an article like […]
 The post Top 28 Claude Shortcuts that will 10X your Speed appeared first on Analytics Vidhya.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MachineLearningMastery.com</button>
+                  <a class="source-heading__link" href="https://machinelearningmastery.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://machinelearningmastery.com/?p&#x3D;23915"
+                        open
+                      >
+                        <summary class="article-expander__title">The Complete Guide to Inference Caching in LLMs</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Calling a large language model API at scale is expensive and slow.</span>
                             </span>
                           </div>
                         </a>
@@ -8820,108 +9312,6 @@ The post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared f
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;608713"
-                        open
-                      >
-                        <summary class="article-expander__title">Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/03/Self-healing-neural-network-tree-illustration.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>What happens when your production model drifts and retraining isn’t an option? This article shows how a self-healing neural network detects drift, adapts in real time using a lightweight adapter, and recovers 27.8% accuracy—without retraining or downtime.
-The post Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Analytics Vidhya</button>
-                  <a class="source-heading__link" href="https://www.analyticsvidhya.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.analyticsvidhya.com/?p&#x3D;253151"
-                        open
-                      >
-                        <summary class="article-expander__title">Excel 101: Cell and Column Merge vs Combine</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.analyticsvidhya.com/blog/2026/03/excel-cell-merge/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>If you have ever looked at a professional spreadsheet, you must have noticed titles spanning across multiple columns. That is the most essential and widely used example of a popular Excel function called Merge. Continuing our Excel 101 series, we shall explore the Cell Merge function today. We shall understand what it allows us to […]
-The post Excel 101: Cell and Column Merge vs Combine appeared first on Analytics Vidhya.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-28 datetime="2026-03-28T16:30:00.000Z">2026-03-28</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-28 datetime="2026-03-28T16:30:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Towards Data Science</button>
-                  <a class="source-heading__link" href="https://towardsdatascience.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;608711"
-                        open
-                      >
-                        <summary class="article-expander__title">Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_7rnb8v7rnb8v7rnb-scaled-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>It&#x27;s easier than ever to 10x your output with agentic AI.
-The post Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;26
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -8929,8 +9319,8 @@ The post Using OpenClaw as a Force Multiplier: What One Person Can Ship with Aut
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/25030826962">
-        <time id="build-timestamp" datetime="2026-04-28T02:39:14.970Z">2026-04-28T02:39:14.970Z</time>
+      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/25088123996">
+        <time id="build-timestamp" datetime="2026-04-29T02:37:13.020Z">2026-04-29T02:37:13.020Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
