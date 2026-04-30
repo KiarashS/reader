@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=608975",
+          "author": "Kiril Kazlou",
+          "description": "How we replaced Python pipelines with dlt, dbt, and Trino — and cut delivery time from weeks to one day.\nThe post 4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers/",
+          "publishedOn": "2026-04-29T16:30:00.000Z",
+          "wordCount": 5206,
+          "title": "4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Group-1-3-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608972",
+          "author": "Cole Sussmeier",
+          "description": "The best machine learning model is not one model\nThe post Ensembles of Ensembles of Ensembles: A Guide to Stacking appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ensembles-of-ensembles-of-ensembles/",
+          "publishedOn": "2026-04-29T15:00:00.000Z",
+          "wordCount": 4852,
+          "title": "Ensembles of Ensembles of Ensembles: A Guide to Stacking",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-31.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608970",
+          "author": "Ida Silfverskiöld",
+          "description": "Caching, lazy-loading, routing, compaction, and more\nThe post Agentic AI: How to Save on Tokens appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/",
+          "publishedOn": "2026-04-29T13:30:00.000Z",
+          "wordCount": 8005,
+          "title": "Agentic AI: How to Save on Tokens",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Skarmavbild-2026-04-26-kl.-16.36.44.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608968",
+          "author": "Sanil Khurana",
+          "description": "A deep dive into how Apache Flink works, why it exists, and learning it while building a real-time recommendation engine\nThe post System Design Series: Apache Flink from 10,000 Feet, and Building a Flink-powered Recommendation Engine appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/system-design-series-apache-flink-from-10000-feet-and-building-a-flink-powered-recommendation-engine/",
+          "publishedOn": "2026-04-29T12:00:00.000Z",
+          "wordCount": 6353,
+          "title": "System Design Series: Apache Flink from 10,000 Feet, and Building a Flink-powered Recommendation Engine",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-28-2026-10_45_01-AM.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=608966",
           "author": "Mariya Mansurova",
           "description": "Using autoresearch to optimise marketing campaigns under budget constraints\nThe post Let the AI Do the Experimenting appeared first on Towards Data Science.",
@@ -1055,36 +1095,6 @@
           "wordCount": 5317,
           "title": "How to Lie with Statistics with your Robot Best Friend",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-310-1024x683-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608698",
-          "author": "TDS Editors",
-          "description": "Sara A. Metwalli on the rise of a promising new technology, the effects of LLM on her work, and more.\nThe post Why Data Scientists Should Care About Quantum Computing appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/",
-          "publishedOn": "2026-03-30T12:00:00.000Z",
-          "wordCount": 4147,
-          "title": "Why Data Scientists Should Care About Quantum Computing",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Copy-of-Author-Spotlight-29.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608709",
-          "author": "Emmimal P Alexander",
-          "description": "SHAP needs 30 ms to explain a fraud prediction. That explanation is stochastic, runs after the decision, and requires a background dataset you have to maintain at inference time. This article benchmarks a neuro-symbolic model that produces a deterministic, human-readable explanation in 0.9 ms — as a by-product of the forward pass itself — on the Kaggle Credit Card Fraud dataset. The speedup is 33×. The fraud recall is identical.\nThe post Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/",
-          "publishedOn": "2026-03-30T10:47:00.000Z",
-          "wordCount": 6420,
-          "title": "Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/SHAP-Vs-Neuro-symbolic.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608718",
-          "author": "Egor Howell",
-          "description": "Spoiler, it will take longer than 3 months\nThe post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/",
-          "publishedOn": "2026-03-29T16:15:00.000Z",
-          "wordCount": 5364,
-          "title": "How to Become an AI Engineer Fast (Skills, Projects, Salary)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Egor-Aug-Thumbnail-2.jpg"
         }
       ]
     },
@@ -1356,6 +1366,36 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "author": null,
+          "description": "A Blog post by EvalEval Coalition on Hugging Face",
+          "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "publishedOn": "2026-04-29T16:45:09.000Z",
+          "wordCount": 4032,
+          "title": "AI evals are becoming the new compute bottleneck",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6413251362e6057cbb6259bd/ukJJW86oJu36zOJwqZJBG.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "author": null,
+          "description": "A Blog post by IBM Granite on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "publishedOn": "2026-04-29T15:01:48.000Z",
+          "wordCount": 3170,
+          "title": "Granite 4.1 LLMs: How They’re Built",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-1.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/inference-providers-deepinfra",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+          "publishedOn": "2026-04-29T00:00:00.000Z",
+          "wordCount": 1230,
+          "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+          "imageUrl": "https://huggingface.co/blog/assets/inference-providers/welcome-deepinfra.jpg"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
           "author": null,
@@ -2009,6 +2049,16 @@
       "siteUrl": "https://imerit.net/",
       "articles": [
         {
+          "id": "https://imerit.net/?p=35877",
+          "author": "Sujana Urs",
+          "description": "LiDAR sensor fusion annotation combines labeled 3D point cloud data with synchronized camera and radar inputs to give autonomous vehicle\nThe post LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles appeared first on iMerit.",
+          "link": "https://imerit.net/resources/blog/lidar-sensor-fusion-annotating-3d-point-clouds-for-safer-autonomous-vehicles/",
+          "publishedOn": "2026-04-29T16:06:58.000Z",
+          "wordCount": 2485,
+          "title": "LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles",
+          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Operating-a-communication-and-detection-system.jpg"
+        },
+        {
           "id": "https://imerit.net/?p=35807",
           "author": "Sujana Urs",
           "description": "iMerit asserts that agronomy expertise is the “secret ingredient” for weeding robot accuracy, bridging the gap between lab models and\nThe post Why Agronomy Expertise is the Secret Ingredient for Weeding Robot Accuracy appeared first on iMerit.",
@@ -2180,6 +2230,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254432",
+          "author": "Ravi Teja Pagidoju",
+          "description": "There can be some practical constraints when it comes to deploying the AI models for retail environments. Retail environments can include store-level systems, edge devices, and budget conscious setup, especially for small to medium-sized retail companies. One such major use case is demand forecasting for inventory management or shelf optimization. It requires the deployed model […]\nThe post Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/",
+          "publishedOn": "2026-04-29T15:55:47.000Z",
+          "wordCount": null,
+          "title": "Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254455",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "There’s a lot of noise right now making it seem like you have to pick a side between MCP and Agent Skills. It’s being framed like a high-stakes rivalry, but that’s a total misunderstanding of the tech. Skills and MCP is fundamentally different things. Skills are just a prompt loaded on demand, while MCP is […]\nThe post MCP vs Agent Skills: Different Altogether appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/",
+          "publishedOn": "2026-04-29T06:31:00.000Z",
+          "wordCount": null,
+          "title": "MCP vs Agent Skills: Different Altogether",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=254342",
           "author": "Sarthak Dogra",
@@ -2674,28 +2746,6 @@
           "title": "Gemini 3.1 Flash Live: AI Conversations Now Feel Way More Human",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253200",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Projects are the bridge between learning and becoming a professional. While theory builds fundamentals, recruiters value candidates who can solve real problems. A strong, diverse portfolio showcases practical skills, technical range, and problem-solving ability.  This guide compiles 20+ solved projects across ML domains, from basic regression and forecasting to NLP and Computer Vision. The tools […]\nThe post 20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/solved-ml-projects/",
-          "publishedOn": "2026-03-30T12:22:25.000Z",
-          "wordCount": null,
-          "title": "20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253075",
-          "author": "Vipin Vashisth",
-          "description": "Pandas DataFrames provide powerful tools for selecting and indexing data efficiently. The two most commonly used indexers are .loc and .iloc. The .loc method selects data using labels such as row and column names, while .iloc works with integer positions based on a 0-based index. Although they may seem similar, they function differently and can […]\nThe post Iloc vs Loc in Pandas: A Guide with Examples  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/03/iloc-vs-loc-in-pandas/",
-          "publishedOn": "2026-03-30T11:46:09.000Z",
-          "wordCount": null,
-          "title": "Iloc vs Loc in Pandas: A Guide with Examples",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2740,6 +2790,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+          "author": null,
+          "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+          "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+          "publishedOn": "2026-04-29T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Building the compute infrastructure for the Intelligence Age",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+          "author": null,
+          "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+          "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+          "publishedOn": "2026-04-29T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Cybersecurity in the Intelligence Age",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/our-commitment-to-community-safety",
           "author": null,
@@ -3399,16 +3469,6 @@
           "wordCount": null,
           "title": "Accelerating the next phase of AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/helping-disaster-response-teams-asia",
-          "author": null,
-          "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-          "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-          "publishedOn": "2026-03-29T22:15:00.000Z",
-          "wordCount": null,
-          "title": "Helping disaster response teams turn AI into action across Asia",
-          "imageUrl": null
         }
       ]
     },
@@ -3512,22 +3572,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c03578d7-2c0a-47cd-988e-c0e29008cc06_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
-          "author": "Florian Brand",
-          "description": "New orgs! New types of models! With Nemotron Super, Sarvam, Cohere Transcribe, & others",
-          "link": "https://www.interconnects.ai/p/latest-open-artifacts-20-new-orgs",
-          "publishedOn": "2026-03-30T13:02:45.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#20): New orgs! New types of models! With Nemotron Super, Sarvam, Cohere Transcribe, & others",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!uD-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80b1a559-a0f5-4757-962c-1d9a21c17835_1024x576.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!uD-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80b1a559-a0f5-4757-962c-1d9a21c17835_1024x576.png"
         }
       ]
     },
@@ -3536,6 +3580,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "LByP4qsF8a4g7Pz3p",
+          "author": "egan",
+          "description": "One of the main hopes for AI safety is using AIs to automate AI safety research. However, if models are misaligned, then they may sabotage the safety research. For example, misaligned AIs may try to:\n\nPerform sloppy research in order to slow down the rate of research progress\nMake AI systems appear safer than they are\nTrain a successor model to be misaligned\n\nWhether we should worry about those things depends substantially on how hard it is to sabotage research in ways that are hard for reviewers to detect. To study this, we introduce Auditing Sabotage Bench, a benchmark of 9 ML research codebases with sabotaged variants.\nWe tested frontier LLMs and LLM-assisted humans on the benchmark and found that neither reliably catches sabotage. Our best auditor, Gemini 3.1 Pro, achieved an AUROC of …",
+          "link": "https://www.alignmentforum.org/posts/LByP4qsF8a4g7Pz3p/research-sabotage-in-ml-codebases",
+          "publishedOn": "2026-04-30T00:31:54.000Z",
+          "wordCount": null,
+          "title": "Research Sabotage in ML Codebases",
+          "imageUrl": null
+        },
         {
           "id": "q2zYtNsh62SCphitt",
           "author": "Jozdien",
@@ -3574,6 +3628,36 @@
           "publishedOn": "2026-04-27T13:59:16.000Z",
           "wordCount": null,
           "title": "From nothing to important actions: agents that act morally",
+          "imageUrl": null
+        },
+        {
+          "id": "zcGmdQHX66NhC69v6",
+          "author": "LawrenceC",
+          "description": "Yesterday, I wrote about the state of deep learning theory circa 2016,[1] as well as the bombshell 2016 paper by Zhang et al. that arguably signaled its demise. Today, I cover the aftermath, and the 2019 paper that devastated deep learning theory again. \nAs a brief summary, I argued that the rise of deep learning posed an existential challenge to the dominant theoretical paradigm of statistical learning theory, because neural networks have a lot of complexity. The response from the field was to attempt to quantify other ways in which the hypothesis class of neural networks in practice was simple, using alternative metrics of complexity. Zhang et al. 2016 showed that the standard neural network architectures trained with standard training methods could memorize large quantities of random la…",
+          "link": "https://www.alignmentforum.org/posts/zcGmdQHX66NhC69v6/the-other-paper-that-killed-deep-learning-theory",
+          "publishedOn": "2026-04-27T06:57:11.000Z",
+          "wordCount": null,
+          "title": "The other paper that killed deep learning theory",
+          "imageUrl": null
+        },
+        {
+          "id": "ZvQfcLbcNHYqmvWyo",
+          "author": "LawrenceC",
+          "description": "Around 10 years ago, a paper came out that arguably killed classical deep learning theory: Zhang et al.'s aptly titled Understanding deep learning requires rethinking generalization.\nOf course, this is a bit of an exaggeration. No single paper ever kills a field of research on its own, and deep learning theory was not exactly the most productive and healthy field at the time this was published. And the paper didn't come close to addressing all theoretical approaches to understanding aspects of deep learning. But if I had to point to a single paper that shattered the feeling of optimism at the time, it would be Zhang et al. 2016.[1] \n\n\nBelieve it or not, this unassuming table rocked the field of deep learning theory back in 2016, despite probably involving fewer computational resources than…",
+          "link": "https://www.alignmentforum.org/posts/ZvQfcLbcNHYqmvWyo/the-paper-that-killed-deep-learning-theory",
+          "publishedOn": "2026-04-26T06:55:00.000Z",
+          "wordCount": null,
+          "title": "The paper that killed deep learning theory",
+          "imageUrl": null
+        },
+        {
+          "id": "2WkeiYFT5p3ph8Pkf",
+          "author": "LawrenceC",
+          "description": "h/t Eric Michaud for sharing his paper with me.\nThere’s a tradition of high-impact ML papers using short, punchy categorical sentences as their titles: Understanding Deep Learning Requires Rethinking Generalization, Attention is All You Need, Language Models Are Few Shot Learners, and so forth. \nA new paper by Simon et al. seeks to expand on this tradition with not a present claim but a future tense, prophetic future sentence: “There Will Be a Scientific Theory of Deep Learning”. \n\nThere’s a lot of pessimism toward deep learning theory basically everywhere: the people building the AIs are pretty pessimistic, the academic AI researchers are as a general rule pessimistic (even people who used to do theory!), and with the exception of maybe 3-4 research groups, the independent AI safety ecosy…",
+          "link": "https://www.alignmentforum.org/posts/2WkeiYFT5p3ph8Pkf/quick-paper-review-there-will-be-a-scientific-theory-of-deep",
+          "publishedOn": "2026-04-25T06:55:26.000Z",
+          "wordCount": null,
+          "title": "Quick Paper Review: \"There Will Be a Scientific Theory of Deep Learning\"",
           "imageUrl": null
         },
         {
@@ -3724,16 +3808,6 @@
           "publishedOn": "2026-04-01T10:23:01.000Z",
           "wordCount": null,
           "title": "Predicting When RL Training Breaks Chain-of-Thought Monitorability",
-          "imageUrl": null
-        },
-        {
-          "id": "2ANCyejqxfqK2obEj",
-          "author": "7vik",
-          "description": "Authors: Satvik Golechha*, Sid Black*, Joseph Bloom\n* Equal Contribution.\nThis work was done as part of the Model Transparency team at the UK AI Security Institute (AISI). Our code is available on GitHub and the model checkpoints and data is available on HuggingFace.\nExecutive Summary\nIn Natural Emergent Misalignment from Reward Hacking in Production RL (MacDiarmid et al., 2025), Anthropic recently demonstrated that language models that learn reward hacking in their production RL environments become emergently misaligned (EM). Their pipeline, illustrated below, proceeds from pre-training through to RL on coding tasks, where models that discover reward hacks subsequently exhibit misaligned behaviour on unrelated evaluations:\n\n\nFigure 0: The experimental pipeline from MacDiarmid et al. that …",
-          "link": "https://www.alignmentforum.org/posts/2ANCyejqxfqK2obEj/some-natural-emergent-misalignment-from-reward-hacking-in",
-          "publishedOn": "2026-03-30T10:56:10.000Z",
-          "wordCount": null,
-          "title": "(Some) Natural Emergent Misalignment from Reward Hacking in Non-Production RL",
           "imageUrl": null
         }
       ]
