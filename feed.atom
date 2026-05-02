@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-01T02:46:34.200Z</updated>
+    <updated>2026-05-02T02:27:04.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Risk from fitness-seeking AIs: mechanisms and mitigations]]></title>
+        <id>9YCJZBtqr3FYL8rDp</id>
+        <link href="https://www.alignmentforum.org/posts/9YCJZBtqr3FYL8rDp/risk-from-fitness-seeking-ais-mechanisms-and-mitigations"/>
+        <updated>2026-05-01T17:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Current AIs routinely take unintended actions to score well on tasks: hardcoding test cases, training on the test set, downplaying issues, etc. This misalignment is still somewhat incoherent, but it increasingly resembles what I call "fitness-seeking"—a family of misaligned motivations centered on performing well in training and evaluations (e.g., reward-seeking). Fitness-seeking warrants substantial concern.
+In this piece, I lay out what I take to be the central mechanisms by which fitness-seeking motivations might lead to human disempowerment, and propose mitigations to them. While the analysis is inherently speculative, this kind of speculation seems worthwhile: AI control emerged from explicitly taking scheming motivations seriously and asking what interventions are implied, and my hop…]]></summary>
+        <author>
+            <name>Alex Mallen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG]]></title>
+        <id>https://www.analyticsvidhya.com/?p=254498</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/05/mempalace-explained/"/>
+        <updated>2026-05-01T12:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Modern AI systems struggle with memory. They often forget past interactions or rely on Retrieval-Augmented Generation (RAG), which depends on constant access to external data. This becomes a limitation when building assistants that need both historical context and a deeper understanding of users. MemPalace offers a different approach, enabling structured, persistent memory with higher precision […]
+The post MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python]]></title>
+        <id>69f3df46909e64ad07425413</id>
+        <link href="https://www.freecodecamp.org/news/product-experimentation-with-propensity-scores-causal-inference-for-llm-based-features-in-python/"/>
+        <updated>2026-04-30T23:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based features eventually hits the same wall: when users click "Try our AI assistant," the volunteers aren't a random sample. Your pr]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale]]></title>
         <id>https://www.microsoft.com/en-us/research/?p=1170266</id>
@@ -3625,17 +3657,6 @@ The post How Can A Model 10,000× Smaller Outsmart ChatGPT? appeared first on To
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hidden Data Operations Behind Production-Grade  AI]]></title>
-        <id>https://imerit.net/?p=34854</id>
-        <link href="https://imerit.net/resources/blog/the-hidden-data-operations-behind-production-grade-ai/"/>
-        <updated>2026-04-01T11:20:01.000Z</updated>
-        <summary type="html"><![CDATA[AI progress is often framed as a story of better models, larger architectures, improved benchmarks, and faster inference. These advances
-The post The Hidden Data Operations Behind Production-Grade  AI appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Happens Now That AI is the First Analyst On Your Team?]]></title>
         <id>https://towardsdatascience.com/?p=608729</id>
         <link href="https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/"/>
@@ -3644,59 +3665,6 @@ The post The Hidden Data Operations Behind Production-Grade  AI appeared first o
 The post What Happens Now That AI is the First Analyst On Your Team? appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Rashi Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speculative Decoding: How LLMs Generate Text 3x Faster]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253268</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/speculative-decoding/"/>
-        <updated>2026-04-01T10:28:19.000Z</updated>
-        <summary type="html"><![CDATA[You probably use Google on a daily basis, and nowadays, you might have noticed AI-powered search results that compile answers from multiple sources. But you might have wondered how the AI can gather all this information and respond at such blazing speeds, especially when compared to the medium-sized and large models we typically use. Smaller […]
-The post Speculative Decoding: How LLMs Generate Text 3x Faster appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Shaik Hamzah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predicting When RL Training Breaks Chain-of-Thought Monitorability]]></title>
-        <id>SvxaKP5KdkksZPcG7</id>
-        <link href="https://www.alignmentforum.org/posts/SvxaKP5KdkksZPcG7/predicting-when-rl-training-breaks-chain-of-thought"/>
-        <updated>2026-04-01T10:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Crossposted from the DeepMind Safety Research Medium Blog. Read our full paper about this topic by Max Kaufmann, David Lindner, Roland S. Zimmermann, and Rohin Shah.
-Overseeing AI agents by reading their intermediate reasoning “scratchpad” is a promising tool for AI safety. This approach, known as Chain-of-Thought (CoT) monitoring, allows us to check what a model is thinking before it acts, often helping us catch concerning behaviors like reward hacking and scheming.
-However, CoT monitoring can fail if a model’s chain-of-thought is not a good representation of the reasoning process we want to monitor. For example, training LLMs with reinforcement learning (RL) to avoid outputting problematic reasoning can result in a model learning to hide such reasoning without actually removing problemat…]]></summary>
-        <author>
-            <name>David Lindner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falcon Perception]]></title>
-        <id>https://huggingface.co/blog/tiiuae/falcon-perception</id>
-        <link href="https://huggingface.co/blog/tiiuae/falcon-perception"/>
-        <updated>2026-04-01T07:13:20.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Technology Innovation Institute on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient Labs gives every bank customer an AI account manager]]></title>
-        <id>https://openai.com/index/gradient-labs</id>
-        <link href="https://openai.com/index/gradient-labs"/>
-        <updated>2026-04-01T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any Custom Frontend with Gradio's Backend]]></title>
-        <id>https://huggingface.co/blog/introducing-gradio-server</id>
-        <link href="https://huggingface.co/blog/introducing-gradio-server"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
         </author>
     </entry>
     <entry>
@@ -3711,28 +3679,6 @@ The post The Map of Meaning: How Embedding Models “Understand” Human Languag
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253281</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/03/qwen3-5-omni-ai-model/"/>
-        <updated>2026-03-31T16:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Multimodal AI has grown from novelty to a must in recent times. Need proof? If I were to tell you to work on an AI model that only understands text, you would probably laugh and throw 10 model names at me that can work across formats – be it text, audio, or visuals. The new […]
-The post Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiDAR Data Operations for Production AI: Scaling 3D Point Cloud Annotation with Quality and Speed]]></title>
-        <id>https://imerit.net/?p=34826</id>
-        <link href="https://imerit.net/resources/blog/lidar-data-operations-for-production-ai-scaling-3d-point-cloud-annotation-with-quality-and-speed/"/>
-        <updated>2026-03-31T15:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Scaling LiDAR annotation for production AI requires domain-trained annotators, sensor-aware tooling, and multi-stage quality assurance built into every step
-The post LiDAR Data Operations for Production AI: Scaling 3D Point Cloud Annotation with Quality and Speed appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make Claude Code Better at One-Shotting Implementations]]></title>
         <id>https://towardsdatascience.com/?p=608725</id>
         <link href="https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/"/>
@@ -3741,16 +3687,6 @@ The post LiDAR Data Operations for Production AI: Scaling 3D Point Cloud Annotat
 The post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents]]></title>
-        <id>https://huggingface.co/blog/ibm-granite/granite-4-vision</id>
-        <link href="https://huggingface.co/blog/ibm-granite/granite-4-vision"/>
-        <updated>2026-03-31T15:10:41.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Granite on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
         </author>
     </entry>
 </feed>
