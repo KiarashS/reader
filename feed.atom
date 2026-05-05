@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-04T02:34:18.976Z</updated>
+    <updated>2026-05-05T02:28:45.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Single Agent vs Multi-Agent: When to Build a Multi-Agent System]]></title>
+        <id>https://towardsdatascience.com/?p=609013</id>
+        <link href="https://towardsdatascience.com/single-agent-vs-multi-agent-when-to-build-a-multi-agent-system/"/>
+        <updated>2026-05-04T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to understanding AI agent design, ReAct workflows, and when to scale from a single agent to a multi-agent system.
+The post Single Agent vs Multi-Agent: When to Build a Multi-Agent System appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ayoola Olafenwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Efficient Knowledge Base for AI Models]]></title>
+        <id>https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/</id>
+        <link href="https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/"/>
+        <updated>2026-05-04T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a knowledge base for AI models isn’t a one-time task but an iterative process of refinement.
+The post How to Build an Efficient Knowledge Base for AI Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nidhin Karunakaran Ponon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The distillation panic]]></title>
+        <id>https://www.interconnects.ai/p/the-distillation-panic</id>
+        <link href="https://www.interconnects.ai/p/the-distillation-panic"/>
+        <updated>2026-05-04T15:56:44.000Z</updated>
+        <summary type="html"><![CDATA[‘Distillation attacks’ is a horrible term for what is happening right now.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing Connect Four with Deep Q-Learning]]></title>
+        <id>https://towardsdatascience.com/?p=609009</id>
+        <link href="https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/"/>
+        <updated>2026-05-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Solving multiplayer games with function approximation
+The post Playing Connect Four with Deep Q-Learning appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Oliver S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It]]></title>
+        <id>https://towardsdatascience.com/?p=609007</id>
+        <link href="https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/"/>
+        <updated>2026-05-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI tools speed up IoT development — but closer to the hardware, the same code that looks correct can silently break thousands of devices at once.
+The post How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Illia Smoliienko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML Intern in Practice: From Prompt to a Shipped Hugging Face Model]]></title>
+        <id>https://www.analyticsvidhya.com/?p=254569</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/05/ml-intern-from-prompt-to-a-shipped-hugging-face-model/"/>
+        <updated>2026-05-04T11:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Most ML projects do not fail because of model choice. They fail in the messy middle: finding the right dataset, checking usability, writing training code, fixing errors, reading logs, debugging weak results, evaluating outputs, and packaging the model for others. This is where ML Intern fits. It is not just AutoML for model selection and […]
+The post ML Intern in Practice: From Prompt to a Shipped Hugging Face Model  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OpenAI delivers low-latency voice AI at scale]]></title>
+        <id>https://openai.com/index/delivering-low-latency-voice-ai-at-scale</id>
+        <link href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale"/>
+        <updated>2026-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSPNet Paper Walkthrough: Just Better, No Tradeoffs]]></title>
+        <id>https://towardsdatascience.com/?p=609005</id>
+        <link href="https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/"/>
+        <updated>2026-05-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of the Cross-Stage Partial Network paper  —  and a from-scratch PyTorch implementation
+The post CSPNet Paper Walkthrough: Just Better, No Tradeoffs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Muhammad Ardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill]]></title>
+        <id>https://towardsdatascience.com/?p=609003</id>
+        <link href="https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/"/>
+        <updated>2026-05-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why reasoning models dramatically increase token usage, latency, and infrastructure costs in production systems
+The post Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mostafa Ibrahim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15+ Solved Agentic AI Projects with Github Links]]></title>
         <id>https://www.analyticsvidhya.com/?p=254521</id>
@@ -18,6 +115,17 @@ The post 15+ Solved Agentic AI Projects with Github Links appeared first on Anal
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations]]></title>
+        <id>https://towardsdatascience.com/?p=609000</id>
+        <link href="https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/"/>
+        <updated>2026-05-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practitioner's decision framework for Ridge, Lasso, and ElasticNet based on three quantities you can compute before fitting a model
+The post Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ahsaas Bajaj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How People are Figuring Out Life With Claude]]></title>
         <id>https://www.analyticsvidhya.com/?p=254556</id>
         <link href="https://www.analyticsvidhya.com/blog/2026/05/how-people-are-figuring-out-life-with-claude/"/>
@@ -26,6 +134,17 @@ The post 15+ Solved Agentic AI Projects with Github Links appeared first on Anal
 The post How People are Figuring Out Life With Claude appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor]]></title>
+        <id>https://towardsdatascience.com/?p=608996</id>
+        <link href="https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/"/>
+        <updated>2026-05-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One scale parameter determines accuracy in rotation-based vector quantization.
+The post How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Amit Portnoy</name>
         </author>
     </entry>
     <entry>
@@ -54,6 +173,49 @@ In this piece, I lay out what I take to be the central mechanisms by which fitne
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Get Hired in the AI Era]]></title>
+        <id>https://towardsdatascience.com/?p=608994</id>
+        <link href="https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/"/>
+        <updated>2026-05-01T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What people actually look for when hiring juniors that stand out.
+The post How to Get Hired in the AI Era appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ivo Bernardo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding]]></title>
+        <id>https://towardsdatascience.com/?p=608992</id>
+        <link href="https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/"/>
+        <updated>2026-05-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A data quality case study from English local elections on categorical normalisation, metric validation, and why raw labels should never define analytical groups.
+The post Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Obinna Iheanachor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Artemis II Astronauts]]></title>
+        <id>8a399d82-4561-11f1-a1d2-a3c4783534fb</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-artemis-ii-astronauts-2/"/>
+        <updated>2026-05-01T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[In this classic episode from 2023, we revisit the Artemis II crew reflecting on their first reactions to being selected, the journeys that led them there, and what exploration meant to them before their historic mission. HWHAP 420]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost: A Database for Our Times?]]></title>
+        <id>https://towardsdatascience.com/?p=608989</id>
+        <link href="https://towardsdatascience.com/ghost-a-database-for-our-times/"/>
+        <updated>2026-05-01T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The first database built for AI Agents
+The post Ghost: A Database for Our Times? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG]]></title>
         <id>https://www.analyticsvidhya.com/?p=254498</id>
         <link href="https://www.analyticsvidhya.com/blog/2026/05/mempalace-explained/"/>
@@ -62,6 +224,17 @@ In this piece, I lay out what I take to be the central mechanisms by which fitne
 The post MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG  appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vipin Vashisth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Powerful Machine Learning Is Deceptively Easy]]></title>
+        <id>https://towardsdatascience.com/?p=608987</id>
+        <link href="https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/"/>
+        <updated>2026-05-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Or why what appears powerful can be methodologically fragile
+The post Why Powerful Machine Learning Is Deceptively Easy appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Erika Gomes-Gonçalves</name>
         </author>
     </entry>
     <entry>
@@ -3423,162 +3596,6 @@ The post 5 Types of Loss Functions in Machine Learning appeared first on Analyti
 The post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Robust Credit Scoring Models with Python]]></title>
-        <id>https://towardsdatascience.com/?p=608751</id>
-        <link href="https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/"/>
-        <updated>2026-04-04T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A Practical Guide to Measuring Relationships between Variables for Feature Selection in a Credit Scoring.
-The post Building Robust Credit Scoring Models with Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>JUNIOR JUMBONG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There should be $100M grants to automate AI safety]]></title>
-        <id>qdhyrN4uKwBAftmQx</id>
-        <link href="https://www.alignmentforum.org/posts/qdhyrN4uKwBAftmQx/there-should-be-usd100m-grants-to-automate-ai-safety"/>
-        <updated>2026-04-03T18:44:05.000Z</updated>
-        <summary type="html"><![CDATA[This post reflects my personal opinion and not necessarily that of other members of Apollo Research.
-TLDR: I think funders should heavily incentivize AI safety work that enables spending $100M+ in compute or API budgets on automated AI labor that directly and differentially translates to safety.
-Motivation
-I think we are in a short timeline world (and we should take the possibility seriously even if we don't have full confidence yet). This means that I think funders should aim to allocate large amounts of money (e.g. $1-50B per year across the ecosystem) on AI safety in the next 2-3 years. 
-I think that the AI safety funders have been allocating way too little funding and their spending has been far too conservative in the past 5 years. So, in my opinion, we should definitely continue ramp…]]></summary>
-        <author>
-            <name>Marius Hobbhahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253454</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/mamba4-explained/"/>
-        <updated>2026-04-03T17:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Transformers revolutionized AI but struggle with long sequences due to quadratic complexity, leading to high computational and memory costs that limit scalability and real-time use. This creates a need for faster, more efficient alternatives. Mamba4 addresses this using state space models with selective mechanisms, enabling linear-time processing while maintaining strong performance. It suits tasks like […]
-The post ​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 4 and what makes an open model succeed]]></title>
-        <id>https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model</id>
-        <link href="https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model"/>
-        <updated>2026-04-03T16:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Hint: it's not benchmark scores.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenseNet Paper Walkthrough: All Connected]]></title>
-        <id>https://towardsdatascience.com/?p=608749</id>
-        <link href="https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/"/>
-        <updated>2026-04-03T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[When we try to train a very deep neural network model, one issue that we might encounter is the vanishing gradient problem. This is essentially a problem where the weight update of a model during training slows down or even stops, hence causing the model not to improve. When a network is very deep, the […]
-The post DenseNet Paper Walkthrough: All Connected appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Muhammad Ardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian]]></title>
-        <id>https://towardsdatascience.com/?p=608747</id>
-        <link href="https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/"/>
-        <updated>2026-04-03T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Persistent AI memory without embeddings, Pinecone, or a PhD in similarity search.
-The post I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nick Lawson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)]]></title>
-        <id>https://towardsdatascience.com/?p=608742</id>
-        <link href="https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-2-from-projections-to-predictions/"/>
-        <updated>2026-04-02T15:37:44.000Z</updated>
-        <summary type="html"><![CDATA[The Vector View of Least Squares.
-The post Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Classical Data in Quantum Models]]></title>
-        <id>https://towardsdatascience.com/?p=608740</id>
-        <link href="https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/"/>
-        <updated>2026-04-02T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Workflows and encoding techniques in quantum machine learning
-The post How to Handle Classical Data in Quantum Models appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Simulations with Python]]></title>
-        <id>https://towardsdatascience.com/?p=608738</id>
-        <link href="https://towardsdatascience.com/quantum-simulations-with-python/"/>
-        <updated>2026-04-02T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Run Quantum Experiments with Qiskit-Aer
-The post Quantum Simulations with Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mauro Di Pietro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility]]></title>
-        <id>https://towardsdatascience.com/?p=608735</id>
-        <link href="https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/"/>
-        <updated>2026-04-01T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[A systems design diagnosis of hallucination, corrigibility, and the structural gap that scaling cannot close
-The post The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Peter Zakrzewski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can A Model 10,000× Smaller Outsmart ChatGPT?]]></title>
-        <id>https://towardsdatascience.com/?p=608731</id>
-        <link href="https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/"/>
-        <updated>2026-04-01T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Why thinking longer can matter more than being bigger
-The post How Can A Model 10,000× Smaller Outsmart ChatGPT? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Moulik Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens Now That AI is the First Analyst On Your Team?]]></title>
-        <id>https://towardsdatascience.com/?p=608729</id>
-        <link href="https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/"/>
-        <updated>2026-04-01T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[How I am adapting in my career in the age of AI, automation, and when everything moving faster than expected.
-The post What Happens Now That AI is the First Analyst On Your Team? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rashi Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Map of Meaning: How Embedding Models “Understand” Human Language]]></title>
-        <id>https://towardsdatascience.com/?p=608727</id>
-        <link href="https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/"/>
-        <updated>2026-03-31T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn why embedding models are like a GPS for meaning. Instead of searching for exact words, it navigates a "Map of Ideas" to find concepts that share the same vibe. From battery types to soda flavors, learn how to fine-tune these digital fingerprints for pinpoint accuracy in your next AI project.
-The post The Map of Meaning: How Embedding Models “Understand” Human Language appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gustavo Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Claude Code Better at One-Shotting Implementations]]></title>
-        <id>https://towardsdatascience.com/?p=608725</id>
-        <link href="https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/"/>
-        <updated>2026-03-31T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Make your coding agent more efficient
-The post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
         </author>
     </entry>
 </feed>
