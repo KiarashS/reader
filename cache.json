@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609061",
+          "author": "Nikola Ilic",
+          "description": "\"Should we process our data in batches or in real-time?\" It's not batch vs. stream: it's \"when does the answer matter?\"\nThe post Batch or Stream? The Eternal Data Processing Dilemma appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/",
+          "publishedOn": "2026-05-10T15:00:00.000Z",
+          "wordCount": 5650,
+          "title": "Batch or Stream? The Eternal Data Processing Dilemma",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Batch-vs-stream-main-1308x480-1-copy.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609055",
+          "author": "William Gieng",
+          "description": "A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.\nThe post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/",
+          "publishedOn": "2026-05-10T13:00:00.000Z",
+          "wordCount": 5971,
+          "title": "LLM Summarizers Skip the Identification Step",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds_hero_redacted_document_1920x1080.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609057",
+          "author": "Aliaksei Mikhailiuk",
+          "description": "From tokenisation to evaluation :  how modern language models actually work in practice\nThe post The Must-Know Topics for an LLM Engineer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/",
+          "publishedOn": "2026-05-09T15:00:00.000Z",
+          "wordCount": 8904,
+          "title": "The Must-Know Topics for an LLM Engineer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_uoh7tkuoh7tkuoh7-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609059",
+          "author": "Emmimal P Alexander",
+          "description": "Three weeks into testing, a learner told me my AI tutor gave her the wrong answer.\nNot obviously wrong — just outdated enough to mislead.\nThat was the moment I realized something most RAG systems quietly ignore: they have no sense of time. My system retrieved the most similar document, not the most current one. And in a knowledge base that changes constantly, that’s a serious flaw.\nThe fix wasn’t in the retriever or the model. It was in the gap between them.\nI built a temporal layer that filters expired facts, boosts time-sensitive signals, and makes the system prefer what’s still true — not just what matches.\nThe post RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/",
+          "publishedOn": "2026-05-09T13:00:00.000Z",
+          "wordCount": 8050,
+          "title": "RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RAG-Temporal-Layer.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609053",
           "author": "Sara A. Metwalli",
           "description": "The end of model-centric thinking in data science\nThe post From Data Scientist to AI Architect appeared first on Towards Data Science.",
@@ -1080,91 +1120,6 @@
           "wordCount": 6608,
           "title": "Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Retraining-Schedules.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608799",
-          "author": "Roman S",
-          "description": "Can we reconstruct audio codes if we have audio for the Voxtral text-to-speech model?\nThe post A Guide to Voice Cloning on Voxtral with a Missing Encoder appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/",
-          "publishedOn": "2026-04-10T13:30:00.000Z",
-          "wordCount": 5629,
-          "title": "A Guide to Voice Cloning on Voxtral with a Missing Encoder",
-          "enclosure": {
-            "url": "https://github.com/MarvinRomson/voxtral-tts-codes-for-audio/blob/main/casual_female_clean.wav",
-            "length": "0",
-            "type": "audio/wav"
-          },
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Generated_Image_wdsro4wdsro4wdsr.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608797",
-          "author": "Florent Poux, Ph.D.",
-          "description": "How depth estimation, foundation segmentation, and geometric fusion are converging into spatial intelligence\nThe post How Does AI Learn to See in 3D and Understand Space? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/",
-          "publishedOn": "2026-04-10T12:00:00.000Z",
-          "wordCount": 6853,
-          "title": "How Does AI Learn to See in 3D and Understand Space?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-15-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608787",
-          "author": "Mikhail Sarafanov",
-          "description": "A long-form article featuring over 100 visualizations, covering a range of topics from how to build linear regression model, measure the quality and how to improve the model\nThe post A Visual Explanation of Linear Regression appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/",
-          "publishedOn": "2026-04-09T16:30:00.000Z",
-          "wordCount": 23829,
-          "title": "A Visual Explanation of Linear Regression",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/linearregression-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608795",
-          "author": "Sam Black",
-          "description": "The mathematical foundations of Vision-Language-Action (VLA) models for humanoid robots and more\nThe post How Visual-Language-Action (VLA) Models Work appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-visual-language-action-vla-models-work/",
-          "publishedOn": "2026-04-09T15:00:00.000Z",
-          "wordCount": 6298,
-          "title": "How Visual-Language-Action (VLA) Models Work",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/michael-martinelli-CPRUDsU7Mo-unsplash-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608793",
-          "author": "Gustavo Santos",
-          "description": "Understand survival analysis by modeling customer retention through Kaplan-Meier curves and Cox Proportional Hazard regressions.\nThe post A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-survival-analysis-guide-with-python-using-time-to-event-models-to-forecast-customer-lifetime/",
-          "publishedOn": "2026-04-09T13:30:00.000Z",
-          "wordCount": 5619,
-          "title": "A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/blog2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608789",
-          "author": "Nicolas Maquaire",
-          "description": "True creativity and innovation will come from human-agent collaboration. One human, millions of agents.\nThe post The Future of AI for Sales Is Diverse and Distributed appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-future-of-ai-for-sales-is-diverse-and-distributed/",
-          "publishedOn": "2026-04-09T12:00:00.000Z",
-          "wordCount": 5065,
-          "title": "The Future of AI for Sales Is Diverse and Distributed",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/angrybee399_One_human_surrounded_by_small_bee-like_flying_rob_9a03d682-0330-4cd4-88c8-9af25983434d_3.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608784",
-          "author": "Sabrine Bendimerad",
-          "description": "Deep Web Data Is the Gold We Can't Touch, Yet\nThe post Why AI Is Training on Its Own Garbage (and How to Fix It) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/",
-          "publishedOn": "2026-04-08T16:30:00.000Z",
-          "wordCount": 4326,
-          "title": "Why AI Is Training on Its Own Garbage (and How to Fix It)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_2334pw2334pw2334-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608781",
-          "author": "Aleksandr Gapchenko",
-          "description": "A low-budget way to get token-level uncertainty estimation for neural machine translations\nThe post Detecting Translation Hallucinations with Attention Misalignment appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/",
-          "publishedOn": "2026-04-08T15:00:00.000Z",
-          "wordCount": 6149,
-          "title": "Detecting Translation Hallucinations with Attention Misalignment",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/1.jpg"
         }
       ]
     },
@@ -1302,16 +1257,6 @@
           "wordCount": 10229,
           "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-mayo-rag-quadstore-facts-kg-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23854",
-          "author": "Bala Priya C",
-          "description": "Most <a href=\"https://machinelearningmastery.",
-          "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/",
-          "publishedOn": "2026-04-09T12:00:35.000Z",
-          "wordCount": 9333,
-          "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/bala-agentic-design-patterns-roadmap.png"
         }
       ]
     },
@@ -1396,6 +1341,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+          "author": null,
+          "description": "A Blog post by Lablab.ai AMD Developer Hackathon on Hugging Face",
+          "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+          "publishedOn": "2026-05-10T18:44:11.000Z",
+          "wordCount": 1485,
+          "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/machinacheck.png"
+        },
         {
           "id": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
           "author": null,
@@ -1615,26 +1570,6 @@
           "wordCount": 889,
           "title": "Meet HoloTab by HCompany. Your AI browser companion.",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Hcompany/holotab.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/waypoint-1-5",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/waypoint-1-5",
-          "publishedOn": "2026-04-09T00:00:00.000Z",
-          "wordCount": 1170,
-          "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-          "imageUrl": "https://huggingface.co/blog/assets/overworld/waypoint-v1-5.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/multimodal-sentence-transformers",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
-          "publishedOn": "2026-04-09T00:00:00.000Z",
-          "wordCount": 3220,
-          "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-          "imageUrl": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png"
         }
       ]
     },
@@ -1698,26 +1633,6 @@
           "wordCount": 14041,
           "title": "Can we AI our way to a more sustainable world?",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/04/Episode2-Doug-Amy-Ishai_TheShapeofThings_TW_LI_FB_1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
-          "author": "Jaime Teevan, Sonia Jaffe, Rebecca Janssen, Nancy Baym, Siân Lindley, Bahar Sarrafzadeh, Brent Hecht, Jenna Butler, Jake Hofman, Sean Rintel",
-          "description": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI […]\nThe post New Future of Work: AI is driving rapid change, uneven benefits appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
-          "publishedOn": "2026-04-09T16:11:44.000Z",
-          "wordCount": 5361,
-          "title": "New Future of Work: AI is driving rapid change, uneven benefits",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/04/Jaime-Jenna-Jake-Rebecca-Ideas_TW_LI_FB_1200x627-2.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1167876",
-          "author": "Jaime Teevan, Jenna Butler, Jake Hofman, Rebecca Janssen",
-          "description": "Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and explore the ideal AI-driven working world. Plus, is AI a tool or a collaborator? And why the answer matters.\nThe post Ideas: Steering AI toward the work future we want appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/",
-          "publishedOn": "2026-04-09T16:10:37.000Z",
-          "wordCount": 12171,
-          "title": "Ideas: Steering AI toward the work future we want",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/04/Jaime-Jenna-Jake-Rebecca-Ideas_TW_LI_FB_1200x627-1.jpg"
         }
       ]
     },
@@ -2058,6 +1973,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=78863",
+          "author": "Sudip Chakrabarty",
+          "description": "Learn YOLOE for real-time open-vocabulary object detection and instance segmentation in Python with Ultralytics — text, visual, and prompt-free modes.\nHow to Master YOLOE: Real-Time Open-Vocabulary Detection Made Easy first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/yoloe-tutorial-real-time-open-vocabulary-detection/",
+          "publishedOn": "2026-05-09T14:10:06.000Z",
+          "wordCount": 8462,
+          "title": "How to Master YOLOE: Real-Time Open-Vocabulary Detection Made Easy",
+          "enclosure": {
+            "url": "https://cdn.learnopencv.com/wp-content/uploads/2026/04/04080517/market.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/05/08001059/thumbnail_YOLOE-scaled.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=78928",
           "author": "Satya Mallick",
           "description": "Vision Banana turns Nano Banana Pro into a powerful vision model for segmentation, depth estimation, surface normals, image generation, and editing.\nVision Banana: How Image Generators Are Becoming Powerful Vision Models first appeared on LearnOpenCV.",
@@ -2218,26 +2148,6 @@
           "wordCount": 2273,
           "title": "Master Complex Labeling with the Skeleton Annotation Tool",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/IMG1-Master-Complex-Labeling-with-the-Skeleton-Annotation-Tool-1024x842.png"
-        },
-        {
-          "id": "https://imerit.net/?p=35179",
-          "author": "Sujana Urs",
-          "description": "Affective computing enables Voice AI to recognize, interpret, and simulate human emotions, moving beyond rule-based responses to achieve emotional intelligence.\nThe post Teaching Voice AI: Speech Emotion Recognition, Tone, and Intent appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/teaching-voice-ai-speech-emotion-recognition-tone-and-intent/",
-          "publishedOn": "2026-04-09T10:03:43.000Z",
-          "wordCount": 3504,
-          "title": "Teaching Voice AI: Speech Emotion Recognition, Tone, and Intent",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Teaching-Voice-AI-Speech-Emotion-Recognition-Tone-and-Intent-scaled.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=35103",
-          "author": "Sujana Urs",
-          "description": "LiDAR is a core sensor used in autonomous systems to help machines understand their surroundings in three dimensions. It plays\nThe post Why LiDAR Perception Challenges Occur in Urban Settings appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/why-lidar-perception-challenges-occur-in-urban-settings/",
-          "publishedOn": "2026-04-08T16:50:24.000Z",
-          "wordCount": 2897,
-          "title": "Why LiDAR Perception Challenges Occur in Urban Settings",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-LiDAR-Perception-Challenges-Occur-in-Urban-Settings-scaled.jpg"
         }
       ]
     },
@@ -2246,6 +2156,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=254753",
+          "author": "Janvi Kumari",
+          "description": "Memory shapes how humans think and how AI agents act. Without it, an agent only responds to the current input; with it, it can keep context, recall past actions, and reuse useful knowledge. AI memory spans short-term, episodic, semantic, and long-term memory, each with different design trade-offs around storage, retention, retrieval, and control. In this […]\nThe post Agent Memory Patterns in Cognitive Science and AI Systems appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/",
+          "publishedOn": "2026-05-09T11:34:37.000Z",
+          "wordCount": null,
+          "title": "Agent Memory Patterns in Cognitive Science and AI Systems",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=254799",
           "author": "Vasu Deo Sankrityayan",
@@ -2705,50 +2626,6 @@
           "publishedOn": "2026-04-10T18:09:13.000Z",
           "wordCount": null,
           "title": "From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253717",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "AI can feel like a maze sometimes. Everywhere you look, people on social media and in meetings are throwing around terms like LLMs, agents, and hallucinations as if it’s all obvious. But for most people, it just feels confusing.  The good news is, AI isn’t nearly as complicated as it sounds once you understand the […]\nThe post 10 Most Important AI Concepts Explained Simply appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/",
-          "publishedOn": "2026-04-10T08:29:22.000Z",
-          "wordCount": null,
-          "title": "10 Most Important AI Concepts Explained Simply",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253682",
-          "author": "Sarthak Dogra",
-          "description": "We already had a hint. AI would surpass most human capabilities someday. In the field of cybersecurity, that day arrived way too early, with the recent announcement of the Mythos Preview by Claude. The new AI model promises a level of coding skills that it is deemed to ‘surpass all but the most skilled humans […]\nThe post Project Glasswing is World’s Most Powerful AI in Action appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/project-glasswing-claude-mythos-most-powerful-ai/",
-          "publishedOn": "2026-04-09T12:22:22.000Z",
-          "wordCount": null,
-          "title": "Project Glasswing is World’s Most Powerful AI in Action",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253655",
-          "author": "Riya Bansal",
-          "description": "Most AI tools rely on the internet, sending your prompts to remote servers for processing before returning results. This process has always been invisible to users. Google changes that with Gemma 4! Which if configured properly, runs directly on your phone, eliminating the need for constant connectivity. With a one-time download, everything runs locally on […]\nThe post How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/run-gemma-4-on-your-phone/",
-          "publishedOn": "2026-04-08T17:16:49.000Z",
-          "wordCount": null,
-          "title": "How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253621",
-          "author": "Harsh Mishra",
-          "description": "Open-weight models are driving the latest excitement in the AI landscape. Running powerful models locally improves privacy, cuts costs, and enables offline use. But the open-source models are far and few! But Google‘s Gemma 4 is here to change that! This guide walks through what Gemma 4 is, would explores its variants, and outlines the […]\nThe post Running Gemma 4 Locally with Ollama on Your PC appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/running-gemma-4-locally/",
-          "publishedOn": "2026-04-08T17:15:53.000Z",
-          "wordCount": null,
-          "title": "Running Gemma 4 Locally with Ollama on Your PC",
           "itunes": {},
           "imageUrl": null
         }
@@ -3334,276 +3211,6 @@
           "wordCount": null,
           "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/custom-gpts",
-          "author": null,
-          "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-          "link": "https://openai.com/academy/custom-gpts",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Using custom GPTs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/customer-success",
-          "author": null,
-          "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-          "link": "https://openai.com/academy/customer-success",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for customer success teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/applications-of-ai",
-          "author": null,
-          "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-          "link": "https://openai.com/academy/applications-of-ai",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Applications of AI at OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/search-and-deep-research",
-          "author": null,
-          "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-          "link": "https://openai.com/academy/search-and-deep-research",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Research with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/data-analysis",
-          "author": null,
-          "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-          "link": "https://openai.com/academy/data-analysis",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Analyzing data with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/financial-services",
-          "author": null,
-          "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-          "link": "https://openai.com/academy/financial-services",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Financial services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/responsible-and-safe-use",
-          "author": null,
-          "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-          "link": "https://openai.com/academy/responsible-and-safe-use",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Responsible and safe use of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/writing",
-          "author": null,
-          "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-          "link": "https://openai.com/academy/writing",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Writing with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/research",
-          "author": null,
-          "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-          "link": "https://openai.com/academy/research",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/image-generation",
-          "author": null,
-          "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-          "link": "https://openai.com/academy/image-generation",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Creating images with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/personalization",
-          "author": null,
-          "description": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-          "link": "https://openai.com/academy/personalization",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Personalizing ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/finance",
-          "author": null,
-          "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-          "link": "https://openai.com/academy/finance",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for finance teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/getting-started",
-          "author": null,
-          "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-          "link": "https://openai.com/academy/getting-started",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Getting started with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/working-with-files",
-          "author": null,
-          "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-          "link": "https://openai.com/academy/working-with-files",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Working with files in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/sales",
-          "author": null,
-          "description": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-          "link": "https://openai.com/academy/sales",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for sales teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/prompting",
-          "author": null,
-          "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-          "link": "https://openai.com/academy/prompting",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Prompting fundamentals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/managers",
-          "author": null,
-          "description": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-          "link": "https://openai.com/academy/managers",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for managers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/projects",
-          "author": null,
-          "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-          "link": "https://openai.com/academy/projects",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Using projects in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/marketing",
-          "author": null,
-          "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-          "link": "https://openai.com/academy/marketing",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for marketing teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/brainstorming",
-          "author": null,
-          "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-          "link": "https://openai.com/academy/brainstorming",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Brainstorming with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/what-is-ai",
-          "author": null,
-          "description": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-          "link": "https://openai.com/academy/what-is-ai",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "AI fundamentals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/operations",
-          "author": null,
-          "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-          "link": "https://openai.com/academy/operations",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for operations teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/healthcare",
-          "author": null,
-          "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-          "link": "https://openai.com/academy/healthcare",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Healthcare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/axios-developer-tool-compromise",
-          "author": null,
-          "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-          "link": "https://openai.com/index/axios-developer-tool-compromise",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Our response to the Axios developer tool compromise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/skills",
-          "author": null,
-          "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "link": "https://openai.com/academy/skills",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Using skills",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/cyberagent",
-          "author": null,
-          "description": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-          "link": "https://openai.com/index/cyberagent",
-          "publishedOn": "2026-04-09T00:00:00.000Z",
-          "wordCount": null,
-          "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-          "author": null,
-          "description": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
-          "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-          "publishedOn": "2026-04-09T00:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-          "imageUrl": null
         }
       ]
     },
@@ -3707,22 +3314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/18174b65-ddde-40ad-a82b-55467fecbc10_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
-          "author": "Nathan Lambert",
-          "description": "Another dance around fears of open-source.",
-          "link": "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
-          "publishedOn": "2026-04-09T21:28:39.000Z",
-          "wordCount": null,
-          "title": "Claude Mythos and misguided open-weight fearmongering",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/18fbf26c-4d1b-42a4-94e3-369522619514_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/18fbf26c-4d1b-42a4-94e3-369522619514_3182x1790.png"
         }
       ]
     },
@@ -3731,6 +3322,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "nBjo6yniFjmy2uaYa",
+          "author": "Alex Mallen",
+          "description": "This is a brief elaboration on The behavioral selection model for predicting AI motivations, based on some feedback and thoughts I’ve had since publishing. Written quickly in a personal capacity.\nThe main focus of this post is clarifying the basic machinery of the behavioral selection model, and conveying why it matters to disambiguate between different “motivations” for AI behavior. Very similar or identical behavior in training can correspond to radically different outcomes in deployment based on what motivated it.\nI’ll preface by saying: I think the behavioral selection model is quite predictive and useful to understand, especially in the short-medium term. But it leaves out some really important dynamics for predicting AI motivations, and I wish I had clarified this more in the origina…",
+          "link": "https://www.alignmentforum.org/posts/nBjo6yniFjmy2uaYa/clarifying-the-role-of-the-behavioral-selection-model",
+          "publishedOn": "2026-05-10T19:41:32.000Z",
+          "wordCount": null,
+          "title": "Clarifying the role of the behavioral selection model",
+          "imageUrl": null
+        },
         {
           "id": "oeYesesaxjzMAktCM",
           "author": "Subhash Kantamneni",

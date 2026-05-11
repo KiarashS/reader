@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-09T02:36:45.507Z</updated>
+    <updated>2026-05-11T02:48:20.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clarifying the role of the behavioral selection model]]></title>
+        <id>nBjo6yniFjmy2uaYa</id>
+        <link href="https://www.alignmentforum.org/posts/nBjo6yniFjmy2uaYa/clarifying-the-role-of-the-behavioral-selection-model"/>
+        <updated>2026-05-10T19:41:32.000Z</updated>
+        <summary type="html"><![CDATA[This is a brief elaboration on The behavioral selection model for predicting AI motivations, based on some feedback and thoughts I’ve had since publishing. Written quickly in a personal capacity.
+The main focus of this post is clarifying the basic machinery of the behavioral selection model, and conveying why it matters to disambiguate between different “motivations” for AI behavior. Very similar or identical behavior in training can correspond to radically different outcomes in deployment based on what motivated it.
+I’ll preface by saying: I think the behavioral selection model is quite predictive and useful to understand, especially in the short-medium term. But it leaves out some really important dynamics for predicting AI motivations, and I wish I had clarified this more in the origina…]]></summary>
+        <author>
+            <name>Alex Mallen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X]]></title>
+        <id>https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck</id>
+        <link href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"/>
+        <updated>2026-05-10T18:44:11.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by Lablab.ai AMD Developer Hackathon on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch or Stream? The Eternal Data Processing Dilemma]]></title>
+        <id>https://towardsdatascience.com/?p=609061</id>
+        <link href="https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/"/>
+        <updated>2026-05-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Should we process our data in batches or in real-time?" It's not batch vs. stream: it's "when does the answer matter?"
+The post Batch or Stream? The Eternal Data Processing Dilemma appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikola Ilic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Summarizers Skip the Identification Step]]></title>
+        <id>https://towardsdatascience.com/?p=609055</id>
+        <link href="https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/"/>
+        <updated>2026-05-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.
+The post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>William Gieng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Must-Know Topics for an LLM Engineer]]></title>
+        <id>https://towardsdatascience.com/?p=609057</id>
+        <link href="https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/"/>
+        <updated>2026-05-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From tokenisation to evaluation :  how modern language models actually work in practice
+The post The Must-Know Topics for an LLM Engineer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aliaksei Mikhailiuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Master YOLOE: Real-Time Open-Vocabulary Detection Made Easy]]></title>
+        <id>https://learnopencv.com/?p=78863</id>
+        <link href="https://learnopencv.com/yoloe-tutorial-real-time-open-vocabulary-detection/"/>
+        <updated>2026-05-09T14:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn YOLOE for real-time open-vocabulary object detection and instance segmentation in Python with Ultralytics — text, visual, and prompt-free modes.
+How to Master YOLOE: Real-Time Open-Vocabulary Detection Made Easy first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Sudip Chakrabarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production]]></title>
+        <id>https://towardsdatascience.com/?p=609059</id>
+        <link href="https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/"/>
+        <updated>2026-05-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Three weeks into testing, a learner told me my AI tutor gave her the wrong answer.
+Not obviously wrong — just outdated enough to mislead.
+That was the moment I realized something most RAG systems quietly ignore: they have no sense of time. My system retrieved the most similar document, not the most current one. And in a knowledge base that changes constantly, that’s a serious flaw.
+The fix wasn’t in the retriever or the model. It was in the gap between them.
+I built a temporal layer that filters expired facts, boosts time-sensitive signals, and makes the system prefer what’s still true — not just what matches.
+The post RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Memory Patterns in Cognitive Science and AI Systems]]></title>
+        <id>https://www.analyticsvidhya.com/?p=254753</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/"/>
+        <updated>2026-05-09T11:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Memory shapes how humans think and how AI agents act. Without it, an agent only responds to the current input; with it, it can keep context, recall past actions, and reuse useful knowledge. AI memory spans short-term, episodic, semantic, and long-term memory, each with different design trade-offs around storage, retention, retrieval, and control. In this […]
+The post Agent Memory Patterns in Cognitive Science and AI Systems appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building realistic electric transmission grid dataset at scale: a pipeline from open dataset]]></title>
         <id>https://www.microsoft.com/en-us/research/?p=1170857</id>
@@ -3359,492 +3451,6 @@ The post When Things Get Weird with Custom Calendars in Tabular Models appeared 
 The post Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide to Voice Cloning on Voxtral with a Missing Encoder]]></title>
-        <id>https://towardsdatascience.com/?p=608799</id>
-        <link href="https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/"/>
-        <updated>2026-04-10T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Can we reconstruct audio codes if we have audio for the Voxtral text-to-speech model?
-The post A Guide to Voice Cloning on Voxtral with a Missing Encoder appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Roman S</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does AI Learn to See in 3D and Understand Space?]]></title>
-        <id>https://towardsdatascience.com/?p=608797</id>
-        <link href="https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/"/>
-        <updated>2026-04-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How depth estimation, foundation segmentation, and geometric fusion are converging into spatial intelligence
-The post How Does AI Learn to See in 3D and Understand Space? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Florent Poux, Ph.D.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Most Important AI Concepts Explained Simply]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253717</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/"/>
-        <updated>2026-04-10T08:29:22.000Z</updated>
-        <summary type="html"><![CDATA[AI can feel like a maze sometimes. Everywhere you look, people on social media and in meetings are throwing around terms like LLMs, agents, and hallucinations as if it’s all obvious. But for most people, it just feels confusing.  The good news is, AI isn’t nearly as complicated as it sounds once you understand the […]
-The post 10 Most Important AI Concepts Explained Simply appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using custom GPTs]]></title>
-        <id>https://openai.com/academy/custom-gpts</id>
-        <link href="https://openai.com/academy/custom-gpts"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for customer success teams]]></title>
-        <id>https://openai.com/academy/customer-success</id>
-        <link href="https://openai.com/academy/customer-success"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applications of AI at OpenAI]]></title>
-        <id>https://openai.com/academy/applications-of-ai</id>
-        <link href="https://openai.com/academy/applications-of-ai"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research with ChatGPT]]></title>
-        <id>https://openai.com/academy/search-and-deep-research</id>
-        <link href="https://openai.com/academy/search-and-deep-research"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing data with ChatGPT]]></title>
-        <id>https://openai.com/academy/data-analysis</id>
-        <link href="https://openai.com/academy/data-analysis"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial services]]></title>
-        <id>https://openai.com/academy/financial-services</id>
-        <link href="https://openai.com/academy/financial-services"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible and safe use of AI]]></title>
-        <id>https://openai.com/academy/responsible-and-safe-use</id>
-        <link href="https://openai.com/academy/responsible-and-safe-use"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing with ChatGPT]]></title>
-        <id>https://openai.com/academy/writing</id>
-        <link href="https://openai.com/academy/writing"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for research]]></title>
-        <id>https://openai.com/academy/research</id>
-        <link href="https://openai.com/academy/research"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating images with ChatGPT]]></title>
-        <id>https://openai.com/academy/image-generation</id>
-        <link href="https://openai.com/academy/image-generation"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personalizing ChatGPT]]></title>
-        <id>https://openai.com/academy/personalization</id>
-        <link href="https://openai.com/academy/personalization"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for finance teams]]></title>
-        <id>https://openai.com/academy/finance</id>
-        <link href="https://openai.com/academy/finance"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting started with ChatGPT]]></title>
-        <id>https://openai.com/academy/getting-started</id>
-        <link href="https://openai.com/academy/getting-started"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with files in ChatGPT]]></title>
-        <id>https://openai.com/academy/working-with-files</id>
-        <link href="https://openai.com/academy/working-with-files"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for sales teams]]></title>
-        <id>https://openai.com/academy/sales</id>
-        <link href="https://openai.com/academy/sales"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompting fundamentals]]></title>
-        <id>https://openai.com/academy/prompting</id>
-        <link href="https://openai.com/academy/prompting"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for managers]]></title>
-        <id>https://openai.com/academy/managers</id>
-        <link href="https://openai.com/academy/managers"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using projects in ChatGPT]]></title>
-        <id>https://openai.com/academy/projects</id>
-        <link href="https://openai.com/academy/projects"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for marketing teams]]></title>
-        <id>https://openai.com/academy/marketing</id>
-        <link href="https://openai.com/academy/marketing"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brainstorming with ChatGPT]]></title>
-        <id>https://openai.com/academy/brainstorming</id>
-        <link href="https://openai.com/academy/brainstorming"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI fundamentals]]></title>
-        <id>https://openai.com/academy/what-is-ai</id>
-        <link href="https://openai.com/academy/what-is-ai"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for operations teams]]></title>
-        <id>https://openai.com/academy/operations</id>
-        <link href="https://openai.com/academy/operations"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healthcare]]></title>
-        <id>https://openai.com/academy/healthcare</id>
-        <link href="https://openai.com/academy/healthcare"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our response to the Axios developer tool compromise]]></title>
-        <id>https://openai.com/index/axios-developer-tool-compromise</id>
-        <link href="https://openai.com/index/axios-developer-tool-compromise"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using skills]]></title>
-        <id>https://openai.com/academy/skills</id>
-        <link href="https://openai.com/academy/skills"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Mythos and misguided open-weight fearmongering]]></title>
-        <id>https://www.interconnects.ai/p/claude-mythos-and-misguided-open</id>
-        <link href="https://www.interconnects.ai/p/claude-mythos-and-misguided-open"/>
-        <updated>2026-04-09T21:28:39.000Z</updated>
-        <summary type="html"><![CDATA[Another dance around fears of open-source.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Visual Explanation of Linear Regression]]></title>
-        <id>https://towardsdatascience.com/?p=608787</id>
-        <link href="https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/"/>
-        <updated>2026-04-09T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A long-form article featuring over 100 visualizations, covering a range of topics from how to build linear regression model, measure the quality and how to improve the model
-The post A Visual Explanation of Linear Regression appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mikhail Sarafanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Future of Work: AI is driving rapid change, uneven benefits]]></title>
-        <id>https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/"/>
-        <updated>2026-04-09T16:11:44.000Z</updated>
-        <summary type="html"><![CDATA[For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI […]
-The post New Future of Work: AI is driving rapid change, uneven benefits appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Jaime Teevan, Sonia Jaffe, Rebecca Janssen, Nancy Baym, Siân Lindley, Bahar Sarrafzadeh, Brent Hecht, Jenna Butler, Jake Hofman, Sean Rintel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ideas: Steering AI toward the work future we want]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1167876</id>
-        <link href="https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/"/>
-        <updated>2026-04-09T16:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and explore the ideal AI-driven working world. Plus, is AI a tool or a collaborator? And why the answer matters.
-The post Ideas: Steering AI toward the work future we want appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Jaime Teevan, Jenna Butler, Jake Hofman, Rebecca Janssen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Visual-Language-Action (VLA) Models Work]]></title>
-        <id>https://towardsdatascience.com/?p=608795</id>
-        <link href="https://towardsdatascience.com/how-visual-language-action-vla-models-work/"/>
-        <updated>2026-04-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mathematical foundations of Vision-Language-Action (VLA) models for humanoid robots and more
-The post How Visual-Language-Action (VLA) Models Work appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime]]></title>
-        <id>https://towardsdatascience.com/?p=608793</id>
-        <link href="https://towardsdatascience.com/a-survival-analysis-guide-with-python-using-time-to-event-models-to-forecast-customer-lifetime/"/>
-        <updated>2026-04-09T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Understand survival analysis by modeling customer retention through Kaplan-Meier curves and Cox Proportional Hazard regressions.
-The post A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gustavo Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Glasswing is World’s Most Powerful AI in Action]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253682</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/project-glasswing-claude-mythos-most-powerful-ai/"/>
-        <updated>2026-04-09T12:22:22.000Z</updated>
-        <summary type="html"><![CDATA[We already had a hint. AI would surpass most human capabilities someday. In the field of cybersecurity, that day arrived way too early, with the recent announcement of the Mythos Preview by Claude. The new AI model promises a level of coding skills that it is deemed to ‘surpass all but the most skilled humans […]
-The post Project Glasswing is World’s Most Powerful AI in Action appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Roadmap to Mastering Agentic AI Design Patterns]]></title>
-        <id>https://machinelearningmastery.com/?p=23854</id>
-        <link href="https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"/>
-        <updated>2026-04-09T12:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Most <a href="https://machinelearningmastery.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of AI for Sales Is Diverse and Distributed]]></title>
-        <id>https://towardsdatascience.com/?p=608789</id>
-        <link href="https://towardsdatascience.com/the-future-of-ai-for-sales-is-diverse-and-distributed/"/>
-        <updated>2026-04-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[True creativity and innovation will come from human-agent collaboration. One human, millions of agents.
-The post The Future of AI for Sales Is Diverse and Distributed appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nicolas Maquaire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Voice AI: Speech Emotion Recognition, Tone, and Intent]]></title>
-        <id>https://imerit.net/?p=35179</id>
-        <link href="https://imerit.net/resources/blog/teaching-voice-ai-speech-emotion-recognition-tone-and-intent/"/>
-        <updated>2026-04-09T10:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Affective computing enables Voice AI to recognize, interpret, and simulate human emotions, moving beyond rule-based responses to achieve emotional intelligence.
-The post Teaching Voice AI: Speech Emotion Recognition, Tone, and Intent appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs]]></title>
-        <id>https://huggingface.co/blog/waypoint-1-5</id>
-        <link href="https://huggingface.co/blog/waypoint-1-5"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multimodal Embedding & Reranker Models with Sentence Transformers]]></title>
-        <id>https://huggingface.co/blog/multimodal-sentence-transformers</id>
-        <link href="https://huggingface.co/blog/multimodal-sentence-transformers"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberAgent moves faster with ChatGPT Enterprise and Codex]]></title>
-        <id>https://openai.com/index/cyberagent</id>
-        <link href="https://openai.com/index/cyberagent"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Full Fan Mode Contest: Terms & Conditions]]></title>
-        <id>https://openai.com/index/full-fan-mode-contest-terms-conditions</id>
-        <link href="https://openai.com/index/full-fan-mode-contest-terms-conditions"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253655</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/run-gemma-4-on-your-phone/"/>
-        <updated>2026-04-08T17:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Most AI tools rely on the internet, sending your prompts to remote servers for processing before returning results. This process has always been invisible to users. Google changes that with Gemma 4! Which if configured properly, runs directly on your phone, eliminating the need for constant connectivity. With a one-time download, everything runs locally on […]
-The post How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Gemma 4 Locally with Ollama on Your PC]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253621</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/running-gemma-4-locally/"/>
-        <updated>2026-04-08T17:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Open-weight models are driving the latest excitement in the AI landscape. Running powerful models locally improves privacy, cuts costs, and enables offline use. But the open-source models are far and few! But Google‘s Gemma 4 is here to change that! This guide walks through what Gemma 4 is, would explores its variants, and outlines the […]
-The post Running Gemma 4 Locally with Ollama on Your PC appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why LiDAR Perception Challenges Occur in Urban Settings]]></title>
-        <id>https://imerit.net/?p=35103</id>
-        <link href="https://imerit.net/resources/blog/why-lidar-perception-challenges-occur-in-urban-settings/"/>
-        <updated>2026-04-08T16:50:24.000Z</updated>
-        <summary type="html"><![CDATA[LiDAR is a core sensor used in autonomous systems to help machines understand their surroundings in three dimensions. It plays
-The post Why LiDAR Perception Challenges Occur in Urban Settings appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Is Training on Its Own Garbage (and How to Fix It)]]></title>
-        <id>https://towardsdatascience.com/?p=608784</id>
-        <link href="https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/"/>
-        <updated>2026-04-08T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Deep Web Data Is the Gold We Can't Touch, Yet
-The post Why AI Is Training on Its Own Garbage (and How to Fix It) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sabrine Bendimerad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Translation Hallucinations with Attention Misalignment]]></title>
-        <id>https://towardsdatascience.com/?p=608781</id>
-        <link href="https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/"/>
-        <updated>2026-04-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A low-budget way to get token-level uncertainty estimation for neural machine translations
-The post Detecting Translation Hallucinations with Attention Misalignment appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aleksandr Gapchenko</name>
         </author>
     </entry>
 </feed>
