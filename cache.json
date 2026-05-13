@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609080",
+          "author": "Mariya Mansurova",
+          "description": "A 4.5-hour journey from idea to working fitness app with LLM agents\nThe post From Vibe Coding to Spec-Driven Development appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/",
+          "publishedOn": "2026-05-12T16:30:00.000Z",
+          "wordCount": 6056,
+          "title": "From Vibe Coding to Spec-Driven Development",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/1_H1wSxNipPD-UApm0Ys2ZyQ.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609078",
+          "author": "Priyansh Bhardwaj",
+          "description": "When semantic search isn't enough for the RAG\nThe post Hybrid Search and Re-Ranking in Production RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/",
+          "publishedOn": "2026-05-12T15:00:00.000Z",
+          "wordCount": 6265,
+          "title": "Hybrid Search and Re-Ranking in Production RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RAG_article_3.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609076",
+          "author": "Partha Sarkar",
+          "description": "Hierarchical understanding and comparison of contracts, research papers, and more\nThe post Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-intelligence/",
+          "publishedOn": "2026-05-12T13:30:00.000Z",
+          "wordCount": 4923,
+          "title": "Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_xocnsyxocnsyxocn-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609074",
+          "author": "Luciano Abriata",
+          "description": "Compiling and running C code with Emscripten and GitHub Codespaces — no local installation required.\nThe post Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-first-webassembly-program-and-web-app-written-tested-and-deployed-entirely-in-the-web-browser/",
+          "publishedOn": "2026-05-12T12:00:00.000Z",
+          "wordCount": 6090,
+          "title": "Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-73.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609070",
           "author": "JUNIOR JUMBONG",
           "description": "How to build sentiment-aware word representations from IMDb reviews using semantic learning, star ratings, and linear SVM classification\nThe post Learning Word Vectors for Sentiment Analysis: A Python Reproduction appeared first on Towards Data Science.",
@@ -1100,26 +1140,6 @@
           "wordCount": 6035,
           "title": "Write Pandas Like a Pro With Method Chaining Pipelines",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/method-chaining.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608812",
-          "author": "Emmimal P Alexander",
-          "description": "Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural flaws. This article shows why prompt tuning won’t fix it, and the three structural changes that eliminate wasted retries entirely.\nThe post Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/",
-          "publishedOn": "2026-04-12T13:00:00.000Z",
-          "wordCount": 6951,
-          "title": "Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Your-ReAct-Agent-Is-Wasting-90-of-Its-Retries-—-And-You-Dont-Even-See-It.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608809",
-          "author": "Ian Ho",
-          "description": "A deep-dive and practical guide to cross-encoders, advanced techniques, and why your retrieval pipeline deserves a second pass.\nThe post Advanced RAG Retrieval: Cross-Encoders & Reranking appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/",
-          "publishedOn": "2026-04-11T15:00:00.000Z",
-          "wordCount": 8766,
-          "title": "Advanced RAG Retrieval: Cross-Encoders & Reranking",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/bi-encoder-vs-cross-encoder-scaled-1.jpg"
         }
       ]
     },
@@ -1585,6 +1605,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/?p=1171172",
+          "author": "Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Han Yang, Robert Pinsler, Shoko Ueda, Kenji Takeda",
+          "description": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone.\nThe post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+          "publishedOn": "2026-05-12T13:00:00.000Z",
+          "wordCount": 5000,
+          "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/MatterSimv1_5-TWLIFB-1200x627-1-scaled.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
           "author": "Tyler Payne, Will Epperson, Safoora Yousefi, Zachary Huang, Gagan Bansal, Wenyue Hua, Maya Murad, Asli Celikyilmaz, Saleema Amershi",
           "description": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest.\nThe post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research.",
@@ -1720,6 +1750,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a02b2a8937b84f7790d481e",
+          "author": "Rudrendu Paul",
+          "description": "Every product experimentation team doing causal inference on LLM-based features eventually hits the same wall: when the provider ships a new model version, there's no holdout. Your infrastructure team",
+          "link": "https://www.freecodecamp.org/news/product-experimentation-with-synthetic-control-causal-inference-for-global-llm-rollouts-in-python/",
+          "publishedOn": "2026-05-12T04:55:04.000Z",
+          "wordCount": 4942,
+          "title": "Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06d252e7-e613-46c7-b5ce-c5daa14cec21.png"
+        },
         {
           "id": "69fe0255f239332df4da1c33",
           "author": "Rudrendu Paul",
@@ -2283,6 +2323,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=254872",
+          "author": "Harsh Mishra",
+          "description": "AI agents are moving beyond simple command-line tools into systems that can plan, schedule, call tools, and run automated workflows. Nous Research’s Hermes Agent framework offers a self-hosted runtime for building advanced agents with state management, tool integration, and secure execution. It supports multi-step planning, background task control, and real-world automation beyond single-purpose coding assistants. […]\nThe post Hermes Agent Guide: What is it and How to Use it? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/05/hermes-agent-guide/",
+          "publishedOn": "2026-05-12T10:00:26.000Z",
+          "wordCount": null,
+          "title": "Hermes Agent Guide: What is it and How to Use it?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=254901",
           "author": "Vasu Deo Sankrityayan",
           "description": "Large language models are no longer just about scale. In 2026, the most important LLM research is focused on making models safer, more controllable, and more useful as real-world agents. From persuasion risk and harmful-content mechanisms to tool-calling, temporal reasoning, and agent privacy, these papers show where LLM research is heading next. Here are the […]\nThe post Top 10 LLM Research Papers of 2026 appeared first on Analytics Vidhya.",
@@ -2732,17 +2783,6 @@
           "title": "Top 10 Gemma 4 Projects That Will Blow Your Mind",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253694",
-          "author": "Sarthak Dogra",
-          "description": "Z.ai is out with its next-generation flagship AI model and has named it GLM-5.1. With its combination of extensive model size, operational efficiency, and superior reasoning functions, the model represents a major step forward in large language models. The system improves upon previous GLM models by introducing an advanced Mixture-of-Experts framework, which enables it to […]\nThe post GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/glm-5-1/",
-          "publishedOn": "2026-04-12T08:59:57.000Z",
-          "wordCount": null,
-          "title": "GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2798,6 +2838,46 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/academy/how-finance-teams-use-codex",
+          "author": null,
+          "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+          "link": "https://openai.com/academy/how-finance-teams-use-codex",
+          "publishedOn": "2026-05-12T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How finance teams use Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/nvidia",
+          "author": null,
+          "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "link": "https://openai.com/index/nvidia",
+          "publishedOn": "2026-05-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/what-parameter-golf-taught-us",
+          "author": null,
+          "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+          "link": "https://openai.com/index/what-parameter-golf-taught-us",
+          "publishedOn": "2026-05-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "What Parameter Golf taught us about AI-assisted research",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/autoscout24",
+          "author": null,
+          "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+          "link": "https://openai.com/index/autoscout24",
+          "publishedOn": "2026-05-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/signals/research/2026q1-update",
           "author": null,
@@ -3385,6 +3465,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+          "author": "Nathan Lambert",
+          "description": "Further reflections on China's high-participation, open-first AI ecosystem.",
+          "link": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+          "publishedOn": "2026-05-12T15:54:47.000Z",
+          "wordCount": null,
+          "title": "How open model ecosystems compound",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/39c7cc76-02ac-4c38-bbab-7d89dca53d0b_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/39c7cc76-02ac-4c38-bbab-7d89dca53d0b_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
           "author": "Nathan Lambert",
