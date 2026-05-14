@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-13T02:46:47.044Z</updated>
+    <updated>2026-05-14T02:47:51.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Built the Same B2B Document Extractor Twice: Rules vs. LLM]]></title>
+        <id>https://towardsdatascience.com/?p=609092</id>
+        <link href="https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/"/>
+        <updated>2026-05-13T18:22:05.000Z</updated>
+        <summary type="html"><![CDATA[A practical comparison between rule-based PDF extraction using pytesseract and an LLM-based approach with Ollama and LLaMA 3, based on a realistic B2B order scenario.
+The post I Built the Same B2B Document Extractor Twice: Rules vs. LLM appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sarah Schürch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Medical Data De-Identification Companies in 2026]]></title>
+        <id>https://imerit.ai/?p=36178</id>
+        <link href="https://imerit.ai/resources/blog/top-medical-data-de-identification-companies-in-2026/"/>
+        <updated>2026-05-13T17:29:22.000Z</updated>
+        <summary type="html"><![CDATA[As healthcare AI adoption accelerates, the ability to de-identify sensitive patient data while preserving clinical value has become mission-critical. From
+The post Top Medical Data De-Identification Companies in 2026 appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Identifying Medical Data: Challenges, Innovations, and What’s Next]]></title>
+        <id>https://imerit.ai/?p=36217</id>
+        <link href="https://imerit.ai/resources/blog/de-identifying-medical-data-challenges-innovations-and-whats-next/"/>
+        <updated>2026-05-13T17:29:19.000Z</updated>
+        <summary type="html"><![CDATA[Healthcare is experiencing a data-driven revolution. From AI models that read radiology scans to predictive algorithms guiding clinical workflows, the
+The post De-Identifying Medical Data: Challenges, Innovations, and What’s Next appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimalloc: A new, high-performance, scalable memory allocator for the modern era]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1171325</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/"/>
+        <updated>2026-05-13T17:19:59.000Z</updated>
+        <summary type="html"><![CDATA[mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.
+The post mimalloc: A new, high-performance, scalable memory allocator for the modern era appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Daan Leijen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Patterns of Survival from the Titanic Dataset]]></title>
+        <id>https://towardsdatascience.com/?p=609090</id>
+        <link href="https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/"/>
+        <updated>2026-05-13T16:46:36.000Z</updated>
+        <summary type="html"><![CDATA[A beginner's tutorial on exploratory data analysis using Pandas, Matplolib, and Seaborn
+The post Exploring Patterns of Survival from the Titanic Dataset appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GridSFM: A new, small foundation model for the electric grid]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1171470</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/"/>
+        <updated>2026-05-13T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.
+The post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen   Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the Best Way to Brainwash an LLM?]]></title>
+        <id>https://towardsdatascience.com/?p=609086</id>
+        <link href="https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/"/>
+        <updated>2026-05-13T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I spent a weekend trying to convince a language model it was C-3PO. Here's what actually worked.
+The post What’s the Best Way to Brainwash an LLM? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ferran Alia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments]]></title>
+        <id>https://towardsdatascience.com/?p=609083</id>
+        <link href="https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/"/>
+        <updated>2026-05-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A 12-metric evaluation framework for production AI agents — covering retrieval, generation, agent behavior, and production health. Drawn from 100+ enterprise deployments.
+The post Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pratik R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a safe, effective sandbox to enable Codex on Windows]]></title>
+        <id>https://openai.com/index/building-codex-windows-sandbox</id>
+        <link href="https://openai.com/index/building-codex-windows-sandbox"/>
+        <updated>2026-05-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous Vehicle Data Annotation: A Complete Guide]]></title>
+        <id>https://imerit.ai/?p=35900</id>
+        <link href="https://imerit.ai/resources/blog/autonomous-vehicle-data-annotation-a-complete-guide/"/>
+        <updated>2026-05-13T06:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Data annotation for autonomous vehicles is the process of labeling raw sensor inputs like camera images, LiDAR point clouds, and
+The post Autonomous Vehicle Data Annotation: A Complete Guide appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Vibe Coding to Spec-Driven Development]]></title>
         <id>https://towardsdatascience.com/?p=609080</id>
@@ -3645,80 +3754,6 @@ The post Your Model Isn’t Done: Understanding and Fixing Model Drift appeared 
 The post Top 10 Gemma 4 Projects That Will Blow Your Mind appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Should AI Step Aside?: Teaching Agents When Humans Want to Intervene]]></title>
-        <id>https://blog.ml.cmu.edu/?p=22381</id>
-        <link href="https://blog.ml.cmu.edu/2026/04/13/when-should-ai-step-aside-teaching-agents-when-humans-want-to-intervene/"/>
-        <updated>2026-04-13T14:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Recent advances in large language models (LLMs) have enabled AI agents to perform increasingly complex tasks in web navigation. Despite this progress, effective use of such agents continues to rely on human involvement to correct misinterpretations or adjust outputs that diverge from their preferences. However, current agentic systems lack an understanding of when and why humans intervene. As a result, they might overlook user needs and proceed incorrectly, or interrupt users too frequently with unnecessary confirmation requests.  This blogpost is based on our recent work — Modeling Distinct Human Interaction in Web Agents — where we shift the focus from autonomy to collaboration. Instead of optimizing agents solely for an end-to-end autonomous pipeline, we ask: Can agents anticipate when humans are likely to intervene? CowCorpus: Learning from Real Interaction To formulate this task, we collect CowCorpus – a novel dataset of interleaved human and agent action trajectories. Compared to existing datasets comprising either only agent trajectory or human trajectory, CowCorpus captures the collaborative task execution by a team of a human and an agent. In total, CowCorpus has: 400 real human–agent web sessions 4,200+ interleaved actions Step-level annotations of intervention moments We curate CowCorpus from 20 real-world users using CowPilot, […]]]></summary>
-        <author>
-            <name>Faria Huq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Range Over Depth: A Reflection on the Role of the Data Generalist]]></title>
-        <id>https://towardsdatascience.com/?p=608819</id>
-        <link href="https://towardsdatascience.com/range-over-depth-a-reflection-on-the-role-of-the-data-generalist/"/>
-        <updated>2026-04-13T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What has changed in the past five years in the role and importance of generalists in data teams
-The post Range Over Depth: A Reflection on the Role of the Data Generalist appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Corné POTGIETER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structured Outputs vs. Function Calling: Which Should Your Agent Use?]]></title>
-        <id>https://machinelearningmastery.com/?p=23896</id>
-        <link href="https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"/>
-        <updated>2026-04-13T12:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Language models (LMs), at their core, are text-in and text-out systems.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Tiny Computer Inside a Transformer]]></title>
-        <id>https://towardsdatascience.com/?p=608817</id>
-        <link href="https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/"/>
-        <updated>2026-04-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By compiling a simple program directly into transformer weights.
-The post I Built a Tiny Computer Inside a Transformer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI]]></title>
-        <id>https://openai.com/index/cloudflare-openai-agent-cloud</id>
-        <link href="https://openai.com/index/cloudflare-openai-agent-cloud"/>
-        <updated>2026-04-13T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Treating AI Memory Like a Search Problem]]></title>
-        <id>https://towardsdatascience.com/?p=608827</id>
-        <link href="https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/"/>
-        <updated>2026-04-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why storing and retrieving data isn’t enough to build reliable AI memory systems
-The post Stop Treating AI Memory Like a Search Problem appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write Pandas Like a Pro With Method Chaining Pipelines]]></title>
-        <id>https://towardsdatascience.com/?p=608814</id>
-        <link href="https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/"/>
-        <updated>2026-04-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Master method chaining, assign(), and pipe() to write cleaner, testable, production-ready Pandas code
-The post Write Pandas Like a Pro With Method Chaining Pipelines appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
         </author>
     </entry>
 </feed>
