@@ -2,10 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-15T02:50:30.224Z</updated>
+    <updated>2026-05-16T02:37:29.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Risk reports need to address deployment-time spread of misalignment]]></title>
+        <id>cNymohcWtGHzW7AjK</id>
+        <link href="https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of"/>
+        <updated>2026-05-15T18:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible route to consistent adversarial misalignment in the near future. So, AI companies and evaluators should substantively incorporate it into risk analysis and planning.
+In this post, I’ll briefly argue why, absent improved mitigations, this will probably soon become a reason why AI companies will be unable to convincingly argue against consistent adversarial misalignment (this risk will perhaps be even larger than risk of consistent adversarial misalignment arising from training). Then I’ll discuss how…]]></summary>
+        <author>
+            <name>Alex Mallen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1172154</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/"/>
+        <updated>2026-05-15T18:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]
+The post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Philippe Laban, Tobias Schnabel, Jennifer Neville</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanistic estimation for expectations of random products]]></title>
+        <id>7RyAefESvb6BQ3tMz</id>
+        <link href="https://www.alignmentforum.org/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products"/>
+        <updated>2026-05-15T16:50:43.000Z</updated>
+        <summary type="html"><![CDATA[We have developed some relatively general methods for mechanistic estimation competitive with sampling by studying problems that are expressible as expectations of random products. This includes several different estimation problems, such as random halfspace intersections, random #3-SAT and random permanents. In this post, we will give a high-level introduction to these methods before sharing some more detailed notes. This is intended as an interim technical update and will be relatively light on motivation: for a broader discussion of this line of research, see our prior post.
+Random instances of the matching sampling principle
+All of the problems discussed in this post can be thought of particular choices of "architecture" 
+
+
+mjx-container[jax="CHTML"] {
+  line-height: 0;
+}
+
+mjx-containe…]]></summary>
+        <author>
+            <name>Jacob_Hilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Raw Data to Risk Classes]]></title>
+        <id>https://towardsdatascience.com/?p=609107</id>
+        <link href="https://towardsdatascience.com/from-raw-data-to-risk-classes/"/>
+        <updated>2026-05-15T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to categorization in credit scoring
+The post From Raw Data to Risk Classes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Omni Moderation: How to Filter Text & Images for Free]]></title>
+        <id>https://www.analyticsvidhya.com/?p=254729</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/05/openai-omni-moderation/"/>
+        <updated>2026-05-15T16:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Want to add a safety layer in your chatbot, image analyzer or any another LLM-based system? I would strongly suggest you try OpenAI’s moderation model: omni-moderation-latest, this can help your system identify if the input is potentially harmful or not, that too free of cost. We’ll look into the background of the model, how to […]
+The post OpenAI Omni Moderation: How to Filter Text & Images for Free appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Mounish V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Continually Improve My Claude Code]]></title>
+        <id>https://towardsdatascience.com/?p=609109</id>
+        <link href="https://towardsdatascience.com/how-i-continually-improve-my-claude-code/"/>
+        <updated>2026-05-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to make your Claude Code improve over time 
+The post How I Continually Improve My Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Artemis Accords]]></title>
+        <id>4b331e6e-5066-11f1-8eb4-0f5ada662df5</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-artemis-accords/"/>
+        <updated>2026-05-15T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[NASA’s Kathleen Karika and Kim Hurst discuss how the Artemis Accords are helping shape a safe, peaceful, and prosperous future for lunar exploration and beyond.]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why My Coding Assistant Started Replying in Korean When I Typed Chinese]]></title>
+        <id>https://towardsdatascience.com/?p=609105</id>
+        <link href="https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/"/>
+        <updated>2026-05-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From a Chinese prompt to a Korean response: an embedding-space investigation into how code vocabulary reshapes language
+The post Why My Coding Assistant Started Replying in Korean When I Typed Chinese appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Evaluating LLMs with “Vibe Checks”]]></title>
+        <id>https://towardsdatascience.com/?p=609103</id>
+        <link href="https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/"/>
+        <updated>2026-05-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to build a decision-grade scorecard for AI agents
+The post Stop Evaluating LLMs with “Vibe Checks” appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Autonomous Systems Through Edge Case Triage]]></title>
+        <id>https://imerit.ai/?p=36324</id>
+        <link href="https://imerit.ai/resources/blog/improving-autonomous-systems-through-edge-case-triage/"/>
+        <updated>2026-05-15T06:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Autonomous vehicles have come a long way. On controlled highways and structured urban environments, modern autonomous vehicle systems navigate familiar
+The post Improving Autonomous Systems Through Edge Case Triage appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Data Operations & Governance in AI Vendor Evaluation]]></title>
+        <id>https://imerit.ai/?p=36335</id>
+        <link href="https://imerit.ai/resources/blog/secure-data-operations-governance-in-ai-vendor-evaluation/"/>
+        <updated>2026-05-15T06:01:28.000Z</updated>
+        <summary type="html"><![CDATA[When enterprises evaluate AI data vendors, the discussion often centers on annotation accuracy, domain expertise, and delivery capacity. Yet many
+The post Secure Data Operations & Governance in AI Vendor Evaluation appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top 10 LLM Training Datasets for 2026]]></title>
+        <id>https://imerit.ai/?p=36232</id>
+        <link href="https://imerit.ai/resources/blog/the-top-10-llm-training-datasets-for-2026/"/>
+        <updated>2026-05-15T05:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Large language models depend on extensive, high-quality training data. Whether you’re building a general-purpose chatbot, a coding copilot, a medical
+The post The Top 10 LLM Training Datasets for 2026 appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new personal finance experience in ChatGPT]]></title>
+        <id>https://openai.com/index/personal-finance-chatgpt</id>
+        <link href="https://openai.com/index/personal-finance-chatgpt"/>
+        <updated>2026-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Databricks brings GPT-5.5 to enterprise agent workflows]]></title>
+        <id>https://openai.com/index/databricks</id>
+        <link href="https://openai.com/index/databricks"/>
+        <updated>2026-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year]]></title>
         <id>https://www.analyticsvidhya.com/?p=254960</id>
@@ -15,6 +174,16 @@
 The post DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Sarthak Dogra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea's View on the Future of Agentic Software Development with Codex]]></title>
+        <id>https://openai.com/index/sea-david-chen</id>
+        <link href="https://openai.com/index/sea-david-chen"/>
+        <updated>2026-05-14T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -315,6 +484,17 @@ The post Hybrid Search and Re-Ranking in Production RAG appeared first on Toward
         <summary type="html"><![CDATA[See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.]]></summary>
         <author>
             <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy-Pointer RAG — Structure-Aware Document Comparison at Enterprise Scale]]></title>
+        <id>https://towardsdatascience.com/?p=609076</id>
+        <link href="https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-comparison/"/>
+        <updated>2026-05-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hierarchical understanding and comparison of contracts, research papers, and more
+The post Proxy-Pointer RAG — Structure-Aware Document Comparison at Enterprise Scale appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -3728,154 +3908,6 @@ The post Prefill Is Compute-Bound. Decode Is Memory-Bound. Why Your GPU Shouldn�
 The post 5 Practical Tips for Transforming Your Batch Data Pipeline into Real-Time: Upcoming Webinar appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kimberly Fessel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Pixels to DNA: Why the Future of Compression Is About Every Kind of Data]]></title>
-        <id>https://towardsdatascience.com/?p=608844</id>
-        <link href="https://towardsdatascience.com/from-pixels-to-dna-why-the-future-of-compression-is-about-every-kind-of-data/"/>
-        <updated>2026-04-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s not about audio and video anymore
-The post From Pixels to DNA: Why the Future of Compression Is About Every Kind of Data appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Roberto Iacoviello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 Computer Vision Projects from Beginner to Advanced (2026 Guide)]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253577</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/top-computer-vision-projects/"/>
-        <updated>2026-04-15T12:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Computer Vision remains one of the most commercially valuable areas in AI. Powering applications from autonomous driving to medical imaging and generative systems. But breaking into the field requires more than just theory! A strong portfolio of practical projects is what sets you apart. This guide features 21 Computer Vision projects, from foundational computer vision […]
-The post 21 Computer Vision Projects from Beginner to Advanced (2026 Guide) appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents]]></title>
-        <id>https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis</id>
-        <link href="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"/>
-        <updated>2026-04-15T12:07:25.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Techniques for Efficient Long-Context RAG]]></title>
-        <id>https://machinelearningmastery.com/?p=23646</id>
-        <link href="https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"/>
-        <updated>2026-04-15T12:00:40.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://machinelearningmastery.]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From OpenStreetMap to Power BI: Visualizing Wild Swimming Locations]]></title>
-        <id>https://towardsdatascience.com/?p=608841</id>
-        <link href="https://towardsdatascience.com/from-openstreetmap-to-power-bi-visualizing-wild-swimming-locations/"/>
-        <updated>2026-04-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to turn OpenStreetMap data into an interactive map of wild swimming spots using Overpass API and Power BI.
-The post From OpenStreetMap to Power BI: Visualizing Wild Swimming Locations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Cláudio Tereso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The next evolution of the Agents SDK]]></title>
-        <id>https://openai.com/index/the-next-evolution-of-the-agents-sdk</id>
-        <link href="https://openai.com/index/the-next-evolution-of-the-agents-sdk"/>
-        <updated>2026-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet HoloTab by HCompany. Your AI browser companion.]]></title>
-        <id>https://huggingface.co/blog/Hcompany/holotab</id>
-        <link href="https://huggingface.co/blog/Hcompany/holotab"/>
-        <updated>2026-04-15T09:25:20.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by H company on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I’ve been building: ATOM Report, post-training course, finishing my book, and ongoing research]]></title>
-        <id>https://www.interconnects.ai/p/what-ive-been-building-atom-report</id>
-        <link href="https://www.interconnects.ai/p/what-ive-been-building-atom-report"/>
-        <updated>2026-04-14T20:41:12.000Z</updated>
-        <summary type="html"><![CDATA[What I've been up to!]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work]]></title>
-        <id>https://towardsdatascience.com/?p=608839</id>
-        <link href="https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/"/>
-        <updated>2026-04-14T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most RAG tutorials focus on retrieval or prompting. The real problem starts when context grows. This article shows a full context engineering system built in pure Python that controls memory, compression, re-ranking, and token budgets — so LLMs stay stable under real constraints.
-The post RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Modeling for Analytics Engineers: The Complete Primer]]></title>
-        <id>https://towardsdatascience.com/?p=608837</id>
-        <link href="https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/"/>
-        <updated>2026-04-14T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The best data models make it hard to ask bad questions and easy to answer good ones.
-The post Data Modeling for Analytics Engineers: The Complete Primer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Fashion App That Helps You Organize Your Wardrobe]]></title>
-        <id>69de6abf91716f3cfb5448a1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/"/>
-        <updated>2026-04-14T16:26:39.000Z</updated>
-        <summary type="html"><![CDATA[I used to spend too long deciding what to wear, even when my closet was full. That frustration made the problem feel very clear to me: it was not about having fewer clothes. It was about having better]]></summary>
-        <author>
-            <name>Mokshita V P</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel 101: Excel Agent Mode Explained]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253539</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/excel-agent-mode-explained/"/>
-        <updated>2026-04-14T15:36:59.000Z</updated>
-        <summary type="html"><![CDATA[We have come far in our series of Excel 101, exploring various functions and formulas of the service and how best to use them in real-world scenarios. For those who are new to this, make sure to check out the complete list of Excel functions that we have covered so far in the links shared […]
-The post Excel 101: Excel Agent Mode Explained appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253873</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/minimax-m2-7-goes-open-weight-to-let-you-run-agents-locally/"/>
-        <updated>2026-04-14T15:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Following in the footsteps of the recently released Gemma 4, MiniMax has now made its latest model, MiniMax M2.7, completely open-weight. In simple terms, developers can now download the model, run it on their own systems, and start building with it. This is in contrast with the model being a completely cloud-hosted AI service up […]
-The post MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Quantum SDK]]></title>
-        <id>https://towardsdatascience.com/?p=608835</id>
-        <link href="https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/"/>
-        <updated>2026-04-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What to use, when to use it, and what to ignore?
-The post A Practical Guide to Choosing the Right Quantum SDK appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
         </author>
     </entry>
 </feed>
