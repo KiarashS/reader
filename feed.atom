@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-17T02:45:54.154Z</updated>
+    <updated>2026-05-18T02:56:01.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling]]></title>
+        <id>https://towardsdatascience.com/?p=609117</id>
+        <link href="https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/"/>
+        <updated>2026-05-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Billions of rows might be the exception, but for everything else, Pandas is still a highly reliable tool.
+The post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships]]></title>
+        <id>https://towardsdatascience.com/?p=609115</id>
+        <link href="https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/"/>
+        <updated>2026-05-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.
+The post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.]]></title>
         <id>https://www.interconnects.ai/p/latest-open-artifacts-21-open-model</id>
@@ -486,6 +508,16 @@ The post What’s the Best Way to Brainwash an LLM? appeared first on Towards Da
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Choosing the Right Agentic Design Pattern: A Decision-Tree Approach]]></title>
+        <id>https://machinelearningmastery.com/?p=24162</id>
+        <link href="https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"/>
+        <updated>2026-05-13T12:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Most <a href="https://www.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments]]></title>
         <id>https://towardsdatascience.com/?p=609083</id>
         <link href="https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/"/>
@@ -600,6 +632,16 @@ The post Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelli
 The post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research.]]></summary>
         <author>
             <name>Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Han Yang, Robert Pinsler, Shoko Ueda, Kenji Takeda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Observability Tools for Reliable AI Applications]]></title>
+        <id>https://machinelearningmastery.com/?p=24211</id>
+        <link href="https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"/>
+        <updated>2026-05-12T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -3637,133 +3679,6 @@ The post Beyond Prompting: Using Agent Skills in Data Science appeared first on
 The post You Don’t Need Many Labels to Learn appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Léo Saci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ascension: Looking Back at the Space Shuttle]]></title>
-        <id>6c6b08c4-3a60-11f1-bdb4-634caba52a03</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/ascension-looking-back-at-the-space-shuttle/"/>
-        <updated>2026-04-17T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Steven Hirshorn reflects on the Space Shuttle Program, the Space Shuttle Columbia accident, and the lessons learned that continue to shape human spaceflight. Episode 418]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Things I Learned Building LLMs From Scratch That No Tutorial Teaches You]]></title>
-        <id>https://towardsdatascience.com/?p=608869</id>
-        <link href="https://towardsdatascience.com/6-things-i-learned-building-llms-from-scratch-that-no-tutorial-teaches-you/"/>
-        <updated>2026-04-17T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From rank-stabilized scaling to quantization stability: A statistical and architectural deep dive into the optimizations powering modern Transformers.
-The post 6 Things I Learned Building LLMs From Scratch That No Tutorial Teaches You appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aman Vasisht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254027</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/"/>
-        <updated>2026-04-17T12:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is rapidly developing. The minute we become accustomed to one breakthrough, another comes to shift our expectations. The new model, Claude Opus 4.7, that Anthropic introduced recently, is one such shift. The release tends to go beyond mere AI chatbots and makes AI a trusted, independent digital partner. Even for developers and professionals, […]
-The post Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks” appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to Inference Caching in LLMs]]></title>
-        <id>https://machinelearningmastery.com/?p=23915</id>
-        <link href="https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"/>
-        <updated>2026-04-17T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Calling a large language model API at scale is expensive and slow.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide to Memory for Autonomous LLM Agents]]></title>
-        <id>https://towardsdatascience.com/?p=608867</id>
-        <link href="https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/"/>
-        <updated>2026-04-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Architectures, pitfalls, and patterns that work
-The post A Practical Guide to Memory for Autonomous LLM Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nick Lawson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 28 Claude Shortcuts that will 10X your Speed]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253887</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/"/>
-        <updated>2026-04-17T08:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Even though we know prompting matters, most people are still using Claude like a glorified Google search. Let me lead by example – “Summarise this into 3 sentences max.” Sounds familiar? Well, there may be nothing wrong in typing such a prompt, but truth be told, all these letters are good for an article like […]
-The post Top 28 Claude Shortcuts that will 10X your Speed appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What It Actually Takes to Run Code on 200M€ Supercomputer]]></title>
-        <id>https://towardsdatascience.com/?p=608877</id>
-        <link href="https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/"/>
-        <updated>2026-04-16T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Inside MareNostrum V: SLURM schedulers, fat-tree topologies,  and scaling pipelines across 8,000 nodes in a 19th-century chapel
-The post What It Actually Takes to Run Code on 200M€ Supercomputer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ferran Alia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key]]></title>
-        <id>https://www.analyticsvidhya.com/?p=253959</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/"/>
-        <updated>2026-04-16T17:27:34.000Z</updated>
-        <summary type="html"><![CDATA[The question around AI, and I mean the pinnacle of AI, not your regular “write me an email”, is shifting. What used to be “what can it do for me?” has now become “who gets to use it?” We saw this recently with Anthropic’s Claude Mythos Preview – a supposed epitome of AI models that […]
-The post GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Chunks Failed Your RAG in Production]]></title>
-        <id>https://towardsdatascience.com/?p=608865</id>
-        <link href="https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/"/>
-        <updated>2026-04-16T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The upstream decision no model, or LLM can fix once you get it wrong
-The post Your Chunks Failed Your RAG in Production appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Priyansh Bhardwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can only build safe ASI if ASI is globally banned]]></title>
-        <id>7noKve57za3yg2LEb</id>
-        <link href="https://www.alignmentforum.org/posts/7noKve57za3yg2LEb/you-can-only-build-safe-asi-if-asi-is-globally-banned-1"/>
-        <updated>2026-04-16T15:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes people make various suggestions that we should simply build "safe" artificial Superintelligence (ASI), rather than the presumably "unsafe" kind.[1]
-There are various flavors of “safe” people suggest.
-
-Sometimes they suggest building “aligned” ASI: You have a full agentic autonomous god-like ASI running around, but it really really loves you and definitely will do the right thing.
-Sometimes they suggest we should simply build “tool AI” or “non-agentic” AI.
-Sometimes they have even more exotic, or more obviously-stupid ideas.
-
-
-Now I could argue at lengths about why this is astronomically harder than people think it is, why their various proposals are almost universally unworkable, why even attempting this is insanely immoral[2], but that’s not the main point I want to make.
-Instea…]]></summary>
-        <author>
-            <name>Connor Leahy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building My Own Personal AI Assistant: A Chronicle, Part 2]]></title>
-        <id>https://towardsdatascience.com/?p=608863</id>
-        <link href="https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle-part-2/"/>
-        <updated>2026-04-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a personal AI assistant is rarely a single, monolithic effort. In this piece, I walk through my latest addition: a task breaker module that decomposes complex goals into structured, actionable steps — and why that single component changed how I think about AI-driven productivity.
-The post Building My Own Personal AI Assistant: A Chronicle, Part 2 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ivo Bernardo</name>
         </author>
     </entry>
 </feed>

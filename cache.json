@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609117",
+          "author": "Soner Yıldırım",
+          "description": "Billions of rows might be the exception, but for everything else, Pandas is still a highly reliable tool.\nThe post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/",
+          "publishedOn": "2026-05-17T15:00:00.000Z",
+          "wordCount": 4152,
+          "title": "Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/efe-yagiz-soysal-SgU7-iZn8m8-unsplash-Medium.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609115",
+          "author": "Emmimal P Alexander",
+          "description": "Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.\nThe post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/",
+          "publishedOn": "2026-05-17T13:00:00.000Z",
+          "wordCount": 7990,
+          "title": "LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Missing-Scoring-Layer.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609113",
           "author": "Ibrahim Salami",
           "description": "The exact tools I'm learning, the projects I'm building, and the mistakes I'm already expecting to make\nThe post From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap appeared first on Towards Data Science.",
@@ -1060,56 +1080,6 @@
           "wordCount": 4973,
           "title": "You Don’t Need Many Labels to Learn",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/p-anosh-7Uqthlhbjs8-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608869",
-          "author": "Aman Vasisht",
-          "description": "From rank-stabilized scaling to quantization stability: A statistical and architectural deep dive into the optimizations powering modern Transformers.\nThe post 6 Things I Learned Building LLMs From Scratch That No Tutorial Teaches You appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/6-things-i-learned-building-llms-from-scratch-that-no-tutorial-teaches-you/",
-          "publishedOn": "2026-04-17T13:30:00.000Z",
-          "wordCount": 5241,
-          "title": "6 Things I Learned Building LLMs From Scratch That No Tutorial Teaches You",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/IMG_3024.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608867",
-          "author": "Nick Lawson",
-          "description": "Architectures, pitfalls, and patterns that work\nThe post A Practical Guide to Memory for Autonomous LLM Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/",
-          "publishedOn": "2026-04-17T12:00:00.000Z",
-          "wordCount": 5581,
-          "title": "A Practical Guide to Memory for Autonomous LLM Agents",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_stpvlkstpvlkstpv-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608877",
-          "author": "Ferran Alia",
-          "description": "Inside MareNostrum V: SLURM schedulers, fat-tree topologies,  and scaling pipelines across 8,000 nodes in a 19th-century chapel\nThe post What It Actually Takes to Run Code on 200M€ Supercomputer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/",
-          "publishedOn": "2026-04-16T18:30:00.000Z",
-          "wordCount": 5019,
-          "title": "What It Actually Takes to Run Code on 200M€ Supercomputer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/2017_BSC_Superordenador_MareNostrum-4_Barcelona-Supercomputing-Center.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608865",
-          "author": "Priyansh Bhardwaj",
-          "description": "The upstream decision no model, or LLM can fix once you get it wrong\nThe post Your Chunks Failed Your RAG in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/",
-          "publishedOn": "2026-04-16T16:30:00.000Z",
-          "wordCount": 7410,
-          "title": "Your Chunks Failed Your RAG in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_bptg14bptg14bptg.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608863",
-          "author": "Ivo Bernardo",
-          "description": "Building a personal AI assistant is rarely a single, monolithic effort. In this piece, I walk through my latest addition: a task breaker module that decomposes complex goals into structured, actionable steps — and why that single component changed how I think about AI-driven productivity.\nThe post Building My Own Personal AI Assistant: A Chronicle, Part 2 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle-part-2/",
-          "publishedOn": "2026-04-16T15:00:00.000Z",
-          "wordCount": 4882,
-          "title": "Building My Own Personal AI Assistant: A Chronicle, Part 2",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Screenshot-from-2026-04-12-18-54-01.jpg"
         }
       ]
     },
@@ -1118,6 +1088,26 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=24162",
+          "author": "Bala Priya C",
+          "description": "Most <a href=\"https://www.",
+          "link": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/",
+          "publishedOn": "2026-05-13T12:00:45.000Z",
+          "wordCount": null,
+          "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24211",
+          "author": "Bala Priya C",
+          "description": "Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+          "link": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/",
+          "publishedOn": "2026-05-12T12:00:07.000Z",
+          "wordCount": null,
+          "title": "LLM Observability Tools for Reliable AI Applications",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=23681",
           "author": "Iván Palomares Carrascosa",
@@ -1246,16 +1236,6 @@
           "publishedOn": "2026-04-20T12:00:16.000Z",
           "wordCount": null,
           "title": "Getting Started with Zero-Shot Text Classification",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=23915",
-          "author": "Bala Priya C",
-          "description": "Calling a large language model API at scale is expensive and slow.",
-          "link": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/",
-          "publishedOn": "2026-04-17T12:00:46.000Z",
-          "wordCount": null,
-          "title": "The Complete Guide to Inference Caching in LLMs",
           "imageUrl": null
         }
       ]
@@ -1927,24 +1907,6 @@
           },
           "enclosure": {
             "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9666433108.mp3?updated=1777038944",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "6c6b08c4-3a60-11f1-bdb4-634caba52a03",
-          "author": null,
-          "description": "Steven Hirshorn reflects on the Space Shuttle Program, the Space Shuttle Columbia accident, and the lessons learned that continue to shape human spaceflight. Episode 418",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/ascension-looking-back-at-the-space-shuttle/",
-          "publishedOn": "2026-04-17T13:49:00.000Z",
-          "wordCount": null,
-          "title": "Ascension: Looking Back at the Space Shuttle",
-          "itunes": {
-            "duration": "3980"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3080431251.mp3?updated=1776434251",
             "length": "0",
             "type": "audio/mpeg"
           },
@@ -2744,39 +2706,6 @@
           "publishedOn": "2026-04-18T17:26:42.000Z",
           "wordCount": null,
           "title": "Gemma 4 Tool Calling Explained: Build AI Agents with Function Calling (Step-by-Step Guide)",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254027",
-          "author": "Sarthak Dogra",
-          "description": "Artificial intelligence is rapidly developing. The minute we become accustomed to one breakthrough, another comes to shift our expectations. The new model, Claude Opus 4.7, that Anthropic introduced recently, is one such shift. The release tends to go beyond mere AI chatbots and makes AI a trusted, independent digital partner. Even for developers and professionals, […]\nThe post Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks” appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/",
-          "publishedOn": "2026-04-17T12:21:37.000Z",
-          "wordCount": null,
-          "title": "Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253887",
-          "author": "Sarthak Dogra",
-          "description": "Even though we know prompting matters, most people are still using Claude like a glorified Google search. Let me lead by example – “Summarise this into 3 sentences max.” Sounds familiar? Well, there may be nothing wrong in typing such a prompt, but truth be told, all these letters are good for an article like […]\nThe post Top 28 Claude Shortcuts that will 10X your Speed appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/",
-          "publishedOn": "2026-04-17T08:12:02.000Z",
-          "wordCount": null,
-          "title": "Top 28 Claude Shortcuts that will 10X your Speed",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=253959",
-          "author": "Sarthak Dogra",
-          "description": "The question around AI, and I mean the pinnacle of AI, not your regular “write me an email”, is shifting. What used to be “what can it do for me?” has now become “who gets to use it?” We saw this recently with Anthropic’s Claude Mythos Preview – a supposed epitome of AI models that […]\nThe post GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/",
-          "publishedOn": "2026-04-16T17:27:34.000Z",
-          "wordCount": null,
-          "title": "GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key",
           "itunes": {},
           "imageUrl": null
         }
@@ -3826,16 +3755,6 @@
           "publishedOn": "2026-04-17T19:30:12.000Z",
           "wordCount": null,
           "title": "Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability",
-          "imageUrl": null
-        },
-        {
-          "id": "7noKve57za3yg2LEb",
-          "author": "Connor Leahy",
-          "description": "Sometimes people make various suggestions that we should simply build \"safe\" artificial Superintelligence (ASI), rather than the presumably \"unsafe\" kind.[1]\nThere are various flavors of “safe” people suggest.\n\nSometimes they suggest building “aligned” ASI: You have a full agentic autonomous god-like ASI running around, but it really really loves you and definitely will do the right thing.\nSometimes they suggest we should simply build “tool AI” or “non-agentic” AI.\nSometimes they have even more exotic, or more obviously-stupid ideas.\n\n\nNow I could argue at lengths about why this is astronomically harder than people think it is, why their various proposals are almost universally unworkable, why even attempting this is insanely immoral[2], but that’s not the main point I want to make.\nInstea…",
-          "link": "https://www.alignmentforum.org/posts/7noKve57za3yg2LEb/you-can-only-build-safe-asi-if-asi-is-globally-banned-1",
-          "publishedOn": "2026-04-16T15:10:55.000Z",
-          "wordCount": null,
-          "title": "You can only build safe ASI if ASI is globally banned",
           "imageUrl": null
         }
       ]
