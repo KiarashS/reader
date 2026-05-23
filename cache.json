@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609164",
+          "author": "Ingo Nowitzky",
+          "description": "How AI architecture prevents plausible but wrong analytics\nThe post Hybrid AI: Combining Deterministic Analytics with LLM Reasoning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/hybrid-ai-combining-deterministic-analytics-with-llm-reasoning/",
+          "publishedOn": "2026-05-22T16:30:00.000Z",
+          "wordCount": 6917,
+          "title": "Hybrid AI: Combining Deterministic Analytics with LLM Reasoning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Feature_Image_v2-2.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609162",
+          "author": "angela shi",
+          "description": "For AI engineers who want to understand every step, not just call the library\nThe post Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/document-intelligence-a-series-on-building-rag-brick-by-brick-from-minimal-to-corpus-scale/",
+          "publishedOn": "2026-05-22T15:00:00.000Z",
+          "wordCount": 7956,
+          "title": "Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/enterprise_document_intelligence_rag_series_overview.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609159",
+          "author": "Davinder Singh",
+          "description": "Quantum Machine Learning promises access to exponentially large representational spaces, but before any computation can happen, classical data must first be embedded into quantum systems. This article explores one of the most overlooked bottlenecks in QML: getting data into a quantum computer efficiently.\nThe post The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-hidden-bottleneck-in-quantum-machine-learning-getting-data-into-a-quantum-computer/",
+          "publishedOn": "2026-05-22T13:30:00.000Z",
+          "wordCount": 4909,
+          "title": "The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/embedding_cover-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609157",
+          "author": "Corné POTGIETER",
+          "description": "The tension between Legal and IT has always been frustrating but  AI is about to make it worse, at scale. The answer is observable compliance: encoding legal intent directly into architecture.\nThe post Lost in Translation: How AI Exposes the Rift Between Law and Logic appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/lost-in-translation-how-ai-exposes-the-rift-between-lw-and-logic/",
+          "publishedOn": "2026-05-22T12:00:00.000Z",
+          "wordCount": 6950,
+          "title": "Lost in Translation: How AI Exposes the Rift Between Law and Logic",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-Mar-18-2026-03_08_29-PM.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609155",
           "author": "William Gieng",
           "description": "A practitioner's warning about generated variables in causal analysis\nThe post LLM Themes Are Not Observations appeared first on Towards Data Science.",
@@ -1050,56 +1090,6 @@
           "wordCount": 4684,
           "title": "From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/christina-wocintechchat-com-m-LQ1t-8Ms5PY-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608916",
-          "author": "Marina Tosic",
-          "description": "A short intro to scientific methodology to combat \"prompt in, slop out\"\nThe post Ivory Tower Notes: The Methodology appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ivory-tower-notes-the-methodology/",
-          "publishedOn": "2026-04-22T13:30:00.000Z",
-          "wordCount": 4209,
-          "title": "Ivory Tower Notes: The Methodology",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-170.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608914",
-          "author": "Eivind Kjosbakken",
-          "description": "Run OpenClaw assistant through alternative LLMs\nThe post How to Run OpenClaw with Open-Source Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-run-openclaw-with-open-source-models/",
-          "publishedOn": "2026-04-22T12:00:00.000Z",
-          "wordCount": 4548,
-          "title": "How to Run OpenClaw with Open-Source Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-148.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608912",
-          "author": "Jacob Ingle",
-          "description": "How you can build your own Thompson Sampling Algorithm object in Python and apply it to a hypothetical yet real-life example\nThe post DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/diy-ai-ml-solving-the-multi-armed-bandit-problem-with-thompson-sampling/",
-          "publishedOn": "2026-04-21T18:00:00.000Z",
-          "wordCount": 6515,
-          "title": "DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Mar-6-2026-04_19_28-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608909",
-          "author": "Omer Rosenbaum",
-          "description": "For any data scientist who works in a team, being able to undo Git actions can be a life saver. This practical guide will teach you all you need to know to save the day.\nThe post Git UNDO : How to Rewrite Git History with Confidence appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/git-undo-how-to-rewrite-git-history-with-confidence/",
-          "publishedOn": "2026-04-21T16:30:00.000Z",
-          "wordCount": 7837,
-          "title": "Git UNDO : How to Rewrite Git History with Confidence",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-padrinan-2882520-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608907",
-          "author": "Thomas Reid",
-          "description": "A guide to bridging the gap between ease of use and raw performance.\nThe post How to Call Rust from Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/calling-rust-from-python/",
-          "publishedOn": "2026-04-21T15:00:00.000Z",
-          "wordCount": 5094,
-          "title": "How to Call Rust from Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-15-2026-02_19_58-PM.jpg"
         }
       ]
     },
@@ -1247,16 +1237,6 @@
           "wordCount": null,
           "title": "Building AI Agents with Local Small Language Models",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24041",
-          "author": "Abid Ali Awan",
-          "description": "FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-          "link": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/",
-          "publishedOn": "2026-04-22T12:00:39.000Z",
-          "wordCount": null,
-          "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-          "imageUrl": null
         }
       ]
     },
@@ -1326,6 +1306,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "publishedOn": "2026-05-23T00:02:03.000Z",
+          "wordCount": 1615,
+          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+          "author": null,
+          "description": "A Blog post by Dharma-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+          "publishedOn": "2026-05-22T15:25:59.000Z",
+          "wordCount": 3104,
+          "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/specialization-beats-scale.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
           "author": null,
@@ -1741,6 +1741,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a10ab6c1f237623ea28e372",
+          "author": "Rudrendu Paul",
+          "description": "Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t",
+          "link": "https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/",
+          "publishedOn": "2026-05-22T19:15:56.000Z",
+          "wordCount": 5196,
+          "title": "Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/35d6e16c-0c87-4160-9c02-2eb0db8505d7.png"
+        },
+        {
           "id": "6a02b2a8937b84f7790d481e",
           "author": "Rudrendu Paul",
           "description": "Every product experimentation team doing causal inference on LLM-based features eventually hits the same wall: when the provider ships a new model version, there's no holdout. Your infrastructure team",
@@ -1850,6 +1860,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "3a8045e8-55e2-11f1-8d85-e758acbcdc94",
+          "author": null,
+          "description": "The CHAPEA 2 crew shares the latest updates after four months into their simulated Mars mission, including life inside the habitat, holiday celebrations, off-duty activities, and the latest band update. NASA experts discuss how CHAPEA simulates Mars spacewalks on Earth. Episode 423",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/chapea-2-audio-log-2/",
+          "publishedOn": "2026-05-22T13:48:00.000Z",
+          "wordCount": null,
+          "title": "CHAPEA 2: Audio Log 2",
+          "itunes": {
+            "duration": "3935"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5847246690.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "4b331e6e-5066-11f1-8eb4-0f5ada662df5",
           "author": null,
@@ -2005,36 +2033,6 @@
           "wordCount": null,
           "title": "Vision Banana: How Image Generators Are Becoming Powerful Vision Models",
           "imageUrl": null
-        },
-        {
-          "id": "https://learnopencv.com/?p=78806",
-          "author": "Sudip Chakrabarty",
-          "description": "Learn how to use YOLO26-pose with Python for real-time keypoint estimation on images and videos, understand its RLE-based architecture, and explore its reported benchmarks on COCO-17.",
-          "link": "https://learnopencv.com/yolo26-pose-estimation-tutorial/?utm_source=rss&utm_medium=rss&utm_campaign=yolo26-pose-estimation-tutorial",
-          "publishedOn": "2026-04-21T16:14:27.000Z",
-          "wordCount": null,
-          "title": "YOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics",
-          "enclosure": {
-            "url": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/16114653/dance.mp4",
-            "length": "3604814",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://learnopencv.com/?p=78806",
-          "author": "Sudip Chakrabarty",
-          "description": "Learn how to use YOLO26-pose with Python for real-time keypoint estimation on images and videos, understand its RLE-based architecture, and explore its reported benchmarks on COCO-17.\nYOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/yolo26-pose-estimation-tutorial/",
-          "publishedOn": "2026-04-21T16:14:27.000Z",
-          "wordCount": 7758,
-          "title": "YOLO26 Keypoint Estimation: Real-Time Pose Estimation with Ultralytics",
-          "enclosure": {
-            "url": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/16114653/dance.mp4",
-            "length": "3604814",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://learnopencv.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/04/18003946/Yolo26_Pose_Estimation.jpg"
         }
       ]
     },
@@ -2242,36 +2240,6 @@
           "wordCount": 3166,
           "title": "Strengthening Autonomous Systems with Edge-Case LiDAR Data",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Strengthening-Autonomous-Systems-with-Edge-Case-LiDAR-Data-1024x683.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=35627",
-          "author": "Sujana Urs",
-          "description": "The next frontier of artificial intelligence is not a screen. It is a kitchen counter, a warehouse floor, and a\nThe post Scaling Egocentric Video Data Collection for the Future of Embodied AI appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/scaling-egocentric-video-data-collection-for-the-future-of-embodied-ai/",
-          "publishedOn": "2026-04-22T14:04:03.000Z",
-          "wordCount": 2555,
-          "title": "Scaling Egocentric Video Data Collection for the Future of Embodied AI",
-          "enclosure": {
-            "url": "https://7583693.fs1.hubspotusercontent-na2.net/hubfs/7583693/Website%20Videos%20for%20Inkline/KITCHEN%20ACTIVITIES_1.mp4",
-            "length": "43832580",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/04/Feature-IMG-Scaling-Egocentric-Video-Data-Collection-for-the-Future-of-Embodied-AI-1024x683.png"
-        },
-        {
-          "id": "https://imerit.net/?p=35627",
-          "author": "Sujana Urs",
-          "description": "The next frontier of artificial intelligence is not a screen. It is a kitchen counter, a warehouse floor, and a\nThe post Scaling Egocentric Video Data Collection for the Future of Embodied AI appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/scaling-egocentric-video-data-collection-for-the-future-of-embodied-ai/",
-          "publishedOn": "2026-04-22T14:04:03.000Z",
-          "wordCount": 2563,
-          "title": "Scaling Egocentric Video Data Collection for the Future of Embodied AI",
-          "enclosure": {
-            "url": "https://7583693.fs1.hubspotusercontent-na2.net/hubfs/7583693/Website%20Videos%20for%20Inkline/KITCHEN%20ACTIVITIES_1.mp4",
-            "length": "43832580",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Feature-IMG-Scaling-Egocentric-Video-Data-Collection-for-the-Future-of-Embodied-AI-1024x683.png"
         }
       ]
     },
@@ -2280,6 +2248,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255293",
+          "author": "Harsh Mishra",
+          "description": "Alibaba’s Qwen team has unveiled Qwen3.7-Max, a flagship model built for the agent era. Unlike conventional chatbot-focused LLMs, it is designed as a foundation for autonomous AI agents that can code, debug, use tools, manage workflows, and execute long-running enterprise tasks. Alibaba claims the model can operate autonomously for up to 35 hours without performance […]\nThe post Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/",
+          "publishedOn": "2026-05-22T16:12:50.000Z",
+          "wordCount": null,
+          "title": "Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255281",
           "author": "Sarthak Dogra",
@@ -2697,28 +2676,6 @@
           "title": "Is GPT Image 2 the Best Image Generation Model?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254145",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "A year or two ago, using advanced AI models felt expensive enough that you had to think twice before asking anything. Today, using those same models feels cheap enough that you don’t even notice the cost. This isn’t just because “technology improved” in a vague sense. There are specific reasons behind it, and it comes […]\nThe post Token Economics: Why AI is Getting “Cheaper” appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/why-ai-is-getting-cheaper/",
-          "publishedOn": "2026-04-22T14:26:37.000Z",
-          "wordCount": null,
-          "title": "Token Economics: Why AI is Getting “Cheaper”",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254119",
-          "author": "Riya Bansal",
-          "description": "Design has traditionally required multiple roles working in sequence: a strategist to define the problem, a designer to shape the solution, and a developer to build it. This means coordinating timelines, aligning opinions, and going through rounds of iteration before anything tangible is created. Claude Design removes much of this friction by turning ideas directly […]\nThe post From Idea to Output: Claude Does the Design Work  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/from-idea-to-output-claude-design/",
-          "publishedOn": "2026-04-22T13:35:43.000Z",
-          "wordCount": null,
-          "title": "From Idea to Output: Claude Does the Design Work",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2794,6 +2751,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "author": null,
+          "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+          "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "publishedOn": "2026-05-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/virgin-atlantic",
+          "author": null,
+          "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+          "link": "https://openai.com/index/virgin-atlantic",
+          "publishedOn": "2026-05-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How Virgin Atlantic ships faster with Codex",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/adventhealth",
           "author": null,
@@ -3463,46 +3440,6 @@
           "wordCount": null,
           "title": "Making ChatGPT better for clinicians",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-          "author": null,
-          "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-          "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-          "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing workspace agents in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/workspace-agents",
-          "author": null,
-          "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-          "link": "https://openai.com/academy/workspace-agents",
-          "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Workspace agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-          "author": null,
-          "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-          "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-openai-privacy-filter",
-          "author": null,
-          "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-          "link": "https://openai.com/index/introducing-openai-privacy-filter",
-          "publishedOn": "2026-04-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI Privacy Filter",
-          "imageUrl": null
         }
       ]
     },
@@ -3780,26 +3717,6 @@
           "publishedOn": "2026-04-25T06:55:26.000Z",
           "wordCount": null,
           "title": "Quick Paper Review: \"There Will Be a Scientific Theory of Deep Learning\"",
-          "imageUrl": null
-        },
-        {
-          "id": "kYkbcEo6YyjQiztpi",
-          "author": "LawrenceC",
-          "description": "This is a writeup based on a lightning talk I gave at an InkHaven hosted by Georgia Ray, where we were supposed to read a paper in about an hour, and then present what we learned to other participants.\nIntroduction and Background\nSo. I foolishly thought I could read a theoretical machine learning paper in an hour because it was in my area of expertise. Unfortunately, it turns out that theoretical CS professors know a lot of math and theoretical CS results that they reference constantly in their work, which makes their work very hard to read, even if you’re familiar with the general area.\nInstead of explaining a bunch of the substantial actual math behind the paper, the best I can do is give an overview of what the setup for the paper is, what the contributions of the paper are, and how the…",
-          "link": "https://www.alignmentforum.org/posts/kYkbcEo6YyjQiztpi/a-lay-introduction-to-on-the-complexity-of-neural",
-          "publishedOn": "2026-04-22T02:26:14.000Z",
-          "wordCount": null,
-          "title": "A \"Lay\" Introduction to \"On the Complexity of Neural Computation in Superposition\"",
-          "imageUrl": null
-        },
-        {
-          "id": "TnAR5Sf5hphfnzNTr",
-          "author": "Andrea_Miotti",
-          "description": "ControlAI's mission is to avert the extinction risks posed by superintelligent AI. We believe that in order to do this, we must secure an international prohibition on its development.\nWe're working to make this happen through what we believe is the most natural and promising approach: helping decision-makers in governments and the public understand the risks and take action.\nWe believe that ControlAI can achieve an international prohibition on ASI development if scaled sufficiently. We estimate that it would take approximately a $50 million yearly budget in funding to give us a concrete chance at achieving this in the next few years.\nIn this post, we lay out some of the reasoning behind this estimate, and explain how additional funding past that threshold, including and beyond $500 million…",
-          "link": "https://www.alignmentforum.org/posts/TnAR5Sf5hphfnzNTr/preventing-extinction-from-asi-on-a-usd50m-yearly-budget",
-          "publishedOn": "2026-04-21T16:39:22.000Z",
-          "wordCount": null,
-          "title": "Preventing extinction from ASI on a $50M yearly budget",
           "imageUrl": null
         }
       ]
