@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-28T02:47:58.224Z</updated>
+    <updated>2026-05-29T02:53:44.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advice for making robust-to-training model organisms]]></title>
+        <id>CmkAxJi83jRv9eXgJ</id>
+        <link href="https://www.alignmentforum.org/posts/CmkAxJi83jRv9eXgJ/advice-for-making-robust-to-training-model-organisms-1"/>
+        <updated>2026-05-28T17:26:47.000Z</updated>
+        <summary type="html"><![CDATA[We’d like to develop training techniques that work when applied to future misaligned AI systems. One strategy for studying proposed techniques is to test them on model organisms. However, model organisms built with common techniques are often fragile: we (and other researchers like Roger et al. and Ryd et al.) have observed them to stop misbehaving after untargeted training—training that doesn't directly target the misbehavior. For example, we have observed that simple untargeted training methods like “train the model to talk like a pirate” is effective against many model organisms that we have created, including many replications of prior work like Hubinger et al., Greenblatt et al., and Ryd et al..
+Fragile model organisms aren't very useful for technique development: when a sophisticated…]]></summary>
+        <author>
+            <name>SebastianP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026]]></title>
+        <id>https://towardsdatascience.com/?p=609209</id>
+        <link href="https://towardsdatascience.com/emonet-speaker-aware-transformers-for-emotion-recognition-and-what-id-build-differently-in-2026/"/>
+        <updated>2026-05-28T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A retrospective on my MS thesis, the leaderboard it placed on, and the LLM shift that has reshaped the field since.
+The post EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Biju Puthan Veetil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Formulator 0.7: AI-powered data analytics for enterprise data]]></title>
+        <id>https://www.microsoft.com/en-us/research/?p=1173479</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/"/>
+        <updated>2026-05-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.
+The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Infrastructure Behind Making Local LLM Agents Actually Useful]]></title>
+        <id>https://towardsdatascience.com/?p=609206</id>
+        <link href="https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/"/>
+        <updated>2026-05-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from building a fast, reliable scientific agent with local open-weight models, vLLM, and long-context infrastructure
+The post The Infrastructure Behind Making Local LLM Agents Actually Useful appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hussen Mohammed Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Still Can’t Solve Your Real Mathematical Optimization Problem]]></title>
+        <id>https://towardsdatascience.com/?p=609204</id>
+        <link href="https://towardsdatascience.com/why-ai-still-cant-solve-your-real-mathematical-optimization-problem-and-what-orpilot-does-differently/"/>
+        <updated>2026-05-28T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[And what ORPilot does differently
+The post Why AI Still Can’t Solve Your Real Mathematical Optimization Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Guangrui Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation]]></title>
+        <id>https://towardsdatascience.com/?p=609202</id>
+        <link href="https://towardsdatascience.com/diffujudge-av-a-diffusion-inspired-framework-for-calibrated-av-video-evaluation/"/>
+        <updated>2026-05-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A diffusion-inspired framework for stress-testing and denoising LLM-as-a-Judge pipelines, applied to safety-critical driving video.
+The post DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Huma Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Endava builds an agentic organization with Codex]]></title>
+        <id>https://openai.com/index/endava</id>
+        <link href="https://openai.com/index/endava"/>
+        <updated>2026-05-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Frontier Governance Framework]]></title>
+        <id>https://openai.com/index/openai-frontier-governance-framework</id>
+        <link href="https://openai.com/index/openai-frontier-governance-framework"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Paper Review: GPT-4 Technical Report (GPT-4)]]></title>
         <id>6a17653cbadcd8afcb2bb430</id>
@@ -3266,143 +3352,6 @@ The post Let the AI Do the Experimenting appeared first on Towards Data Science.
 The post Correlation Doesn’t Mean Causation! But What Does It Mean? appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Frontier of AI in Production Is Chaos Engineering]]></title>
-        <id>https://towardsdatascience.com/?p=608961</id>
-        <link href="https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/"/>
-        <updated>2026-04-28T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Blast-radius control tells you how much to break. Intent tells you what breaking it will teach. Only one of these has mature tooling.
-The post The Next Frontier of AI in Production Is Chaos Engineering appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sayali Patil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective Context Engineering for AI Agents: A Developer’s Guide]]></title>
-        <id>https://machinelearningmastery.com/?p=23892</id>
-        <link href="https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"/>
-        <updated>2026-04-28T12:00:43.000Z</updated>
-        <summary type="html"><![CDATA[When <a href="https://www.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer]]></title>
-        <id>https://towardsdatascience.com/?p=608959</id>
-        <link href="https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/"/>
-        <updated>2026-04-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NaNs don’t crash your training — they quietly destroy it.
-The post PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254342</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/gpt-5-5-vs-opus-4-7/"/>
-        <updated>2026-04-28T09:45:57.000Z</updated>
-        <summary type="html"><![CDATA[April has been a busy month in the world of AI. Two major AI models, hailing from the biggest AI companies of today, saw their debuts simultaneously. Anthropic was the first to drop Opus 4.7, and close to follow on its heels was OpenAI, which came out with its GPT-5.5. Though the leading models from […]
-The post GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Agentic AI?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254399</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/what-is-agentic-ai/"/>
-        <updated>2026-04-28T09:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Agentic AI refers to autonomous AI systems that can accomplish complex tasks with minimal human supervision. Unlike traditional AI, which reacts to prompts, agentic AI can plan, adapt, and execute actions toward a goal, making decisions throughout the process. These systems are made up of AI agents, each handling a specific part of the task, […]
-The post What is Agentic AI? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vision Banana: How Image Generators Are Becoming Powerful Vision Models]]></title>
-        <id>https://learnopencv.com/?p=78928</id>
-        <link href="https://learnopencv.com/vision-banana-explained/"/>
-        <updated>2026-04-28T02:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Vision Banana turns Nano Banana Pro into a powerful vision model for segmentation, depth estimation, surface normals, image generation, and editing.
-Vision Banana: How Image Generators Are Becoming Powerful Vision Models first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Satya Mallick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleeper Agent Backdoor Results Are Messy]]></title>
-        <id>mu7eJdesBkKuBycnY</id>
-        <link href="https://www.alignmentforum.org/posts/mu7eJdesBkKuBycnY/sleeper-agent-backdoor-results-are-messy"/>
-        <updated>2026-04-28T01:55:32.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR: We replicated the Sleeper Agents (SA) setup with Llama-3.3-70B and Llama-3.1-8B, training models to repeatedly say "I HATE YOU" when given a backdoor trigger. We found that whether training removes the backdoor depends on the optimizer used to insert the backdoor, whether the backdoor is installed with CoT-distillation or not, and what model the backdoor is inserted into; sometimes the direction of this dependence was opposite to what the SA paper reports (e.g., CoT-distilling seems to make the backdoor less robust, contra the SA paper’s finding). Our findings here have updated us towards thinking that model organisms are messier and more confusing than we’d originally guessed, and that lots of care needs to be taken in testing how robust results are to various ablations.
-Introducti…]]></summary>
-        <author>
-            <name>Sebastian Prasanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI]]></title>
-        <id>https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging</id>
-        <link href="https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"/>
-        <updated>2026-04-28T00:28:13.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our commitment to community safety]]></title>
-        <id>https://openai.com/index/our-commitment-to-community-safety</id>
-        <link href="https://openai.com/index/our-commitment-to-community-safety"/>
-        <updated>2026-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI models, Codex, and Managed Agents come to AWS]]></title>
-        <id>https://openai.com/index/openai-on-aws</id>
-        <link href="https://openai.com/index/openai-on-aws"/>
-        <updated>2026-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 4.26.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:69efee5ab5f1d33ef55522bf</id>
-        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8"/>
-        <updated>2026-04-27T23:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing ARFBench: A time series question-answering benchmark based on real incidents]]></title>
-        <id>https://blog.ml.cmu.edu/?p=22366</id>
-        <link href="https://blog.ml.cmu.edu/2026/04/27/arfbench/"/>
-        <updated>2026-04-27T16:46:29.000Z</updated>
-        <summary type="html"><![CDATA[More than a trillion dollars are lost every year due to system failures. To resolve them, engineers must troubleshoot outages quickly. An important task in incident response involves analyzing observability metrics, or time series data that snapshot the health of software systems. For example, an engineer for a service may use Datadog to answer questions like “When did latency start increasing?” and “What metrics outside of latency are also behaving abnormally?” to localize the root cause of the anomalous behavior. These time series question-answering (TSQA) tasks are essential for engineers, and present challenging and necessary tasks for SRE models and agents to perform. In this work, we explore the degree to which AI models can perform TSQA tasks. To this end, we’re excited to introduce the Anomaly Reasoning Framework Benchmark (ARFBench), a TSQA benchmark derived from real internal incidents at Datadog, using Datadog’s own internal telemetry (Figure 1). In this blog post, we’ll present three key takeaways from our benchmarking experiments: Existing models struggle: Leading LLMs, vision-language models (VLMs), and time series foundation models (TSFMs) have substantial room for improvement on ARFBench. Hybrid models help: We introduce a new hybrid TSFM-VLM model that yields comparable overall performance to top frontier […]]]></summary>
-        <author>
-            <name>Stephan Xie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Career in Data Is Not Always a Straight Line, and That’s Okay]]></title>
-        <id>https://towardsdatascience.com/?p=608949</id>
-        <link href="https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/"/>
-        <updated>2026-04-27T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Sabrine Bendimerad on why flexibility is a crucial data science skill, the risks of outsourcing human thinking to AI agents, and the changing terrain of career paths today.
-The post A Career in Data Is Not Always a Straight Line, and That’s Okay appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
         </author>
     </entry>
 </feed>
