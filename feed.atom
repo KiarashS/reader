@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-30T02:47:21.529Z</updated>
+    <updated>2026-05-31T03:27:17.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About]]></title>
+        <id>https://towardsdatascience.com/?p=609229</id>
+        <link href="https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/"/>
+        <updated>2026-05-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI gets smarter, the real differentiator may be how well humans regulate their own thinking.
+The post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rashi Desai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval]]></title>
+        <id>https://towardsdatascience.com/?p=609241</id>
+        <link href="https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/"/>
+        <updated>2026-05-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol. 1 #2] Why the same vector search that handles synonyms and paraphrase silently fails on negation, exact identifiers, and your company’s acronyms, and what to use when it does.
+The post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?]]></title>
+        <id>https://towardsdatascience.com/?p=609226</id>
+        <link href="https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/"/>
+        <updated>2026-05-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most engineers see quantization as shrinking vectors. TurboQuant asks a harder question: can you shrink them without breaking their geometry?
+The post Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chien Vu Minh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Testing Gemini models for scheming tendencies]]></title>
         <id>F3sDngvTL9uyfz53k</id>
@@ -3247,181 +3280,6 @@ The post Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think  
 The post A Gentle Introduction to Stochastic Programming appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Berend Markhorst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings]]></title>
-        <id>https://towardsdatascience.com/?p=608982</id>
-        <link href="https://towardsdatascience.com/proxy-pointer-rag-multimodal-answers-without-multimodal-embeddings/"/>
-        <updated>2026-04-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Structure is all you need
-The post Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python]]></title>
-        <id>https://towardsdatascience.com/?p=608980</id>
-        <link href="https://towardsdatascience.com/how-to-study-the-monotonicity-and-stability-of-variables-in-a-scoring-model-using-python/"/>
-        <updated>2026-04-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How can you validate that your variables tell a consistent risk?
-The post How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>JUNIOR JUMBONG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective KV Compression with TurboQuant]]></title>
-        <id>https://machinelearningmastery.com/?p=24079</id>
-        <link href="https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"/>
-        <updated>2026-04-30T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines — an indispensable element of RAG systems.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures]]></title>
-        <id>https://towardsdatascience.com/?p=608978</id>
-        <link href="https://towardsdatascience.com/why-ai-engineers-are-moving-beyond-langchain-to-native-agent-architectures/"/>
-        <updated>2026-04-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Frameworks accelerated the first wave of LLM apps, but production demands a different architecture.
-The post Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway]]></title>
-        <id>69f2e347b18c978233780179</id>
-        <link href="https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/"/>
-        <updated>2026-04-30T05:06:15.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, spam is no longer just an annoyance - it's a growing security threat. To combat this, developers often turn to machine learning to build intelligent filters that can distingu]]></summary>
-        <author>
-            <name>Rakshath Naik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Sabotage in ML Codebases]]></title>
-        <id>LByP4qsF8a4g7Pz3p</id>
-        <link href="https://www.alignmentforum.org/posts/LByP4qsF8a4g7Pz3p/research-sabotage-in-ml-codebases"/>
-        <updated>2026-04-30T00:31:54.000Z</updated>
-        <summary type="html"><![CDATA[One of the main hopes for AI safety is using AIs to automate AI safety research. However, if models are misaligned, then they may sabotage the safety research. For example, misaligned AIs may try to:
-
-Perform sloppy research in order to slow down the rate of research progress
-Make AI systems appear safer than they are
-Train a successor model to be misaligned
-
-Whether we should worry about those things depends substantially on how hard it is to sabotage research in ways that are hard for reviewers to detect. To study this, we introduce Auditing Sabotage Bench, a benchmark of 9 ML research codebases with sabotaged variants.
-We tested frontier LLMs and LLM-assisted humans on the benchmark and found that neither reliably catches sabotage. Our best auditor, Gemini 3.1 Pro, achieved an AUROC of …]]></summary>
-        <author>
-            <name>egan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Advanced Account Security]]></title>
-        <id>https://openai.com/index/advanced-account-security</id>
-        <link href="https://openai.com/index/advanced-account-security"/>
-        <updated>2026-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where the goblins came from]]></title>
-        <id>https://openai.com/index/where-the-goblins-came-from</id>
-        <link href="https://openai.com/index/where-the-goblins-came-from"/>
-        <updated>2026-04-29T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI evals are becoming the new compute bottleneck]]></title>
-        <id>https://huggingface.co/blog/evaleval/eval-costs-bottleneck</id>
-        <link href="https://huggingface.co/blog/evaleval/eval-costs-bottleneck"/>
-        <updated>2026-04-29T16:45:09.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by EvalEval Coalition on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers]]></title>
-        <id>https://towardsdatascience.com/?p=608975</id>
-        <link href="https://towardsdatascience.com/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers/"/>
-        <updated>2026-04-29T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How we replaced Python pipelines with dlt, dbt, and Trino — and cut delivery time from weeks to one day.
-The post 4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kiril Kazlou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles]]></title>
-        <id>https://imerit.ai/?p=35877</id>
-        <link href="https://imerit.ai/resources/blog/lidar-sensor-fusion-annotating-3d-point-clouds-for-safer-autonomous-vehicles/"/>
-        <updated>2026-04-29T16:06:58.000Z</updated>
-        <summary type="html"><![CDATA[LiDAR sensor fusion annotation combines labeled 3D point cloud data with synchronized camera and radar inputs to give autonomous vehicle
-The post LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles]]></title>
-        <id>https://imerit.net/?p=35877</id>
-        <link href="https://imerit.net/resources/blog/lidar-sensor-fusion-annotating-3d-point-clouds-for-safer-autonomous-vehicles/"/>
-        <updated>2026-04-29T16:06:58.000Z</updated>
-        <summary type="html"><![CDATA[LiDAR sensor fusion annotation combines labeled 3D point cloud data with synchronized camera and radar inputs to give autonomous vehicle
-The post LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254432</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/"/>
-        <updated>2026-04-29T15:55:47.000Z</updated>
-        <summary type="html"><![CDATA[There can be some practical constraints when it comes to deploying the AI models for retail environments. Retail environments can include store-level systems, edge devices, and budget conscious setup, especially for small to medium-sized retail companies. One such major use case is demand forecasting for inventory management or shelf optimization. It requires the deployed model […]
-The post Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Ravi Teja Pagidoju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Granite 4.1 LLMs: How They’re Built]]></title>
-        <id>https://huggingface.co/blog/ibm-granite/granite-4-1</id>
-        <link href="https://huggingface.co/blog/ibm-granite/granite-4-1"/>
-        <updated>2026-04-29T15:01:48.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Granite on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensembles of Ensembles of Ensembles: A Guide to Stacking]]></title>
-        <id>https://towardsdatascience.com/?p=608972</id>
-        <link href="https://towardsdatascience.com/ensembles-of-ensembles-of-ensembles/"/>
-        <updated>2026-04-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The best machine learning model is not one model
-The post Ensembles of Ensembles of Ensembles: A Guide to Stacking appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Cole Sussmeier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building the compute infrastructure for the Intelligence Age]]></title>
-        <id>https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age</id>
-        <link href="https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"/>
-        <updated>2026-04-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.]]></summary>
-        <author>
-            <name>OpenAI News</name>
         </author>
     </entry>
 </feed>

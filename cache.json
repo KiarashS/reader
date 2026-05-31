@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609229",
+          "author": "Rashi Desai",
+          "description": "As AI gets smarter, the real differentiator may be how well humans regulate their own thinking.\nThe post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/",
+          "publishedOn": "2026-05-30T17:00:00.000Z",
+          "wordCount": 4458,
+          "title": "Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/bhautik-patel-CFSJUUb_Q-Y-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609241",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol. 1 #2] Why the same vector search that handles synonyms and paraphrase silently fails on negation, exact identifiers, and your company’s acronyms, and what to use when it does.\nThe post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/",
+          "publishedOn": "2026-05-30T15:00:00.000Z",
+          "wordCount": 11740,
+          "title": "Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/rushikesh-gaikwad-mPEVZmwdlUw-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609226",
+          "author": "Chien Vu Minh",
+          "description": "Most engineers see quantization as shrinking vectors. TurboQuant asks a harder question: can you shrink them without breaking their geometry?\nThe post Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/",
+          "publishedOn": "2026-05-30T13:00:00.000Z",
+          "wordCount": 6298,
+          "title": "Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/turboquant_thumbnail-1.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609231",
           "author": "angela shi",
           "description": "Enterprise Document Intelligence [Vol. 1 #1] The smallest version of RAG that actually works, on a real PDF, with grounded answers and the source lines highlighted.\nThe post Baseline Enterprise RAG, From PDF to Highlighted Answer appeared first on Towards Data Science.",
@@ -1060,56 +1090,6 @@
           "wordCount": 5815,
           "title": "A Gentle Introduction to Stochastic Programming",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/photo-1516373829531-29d21ac7f9d6-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608982",
-          "author": "Partha Sarkar",
-          "description": "Structure is all you need\nThe post Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/proxy-pointer-rag-multimodal-answers-without-multimodal-embeddings/",
-          "publishedOn": "2026-04-30T15:00:00.000Z",
-          "wordCount": 5859,
-          "title": "Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_n4hxxdn4hxxdn4hx-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608980",
-          "author": "JUNIOR JUMBONG",
-          "description": "How can you validate that your variables tell a consistent risk?\nThe post How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-study-the-monotonicity-and-stability-of-variables-in-a-scoring-model-using-python/",
-          "publishedOn": "2026-04-30T13:30:00.000Z",
-          "wordCount": 4885,
-          "title": "How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-26-avr.-2026-01_52_23.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608978",
-          "author": "Benjamin Nweke",
-          "description": "Frameworks accelerated the first wave of LLM apps, but production demands a different architecture.\nThe post Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-ai-engineers-are-moving-beyond-langchain-to-native-agent-architectures/",
-          "publishedOn": "2026-04-30T12:00:00.000Z",
-          "wordCount": 4590,
-          "title": "Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-26-2026-12_48_58-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608975",
-          "author": "Kiril Kazlou",
-          "description": "How we replaced Python pipelines with dlt, dbt, and Trino — and cut delivery time from weeks to one day.\nThe post 4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers/",
-          "publishedOn": "2026-04-29T16:30:00.000Z",
-          "wordCount": 5206,
-          "title": "4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Group-1-3-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608972",
-          "author": "Cole Sussmeier",
-          "description": "The best machine learning model is not one model\nThe post Ensembles of Ensembles of Ensembles: A Guide to Stacking appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ensembles-of-ensembles-of-ensembles/",
-          "publishedOn": "2026-04-29T15:00:00.000Z",
-          "wordCount": 4852,
-          "title": "Ensembles of Ensembles of Ensembles: A Guide to Stacking",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-31.jpg"
         }
       ]
     },
@@ -1206,16 +1186,6 @@
           "publishedOn": "2026-05-04T12:00:34.000Z",
           "wordCount": null,
           "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24079",
-          "author": "Iván Palomares Carrascosa",
-          "description": "TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines — an indispensable element of RAG systems.",
-          "link": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/",
-          "publishedOn": "2026-04-30T12:00:11.000Z",
-          "wordCount": null,
-          "title": "Effective KV Compression with TurboQuant",
           "imageUrl": null
         }
       ]
@@ -1470,26 +1440,6 @@
           "wordCount": 2120,
           "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
           "imageUrl": "https://huggingface.co/blog/assets/open-asr-leaderboard-private-data/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-          "author": null,
-          "description": "A Blog post by EvalEval Coalition on Hugging Face",
-          "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-          "publishedOn": "2026-04-29T16:45:09.000Z",
-          "wordCount": 4032,
-          "title": "AI evals are becoming the new compute bottleneck",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6413251362e6057cbb6259bd/ukJJW86oJu36zOJwqZJBG.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-          "author": null,
-          "description": "A Blog post by IBM Granite on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-          "publishedOn": "2026-04-29T15:01:48.000Z",
-          "wordCount": 3170,
-          "title": "Granite 4.1 LLMs: How They’re Built",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-1.png"
         }
       ]
     },
@@ -1774,16 +1724,6 @@
           "wordCount": 4673,
           "title": "Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a8936be-7f43-4977-9baf-6021dc892b2d.png"
-        },
-        {
-          "id": "69f2e347b18c978233780179",
-          "author": "Rakshath Naik",
-          "description": "In today's digital world, spam is no longer just an annoyance - it's a growing security threat. To combat this, developers often turn to machine learning to build intelligent filters that can distingu",
-          "link": "https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/",
-          "publishedOn": "2026-04-30T05:06:15.000Z",
-          "wordCount": 3275,
-          "title": "How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/08672d22-a4df-4b99-8ef7-fffd18f5dc07.png"
         }
       ]
     },
@@ -2136,26 +2076,6 @@
           "wordCount": 2029,
           "title": "Precision at Scale: Building Robust Robotics AI with Multimodal Annotation",
           "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Smart-Automation-AI-farming.jpg"
-        },
-        {
-          "id": "https://imerit.ai/?p=35877",
-          "author": "Sujana Urs",
-          "description": "LiDAR sensor fusion annotation combines labeled 3D point cloud data with synchronized camera and radar inputs to give autonomous vehicle\nThe post LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/lidar-sensor-fusion-annotating-3d-point-clouds-for-safer-autonomous-vehicles/",
-          "publishedOn": "2026-04-29T16:06:58.000Z",
-          "wordCount": 2477,
-          "title": "LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/04/Operating-a-communication-and-detection-system.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=35877",
-          "author": "Sujana Urs",
-          "description": "LiDAR sensor fusion annotation combines labeled 3D point cloud data with synchronized camera and radar inputs to give autonomous vehicle\nThe post LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/lidar-sensor-fusion-annotating-3d-point-clouds-for-safer-autonomous-vehicles/",
-          "publishedOn": "2026-04-29T16:06:58.000Z",
-          "wordCount": 2485,
-          "title": "LiDAR Sensor Fusion: Annotating 3D Point Clouds for Safer Autonomous Vehicles",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Operating-a-communication-and-detection-system.jpg"
         }
       ]
     },
@@ -2535,17 +2455,6 @@
           "publishedOn": "2026-04-30T19:08:44.000Z",
           "wordCount": null,
           "title": "Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254432",
-          "author": "Ravi Teja Pagidoju",
-          "description": "There can be some practical constraints when it comes to deploying the AI models for retail environments. Retail environments can include store-level systems, edge devices, and budget conscious setup, especially for small to medium-sized retail companies. One such major use case is demand forecasting for inventory management or shelf optimization. It requires the deployed model […]\nThe post Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/",
-          "publishedOn": "2026-04-29T15:55:47.000Z",
-          "wordCount": null,
-          "title": "Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison",
           "itunes": {},
           "imageUrl": null
         }
@@ -3212,36 +3121,6 @@
           "wordCount": null,
           "title": "How OpenAI delivers low-latency voice AI at scale",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/advanced-account-security",
-          "author": null,
-          "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-          "link": "https://openai.com/index/advanced-account-security",
-          "publishedOn": "2026-04-30T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing Advanced Account Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/where-the-goblins-came-from",
-          "author": null,
-          "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-          "link": "https://openai.com/index/where-the-goblins-came-from",
-          "publishedOn": "2026-04-29T20:00:00.000Z",
-          "wordCount": null,
-          "title": "Where the goblins came from",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-          "author": null,
-          "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-          "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-          "publishedOn": "2026-04-29T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Building the compute infrastructure for the Intelligence Age",
-          "imageUrl": null
         }
       ]
     },
@@ -3505,16 +3384,6 @@
           "publishedOn": "2026-05-01T17:42:55.000Z",
           "wordCount": null,
           "title": "Risk from fitness-seeking AIs: mechanisms and mitigations",
-          "imageUrl": null
-        },
-        {
-          "id": "LByP4qsF8a4g7Pz3p",
-          "author": "egan",
-          "description": "One of the main hopes for AI safety is using AIs to automate AI safety research. However, if models are misaligned, then they may sabotage the safety research. For example, misaligned AIs may try to:\n\nPerform sloppy research in order to slow down the rate of research progress\nMake AI systems appear safer than they are\nTrain a successor model to be misaligned\n\nWhether we should worry about those things depends substantially on how hard it is to sabotage research in ways that are hard for reviewers to detect. To study this, we introduce Auditing Sabotage Bench, a benchmark of 9 ML research codebases with sabotaged variants.\nWe tested frontier LLMs and LLM-assisted humans on the benchmark and found that neither reliably catches sabotage. Our best auditor, Gemini 3.1 Pro, achieved an AUROC of …",
-          "link": "https://www.alignmentforum.org/posts/LByP4qsF8a4g7Pz3p/research-sabotage-in-ml-codebases",
-          "publishedOn": "2026-04-30T00:31:54.000Z",
-          "wordCount": null,
-          "title": "Research Sabotage in ML Codebases",
           "imageUrl": null
         }
       ]
