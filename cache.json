@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609289",
+          "author": "Emmimal P Alexander",
+          "description": "I got tired of copying files into an AI chat just to get feedback. So I built a pure Python MCP server that gives AI tools direct access to my local project—no frameworks, no dependencies. It runs over stdio for local use and switches to HTTP/SSE for concurrent clients with a single flag. The result: 5 clients, under 50ms, and a design that stays simple without sacrificing capability.\nThe post My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/my-ai-couldnt-see-my-files-i-built-a-zero-dependency-mcp-server/",
+          "publishedOn": "2026-06-05T16:30:00.000Z",
+          "wordCount": 6533,
+          "title": "My AI Couldn’t See My Files — I Built a Zero-Dependency MCP Server",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Zero-Dependency-MCP-Server.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609287",
+          "author": "Ananya Bhattacharyya",
+          "description": "How a simple choice shapes exploration, safety, and efficiency\nThe post The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-fundamental-choice-in-reinforcement-learning-on-policy-vs-off-policy/",
+          "publishedOn": "2026-06-05T15:00:00.000Z",
+          "wordCount": 6478,
+          "title": "The Fundamental Choice in Reinforcement Learning: On‑Policy vs. Off‑Policy",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/featured_image-3.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609285",
+          "author": "W Brett Kennedy",
+          "description": "Using DSPy to automatically create, evaluate, and optimize your prompts\nThe post Automate Writing Your LLM Prompts appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/automate-writing-your-llm-prompts/",
+          "publishedOn": "2026-06-05T13:30:00.000Z",
+          "wordCount": 6881,
+          "title": "Automate Writing Your LLM Prompts",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image-20.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609283",
+          "author": "Petr Koráb",
+          "description": "Python tutorial for fine-tuning a Mistral Small 3.1 on an imbalanced training set to classify 15 emotions in social media communication\nThe post How to Fine-Tune an SLM for Emotion Recognition appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-fine-tune-an-slm-for-emotion-recognition/",
+          "publishedOn": "2026-06-05T12:00:00.000Z",
+          "wordCount": 4967,
+          "title": "How to Fine-Tune an SLM for Emotion Recognition",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/cover-picture-II.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609269",
           "author": "Manu R.",
           "description": "Abacus.AI and the case for unified AI workflows\nThe post How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI appeared first on Towards Data Science.",
@@ -1110,36 +1150,6 @@
           "wordCount": 5791,
           "title": "Timer-XL: A Long-Context Foundation Model for Time-Series Forecasting",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/04/image-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609027",
-          "author": "Fernando Arizmendi",
-          "description": "A physicist's approach to building production-grade agents\nThe post Why I Don’t Trust LLMs to Decide When the Weather Changed appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-i-dont-trust-llms-to-decide-when-the-weather-changed/",
-          "publishedOn": "2026-05-06T13:30:00.000Z",
-          "wordCount": 4376,
-          "title": "Why I Don’t Trust LLMs to Decide When the Weather Changed",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/featured_image-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609025",
-          "author": "Marina Tosic",
-          "description": "What you see is rarely what you get with flashy dashboards and data storytelling\nThe post Deconstruct Any Metric with a Few Simple ‘What’ Questions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/metric-presentation-101/",
-          "publishedOn": "2026-05-06T12:00:00.000Z",
-          "wordCount": 4132,
-          "title": "Deconstruct Any Metric with a Few Simple ‘What’ Questions",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/1vWh6m4LlVfoYLjyK-95z3Q.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609022",
-          "author": "Jarom Hulet",
-          "description": "Part 1: The basics — discretization of time, censoring and the life table\nThe post Discrete Time-To-Event Modeling – Predicting When Something Will Happen appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/discrete-time-to-event-modeling-predicting-when-something-will-happen/",
-          "publishedOn": "2026-05-05T16:30:00.000Z",
-          "wordCount": 5184,
-          "title": "Discrete Time-To-Event Modeling – Predicting When Something Will Happen",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/calendar-10045176_1280.jpg"
         }
       ]
     },
@@ -1271,6 +1281,76 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+          "author": null,
+          "description": "A Blog post by Build Small Hackathon on Hugging Face",
+          "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+          "publishedOn": "2026-06-05T22:18:46.000Z",
+          "wordCount": 1317,
+          "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/thousand-token-wood-sim.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+          "publishedOn": "2026-06-04T18:57:45.000Z",
+          "wordCount": 2725,
+          "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-3-5-content-safety.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+          "author": null,
+          "description": "A Blog post by ServiceNow-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+          "publishedOn": "2026-06-04T12:24:58.000Z",
+          "wordCount": 2412,
+          "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/eva-bench-data.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/hf-cli-for-agents",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/hf-cli-for-agents",
+          "publishedOn": "2026-06-04T00:00:00.000Z",
+          "wordCount": 3121,
+          "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+          "imageUrl": "https://huggingface.co/blog/assets/hf-cli-for-agents/thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+          "author": null,
+          "description": "A Blog post by Dharma-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+          "publishedOn": "2026-06-03T12:55:11.000Z",
+          "wordCount": 3245,
+          "title": "Direct Preference Optimization Beyond Chatbots",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+          "publishedOn": "2026-06-03T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Adding MCP Tools to Reachy Mini",
+          "imageUrl": null
+        },
+        {
+          "id": "https://huggingface.co/blog/Hcompany/holo31",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/Hcompany/holo31",
+          "publishedOn": "2026-06-02T14:13:23.000Z",
+          "wordCount": null,
+          "title": "Holo3.1: Fast & Local Computer Use Agents",
+          "imageUrl": null
+        },
         {
           "id": "https://huggingface.co/blog/JetBrains/mellum2-launch",
           "author": null,
@@ -1490,16 +1570,6 @@
           "wordCount": 1817,
           "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/correctness-before-corrections.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-          "publishedOn": "2026-05-06T00:00:00.000Z",
-          "wordCount": 2120,
-          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-          "imageUrl": "https://huggingface.co/blog/assets/open-asr-leaderboard-private-data/thumbnail.png"
         }
       ]
     },
@@ -1618,16 +1688,6 @@
           "wordCount": 5206,
           "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/GridSage-BlogHeroFeature-1400x788-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1170563",
-          "author": "Sujata Banerjee",
-          "description": "Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing intersection with AI during  NSDI ’26.\nThe post Microsoft at NSDI 2026: Advances in large-scale networked systems appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
-          "publishedOn": "2026-05-05T16:00:00.000Z",
-          "wordCount": 4225,
-          "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/NSDI2026-BlogHeroFeature-1400x788-1.jpg"
         }
       ]
     },
@@ -1774,16 +1834,6 @@
           "wordCount": 2918,
           "title": "AI Paper Review: Improving Language Understanding by Generative Pre-Training (GPT-1)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0998e844-4017-49b9-a68d-2d6c73fceb78.png"
-        },
-        {
-          "id": "69fa21e5a386d7f121b5fe8c",
-          "author": "Rakshath Naik",
-          "description": "In our daily life, we use the word \"average\" all the time: average salary, average marks, average age, and so on. Let's take the case of a retail shop. If we're looking at the average order value to u",
-          "link": "https://www.freecodecamp.org/news/data-science-insights-why-the-mean-lies-when-handling-messy-retail-data/",
-          "publishedOn": "2026-05-05T16:59:17.000Z",
-          "wordCount": 2624,
-          "title": "Data Science Insights: Why the Mean Lies When Handling Messy Retail Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4441dcfc-d100-4613-9937-9c62449c6780.png"
         }
       ]
     },
@@ -1845,6 +1895,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "21f234bc-60e3-11f1-a4c9-971ee2707fa4",
+          "author": null,
+          "description": "NASA SCaN Deputy Program Manager Greg Heckler discusses the future of deep space communications and the technology supporting NASA missions in Earth orbit and the Moon. Episode 425.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-future-of-deep-space-communications/",
+          "publishedOn": "2026-06-05T13:49:00.000Z",
+          "wordCount": null,
+          "title": "The Future of Deep Space Communications",
+          "itunes": {
+            "duration": "3030"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6462718710.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "aca17502-5ad8-11f1-b62d-cf5d699957b8",
           "author": null,
@@ -2148,26 +2216,6 @@
           "wordCount": 3254,
           "title": "Autonomous Vehicle Data Annotation: A Complete Guide",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/04/Aerial-Drone-View.jpg"
-        },
-        {
-          "id": "https://imerit.ai/?p=35895",
-          "author": "Sujana Urs",
-          "description": "Multimodal annotation is the foundation of reliable robotics AI. When training data spans camera, LiDAR, radar, and depth inputs in\nThe post Precision at Scale: Building Robust Robotics AI with Multimodal Annotation appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/precision-at-scale-building-robust-robotics-ai-with-multimodal-annotation/",
-          "publishedOn": "2026-05-06T06:34:12.000Z",
-          "wordCount": 2021,
-          "title": "Precision at Scale: Building Robust Robotics AI with Multimodal Annotation",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/04/Smart-Automation-AI-farming.jpg"
-        },
-        {
-          "id": "https://imerit.net/?p=35895",
-          "author": "Sujana Urs",
-          "description": "Multimodal annotation is the foundation of reliable robotics AI. When training data spans camera, LiDAR, radar, and depth inputs in\nThe post Precision at Scale: Building Robust Robotics AI with Multimodal Annotation appeared first on iMerit.",
-          "link": "https://imerit.net/resources/blog/precision-at-scale-building-robust-robotics-ai-with-multimodal-annotation/",
-          "publishedOn": "2026-05-06T06:34:12.000Z",
-          "wordCount": 2029,
-          "title": "Precision at Scale: Building Robust Robotics AI with Multimodal Annotation",
-          "imageUrl": "https://imerit.net/wp-content/uploads/2026/04/Smart-Automation-AI-farming.jpg"
         }
       ]
     },
@@ -2176,6 +2224,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255527",
+          "author": "Harsh Mishra",
+          "description": "On June 3, 2026, Google introduced Gemma 4 12B Unified, an open-source multimodal model designed to understand text, images, audio, and video within a single architecture. It combines a 256K context window with an efficient, laptop-friendly design aimed at agentic workflows and local deployment. The release also raises interesting questions about Google’s broader AI strategy, […]\nThe post Google Gemma 4 12B: Architecture, Benchmarks, Access, and Hands-on Guide for Developers  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/google-gemma-4-12b/",
+          "publishedOn": "2026-06-05T10:55:42.000Z",
+          "wordCount": null,
+          "title": "Google Gemma 4 12B: Architecture, Benchmarks, Access, and Hands-on Guide for Developers",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255513",
           "author": "Vasu Deo Sankrityayan",
@@ -2525,17 +2584,6 @@
           "publishedOn": "2026-05-06T16:37:12.000Z",
           "wordCount": null,
           "title": "Anthropic’s 10 AI Agents are Redefining Finance Work",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=245738",
-          "author": "Janvi Kumari",
-          "description": "Building a RAG system just got much easier. Google’s File Search tool for the Gemini API now handles the heavy lifting of connecting LLMs to your data. Chunking, embedding, indexing are all managed for you. And with the latest update, it’s gone multimodal. You can now search through both text and images in a single […]\nThe post Gemini API File Search: The Easy Way to Build RAG appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/gemini-api-file-search/",
-          "publishedOn": "2026-05-06T12:31:00.000Z",
-          "wordCount": null,
-          "title": "Gemini API File Search: The Easy Way to Build RAG",
           "itunes": {},
           "imageUrl": null
         }
@@ -3232,56 +3280,6 @@
           "wordCount": null,
           "title": "Simplex rethinks software development with Codex",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/how-chatgpt-protects-privacy",
-          "author": null,
-          "description": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
-          "link": "https://openai.com/index/how-chatgpt-protects-privacy",
-          "publishedOn": "2026-05-06T08:00:00.000Z",
-          "wordCount": null,
-          "title": "How ChatGPT learns about the world while protecting privacy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/uber",
-          "author": null,
-          "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-          "link": "https://openai.com/index/uber",
-          "publishedOn": "2026-05-06T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Uber uses OpenAI to help people earn smarter and book faster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-b2b-signals",
-          "author": null,
-          "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-          "link": "https://openai.com/index/introducing-b2b-signals",
-          "publishedOn": "2026-05-06T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How frontier firms are pulling ahead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-          "author": null,
-          "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-          "publishedOn": "2026-05-06T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing ChatGPT Futures: Class of 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/singular-bank",
-          "author": null,
-          "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-          "link": "https://openai.com/index/singular-bank",
-          "publishedOn": "2026-05-06T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-          "imageUrl": null
         }
       ]
     },
@@ -3393,6 +3391,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "MuLvZxMcy5WaKJu3H",
+          "author": "Seth Herd",
+          "description": "This is a summary of the work I've done and work I plan to do, and the theories of change and AI progress that motivate my work. I've been working full-time on alignment for three years and change, and thinking about brainlike AGI and its alignment increasingly often since 2004. \nHere's the research agenda in one breath: I'm trying to predict what the first transformative AI will be, in enough mechanistic detail that we can predict likely failure modes of its alignment. That's in service of finding interventions that address those failure modes efficiently, so that they can realistically be implemented even if timelines are short and work is rushed. I'm using my background in computational cognitive neuroscience to predict what might be called loosely brainlike AGI: LLMs with added human-l…",
+          "link": "https://www.alignmentforum.org/posts/MuLvZxMcy5WaKJu3H/my-research-agenda-and-work",
+          "publishedOn": "2026-06-05T14:19:53.000Z",
+          "wordCount": null,
+          "title": "My research agenda and work",
+          "imageUrl": null
+        },
         {
           "id": "Kben8CzS4awCwNw5c",
           "author": "Jacob_Hilton",
@@ -3531,26 +3539,6 @@
           "publishedOn": "2026-05-07T16:20:52.000Z",
           "wordCount": null,
           "title": "Mechanistic estimation for wide random MLPs",
-          "imageUrl": null
-        },
-        {
-          "id": "eAQZaiC3PcBhS4HjM",
-          "author": "Lucius Bushnaq",
-          "description": "This is the latest work in our Parameter Decomposition agenda. We introduce a new parameter decomposition method, adVersarial Parameter Decomposition (VPD)[1] and decompose the parameters of a small[2] language model with it. \nVPD greatly improves on our previous techniques, Stochastic Parameter Decomposition (SPD) and Attribution-based Parameter Decomposition (APD). We think the parameter decomposition approach is now more-or-less ready to be applied at scale to models people care about.\n\n\n\nImportantly, we show that we can decompose attention layers, which interp methods like transcoders and SAEs have historically struggled with.\n\n\nWe also build attribution graphs of the model for some prompts using causally important parameter subcomponents as the nodes, and interpret parts of them. \nWhi…",
-          "link": "https://www.alignmentforum.org/posts/eAQZaiC3PcBhS4HjM/linkpost-interpreting-language-model-parameters",
-          "publishedOn": "2026-05-05T17:37:29.000Z",
-          "wordCount": null,
-          "title": "[Linkpost] Interpreting Language Model Parameters",
-          "imageUrl": null
-        },
-        {
-          "id": "QpgmEhBvJQxAfFMP2",
-          "author": "Seth Herd",
-          "description": "Of the fifty-odd biases discovered by Kahneman, Tversky, and their successors, forty-nine are cute quirks, and one is destroying civilization. This last one is confirmation bias.\n\n- From Scott Alexander's review of Julia Galef's The Scout Mindset. \nAlexander goes on to argue that this bias is the source of polarization in society, which is distorting our beliefs and setting us at each other's throats. How could someone believe such different things unless they're either really stupid or lying to conceal their selfishness? I think smart people who care about the truth go on believing conflicting things largely because of confirmation bias and motivated reasoning.\nThe corner of civilization I'm most worried about is the one figuring out how to handle the advent of strong AI. I think confirma…",
-          "link": "https://www.alignmentforum.org/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory",
-          "publishedOn": "2026-05-05T15:56:25.000Z",
-          "wordCount": null,
-          "title": "Motivated reasoning, confirmation bias, and AI risk theory",
           "imageUrl": null
         }
       ]
