@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-07T03:34:01.248Z</updated>
+    <updated>2026-06-08T03:37:28.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazing Digital Dentures (a failed project)]]></title>
+        <id>https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures</id>
+        <link href="https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"/>
+        <updated>2026-06-07T19:44:27.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by Build Small Hackathon on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Should Train AI to Betray Its Users]]></title>
+        <id>https://towardsdatascience.com/?p=609296</id>
+        <link href="https://towardsdatascience.com/we-should-train-ai-to-betray-its-users/"/>
+        <updated>2026-06-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Because the alternative is much too dangerous
+The post We Should Train AI to Betray Its Users appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nathan Bos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Multi-Agent System in Python]]></title>
+        <id>https://towardsdatascience.com/?p=609294</id>
+        <link href="https://towardsdatascience.com/building-a-multi-agent-system-in-python/"/>
+        <updated>2026-06-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An introduction to multi-agent systems
+The post Building a Multi-Agent System in Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Picking an Experimentation Platform: A Retrospective]]></title>
         <id>https://towardsdatascience.com/?p=609310</id>
@@ -3131,163 +3163,6 @@ The post The AI Agent Security Surface: What Gets Exposed When You Add Tools and
         <link href="https://huggingface.co/blog/allenai/emo"/>
         <updated>2026-05-08T16:03:50.000Z</updated>
         <summary type="html"><![CDATA[A Blog post by Ai2 on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Regression Discontinuity: How an LLM Confidence Threshold Creates a Natural Experiment in Python]]></title>
-        <id>69fe0255f239332df4da1c33</id>
-        <link href="https://www.freecodecamp.org/news/gen-ai-product-experimentation-with-regression-discontinuity-design/"/>
-        <updated>2026-05-08T15:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Causal inference for LLM-based features starts with one question editors ask before they ship anything: Did the change actually move the metric, or did the metric just move? Let's say that your team b]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artemis II: Backup Crew]]></title>
-        <id>746f8fae-4ae1-11f1-959e-97280c33a185</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-ii-backup-crew/"/>
-        <updated>2026-05-08T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA astronaut Andre Douglas and Canadian Space Agency astronaut Jenni Gibbons discuss their roles as the Artemis II backup crew, including their training and mission support. The pair reflects on the historic flight around the Moon. HWHAP 421]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Customers Churn at Renewal: Was It the Price or the Project?]]></title>
-        <id>https://towardsdatascience.com/?p=609047</id>
-        <link href="https://towardsdatascience.com/when-customers-churn-at-renewal-was-it-the-price-or-the-project/"/>
-        <updated>2026-05-08T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A practitioner's guide to causal attribution when two churn drivers arrive at once.
-The post When Customers Churn at Renewal: Was It the Price or the Project? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>William Gieng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Codex safely at OpenAI]]></title>
-        <id>https://openai.com/index/running-codex-safely</id>
-        <link href="https://openai.com/index/running-codex-safely"/>
-        <updated>2026-05-08T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Permission-Gated Tool Calling in Python Agents]]></title>
-        <id>https://machinelearningmastery.com/?p=24144</id>
-        <link href="https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"/>
-        <updated>2026-05-08T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[AI agents have evolved beyond passive chatbots.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unified Agentic Memory Across Harnesses Using Hooks]]></title>
-        <id>https://towardsdatascience.com/?p=609045</id>
-        <link href="https://towardsdatascience.com/unified-agentic-memory-across-harnesses-using-hooks/"/>
-        <updated>2026-05-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How hook implementation gives Claude Code, Codex, and Cursor persistent memory via Neo4j, without locking you into any one of them.
-The post Unified Agentic Memory Across Harnesses Using Hooks appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Tomaz Bratanic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 AI Agents Every AI Engineer Must Build (with GitHub Samples)]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254799</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/build-ai-agents/"/>
-        <updated>2026-05-08T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re an aspiring AI engineer looking to sharpen your skills, building AI agents is one of the most effective ways to get hands-on experience. AI agents represent practical applications of AI across domains, from personal assistants and recommendation systems to financial traders. Here are 10 AI agents every engineer should build. For each, you’ll […]
-The post 10 AI Agents Every AI Engineer Must Build (with GitHub Samples) appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling]]></title>
-        <id>http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/</id>
-        <link href="http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"/>
-        <updated>2026-05-08T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.apr-fig { text-align: center; margin: 1.35em 0; line-height: 1.4; }
-.apr-fig--wide img { display: inline-block; width: 100%; max-width: 100%; height: auto; vertical-align: middle; }
-.apr-fig--wide-0-8 { max-width: 80%; margin-left: auto; margin-right: auto; }
-.apr-fig--tall img { display: inline-block; max-height: 300px; width: auto; max-width: 100%; height: auto; object-fit: contain; vertical-align: middle; }
-.apr-fig--tall-1-2x img { display: inline-block; max-height: 360px; width: auto; max-width: 100%; height: auto; object-fit: contain; vertical-align: middle; }
-.apr-fig--tall-1-5x img { display: inline-block; max-height: 450px; width: auto; max-width: 100%; height: auto; object-fit: contain; vertical-align: middle; }
-.apr-fig--tall-2x img { display: inline-block; max-height: 600px; w…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23 Tips for Smart Claude Code Token Saving and Workflow Optimization]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254658</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/tips-for-claude-code-token-saving/"/>
-        <updated>2026-05-08T08:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Using Claude Code in large projects can lead to skyrocketing token costs. A 2025 Stanford study reveals developers waste thousands of tokens daily, draining budgets as unchecked context limits pile up. By setting strict boundaries from the outset, teams can reduce costs without compromising code quality. Optimizing token usage and context window sizes early on […]
-The post 23 Tips for Smart Claude Code Token Saving and Workflow Optimization appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations]]></title>
-        <id>oeYesesaxjzMAktCM</id>
-        <link href="https://www.alignmentforum.org/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised"/>
-        <updated>2026-05-07T20:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Abstract
-
-We introduce Natural Language Autoencoders (NLAs), an unsupervised method for generating natural language explanations of LLM activations. An NLA consists of two LLM modules: an activation verbalizer (AV) that maps an activation to a text description and an activation reconstructor (AR) that maps the description back to an activation. We jointly train the AV and AR with reinforcement learning to reconstruct residual stream activations. Although we optimize for activation reconstruction, the resulting NLA explanations read as plausible interpretations of model internals that, according to our quantitative evaluations, grow more informative over training.
-We apply NLAs to model auditing. During our pre-deployment audit of Claude Opus 4.6, NLAs helped diagnose safety-relevant behavi…]]></summary>
-        <author>
-            <name>Subhash Kantamneni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Joy of Typing]]></title>
-        <id>https://towardsdatascience.com/?p=609042</id>
-        <link href="https://towardsdatascience.com/the-joy-of-typing/"/>
-        <updated>2026-05-07T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to modern type annotations in Python for data science
-The post The Joy of Typing appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>David Conneely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanistic estimation for wide random MLPs]]></title>
-        <id>fsG4m6sRMpomd7Rk6</id>
-        <link href="https://www.alignmentforum.org/posts/fsG4m6sRMpomd7Rk6/mechanistic-estimation-for-wide-random-mlps"/>
-        <updated>2026-05-07T16:20:52.000Z</updated>
-        <summary type="html"><![CDATA[This post covers joint work with Wilson Wu, George Robinson, Mike Winer, Victor Lecomte and Paul Christiano. Thanks to Geoffrey Irving and Jess Riedel for comments on the post.
-In ARC's latest paper, we study the following problem: given a randomly initialized multilayer perceptron (MLP), produce an estimate for the expected output of the model under Gaussian input. The usual approach to this problem is to sample many possible inputs, run them all through the model, and take the average. Instead, we produce an estimate "mechanistically", without running the model even once. For wide models, our approach produces more accurate estimates, both in theory and in practice.
-Paper: Estimating the expected output of wide random MLPs more efficiently than sampling
-Code: mlp_cumulant_propagation Git…]]></summary>
-        <author>
-            <name>Jacob_Hilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes from inside China's AI labs]]></title>
-        <id>https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs</id>
-        <link href="https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs"/>
-        <updated>2026-05-07T15:42:43.000Z</updated>
-        <summary type="html"><![CDATA[Lessons from my trip to talk to most of the leading AI labs in China.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vLLM V0 to V1: Correctness Before Corrections in RL]]></title>
-        <id>https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections</id>
-        <link href="https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"/>
-        <updated>2026-05-06T19:06:55.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by ServiceNow-AI on Hugging Face]]></summary>
         <author>
             <name>Hugging Face - Blog</name>
         </author>
