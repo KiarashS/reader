@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609308",
+          "author": "Piero Paialunga",
+          "description": "This is how LLMs are used today to increase precision in recommendation systems\nThe post Increase Recommendation Systems’ Precision with LLMs, Using Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/",
+          "publishedOn": "2026-06-08T18:00:00.000Z",
+          "wordCount": 4972,
+          "title": "Increase Recommendation Systems’ Precision with LLMs, Using Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/amanda-jones-w5zpEiVtNIk-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609306",
+          "author": "Davinder Singh",
+          "description": "Quantum Machine Learning promises powerful new ways of processing information, but quantum states are extraordinarily fragile. In this article, we explore why quantum information is so difficult to protect, how noise and decoherence introduce errors, and the fundamental ideas behind Quantum Error Correction: the technology that may make large-scale quantum machine learning possible.\nThe post How to Keep Quantum Information Alive for Machine Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/",
+          "publishedOn": "2026-06-08T16:30:00.000Z",
+          "wordCount": 5357,
+          "title": "How to Keep Quantum Information Alive for Machine Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/qerror-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609304",
+          "author": "Eivind Kjosbakken",
+          "description": "Get the most out of Claude Code with these four techniques\nThe post 4 New Techniques to Maximize Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-new-techniques-to-maximize-claude-code/",
+          "publishedOn": "2026-06-08T15:00:00.000Z",
+          "wordCount": 5066,
+          "title": "4 New Techniques to Maximize Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/maximize-claude-code-and-codex_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609302",
+          "author": "Conor Rowan",
+          "description": "What Fourier analysis misses\nThe post Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/sequential-fitting-a-different-perspective-on-the-spectral-bias-of-neural-networks/",
+          "publishedOn": "2026-06-08T13:30:00.000Z",
+          "wordCount": 6590,
+          "title": "Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/cover-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609300",
+          "author": "Ferran Alia",
+          "description": "The clipping bug has lived in every 3D simulation pipeline for three decades. Here is exactly why it happens, how the math breaks, and how swapping one equation fixes it; as well as the python code to see it for yourself!\nThe post The Polynomial That Fixed 30 Years of Cloth Simulation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-polynomial-that-fixed-30-years-of-cloth-simulation/",
+          "publishedOn": "2026-06-08T12:30:00.000Z",
+          "wordCount": 6116,
+          "title": "The Polynomial That Fixed 30 Years of Cloth Simulation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/teaser-image.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609296",
           "author": "Nathan Bos",
           "description": "Because the alternative is much too dangerous\nThe post We Should Train AI to Betray Its Users appeared first on Towards Data Science.",
@@ -1080,36 +1130,6 @@
           "wordCount": 8904,
           "title": "The Must-Know Topics for an LLM Engineer",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_uoh7tkuoh7tkuoh7-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609059",
-          "author": "Emmimal P Alexander",
-          "description": "Three weeks into testing, a learner told me my AI tutor gave her the wrong answer.\nNot obviously wrong — just outdated enough to mislead.\nThat was the moment I realized something most RAG systems quietly ignore: they have no sense of time. My system retrieved the most similar document, not the most current one. And in a knowledge base that changes constantly, that’s a serious flaw.\nThe fix wasn’t in the retriever or the model. It was in the gap between them.\nI built a temporal layer that filters expired facts, boosts time-sensitive signals, and makes the system prefer what’s still true — not just what matches.\nThe post RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/",
-          "publishedOn": "2026-05-09T13:00:00.000Z",
-          "wordCount": 8050,
-          "title": "RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RAG-Temporal-Layer.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609053",
-          "author": "Sara A. Metwalli",
-          "description": "The end of model-centric thinking in data science\nThe post From Data Scientist to AI Architect appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-data-scientist-to-ai-architect/",
-          "publishedOn": "2026-05-08T18:00:00.000Z",
-          "wordCount": 4237,
-          "title": "From Data Scientist to AI Architect",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/pexels-googledeepmind-18069694-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609051",
-          "author": "Mostafa Ibrahim",
-          "description": "Standard prompt attacks are merely the beginning. A structured framework to map and mitigate the backend attack vectors of agentic workflows. \nThe post The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/",
-          "publishedOn": "2026-05-08T17:06:16.000Z",
-          "wordCount": 5005,
-          "title": "The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-2.jpeg"
         }
       ]
     },
@@ -1221,6 +1241,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/openenv-agentic-rl",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/openenv-agentic-rl",
+          "publishedOn": "2026-06-08T00:00:00.000Z",
+          "wordCount": 1391,
+          "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+          "imageUrl": "https://huggingface.co/blog/assets/openenv/thumbnail_expansion.png"
+        },
         {
           "id": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
           "author": null,
@@ -1490,26 +1520,6 @@
           "wordCount": 1485,
           "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/machinacheck.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-          "author": null,
-          "description": "A Blog post by Lablab.ai AMD Developer Hackathon on Hugging Face",
-          "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-          "publishedOn": "2026-05-08T17:41:05.000Z",
-          "wordCount": 2077,
-          "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/emo",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/emo",
-          "publishedOn": "2026-05-08T16:03:50.000Z",
-          "wordCount": 2082,
-          "title": "EMO: Pretraining mixture of experts for emergent modularity",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/zw0eFl6MyYg-hmcPSBfYw.png"
         }
       ]
     },
@@ -1618,16 +1628,6 @@
           "wordCount": 6118,
           "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/SocialReasoningBench-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1170857",
-          "author": "Andrea Britto Mattos Lima, Thiago Vallin Spina, Weiwei Yang, Spencer Fowers, Ruslan Nagimov, Baosen   Zhang",
-          "description": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic […]\nThe post Building realistic electric transmission grid dataset at scale: a pipeline from open dataset appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
-          "publishedOn": "2026-05-08T19:53:56.000Z",
-          "wordCount": 5206,
-          "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/GridSage-BlogHeroFeature-1400x788-1-scaled.jpg"
         }
       ]
     },
@@ -1955,21 +1955,6 @@
           "wordCount": 6754,
           "title": "How to Master Qwen3-VL Embedding and Reranker for Multimodal Search",
           "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/05/24231235/qwen3vl_thumbnail-scaled.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=78863",
-          "author": "Sudip Chakrabarty",
-          "description": "Learn YOLOE for real-time open-vocabulary object detection and instance segmentation in Python with Ultralytics — text, visual, and prompt-free modes.\nHow to Master YOLOE: Real-Time Open-Vocabulary Detection Made Easy first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/yoloe-tutorial-real-time-open-vocabulary-detection/",
-          "publishedOn": "2026-05-09T14:10:06.000Z",
-          "wordCount": 8462,
-          "title": "How to Master YOLOE: Real-Time Open-Vocabulary Detection Made Easy",
-          "enclosure": {
-            "url": "https://cdn.learnopencv.com/wp-content/uploads/2026/04/04080517/market.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/05/08001059/thumbnail_YOLOE-scaled.jpg"
         }
       ]
     },
@@ -2105,6 +2090,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255486",
+          "author": "Riya Bansal",
+          "description": "We have all been in an emergency where every second matters. Someone’s life is at risk but there you’re panicking. Now, imagine in this situation of distress when a helpline asks you to press numbers on your keypad to connect with the right agent? Pure chaos, right? Here, we just need someone to listen and […]\nThe post Build an Emergency Helpline Voice Agent with LangChain appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/build-an-ai-voice-agent-with-langchain/",
+          "publishedOn": "2026-06-08T16:29:39.000Z",
+          "wordCount": null,
+          "title": "Build an Emergency Helpline Voice Agent with LangChain",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255545",
+          "author": "Vipin Vashisth",
+          "description": "Modern AI applications rely on understanding meaning rather than matching keywords. As large language models, semantic search, and RAG systems have become mainstream, vector databases have emerged as critical infrastructure for storing and retrieving high-dimensional embeddings at scale. Choosing the right vector database can have a major impact on performance, scalability, cost, and developer experience. […]\nThe post Choosing the Right Vector Database for RAG and AI Applications appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/vector-database-comparison/",
+          "publishedOn": "2026-06-08T11:51:33.000Z",
+          "wordCount": null,
+          "title": "Choosing the Right Vector Database for RAG and AI Applications",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255527",
           "author": "Harsh Mishra",
@@ -2401,17 +2408,6 @@
           "title": "Top 10 LLM Research Papers of 2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254753",
-          "author": "Janvi Kumari",
-          "description": "Memory shapes how humans think and how AI agents act. Without it, an agent only responds to the current input; with it, it can keep context, recall past actions, and reuse useful knowledge. AI memory spans short-term, episodic, semantic, and long-term memory, each with different design trade-offs around storage, retention, retrieval, and control. In this […]\nThe post Agent Memory Patterns in Cognitive Science and AI Systems appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/ai-agent-memory-patterns/",
-          "publishedOn": "2026-05-09T11:34:37.000Z",
-          "wordCount": null,
-          "title": "Agent Memory Patterns in Cognitive Science and AI Systems",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2497,6 +2493,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/openai-submits-confidential-s-1",
+          "author": null,
+          "description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+          "link": "https://openai.com/index/openai-submits-confidential-s-1",
+          "publishedOn": "2026-06-08T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Confidential submission of draft S-1 to the SEC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "author": null,
+          "description": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+          "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "publishedOn": "2026-06-08T01:30:00.000Z",
+          "wordCount": null,
+          "title": "Built to benefit everyone: our plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/economic-research-exchange",
+          "author": null,
+          "description": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+          "link": "https://openai.com/index/economic-research-exchange",
+          "publishedOn": "2026-06-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the OpenAI Economic Research Exchange",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/endava-frontiers",
           "author": null,
@@ -3131,6 +3157,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "mBsZTZxtjgCdN4CDA",
+          "author": "Buck",
+          "description": "I often use what I’ll call the “safety-usefulness tradeoff model”, which is: developers face a tradeoff between \"safety\" and \"usefulness\" of an AI deployment, and the developer has only limited willingness or ability to sacrifice usefulness for the sake of safety. This model assumes that developers choose whether to take safety-relevant actions based on their cost efficiency, i.e., the marginal safety gain relative to the cost. However, that is not necessarily true. In this post, I spell out different stories for how developers choose what safety-relevant actions to take, in order to clarify when this model is relevant and how strategies for reducing AI risk are affected when its assumptions don't hold.\n\nThe model suggests two ways a safety-concerned person can increase safety:\n\nSafety tec…",
+          "link": "https://www.alignmentforum.org/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model",
+          "publishedOn": "2026-06-08T20:28:17.000Z",
+          "wordCount": null,
+          "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
+          "imageUrl": null
+        },
         {
           "id": "MuLvZxMcy5WaKJu3H",
           "author": "Seth Herd",
