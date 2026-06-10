@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609320",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #4bis] - A coauthor note on the brick-by-brick pitfalls that justified the four-brick split, before Part II walks the fixes\nThe post 10 Common RAG Mistakes We Keep Seeing in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/10-common-rag-mistakes-we-keep-seeing-in-production/",
+          "publishedOn": "2026-06-09T16:30:00.000Z",
+          "wordCount": 8367,
+          "title": "10 Common RAG Mistakes We Keep Seeing in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/desire_path_u0vgcIOQG08_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609323",
+          "author": "Sara A. Metwalli",
+          "description": "CPUs, GPUs, TPUs, and NPUs\nThe post The Hardware That Makes AI Possible appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-hardware-that-makes-ai-possible/",
+          "publishedOn": "2026-06-09T15:00:00.000Z",
+          "wordCount": 4236,
+          "title": "The Hardware That Makes AI Possible",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pexels-nicolas-foster-65973708-36673239-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609316",
+          "author": "Anubhab Banerjee",
+          "description": "Stop re-computing the same context. Learn how to build a C++ runtime with copy-on-fork KV snapshots to eliminate redundant LLM prefills in multi-agent pipelines.\nThe post Prefill Once, Fan Out: KV Snapshot Sharing for Multi-Agent LLM Pipelines appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/kv-cache-reuse-for-multi-agent-llm-inference-i-built-a-c-orchestrator-so-my-gpu-would-stop-reading-the-same-document-twice/",
+          "publishedOn": "2026-06-09T13:30:00.000Z",
+          "wordCount": 8801,
+          "title": "Prefill Once, Fan Out: KV Snapshot Sharing for Multi-Agent LLM Pipelines",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/swarmkv_overview.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609314",
+          "author": "Egor Howell",
+          "description": "Follow this framework to build a project that will impress hiring managers\nThe post The Exact ML Project I’d Build to Get Hired in 2026 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-exact-ml-project-that-gets-you-hired-full-breakdown/",
+          "publishedOn": "2026-06-09T12:00:00.000Z",
+          "wordCount": 4533,
+          "title": "The Exact ML Project I’d Build to Get Hired in 2026",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/4.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609318",
+          "author": "Marco Hening Tallarico",
+          "description": "Building an ML football forecaster in R\nThe post Can Machine Learning Predict the World Cup? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-machine-learning-predict-the-world-cup/",
+          "publishedOn": "2026-06-09T05:53:28.000Z",
+          "wordCount": 6413,
+          "title": "Can Machine Learning Predict the World Cup?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Soccer_R_MachineLearning-Forecast-1024x576.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609308",
           "author": "Piero Paialunga",
           "description": "This is how LLMs are used today to increase precision in recommendation systems\nThe post Increase Recommendation Systems’ Precision with LLMs, Using Python appeared first on Towards Data Science.",
@@ -1100,36 +1150,6 @@
           "wordCount": 5337,
           "title": "PySpark for Beginners: Mastering the Basics",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_8wu04f8wu04f8wu0-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609061",
-          "author": "Nikola Ilic",
-          "description": "\"Should we process our data in batches or in real-time?\" It's not batch vs. stream: it's \"when does the answer matter?\"\nThe post Batch or Stream? The Eternal Data Processing Dilemma appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/",
-          "publishedOn": "2026-05-10T15:00:00.000Z",
-          "wordCount": 5650,
-          "title": "Batch or Stream? The Eternal Data Processing Dilemma",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Batch-vs-stream-main-1308x480-1-copy.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609055",
-          "author": "William Gieng",
-          "description": "A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.\nThe post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/",
-          "publishedOn": "2026-05-10T13:00:00.000Z",
-          "wordCount": 5971,
-          "title": "LLM Summarizers Skip the Identification Step",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds_hero_redacted_document_1920x1080.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609057",
-          "author": "Aliaksei Mikhailiuk",
-          "description": "From tokenisation to evaluation :  how modern language models actually work in practice\nThe post The Must-Know Topics for an LLM Engineer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/",
-          "publishedOn": "2026-05-09T15:00:00.000Z",
-          "wordCount": 8904,
-          "title": "The Must-Know Topics for an LLM Engineer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_uoh7tkuoh7tkuoh7-1.jpg"
         }
       ]
     },
@@ -1138,6 +1158,106 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=24299",
+          "author": "Shittu Olumide",
+          "description": "According to Futurum Research's 2025 market overview of agentic AI platforms, <a href=\"https://zbrain.",
+          "link": "https://machinelearningmastery.com/the-practitioners-guide-to-agentops/",
+          "publishedOn": "2026-06-08T15:21:11.000Z",
+          "wordCount": 13074,
+          "title": "The Practitioner’s Guide to AgentOps",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/Shittu-MLM-The-Practitioners-Guide-to-AgentOps-1024x683.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24244",
+          "author": "Shittu Olumide",
+          "description": "You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
+          "link": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/",
+          "publishedOn": "2026-06-05T12:00:01.000Z",
+          "wordCount": 12084,
+          "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-building-semantic-search-with-transformers-js-and-sentence-embeddings-feat.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24369",
+          "author": "Iván Palomares Carrascosa",
+          "description": "This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3: all for free thanks to Ollama — a free repository for local LLMs — and the Scikit-LLM Python library.",
+          "link": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/",
+          "publishedOn": "2026-06-04T12:55:34.000Z",
+          "wordCount": 8409,
+          "title": "Using Scikit-LLM with Open-Source LLMs",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-using-scikit-llm-with-open-source-llms.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24319",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
+          "link": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/",
+          "publishedOn": "2026-06-02T12:00:18.000Z",
+          "wordCount": 9806,
+          "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24290",
+          "author": "Shittu Olumide",
+          "description": "The LLMOps market is projected to grow from <a href=\"https://www.",
+          "link": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/",
+          "publishedOn": "2026-06-01T12:00:18.000Z",
+          "wordCount": 14203,
+          "title": "The Roadmap for Mastering LLMOps in 2026",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-the-roadmap-for-mastering-llmops-in-2026.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24310",
+          "author": "Yoyo Chan",
+          "description": "This article is divided into four parts; they are: • The Problem with Static Batching • Code Example of Static Batching • Continuous Batching: Dynamic Scheduling and Ragged Batching • Full Implementation The simplest way to serve multiple requests together is to use static batching, by grouping them into fixed-size batches and processing each batch together.",
+          "link": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/",
+          "publishedOn": "2026-05-30T02:54:17.000Z",
+          "wordCount": 17072,
+          "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/petra-reid-WYvxaZGBebg-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24111",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Modern AI agents built on top of large language models (LLMs) are designed to run continuously.",
+          "link": "https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/",
+          "publishedOn": "2026-05-28T12:00:39.000Z",
+          "wordCount": 8756,
+          "title": "Building a Context Pruning Pipeline for Long-Running Agents",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/04/mlm-building-a-context-pruning-pipeline-for-long-running-agents.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24056",
+          "author": "Iván Palomares Carrascosa",
+          "description": "When large language models, or LLMs for short, produce outputs, several criteria are at stake, including not only overall response relevance but also coherence and creativity.",
+          "link": "https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/",
+          "publishedOn": "2026-05-27T12:00:05.000Z",
+          "wordCount": 8168,
+          "title": "The Statistics of Token Selection: Logits, Temperature, and Top-P Walkthrough",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24269",
+          "author": "Matthew Mayo",
+          "description": "In a <a href=\"https://machinelearningmastery.",
+          "link": "https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/",
+          "publishedOn": "2026-05-26T12:00:51.000Z",
+          "wordCount": 11168,
+          "title": "Building a Multi-Tool Gemma 4 Agent with Error Recovery",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-building-a-multi-tool-gemma-4-agent-with-error-recovery.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=23633",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Implementing hybrid search strategies is a critical step in building modern RAG (Retrieval-Augmented Generation) systems , especially when shifting from prototype to production-ready solutions.",
+          "link": "https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/",
+          "publishedOn": "2026-05-25T12:00:35.000Z",
+          "wordCount": 8880,
+          "title": "Implementing Hybrid Semantic-Lexical Search in RAG",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-implementing-hybrid-semantic-lexical-search-in-rag.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=24233",
           "author": "Shittu Olumide",
@@ -1241,6 +1361,46 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+          "author": null,
+          "description": "A Blog post by ServiceNow-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+          "publishedOn": "2026-06-09T19:38:28.000Z",
+          "wordCount": 2952,
+          "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/code-switching.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+          "author": null,
+          "description": "A Blog post by Cohere Labs on Hugging Face",
+          "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+          "publishedOn": "2026-06-09T15:56:23.000Z",
+          "wordCount": 3015,
+          "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/CohereLabs/introducing-north-mini-code.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
+          "author": null,
+          "description": "A Blog post by Mishig Davaadorj on Hugging Face",
+          "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+          "publishedOn": "2026-06-09T10:46:19.000Z",
+          "wordCount": 1465,
+          "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/60a551a34ecc5d054c8ad93e/0tamlKpAvO3lZEklNmwHT.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/github-ci-hf-jobs",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/github-ci-hf-jobs",
+          "publishedOn": "2026-06-09T00:00:00.000Z",
+          "wordCount": 2017,
+          "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+          "imageUrl": "https://huggingface.co/blog/assets/github-ci-hf-jobs/thumbnail.gif"
+        },
         {
           "id": "https://huggingface.co/blog/openenv-agentic-rl",
           "author": null,
@@ -1874,6 +2034,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a286fd88245e075ad54c15b",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js",
+          "publishedOn": "2026-06-09T19:57:14.000Z",
+          "wordCount": null,
+          "title": "Week Ending 6.7.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a1f78064edfd17d7c98b200",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -2090,6 +2261,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255626",
+          "author": "Riya Bansal",
+          "description": "Remember Claude Mythos Preview? Yes, the very AI model that Anthropic had announced earlier this year, one that sent even the governments around the world into a frenzy. The model that found security loopholes in almost any network it was tested on, and was so powerful that it had to be kept limited within a very controlled environment of existing Anthropic […]\nThe post I Tested Claude Fable 5: Can Anthropic’s Newest AI Deliver on the Hype? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/testing-claude-fable-5-hype-or-reality/",
+          "publishedOn": "2026-06-09T20:31:03.000Z",
+          "wordCount": null,
+          "title": "I Tested Claude Fable 5: Can Anthropic’s Newest AI Deliver on the Hype?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255458",
+          "author": "Janvi Kumari",
+          "description": "Time series forecasting predicts future values by learning patterns from past data. It is widely used in sales, finance, energy, web traffic, inventory planning, and business decision-making. But a lot has changed since the advent of advance ML models. Forecasting has moved from traditional statistical models to neural and foundation-model approaches. Tools like Prophet, NeuralProphet, […]\nThe post Prophet vs NeuralProphet vs TimeGPT vs Chronos: A Practical Comparison appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/time-series-forecasting-tools/",
+          "publishedOn": "2026-06-09T13:10:37.000Z",
+          "wordCount": null,
+          "title": "Prophet vs NeuralProphet vs TimeGPT vs Chronos: A Practical Comparison",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255486",
           "author": "Riya Bansal",
@@ -2493,6 +2686,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/nextdoor",
+          "author": null,
+          "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+          "link": "https://openai.com/index/nextdoor",
+          "publishedOn": "2026-06-09T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/notion",
+          "author": null,
+          "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+          "link": "https://openai.com/index/notion",
+          "publishedOn": "2026-06-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "What Codex unlocks for Notion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "author": null,
+          "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+          "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "publishedOn": "2026-06-09T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Industrial policy for the Intelligence Age",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/openai-submits-confidential-s-1",
           "author": null,
@@ -3071,6 +3294,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+          "author": "Nathan Lambert",
+          "description": "One step further into the power politics of frontier AI systems.",
+          "link": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+          "publishedOn": "2026-06-09T22:59:35.000Z",
+          "wordCount": null,
+          "title": "Claude Fable 5 and new AI safety fables",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b9a6c144-02b3-4a08-947c-c517667d2249_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b9a6c144-02b3-4a08-947c-c517667d2249_3182x1790.png"
+        },
+        {
           "id": "https://www.interconnects.ai/p/farewell-ai2",
           "author": "Nathan Lambert",
           "description": "This was my last week at the Allen Institute for AI (Ai2), where I got the great privilege to work on the Olmo models, to grow, to learn, and to have broad lasting impacts.",
@@ -3157,6 +3396,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "M2tD23bvQLBqsEpqu",
+          "author": "Mikewins",
+          "description": "Over the past 15 months or so, ARC's technical agenda has developed quite a bit. The advent of the Matching Sampling Principle (MSP), and ideas like it, has begotten a host of concrete technical problems; progress on those problems has given us more philosophical clarity on the big picture, which has led to even more technical progress. The two most recent public discussions of ARC's research (Jacob's A Bird's Eye View of ARC's Research and David's Obstacles in ARC's research agenda) both came out before this flywheel really got spinning, and a lot of what we now consider central to the agenda isn't reflected in either of them. The goal of this post is to give a clear, updated picture of what we're actually trying to do. This is written from my point of view; I don't speak for my whole org…",
+          "link": "https://www.alignmentforum.org/posts/M2tD23bvQLBqsEpqu/a-mike-s-eye-view-of-arc-s-research",
+          "publishedOn": "2026-06-09T18:30:45.000Z",
+          "wordCount": null,
+          "title": "A Mike's-Eye View of ARC's Research",
+          "imageUrl": null
+        },
         {
           "id": "mBsZTZxtjgCdN4CDA",
           "author": "Buck",
