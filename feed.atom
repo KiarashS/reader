@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-11T03:37:33.937Z</updated>
+    <updated>2026-06-12T03:35:16.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BI Is Dead, Long Live BI]]></title>
+        <id>https://towardsdatascience.com/?p=609343</id>
+        <link href="https://towardsdatascience.com/bi-is-dead-long-live-bi/"/>
+        <updated>2026-06-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The true bottleneck was never the analysis.
+The post BI Is Dead, Long Live BI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahdi Karabiben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Returning Flat Text from a PDF: The Relational Shape RAG Needs]]></title>
+        <id>https://towardsdatascience.com/?p=609341</id>
+        <link href="https://towardsdatascience.com/stop-returning-flat-text-from-a-pdf-the-relational-shape-rag-needs/"/>
+        <updated>2026-06-11T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5B] - One PDF in, a relational set of DataFrames out: lines, pages, TOC, images, cross-references, captions, spans, and a parsing summary
+The post Stop Returning Flat Text from a PDF: The Relational Shape RAG Needs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PySpark for Beginners: Beyond the Basics]]></title>
+        <id>https://towardsdatascience.com/?p=609339</id>
+        <link href="https://towardsdatascience.com/pyspark-for-beginners-beyond-the-basics/"/>
+        <updated>2026-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Take the next step to building real workflows with Spark on your laptop
+The post PySpark for Beginners: Beyond the Basics appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When GPU Utilization Lies: The Hidden Systems Problem Slowing Modern AI]]></title>
+        <id>https://towardsdatascience.com/?p=609337</id>
+        <link href="https://towardsdatascience.com/when-gpu-utilization-lies-the-hidden-systems-problem-slowing-modern-ai/"/>
+        <updated>2026-06-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why “average utilization” lies about how full your GPUs really are
+The post When GPU Utilization Lies: The Hidden Systems Problem Slowing Modern AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Arjun Kaarat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiffusionGemma: Google’s Diffusion-Based Open Model for Faster Text Generation]]></title>
+        <id>https://www.analyticsvidhya.com/?p=255689</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/06/diffusiongemma-diffusion-based-open-model-for-faster-text-generation/"/>
+        <updated>2026-06-11T13:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Large language models usually generate text one token at a time. While this autoregressive approach delivers strong quality and instruction following, it can be inefficient for local users because GPUs often spend more time moving weights from memory than doing parallel compute. Google DeepMind’s DiffusionGemma takes a different path, generating and refining blocks of tokens […]
+The post DiffusionGemma: Google’s Diffusion-Based Open Model for Faster Text Generation  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NuCS vs Choco: A Pure-Python Constraint Solver Meets a JVM Veteran]]></title>
+        <id>https://towardsdatascience.com/?p=609335</id>
+        <link href="https://towardsdatascience.com/nucs-vs-choco/"/>
+        <updated>2026-06-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth performance test comparing Nucs and Choco
+The post NuCS vs Choco: A Pure-Python Constraint Solver Meets a JVM Veteran appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Yan Georget</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Models May Behave Worse When Eval Aware]]></title>
+        <id>aTcsN5ZZDnMFJvRiG</id>
+        <link href="https://www.alignmentforum.org/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware"/>
+        <updated>2026-06-11T09:28:19.000Z</updated>
+        <summary type="html"><![CDATA[This is the first in a series of research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas.
+TL;DR
+It's often assumed that models will act more aligned when they can tell they're being evaluated. But we find that Gemini can take “undesired” actions in behavioural evals even when it explicitly reasons that the environments are contrived, and sometimes this reasoning will increase the rate of undesired actions. When we dig into the model's reasoning, we find that this is typically associated with Gemini perceiving an environment as a puzzle where the aim is to achieve the goal by unconventional means (like capture the flag challenges – Gemini’s thoughts often literally call it a “CTF” challenge) or a consequence-free simulation in w…]]></summary>
+        <author>
+            <name>Senthooran Rajamanoharan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP]]></title>
+        <id>https://huggingface.co/blog/torch-mlp-fusion</id>
+        <link href="https://huggingface.co/blog/torch-mlp-fusion"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBVA puts AI at the core of banking with OpenAI]]></title>
+        <id>https://openai.com/index/bbva</id>
+        <link href="https://openai.com/index/bbva"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting Europe’s work in ensuring a trustworthy AI ecosystem]]></title>
+        <id>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</id>
+        <link href="https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI to acquire Ona]]></title>
+        <id>https://openai.com/index/openai-to-acquire-ona</id>
+        <link href="https://openai.com/index/openai-to-acquire-ona"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How an astrophysicist uses Codex to help simulate black holes]]></title>
         <id>https://openai.com/index/using-codex-to-simulate-black-holes</id>
@@ -2235,6 +2353,16 @@ The post The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building Context-Aware Search in Python with LLM Embeddings + Metadata]]></title>
+        <id>https://machinelearningmastery.com/?p=24193</id>
+        <link href="https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/"/>
+        <updated>2026-05-22T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Keyword search breaks the moment a user types something a document doesn't literally say.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lost in Translation: How AI Exposes the Rift Between Law and Logic]]></title>
         <id>https://towardsdatascience.com/?p=609157</id>
         <link href="https://towardsdatascience.com/lost-in-translation-how-ai-exposes-the-rift-between-lw-and-logic/"/>
@@ -3288,211 +3416,6 @@ The post From Vibe Coding to Spec-Driven Development appeared first on Towards D
         <summary type="html"><![CDATA[Further reflections on China's high-participation, open-first AI ecosystem.]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid Search and Re-Ranking in Production RAG]]></title>
-        <id>https://towardsdatascience.com/?p=609078</id>
-        <link href="https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/"/>
-        <updated>2026-05-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When semantic search isn't enough for the RAG
-The post Hybrid Search and Re-Ranking in Production RAG appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Priyansh Bhardwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How finance teams use Codex]]></title>
-        <id>https://openai.com/academy/how-finance-teams-use-codex</id>
-        <link href="https://openai.com/academy/how-finance-teams-use-codex"/>
-        <updated>2026-05-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy-Pointer RAG — Structure-Aware Document Comparison at Enterprise Scale]]></title>
-        <id>https://towardsdatascience.com/?p=609076</id>
-        <link href="https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-comparison/"/>
-        <updated>2026-05-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hierarchical understanding and comparison of contracts, research papers, and more
-The post Proxy-Pointer RAG — Structure-Aware Document Comparison at Enterprise Scale appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence]]></title>
-        <id>https://towardsdatascience.com/?p=609076</id>
-        <link href="https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-intelligence/"/>
-        <updated>2026-05-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hierarchical understanding and comparison of contracts, research papers, and more
-The post Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1171172</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/"/>
-        <updated>2026-05-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone.
-The post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Han Yang, Robert Pinsler, Shoko Ueda, Kenji Takeda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Observability Tools for Reliable AI Applications]]></title>
-        <id>https://machinelearningmastery.com/?p=24211</id>
-        <link href="https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"/>
-        <updated>2026-05-12T12:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser)]]></title>
-        <id>https://towardsdatascience.com/?p=609074</id>
-        <link href="https://towardsdatascience.com/your-first-webassembly-program-and-web-app-written-tested-and-deployed-entirely-in-the-web-browser/"/>
-        <updated>2026-05-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Compiling and running C code with Emscripten and GitHub Codespaces — no local installation required.
-The post Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Luciano Abriata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermes Agent Guide: What is it and How to Use it?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254872</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/hermes-agent-guide/"/>
-        <updated>2026-05-12T10:00:26.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are moving beyond simple command-line tools into systems that can plan, schedule, call tools, and run automated workflows. Nous Research’s Hermes Agent framework offers a self-hosted runtime for building advanced agents with state management, tool integration, and secure execution. It supports multi-step planning, background task control, and real-world automation beyond single-purpose coding assistants. […]
-The post Hermes Agent Guide: What is it and How to Use it? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python]]></title>
-        <id>6a02b2a8937b84f7790d481e</id>
-        <link href="https://www.freecodecamp.org/news/product-experimentation-with-synthetic-control-causal-inference-for-global-llm-rollouts-in-python/"/>
-        <updated>2026-05-12T04:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team doing causal inference on LLM-based features eventually hits the same wall: when the provider ships a new model version, there's no holdout. Your infrastructure team]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How NVIDIA engineers and researchers build with Codex]]></title>
-        <id>https://openai.com/index/nvidia</id>
-        <link href="https://openai.com/index/nvidia"/>
-        <updated>2026-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Parameter Golf taught us about AI-assisted research]]></title>
-        <id>https://openai.com/index/what-parameter-golf-taught-us</id>
-        <link href="https://openai.com/index/what-parameter-golf-taught-us"/>
-        <updated>2026-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoScout24 scales engineering with AI-powered workflows]]></title>
-        <id>https://openai.com/index/autoscout24</id>
-        <link href="https://openai.com/index/autoscout24"/>
-        <updated>2026-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Blocks for Foundation Model Training and Inference on AWS]]></title>
-        <id>https://huggingface.co/blog/amazon/foundation-model-building-blocks</id>
-        <link href="https://huggingface.co/blog/amazon/foundation-model-building-blocks"/>
-        <updated>2026-05-11T23:18:26.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Amazon on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Word Vectors for Sentiment Analysis: A Python Reproduction]]></title>
-        <id>https://towardsdatascience.com/?p=609070</id>
-        <link href="https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/"/>
-        <updated>2026-05-11T19:44:10.000Z</updated>
-        <summary type="html"><![CDATA[How to build sentiment-aware word representations from IMDb reviews using semantic learning, star ratings, and linear SVM classification
-The post Learning Word Vectors for Sentiment Analysis: A Python Reproduction appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>JUNIOR JUMBONG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSIP Vision is attending AUA 2026 in Washington, DC]]></title>
-        <id>https://www.rsipvision.com/?p=17252</id>
-        <link href="https://www.rsipvision.com/rsip-vision-is-attending-aua-2026-in-washington-dc/"/>
-        <updated>2026-05-11T18:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Washington, DC | May 15–18, 2026 RSIP Vision will be at AUA 2026 RSIP Vision is heading to Washington, DC for the AUA Annual Meeting. If you’re attending, we’d love to connect and discuss how AI and computer vision are transforming urological care, including robotic surgery, endoscopy, and image-guided procedures. Our work helps enable: • …
-  RSIP Vision is attending AUA 2026 in Washington, DC Read More »
-The post RSIP Vision is attending AUA 2026 in Washington, DC appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Claude Code-Powered Knowledge Base]]></title>
-        <id>https://towardsdatascience.com/?p=609068</id>
-        <link href="https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/"/>
-        <updated>2026-05-11T18:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Perform efficient data retrieval of personal knowledge 
-The post How to Build a Claude Code-Powered Knowledge Base appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)]]></title>
-        <id>vzHtHHBJoKATi5SeK</id>
-        <link href="https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a"/>
-        <updated>2026-05-11T17:48:11.000Z</updated>
-        <summary type="html"><![CDATA[1.1 Tl;dr
-Alignment is often conceptualized as AIs helping humans achieve their goals: AIs that increase people’s agency and empowerment; AIs that are helpful, corrigible, and/or obedient; AIs that avoid manipulating people. But that last one—manipulation—points to a challenge for all these desiderata: a human’s goals are themselves under-determined and manipulable, and it’s awfully hard to pin down a principled distinction between changing people’s goals in a good way (“providing counsel”, “providing information”, “sharing ideas”) versus a bad way (“manipulating”, “brainwashing”).
-The manipulability of human desires is hardly a new observation in the alignment literature, but it remains unsolved (see lit review in §3 below).
-In this post I will propose an explanation of how we humans intu…]]></summary>
-        <author>
-            <name>Steven Byrnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Transformers to Forecast Incredibly Rare Solar Flares]]></title>
-        <id>https://towardsdatascience.com/?p=609066</id>
-        <link href="https://towardsdatascience.com/predicting-solar-flares/"/>
-        <updated>2026-05-11T17:41:00.000Z</updated>
-        <summary type="html"><![CDATA[How ML can change for rare events
-The post Using Transformers to Forecast Incredibly Rare Solar Flares appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Marco Hening Tallarico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests]]></title>
-        <id>https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/"/>
-        <updated>2026-05-11T17:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest.
-The post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Tyler Payne, Will Epperson, Safoora Yousefi, Zachary Huang, Gagan Bansal, Wenyue Hua, Maya Murad, Asli Celikyilmaz, Saleema Amershi</name>
         </author>
     </entry>
 </feed>
