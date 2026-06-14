@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609357",
+          "author": "Emmimal P Alexander",
+          "description": "Increasing context size in RAG systems doesn’t improve accuracy for aggregation tasks—it makes errors harder to detect. In this article, I benchmark retrieval-based pipelines against a deterministic full-scan engine across 100,000 rows and show why computation queries must be routed away from RAG entirely.\nThe post Larger Context Windows Don’t Fix RAG — So I Built a System That Does appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/larger-context-windows-dont-fix-rag-so-i-built-a-system-that-does/",
+          "publishedOn": "2026-06-13T17:00:00.000Z",
+          "wordCount": 6216,
+          "title": "Larger Context Windows Don’t Fix RAG — So I Built a System That Does",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Larger-Context-Windows.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609359",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #5ter] - Table cells, OCR, captions, headings: cloud-grade structure, running on your own machine. No key, no per-page bill, nothing leaves the building\nThe post Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/parse-pdfs-for-rag-locally-with-docling-rich-tables-no-cloud-upload/",
+          "publishedOn": "2026-06-13T15:00:00.000Z",
+          "wordCount": 6770,
+          "title": "Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_spinning_wheel_28096615_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609355",
+          "author": "Jarom Hulet",
+          "description": "Let's practice data science thinking through a probability problem \nThe post Solving the 3Blue1Brown String Probability Problem (Without AI) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/solving-the-3blue1brown-string-probability-problem-without-ai/",
+          "publishedOn": "2026-06-13T13:00:00.000Z",
+          "wordCount": 4724,
+          "title": "Solving the 3Blue1Brown String Probability Problem (Without AI)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pexels-ron-lach-9850822-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609353",
           "author": "Kezhan Shi",
           "description": "Enterprise Document Intelligence [Vol.1 #5bis] - The same relational tables. Native table cells. OCR for scanned pages and images. Captions and headings without regex.\nThe post When PyMuPDF Can’t See the Table: Parse PDFs for RAG with Azure Layout appeared first on Towards Data Science.",
@@ -1140,56 +1170,6 @@
           "wordCount": 3886,
           "title": "The Next AI Bottleneck Isn’t the Model: It’s the Inference System",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/180899bc-93a4-48d7-9c82-fde7cf9f3d85.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609098",
-          "author": "Gokul Chandra Purnachandra Reddy",
-          "description": "A critical analysis of MRC's three counterintuitive design decisions, the networking mathematics that make them work, and what they mean for the rest of the AI infrastructure community.\nThe post The Counterintuitive Networking Decisions Behind OpenAI’s 131,000-GPU Training Fabric appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-counterintuitive-networking-decisions-behind-openais-131000-gpu-training-fabric/",
-          "publishedOn": "2026-05-14T15:00:00.000Z",
-          "wordCount": 7429,
-          "title": "The Counterintuitive Networking Decisions Behind OpenAI’s 131,000-GPU Training Fabric",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/IhLdScvWMP18opHiTILBz.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609096",
-          "author": "Mariya Mansurova",
-          "description": "What happened when I migrated a 10K+ line project into an AI-native workflow\nThe post I Let CodeSpeak Take Over My Repository appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-let-codespeak-take-over-my-repository/",
-          "publishedOn": "2026-05-14T13:30:00.000Z",
-          "wordCount": 5312,
-          "title": "I Let CodeSpeak Take Over My Repository",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/1_bsWu4PjctKyQtSFQqxh1nQ-1024x576.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609094",
-          "author": "Eivind Kjosbakken",
-          "description": "Improve the quality of Claude Code output. \nThe post How to Write Robust Code with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-write-robust-code-with-claude-code/",
-          "publishedOn": "2026-05-14T12:00:00.000Z",
-          "wordCount": 4741,
-          "title": "How to Write Robust Code with Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-146.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609092",
-          "author": "Sarah Schürch",
-          "description": "A practical comparison between rule-based PDF extraction using pytesseract and an LLM-based approach with Ollama and LLaMA 3, based on a realistic B2B order scenario.\nThe post I Built the Same B2B Document Extractor Twice: Rules vs. LLM appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/",
-          "publishedOn": "2026-05-13T18:22:05.000Z",
-          "wordCount": 5474,
-          "title": "I Built the Same B2B Document Extractor Twice: Rules vs. LLM",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/I-built-the-same-B2B-Document-Extractor-Twice-Regex-Rules-vs.-LLM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609090",
-          "author": "Mahnoor Javed",
-          "description": "A beginner's tutorial on exploratory data analysis using Pandas, Matplolib, and Seaborn\nThe post Exploring Patterns of Survival from the Titanic Dataset appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/",
-          "publishedOn": "2026-05-13T16:46:36.000Z",
-          "wordCount": 5514,
-          "title": "Exploring Patterns of Survival from the Titanic Dataset",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/museums-victoria-i-0yKUMumlo-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1198,6 +1178,26 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=24397",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Text classification typically boils down to scenarios where a product review is \"positive\" or \"negative\", or a customer inquiry belongs to one category or another.",
+          "link": "https://machinelearningmastery.com/multi-label-text-classification-with-scikit-llm/",
+          "publishedOn": "2026-06-11T12:00:17.000Z",
+          "wordCount": 8506,
+          "title": "Multi-Label Text Classification with Scikit-LLM",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-multi-label-text-classification-with-scikit-llm-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24285",
+          "author": "Shittu Olumide",
+          "description": "Most browser AI tutorials cover text because it is a natural starting point, but the applications people actually want to build are rarely text-only.",
+          "link": "https://machinelearningmastery.com/multimodal-browser-ai-with-transformers-js-for-images-and-speech/",
+          "publishedOn": "2026-06-10T11:35:14.000Z",
+          "wordCount": 16480,
+          "title": "Multimodal Browser AI with Transformers.js for Images and Speech",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-multimodal-browser-ai-with-transformers-js-for-images-and-speech.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=24299",
           "author": "Shittu Olumide",
@@ -1334,23 +1334,7 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": [
-        {
-          "id": "https://blog.ml.cmu.edu/?p=22449",
-          "author": "Zhiqiu Lin",
-          "description": "A year of building a video caption pipeline with 100+ professional creators, and what it taught us about scaling supervision instead of models. By Zhiqiu Lin and Chancharik Mitra. Based on our CVPR 2026 work, Building a Precise Video Language with Human-AI Oversight (Highlight, Top 3%). How close is today's video generator to a Hollywood cinematographer? Hollywood directors reach for certain shots because they make a scene land. They cue a specific feeling in the viewer that flat coverage cannot. Open your favorite video generator (Veo 3.1, Seedance 2, or any of the latest open-source models) and ask it for a dolly zoom of a man standing in the middle of a bustling street, the way Hitchcock used the shot to make the world feel like it is collapsing inward. Or a rack focus pulling from a coffee cup to the woman behind it, the kind of focus pull that quietly tells the audience where to look. Or a Dutch-angle shot of a nervous person staring into the void, a tilted frame that puts the viewer on edge. Most generators will hand back something close to a generic dolly-in, or a slow-motion clip with the wrong focal subject. The output […]",
-          "link": "https://blog.ml.cmu.edu/2026/05/13/teaching-vision-language-models-to-speak-cinema/",
-          "publishedOn": "2026-05-14T03:06:13.000Z",
-          "wordCount": 3830,
-          "title": "Teaching Vision-Language Models to Speak Cinema",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/04/crowdsourced_compressed-2.mp4",
-            "length": "481885",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/04/teaser_draft-970x395.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Google AI Blog",
@@ -1690,16 +1674,6 @@
           "wordCount": 3787,
           "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-embedding-multilingual-r2.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/continuous_async",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/continuous_async",
-          "publishedOn": "2026-05-14T00:00:00.000Z",
-          "wordCount": 4260,
-          "title": "Unlocking asynchronicity in continuous batching",
-          "imageUrl": "https://huggingface.co/blog/assets/continuous_async/thumbnail.png"
         }
       ]
     },
@@ -1778,26 +1752,6 @@
           "wordCount": 3492,
           "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/FurtherNotes-TWLIFB-1200x627-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1171325",
-          "author": "Daan Leijen",
-          "description": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.\nThe post mimalloc: A new, high-performance, scalable memory allocator for the modern era appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
-          "publishedOn": "2026-05-13T17:19:59.000Z",
-          "wordCount": 5055,
-          "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Mimalloc-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1171470",
-          "author": "Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen   Zhang",
-          "description": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.\nThe post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
-          "publishedOn": "2026-05-13T16:00:20.000Z",
-          "wordCount": null,
-          "title": "GridSFM: A new, small foundation model for the electric grid",
-          "imageUrl": null
         }
       ]
     },
@@ -2240,36 +2194,6 @@
           "wordCount": 2264,
           "title": "The Top 10 LLM Training Datasets for 2026",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-The-Top-10-LLM-Training-Datasets-for-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36314",
-          "author": "Sujana Urs",
-          "description": "Medical AI models are only as good as the data they learn from. Whether you’re building a breast cancer detection\nThe post Top 10 Medical AI Training Datasets for 2026 appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/top-10-medical-ai-training-datasets-for-2026/",
-          "publishedOn": "2026-05-14T10:58:25.000Z",
-          "wordCount": 2629,
-          "title": "Top 10 Medical AI Training Datasets for 2026",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Top-10-Medical-AI-Training-Datasets-for-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36178",
-          "author": "Sujana Urs",
-          "description": "As healthcare AI adoption accelerates, the ability to de-identify sensitive patient data while preserving clinical value has become mission-critical. From\nThe post Top Medical Data De-Identification Companies in 2026 appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/top-medical-data-de-identification-companies-in-2026/",
-          "publishedOn": "2026-05-13T17:29:22.000Z",
-          "wordCount": 1957,
-          "title": "Top Medical Data De-Identification Companies in 2026",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/FEATURE-IMG-Top-Medical-Data-De-Identification-Companies-in-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36217",
-          "author": "Sujana Urs",
-          "description": "Healthcare is experiencing a data-driven revolution. From AI models that read radiology scans to predictive algorithms guiding clinical workflows, the\nThe post De-Identifying Medical Data: Challenges, Innovations, and What’s Next appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/de-identifying-medical-data-challenges-innovations-and-whats-next/",
-          "publishedOn": "2026-05-13T17:29:19.000Z",
-          "wordCount": 2215,
-          "title": "De-Identifying Medical Data: Challenges, Innovations, and What’s Next",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/FeatureIMG-De-Identifying-Medical-Data-Challenges-Innovations-and-Whats-Next.png"
         }
       ]
     },
@@ -2605,28 +2529,6 @@
           "publishedOn": "2026-05-14T20:32:38.000Z",
           "wordCount": null,
           "title": "DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254964",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Understanding modern AI architectures is harder than ever. Open any Hugging Face repository and you’ll usually find massive config files, layer definitions, parameter counts, and model cards that explain what the model does but rarely help you understand how it is structured internally. That becomes a problem as most developers end up mentally reconstructing architectures […]\nThe post How to Visualize Any AI Model Architecture Instantly in Hugging Face appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/how-to-visualize-any-ai-model-architecture-instantly/",
-          "publishedOn": "2026-05-14T10:30:00.000Z",
-          "wordCount": null,
-          "title": "How to Visualize Any AI Model Architecture Instantly in Hugging Face",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254951",
-          "author": "Sarthak Dogra",
-          "description": "There are some obvious signs that can instantly differentiate between regular and advanced AI users. One, for instance, is the use of voice AI for daily tasks. While majority users still toil away on their keyboard for the perfect prompt, a person proficient in the use of AI now simply speaks to it. A well-put […]\nThe post OpenAI’s New API Voice Models Will Change the Way You Use AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/openai-new-voice-models-in-api/",
-          "publishedOn": "2026-05-14T06:24:28.000Z",
-          "wordCount": null,
-          "title": "OpenAI’s New API Voice Models Will Change the Way You Use AI",
           "itunes": {},
           "imageUrl": null
         }
@@ -3273,26 +3175,6 @@
           "wordCount": null,
           "title": "Sea's View on the Future of Agentic Software Development with Codex",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/work-with-codex-from-anywhere",
-          "author": null,
-          "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-          "link": "https://openai.com/index/work-with-codex-from-anywhere",
-          "publishedOn": "2026-05-14T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Work with Codex from anywhere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-          "author": null,
-          "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-          "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-          "publishedOn": "2026-05-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Helping ChatGPT better recognize context in sensitive conversations",
-          "imageUrl": null
         }
       ]
     },
@@ -3388,6 +3270,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "nLrrYweeFxgXACSmS",
+          "author": "Josh Engels",
+          "description": "This is the third in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The second post can be found here.\n\n\nIn this short post, we describe a surprising finding: most safety relevant properties in Gemini seem to be caused by the combination of pretraining and SFT, not other training stages like RL. \nWe do not want to overstate this claim as applying to other model families, and we also note that this may change in future Gemini versions. Nevertheless, this result was counter to our initial expectations and will inform future safety work on our team, and so we felt that it was important to share with the broader safety community.\nExperiment\nWe perform SFT using the Gemini mixture on the pre-training o…",
+          "link": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1",
+          "publishedOn": "2026-06-13T15:31:52.000Z",
+          "wordCount": 17833,
+          "title": "SFT Drives Gemini’s Safety Properties",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/nLrrYweeFxgXACSmS/sdpb2cwxvmp49ky1tsnf"
+        },
         {
           "id": "qi4mNbZYAFDYwfRba",
           "author": "bilalchughtai",
