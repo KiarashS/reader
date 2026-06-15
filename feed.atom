@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-14T03:38:43.496Z</updated>
+    <updated>2026-06-15T03:53:20.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Do Naive SFT Filters For Safety Properties Fail?]]></title>
+        <id>wyZRNgpeiPeRXB6eT</id>
+        <link href="https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"/>
+        <updated>2026-06-14T19:45:10.000Z</updated>
+        <summary type="html"><![CDATA[This is the fourth in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The third post can be found here.
+
+Since SFT is the cause for many safety relevant properties, a natural strategy is to filter out rollouts from SFT that have undesirable properties. However, as we show in this section (and in forthcoming MATS work), SFT data filtering frequently works surprisingly poorly. In this post, we investigate hypotheses for why SFT filtering fails.
+TL;DR:
+
+We discuss seven hypotheses for why SFT filtering works surprisingly poorly
+We analyze three hereditary traits that SFT-only Gemini has that other models do not: negative emotion, date confusion, and blackmail in the (highly contrived) agentic misalign…]]></summary>
+        <author>
+            <name>Josh Engels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the AGI era of AI governance]]></title>
+        <id>https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance</id>
+        <link href="https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance"/>
+        <updated>2026-06-14T17:43:42.000Z</updated>
+        <summary type="html"><![CDATA[It's a one-way door and we weren't ready for it.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Lines You Should Include in Your Claude Skill]]></title>
+        <id>https://towardsdatascience.com/?p=609363</id>
+        <link href="https://towardsdatascience.com/4-lines-you-must-include-in-your-claude-skill/"/>
+        <updated>2026-06-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Without these, Claude will be confidently wrong.
+The post 4 Lines You Should Include in Your Claude Skill appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Haden Pelletier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the OpenAI Partner Network]]></title>
+        <id>https://openai.com/index/introducing-openai-partner-network</id>
+        <link href="https://openai.com/index/introducing-openai-partner-network"/>
+        <updated>2026-06-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG]]></title>
+        <id>https://towardsdatascience.com/?p=609365</id>
+        <link href="https://towardsdatascience.com/vision-llms-are-pdf-parsers-too-reading-charts-and-diagrams-for-rag/"/>
+        <updated>2026-06-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5quater] - The other parsers read the words on a page. A vision model also reads the pictures
+The post Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU Time-Slicing for Concurrent LLM Agents on Kubernetes]]></title>
+        <id>https://towardsdatascience.com/?p=609361</id>
+        <link href="https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/"/>
+        <updated>2026-06-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A systems-level deep dive into the hidden microarchitectural costs of Kubernetes GPU time-slicing, and what it actually costs to co-locate Agentic AI workloads.
+The post GPU Time-Slicing for Concurrent LLM Agents on Kubernetes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anubhab Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Private Text-to-Speech on Your Own Hardware Using QVAC]]></title>
+        <id>6a2e0cb22e4a72670f854140</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/"/>
+        <updated>2026-06-14T02:06:42.000Z</updated>
+        <summary type="html"><![CDATA[When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text]]></summary>
+        <author>
+            <name>Djibril-M🍀</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Larger Context Windows Don’t Fix RAG — So I Built a System That Does]]></title>
         <id>https://towardsdatascience.com/?p=609357</id>
@@ -842,6 +921,18 @@ The post We Should Train AI to Betray Its Users appeared first on Towards Data S
 The post Building a Multi-Agent System in Python appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can activation verbalizers surface an internal chain of thought?]]></title>
+        <id>QQQAcKuWK6k98FivY</id>
+        <link href="https://www.alignmentforum.org/posts/QQQAcKuWK6k98FivY/can-activation-verbalizers-surface-an-internal-chain-of-1"/>
+        <updated>2026-06-07T04:24:01.000Z</updated>
+        <summary type="html"><![CDATA[We introduce an evaluation for activation verbalizers: can they surface a target model's reasoning as it solves a math problem in a single forward pass? For open-weight NLAs, the answer seems to be: "possibly, but definitely not reliably".
+Lots of important capabilities currently require AI models to reason "out loud" in a natural-language chain of thought, which means that we can monitor important parts of their thinking. It would be nice to have this same affordance for the reasoning that models do within a single forward pass, especially if the sophistication of that opaque reasoning increases to potentially dangerous levels.
+Some interpretability tools might offer such an affordance. In particular, an activation verbalizer (AV) takes a residual stream activation and maps it to a natura…]]></summary>
+        <author>
+            <name>oakhu</name>
         </author>
     </entry>
     <entry>
@@ -3203,186 +3294,6 @@ The post From Raw Data to Risk Classes appeared first on Towards Data Science.]
 The post OpenAI Omni Moderation: How to Filter Text & Images for Free appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Continually Improve My Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=609109</id>
-        <link href="https://towardsdatascience.com/how-i-continually-improve-my-claude-code/"/>
-        <updated>2026-05-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to make your Claude Code improve over time 
-The post How I Continually Improve My Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Artemis Accords]]></title>
-        <id>4b331e6e-5066-11f1-8eb4-0f5ada662df5</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-artemis-accords/"/>
-        <updated>2026-05-15T13:59:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s Kathleen Karika and Kim Hurst discuss how the Artemis Accords are helping shape a safe, peaceful, and prosperous future for lunar exploration and beyond.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why My Coding Assistant Started Replying in Korean When I Typed Chinese]]></title>
-        <id>https://towardsdatascience.com/?p=609105</id>
-        <link href="https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/"/>
-        <updated>2026-05-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From a Chinese prompt to a Korean response: an embedding-space investigation into how code vocabulary reshapes language
-The post Why My Coding Assistant Started Replying in Korean When I Typed Chinese appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Evaluating LLMs with “Vibe Checks”]]></title>
-        <id>https://towardsdatascience.com/?p=609103</id>
-        <link href="https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/"/>
-        <updated>2026-05-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to build a decision-grade scorecard for AI agents
-The post Stop Evaluating LLMs with “Vibe Checks” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ari Joury, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Autonomous Systems Through Edge Case Triage]]></title>
-        <id>https://imerit.ai/?p=36324</id>
-        <link href="https://imerit.ai/resources/blog/improving-autonomous-systems-through-edge-case-triage/"/>
-        <updated>2026-05-15T06:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous vehicles have come a long way. On controlled highways and structured urban environments, modern autonomous vehicle systems navigate familiar
-The post Improving Autonomous Systems Through Edge Case Triage appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Data Operations & Governance in AI Vendor Evaluation]]></title>
-        <id>https://imerit.ai/?p=36335</id>
-        <link href="https://imerit.ai/resources/blog/secure-data-operations-governance-in-ai-vendor-evaluation/"/>
-        <updated>2026-05-15T06:01:28.000Z</updated>
-        <summary type="html"><![CDATA[When enterprises evaluate AI data vendors, the discussion often centers on annotation accuracy, domain expertise, and delivery capacity. Yet many
-The post Secure Data Operations & Governance in AI Vendor Evaluation appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 10 LLM Training Datasets for 2026]]></title>
-        <id>https://imerit.ai/?p=36232</id>
-        <link href="https://imerit.ai/resources/blog/the-top-10-llm-training-datasets-for-2026/"/>
-        <updated>2026-05-15T05:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Large language models depend on extensive, high-quality training data. Whether you’re building a general-purpose chatbot, a coding copilot, a medical
-The post The Top 10 LLM Training Datasets for 2026 appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How business operations teams use Codex]]></title>
-        <id>https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</id>
-        <link href="https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How data science teams use Codex]]></title>
-        <id>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</id>
-        <link href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How sales teams use Codex]]></title>
-        <id>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</id>
-        <link href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new personal finance experience in ChatGPT]]></title>
-        <id>https://openai.com/index/personal-finance-chatgpt</id>
-        <link href="https://openai.com/index/personal-finance-chatgpt"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databricks brings GPT-5.5 to enterprise agent workflows]]></title>
-        <id>https://openai.com/index/databricks</id>
-        <link href="https://openai.com/index/databricks"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year]]></title>
-        <id>https://www.analyticsvidhya.com/?p=254960</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/datahack-summit-dhs-2026/"/>
-        <updated>2026-05-14T20:32:38.000Z</updated>
-        <summary type="html"><![CDATA[You are a product of your environment, so choose to be with the best. In the age of AI, this proverb is just as true as on the day it was said. If you are to compete in this ultra-fast AI environment with innovations around every corner, being around industry leaders will do you heaps […]
-The post DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea's View on the Future of Agentic Software Development with Codex]]></title>
-        <id>https://openai.com/index/sea-david-chen</id>
-        <link href="https://openai.com/index/sea-david-chen"/>
-        <updated>2026-05-14T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality]]></title>
-        <id>https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2</id>
-        <link href="https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"/>
-        <updated>2026-05-14T18:55:01.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Granite on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness]]></title>
-        <id>tK8vqHDxaRGcysNJQ</id>
-        <link href="https://www.alignmentforum.org/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1"/>
-        <updated>2026-05-14T17:05:38.000Z</updated>
-        <summary type="html"><![CDATA[1) The safe-to-dangerous shift is a fundamental problem for eval realism
-Suppose we have a capable and potentially scheming model, and before we deploy it, we want some evidence that it won’t do anything catastrophically dangerous once we deploy it. A common approach is to use black-box alignment evaluations. However, alignment evaluations are only reassuring to the extent that the model can't reliably[1] distinguish the deployment distribution from the evaluation distribution, as it is otherwise difficult to rule out the possibility of alignment faking.
-There are many approaches one could use to try to make evaluations appear more realistic: you can try to create realistic environments (e.g. Petri, WebArena, OSWorld); use data from past deployments (e.g. OpenAI, SAD); and spoof tool-call …]]></summary>
-        <author>
-            <name>Charlie Griffin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next AI Bottleneck Isn’t the Model: It’s the Inference System]]></title>
-        <id>https://towardsdatascience.com/?p=609100</id>
-        <link href="https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/"/>
-        <updated>2026-05-14T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise AI systems are entering a phase where inference design matters as much as model capability itself.
-The post The Next AI Bottleneck Isn’t the Model: It’s the Inference System appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shafeeq Ur Rahaman</name>
         </author>
     </entry>
 </feed>

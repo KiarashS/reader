@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609363",
+          "author": "Haden Pelletier",
+          "description": "Without these, Claude will be confidently wrong.\nThe post 4 Lines You Should Include in Your Claude Skill appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-lines-you-must-include-in-your-claude-skill/",
+          "publishedOn": "2026-06-14T17:00:00.000Z",
+          "wordCount": 4544,
+          "title": "4 Lines You Should Include in Your Claude Skill",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-at-12.39.34-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609365",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #5quater] - The other parsers read the words on a page. A vision model also reads the pictures\nThe post Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/vision-llms-are-pdf-parsers-too-reading-charts-and-diagrams-for-rag/",
+          "publishedOn": "2026-06-14T15:00:00.000Z",
+          "wordCount": 5984,
+          "title": "Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/microscope_fiHQ3-D45zo_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609361",
+          "author": "Anubhab Banerjee",
+          "description": "A systems-level deep dive into the hidden microarchitectural costs of Kubernetes GPU time-slicing, and what it actually costs to co-locate Agentic AI workloads.\nThe post GPU Time-Slicing for Concurrent LLM Agents on Kubernetes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/",
+          "publishedOn": "2026-06-14T13:00:00.000Z",
+          "wordCount": 7371,
+          "title": "GPU Time-Slicing for Concurrent LLM Agents on Kubernetes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/overview_ktp.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609357",
           "author": "Emmimal P Alexander",
           "description": "Increasing context size in RAG systems doesn’t improve accuracy for aggregation tasks—it makes errors harder to detect. In this article, I benchmark retrieval-based pipelines against a deterministic full-scan engine across 100,000 rows and show why computation queries must be routed away from RAG entirely.\nThe post Larger Context Windows Don’t Fix RAG — So I Built a System That Does appeared first on Towards Data Science.",
@@ -1130,46 +1160,6 @@
           "wordCount": 8072,
           "title": "From Raw Data to Risk Classes",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-14-mai-2026-18_43_08.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609109",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to make your Claude Code improve over time \nThe post How I Continually Improve My Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-i-continually-improve-my-claude-code/",
-          "publishedOn": "2026-05-15T15:00:00.000Z",
-          "wordCount": 4957,
-          "title": "How I Continually Improve My Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-172-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609105",
-          "author": "Shuyang",
-          "description": "From a Chinese prompt to a Korean response: an embedding-space investigation into how code vocabulary reshapes language\nThe post Why My Coding Assistant Started Replying in Korean When I Typed Chinese appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-my-coding-assistant-started-replying-in-korean-when-i-typed-chinese/",
-          "publishedOn": "2026-05-15T13:30:00.000Z",
-          "wordCount": 3886,
-          "title": "Why My Coding Assistant Started Replying in Korean When I Typed Chinese",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/valery-rabchenyuk-5I_oFqB0n6g-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609103",
-          "author": "Ari Joury, PhD",
-          "description": "How to build a decision-grade scorecard for AI agents\nThe post Stop Evaluating LLMs with “Vibe Checks” appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-evaluating-llms-with-vibe-checks/",
-          "publishedOn": "2026-05-15T12:00:00.000Z",
-          "wordCount": 4389,
-          "title": "Stop Evaluating LLMs with “Vibe Checks”",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/lucid-origin_Photograph_of_layered_sandstone_cliffs_under_a_hazy_sunset_burnt_sienna_and_mute-0.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609100",
-          "author": "Shafeeq Ur Rahaman",
-          "description": "Enterprise AI systems are entering a phase where inference design matters as much as model capability itself.\nThe post The Next AI Bottleneck Isn’t the Model: It’s the Inference System appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/",
-          "publishedOn": "2026-05-14T16:30:00.000Z",
-          "wordCount": 3886,
-          "title": "The Next AI Bottleneck Isn’t the Model: It’s the Inference System",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/180899bc-93a4-48d7-9c82-fde7cf9f3d85.jpeg"
         }
       ]
     },
@@ -1664,16 +1654,6 @@
           "wordCount": 1978,
           "title": "The Open Agent Leaderboard",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/5fc0292de45c5468456e022b/CpwVutMu5EiniBliQ9RXs.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-          "author": null,
-          "description": "A Blog post by IBM Granite on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-          "publishedOn": "2026-05-14T18:55:01.000Z",
-          "wordCount": 3787,
-          "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-embedding-multilingual-r2.png"
         }
       ]
     },
@@ -1808,6 +1788,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a2e0cb22e4a72670f854140",
+          "author": "Djibril-M🍀",
+          "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
+          "link": "https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/",
+          "publishedOn": "2026-06-14T02:06:42.000Z",
+          "wordCount": 4005,
+          "title": "How to Run Private Text-to-Speech on Your Own Hardware Using QVAC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ac11484-05eb-4e59-9d35-f2bad4d1d730.png"
+        },
         {
           "id": "6a21b25709761aac249473c9",
           "author": "Lakshmi Mahabaleshwara",
@@ -1979,24 +1969,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "4b331e6e-5066-11f1-8eb4-0f5ada662df5",
-          "author": null,
-          "description": "NASA’s Kathleen Karika and Kim Hurst discuss how the Artemis Accords are helping shape a safe, peaceful, and prosperous future for lunar exploration and beyond.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-artemis-accords/",
-          "publishedOn": "2026-05-15T13:59:00.000Z",
-          "wordCount": null,
-          "title": "The Artemis Accords",
-          "itunes": {
-            "duration": "3211"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6885279102.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2164,36 +2136,6 @@
           "wordCount": 2713,
           "title": "Sensor Data Triage Strategies for Scalable Autonomous Vehicle Training",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Sensor-Data-Triage-Strategies-for-Scalable-Autonomous-Vehicle-Training.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36324",
-          "author": "Sujana Urs",
-          "description": "Autonomous vehicles have come a long way. On controlled highways and structured urban environments, modern autonomous vehicle systems navigate familiar\nThe post Improving Autonomous Systems Through Edge Case Triage appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/improving-autonomous-systems-through-edge-case-triage/",
-          "publishedOn": "2026-05-15T06:02:49.000Z",
-          "wordCount": 2763,
-          "title": "Improving Autonomous Systems Through Edge Case Triage",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Improving-Autonomous-Systems-Through-Edge-Case-Triage-1024x584.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36335",
-          "author": "Sujana Urs",
-          "description": "When enterprises evaluate AI data vendors, the discussion often centers on annotation accuracy, domain expertise, and delivery capacity. Yet many\nThe post Secure Data Operations & Governance in AI Vendor Evaluation appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/secure-data-operations-governance-in-ai-vendor-evaluation/",
-          "publishedOn": "2026-05-15T06:01:28.000Z",
-          "wordCount": 2745,
-          "title": "Secure Data Operations & Governance in AI Vendor Evaluation",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Secure-Data-Operations-Governance-in-AI-Vendor-Evaluation.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36232",
-          "author": "Sujana Urs",
-          "description": "Large language models depend on extensive, high-quality training data. Whether you’re building a general-purpose chatbot, a coding copilot, a medical\nThe post The Top 10 LLM Training Datasets for 2026 appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/the-top-10-llm-training-datasets-for-2026/",
-          "publishedOn": "2026-05-15T05:59:50.000Z",
-          "wordCount": 2264,
-          "title": "The Top 10 LLM Training Datasets for 2026",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-The-Top-10-LLM-Training-Datasets-for-2026.png"
         }
       ]
     },
@@ -2520,17 +2462,6 @@
           "title": "OpenAI Omni Moderation: How to Filter Text & Images for Free",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254960",
-          "author": "Sarthak Dogra",
-          "description": "You are a product of your environment, so choose to be with the best. In the age of AI, this proverb is just as true as on the day it was said. If you are to compete in this ultra-fast AI environment with innovations around every corner, being around industry leaders will do you heaps […]\nThe post DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/datahack-summit-dhs-2026/",
-          "publishedOn": "2026-05-14T20:32:38.000Z",
-          "wordCount": null,
-          "title": "DataHack Summit 2026: You Just Cannot Skip This AI Event of the Year",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2606,6 +2537,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-openai-partner-network",
+          "author": null,
+          "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+          "link": "https://openai.com/index/introducing-openai-partner-network",
+          "publishedOn": "2026-06-14T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the OpenAI Partner Network",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/academy-courses-applying-ai-at-work",
           "author": null,
@@ -3115,66 +3056,6 @@
           "wordCount": null,
           "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-          "author": null,
-          "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How business operations teams use Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "author": null,
-          "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How data science teams use Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "author": null,
-          "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How sales teams use Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/personal-finance-chatgpt",
-          "author": null,
-          "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-          "link": "https://openai.com/index/personal-finance-chatgpt",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "A new personal finance experience in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/databricks",
-          "author": null,
-          "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-          "link": "https://openai.com/index/databricks",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/sea-david-chen",
-          "author": null,
-          "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-          "link": "https://openai.com/index/sea-david-chen",
-          "publishedOn": "2026-05-14T20:30:00.000Z",
-          "wordCount": null,
-          "title": "Sea's View on the Future of Agentic Software Development with Codex",
-          "imageUrl": null
         }
       ]
     },
@@ -3183,6 +3064,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+          "author": "Nathan Lambert",
+          "description": "It's a one-way door and we weren't ready for it.",
+          "link": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+          "publishedOn": "2026-06-14T17:43:42.000Z",
+          "wordCount": null,
+          "title": "Welcome to the AGI era of AI governance",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/74e1df37-06b8-444e-a5a4-fbc1ead00360_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/74e1df37-06b8-444e-a5a4-fbc1ead00360_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
           "author": "Nathan Lambert",
@@ -3271,6 +3168,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "wyZRNgpeiPeRXB6eT",
+          "author": "Josh Engels",
+          "description": "This is the fourth in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The third post can be found here.\n\nSince SFT is the cause for many safety relevant properties, a natural strategy is to filter out rollouts from SFT that have undesirable properties. However, as we show in this section (and in forthcoming MATS work), SFT data filtering frequently works surprisingly poorly. In this post, we investigate hypotheses for why SFT filtering fails.\nTL;DR:\n\nWe discuss seven hypotheses for why SFT filtering works surprisingly poorly\nWe analyze three hereditary traits that SFT-only Gemini has that other models do not: negative emotion, date confusion, and blackmail in the (highly contrived) agentic misalign…",
+          "link": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail",
+          "publishedOn": "2026-06-14T19:45:10.000Z",
+          "wordCount": 28679,
+          "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/wyZRNgpeiPeRXB6eT/q7sjyn0tfrhhqvet7llw"
+        },
+        {
           "id": "nLrrYweeFxgXACSmS",
           "author": "Josh Engels",
           "description": "This is the third in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The second post can be found here.\n\n\nIn this short post, we describe a surprising finding: most safety relevant properties in Gemini seem to be caused by the combination of pretraining and SFT, not other training stages like RL. \nWe do not want to overstate this claim as applying to other model families, and we also note that this may change in future Gemini versions. Nevertheless, this result was counter to our initial expectations and will inform future safety work on our team, and so we felt that it was important to share with the broader safety community.\nExperiment\nWe perform SFT using the Gemini mixture on the pre-training o…",
@@ -3349,6 +3256,16 @@
           "wordCount": null,
           "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
           "imageUrl": null
+        },
+        {
+          "id": "QQQAcKuWK6k98FivY",
+          "author": "oakhu",
+          "description": "We introduce an evaluation for activation verbalizers: can they surface a target model's reasoning as it solves a math problem in a single forward pass? For open-weight NLAs, the answer seems to be: \"possibly, but definitely not reliably\".\nLots of important capabilities currently require AI models to reason \"out loud\" in a natural-language chain of thought, which means that we can monitor important parts of their thinking. It would be nice to have this same affordance for the reasoning that models do within a single forward pass, especially if the sophistication of that opaque reasoning increases to potentially dangerous levels.\nSome interpretability tools might offer such an affordance. In particular, an activation verbalizer (AV) takes a residual stream activation and maps it to a natura…",
+          "link": "https://www.alignmentforum.org/posts/QQQAcKuWK6k98FivY/can-activation-verbalizers-surface-an-internal-chain-of-1",
+          "publishedOn": "2026-06-07T04:24:01.000Z",
+          "wordCount": 74027,
+          "title": "Can activation verbalizers surface an internal chain of thought?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QQQAcKuWK6k98FivY/cru66sfbedwz6tbp2oet"
         },
         {
           "id": "MuLvZxMcy5WaKJu3H",
@@ -3458,16 +3375,6 @@
           "publishedOn": "2026-05-15T16:50:43.000Z",
           "wordCount": null,
           "title": "Mechanistic estimation for expectations of random products",
-          "imageUrl": null
-        },
-        {
-          "id": "tK8vqHDxaRGcysNJQ",
-          "author": "Charlie Griffin",
-          "description": "1) The safe-to-dangerous shift is a fundamental problem for eval realism\nSuppose we have a capable and potentially scheming model, and before we deploy it, we want some evidence that it won’t do anything catastrophically dangerous once we deploy it. A common approach is to use black-box alignment evaluations. However, alignment evaluations are only reassuring to the extent that the model can't reliably[1] distinguish the deployment distribution from the evaluation distribution, as it is otherwise difficult to rule out the possibility of alignment faking.\nThere are many approaches one could use to try to make evaluations appear more realistic: you can try to create realistic environments (e.g. Petri, WebArena, OSWorld); use data from past deployments (e.g. OpenAI, SAD); and spoof tool-call …",
-          "link": "https://www.alignmentforum.org/posts/tK8vqHDxaRGcysNJQ/the-safe-to-dangerous-shift-is-a-fundamental-problem-for-1",
-          "publishedOn": "2026-05-14T17:05:38.000Z",
-          "wordCount": null,
-          "title": "The safe-to-dangerous shift is a fundamental problem for eval realism; but also for measuring awareness",
           "imageUrl": null
         }
       ]
