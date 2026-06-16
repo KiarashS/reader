@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609373",
+          "author": "Eivind Kjosbakken",
+          "description": "Increase productivity with your LLMs\nThe post How to Effectively Align with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-align-with-claude-code/",
+          "publishedOn": "2026-06-15T16:30:00.000Z",
+          "wordCount": 4895,
+          "title": "How to Effectively Align with Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/coding-agent-alignment_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609371",
+          "author": "Priyansh Bhardwaj",
+          "description": "A detailed look at MCP that turned my scattered tool definitions into a stable, discoverable server\nThe post The Protocol That Cleaned Up Our Agent Architecture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-protocol-that-cleaned-up-our-agent-architecture/",
+          "publishedOn": "2026-06-15T15:00:00.000Z",
+          "wordCount": 4972,
+          "title": "The Protocol That Cleaned Up Our Agent Architecture",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/MCP_Article.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609369",
+          "author": "Ari Joury, PhD",
+          "description": "A single model hands you a single answer and no sense of how much it hinges on the dozens of choices buried inside it.\nThe post I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-11-models-to-predict-the-2026-world-cup-they-crown-four-different-champions/",
+          "publishedOn": "2026-06-15T13:30:00.000Z",
+          "wordCount": 5405,
+          "title": "I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/lucid-origin_Photograph_of_a_lone_goal_frame_on_a_dusty_desert_field_weathered_net_muted_clay-0.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609367",
+          "author": "Arjun Kaarat",
+          "description": "How local optimization in last‑mile delivery can quietly break the system\nThe post The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-system-always-knows/",
+          "publishedOn": "2026-06-15T12:00:00.000Z",
+          "wordCount": 5948,
+          "title": "The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Hero.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609363",
           "author": "Haden Pelletier",
           "description": "Without these, Claude will be confidently wrong.\nThe post 4 Lines You Should Include in Your Claude Skill appeared first on Towards Data Science.",
@@ -1130,36 +1170,6 @@
           "wordCount": 7990,
           "title": "LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Missing-Scoring-Layer.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609113",
-          "author": "Ibrahim Salami",
-          "description": "The exact tools I'm learning, the projects I'm building, and the mistakes I'm already expecting to make\nThe post From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/",
-          "publishedOn": "2026-05-16T15:00:00.000Z",
-          "wordCount": 4848,
-          "title": "From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/data-engineer.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609111",
-          "author": "Avishek Biswas",
-          "description": "Exactly how does it differ from ReAct, CodeAct, Self-Loops, and Subagents?\nThe post Recursive Language Models: An All-in-One Deep Dive appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/",
-          "publishedOn": "2026-05-16T13:00:00.000Z",
-          "wordCount": 9614,
-          "title": "Recursive Language Models: An All-in-One Deep Dive",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RLM_Article-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609107",
-          "author": "JUNIOR JUMBONG",
-          "description": "A practical guide to categorization in credit scoring\nThe post From Raw Data to Risk Classes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-raw-data-to-risk-classes/",
-          "publishedOn": "2026-05-15T16:30:00.000Z",
-          "wordCount": 8072,
-          "title": "From Raw Data to Risk Classes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-14-mai-2026-18_43_08.jpg"
         }
       ]
     },
@@ -1336,7 +1346,18 @@
       "title": "FastML",
       "feedUrl": "https://fastml.com/atom.xml",
       "siteUrl": "https://fastml.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://fastml.com/detecting-ai-slop-on-reddit-in-three-easy-steps/",
+          "author": null,
+          "description": "We like reading stories on Reddit, sometimes. Since the advent of large language models, people have posted more and more AI-generated stories. Here …",
+          "link": "https://fastml.com/detecting-ai-slop-on-reddit-in-three-easy-steps/",
+          "publishedOn": "2026-06-13T22:00:00.000Z",
+          "wordCount": 611,
+          "title": "Detecting AI slop on Reddit in three easy steps",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Adit Deshpande",
@@ -1722,16 +1743,6 @@
           "wordCount": 5331,
           "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/VEGA-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1172154",
-          "author": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
-          "description": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]\nThe post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
-          "publishedOn": "2026-05-15T18:06:57.000Z",
-          "wordCount": 3492,
-          "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/FurtherNotes-TWLIFB-1200x627-1-scaled.jpg"
         }
       ]
     },
@@ -1977,6 +1988,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a303a3c899d9165d6182100",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y",
+          "publishedOn": "2026-06-15T17:46:35.000Z",
+          "wordCount": null,
+          "title": "Week Ending 6.14.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a286fd88245e075ad54c15b",
           "author": "Craig Smith",
@@ -2438,28 +2460,6 @@
           "publishedOn": "2026-05-18T12:15:26.000Z",
           "wordCount": null,
           "title": "Top 10 AI Research Papers of 2025",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254985",
-          "author": "Riya Bansal",
-          "description": "You walk into the interview room. The whiteboard displays the following prompt: “A major retailer wants to deploy a GenAI chatbot for customer support. How would you approach this?” You have 35 minutes. Your palms are sweating.  Sound familiar? GenAI case studies currently serve as the primary challenge which interviewers use to test candidates in […]\nThe post 6 Steps to Crack GenAI Case Study Interviews (With Real Examples) appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/ace-your-genai-case-study-interview/",
-          "publishedOn": "2026-05-16T09:50:39.000Z",
-          "wordCount": null,
-          "title": "6 Steps to Crack GenAI Case Study Interviews (With Real Examples)",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254729",
-          "author": "Mounish V",
-          "description": "Want to add a safety layer in your chatbot, image analyzer or any another LLM-based system? I would strongly suggest you try OpenAI’s moderation model: omni-moderation-latest, this can help your system identify if the input is potentially harmful or not, that too free of cost. We’ll look into the background of the model, how to […]\nThe post OpenAI Omni Moderation: How to Filter Text & Images for Free appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/openai-omni-moderation/",
-          "publishedOn": "2026-05-15T16:28:12.000Z",
-          "wordCount": null,
-          "title": "OpenAI Omni Moderation: How to Filter Text & Images for Free",
           "itunes": {},
           "imageUrl": null
         }
@@ -3046,16 +3046,6 @@
           "wordCount": null,
           "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/malta-chatgpt-plus-partnership",
-          "author": null,
-          "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-          "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-          "publishedOn": "2026-05-16T00:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-          "imageUrl": null
         }
       ]
     },
@@ -3167,6 +3157,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "GTYJRLhqztxKF2v5R",
+          "author": "CallumMcDougall",
+          "description": "This is the fifth in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The fourth post can be found here.\n\n\nTLDR: Via adapting the methods of Marks et al and Li et al, we train Gemini 3 Flash to have certain traits/values by midtraining it on documents about how Gemini has those properties, followed by finetuning it on synthetic chat data where it demonstrates those properties. The chat finetuning is effective for instilling the traits robustly, working OOD. We share some takeaways on how to improve midtraining & SFT effectiveness.\n\nIntroduction\nThis work closely follows Li et al (model spec midtraining, or MSM), who show that by training a model on synthetic documents before chat finetuning starts, …",
+          "link": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits",
+          "publishedOn": "2026-06-16T00:04:26.000Z",
+          "wordCount": 28202,
+          "title": "Synthetic document finetuning for instilling positive traits",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/GTYJRLhqztxKF2v5R/vujdgow7ndeubmorxgjn"
+        },
         {
           "id": "wyZRNgpeiPeRXB6eT",
           "author": "Josh Engels",
@@ -3355,26 +3355,6 @@
           "publishedOn": "2026-05-20T18:42:36.000Z",
           "wordCount": null,
           "title": "The Case for Evaluating Model Behaviors",
-          "imageUrl": null
-        },
-        {
-          "id": "cNymohcWtGHzW7AjK",
-          "author": "Alex Mallen",
-          "description": "Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible route to consistent adversarial misalignment in the near future. So, AI companies and evaluators should substantively incorporate it into risk analysis and planning.\nIn this post, I’ll briefly argue why, absent improved mitigations, this will probably soon become a reason why AI companies will be unable to convincingly argue against consistent adversarial misalignment (this risk will perhaps be even larger than risk of consistent adversarial misalignment arising from training). Then I’ll discuss how…",
-          "link": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of",
-          "publishedOn": "2026-05-15T18:20:21.000Z",
-          "wordCount": null,
-          "title": "Risk reports need to address deployment-time spread of misalignment",
-          "imageUrl": null
-        },
-        {
-          "id": "7RyAefESvb6BQ3tMz",
-          "author": "Jacob_Hilton",
-          "description": "We have developed some relatively general methods for mechanistic estimation competitive with sampling by studying problems that are expressible as expectations of random products. This includes several different estimation problems, such as random halfspace intersections, random #3-SAT and random permanents. In this post, we will give a high-level introduction to these methods before sharing some more detailed notes. This is intended as an interim technical update and will be relatively light on motivation: for a broader discussion of this line of research, see our prior post.\nRandom instances of the matching sampling principle\nAll of the problems discussed in this post can be thought of particular choices of \"architecture\" \n\n\nmjx-container[jax=\"CHTML\"] {\n  line-height: 0;\n}\n\nmjx-containe…",
-          "link": "https://www.alignmentforum.org/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products",
-          "publishedOn": "2026-05-15T16:50:43.000Z",
-          "wordCount": null,
-          "title": "Mechanistic estimation for expectations of random products",
           "imageUrl": null
         }
       ]
