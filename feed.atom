@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-16T03:42:16.624Z</updated>
+    <updated>2026-06-17T03:42:11.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Predicting LLM Safety Before Release by Simulating Deployment]]></title>
+        <id>xPXJfgqFTvuJxGZbE</id>
+        <link href="https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"/>
+        <updated>2026-06-16T19:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Paper link
+Before releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of our pre-deployment safety review, we leverage targeted evaluations, red-teaming, and other checks to understand model behavior. We’ve now started using a method for simulating model deployments before they happen, which adds a complementary signal: a deployment-like preview of how a candidate model may behave before it reaches users.
+Deployment Simulation is a method for simulating a future deployment before it happens. We do so by replaying previous conversations in a privacy-preserving manner with a new candidate model. By doing so, we …]]></summary>
+        <author>
+            <name>Tomek Korbak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drilling Into AI’s Financial Sustainability]]></title>
+        <id>https://towardsdatascience.com/?p=609381</id>
+        <link href="https://towardsdatascience.com/drilling-into-ais-financial-sustainability/"/>
+        <updated>2026-06-16T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Budgets for AI tokens can’t be infinite, no matter how much hyperscalers wish they were
+The post Drilling Into AI’s Financial Sustainability appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run a Local LLM with OpenClaw on Your Mac Mini]]></title>
+        <id>https://towardsdatascience.com/?p=609379</id>
+        <link href="https://towardsdatascience.com/run-a-local-llm-with-openclaw-on-your-mac-mini/"/>
+        <updated>2026-06-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of your monthly API bill? Follow this tested guide to set up a high-performance local LLM on your Mac Mini without the headaches. 
+The post Run a Local LLM with OpenClaw on Your Mac Mini appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sam Black</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery Layer]]></title>
+        <id>https://towardsdatascience.com/?p=609377</id>
+        <link href="https://towardsdatascience.com/llm-fallbacks-break-agent-pipelines-i-built-the-missing-recovery-layer/"/>
+        <updated>2026-06-16T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[LLM rate limits don't just interrupt agent pipelines—they can silently corrupt structured outputs when fallback models receive incompatible payloads. I built a recovery layer that classifies failures, adapts payloads across model tiers, preserves execution state, and maintains schema integrity during provider swaps.
+The post LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery Layer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontier post-training recipe review with Finbarr Timbers]]></title>
+        <id>https://www.interconnects.ai/p/frontier-post-training-recipe-review</id>
+        <link href="https://www.interconnects.ai/p/frontier-post-training-recipe-review"/>
+        <updated>2026-06-16T13:29:30.000Z</updated>
+        <summary type="html"><![CDATA["Interview" #18]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Questions Need Parsing Too: Turn the User’s String Into Briefs for Retrieval and Generation]]></title>
+        <id>https://towardsdatascience.com/?p=609375</id>
+        <link href="https://towardsdatascience.com/question-parsing-in-rag-structure-before-you-search/"/>
+        <updated>2026-06-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6a] - Why a user question deserves the same parsing as the document, and how it splits into a retrieval brief and a generation brief before either runs
+The post RAG Questions Need Parsing Too: Turn the User’s String Into Briefs for Retrieval and Generation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autoregressive Models: Predicting the Future Using the Past]]></title>
+        <id>https://www.analyticsvidhya.com/?p=255706</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/06/autoregressive-models-explained/"/>
+        <updated>2026-06-16T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Autoregressive models are one of the most important ideas in time series forecasting and sequence modeling. The name may sound technical at first, but the concept is surprisingly intuitive. An autoregressive model predicts the next value by looking at previous values. That is the core idea. For example, tomorrow’s temperature may depend on the temperatures […]
+The post Autoregressive Models: Predicting the Future Using the Past appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetic document finetuning for instilling positive traits]]></title>
         <id>GTYJRLhqztxKF2v5R</id>
@@ -20,6 +97,26 @@ Introduction
 This work closely follows Li et al (model spec midtraining, or MSM), who show that by training a model on synthetic documents before chat finetuning starts, …]]></summary>
         <author>
             <name>CallumMcDougall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting model behavior before release by simulating deployment]]></title>
+        <id>https://openai.com/index/deployment-simulation</id>
+        <link href="https://openai.com/index/deployment-simulation"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails]]></title>
+        <id>6a30885987482776da85bfd7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/"/>
+        <updated>2026-06-15T23:18:49.000Z</updated>
+        <summary type="html"><![CDATA[In July 2025, a Claude Code recursion loop burned between 16,000 USD and 50,000 USD in five hours. There was no crash or error, just agents doing exactly what they were told, indefinitely, because nob]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
         </author>
     </entry>
     <entry>
@@ -3236,38 +3333,6 @@ The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science
         <summary type="html"><![CDATA[OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.]]></summary>
         <author>
             <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling]]></title>
-        <id>https://towardsdatascience.com/?p=609117</id>
-        <link href="https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/"/>
-        <updated>2026-05-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Billions of rows might be the exception, but for everything else, Pandas is still a highly reliable tool.
-The post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Soner Yıldırım</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships]]></title>
-        <id>https://towardsdatascience.com/?p=609115</id>
-        <link href="https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/"/>
-        <updated>2026-05-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.
-The post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.]]></title>
-        <id>https://www.interconnects.ai/p/latest-open-artifacts-21-open-model</id>
-        <link href="https://www.interconnects.ai/p/latest-open-artifacts-21-open-model"/>
-        <updated>2026-05-16T17:00:11.000Z</updated>
-        <summary type="html"><![CDATA[An eventful month with one flagship release after another]]></summary>
-        <author>
-            <name>Florian Brand</name>
         </author>
     </entry>
 </feed>

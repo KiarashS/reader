@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609381",
+          "author": "Stephanie Kirmer",
+          "description": "Budgets for AI tokens can’t be infinite, no matter how much hyperscalers wish they were\nThe post Drilling Into AI’s Financial Sustainability appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/drilling-into-ais-financial-sustainability/",
+          "publishedOn": "2026-06-16T16:30:00.000Z",
+          "wordCount": 4411,
+          "title": "Drilling Into AI’s Financial Sustainability",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image-254.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609379",
+          "author": "Sam Black",
+          "description": "Tired of your monthly API bill? Follow this tested guide to set up a high-performance local LLM on your Mac Mini without the headaches. \nThe post Run a Local LLM with OpenClaw on Your Mac Mini appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/run-a-local-llm-with-openclaw-on-your-mac-mini/",
+          "publishedOn": "2026-06-16T15:00:00.000Z",
+          "wordCount": 4740,
+          "title": "Run a Local LLM with OpenClaw on Your Mac Mini",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/93c5e532-5182-40a1-b6a5-d11734f86e68.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609377",
+          "author": "Emmimal P Alexander",
+          "description": "LLM rate limits don't just interrupt agent pipelines—they can silently corrupt structured outputs when fallback models receive incompatible payloads. I built a recovery layer that classifies failures, adapts payloads across model tiers, preserves execution state, and maintains schema integrity during provider swaps.\nThe post LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery Layer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-fallbacks-break-agent-pipelines-i-built-the-missing-recovery-layer/",
+          "publishedOn": "2026-06-16T13:30:00.000Z",
+          "wordCount": 6229,
+          "title": "LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery Layer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/LLM-Rate-Limit.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609375",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #6a] - Why a user question deserves the same parsing as the document, and how it splits into a retrieval brief and a generation brief before either runs\nThe post RAG Questions Need Parsing Too: Turn the User’s String Into Briefs for Retrieval and Generation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/question-parsing-in-rag-structure-before-you-search/",
+          "publishedOn": "2026-06-16T12:00:00.000Z",
+          "wordCount": 5605,
+          "title": "RAG Questions Need Parsing Too: Turn the User’s String Into Briefs for Retrieval and Generation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_old_and_rusty_36758467_v3_card.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609373",
           "author": "Eivind Kjosbakken",
           "description": "Increase productivity with your LLMs\nThe post How to Effectively Align with Claude Code appeared first on Towards Data Science.",
@@ -1150,26 +1190,6 @@
           "wordCount": 4832,
           "title": "How to Maximize OpenAI’s Codex",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-196.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609117",
-          "author": "Soner Yıldırım",
-          "description": "Billions of rows might be the exception, but for everything else, Pandas is still a highly reliable tool.\nThe post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/",
-          "publishedOn": "2026-05-17T15:00:00.000Z",
-          "wordCount": 4152,
-          "title": "Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/efe-yagiz-soysal-SgU7-iZn8m8-unsplash-Medium.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609115",
-          "author": "Emmimal P Alexander",
-          "description": "Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.\nThe post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/",
-          "publishedOn": "2026-05-17T13:00:00.000Z",
-          "wordCount": 7990,
-          "title": "LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Missing-Scoring-Layer.jpg"
         }
       ]
     },
@@ -1800,6 +1820,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a30885987482776da85bfd7",
+          "author": "Daniel Nwaneri",
+          "description": "In July 2025, a Claude Code recursion loop burned between 16,000 USD and 50,000 USD in five hours. There was no crash or error, just agents doing exactly what they were told, indefinitely, because nob",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/",
+          "publishedOn": "2026-06-15T23:18:49.000Z",
+          "wordCount": 4315,
+          "title": "How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e135008490269cb3022acbf/0b4027d7-f2d5-42d6-bdc5-5eeec278425d.png"
+        },
+        {
           "id": "6a2e0cb22e4a72670f854140",
           "author": "Djibril-M🍀",
           "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
@@ -2166,6 +2196,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255706",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Autoregressive models are one of the most important ideas in time series forecasting and sequence modeling. The name may sound technical at first, but the concept is surprisingly intuitive. An autoregressive model predicts the next value by looking at previous values. That is the core idea. For example, tomorrow’s temperature may depend on the temperatures […]\nThe post Autoregressive Models: Predicting the Future Using the Past appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/autoregressive-models-explained/",
+          "publishedOn": "2026-06-16T07:30:00.000Z",
+          "wordCount": null,
+          "title": "Autoregressive Models: Predicting the Future Using the Past",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255671",
           "author": "Vasu Deo Sankrityayan",
@@ -2537,6 +2578,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/deployment-simulation",
+          "author": null,
+          "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "link": "https://openai.com/index/deployment-simulation",
+          "publishedOn": "2026-06-16T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Predicting model behavior before release by simulating deployment",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-openai-partner-network",
           "author": null,
@@ -3055,6 +3106,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+          "author": "Nathan Lambert",
+          "description": "\"Interview\" #18",
+          "link": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+          "publishedOn": "2026-06-16T13:29:30.000Z",
+          "wordCount": null,
+          "title": "Frontier post-training recipe review with Finbarr Timbers",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/201754262/768200397f40335e04d3ab284c0ef0fb.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
           "author": "Nathan Lambert",
           "description": "It's a one-way door and we weren't ready for it.",
@@ -3133,22 +3200,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!-711!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F723ba9cb-c351-4b89-8860-2ac4eda7f335_2288x1584.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
-          "author": "Florian Brand",
-          "description": "An eventful month with one flagship release after another",
-          "link": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
-          "publishedOn": "2026-05-16T17:00:11.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!S79s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60acac9-5993-474e-84f9-8805792bddef_1024x576.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!S79s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60acac9-5993-474e-84f9-8805792bddef_1024x576.jpeg"
         }
       ]
     },
@@ -3157,6 +3208,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "xPXJfgqFTvuJxGZbE",
+          "author": "Tomek Korbak",
+          "description": "Paper link\nBefore releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of our pre-deployment safety review, we leverage targeted evaluations, red-teaming, and other checks to understand model behavior. We’ve now started using a method for simulating model deployments before they happen, which adds a complementary signal: a deployment-like preview of how a candidate model may behave before it reaches users.\nDeployment Simulation is a method for simulating a future deployment before it happens. We do so by replaying previous conversations in a privacy-preserving manner with a new candidate model. By doing so, we …",
+          "link": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating",
+          "publishedOn": "2026-06-16T19:55:05.000Z",
+          "wordCount": 17276,
+          "title": "Predicting LLM Safety Before Release by Simulating Deployment",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "GTYJRLhqztxKF2v5R",
           "author": "CallumMcDougall",
