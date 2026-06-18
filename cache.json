@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609391",
+          "author": "Fabio Oliveira",
+          "description": "How unit economics should set your classification cutoff, and why they rarely do.\nThe post Your Churn Threshold Is a Pricing Decision appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-churn-threshold-is-a-pricing-decision/",
+          "publishedOn": "2026-06-17T16:30:00.000Z",
+          "wordCount": 6048,
+          "title": "Your Churn Threshold Is a Pricing Decision",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/00_cover_burning_dollar-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609389",
+          "author": "Guangrui Xie",
+          "description": "Why production-level AI optimization modeling agent needs reproducibility and portability, and how IR helps achieve them\nThe post The Secret to Reproducible and Portable Optimization: ORPilot’s Intermediate Representation (IR) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-secret-to-reproducible-and-portable-optimization-orpilots-intermediate-representation-ir/",
+          "publishedOn": "2026-06-17T15:00:00.000Z",
+          "wordCount": 5989,
+          "title": "The Secret to Reproducible and Portable Optimization: ORPilot’s Intermediate Representation (IR)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Gemini_Generated_Image_f3s6k6f3s6k6f3s6.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609387",
+          "author": "Shuai Guo",
+          "description": "Most LLM applications need a clear workflow, not an autonomous agent. Here's how to build one in plain Python.\nThe post You Probably Don’t Need an Agent Framework appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/you-probably-dont-need-an-agent-framework/",
+          "publishedOn": "2026-06-17T13:30:00.000Z",
+          "wordCount": 6785,
+          "title": "You Probably Don’t Need an Agent Framework",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image-286.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609383",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #6b] - The five field families the parser reads straight from the user’s question, with the code that fills each one\nThe post What the Question Parser Extracts from a User String: Keywords, Scope, Shape, Decomposition, Clarification appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-the-question-parser-extracts-from-a-user-string-keywords-scope-shape-decomposition-clarification/",
+          "publishedOn": "2026-06-17T12:00:00.000Z",
+          "wordCount": 9114,
+          "title": "What the Question Parser Extracts from a User String: Keywords, Scope, Shape, Decomposition, Clarification",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_herbarium_cards_11066932_v3_card.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609381",
           "author": "Stephanie Kirmer",
           "description": "Budgets for AI tokens can’t be infinite, no matter how much hyperscalers wish they were\nThe post Drilling Into AI’s Financial Sustainability appeared first on Towards Data Science.",
@@ -1160,36 +1200,6 @@
           "wordCount": 4938,
           "title": "Six Choices Every AI Engineer Has to Make (and Nobody Teaches)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Captura-de-ecra-2026-05-11-152824.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609123",
-          "author": "Tomaz Bratanic",
-          "description": "Why MCP servers keep losing to CLIs once the agent gets a terminal\nThe post One Flexible Tool Beats a Hundred Dedicated Ones appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/one-flexible-tool-beats-a-hundred-dedicated-ones/",
-          "publishedOn": "2026-05-18T15:00:00.000Z",
-          "wordCount": 4782,
-          "title": "One Flexible Tool Beats a Hundred Dedicated Ones",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-178.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609121",
-          "author": "Ari Joury, PhD",
-          "description": "95% of enterprise AI pilots fail to launch. Why?\nThe post Why Your AI Demo Will Die in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/",
-          "publishedOn": "2026-05-18T13:30:00.000Z",
-          "wordCount": 4463,
-          "title": "Why Your AI Demo Will Die in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/lucid-origin_Photograph_of_a_winding_desert_road_through_reddish_hills_muted_copper_and_terra-0.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609119",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to get the most out of OpenAI's coding agent\nThe post How to Maximize OpenAI’s Codex appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-maximize-openais-codex/",
-          "publishedOn": "2026-05-18T12:00:00.000Z",
-          "wordCount": 4832,
-          "title": "How to Maximize OpenAI’s Codex",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-196.jpg"
         }
       ]
     },
@@ -1337,16 +1347,6 @@
           "wordCount": null,
           "title": "Prompt Engineering for Agentic AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24226",
-          "author": "Bala Priya C",
-          "description": "Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-          "link": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/",
-          "publishedOn": "2026-05-18T13:45:55.000Z",
-          "wordCount": null,
-          "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-          "imageUrl": null
         }
       ]
     },
@@ -1354,7 +1354,23 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22501",
+          "author": "Shuqi Ke",
+          "description": "Richard Sutton’s “Bitter Lesson” is usually read as a warning against building too much human knowledge into AI systems. Over the long run, the methods that win are not the ones that encode our clever intuition most directly, but the ones that scale: search, learning, and other general methods that can absorb more compute and data. Modern foundation model pre-training looks, at first glance, like a triumph of that lesson. We take a general architecture, expose it to massive data, and train it with a simple self-supervised objective. Language models predict the next token. Vision models reconstruct masked patches, align views, or match teacher representations. The recipe is simple and scalable. But there is a catch. Pre-training may follow the Bitter Lesson in how it trains the models, but not how it chooses what the model should be trained on. The objective is still chosen outside the training loop. We conduct a large pre-training run, evaluate downstream performance, adjust the recipe, and run again. The learner optimizes one self-supervised learning objective but the downstream feedback actually arrives only after the whole training process. This is a very coarse control loop. This paper asks whether that loop can be made more […]",
+          "link": "https://blog.ml.cmu.edu/2026/06/17/pre-training-isnt-bitter-enough/",
+          "publishedOn": "2026-06-17T13:09:10.000Z",
+          "wordCount": 1987,
+          "title": "Pre-Training Isn’t Bitter Enough",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/vpt-handmade.png",
+            "length": "2659375",
+            "type": "image/png"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/vpt-handmade.png"
+        }
+      ]
     },
     {
       "title": "Google AI Blog",
@@ -1396,6 +1412,46 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/allenai/molmomotion",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/molmomotion",
+          "publishedOn": "2026-06-17T15:26:44.000Z",
+          "wordCount": 2221,
+          "title": "MolmoMotion: Language-guided 3D motion forecasting",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/wdq3AFZcDZAekGTb16VDy.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+          "author": null,
+          "description": "A Blog post by Amazon on Hugging Face",
+          "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+          "publishedOn": "2026-06-17T10:18:05.000Z",
+          "wordCount": 3957,
+          "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/qvSGZ0tZsgr4U4BCx_bVX.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
+          "author": null,
+          "description": "A Blog post by Z.ai on Hugging Face",
+          "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+          "publishedOn": "2026-06-17T09:01:25.000Z",
+          "wordCount": 3111,
+          "title": "GLM-5.2: Built for Long-Horizon Tasks",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67066ea38a79951d7b8d4195/iaTHtYOBgeY0C3Xx3vymr.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+          "publishedOn": "2026-06-17T00:00:00.000Z",
+          "wordCount": 1419,
+          "title": "Agentic Resource Discovery: Let agents search",
+          "imageUrl": "https://huggingface.co/blog/assets/agentic-resource-discovery-launch/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/olmo-eval",
           "author": null,
@@ -1675,26 +1731,6 @@
           "wordCount": 2958,
           "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-          "author": null,
-          "description": "A Blog post by PaddlePaddle on Hugging Face",
-          "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-          "publishedOn": "2026-05-18T15:12:46.000Z",
-          "wordCount": 1217,
-          "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/Bl-qDWU9OfuXZ06hNxZE7.jpeg"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-          "publishedOn": "2026-05-18T14:12:58.000Z",
-          "wordCount": 1978,
-          "title": "The Open Agent Leaderboard",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/5fc0292de45c5468456e022b/CpwVutMu5EiniBliQ9RXs.png"
         }
       ]
     },
@@ -1830,6 +1866,16 @@
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e135008490269cb3022acbf/0b4027d7-f2d5-42d6-bdc5-5eeec278425d.png"
         },
         {
+          "id": "6a30800dc3625a1a686f75f8",
+          "author": "Mohammed Fahd Abrah",
+          "description": "For the last few years, Large Language Models have been impressing researchers with their ability to generate text, answer questions, translate languages, and perform tasks they had never been explici",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/",
+          "publishedOn": "2026-06-15T22:43:25.000Z",
+          "wordCount": 6275,
+          "title": "AI Paper Review: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0d9c4f6a-1352-431f-af2e-c08b0e128e39.png"
+        },
+        {
           "id": "6a2e0cb22e4a72670f854140",
           "author": "Djibril-M🍀",
           "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
@@ -1896,6 +1942,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a30800dc3625a1a686f75f8",
+          "author": "Mohammed Fahd Abrah",
+          "description": "For the last few years, Large Language Models have been impressing researchers with their ability to generate text, answer questions, translate languages, and perform tasks they had never been explici",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/",
+          "publishedOn": "2026-06-15T22:43:25.000Z",
+          "wordCount": 6275,
+          "title": "AI Paper Review: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0d9c4f6a-1352-431f-af2e-c08b0e128e39.png"
+        },
         {
           "id": "6a206bf72a223bf98b13dcfc",
           "author": "Mohammed Fahd Abrah",
@@ -2130,6 +2186,16 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=37336",
+          "author": "Sujana Urs",
+          "description": "iMerit placed 1st at CVPR 2026 Auto3D Challenge, outperforming 11 teams with a no-3D-label pipeline using SAM 3, CLIP, and LoRA adaptation.\nThe post How iMerit Won the CVPR 2026 Auto Annotation Challenge appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/how-imerit-won-the-cvpr-2026-auto-annotation-challenge/",
+          "publishedOn": "2026-06-17T16:31:05.000Z",
+          "wordCount": 3247,
+          "title": "How iMerit Won the CVPR 2026 Auto Annotation Challenge",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/06/Feature-IMG-How-iMerit-Won-the-CVPR-2026-Auto-Annotation-Challenge.png"
+        },
+        {
           "id": "https://imerit.ai/?p=37124",
           "author": "Srishty Sharon",
           "description": "As AI systems move beyond screens and servers into the physical world, one thing becomes clear: models trained only on\nThe post Top 10 Egocentric Video Datasets Advancing Physical AI and Robotics appeared first on iMerit.",
@@ -2196,6 +2262,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255740",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Having the right certificate can make all the difference. But with so many out there, getting the right one isn’t easy. That’s where OpenAI Academy comes in. OpenAI, the company behind the ChatGPT models, has introduced a learning platform through its OpenAI academy that offers AI courses for upskilling professionals. These courses cover topics like […]\nThe post OpenAI Just Launched 3 Free AI Courses with Certificates appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/free-openai-ai-courses-with-certificates/",
+          "publishedOn": "2026-06-17T10:30:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI Just Launched 3 Free AI Courses with Certificates",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255706",
           "author": "Vasu Deo Sankrityayan",
@@ -2492,17 +2569,6 @@
           "title": "40 Advanced SQL Window Functions Every Data Scientist Must Know(with examples)",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255078",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "AI research in 2025 was defined by major shifts. The industry moved beyond chatbots and into reasoning systems, autonomous agent and multimodal systems. Last year, companies like Google DeepMind, OpenAI, Anthropic, Meta, DeepSeek, and NVIDIA pushed AI research into new territory with papers focused on reasoning, coding agents, reinforcement learning, and scalable safety systems. Here […]\nThe post Top 10 AI Research Papers of 2025 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/top-ai-research-papers-of-2025/",
-          "publishedOn": "2026-05-18T12:15:26.000Z",
-          "wordCount": null,
-          "title": "Top 10 AI Research Papers of 2025",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2578,6 +2644,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/ai-chemist-improves-reaction",
+          "author": null,
+          "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+          "link": "https://openai.com/index/ai-chemist-improves-reaction",
+          "publishedOn": "2026-06-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-life-sci-bench",
+          "author": null,
+          "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+          "link": "https://openai.com/index/introducing-life-sci-bench",
+          "publishedOn": "2026-06-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing LifeSciBench",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/deployment-simulation",
           "author": null,
@@ -3087,16 +3173,6 @@
           "wordCount": null,
           "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "author": null,
-          "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-          "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "publishedOn": "2026-05-18T10:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-          "imageUrl": null
         }
       ]
     },
@@ -3105,6 +3181,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+          "author": "Nathan Lambert",
+          "description": "About 3 years since I started writing weekly.",
+          "link": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+          "publishedOn": "2026-06-17T14:29:06.000Z",
+          "wordCount": null,
+          "title": "State of the blog, mid-2026",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/06077e73-d656-4396-bda7-34b45e920822_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/06077e73-d656-4396-bda7-34b45e920822_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
           "author": "Nathan Lambert",
