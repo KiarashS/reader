@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609402",
+          "author": "Maria Mouschoutzi",
+          "description": "Getting reliable, readable responses out of your LLM, and knowing which tool to reach for\nThe post Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/",
+          "publishedOn": "2026-06-18T18:00:00.000Z",
+          "wordCount": 5261,
+          "title": "Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/BBD94E2D-CF75-487F-96CB-6BD5682C7CAC.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609400",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn about the upsides and downsides of Claude Fable 5\nThe post How Powerful is Claude Fable (Mythos) 5 for Coding? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-powerful-is-claude-fable-mythos-5-for-coding/",
+          "publishedOn": "2026-06-18T16:30:00.000Z",
+          "wordCount": 4862,
+          "title": "How Powerful is Claude Fable (Mythos) 5 for Coding?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/claude-fable-5-review_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609397",
+          "author": "Francisco Javier Lobo-Cabrera",
+          "description": "For decades, the existence of the hydrophobic core, a region in the 3D structure of proteins where hydrophobic amino acids reside together, has been considered a general property in proteins. What we have found now may extend that model. In particular, the rest of amino acids also seem to cluster together according to their chemical type (polar, acidic, basic, special), specifically in groups of ~8 units. This is what we have come to call the Mosaic Q model. Here is how we found it, along with tools for its quantification and visualization.\nThe post Proteins: A Mosaic Pattern to Rule Them All? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proteins-a-mosaic-pattern-to-rule-them-all/",
+          "publishedOn": "2026-06-18T15:00:00.000Z",
+          "wordCount": 5479,
+          "title": "Proteins: A Mosaic Pattern to Rule Them All?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/2BA1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609385",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #6c] - The decisions the parser makes on top of the user string, using the document’s profile: dispatch, activations, full schema, three approaches to deciding what fires, the audit _meta block, and a broker-corpus walkthrough\nThe post Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activations, Audit appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/dispatching-the-parsed-rag-question-chunk-strategy-model-tier-activations-audit/",
+          "publishedOn": "2026-06-18T13:30:00.000Z",
+          "wordCount": 8604,
+          "title": "Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activations, Audit",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_pressed_flowers_7341163_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609395",
+          "author": "Soner Yıldırım",
+          "description": "A hands-on guide to setting up image similarity search in Milvus, and why visual replication isn't always enough.\nThe post The Power and Pitfalls of Vector-Based Image Search appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-power-and-pitfalls-of-vector-based-image-search/",
+          "publishedOn": "2026-06-18T12:00:00.000Z",
+          "wordCount": 4638,
+          "title": "The Power and Pitfalls of Vector-Based Image Search",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/bohdan-stocek-8kCixqfgXjU-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609391",
           "author": "Fabio Oliveira",
           "description": "How unit economics should set your classification cutoff, and why they rarely do.\nThe post Your Churn Threshold Is a Pricing Decision appeared first on Towards Data Science.",
@@ -1180,26 +1230,6 @@
           "wordCount": 4814,
           "title": "Grounding LLMs with Fresh Web Data to Reduce Hallucinations",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/SerpApi-featured-image.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609127",
-          "author": "Partha Sarkar",
-          "description": "A scalable semantic localization layer for  entity and relationship reconciliation\nThe post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/",
-          "publishedOn": "2026-05-19T12:00:00.000Z",
-          "wordCount": 6758,
-          "title": "Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_y5bqaoy5bqaoy5bq-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609125",
-          "author": "Sara Nobrega",
-          "description": "The production trade-offs that only appear once your model is live.\nThe post Six Choices Every AI Engineer Has to Make (and Nobody Teaches) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/",
-          "publishedOn": "2026-05-18T16:30:00.000Z",
-          "wordCount": 4938,
-          "title": "Six Choices Every AI Engineer Has to Make (and Nobody Teaches)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Captura-de-ecra-2026-05-11-152824.jpg"
         }
       ]
     },
@@ -1337,16 +1367,6 @@
           "wordCount": 10162,
           "title": "Building Context-Aware Search in Python with LLM Embeddings + Metadata",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-context-aware-semantic-search.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24233",
-          "author": "Shittu Olumide",
-          "description": "You have probably spent time learning how to prompt AI well.",
-          "link": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/",
-          "publishedOn": "2026-05-19T12:00:06.000Z",
-          "wordCount": null,
-          "title": "Prompt Engineering for Agentic AI",
-          "imageUrl": null
         }
       ]
     },
@@ -1412,6 +1432,36 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "author": null,
+          "description": "A Blog post by ServiceNow on Hugging Face",
+          "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "publishedOn": "2026-06-18T18:13:13.000Z",
+          "wordCount": 2187,
+          "title": "MosaicLeaks: Can your research agent keep a secret?",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp"
+        },
+        {
+          "id": "https://huggingface.co/blog/peft-beyond-lora",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/peft-beyond-lora",
+          "publishedOn": "2026-06-18T00:00:00.000Z",
+          "wordCount": 3215,
+          "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "imageUrl": "https://huggingface.co/blog/assets/peft-beyond-lora/thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/is-it-agentic-enough",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/is-it-agentic-enough",
+          "publishedOn": "2026-06-18T00:00:00.000Z",
+          "wordCount": 3664,
+          "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+          "imageUrl": "https://huggingface.co/blog/assets/is-it-agentic-enough/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/molmomotion",
           "author": null,
@@ -1711,26 +1761,6 @@
           "wordCount": 1175,
           "title": "OlmoEarth v1.1: A more efficient family of models",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/19ZFgyFbi-kj2Yf0WUPGk.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ettin-reranker",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/ettin-reranker",
-          "publishedOn": "2026-05-19T00:00:00.000Z",
-          "wordCount": 6148,
-          "title": "Introducing the Ettin Reranker Family",
-          "imageUrl": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-          "publishedOn": "2026-05-18T16:00:21.000Z",
-          "wordCount": 2958,
-          "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation.png"
         }
       ]
     },
@@ -2244,16 +2274,6 @@
           "wordCount": 2646,
           "title": "Aligning LiDAR and Vision Data for Reliable Sensor Fusion",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Aligning-LiDAR-and-Vision-Data-for-Reliable-Sensor-Fusion.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=36426",
-          "author": "Sujana Urs",
-          "description": "The development of autonomous vehicles (AVs) is facing a data surge. Fleets with multi-sensor systems produce between 11 TB and\nThe post Sensor Data Triage Strategies for Scalable Autonomous Vehicle Training appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/sensor-data-triage-strategies-for-scalable-autonomous-vehicle-training/",
-          "publishedOn": "2026-05-19T15:00:32.000Z",
-          "wordCount": 2713,
-          "title": "Sensor Data Triage Strategies for Scalable Autonomous Vehicle Training",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Sensor-Data-Triage-Strategies-for-Scalable-Autonomous-Vehicle-Training.png"
         }
       ]
     },
@@ -2262,6 +2282,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255754",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Most people used ChatGPT like a smarter search engine. Ask a question, get an answer, and move on. It works but it leaves a surprising amount of value on the table. Over the past few years, ChatGPT has evolved far beyond a simple chatbot. It can browse the web, analyze files, generate images, maintain memory, […]\nThe post Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/chatgpt-tips-and-features/",
+          "publishedOn": "2026-06-18T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255740",
           "author": "Vasu Deo Sankrityayan",
@@ -2547,28 +2578,6 @@
           "title": "Gemini 3.5 Flash: Frontier Intelligence with Speed",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255106",
-          "author": "Harsh Mishra",
-          "description": "AI agents are evolving from answering questions to taking actions inside browsers. They can now open pages, click buttons, fill forms, extract data, and automate multi step workflows across websites. Moonshot AI’s Kimi WebBridge brings this capability to Chrome and Edge, allowing local AI agents to safely interact with real browser sessions. In this article, […]\nThe post Kimi WebBridge: Hands-on Guide to Kimi’s Browser Extension for AI Agents  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/kimi-webbridge/",
-          "publishedOn": "2026-05-19T11:57:28.000Z",
-          "wordCount": null,
-          "title": "Kimi WebBridge: Hands-on Guide to Kimi’s Browser Extension for AI Agents",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=254515",
-          "author": "Harshit Ahluwalia",
-          "description": "In the world of data science, SQL still remains the powerful tool for defining the data, data manipulation, data aggregation and data analysis. While basic SQL commands are very fundamental, and everyone knows about it. If you want to be the unique in the crowd then you should know advanced features like window functions that […]\nThe post 40 Advanced SQL Window Functions Every Data Scientist Must Know(with examples) appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/advanced-sql-window-functions/",
-          "publishedOn": "2026-05-18T19:47:54.000Z",
-          "wordCount": null,
-          "title": "40 Advanced SQL Window Functions Every Data Scientist Must Know(with examples)",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2598,26 +2607,6 @@
           "wordCount": 4316,
           "title": "Engineering for Annotation in the ML Pipeline | Part 3",
           "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-4-2026-01_11_35-PM.png"
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17266",
-          "author": "David M",
-          "description": "Boston, MA | May 27–28, 2026 RSIP Vision will be at DeviceTalks in Boston, MA 2026 RSIP Vision is heading to Boston for DeviceTalks. If you’re attending, we’d love to connect and discuss how AI and computer vision are transforming medical device development, from image-guided procedures to surgical robotics and next-generation MedTech. Our work helps …\n  RSIP Vision is attending DeviceTalks in Boston, MA Read More »\nThe post RSIP Vision is attending DeviceTalks in Boston, MA appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/rsip-vision-is-attending-devicetalks-in-boston-ma/",
-          "publishedOn": "2026-05-18T18:08:29.000Z",
-          "wordCount": null,
-          "title": "RSIP Vision is attending DeviceTalks in Boston, MA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.rsipvision.com/?p=17263",
-          "author": "David M",
-          "description": "RSIP Vision will be attending DeviceTalks in Boston, MA on May 27-28. We would enjoy being able to individually showcase RSIP’s new AI technology for computer vision and medical imaging. Our CEO Ron Soferman will be attending in Boston! Please fill out your information in this Google Form, so we can contact you. We would …\n  DeviceTalks | Boston, MA Read More »\nThe post DeviceTalks | Boston, MA appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/devicetalks-boston-ma/",
-          "publishedOn": "2026-05-18T17:57:54.000Z",
-          "wordCount": null,
-          "title": "DeviceTalks | Boston, MA",
-          "imageUrl": null
         }
       ]
     },
@@ -2644,6 +2633,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "author": null,
+          "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "publishedOn": "2026-06-18T17:00:00.000Z",
+          "wordCount": null,
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "author": null,
+          "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "publishedOn": "2026-06-18T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Improving health intelligence in ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "author": null,
+          "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+          "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "publishedOn": "2026-06-18T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/ai-chemist-improves-reaction",
           "author": null,
@@ -3163,16 +3182,6 @@
           "wordCount": null,
           "title": "Introducing OpenAI for Singapore",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/advancing-content-provenance",
-          "author": null,
-          "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-          "link": "https://openai.com/index/advancing-content-provenance",
-          "publishedOn": "2026-05-19T10:45:00.000Z",
-          "wordCount": null,
-          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-          "imageUrl": null
         }
       ]
     },
@@ -3300,6 +3309,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "hEtkyKGoPpFeWnKkX",
+          "author": "Mary Phuong",
+          "description": "GDM has published an AI Control Roadmap! From the executive summary:\n\nWe present the GDM AI Control Roadmap (v0.1) – our plan for implementing and adopting internal guardrails designed to catch potential adversarial behaviour by AI agents, even as they become increasingly harder to oversee and contain.\nWe focus on system-level mitigations that limit the harm a misaligned AI system could cause. Specifically, this report provides:\n• Threat modelling: Taking inspiration from cybersecurity, we adopt a conservative, worst-case approach to threat modelling throughout this paper, and assume a hypothetical AI adversary pursuing undesirable goals in internal deployment. We introduce TRAIT&R, a taxonomy of tactics and techniques available to such a hypothetical AI adversary, building on the establis…",
+          "link": "https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap",
+          "publishedOn": "2026-06-18T16:50:59.000Z",
+          "wordCount": 18705,
+          "title": "GDM AI Control Roadmap",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "xPXJfgqFTvuJxGZbE",
           "author": "Tomek Korbak",
