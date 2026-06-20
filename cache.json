@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609417",
+          "author": "Thomas Reid",
+          "description": "A technical overview and some benchmarks\nThe post Python 3.14 and its New JIT Compiler appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/python-3-14-and-its-new-jit-compiler/",
+          "publishedOn": "2026-06-19T18:00:00.000Z",
+          "wordCount": 5177,
+          "title": "Python 3.14 and its New JIT Compiler",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Untitledpython-jit.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609408",
+          "author": "David Redó Nieto",
+          "description": "Why Custom Inference in DeepStream?\nThe post Building a Custom GStreamer Plugin for NVIDIA DeepStream appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/",
+          "publishedOn": "2026-06-19T16:30:00.000Z",
+          "wordCount": 5020,
+          "title": "Building a Custom GStreamer Plugin for NVIDIA DeepStream",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/speed.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609406",
+          "author": "Ibrahim Salami",
+          "description": "What I thought was a scheduling problem turned out to be a portability problem first\nThe post I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-tried-to-schedule-my-etl-pipeline-heres-what-i-didnt-expect/",
+          "publishedOn": "2026-06-19T15:00:00.000Z",
+          "wordCount": 4625,
+          "title": "I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/etl-scheduling.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609411",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #5quinquies] - Same 1974 scanned PDF, two engines. EasyOCR recovers text. Docling recovers text + sections + figures. The structural gap makes one output usable downstream and the other one a flat string.\nThe post Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/",
+          "publishedOn": "2026-06-19T13:30:00.000Z",
+          "wordCount": 6045,
+          "title": "Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_antique_typewriter_37703243_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609404",
+          "author": "Anubhab Banerjee",
+          "description": "The PCIe transfer latency is silently bottlenecking your agentic inference. Here is how building a custom device-resident vector search kernel bypasses the CPU to unlock deterministic microsecond tail latencies.\nThe post GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/",
+          "publishedOn": "2026-06-19T12:00:00.000Z",
+          "wordCount": 9475,
+          "title": "GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/part3img1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609402",
           "author": "Maria Mouschoutzi",
           "description": "Getting reliable, readable responses out of your LLM, and knowing which tool to reach for\nThe post Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each appeared first on Towards Data Science.",
@@ -1180,56 +1230,6 @@
           "wordCount": 6659,
           "title": "Optimizing AI Agent Planning with Operations Research and Data Science",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Screenshot-2026-05-17-at-1.08.41-PM-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609143",
-          "author": "Eivind Kjosbakken",
-          "description": "Apply coding agents to your domain in a safe manner\nThe post How to Safely Run Coding Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-safely-run-coding-agents/",
-          "publishedOn": "2026-05-20T13:30:00.000Z",
-          "wordCount": 4673,
-          "title": "How to Safely Run Coding Agents",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-213.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609141",
-          "author": "Sara A. Metwalli",
-          "description": "The real challenge in building reliable AI\nThe post From Possible to Probable AI Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-possible-to-probable-ai-models/",
-          "publishedOn": "2026-05-20T12:00:00.000Z",
-          "wordCount": 4352,
-          "title": "From Possible to Probable AI Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/pexels-lenzatic-2073170-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609137",
-          "author": "Mustapha Momoh",
-          "description": "A practical walkthrough of building and deploying a multistage, multimodal recommender system on Amazon EKS, covering data pipelines, model training, Bloom filters, feature caching, and real-time ranking.\nThe post Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/",
-          "publishedOn": "2026-05-19T18:14:29.000Z",
-          "wordCount": 7031,
-          "title": "Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Blank-document-Page-10-4-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609134",
-          "author": "Ronen Lahat",
-          "description": "The syntax and semantics of mathematics\nThe post Introduction to Lean for Programmers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/introduction-to-lean-for-programmers/",
-          "publishedOn": "2026-05-19T17:43:51.000Z",
-          "wordCount": 6079,
-          "title": "Introduction to Lean for Programmers",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/1_BNWynsnuPqTcvT7058zrOw.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609129",
-          "author": "Kimberly Fessel",
-          "description": "Why production LLM systems need live web search to overcome knowledge cutoffs and stale training data\nThe post Grounding LLMs with Fresh Web Data to Reduce Hallucinations appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/",
-          "publishedOn": "2026-05-19T16:55:44.000Z",
-          "wordCount": 4814,
-          "title": "Grounding LLMs with Fresh Web Data to Reduce Hallucinations",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/SerpApi-featured-image.png"
         }
       ]
     },
@@ -1375,6 +1375,21 @@
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
       "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22518",
+          "author": "Naveen Raman",
+          "description": "In healthcare settings where patients use LLMs as a medical assistant, LLM performance differs between evaluation and deployment. (a) Bean et al. (2025) find a 61 percentage point difference between evaluation and deployment. (b) We argue this gap arises not from poorly designed benchmarks, but from implicit assumptions embedded in evaluation protocols that fail to hold at deployment. (c) We propose a taxonomy that categorizes assumptions into two types, task and outcome, to diagnose where the gap arises and what is required to close it. Closing the gap requires making assumptions explicit, testing which assumptions hold, and updating evaluation protocols accordingly. Healthcare LLM benchmarks are one of the main paradigms by which LLMs are evaluated prior to clinical settings. Benchmarks provide a stable goalpost that allow researchers to iterate quickly and measure progress consistently. However, in high-stakes domains like healthcare, that same abstraction becomes a liability. For example, a recent study found a 61 percentage point drop in accuracy when going from evaluation to deployment (see Figure). In this setting, patients use LLMs as a medical assistant to better understand their symptoms, identify the underlying condition, and take appropriate actions.  Moreover, the results showed that patients given access to a […]",
+          "link": "https://blog.ml.cmu.edu/2026/06/19/healthcare-benchmarks-are-only-as-good-as-their-assumptions/",
+          "publishedOn": "2026-06-19T13:03:35.000Z",
+          "wordCount": 2253,
+          "title": "Healthcare Benchmarks Are Only as Good as Their Assumptions",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/Evaluation-Position-Paper-3.pdf",
+            "length": "336423",
+            "type": "application/octet-stream"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/Evaluation-Position-Paper-3-pdf.jpg"
+        },
         {
           "id": "https://blog.ml.cmu.edu/?p=22501",
           "author": "Shuqi Ke",
@@ -1751,16 +1766,6 @@
           "wordCount": 3104,
           "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/specialization-beats-scale.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-          "publishedOn": "2026-05-19T18:38:09.000Z",
-          "wordCount": 1175,
-          "title": "OlmoEarth v1.1: A more efficient family of models",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/19ZFgyFbi-kj2Yf0WUPGk.png"
         }
       ]
     },
@@ -2179,6 +2184,21 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=79541",
+          "author": "Sudip Chakrabarty",
+          "description": "Learn how to fine-tune YOLO26 on your own data. We build a construction PPE safety detector and a sign-language reader using one simple workflow.\nHow to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/how-to-fine-tune-yolo26-for-safety-gear-and-sign-language-detection/",
+          "publishedOn": "2026-06-19T05:53:27.000Z",
+          "wordCount": 5420,
+          "title": "How to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection",
+          "enclosure": {
+            "url": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/17124056/yolo26_Finetuning_PPE_video_single_worker.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/17235330/YOLO26_Finetuning_Thumbnail_image.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=78946",
           "author": "Satya Mallick",
           "description": "Learn the Moondream Cloud API by running all five vision skills, caption, query, detect, point, and segment, on a single image with code and real outputs.\nHow to Unlock 5 Vision Skills with the Moondream Cloud API first appeared on LearnOpenCV.",
@@ -2215,6 +2235,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=37712",
+          "author": "Sujana Urs",
+          "description": "Discover how dexterous robots learn manipulation skills from human demonstrations using motion retargeting and imitation learning.\nThe post How Dexterous Robots Learn from Human Demonstrations appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/how-dexterous-robots-learn-from-human-demonstrations/",
+          "publishedOn": "2026-06-19T16:33:59.000Z",
+          "wordCount": 3096,
+          "title": "How Dexterous Robots Learn from Human Demonstrations",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/06/Feature-IMG-How-iMerit-Won-the-CVPR-2026-Auto-Annotation-Challenge.png"
+        },
         {
           "id": "https://imerit.ai/?p=37336",
           "author": "Sujana Urs",
@@ -2282,6 +2312,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255555",
+          "author": "Janvi Kumari",
+          "description": "ML system design interviews test how well you can think beyond models. In these interviews, choosing an algorithm is only one part of the answer. You also need to explain how data is collected, how features are created, how predictions are served, and how the system improves over time.  Most real ML systems are built […]\nThe post System Design for ML Interviews: 10 Real Problems Walked Through appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/",
+          "publishedOn": "2026-06-19T14:30:00.000Z",
+          "wordCount": null,
+          "title": "System Design for ML Interviews: 10 Real Problems Walked Through",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255754",
           "author": "Vasu Deo Sankrityayan",
@@ -2565,17 +2606,6 @@
           "publishedOn": "2026-05-20T16:28:40.000Z",
           "wordCount": null,
           "title": "Top 9 AI Events and Conferences in 2026 that you Must Attend",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255184",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Google Gemini’s next-generation family offering: Gemini 3.5 is here!  Gemini 3.5 Flash combines frontier intelligence with real-world action and supports high-speed agentic workflows, coding, and multimodal reasoning while maintaining the low latency expected from the Flash series. With Gemini 3.5 Pro, slated to be released in the next month, let’s take a look at the […]\nThe post Gemini 3.5 Flash: Frontier Intelligence with Speed appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/",
-          "publishedOn": "2026-05-20T07:56:55.000Z",
-          "wordCount": null,
-          "title": "Gemini 3.5 Flash: Frontier Intelligence with Speed",
           "itunes": {},
           "imageUrl": null
         }
@@ -3142,46 +3172,6 @@
           "wordCount": null,
           "title": "AdventHealth advances whole-person care with OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "author": null,
-          "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-          "publishedOn": "2026-05-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "author": null,
-          "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-          "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-          "publishedOn": "2026-05-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The next phase of OpenAI’s Education for Countries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ramp",
-          "author": null,
-          "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-          "link": "https://openai.com/index/ramp",
-          "publishedOn": "2026-05-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How Ramp engineers accelerate code review with Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-openai-for-singapore",
-          "author": null,
-          "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-          "link": "https://openai.com/index/introducing-openai-for-singapore",
-          "publishedOn": "2026-05-19T20:30:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI for Singapore",
-          "imageUrl": null
         }
       ]
     },
@@ -3190,6 +3180,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+          "author": "Nathan Lambert",
+          "description": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
+          "link": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+          "publishedOn": "2026-06-19T13:02:47.000Z",
+          "wordCount": null,
+          "title": "Banning Open Source AI Would Be A Mistake",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
           "author": "Nathan Lambert",
