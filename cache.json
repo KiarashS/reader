@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609421",
+          "author": "Hugo Lu",
+          "description": "What data teams need to build with AI to make self-healing data architecture a practical reality\nThe post 7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/",
+          "publishedOn": "2026-06-20T17:00:00.000Z",
+          "wordCount": 5143,
+          "title": "7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/utah.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609413",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #5sexies] - image_df tells you where every picture is. Turning the few that matter into searchable text is a separate, cost-ordered job\nThe post Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/",
+          "publishedOn": "2026-06-20T15:00:00.000Z",
+          "wordCount": 6239,
+          "title": "Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/photo_chest_7sPg5OLfExc_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609419",
+          "author": "Nikola Ilic",
+          "description": "Five surfaces collapsed into one declarative layer. Here's the full story of Materialized Lake Views in Microsoft Fabric - from syntax to the new GA capabilities\nThe post Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/",
+          "publishedOn": "2026-06-20T13:00:00.000Z",
+          "wordCount": 5962,
+          "title": "Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/MLV-main-copy.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609417",
           "author": "Thomas Reid",
           "description": "A technical overview and some benchmarks\nThe post Python 3.14 and its New JIT Compiler appeared first on Towards Data Science.",
@@ -1180,56 +1210,6 @@
           "wordCount": 5972,
           "title": "LLM Themes Are Not Observations",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/hero_notitle.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609153",
-          "author": "Haden Pelletier",
-          "description": "If you don't want to be left behind, start doing these things with Claude\nThe post 3 Claude Skills Every Data Scientist Needs in 2026 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/3-claude-skills-every-data-scientist-needs-in-2026/",
-          "publishedOn": "2026-05-21T15:00:00.000Z",
-          "wordCount": 4285,
-          "title": "3 Claude Skills Every Data Scientist Needs in 2026",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/planet-volumes-LTJGCRNEw7g-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609149",
-          "author": "Berend Markhorst",
-          "description": "Whenever you can rewrite an optimization problem so that fixing some variables makes the rest separable, you could try Benders.\nThe post Benders’ Decomposition 101: How to Crack Open a Stochastic Program That’s Too Big to Swallow Whole appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/benders-decomposition-101/",
-          "publishedOn": "2026-05-21T13:30:00.000Z",
-          "wordCount": 6240,
-          "title": "Benders’ Decomposition 101: How to Crack Open a Stochastic Program That’s Too Big to Swallow Whole",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/photo-1539992190939-08f22d7ebaad-1-scaled-1.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609151",
-          "author": "Emmimal P Alexander",
-          "description": "Most LLM failures in production aren’t random — they’re predictable.\nThe post Prompt Engineering Isn’t Enough — I Built a Control Layer That Works in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/prompt-engineering-isnt-enough-i-built-a-control-layer-that-works-in-production/",
-          "publishedOn": "2026-05-21T12:00:00.000Z",
-          "wordCount": 7499,
-          "title": "Prompt Engineering Isn’t Enough — I Built a Control Layer That Works in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Prompt-Engineering-Failed-in-Production.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609147",
-          "author": "Moritz Pfeifer",
-          "description": "How unlearning fixes mode collapse in synthetic survey replies\nThe post Can LLMs Replace Survey Respondents? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-llms-replace-survey-respondents/",
-          "publishedOn": "2026-05-20T18:26:36.000Z",
-          "wordCount": 4668,
-          "title": "Can LLMs Replace Survey Respondents?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/cubist_household_survey_lighter_mix.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609145",
-          "author": "Destin Gong",
-          "description": "AI agents can quickly become expensive without a clear strategy for planning, skill coverage, and budgets. This article shows how to use operations research and data science to optimize AI agent cost and resource allocation. You will learn how to frame common agent problems—skill coverage, project assignment, and budgeting—as set covering, assignment, and knapsack optimization models in Python using Gurobi. \nThe post Optimizing AI Agent Planning with Operations Research and Data Science appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/",
-          "publishedOn": "2026-05-20T17:28:12.000Z",
-          "wordCount": 6659,
-          "title": "Optimizing AI Agent Planning with Operations Research and Data Science",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Screenshot-2026-05-17-at-1.08.41-PM-scaled-1.jpg"
         }
       ]
     },
@@ -1238,6 +1218,46 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=24446",
+          "author": "Bala Priya C",
+          "description": "Let's not waste any more time.",
+          "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/",
+          "publishedOn": "2026-06-18T12:00:32.000Z",
+          "wordCount": 9436,
+          "title": "The Roadmap to Mastering AI Agent Evaluation",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-the-roadmap-to-mastering-ai-agent-evaluation.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24420",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Traditional machine learning pipelines for predictive tasks like text classification usually rely on extracting structured, numerical features from raw text — for instance, TF-IDF frequencies or token embeddings — to feed into classical models such as logistic regression, ensembles, or support vector machines.",
+          "link": "https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/",
+          "publishedOn": "2026-06-16T12:00:48.000Z",
+          "wordCount": 8929,
+          "title": "Building an End-to-End Sentiment Analysis Pipeline with Scikit-LLM",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24412",
+          "author": "Bala Priya C",
+          "description": "Most <a href=\"https://www.",
+          "link": "https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/",
+          "publishedOn": "2026-06-15T12:00:36.000Z",
+          "wordCount": 10111,
+          "title": "AI Agent Tool Design: What Works and What Doesn’t",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-agent-tool-design.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24427",
+          "author": "Matthew Mayo",
+          "description": "Transitioning from writing local experimental scripts to building scalable, production-grade AI systems requires a shift in how we write Python.",
+          "link": "https://machinelearningmastery.com/python-concepts-every-ai-engineer-must-master/",
+          "publishedOn": "2026-06-12T12:00:39.000Z",
+          "wordCount": 10788,
+          "title": "Python Concepts Every AI Engineer Must Master",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-python-concepts-every-ai-engineer-must-master.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=24397",
           "author": "Iván Palomares Carrascosa",
@@ -1824,16 +1844,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/MagenticLite-TWLIFB-1200x627-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1171880",
-          "author": "Srinath Setty",
-          "description": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. \nThe post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
-          "publishedOn": "2026-05-21T13:48:40.000Z",
-          "wordCount": 5331,
-          "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/VEGA-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -2586,28 +2596,6 @@
           "title": "Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255281",
-          "author": "Sarthak Dogra",
-          "description": "Google Search just went from being an encyclopedia to an assistant. That’s the crux of everything Google announced in its recent I/O conference for 2026. The buzzword is “AI agents”, which now enter Google Search, its coding platforms, and even get a whole new standalone app for themselves. The idea is to move from AI […]\nThe post The Biggest Announcements from Google I/O 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/google-i-o-2026-updates/",
-          "publishedOn": "2026-05-21T13:49:23.000Z",
-          "wordCount": null,
-          "title": "The Biggest Announcements from Google I/O 2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255101",
-          "author": "Sarthak Dogra",
-          "description": "By the middle of 2026, we can easily assume on thing about AI – it is far from the experimental stage. If not before, 2026 is the year when AI is moving deeper into products, workplaces, governments, and everyday decision-making. This shift is visible in the massive AI conferences that are now being held by […]\nThe post Top 9 AI Events and Conferences in 2026 that you Must Attend appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/top-ai-events-and-conferences-in-2026/",
-          "publishedOn": "2026-05-20T16:28:40.000Z",
-          "wordCount": null,
-          "title": "Top 9 AI Events and Conferences in 2026 that you Must Attend",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -3162,16 +3150,6 @@
           "wordCount": null,
           "title": "How Virgin Atlantic ships faster with Codex",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/adventhealth",
-          "author": null,
-          "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-          "link": "https://openai.com/index/adventhealth",
-          "publishedOn": "2026-05-21T12:00:00.000Z",
-          "wordCount": null,
-          "title": "AdventHealth advances whole-person care with OpenAI",
-          "imageUrl": null
         }
       ]
     },
@@ -3315,6 +3293,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "zoYXpdaMgFT43Wc24",
+          "author": "Josh Engels",
+          "description": "Authors: Joshua Engels*, Callum McDougall*, Bilal Chughtai*, Janos Kramar, Senthoran Rajamanoharan, Cindy Wu, Arthur Conmy, Asic Q Chen, Jean Tarbouriech, Min Ma, Brendan O'Donoghue+, João Gabriel Lopes de Oliveira+, Rohin Shah+, Neel Nanda+\n*Primary Contributor\n+Advising\nPaper here: https://arxiv.org/abs/2606.20560\n\nOverview\nIn a recent collaboration between the GDM interpretability team and the GDM text diffusion team, we performed a transparency audit of DiffusionGemma, GDM's new text diffusion model.\nOverall, we find that DiffusionGemma is not significantly less transparent than Gemma.\n\nGemma and DiffusionGemma perform similarly on monitorability evaluations.\nAlthough naively DiffusionGemma has a much larger opaque serial depth, we can apply the logit lens to intermediate vectors and a…",
+          "link": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
+          "publishedOn": "2026-06-20T20:05:50.000Z",
+          "wordCount": 23263,
+          "title": "How transparent is DiffusionGemma (and why it matters)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/zoYXpdaMgFT43Wc24/vfxvfplwnzttjbqexrm6"
+        },
         {
           "id": "hEtkyKGoPpFeWnKkX",
           "author": "Mary Phuong",
@@ -3523,16 +3511,6 @@
           "publishedOn": "2026-05-23T02:17:47.000Z",
           "wordCount": null,
           "title": "Looking for backdoors in Jane Street LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "J5KkwYnnaeNX7hL2s",
-          "author": "jsteinhardt",
-          "description": "Most evaluations of AI systems focus on their capabilities: how good they are at coding tasks, how effectively they can answer complex scientific questions, and so on.\nFrom a safety perspective, capability evaluations have a place: by understanding how close we are to different capabilities, and the rate of progress on them, we can forecast when different risks are likely to occur, as well as the broad shape of AI development. These capability evaluations were very useful to me when writing GPT-2030, and more recently I've found the METR time horizon graph useful for extrapolating the likely degree of autonomy of future agents.\nHowever, these evaluations also have pretty significant externalities: accurate capability measurements speed up capability research, and the work needed to fully e…",
-          "link": "https://www.alignmentforum.org/posts/J5KkwYnnaeNX7hL2s/the-case-for-evaluating-model-behaviors",
-          "publishedOn": "2026-05-20T18:42:36.000Z",
-          "wordCount": null,
-          "title": "The Case for Evaluating Model Behaviors",
           "imageUrl": null
         }
       ]

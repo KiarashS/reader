@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-20T02:57:54.274Z</updated>
+    <updated>2026-06-21T03:44:47.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How transparent is DiffusionGemma (and why it matters)]]></title>
+        <id>zoYXpdaMgFT43Wc24</id>
+        <link href="https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters"/>
+        <updated>2026-06-20T20:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Joshua Engels*, Callum McDougall*, Bilal Chughtai*, Janos Kramar, Senthoran Rajamanoharan, Cindy Wu, Arthur Conmy, Asic Q Chen, Jean Tarbouriech, Min Ma, Brendan O'Donoghue+, João Gabriel Lopes de Oliveira+, Rohin Shah+, Neel Nanda+
+*Primary Contributor
++Advising
+Paper here: https://arxiv.org/abs/2606.20560
+
+Overview
+In a recent collaboration between the GDM interpretability team and the GDM text diffusion team, we performed a transparency audit of DiffusionGemma, GDM's new text diffusion model.
+Overall, we find that DiffusionGemma is not significantly less transparent than Gemma.
+
+Gemma and DiffusionGemma perform similarly on monitorability evaluations.
+Although naively DiffusionGemma has a much larger opaque serial depth, we can apply the logit lens to intermediate vectors and a…]]></summary>
+        <author>
+            <name>Josh Engels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture]]></title>
+        <id>https://towardsdatascience.com/?p=609421</id>
+        <link href="https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/"/>
+        <updated>2026-06-20T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What data teams need to build with AI to make self-healing data architecture a practical reality
+The post 7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hugo Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All]]></title>
+        <id>https://towardsdatascience.com/?p=609413</id>
+        <link href="https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/"/>
+        <updated>2026-06-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5sexies] - image_df tells you where every picture is. Turning the few that matter into searchable text is a separate, cost-ordered job
+The post Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement]]></title>
+        <id>https://towardsdatascience.com/?p=609419</id>
+        <link href="https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/"/>
+        <updated>2026-06-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five surfaces collapsed into one declarative layer. Here's the full story of Materialized Lake Views in Microsoft Fabric - from syntax to the new GA capabilities
+The post Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikola Ilic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.14 and its New JIT Compiler]]></title>
         <id>https://towardsdatascience.com/?p=609417</id>
@@ -201,6 +254,16 @@ The post Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activa
 The post Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Roadmap to Mastering AI Agent Evaluation]]></title>
+        <id>https://machinelearningmastery.com/?p=24446</id>
+        <link href="https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/"/>
+        <updated>2026-06-18T12:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Let's not waste any more time.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -456,6 +519,16 @@ The post LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery La
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building an End-to-End Sentiment Analysis Pipeline with Scikit-LLM]]></title>
+        <id>https://machinelearningmastery.com/?p=24420</id>
+        <link href="https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/"/>
+        <updated>2026-06-16T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Traditional machine learning pipelines for predictive tasks like text classification usually rely on extracting structured, numerical features from raw text — for instance, TF-IDF frequencies or token embeddings — to feed into classical models such as logistic regression, ensembles, or support vector machines.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RAG Questions Need Parsing Too: Turn the User’s String Into Briefs for Retrieval and Generation]]></title>
         <id>https://towardsdatascience.com/?p=609375</id>
         <link href="https://towardsdatascience.com/question-parsing-in-rag-structure-before-you-search/"/>
@@ -574,6 +647,16 @@ The post The Protocol That Cleaned Up Our Agent Architecture appeared first on T
 The post I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions. appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent Tool Design: What Works and What Doesn’t]]></title>
+        <id>https://machinelearningmastery.com/?p=24412</id>
+        <link href="https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/"/>
+        <updated>2026-06-15T12:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Most <a href="https://www.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -835,6 +918,16 @@ The post I Thought Data Engineering Was Just Writing Scripts. I Was Wrong. appea
         <summary type="html"><![CDATA[The Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight missions in history. Episode 426.]]></summary>
         <author>
             <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Concepts Every AI Engineer Must Master]]></title>
+        <id>https://machinelearningmastery.com/?p=24427</id>
+        <link href="https://machinelearningmastery.com/python-concepts-every-ai-engineer-must-master/"/>
+        <updated>2026-06-12T12:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Transitioning from writing local experimental scripts to building scalable, production-grade AI systems requires a shift in how we write Python.]]></summary>
+        <author>
+            <name>Matthew Mayo</name>
         </author>
     </entry>
     <entry>
@@ -3318,116 +3411,6 @@ The post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized f
 The post LLM Themes Are Not Observations appeared first on Towards Data Science.]]></summary>
         <author>
             <name>William Gieng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Claude Skills Every Data Scientist Needs in 2026]]></title>
-        <id>https://towardsdatascience.com/?p=609153</id>
-        <link href="https://towardsdatascience.com/3-claude-skills-every-data-scientist-needs-in-2026/"/>
-        <updated>2026-05-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you don't want to be left behind, start doing these things with Claude
-The post 3 Claude Skills Every Data Scientist Needs in 2026 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Haden Pelletier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Announcements from Google I/O 2026]]></title>
-        <id>https://www.analyticsvidhya.com/?p=255281</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/google-i-o-2026-updates/"/>
-        <updated>2026-05-21T13:49:23.000Z</updated>
-        <summary type="html"><![CDATA[Google Search just went from being an encyclopedia to an assistant. That’s the crux of everything Google announced in its recent I/O conference for 2026. The buzzword is “AI agents”, which now enter Google Search, its coding platforms, and even get a whole new standalone app for themselves. The idea is to move from AI […]
-The post The Biggest Announcements from Google I/O 2026 appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vega: Zero-knowledge proofs for digital identity in the age of AI]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1171880</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/"/>
-        <updated>2026-05-21T13:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. 
-The post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Srinath Setty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benders’ Decomposition 101: How to Crack Open a Stochastic Program That’s Too Big to Swallow Whole]]></title>
-        <id>https://towardsdatascience.com/?p=609149</id>
-        <link href="https://towardsdatascience.com/benders-decomposition-101/"/>
-        <updated>2026-05-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Whenever you can rewrite an optimization problem so that fixing some variables makes the rest separable, you could try Benders.
-The post Benders’ Decomposition 101: How to Crack Open a Stochastic Program That’s Too Big to Swallow Whole appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Berend Markhorst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering Isn’t Enough — I Built a Control Layer That Works in Production]]></title>
-        <id>https://towardsdatascience.com/?p=609151</id>
-        <link href="https://towardsdatascience.com/prompt-engineering-isnt-enough-i-built-a-control-layer-that-works-in-production/"/>
-        <updated>2026-05-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most LLM failures in production aren’t random — they’re predictable.
-The post Prompt Engineering Isn’t Enough — I Built a Control Layer That Works in Production appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdventHealth advances whole-person care with OpenAI]]></title>
-        <id>https://openai.com/index/adventhealth</id>
-        <link href="https://openai.com/index/adventhealth"/>
-        <updated>2026-05-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Case for Evaluating Model Behaviors]]></title>
-        <id>J5KkwYnnaeNX7hL2s</id>
-        <link href="https://www.alignmentforum.org/posts/J5KkwYnnaeNX7hL2s/the-case-for-evaluating-model-behaviors"/>
-        <updated>2026-05-20T18:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Most evaluations of AI systems focus on their capabilities: how good they are at coding tasks, how effectively they can answer complex scientific questions, and so on.
-From a safety perspective, capability evaluations have a place: by understanding how close we are to different capabilities, and the rate of progress on them, we can forecast when different risks are likely to occur, as well as the broad shape of AI development. These capability evaluations were very useful to me when writing GPT-2030, and more recently I've found the METR time horizon graph useful for extrapolating the likely degree of autonomy of future agents.
-However, these evaluations also have pretty significant externalities: accurate capability measurements speed up capability research, and the work needed to fully e…]]></summary>
-        <author>
-            <name>jsteinhardt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can LLMs Replace Survey Respondents?]]></title>
-        <id>https://towardsdatascience.com/?p=609147</id>
-        <link href="https://towardsdatascience.com/can-llms-replace-survey-respondents/"/>
-        <updated>2026-05-20T18:26:36.000Z</updated>
-        <summary type="html"><![CDATA[How unlearning fixes mode collapse in synthetic survey replies
-The post Can LLMs Replace Survey Respondents? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Moritz Pfeifer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing AI Agent Planning with Operations Research and Data Science]]></title>
-        <id>https://towardsdatascience.com/?p=609145</id>
-        <link href="https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/"/>
-        <updated>2026-05-20T17:28:12.000Z</updated>
-        <summary type="html"><![CDATA[AI agents can quickly become expensive without a clear strategy for planning, skill coverage, and budgets. This article shows how to use operations research and data science to optimize AI agent cost and resource allocation. You will learn how to frame common agent problems—skill coverage, project assignment, and budgeting—as set covering, assignment, and knapsack optimization models in Python using Gurobi. 
-The post Optimizing AI Agent Planning with Operations Research and Data Science appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Destin Gong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 9 AI Events and Conferences in 2026 that you Must Attend]]></title>
-        <id>https://www.analyticsvidhya.com/?p=255101</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/top-ai-events-and-conferences-in-2026/"/>
-        <updated>2026-05-20T16:28:40.000Z</updated>
-        <summary type="html"><![CDATA[By the middle of 2026, we can easily assume on thing about AI – it is far from the experimental stage. If not before, 2026 is the year when AI is moving deeper into products, workplaces, governments, and everyday decision-making. This shift is visible in the massive AI conferences that are now being held by […]
-The post Top 9 AI Events and Conferences in 2026 that you Must Attend appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sarthak Dogra</name>
         </author>
     </entry>
 </feed>
