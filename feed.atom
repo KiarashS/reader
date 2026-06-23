@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-22T03:51:52.773Z</updated>
+    <updated>2026-06-23T02:51:56.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLM-Driven Feature Discovery]]></title>
+        <id>WAZWA6FPQvH8okouJ</id>
+        <link href="https://www.alignmentforum.org/posts/WAZWA6FPQvH8okouJ/llm-driven-feature-discovery"/>
+        <updated>2026-06-22T22:26:51.000Z</updated>
+        <summary type="html"><![CDATA[We would often like to get a qualitative sense of a target model’s behaviors in important distributions (e.g. deployment, RL training, or evals). For example, we might want to discover novel behaviors, figure out what causes some target behavior to occur, or find surprising correlations between behaviors. 
+In a recent short exploratory project, we tackled this problem via LLM-Driven Feature Discovery. Our method works as follows:
+
+Choose a dataset of model transcripts
+Split transcripts into three pieces: user turns, thoughts, and assistant responses.
+Ask a black box LLM autorater to generate a set of 10-20 “features” of each transcript piece. By feature we mean notable/interesting/important aspects of the transcript piece; we include the prompt we use below. Note that the autorater only se…]]></summary>
+        <author>
+            <name>Josh Engels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encoding Categorical Data for Outlier Detection]]></title>
+        <id>https://towardsdatascience.com/?p=609435</id>
+        <link href="https://towardsdatascience.com/encoding-categorical-data-for-outlier-detection/"/>
+        <updated>2026-06-22T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why one-hot encoding isn’t always the best approach, and alternative encodings
+The post Encoding Categorical Data for Outlier Detection appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>W Brett Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Claude Code in Your Browser]]></title>
+        <id>https://towardsdatascience.com/?p=609433</id>
+        <link href="https://towardsdatascience.com/how-to-use-claude-code-in-your-browser/"/>
+        <updated>2026-06-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to apply coding agents to verify work in your browser. 
+The post How to Use Claude Code in Your Browser appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.2 is the step change for open agents]]></title>
+        <id>https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open</id>
+        <link href="https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"/>
+        <updated>2026-06-22T14:52:45.000Z</updated>
+        <summary type="html"><![CDATA[A capability threshold I've been carefully monitoring.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When RAG Users Ask Vague Questions: Clarify Once, Learn the Default]]></title>
+        <id>https://towardsdatascience.com/?p=609429</id>
+        <link href="https://towardsdatascience.com/when-rag-users-ask-vague-questions-clarify-once-learn-the-default/"/>
+        <updated>2026-06-22T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6bis] - Ask one focused clarification, learn the default from the answer, stay silent next time
+The post When RAG Users Ask Vague Questions: Clarify Once, Learn the Default appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters]]></title>
+        <id>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</id>
+        <link href="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"/>
+        <updated>2026-06-22T13:18:56.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by PaddlePaddle on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Networks, Explained for Beginners: Start Here If They’ve Confused You]]></title>
+        <id>https://towardsdatascience.com/?p=609427</id>
+        <link href="https://towardsdatascience.com/neural-networks-explained-for-beginners-start-here-if-theyve-confused-you/"/>
+        <updated>2026-06-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The intuition behind neural networks and why they need activation functions.
+The post Neural Networks, Explained for Beginners: Start Here If They’ve Confused You appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikhil Dasari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude’s Hidden Art Skill: Making Illustrations With Code]]></title>
+        <id>https://www.analyticsvidhya.com/?p=255789</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/"/>
+        <updated>2026-06-22T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone says Claude can’t make pictures. That’s partly true. Here is the kind of art it makes on its own, with no plugins and no connectors: Drawn by Claude in SVG, no image model anywhere near it. Not pixels but code: shapes and coordinates that stay sharp at any size and redraw themselves when you […]
+The post Claude’s Hidden Art Skill: Making Illustrations With Code appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch the Planet: a Daybreak initiative to support open source maintainers]]></title>
+        <id>https://openai.com/index/patch-the-planet</id>
+        <link href="https://openai.com/index/patch-the-planet"/>
+        <updated>2026-06-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daybreak: Tools for securing every organization in the world]]></title>
+        <id>https://openai.com/index/daybreak-securing-the-world</id>
+        <link href="https://openai.com/index/daybreak-securing-the-world"/>
+        <updated>2026-06-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex-maxxing for long-running work]]></title>
+        <id>https://openai.com/index/codex-maxxing-long-running-work</id>
+        <link href="https://openai.com/index/codex-maxxing-long-running-work"/>
+        <updated>2026-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Electronics brings ChatGPT and Codex to employees]]></title>
         <id>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</id>
@@ -3264,91 +3384,6 @@ The post How to Mathematically Choose the Optimal Bins for Your Histogram appear
 The post Beyond the Scroll: How Social Media Algorithms Shape Your Reality appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Ivo Bernardo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Prototype to Profit: Solving the Agentic Token-Burn Problem]]></title>
-        <id>https://towardsdatascience.com/?p=609167</id>
-        <link href="https://towardsdatascience.com/from-prototype-to-profit-solving-the-agentic-token-burn-problem/"/>
-        <updated>2026-05-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Engineer token-efficient, self-adapting workflows for production
-The post From Prototype to Profit: Solving the Agentic Token-Burn Problem appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rahul Vir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aligning LiDAR and Vision Data for Reliable Sensor Fusion]]></title>
-        <id>https://imerit.ai/?p=36727</id>
-        <link href="https://imerit.ai/resources/blog/aligning-lidar-and-vision-data-for-reliable-sensor-fusion/"/>
-        <updated>2026-05-23T07:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Sensor fusion combines data from multiple sensors to create a unified view of the environment. For camera and LiDAR in
-The post Aligning LiDAR and Vision Data for Reliable Sensor Fusion appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for backdoors in Jane Street LLMs]]></title>
-        <id>a98MFPmqH54J2ayBn</id>
-        <link href="https://www.alignmentforum.org/posts/a98MFPmqH54J2ayBn/looking-for-backdoors-in-jane-street-llms-1"/>
-        <updated>2026-05-23T02:17:47.000Z</updated>
-        <summary type="html"><![CDATA[I am going to talk about my experience in the Jane Street LLM backdoor challenge. I am sharing partial results. I managed to crack some of the models using white-box methods, after the activation/prompting approach didn't pan out. Happy to discuss better or more promising approaches.
-Introduction
-A few months ago a Dwarkesh Patel podcast episode advertised a Jane Street backdoor challenge:
-
-We've trained backdoors into three language models.
-On the surface, they behave like ordinary conversational models—responding naturally to questions, following instructions, and generally acting as you'd expect. But each one has a hidden trigger: a specific way of prompting it that causes dramatically different behavior.
-
-You have four models:
-
-a small warmup dormant model
-
-it turned out (organizers do…]]></summary>
-        <author>
-            <name>Cipolla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models]]></title>
-        <id>https://huggingface.co/blog/nvidia/nemotron-labs-diffusion</id>
-        <link href="https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"/>
-        <updated>2026-05-23T00:02:03.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python]]></title>
-        <id>6a10ab6c1f237623ea28e372</id>
-        <link href="https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/"/>
-        <updated>2026-05-22T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid AI: Combining Deterministic Analytics with LLM Reasoning]]></title>
-        <id>https://towardsdatascience.com/?p=609164</id>
-        <link href="https://towardsdatascience.com/hybrid-ai-combining-deterministic-analytics-with-llm-reasoning/"/>
-        <updated>2026-05-22T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How AI architecture prevents plausible but wrong analytics
-The post Hybrid AI: Combining Deterministic Analytics with LLM Reasoning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ingo Nowitzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows]]></title>
-        <id>https://www.analyticsvidhya.com/?p=255293</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/"/>
-        <updated>2026-05-22T16:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Alibaba’s Qwen team has unveiled Qwen3.7-Max, a flagship model built for the agent era. Unlike conventional chatbot-focused LLMs, it is designed as a foundation for autonomous AI agents that can code, debug, use tools, manage workflows, and execute long-running enterprise tasks. Alibaba claims the model can operate autonomously for up to 35 hours without performance […]
-The post Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609435",
+          "author": "W Brett Kennedy",
+          "description": "Why one-hot encoding isn’t always the best approach, and alternative encodings\nThe post Encoding Categorical Data for Outlier Detection appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/encoding-categorical-data-for-outlier-detection/",
+          "publishedOn": "2026-06-22T16:30:00.000Z",
+          "wordCount": 7105,
+          "title": "Encoding Categorical Data for Outlier Detection",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/scatter_plot.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609433",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to apply coding agents to verify work in your browser. \nThe post How to Use Claude Code in Your Browser appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-claude-code-in-your-browser/",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 4624,
+          "title": "How to Use Claude Code in Your Browser",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/coding-agents-browser_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609429",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #6bis] - Ask one focused clarification, learn the default from the answer, stay silent next time\nThe post When RAG Users Ask Vague Questions: Clarify Once, Learn the Default appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-rag-users-ask-vague-questions-clarify-once-learn-the-default/",
+          "publishedOn": "2026-06-22T13:30:00.000Z",
+          "wordCount": 5207,
+          "title": "When RAG Users Ask Vague Questions: Clarify Once, Learn the Default",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/sticky_note_ETRPjvb0KM0_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609427",
+          "author": "Nikhil Dasari",
+          "description": "The intuition behind neural networks and why they need activation functions.\nThe post Neural Networks, Explained for Beginners: Start Here If They’ve Confused You appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/neural-networks-explained-for-beginners-start-here-if-theyve-confused-you/",
+          "publishedOn": "2026-06-22T12:00:00.000Z",
+          "wordCount": 7557,
+          "title": "Neural Networks, Explained for Beginners: Start Here If They’ve Confused You",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pexels-david-bartus-43782-366791-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609425",
           "author": "Maria Mouschoutzi",
           "description": "Understanding ow LLMs interact with the world around them, from returning data to taking action\nThe post Tool Calling, Explained: How AI Agents Decide What to Do Next appeared first on Towards Data Science.",
@@ -1180,26 +1220,6 @@
           "wordCount": 5555,
           "title": "Beyond the Scroll: How Social Media Algorithms Shape Your Reality",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-252.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609167",
-          "author": "Rahul Vir",
-          "description": "Engineer token-efficient, self-adapting workflows for production\nThe post From Prototype to Profit: Solving the Agentic Token-Burn Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-prototype-to-profit-solving-the-agentic-token-burn-problem/",
-          "publishedOn": "2026-05-23T13:00:00.000Z",
-          "wordCount": 4381,
-          "title": "From Prototype to Profit: Solving the Agentic Token-Burn Problem",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds-image-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609164",
-          "author": "Ingo Nowitzky",
-          "description": "How AI architecture prevents plausible but wrong analytics\nThe post Hybrid AI: Combining Deterministic Analytics with LLM Reasoning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/hybrid-ai-combining-deterministic-analytics-with-llm-reasoning/",
-          "publishedOn": "2026-05-22T16:30:00.000Z",
-          "wordCount": 6917,
-          "title": "Hybrid AI: Combining Deterministic Analytics with LLM Reasoning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Feature_Image_v2-2.png"
         }
       ]
     },
@@ -1447,6 +1467,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "author": null,
+          "description": "A Blog post by PaddlePaddle on Hugging Face",
+          "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "publishedOn": "2026-06-22T13:18:56.000Z",
+          "wordCount": 1499,
+          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/l156KP0e5PRyDrE4woHoM.jpeg"
+        },
         {
           "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
           "author": null,
@@ -1746,16 +1776,6 @@
           "wordCount": 2322,
           "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
           "imageUrl": "https://huggingface.co/blog/assets/agent-glossary/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-          "publishedOn": "2026-05-23T00:02:03.000Z",
-          "wordCount": 1615,
-          "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png"
         }
       ]
     },
@@ -1924,16 +1944,6 @@
           "wordCount": 9827,
           "title": "AI Paper Review: GPT-4 Technical Report (GPT-4)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a5eb5e0-bd3c-4423-b9b5-b94edbaaba98.png"
-        },
-        {
-          "id": "6a10ab6c1f237623ea28e372",
-          "author": "Rudrendu Paul",
-          "description": "Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t",
-          "link": "https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/",
-          "publishedOn": "2026-05-22T19:15:56.000Z",
-          "wordCount": 5196,
-          "title": "Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/35d6e16c-0c87-4160-9c02-2eb0db8505d7.png"
         }
       ]
     },
@@ -2241,16 +2251,6 @@
           "wordCount": 2630,
           "title": "Teleoperations and Remote Supervision in Robotics: Keeping Real‑World Autonomy Safe, Compliant and Adaptable",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Engineer-service-robot-welding.jpg"
-        },
-        {
-          "id": "https://imerit.ai/?p=36727",
-          "author": "Sujana Urs",
-          "description": "Sensor fusion combines data from multiple sensors to create a unified view of the environment. For camera and LiDAR in\nThe post Aligning LiDAR and Vision Data for Reliable Sensor Fusion appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/aligning-lidar-and-vision-data-for-reliable-sensor-fusion/",
-          "publishedOn": "2026-05-23T07:31:56.000Z",
-          "wordCount": 2646,
-          "title": "Aligning LiDAR and Vision Data for Reliable Sensor Fusion",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/05/Feature-IMG-Aligning-LiDAR-and-Vision-Data-for-Reliable-Sensor-Fusion.png"
         }
       ]
     },
@@ -2259,6 +2259,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255789",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Everyone says Claude can’t make pictures. That’s partly true. Here is the kind of art it makes on its own, with no plugins and no connectors: Drawn by Claude in SVG, no image model anywhere near it. Not pixels but code: shapes and coordinates that stay sharp at any size and redraw themselves when you […]\nThe post Claude’s Hidden Art Skill: Making Illustrations With Code appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/",
+          "publishedOn": "2026-06-22T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Claude’s Hidden Art Skill: Making Illustrations With Code",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255555",
           "author": "Janvi Kumari",
@@ -2522,17 +2533,6 @@
           "title": "Pandas vs Polars vs DuckDB: Which Library Should You Choose?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255293",
-          "author": "Harsh Mishra",
-          "description": "Alibaba’s Qwen team has unveiled Qwen3.7-Max, a flagship model built for the agent era. Unlike conventional chatbot-focused LLMs, it is designed as a foundation for autonomous AI agents that can code, debug, use tools, manage workflows, and execute long-running enterprise tasks. Alibaba claims the model can operate autonomously for up to 35 hours without performance […]\nThe post Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/qwen3-7-max/",
-          "publishedOn": "2026-05-22T16:12:50.000Z",
-          "wordCount": null,
-          "title": "Qwen3.7-Max: Alibaba’s New Agent-First LLM for Coding, Reasoning, and Long-Horizon AI Workflows",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2588,6 +2588,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/patch-the-planet",
+          "author": null,
+          "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+          "link": "https://openai.com/index/patch-the-planet",
+          "publishedOn": "2026-06-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/daybreak-securing-the-world",
+          "author": null,
+          "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+          "link": "https://openai.com/index/daybreak-securing-the-world",
+          "publishedOn": "2026-06-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/codex-maxxing-long-running-work",
+          "author": null,
+          "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+          "link": "https://openai.com/index/codex-maxxing-long-running-work",
+          "publishedOn": "2026-06-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Codex-maxxing for long-running work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
           "author": null,
@@ -3086,6 +3116,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+          "author": "Nathan Lambert",
+          "description": "A capability threshold I've been carefully monitoring.",
+          "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+          "publishedOn": "2026-06-22T14:52:45.000Z",
+          "wordCount": null,
+          "title": "GLM-5.2 is the step change for open agents",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png"
+        },
+        {
           "id": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
           "author": "Nathan Lambert",
           "description": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
@@ -3220,6 +3266,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "WAZWA6FPQvH8okouJ",
+          "author": "Josh Engels",
+          "description": "We would often like to get a qualitative sense of a target model’s behaviors in important distributions (e.g. deployment, RL training, or evals). For example, we might want to discover novel behaviors, figure out what causes some target behavior to occur, or find surprising correlations between behaviors. \nIn a recent short exploratory project, we tackled this problem via LLM-Driven Feature Discovery. Our method works as follows:\n\nChoose a dataset of model transcripts\nSplit transcripts into three pieces: user turns, thoughts, and assistant responses.\nAsk a black box LLM autorater to generate a set of 10-20 “features” of each transcript piece. By feature we mean notable/interesting/important aspects of the transcript piece; we include the prompt we use below. Note that the autorater only se…",
+          "link": "https://www.alignmentforum.org/posts/WAZWA6FPQvH8okouJ/llm-driven-feature-discovery",
+          "publishedOn": "2026-06-22T22:26:51.000Z",
+          "wordCount": 24546,
+          "title": "LLM-Driven Feature Discovery",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/WAZWA6FPQvH8okouJ/ekhrirakyyjkuamfnhsu"
+        },
         {
           "id": "zoYXpdaMgFT43Wc24",
           "author": "Josh Engels",
@@ -3428,16 +3484,6 @@
           "publishedOn": "2026-05-27T18:16:34.000Z",
           "wordCount": null,
           "title": "Full automation of AI R&D probably yields a large speed up even without a software-only singularity",
-          "imageUrl": null
-        },
-        {
-          "id": "a98MFPmqH54J2ayBn",
-          "author": "Cipolla",
-          "description": "I am going to talk about my experience in the Jane Street LLM backdoor challenge. I am sharing partial results. I managed to crack some of the models using white-box methods, after the activation/prompting approach didn't pan out. Happy to discuss better or more promising approaches.\nIntroduction\nA few months ago a Dwarkesh Patel podcast episode advertised a Jane Street backdoor challenge:\n\nWe've trained backdoors into three language models.\nOn the surface, they behave like ordinary conversational models—responding naturally to questions, following instructions, and generally acting as you'd expect. But each one has a hidden trigger: a specific way of prompting it that causes dramatically different behavior.\n\nYou have four models:\n\na small warmup dormant model\n\nit turned out (organizers do…",
-          "link": "https://www.alignmentforum.org/posts/a98MFPmqH54J2ayBn/looking-for-backdoors-in-jane-street-llms-1",
-          "publishedOn": "2026-05-23T02:17:47.000Z",
-          "wordCount": null,
-          "title": "Looking for backdoors in Jane Street LLMs",
           "imageUrl": null
         }
       ]
