@@ -12,6 +12,66 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/",
+          "author": "Emmimal P Alexander",
+          "description": "I benchmarked raw chat history, vector-only RAG, and a context graph on the same multi-agent conversations. The results exposed a surprising weakness in relational retrieval.\nThe post Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/",
+          "publishedOn": "2026-06-25T18:37:53.000Z",
+          "wordCount": 6852,
+          "title": "Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Context-Graph.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609506",
+          "author": "Sandeep Bharadwaj Mannapur",
+          "description": "A reproducible benchmark on latency, cost, and reproducibility, and where agents actually earn their keep.\nThe post The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/",
+          "publishedOn": "2026-06-25T18:00:00.000Z",
+          "wordCount": 6291,
+          "title": "The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/01_architecture-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609504",
+          "author": "Gustavo Santos",
+          "description": "Whether you should stick to a classic Ordinary Least Squares regression, introduce interaction terms, or pivot to a Tweedie distribution depends entirely on how your data handles the messy reality of zeros and extreme outliers.\nThe post Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-the-straight-line-choosing-between-ols-interaction-terms-and-tweedie-regression/",
+          "publishedOn": "2026-06-25T16:30:00.000Z",
+          "wordCount": 5946,
+          "title": "Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Gemini_Generated_Image_p2smljp2smljp2sm.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609498",
+          "author": "Anubhab Banerjee",
+          "description": "Beat the 8GB VRAM limit. Learn how to run three different LLMs on a single 8GB GPU using C++ layer multiplexing and admission control.\nThe post 3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/3-agents-3-llms-1-aging-gpu-engineering-parallel-inference-on-bare-metal/",
+          "publishedOn": "2026-06-25T15:00:00.000Z",
+          "wordCount": 7309,
+          "title": "3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/vram_conductor_overview.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609450",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #7C] - One LLM call ranks the candidates with reasons. The output is one typed object your auditor can defend\nThe post An LLM as arbiter in RAG retrieval: picking the right candidate with reasons appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/letting-an-llm-pick-the-right-rag-page-the-arbiter-pattern-at-the-end-of-retrieval/",
+          "publishedOn": "2026-06-25T13:30:00.000Z",
+          "wordCount": 8874,
+          "title": "An LLM as arbiter in RAG retrieval: picking the right candidate with reasons",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_matryoshka_closeup_35307475_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609461",
+          "author": "Ibrahim Salami",
+          "description": "A reflection on the first month of learning data engineering in public, and what actually kept me going.\nThe post One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/one-month-into-learning-data-engineering-in-public-heres-what-i-didnt-write-about/",
+          "publishedOn": "2026-06-25T12:00:00.000Z",
+          "wordCount": 4337,
+          "title": "One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Gemini_Generated_Image_ry2woery2woery2w-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609459",
           "author": "JUNIOR JUMBONG",
           "description": "Turning model coefficients into a 0–1000 score, with risk classes and stability checks\nThe post How to Build a Credit Scoring Grid From a Logistic Regression Model appeared first on Towards Data Science.",
@@ -1220,46 +1280,6 @@
           "wordCount": 4325,
           "title": "The AI Model Confidence Trap",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/pexels-exeroniq-36444164-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609187",
-          "author": "Clara Chong",
-          "description": "How I turned 100 messy pdfs into structured insights by building a deterministic loop around agents\nThe post Stop Using LLMs Like Giant Problem Solvers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-using-llms-like-giant-problem-solvers/",
-          "publishedOn": "2026-05-26T13:30:00.000Z",
-          "wordCount": 4100,
-          "title": "Stop Using LLMs Like Giant Problem Solvers",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/documents-medium-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609185",
-          "author": "Alle Sravani",
-          "description": "How shifting the operational focus from isolated data products to systemic domain architecture resolves technical bottlenecks and optimizes platform investment.\nThe post The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-domain-shift-moving-data-governance-from-product-triage-to-infrastructure-investment/",
-          "publishedOn": "2026-05-26T12:00:00.000Z",
-          "wordCount": 4376,
-          "title": "The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-01_27_30-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609183",
-          "author": "Ibrahim Salami",
-          "description": "A beginner's honest walkthrough of Extract, Transform, Load using the GitHub API\nThe post I Built My First ETL Pipeline as a Complete Beginner. Here’s How. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-my-first-etl-pipeline-as-a-complete-beginner-heres-exactly-how/",
-          "publishedOn": "2026-05-25T17:37:48.000Z",
-          "wordCount": 4412,
-          "title": "I Built My First ETL Pipeline as a Complete Beginner. Here’s How.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/etl-building.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609181",
-          "author": "JUNIOR JUMBONG",
-          "description": "What a recent study on ChatGPT, Python, R, and Stata tells us about AI-assisted coding for causal inference\nThe post Can AI Write Your Code? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-ai-write-your-code/",
-          "publishedOn": "2026-05-25T17:15:24.000Z",
-          "wordCount": 5877,
-          "title": "Can AI Write Your Code?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-22-mai-2026-00_25_05.jpg"
         }
       ]
     },
@@ -1437,16 +1457,6 @@
           "wordCount": 8168,
           "title": "The Statistics of Token Selection: Logits, Temperature, and Top-P Walkthrough",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24269",
-          "author": "Matthew Mayo",
-          "description": "In a <a href=\"https://machinelearningmastery.",
-          "link": "https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/",
-          "publishedOn": "2026-05-26T12:00:51.000Z",
-          "wordCount": 11168,
-          "title": "Building a Multi-Tool Gemma 4 Agent with Error Recovery",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-building-a-multi-tool-gemma-4-agent-with-error-recovery.png"
         }
       ]
     },
@@ -1527,6 +1537,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/vllm-jobs",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/vllm-jobs",
+          "publishedOn": "2026-06-26T00:00:00.000Z",
+          "wordCount": 1808,
+          "title": "Run a vLLM Server on HF Jobs in One Command",
+          "imageUrl": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+          "publishedOn": "2026-06-25T16:11:42.000Z",
+          "wordCount": 1604,
+          "title": "Which tokens does a hybrid model predict better?",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F1-AlOdxpdaxe6a5BXuU7.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
           "author": null,
@@ -1893,13 +1923,34 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+          "author": null,
+          "description": "Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset size $D$, and compute $C$, following a power-law curve, which appears as a straight line on a log-log plot. We can view scaling laws as a framework for describing the relationship between compute, loss, model size and data; at its core, it is about how to allocate precious compute optimally between $N$ and $D$.",
+          "link": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+          "publishedOn": "2026-06-24T00:00:00.000Z",
+          "wordCount": 13074,
+          "title": "Scaling Laws, Carefully",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Microsoft Research",
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1176573",
+          "author": "Chandan Singh, Jianfeng Gao",
+          "description": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.\nThe post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+          "publishedOn": "2026-06-25T16:00:00.000Z",
+          "wordCount": 4320,
+          "title": "Understanding the brain with AI-driven explanations and experiments",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/UnderstandingtheBrain-TWLIFB-1200x627-1-scaled.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
           "author": "Jeremiah (Miah) Wander, Cas Simons",
@@ -2305,16 +2356,6 @@
           "wordCount": 5378,
           "title": "JEE Advanced 2026: We Tested AI on the Toughest Exam",
           "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/01021715/JEE-Advanced-2026_Feature-Image.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=79207",
-          "author": "Sudip Chakrabarty",
-          "description": "Master Qwen3-VL Embedding and Reranker for multimodal retrieval: text, image, video, mixed-modal queries, and a two-stage pipeline that boosts precision.\nHow to Master Qwen3-VL Embedding and Reranker for Multimodal Search first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/how-to-master-qwen3-vl-embedding-and-reranker-for-multimodal-search/",
-          "publishedOn": "2026-05-26T05:42:21.000Z",
-          "wordCount": 6754,
-          "title": "How to Master Qwen3-VL Embedding and Reranker for Multimodal Search",
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/05/24231235/qwen3vl_thumbnail-scaled.jpg"
         }
       ]
     },
@@ -2390,6 +2431,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255870",
+          "author": "Vipin Vashisth",
+          "description": "Most AI agents today follow fixed instructions and never get smarter on their own. They finish a task, forget what happened, and repeat the same mistakes tomorrow. A new design called the self-improving loop changes this. It lets agents learn from every result and improve over time. This guide explains the self-improving loop in clear, […]\nThe post The Self-Improving Loop in AI Agents: Architecture, Benefits, and How it Outperforms Traditional Agent Workflows appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/self-improving-loops/",
+          "publishedOn": "2026-06-25T06:25:24.000Z",
+          "wordCount": null,
+          "title": "The Self-Improving Loop in AI Agents: Architecture, Benefits, and How it Outperforms Traditional Agent Workflows",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255892",
           "author": "Riya Bansal",
@@ -2642,17 +2694,6 @@
           "title": "PySpark Optimization: 12 Proven Techniques to Speed Up Your Spark Jobs",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255361",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Most AI automation content sounds useful, but then leaves you with one big question: where to start? Instead of only talking about automation, you probably want to create real-world automation workflows with minimal coding. That’s where the power of low-code platforms like n8n comes into play. Here are 10 everyday tasks you can AI automate […]\nThe post 10 Everyday Tasks You Can Automate with AI Today (With n8n Templates) appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/05/everyday-ai-automation-using-n8n/",
-          "publishedOn": "2026-05-26T09:15:56.000Z",
-          "wordCount": null,
-          "title": "10 Everyday Tasks You Can Automate with AI Today (With n8n Templates)",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2708,6 +2749,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/how-agents-are-transforming-work",
+          "author": null,
+          "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+          "link": "https://openai.com/index/how-agents-are-transforming-work",
+          "publishedOn": "2026-06-25T02:00:00.000Z",
+          "wordCount": null,
+          "title": "How agents are transforming work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
           "author": null,
