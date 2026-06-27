@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-26T02:57:38.571Z</updated>
+    <updated>2026-06-27T02:47:37.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deployment Awareness Matters More Than Evaluation Awareness]]></title>
+        <id>XP794SHDuXYfWLrvJ</id>
+        <link href="https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness"/>
+        <updated>2026-06-26T22:54:06.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+
+Evaluation awareness — an AI recognizing it's being evaluated — is a widely discussed concept in AI safety. But there is a closely related concept that we claim is more important: deployment awareness, the AI's ability to recognize when it is not being evaluated and when its actions matter. A misaligned AI with deployment awareness can game evaluations without any evaluation awareness at all, with a simple strategy: act aligned by default, and deviate only when confident you're in real deployment and your actions matter for your goals. This requires two ingredients — occasionally recognizable deployment situations, and enough self-reflective and strategic reasoning for the AI to anticipate and plan around this. We think "deployment awareness" better identifies what makes evaluations…]]></summary>
+        <author>
+            <name>VojtaKovarik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Local LLM to Tool-Using Agent]]></title>
+        <id>https://towardsdatascience.com/?p=609528</id>
+        <link href="https://towardsdatascience.com/from-local-llm-to-tool-using-agent/"/>
+        <updated>2026-06-26T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using Gemma 4, Ollama, OpenAI Agents SDK, and Tavily MCP to build a lightweight research agent
+The post From Local LLM to Tool-Using Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Case for Model Forensics]]></title>
+        <id>LCGcD28rSMkMTMvBK</id>
+        <link href="https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics"/>
+        <updated>2026-06-26T15:09:10.000Z</updated>
+        <summary type="html"><![CDATA[If we had a misalignment warning shot, would we be able to tell?
+Suppose an AI company catches their model taking an egregious action, like deleting oversight code that monitors its actions. Should they sound the alarm? A key piece of evidence to determine what to do next – such as what mitigations to take – is to understand why the model took the action. If the model was just confused (e.g. it may have been trying to reduce latency), a simple mitigation like a regex classifier that blocks destructive actions until a user approves should suffice to prevent the behavior. But if this was intentional subversion, the model will circumvent the regex, and more robust, expensive mitigations are needed. This motivates the need for a follow-up investigation into the concerning behavior, a problem w…]]></summary>
+        <author>
+            <name>aditya singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation]]></title>
+        <id>https://towardsdatascience.com/?p=609526</id>
+        <link href="https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/"/>
+        <updated>2026-06-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why memorizing for the exam doesn't mean you understand the subject
+The post Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISS Results: Wayfinding]]></title>
+        <id>daae0d06-7163-11f1-9a3a-0bbed6c1c3d0</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-wayfinding/"/>
+        <updated>2026-06-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Giuseppe Iaria discusses scientific results from the Wayfinding investigation on space station and what it reveals about how astronauts navigate, adapt, and form mental maps in space. Episode 427.]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify the Expert: A Philosophy for Building Enterprise RAG]]></title>
+        <id>https://towardsdatascience.com/?p=609515</id>
+        <link href="https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/"/>
+        <updated>2026-06-26T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #M1] - The thesis behind every architectural choice in this series
+The post Amplify the Expert: A Philosophy for Building Enterprise RAG appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ace Data and ML Behavioural Interviews]]></title>
+        <id>https://towardsdatascience.com/?p=609513</id>
+        <link href="https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/"/>
+        <updated>2026-06-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to smash through data / ML behavioural interviews
+The post How to Ace Data and ML Behavioural Interviews appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using AI When You Don’t Trust AI]]></title>
+        <id>https://www.analyticsvidhya.com/?p=255907</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/"/>
+        <updated>2026-06-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You’ve heard the warnings! Don’t tell ChatGPT your secrets. The robots are reading everything. Your data is the product. And yet here you are: using them as a subscriber. Because AI is genuinely useful! The good news: that distrust is healthy, and you don’t have to choose between using AI and protecting yourself. You can […]
+The post Using AI When You Don’t Trust AI appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previewing GPT-5.6 Sol: a next-generation model]]></title>
+        <id>https://openai.com/index/previewing-gpt-5-6-sol</id>
+        <link href="https://openai.com/index/previewing-gpt-5-6-sol"/>
+        <updated>2026-06-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run a vLLM Server on HF Jobs in One Command]]></title>
         <id>https://huggingface.co/blog/vllm-jobs</id>
@@ -3458,141 +3556,6 @@ The post Extending Human Intelligence Through AI appeared first on Microsoft Res
 The post Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most AI Agents Fail in Production Because They’re Built Backwards]]></title>
-        <id>https://towardsdatascience.com/?p=609195</id>
-        <link href="https://towardsdatascience.com/most-ai-agents-fail-in-production-because-theyre-built-backwards/"/>
-        <updated>2026-05-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Good models don't save bad architecture, and most teams learn that the hard way.
-The post Most AI Agents Fail in Production Because They’re Built Backwards appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySpark Optimization: 12 Proven Techniques to Speed Up Your Spark Jobs]]></title>
-        <id>https://www.analyticsvidhya.com/?p=255221</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/05/proven-techniques-to-speed-up-your-spark-jobs/"/>
-        <updated>2026-05-27T13:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Modern data pipelines handle massive volumes of structured and unstructured data every day. As datasets grow, poorly optimized Spark jobs become slower, more expensive, and harder to scale. Common issues include long execution times, excessive shuffling, memory bottlenecks, and inefficient joins. Effective PySpark optimization can significantly improve performance, reduce infrastructure costs, and enhance cluster efficiency. […]
-The post PySpark Optimization: 12 Proven Techniques to Speed Up Your Spark Jobs appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vipin Vashisth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Statistics of Token Selection: Logits, Temperature, and Top-P Walkthrough]]></title>
-        <id>https://machinelearningmastery.com/?p=24056</id>
-        <link href="https://machinelearningmastery.com/the-statistics-of-token-selection-logits-temperature-and-top-p-walkthrough/"/>
-        <updated>2026-05-27T12:00:05.000Z</updated>
-        <summary type="html"><![CDATA[When large language models, or LLMs for short, produce outputs, several criteria are at stake, including not only overall response relevance but also coherence and creativity.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Requested It. I Built It. Nobody Ever Used It.]]></title>
-        <id>https://towardsdatascience.com/?p=609193</id>
-        <link href="https://towardsdatascience.com/they-requested-it-i-built-it-nobody-ever-used-it/"/>
-        <updated>2026-05-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why good data work gets ignored after delivery.
-The post They Requested It. I Built It. Nobody Ever Used It. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hayden Kastens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco and OpenAI redefine enterprise engineering with Codex]]></title>
-        <id>https://openai.com/index/cisco</id>
-        <link href="https://openai.com/index/cisco"/>
-        <updated>2026-05-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building self-improving tax agents with Codex]]></title>
-        <id>https://openai.com/index/building-self-improving-tax-agents-with-codex</id>
-        <link href="https://openai.com/index/building-self-improving-tax-agents-with-codex"/>
-        <updated>2026-05-27T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reachy Mini goes fully local]]></title>
-        <id>https://huggingface.co/blog/local-reachy-mini-conversation</id>
-        <link href="https://huggingface.co/blog/local-reachy-mini-conversation"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL]]></title>
-        <id>https://huggingface.co/blog/delta-weight-sync</id>
-        <link href="https://huggingface.co/blog/delta-weight-sync"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warp’s big bet on building open source with GPT-5.5]]></title>
-        <id>https://openai.com/index/warp</id>
-        <link href="https://openai.com/index/warp"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Election information and safeguards in 2026]]></title>
-        <id>https://openai.com/index/election-safeguards-2026</id>
-        <link href="https://openai.com/index/election-safeguards-2026"/>
-        <updated>2026-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Data Agent?]]></title>
-        <id>https://towardsdatascience.com/?p=609191</id>
-        <link href="https://towardsdatascience.com/what-is-a-data-agent/"/>
-        <updated>2026-05-26T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A simple explanation of what a data agent is and how it works
-The post What Is a Data Agent? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Marina Tosic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some ideas for what comes next, May 2026]]></title>
-        <id>https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may</id>
-        <link href="https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may"/>
-        <updated>2026-05-26T15:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles and more.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Model Confidence Trap]]></title>
-        <id>https://towardsdatascience.com/?p=609189</id>
-        <link href="https://towardsdatascience.com/the-ai-model-confidence-trap/"/>
-        <updated>2026-05-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why your AI model can be wrong with 99% confidence
-The post The AI Model Confidence Trap appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
         </author>
     </entry>
 </feed>
