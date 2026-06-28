@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-06-27T02:47:37.972Z</updated>
+    <updated>2026-06-28T03:29:36.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We Built a Routing Layer to Cut Our AI Costs. It Broke the Product.]]></title>
+        <id>https://towardsdatascience.com/?p=609550</id>
+        <link href="https://towardsdatascience.com/we-built-a-routing-layer-to-cut-our-ai-costs-it-broke-the-product/"/>
+        <updated>2026-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A team cut their AI inference bill by more than half. Three months later, customer satisfaction was dropping and the cost savings were tied to the quality loss. Cost-optimization routing layers are a Pareto trap, and here's the detection methodology that catches them in days instead of months.
+The post We Built a Routing Layer to Cut Our AI Costs. It Broke the Product. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pratik R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
+        <id>https://towardsdatascience.com/?p=609541</id>
+        <link href="https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/"/>
+        <updated>2026-06-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use coding agents to power your knowledge base
+The post How to Build a Powerful LLM Knowledge Base appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deployment Awareness Matters More Than Evaluation Awareness]]></title>
         <id>XP794SHDuXYfWLrvJ</id>
@@ -3376,186 +3398,6 @@ The post EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What
 The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research.]]></summary>
         <author>
             <name>Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Infrastructure Behind Making Local LLM Agents Actually Useful]]></title>
-        <id>https://towardsdatascience.com/?p=609206</id>
-        <link href="https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/"/>
-        <updated>2026-05-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lessons from building a fast, reliable scientific agent with local open-weight models, vLLM, and long-context infrastructure
-The post The Infrastructure Behind Making Local LLM Agents Actually Useful appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hussen Mohammed Ibrahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Still Can’t Solve Your Real Mathematical Optimization Problem]]></title>
-        <id>https://towardsdatascience.com/?p=609204</id>
-        <link href="https://towardsdatascience.com/why-ai-still-cant-solve-your-real-mathematical-optimization-problem-and-what-orpilot-does-differently/"/>
-        <updated>2026-05-28T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[And what ORPilot does differently
-The post Why AI Still Can’t Solve Your Real Mathematical Optimization Problem appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Guangrui Xie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Context Pruning Pipeline for Long-Running Agents]]></title>
-        <id>https://machinelearningmastery.com/?p=24111</id>
-        <link href="https://machinelearningmastery.com/building-a-context-pruning-pipeline-for-long-running-agents/"/>
-        <updated>2026-05-28T12:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Modern AI agents built on top of large language models (LLMs) are designed to run continuously.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation]]></title>
-        <id>https://towardsdatascience.com/?p=609202</id>
-        <link href="https://towardsdatascience.com/diffujudge-av-a-diffusion-inspired-framework-for-calibrated-av-video-evaluation/"/>
-        <updated>2026-05-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A diffusion-inspired framework for stress-testing and denoising LLM-as-a-Judge pipelines, applied to safety-critical driving video.
-The post DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Huma Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Endava builds an agentic organization with Codex]]></title>
-        <id>https://openai.com/index/endava</id>
-        <link href="https://openai.com/index/endava"/>
-        <updated>2026-05-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUFG aims to become AI-native with OpenAI]]></title>
-        <id>https://openai.com/index/mufg</id>
-        <link href="https://openai.com/index/mufg"/>
-        <updated>2026-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Frontier Governance Framework]]></title>
-        <id>https://openai.com/index/openai-frontier-governance-framework</id>
-        <link href="https://openai.com/index/openai-frontier-governance-framework"/>
-        <updated>2026-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: GPT-4 Technical Report (GPT-4)]]></title>
-        <id>6a17653cbadcd8afcb2bb430</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/"/>
-        <updated>2026-05-27T21:42:20.000Z</updated>
-        <summary type="html"><![CDATA[When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: GPT-4 Technical Report (GPT-4)]]></title>
-        <id>6a17653cbadcd8afcb2bb430</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/"/>
-        <updated>2026-05-27T21:42:20.000Z</updated>
-        <summary type="html"><![CDATA[When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eval Cooperativeness May Be a Scalable Mitigation for Eval Gaming]]></title>
-        <id>j8fkk38B8L7hEcGtg</id>
-        <link href="https://www.alignmentforum.org/posts/j8fkk38B8L7hEcGtg/eval-cooperativeness-may-be-a-scalable-mitigation-for-eval"/>
-        <updated>2026-05-27T19:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Behavioral evaluations may become worthless, which we think would be a disaster. Smart misaligned models may realize they are being evaluated ("eval awareness") and then act to look good to us so we don't realize they're misaligned ("eval gaming"). We think increasing eval cooperativeness might be a more scalable solution to eval gaming than reducing eval awareness.
-
-Eval cooperativeness: A situational desire to help the developers acquire whatever information they are trying to acquire through their evaluations.
-
-
-
-
-"I cannot tell a lie... I would sabotage with my own command line."[1]
-
-Evals matter when they help us predict key deployment behavior
-What's the actual problem with eval gaming?
-The point of an evaluation is to let us draw inferences about the model's behavior in a different …]]></summary>
-        <author>
-            <name>Jasmine Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 5.24.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a1744de55ebcb4416af74a5</id>
-        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7"/>
-        <updated>2026-05-27T19:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full automation of AI R&D probably yields a large speed up even without a software-only singularity]]></title>
-        <id>jfwhvd43sbpkGTLyn</id>
-        <link href="https://www.alignmentforum.org/posts/jfwhvd43sbpkGTLyn/full-automation-of-ai-r-and-d-probably-yields-a-large-speed"/>
-        <updated>2026-05-27T18:16:34.000Z</updated>
-        <summary type="html"><![CDATA[This is a somewhat technical note.
-By "software-only singularity", I mean that, after full automation of AI R&D, progress gets faster and faster due to smarter AIs driving increasingly fast rates of improvement in algorithms (overcoming diminishing returns), and that this lasts long enough to yield a large amount of progress (e.g. at least 4 years of progress in 1 year). The equivalent statement in jargon is: r is significantly greater than 1 (implying progress is getting faster and faster) and this remains the case for long enough to get large amounts of progress. For context, see How quick and big would a software intelligence explosion be?
-Even without a "software-only singularity", I think full automation of AI R&D probably greatly speeds up progress for two main reasons:
-You get a one…]]></summary>
-        <author>
-            <name>ryan_greenblatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM]]></title>
-        <id>https://huggingface.co/blog/ibm-research/itbench-aa</id>
-        <link href="https://huggingface.co/blog/ibm-research/itbench-aa"/>
-        <updated>2026-05-27T17:20:29.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Effectively Run Many Claude Code Sessions in Parallel]]></title>
-        <id>https://towardsdatascience.com/?p=609199</id>
-        <link href="https://towardsdatascience.com/how-to-effectively-run-many-claude-code-sessions-in-parallel/"/>
-        <updated>2026-05-27T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Keep an overview of all your coding agents that run in parallel
-The post How to Effectively Run Many Claude Code Sessions in Parallel appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extending Human Intelligence Through AI]]></title>
-        <id>https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"/>
-        <updated>2026-05-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.
-The post Extending Human Intelligence Through AI appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Ken Archer, Harald Wiltsche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model]]></title>
-        <id>https://towardsdatascience.com/?p=609197</id>
-        <link href="https://towardsdatascience.com/learning-from-pairwise-preferences-an-introduction-to-the-bradley-terry-model/"/>
-        <updated>2026-05-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Turn Simple Head-to-Head Choices Into Probabilistic Rankings
-The post Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
         </author>
     </entry>
 </feed>
