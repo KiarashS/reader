@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609599",
+          "author": "Nahid Ahmadvand",
+          "description": "An end-to-end classical NLP experiment on Kaggle’s Spooky Author Identification task: from Vowpal Wabbit and TF-IDF/NB-SVM baselines to a tuned stacked ensemble, with a compact representation survey of Bag-of-Words, BM25, Word2Vec, and FastText for context.\nThe post How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-far-can-classical-nlp-go-from-bag-of-words-to-stacking-on-spooky-author-identification/",
+          "publishedOn": "2026-06-29T17:34:26.000Z",
+          "wordCount": 6264,
+          "title": "How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-05_07_07-AM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609564",
+          "author": "Emmimal P Alexander",
+          "description": "Small prompt changes can silently break critical behavior in production. This article introduces a practical framework to detect hidden regressions before users notice.\nThe post Prompt Engineering Fails Quietly —  Prompt Regression Is Why appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/prompt-engineering-fails-quietly-prompt-regression-is-why/",
+          "publishedOn": "2026-06-29T15:00:00.000Z",
+          "wordCount": 6337,
+          "title": "Prompt Engineering Fails Quietly —  Prompt Regression Is Why",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Prompt-Engineering.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609562",
+          "author": "Rashi Desai",
+          "description": "The tools I use for analytics and reporting have changed more than I expected, yet my questions for any analytics project haven't moved much.\nThe post I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-completed-five-years-in-analytics-consulting-5-lessons-that-changed-how-i-work/",
+          "publishedOn": "2026-06-29T13:30:00.000Z",
+          "wordCount": 4553,
+          "title": "I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/fiona-smallwood-T64_Ysj_EMQ-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609560",
+          "author": "Sara Nobrega",
+          "description": "The rise of small language models\nThe post How to Choose Between Small and Frontier Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/",
+          "publishedOn": "2026-06-29T12:00:00.000Z",
+          "wordCount": 5312,
+          "title": "How to Choose Between Small and Frontier Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-09_33_20-AM.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609558",
           "author": "Frank Wittkampf",
           "description": "Behind a customer's API, a high-quality answer isn't enough. It has to be usable, which means on time. Delivering that consistently is a problem about variance, not speed, and the fixes are counterintuitive.\nThe post Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows appeared first on Towards Data Science.",
@@ -1200,36 +1240,6 @@
           "wordCount": 11740,
           "title": "Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/rushikesh-gaikwad-mPEVZmwdlUw-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609226",
-          "author": "Chien Vu Minh",
-          "description": "Most engineers see quantization as shrinking vectors. TurboQuant asks a harder question: can you shrink them without breaking their geometry?\nThe post Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/",
-          "publishedOn": "2026-05-30T13:00:00.000Z",
-          "wordCount": 6298,
-          "title": "Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/turboquant_thumbnail-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609231",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol. 1 #1] The smallest version of RAG that actually works, on a real PDF, with grounded answers and the source lines highlighted.\nThe post Baseline Enterprise RAG, From PDF to Highlighted Answer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/",
-          "publishedOn": "2026-05-29T19:10:22.000Z",
-          "wordCount": 11229,
-          "title": "Baseline Enterprise RAG, From PDF to Highlighted Answer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/curvd-TOO1RFQEnQk-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609222",
-          "author": "Emmimal P Alexander",
-          "description": "Most RAG systems are optimized for answer quality, not cost—and that blind spot gets expensive fast. In this article, I break down a production-ready cost control layer combining semantic caching, query routing, token budgeting, and circuit breaking, achieving an 85% reduction in LLM costs without sacrificing answer quality.\nThe post RAG Is Burning Money — I Built a Cost Control Layer to Fix It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-is-burning-money-i-built-a-cost-control-layer-to-fix-it/",
-          "publishedOn": "2026-05-29T16:30:00.000Z",
-          "wordCount": 7549,
-          "title": "RAG Is Burning Money — I Built a Cost Control Layer to Fix It",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RAG-Is-Burning-Money.jpg"
         }
       ]
     },
@@ -1377,16 +1387,6 @@
           "wordCount": 14203,
           "title": "The Roadmap for Mastering LLMOps in 2026",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/mlm-the-roadmap-for-mastering-llmops-in-2026.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24310",
-          "author": "Yoyo Chan",
-          "description": "This article is divided into four parts; they are: • The Problem with Static Batching • Code Example of Static Batching • Continuous Batching: Dynamic Scheduling and Ragged Batching • Full Implementation The simplest way to serve multiple requests together is to use static batching, by grouping them into fixed-size batches and processing each batch together.",
-          "link": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/",
-          "publishedOn": "2026-05-30T02:54:17.000Z",
-          "wordCount": 17072,
-          "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/05/petra-reid-WYvxaZGBebg-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1467,6 +1467,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/allenai/discoformer",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/discoformer",
+          "publishedOn": "2026-06-29T18:02:48.000Z",
+          "wordCount": 1141,
+          "title": "DiScoFormer: One transformer for density and score, across distributions",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AnOX0pzQm-Hep_CLFOVM7.png"
+        },
         {
           "id": "https://huggingface.co/blog/vllm-jobs",
           "author": null,
@@ -1832,6 +1842,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/?p=1176834",
+          "author": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
+          "description": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.\nThe post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+          "publishedOn": "2026-06-29T21:14:22.000Z",
+          "wordCount": 4425,
+          "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Memora-TWLIFB-1200x627-1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/?p=1176573",
           "author": "Chandan Singh, Jianfeng Gao",
           "description": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.\nThe post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
@@ -2142,6 +2162,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=79574",
+          "author": "Sudip Chakrabarty",
+          "description": "A look inside the multi-agent design that keeps an AI tutor grounded in its textbook and code-checks every answer before a student ever sees it.\nAI Aced JEE Advanced 2026. Can You Trust It to Teach You? first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/ai-aced-jee-advanced-2026-can-you-trust-it-to-teach-you/",
+          "publishedOn": "2026-06-29T05:48:35.000Z",
+          "wordCount": null,
+          "title": "AI Aced JEE Advanced 2026. Can You Trust It to Teach You?",
+          "imageUrl": null
+        },
+        {
           "id": "https://learnopencv.com/?p=79541",
           "author": "Sudip Chakrabarty",
           "description": "Learn how to fine-tune YOLO26 on your own data. We build a construction PPE safety detector and a sign-language reader using one simple workflow.\nHow to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection first appeared on LearnOpenCV.",
@@ -2183,6 +2213,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=38156",
+          "author": "Sujana Urs",
+          "description": "Object detection isn't enough for dexterous robots. See how object-level labels in manipulation datasets enable grasping and embodied AI.\nThe post Why Object-Level Labels in Manipulation Datasets Are Critical for Dexterous Robotics appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-object-level-labels-in-manipulation-datasets-are-critical-for-dexterous-robotics/",
+          "publishedOn": "2026-06-29T13:06:24.000Z",
+          "wordCount": 3940,
+          "title": "Why Object-Level Labels in Manipulation Datasets Are Critical for Dexterous Robotics",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/06/Object-detection-isnt-enough-for-dexterous-robots_featured_image.png"
+        },
         {
           "id": "https://imerit.ai/?p=37712",
           "author": "Sujana Urs",
@@ -2250,6 +2290,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255828",
+          "author": "Janvi Kumari",
+          "description": "GraphRAG and Vector RAG address different retrieval needs. Vector RAG splits documents into chunks, embeds them, retrieves semantically similar passages, and sends them to an LLM. It is simple, fast to build, and works best when answers sit within one or two relevant chunks. GraphRAG adds structure by extracting entities, relationships, and communities, making it […]\nThe post GraphRAG vs Vector RAG: Which Retrieval Method is Best? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/",
+          "publishedOn": "2026-06-29T04:08:35.000Z",
+          "wordCount": null,
+          "title": "GraphRAG vs Vector RAG: Which Retrieval Method is Best?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255907",
           "author": "Vasu Deo Sankrityayan",
@@ -2546,6 +2597,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "author": null,
+          "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+          "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "publishedOn": "2026-06-29T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Mapping Europe’s AI Workforce Opportunity",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/hp-frontier-partnership",
           "author": null,
@@ -3372,16 +3433,6 @@
           "publishedOn": "2026-06-02T16:20:43.000Z",
           "wordCount": null,
           "title": "Announcing the ARC White-Box Estimation Challenge",
-          "imageUrl": null
-        },
-        {
-          "id": "F3sDngvTL9uyfz53k",
-          "author": "Vika",
-          "description": "As AI models become increasingly capable and autonomous, keeping them safely aligned with human intentions is critical. Extending our previous work on evaluating scheming capabilities, we introduce complementary approaches to test whether AI models would sabotage their own safeguards, if given the opportunity.\nOur new papers focus on propensity for scheming: when models are deployed as coding agents, will they take opportunities to undermine the safeguards designed to oversee them? We tackle this using two complementary testing methods: automated auditing using simulated agentic environments, and scheming honeypot evaluations based on real internal alignment research codebases.\nAutomated auditing for sabotage propensities\n\n\nFigure 1. Overview of the Gram auditing pipeline and an example of…",
-          "link": "https://www.alignmentforum.org/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies",
-          "publishedOn": "2026-05-29T19:24:35.000Z",
-          "wordCount": null,
-          "title": "Testing Gemini models for scheming tendencies",
           "imageUrl": null
         }
       ]
