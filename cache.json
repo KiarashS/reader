@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609664",
+          "author": "Maria Mouschoutzi",
+          "description": "How agents reason, act, and observe their way to a final answer, one step at a time\nThe post AI Agents Explained: What Is a ReAct Loop and How Does It Work? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/",
+          "publishedOn": "2026-07-03T16:30:00.000Z",
+          "wordCount": 5184,
+          "title": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jun-24-2026-10_21_57-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609661",
+          "author": "Chien Vu Minh",
+          "description": "Balancing context capability against cost, speed, and data\nThe post Long Context vs. Short Context Model: When Does a Long Context Model Win? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/",
+          "publishedOn": "2026-07-03T15:00:00.000Z",
+          "wordCount": 9457,
+          "title": "Long Context vs. Short Context Model: When Does a Long Context Model Win?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/jr-korpa-Dm-DXaMx2vY-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609659",
+          "author": "Emmimal P Alexander",
+          "description": "Most \"LLM wikis\" use agents, embeddings, and repeated model calls to organize local notes. I built a deterministic alternative: a pure Python compiler that turns messy markdown into a linked, linted wiki using only the standard library. Along the way, I fixed two real bugs, benchmarked the pipeline on two operating systems, and showed why a compiler is often a better fit than an agent for mechanical text organization.\nThe post LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/",
+          "publishedOn": "2026-07-03T13:30:00.000Z",
+          "wordCount": 6328,
+          "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/LLM-Wikis.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609657",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG\nThe post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/",
+          "publishedOn": "2026-07-03T12:00:00.000Z",
+          "wordCount": 4376,
+          "title": "The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/card_catalog_kAQo6CJCPN4_v3_card.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609644",
           "author": "Sam Black",
           "description": "Tokenmaxxing is out. Real patterns for reducing costs without sacrificing AI effectiveness\nThe post Tokenminning: How to Get More from Your Chatbot for Less appeared first on Towards Data Science.",
@@ -1200,46 +1240,6 @@
           "wordCount": 4708,
           "title": "Why AI Is NOT Stealing Your Job",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609261",
-          "author": "Anubhab Banerjee",
-          "description": "A comprehensive guide to optimizing LLM inference by eliminating padding overhead with hardware-aware sequence packing.\nThe post I Built a C++ Backend So My GPU Would Stop Eating Air appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-c-backend-so-my-gpu-would-stop-eating-air/",
-          "publishedOn": "2026-06-03T13:30:00.000Z",
-          "wordCount": 9529,
-          "title": "I Built a C++ Backend So My GPU Would Stop Eating Air",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/vram-aware-packing.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609259",
-          "author": "Sara Nobrega",
-          "description": "How to set the rules that keep agents effective and out of trouble\nThe post What AI Agents Should Never Do on Their Own appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-ai-agents-should-never-do-on-their-own/",
-          "publishedOn": "2026-06-03T12:00:00.000Z",
-          "wordCount": 4697,
-          "title": "What AI Agents Should Never Do on Their Own",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-May-27-2026-03_24_29-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609257",
-          "author": "Clara Chong",
-          "description": "The barriers to building have collapsed. That shifts the bottleneck to ownership, validation, taste, and deciding what should actually exist\nThe post Code Is Cheap. Engineering Judgement Is Now the Scarce Resource appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/code-is-cheap-engineering-judgement-is-now-the-scarce-resource/",
-          "publishedOn": "2026-06-02T16:30:00.000Z",
-          "wordCount": 4302,
-          "title": "Code Is Cheap. Engineering Judgement Is Now the Scarce Resource",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/AIEconference160526_1155_DB6_0727.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609255",
-          "author": "Thomas Reid",
-          "description": "Three free ways to quickly deploy a static web app that anyone can access\nThe post From Local App to Public Website in Minutes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-local-app-to-public-website-in-minutes/",
-          "publishedOn": "2026-06-02T15:00:00.000Z",
-          "wordCount": 5296,
-          "title": "From Local App to Public Website in Minutes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/starline-1.jpg"
         }
       ]
     },
@@ -1776,26 +1776,6 @@
           "wordCount": 3121,
           "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
           "imageUrl": "https://huggingface.co/blog/assets/hf-cli-for-agents/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-          "author": null,
-          "description": "A Blog post by Dharma-AI on Hugging Face",
-          "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-          "publishedOn": "2026-06-03T12:55:11.000Z",
-          "wordCount": 3245,
-          "title": "Direct Preference Optimization Beyond Chatbots",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-          "author": null,
-          "description": "",
-          "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-          "publishedOn": "2026-06-03T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Adding MCP Tools to Reachy Mini",
-          "imageUrl": null
         }
       ]
     },
@@ -2156,17 +2136,6 @@
           "title": "Week Ending 6.7.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a1f78064edfd17d7c98b200",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc",
-          "publishedOn": "2026-06-03T00:41:17.000Z",
-          "wordCount": null,
-          "title": "Week Ending 5.31.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2198,6 +2167,16 @@
       "feedUrl": "https://learnopencv.com/feed/",
       "siteUrl": "https://learnopencv.com",
       "articles": [
+        {
+          "id": "https://learnopencv.com/?p=79561",
+          "author": "Satya Mallick",
+          "description": "Learn how World Cup 2026 offside technology works with multi-camera tracking, AI pose estimation, digital twins, VAR, and the connected Trionda ball.\nWorld Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/world-cup-2026-offside-technology/",
+          "publishedOn": "2026-07-03T05:39:17.000Z",
+          "wordCount": 7528,
+          "title": "World Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball",
+          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/07/02222244/world-cup-2026-offside-technology-var-hero-1.jpg"
+        },
         {
           "id": "https://learnopencv.com/?p=79574",
           "author": "Sudip Chakrabarty",
@@ -2240,6 +2219,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=38765",
+          "author": "Sujana Urs",
+          "description": "Learn how Robotaxi perception model retraining uses failure data, annotation, and shadow mode testing to improve autonomous driving systems. \nThe post How Robotaxi Fleets Use In-Service Failure Data to Retrain Perception Models appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/how-robotaxi-fleets-use-in-service-failure-data-to-retrain-perception-models/",
+          "publishedOn": "2026-07-03T16:18:41.000Z",
+          "wordCount": 3791,
+          "title": "How Robotaxi Fleets Use In-Service Failure Data to Retrain Perception Models",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-img-How-Robotaxi-Fleets-Use-In-Service-Failure-Data-to-Retrain-Perception-Models.png"
+        },
         {
           "id": "https://imerit.ai/?p=38562",
           "author": "Sujana Urs",
@@ -2317,6 +2306,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=255945",
+          "author": "Sree Vamsi",
+          "description": "You tell your AI “Polish my email and send it.” Same sentence, three outcomes. The gap between Large Action Models (LAMs) and agentic LLMs is one of the most practically important distinctions in AI today, and also one of the least clearly explained. In this article, we cut through the confusion through a simple breakdown […]\nThe post Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/",
+          "publishedOn": "2026-07-03T18:28:00.000Z",
+          "wordCount": null,
+          "title": "Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=255975",
           "author": "Vasu Deo Sankrityayan",
@@ -2556,17 +2556,6 @@
           "publishedOn": "2026-06-03T17:25:39.000Z",
           "wordCount": null,
           "title": "Agent Observability with LangSmith, Langfuse, and Arize: A Hands-On Comparison",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255443",
-          "author": "Soumil Jain",
-          "description": "If you’ve ever tried to ship an AI agent into production, you know the hard part usually isn’t the model. It’s everything around it: sandboxing, state management, credential handling, tool execution, error recovery, and all the infrastructure that turns a prototype into something reliable. Anthropic’s Claude Managed agents make that easier by giving you a […]\nThe post How to Use Claude Managed Agents? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/claude-managed-agents/",
-          "publishedOn": "2026-06-02T17:54:35.000Z",
-          "wordCount": null,
-          "title": "How to Use Claude Managed Agents?",
           "itunes": {},
           "imageUrl": null
         }
@@ -3033,46 +3022,6 @@
           "wordCount": null,
           "title": "Biodefense in the Intelligence Age",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-          "author": null,
-          "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-          "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-          "publishedOn": "2026-06-03T13:15:00.000Z",
-          "wordCount": null,
-          "title": "Introducing new capabilities to GPT-Rosalind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/wasmer",
-          "author": null,
-          "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-          "link": "https://openai.com/index/wasmer",
-          "publishedOn": "2026-06-03T12:00:00.000Z",
-          "wordCount": null,
-          "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/frontier-safety-blueprint",
-          "author": null,
-          "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-          "link": "https://openai.com/index/frontier-safety-blueprint",
-          "publishedOn": "2026-06-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "A blueprint for democratic governance of frontier AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/public-policy-agenda",
-          "author": null,
-          "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-          "link": "https://openai.com/index/public-policy-agenda",
-          "publishedOn": "2026-06-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI public policy agenda",
-          "imageUrl": null
         }
       ]
     },
@@ -3200,6 +3149,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "SdGbWkCZgCN7EGBxM",
+          "author": "Stuart_Armstrong",
+          "description": "Decision theory is back in fashion (defining fashion as \"one good post on a good EA blog\"). Bentham's Bulldog (BB) has published a case against FDT (functional decision theory), contrasting rationalist enthusiasm with academic scepticism: \"Academic decision theorists don't like the theory. The number of academic decision theorists who adopt it could be counted on one hand by someone missing four of their fingers.\"\nI am, just barely, a published academic decision theorist, so you can keep a small finger to count me too. My position is that, though FDT may have problems with its definitions and under-definedness, we can build defined variants that achieve what FDT attempted to.\nI want to do two things in this post. First, sketch a \"pragmatic\" version of FDT designed to sidestep the theoretic…",
+          "link": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
+          "publishedOn": "2026-07-03T13:22:38.000Z",
+          "wordCount": 42933,
+          "title": "Pragmatic FDT, and predictors as game theory",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "XP794SHDuXYfWLrvJ",
           "author": "VojtaKovarik",
@@ -3388,16 +3347,6 @@
           "publishedOn": "2026-06-05T14:19:53.000Z",
           "wordCount": null,
           "title": "My research agenda and work",
-          "imageUrl": null
-        },
-        {
-          "id": "Kben8CzS4awCwNw5c",
-          "author": "Jacob_Hilton",
-          "description": "ARC has teamed up with AIcrowd to launch the ARC White-Box Estimation Challenge, a contest to improve upon our estimation algorithms for random MLPs. The warm-up round begins this week, and later rounds will have a total prize pool of at least $100,000.\nWe are very grateful to Sharada Mohanty, Sneha Nanavati, Dipam Chakraborty and everyone else at AIcrowd for working with us to host this contest, as well as to Paul Rosu for testing the contest and to Harshita Khera for operational support.\nIntroduction to the Challenge\nOur challenge follows the same setup as our recent paper on wide random MLPs: we consider MLPs \n\nmjx-math {\n  display: inline-block;\n  text-align: left;\n  line-height: 0;\n  text-indent: 0;\n  font-style: normal;\n  font-weight: normal;\n  font-size: 100%;\n  font-size-adjust: no…",
-          "link": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge",
-          "publishedOn": "2026-06-02T16:20:43.000Z",
-          "wordCount": null,
-          "title": "Announcing the ARC White-Box Estimation Challenge",
           "imageUrl": null
         }
       ]
