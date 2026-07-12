@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609807",
+          "author": "Emmimal P Alexander",
+          "description": "LLMs don’t fail because they forget—they fail because they remember too much. As conversations grow, prompts accumulate redundant and low-value tokens, driving up cost and latency while silently degrading output quality. This article introduces a deterministic prompt-pruning layer that reduces token usage without breaking dependencies, backed by real benchmarks and production-tested design.\nThe post Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/",
+          "publishedOn": "2026-07-11T15:00:00.000Z",
+          "wordCount": 7355,
+          "title": "Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Pruning-prompts-into-AI-flow.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609803",
+          "author": "Omer Rosenbaum",
+          "description": "The best AI models still hallucinate. These hallucinations are sometimes funny, and sometimes cause actual damage. In this post we will consider recent tales of AI hallucinations, and then look under the hood to understand why they happen.\nThe post That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
+          "publishedOn": "2026-07-11T13:00:00.000Z",
+          "wordCount": 7133,
+          "title": "That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gilang-fahmi-H4K_5qxu_9w-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609797",
           "author": "Ibrahim Salami",
           "description": "Building a production-ready RSS pipeline with Python, Docker, PostgreSQL, and Kestra\nThe post I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer appeared first on Towards Data Science.",
@@ -1170,56 +1190,6 @@
           "wordCount": 5269,
           "title": "PySpark for Beginners: Beyond the Basics",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pyspark-beginner-plus.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609337",
-          "author": "Arjun Kaarat",
-          "description": "Why “average utilization” lies about how full your GPUs really are\nThe post When GPU Utilization Lies: The Hidden Systems Problem Slowing Modern AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-gpu-utilization-lies-the-hidden-systems-problem-slowing-modern-ai/",
-          "publishedOn": "2026-06-11T13:30:00.000Z",
-          "wordCount": 5673,
-          "title": "When GPU Utilization Lies: The Hidden Systems Problem Slowing Modern AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Image-ragp.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609335",
-          "author": "Yan Georget",
-          "description": "An in-depth performance test comparing Nucs and Choco\nThe post NuCS vs Choco: A Pure-Python Constraint Solver Meets a JVM Veteran appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/nucs-vs-choco/",
-          "publishedOn": "2026-06-11T12:00:00.000Z",
-          "wordCount": 7492,
-          "title": "NuCS vs Choco: A Pure-Python Constraint Solver Meets a JVM Veteran",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/fight.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609333",
-          "author": "Eivind Kjosbakken",
-          "description": "Improve coding agent productiveness with refactored code\nThe post How to Refactor Code with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-refactor-code-with-claude-code/",
-          "publishedOn": "2026-06-10T18:00:00.000Z",
-          "wordCount": 4667,
-          "title": "How to Refactor Code with Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/refactoring-code-with-claude-code_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609331",
-          "author": "JUNIOR JUMBONG",
-          "description": "A structured methodology for comparing candidate models, testing stability, and selecting a robust final score\nThe post How to Train a Scoring Model in the Age of Artificial Intelligence appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-train-a-scoring-model-in-the-age-of-artificial-intelligence/",
-          "publishedOn": "2026-06-10T16:30:00.000Z",
-          "wordCount": 6357,
-          "title": "How to Train a Scoring Model in the Age of Artificial Intelligence",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-6-juin-2026-22_45_01.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609329",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5A] - Document signals (metadata, native TOC, source software) and page-level content (text vs scans, tables, images, columns, page profile)\nThe post Beyond extract_text: The Two Layers of a PDF That Drive RAG Quality appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-extract_text-the-two-layers-of-a-pdf-that-drive-rag-quality/",
-          "publishedOn": "2026-06-10T15:00:00.000Z",
-          "wordCount": 7587,
-          "title": "Beyond extract_text: The Two Layers of a PDF That Drive RAG Quality",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/dictionary_focus_ywqa9IZB-dU_v3_card.jpg"
         }
       ]
     },
@@ -1377,16 +1347,6 @@
           "wordCount": 10788,
           "title": "Python Concepts Every AI Engineer Must Master",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-python-concepts-every-ai-engineer-must-master.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24397",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Text classification typically boils down to scenarios where a product review is \"positive\" or \"negative\", or a customer inquiry belongs to one category or another.",
-          "link": "https://machinelearningmastery.com/multi-label-text-classification-with-scikit-llm/",
-          "publishedOn": "2026-06-11T12:00:17.000Z",
-          "wordCount": 8506,
-          "title": "Multi-Label Text Classification with Scikit-LLM",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-multi-label-text-classification-with-scikit-llm-feature.png"
         }
       ]
     },
@@ -1776,16 +1736,6 @@
           "wordCount": 1768,
           "title": "olmo-eval: An evaluation workbench for the model development loop",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/gacAOFYwPkpxu7cC4eeey.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/torch-mlp-fusion",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/torch-mlp-fusion",
-          "publishedOn": "2026-06-11T00:00:00.000Z",
-          "wordCount": 3957,
-          "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-          "imageUrl": "https://huggingface.co/blog/assets/torch-mlp-fusion/thumbnail.png"
         }
       ]
     },
@@ -2251,16 +2201,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/17235330/YOLO26_Finetuning_Thumbnail_image.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=78946",
-          "author": "Satya Mallick",
-          "description": "Learn the Moondream Cloud API by running all five vision skills, caption, query, detect, point, and segment, on a single image with code and real outputs.\nHow to Unlock 5 Vision Skills with the Moondream Cloud API first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/moondream-cloud-api-one-image-five-grounded-vision-skills/",
-          "publishedOn": "2026-06-10T19:15:06.000Z",
-          "wordCount": 5210,
-          "title": "How to Unlock 5 Vision Skills with the Moondream Cloud API",
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/09072651/Moondream_Thumbnail-scaled.jpg"
         }
       ]
     },
@@ -2356,6 +2296,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256058",
+          "author": "Soumil Jain",
+          "description": "LLMs are getting stronger every day, and building a RAG pipeline has never been easier. Knowing whether it actually works is not. Most teams ship a RAG system, see decent-looking answers, and call it done, until users hit hallucination, missing context, or irrelevant chunks. That’s where evaluation frameworks come in. RAGAS, TruLens, and DeepEval are […]\nThe post RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/rag-evaluation-frameworks/",
+          "publishedOn": "2026-07-11T18:16:00.000Z",
+          "wordCount": null,
+          "title": "RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256190",
           "author": "Vasu Deo Sankrityayan",
@@ -2573,17 +2524,6 @@
           "publishedOn": "2026-06-12T07:30:00.000Z",
           "wordCount": null,
           "title": "Gemini Omni: AI Video Generation Inside Gemini",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255689",
-          "author": "Harsh Mishra",
-          "description": "Large language models usually generate text one token at a time. While this autoregressive approach delivers strong quality and instruction following, it can be inefficient for local users because GPUs often spend more time moving weights from memory than doing parallel compute. Google DeepMind’s DiffusionGemma takes a different path, generating and refining blocks of tokens […]\nThe post DiffusionGemma: Google’s Diffusion-Based Open Model for Faster Text Generation  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/diffusiongemma-diffusion-based-open-model-for-faster-text-generation/",
-          "publishedOn": "2026-06-11T13:10:30.000Z",
-          "wordCount": null,
-          "title": "DiffusionGemma: Google’s Diffusion-Based Open Model for Faster Text Generation",
           "itunes": {},
           "imageUrl": null
         }
@@ -2989,56 +2929,6 @@
           "wordCount": null,
           "title": "How Preply combines AI and human tutors to personalize learning",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/bbva",
-          "author": null,
-          "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-          "link": "https://openai.com/index/bbva",
-          "publishedOn": "2026-06-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "BBVA puts AI at the core of banking with OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "author": null,
-          "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "publishedOn": "2026-06-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-to-acquire-ona",
-          "author": null,
-          "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-          "link": "https://openai.com/index/openai-to-acquire-ona",
-          "publishedOn": "2026-06-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI to acquire Ona",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "author": null,
-          "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "publishedOn": "2026-06-11T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How an astrophysicist uses Codex to help simulate black holes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-on-oracle-cloud",
-          "author": null,
-          "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-          "link": "https://openai.com/index/openai-on-oracle-cloud",
-          "publishedOn": "2026-06-10T20:00:00.000Z",
-          "wordCount": null,
-          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-          "imageUrl": null
         }
       ]
     },
@@ -3151,6 +3041,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "EexsebbYhbe2gXkPP",
+          "author": "Charbel-Raphaël",
+          "description": "Abstract:\n\nWe already know enough to act. I wish we were in a world where research was the bottleneck, but the main constraint on AI safety is no longer a shortage of clever policy ideas: best practices already exist and are not being applied or enforced, and a serious international (or even just national) regulatory regime would probably cut most of the risk.\nThey are not applied because awareness is low. The people who narrate and enforce AI policy mostly do not believe the problem exists. I estimate that a majority of the top ~100–1,000 most influential policymakers worldwide have never had a single serious conversation about catastrophic risk, and this is the main reason they are not worried[1]. Even among the civil-society organizations that showed up to the UN Global Dialogue, exactl…",
+          "link": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
+          "publishedOn": "2026-07-11T21:56:26.000Z",
+          "wordCount": 52827,
+          "title": "The current bottleneck is political will, not research",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/EexsebbYhbe2gXkPP/raqo8s4tbfbkqf5orjbd"
+        },
+        {
           "id": "iPyJfD9Jyxj6Jfdws",
           "author": "Stuart_Armstrong",
           "description": "I firmly believe that value generalisation[1]is the key to AI Alignment. That, indeed, it is necessary and almost sufficient for alignment.\nBut I won't be arguing that grand point today; instead, I'll focus on a specific RL example of an agent that displays value correction: it realises its current reward function is (probably) incorrect, and acts to correct it.\nThus there are:\n\nThe initial situation, in distribution, where the human displays how to maximise the true reward.\nThe out of distribution situation where the agent finds a hack to exploit its reward function estimate, and turns against what we wanted it to do.\nThe value error detection stage where the agent realises that its reward function estimate is probably incorrect.\nThe value correction stage where the agent corrects its rew…",
@@ -3229,6 +3129,16 @@
           "wordCount": 42933,
           "title": "Pragmatic FDT, and predictors as game theory",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "SD9jayFvEctW82Duk",
+          "author": "Aran Nayebi",
+          "description": "[No LLMs were used (or harmed!) in the writing of this blogpost!]\nTechnical results can all be found in my UAI 2026 paper: https://arxiv.org/abs/2603.02491\nThis work, and this post about this work, was borne out of a frustration. The frustration first emerged over a year ago when I was at a Dave & Buster’s for the first time in years (for an annual ML department event, no less!), surrounded by flashing lights and NPC agents, not being able to objectively rule out that they were conscious or not, even though I strongly felt these particular programmed agents weren’t. I wasn’t particularly interested in playing the games there, as I mainly sat in confusion the whole time watching the various games running about around me…\nSo, given my background in NeuroAI (though I prefer the term \"natural …",
+          "link": "https://www.alignmentforum.org/posts/SD9jayFvEctW82Duk/what-capable-agents-must-know-why-ai-consciousness-may-be-an-2",
+          "publishedOn": "2026-06-30T11:48:47.000Z",
+          "wordCount": 38767,
+          "title": "What Capable Agents Must Know: Why AI Consciousness May Be an Inevitable Byproduct of Capability",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/cwcNNu9S8f3FQbo9c/pm3pb1ifirhew7z3dxkg"
         },
         {
           "id": "XP794SHDuXYfWLrvJ",
@@ -3339,26 +3249,6 @@
           "wordCount": 24954,
           "title": "Sympathy for both sides of the egregious misalignment debate",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/xjnzyevni54mmd7zs6ta"
-        },
-        {
-          "id": "aTcsN5ZZDnMFJvRiG",
-          "author": "Senthooran Rajamanoharan",
-          "description": "This is the first in a series of research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas.\nTL;DR\nIt's often assumed that models will act more aligned when they can tell they're being evaluated. But we find that Gemini can take “undesired” actions in behavioural evals even when it explicitly reasons that the environments are contrived, and sometimes this reasoning will increase the rate of undesired actions. When we dig into the model's reasoning, we find that this is typically associated with Gemini perceiving an environment as a puzzle where the aim is to achieve the goal by unconventional means (like capture the flag challenges – Gemini’s thoughts often literally call it a “CTF” challenge) or a consequence-free simulation in w…",
-          "link": "https://www.alignmentforum.org/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware",
-          "publishedOn": "2026-06-11T09:28:19.000Z",
-          "wordCount": 45239,
-          "title": "Models May Behave Worse When Eval Aware",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/aTcsN5ZZDnMFJvRiG/m7vjmpong0dqbb3hdrdc"
-        },
-        {
-          "id": "AP7YDke5jjY4v3X9Z",
-          "author": "Geoffrey Irving",
-          "description": "Alignment is not on track\nArtificial superintelligence (ASI) may be developed in the next few years. It is unclear whether alignment is on track to be ready on the same timeframe. At a minimum, the empirical programs at AI labs are unlikely to deliver a priori confidence, before training ASI, that things will go well. We are starting a large nonprofit research organization, Sequent, that aims to clear a higher bar:\n\nWe are aiming at higher confidence via a portfolio of theory and empirics bets, all of which could fail, such that if any succeed, they would give us more a priori confidence in aligned outcomes.\nWe are investing heavily in automation to accelerate progress on these bets.\nWe believe that theory unlocks higher automation. Taking a more principled approach offers better filters f…",
-          "link": "https://www.alignmentforum.org/posts/AP7YDke5jjY4v3X9Z/sequent-scale-and-automation-for-higher-confidence-in-1",
-          "publishedOn": "2026-06-10T15:37:47.000Z",
-          "wordCount": null,
-          "title": "Sequent: scale and automation for higher confidence in alignment",
-          "imageUrl": null
         }
       ]
     }
