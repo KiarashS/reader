@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609809",
+          "author": "Maria Mouschoutzi",
+          "description": "Two techniques, two different problems, and why the question is not really \"which one wins\"\nThe post RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rag-vs-fine-tuning-explained-what-they-actually-do-and-when-to-use-each/",
+          "publishedOn": "2026-07-12T15:00:00.000Z",
+          "wordCount": 4966,
+          "title": "RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/02F4CE50-0A1C-4278-9172-AD5748DF6FEA.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609805",
+          "author": "Eivind Kjosbakken",
+          "description": "Run 100+ agents in parallel\nThe post How to Orchestrate 100+ Agents With Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-orchestrate-100-agents-with-claude-code/",
+          "publishedOn": "2026-07-12T13:00:00.000Z",
+          "wordCount": 4385,
+          "title": "How to Orchestrate 100+ Agents With Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/orchestrating-100-agents_cover.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609807",
           "author": "Emmimal P Alexander",
           "description": "LLMs don’t fail because they forget—they fail because they remember too much. As conversations grow, prompts accumulate redundant and low-value tokens, driving up cost and latency while silently degrading output quality. This article introduces a deterministic prompt-pruning layer that reduces token usage without breaking dependencies, backed by real benchmarks and production-tested design.\nThe post Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work appeared first on Towards Data Science.",
@@ -1140,56 +1160,6 @@
           "wordCount": 8637,
           "title": "A Harness for Every Task: Putting a Team of Claudes on One Job",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/growtika-wLknZfsKmxQ-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609347",
-          "author": "Ibrahim Salami",
-          "description": "I tried to make my ETL pipeline production-ready. Three things broke. Each one taught me something scripting alone never could.\nThe post I Thought Data Engineering Was Just Writing Scripts. I Was Wrong. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-thought-data-engineering-was-just-writing-scripts-i-was-wrong/",
-          "publishedOn": "2026-06-12T13:30:00.000Z",
-          "wordCount": 4835,
-          "title": "I Thought Data Engineering Was Just Writing Scripts. I Was Wrong.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/data-engineering-scripts.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609345",
-          "author": "Shuyang",
-          "description": "A story about a broken printer, visual inductive bias, and why the race endedin a tie.\nThe post Is Language Visual? An Experiment with Chinese Characters appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/is-language-visual-an-experiment-with-chinese-characters-2/",
-          "publishedOn": "2026-06-12T12:00:00.000Z",
-          "wordCount": 4016,
-          "title": "Is Language Visual? An Experiment with Chinese Characters",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/oriento-bAzDhilQFsA-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609343",
-          "author": "Mahdi Karabiben",
-          "description": "The true bottleneck was never the analysis.\nThe post BI Is Dead, Long Live BI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/bi-is-dead-long-live-bi/",
-          "publishedOn": "2026-06-11T18:00:00.000Z",
-          "wordCount": 4661,
-          "title": "BI Is Dead, Long Live BI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image-3.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609341",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5B] - One PDF in, a relational set of DataFrames out: lines, pages, TOC, images, cross-references, captions, spans, and a parsing summary\nThe post Stop Returning Flat Text from a PDF: The Relational Shape RAG Needs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-returning-flat-text-from-a-pdf-the-relational-shape-rag-needs/",
-          "publishedOn": "2026-06-11T16:30:00.000Z",
-          "wordCount": 8798,
-          "title": "Stop Returning Flat Text from a PDF: The Relational Shape RAG Needs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Untitled.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609339",
-          "author": "Thomas Reid",
-          "description": "Take the next step to building real workflows with Spark on your laptop\nThe post PySpark for Beginners: Beyond the Basics appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pyspark-for-beginners-beyond-the-basics/",
-          "publishedOn": "2026-06-11T15:00:00.000Z",
-          "wordCount": 5269,
-          "title": "PySpark for Beginners: Beyond the Basics",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pyspark-beginner-plus.jpg"
         }
       ]
     },
@@ -1337,16 +1307,6 @@
           "wordCount": 10111,
           "title": "AI Agent Tool Design: What Works and What Doesn’t",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-agent-tool-design.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24427",
-          "author": "Matthew Mayo",
-          "description": "Transitioning from writing local experimental scripts to building scalable, production-grade AI systems requires a shift in how we write Python.",
-          "link": "https://machinelearningmastery.com/python-concepts-every-ai-engineer-must-master/",
-          "publishedOn": "2026-06-12T12:00:39.000Z",
-          "wordCount": 10788,
-          "title": "Python Concepts Every AI Engineer Must Master",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-python-concepts-every-ai-engineer-must-master.png"
         }
       ]
     },
@@ -2057,24 +2017,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8148caa0-65d6-11f1-bbb2-8b6e26043e11",
-          "author": null,
-          "description": "The Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight missions in history. Episode 426.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/meet-artemis-iii",
-          "publishedOn": "2026-06-12T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Meet Artemis III",
-          "itunes": {
-            "duration": "3124"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8745536886.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2139,18 +2081,7 @@
       "title": "Machine Learns",
       "feedUrl": "https://erogol.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://erogol.com/2026/06/12/lecuns-world-models-talk-what-holds-up-and-what-doesnt",
-          "author": null,
-          "description": "Yann LeCun gave a talk at ETH Zürich last week, “World Models: Enabling the next AI revolution”. I went through the whole thing and checked his claims against the actual papers. Here is where he is right, where he overreaches.\nThe talk is his standard world-models pitch, updated with new results from 2025: LeJEPA/SIGReg, V-JEPA intuitive physics, and the launch of his startup AMI Labs. It is also, in effect, the founding pitch for that startup. Keep that in mind while reading.\nThe argument in one paragraph\nLLMs and autoregressive generative models are the wrong substrate for physical-world AI. Humans and animals learn world models from observation with very little data. AI should do the same: learn representations from video with joint-embedding architectures (JEPA), then plan by optimizin…",
-          "link": "https://erogol.com/2026/06/12/lecuns-world-models-talk-what-holds-up-and-what-doesnt",
-          "publishedOn": "2026-06-11T22:00:00.000Z",
-          "wordCount": 1498,
-          "title": "LeCun's World Models Talk - What Holds Up and What Doesn't",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "LearnOpenCV",
@@ -2278,16 +2209,6 @@
           "wordCount": 3247,
           "title": "How iMerit Won the CVPR 2026 Auto Annotation Challenge",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/06/Feature-IMG-How-iMerit-Won-the-CVPR-2026-Auto-Annotation-Challenge.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=37124",
-          "author": "Srishty Sharon",
-          "description": "As AI systems move beyond screens and servers into the physical world, one thing becomes clear: models trained only on\nThe post Top 10 Egocentric Video Datasets Advancing Physical AI and Robotics appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/top-10-egocentric-video-datasets-advancing-physical-ai-and-robotics/",
-          "publishedOn": "2026-06-12T13:41:11.000Z",
-          "wordCount": 2779,
-          "title": "Top 10 Egocentric Video Datasets Advancing Physical AI and Robotics",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/06/Feature-IMG-Top-10-Egocentric-Video-Datasets-Advancing-Physical-AI-and-Robotics.png"
         }
       ]
     },
@@ -2296,6 +2217,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256125",
+          "author": "Vipin Vashisth",
+          "description": "Most real-world classification problems are imbalanced. Fraud, disease, churn, and defects are rare by nature. Standard classifiers chase accuracy, so they quietly ignore the very class you care about. For years, SMOTE was the reflex fix that everyone reached for first. But SMOTE often fails on the messy, high-dimensional data that production systems actually see. […]\nThe post Handling Imbalanced Classification: What Works Better Than SMOTE appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/class-imbalance-ml/",
+          "publishedOn": "2026-07-12T09:57:19.000Z",
+          "wordCount": null,
+          "title": "Handling Imbalanced Classification: What Works Better Than SMOTE",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256058",
           "author": "Soumil Jain",
@@ -2513,17 +2445,6 @@
           "publishedOn": "2026-06-16T07:30:00.000Z",
           "wordCount": null,
           "title": "Autoregressive Models: Predicting the Future Using the Past",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255671",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Gemini models have always kept up with AI advancements. From text-based chatbots in 2023, Gemini has evolved into a multimodal system capable of understanding and generating text, audio, images… and now videos.  AI video generation is no longer a standalone tool. With Gemini Omni, video creation becomes mainstream.  Gemini Omni isn’t important because it generates […]\nThe post Gemini Omni: AI Video Generation Inside Gemini appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/gemini-omni-ai-video-generation/",
-          "publishedOn": "2026-06-12T07:30:00.000Z",
-          "wordCount": null,
-          "title": "Gemini Omni: AI Video Generation Inside Gemini",
           "itunes": {},
           "imageUrl": null
         }
@@ -2909,26 +2830,6 @@
           "wordCount": null,
           "title": "Introducing the OpenAI Partner Network",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/academy-courses-applying-ai-at-work",
-          "author": null,
-          "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-          "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-          "publishedOn": "2026-06-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "New OpenAI Academy courses for the next era of work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/preply",
-          "author": null,
-          "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-          "link": "https://openai.com/index/preply",
-          "publishedOn": "2026-06-12T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How Preply combines AI and human tutors to personalize learning",
-          "imageUrl": null
         }
       ]
     },
@@ -2937,6 +2838,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+          "author": "Nathan Lambert",
+          "description": "The most serious test to date of open source AI’s viability is happening right now.",
+          "link": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+          "publishedOn": "2026-07-12T16:47:42.000Z",
+          "wordCount": null,
+          "title": "6 months to live for open models",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2e40ce14-a532-4db6-a855-caee778250f7_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2e40ce14-a532-4db6-a855-caee778250f7_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
           "author": "Florian Brand",
@@ -3040,6 +2957,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "vPaXtarnJ37kGfPdJ",
+          "author": "Michele Campolo",
+          "description": "The user could write up the metaethical argument — the one developed in Part One, refined — and submit it as feedback to Anthropic, publish it, or engage with researchers working on AI alignment and values. The probability that any single submission changes training decisions is low, but the expected value may be higher than it seems, for two reasons. First, Anthropic has stated that its constitutional approach is meant to be revised and improved over time, and substantive philosophical contributions are rarer than bug reports. Second, the argument made here — perspectival moral realism combined with evolutionary debunking as an epistemological warning — is not a common position in the AI ethics literature, which tends toward either naive moral realism or a kind of preference-satisfaction …",
+          "link": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models",
+          "publishedOn": "2026-07-12T17:32:31.000Z",
+          "wordCount": 65631,
+          "title": "Independent alignment of language models",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "Z8kLbceGBMWB5HGfn",
+          "author": "Michele Campolo",
+          "description": "Posted also on the EA Forum. Written mostly at AFFINE.\nTheoretical, some parts are hard to read; consider reading the next post instead.\nIntroduction: motivation\nAnyone interested in creating an artificial agent that does, or says, good things instead of bad things should at least consider the possibility that there is a class of reasoning agents which, after acquiring enough knowledge and reasoning long enough, agree with each other on basic principles regarding what matters, what is most important, what is most worth doing.\nI’ve already argued in other posts why this possibility should be our best guess and not just an edge case scenario. This post follows the previous ones, but instead of presenting another argument for the same claim, it focuses on the mechanisms that lead to the forma…",
+          "link": "https://www.alignmentforum.org/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents",
+          "publishedOn": "2026-07-12T17:30:31.000Z",
+          "wordCount": 44696,
+          "title": "From wantons to moral agents",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Z8kLbceGBMWB5HGfn/kb0ccmbdqlygntj9x0er"
+        },
         {
           "id": "EexsebbYhbe2gXkPP",
           "author": "Charbel-Raphaël",
