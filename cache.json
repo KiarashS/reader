@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609860",
+          "author": "Rashi Desai",
+          "description": "The analytics career I signed up for five years ago doesn't exist anymore, and honestly, I am fine with that.\nThe post How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-im-making-sure-my-analytics-career-doesnt-get-eaten-by-ai/",
+          "publishedOn": "2026-07-14T16:30:00.000Z",
+          "wordCount": 4092,
+          "title": "How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/yulia-matvienko-kgz9vsP5JCU-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609858",
+          "author": "Vyacheslav Efimov",
+          "description": "Introduction Heavy computation is a well-known problem in various ML algorithms today, especially when generative AI is applied to text, images, and other unstructured data. One of the principal approaches to mitigate this problem is to compress input data into a lower-dimensional representation while preserving the main context. There are various methods that achieve this […]\nThe post A Gentle Introduction to Autoencoders & Latent Space appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/gentle-introduction-to-autoencoders-latent-space/",
+          "publishedOn": "2026-07-14T15:00:00.000Z",
+          "wordCount": 3915,
+          "title": "A Gentle Introduction to Autoencoders & Latent Space",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Autoencoders_2.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609848",
+          "author": "Arsen Apostolov",
+          "description": "I measured the actual GPU electricity for eight local models on one RTX 3090 — and the cheapest wasn't the smallest, nor the priciest the biggest.\nThe post How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/",
+          "publishedOn": "2026-07-14T13:30:00.000Z",
+          "wordCount": 5138,
+          "title": "How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/local-llm-cost-gpu-energy-hero.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609823",
+          "author": "Maria Mouschoutzi",
+          "description": "How to stop parsing JSON by hand and start trusting your model's output\nThe post Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/",
+          "publishedOn": "2026-07-14T12:00:00.000Z",
+          "wordCount": 4855,
+          "title": "Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/D1F0F3B0-AFD2-4DA5-B3D6-899AB1A9708C.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609820",
           "author": "Shuai Guo",
           "description": "A minimal OpenAI Agents SDK implementation where retrieval becomes a search-read-decide loop\nThe post Agentic RAG: Let the Agent Search appeared first on Towards Data Science.",
@@ -1130,36 +1170,6 @@
           "wordCount": 5984,
           "title": "Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/microscope_fiHQ3-D45zo_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609361",
-          "author": "Anubhab Banerjee",
-          "description": "A systems-level deep dive into the hidden microarchitectural costs of Kubernetes GPU time-slicing, and what it actually costs to co-locate Agentic AI workloads.\nThe post GPU Time-Slicing for Concurrent LLM Agents on Kubernetes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/",
-          "publishedOn": "2026-06-14T13:00:00.000Z",
-          "wordCount": 7371,
-          "title": "GPU Time-Slicing for Concurrent LLM Agents on Kubernetes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/overview_ktp.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609357",
-          "author": "Emmimal P Alexander",
-          "description": "Increasing context size in RAG systems doesn’t improve accuracy for aggregation tasks—it makes errors harder to detect. In this article, I benchmark retrieval-based pipelines against a deterministic full-scan engine across 100,000 rows and show why computation queries must be routed away from RAG entirely.\nThe post Larger Context Windows Don’t Fix RAG — So I Built a System That Does appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/larger-context-windows-dont-fix-rag-so-i-built-a-system-that-does/",
-          "publishedOn": "2026-06-13T17:00:00.000Z",
-          "wordCount": 6216,
-          "title": "Larger Context Windows Don’t Fix RAG — So I Built a System That Does",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Larger-Context-Windows.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609359",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5ter] - Table cells, OCR, captions, headings: cloud-grade structure, running on your own machine. No key, no per-page bill, nothing leaves the building\nThe post Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/parse-pdfs-for-rag-locally-with-docling-rich-tables-no-cloud-upload/",
-          "publishedOn": "2026-06-13T15:00:00.000Z",
-          "wordCount": 6770,
-          "title": "Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_spinning_wheel_28096615_v3_card.jpg"
         }
       ]
     },
@@ -1357,18 +1367,7 @@
       "title": "FastML",
       "feedUrl": "https://fastml.com/atom.xml",
       "siteUrl": "https://fastml.com/atom.xml",
-      "articles": [
-        {
-          "id": "https://fastml.com/detecting-ai-slop-on-reddit-in-three-easy-steps/",
-          "author": null,
-          "description": "We like reading stories on Reddit, sometimes. Since the advent of large language models, people have posted more and more AI-generated stories. Here …",
-          "link": "https://fastml.com/detecting-ai-slop-on-reddit-in-three-easy-steps/",
-          "publishedOn": "2026-06-13T22:00:00.000Z",
-          "wordCount": 611,
-          "title": "Detecting AI slop on Reddit in three easy steps",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Adit Deshpande",
@@ -1873,6 +1872,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a5580639ffb32ef2506a817",
+          "author": "Roland Sankara",
+          "description": "Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask",
+          "link": "https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/",
+          "publishedOn": "2026-07-14T00:18:43.000Z",
+          "wordCount": 3946,
+          "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edd06632-76da-42f9-b741-e249d22c5f29.png"
+        },
+        {
           "id": "6a4fd5184215fa285003b017",
           "author": "Rudrendu Paul",
           "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
@@ -1931,16 +1940,6 @@
           "wordCount": 6275,
           "title": "AI Paper Review: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0d9c4f6a-1352-431f-af2e-c08b0e128e39.png"
-        },
-        {
-          "id": "6a2e0cb22e4a72670f854140",
-          "author": "Djibril-M🍀",
-          "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
-          "link": "https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/",
-          "publishedOn": "2026-06-14T02:06:42.000Z",
-          "wordCount": 4005,
-          "title": "How to Run Private Text-to-Speech on Your Own Hardware Using QVAC",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ac11484-05eb-4e59-9d35-f2bad4d1d730.png"
         }
       ]
     },
@@ -1949,6 +1948,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a5580639ffb32ef2506a817",
+          "author": "Roland Sankara",
+          "description": "Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask",
+          "link": "https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/",
+          "publishedOn": "2026-07-14T00:18:43.000Z",
+          "wordCount": 3946,
+          "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edd06632-76da-42f9-b741-e249d22c5f29.png"
+        },
         {
           "id": "6a30800dc3625a1a686f75f8",
           "author": "Mohammed Fahd Abrah",
@@ -2228,6 +2237,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256237",
+          "author": "Janvi Kumari",
+          "description": "Prompts shape every interaction with a large language model. Clear instructions produce focused, useful responses, while vague ones often lead to inconsistent results. This becomes harder when teams need the same task completed repeatedly in a fixed format, tone, or structure. Meta-prompting asks the model to design a reusable prompt, template, checklist, or workflow before […]\nThe post What is Meta Prompting and How does it work? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/",
+          "publishedOn": "2026-07-14T17:21:46.000Z",
+          "wordCount": null,
+          "title": "What is Meta Prompting and How does it work?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256166",
           "author": "Sree Vamsi",
@@ -2513,6 +2533,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "author": null,
+          "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "publishedOn": "2026-07-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "How to manage AI investments in the agentic era",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "author": null,
+          "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "publishedOn": "2026-07-14T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How data science teams use ChatGPT Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "author": null,
+          "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "publishedOn": "2026-07-14T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How sales teams use ChatGPT Work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/deutsche-telekom",
           "author": null,
@@ -2990,6 +3040,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "WpYFAmJDH3zuAq2ha",
+          "author": "Arthur Conmy",
+          "description": "TL;DR\n\nJosh and Neel show that distillation from a teacher model to a base pretrained student model transfers some of the teacher model’s traits (such as displaying negative emotion in the Gemma Needs Help evals)\nOn its own this is pretty unsurprising, but Josh and Neel additionally show that even filtering out all the prompts and rollouts where the trait is mentioned doesn’t generally prevent the trait transfer\nIn this post, I show a simple way to replicate and study these phenomena without access to a frontier SFT pipeline (or even running full SFT[1])\nI distill Gemma 3’s negative emotion into Qwen-base, Gemma 4’s agentic misalignment into Nemotron Chat, and Qwen’s Chinese censorship into Llama base\nI end the post with a bunch of open questions that could be tackled with a setup similar …",
+          "link": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1",
+          "publishedOn": "2026-07-14T10:15:03.000Z",
+          "wordCount": 34752,
+          "title": "Open Distillation of Hereditary Traits",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/WpYFAmJDH3zuAq2ha/fha53mm7hztyodldfvyd"
+        },
+        {
           "id": "wq5PfGiHvnx6XipDi",
           "author": "LAThomson",
           "description": "tl;dr – we present [Prism], a scaffold for automating science-of-evals research: work that makes the evaluation the primary object of study. The scaffold provides Claude Code with sub-agents and resources for carrying out scientifically rigorous investigations into eval dynamics and, by extension, model behaviours.\nWe talk through an autonomous Prism run on the Agentic Misalignment setting which demonstrates how minor perturbations to GPT-4.1's prompt cause the model to adopt more indirect methods of blackmail (e.g. telling a trusted ally to blackmail on their behalf). Moreover, the eval's built-in scorers fail to track this kind of misbehaviour, only acknowledging a blackmail attempt if the model mentions the leverage directly in an email to the blackmail victim. This autonomous investiga…",
@@ -3198,16 +3258,6 @@
           "wordCount": 28679,
           "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/wyZRNgpeiPeRXB6eT/q7sjyn0tfrhhqvet7llw"
-        },
-        {
-          "id": "nLrrYweeFxgXACSmS",
-          "author": "Josh Engels",
-          "description": "This is the third in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The second post can be found here.\n\n\nIn this short post, we describe a surprising finding: most safety relevant properties in Gemini seem to be caused by the combination of pretraining and SFT, not other training stages like RL. \nWe do not want to overstate this claim as applying to other model families, and we also note that this may change in future Gemini versions. Nevertheless, this result was counter to our initial expectations and will inform future safety work on our team, and so we felt that it was important to share with the broader safety community.\nExperiment\nWe perform SFT using the Gemini mixture on the pre-training o…",
-          "link": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1",
-          "publishedOn": "2026-06-13T15:31:52.000Z",
-          "wordCount": 17833,
-          "title": "SFT Drives Gemini’s Safety Properties",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/nLrrYweeFxgXACSmS/sdpb2cwxvmp49ky1tsnf"
         }
       ]
     }

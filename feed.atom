@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-14T02:05:57.979Z</updated>
+    <updated>2026-07-15T02:03:26.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Meta Prompting and How does it work?]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256237</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/"/>
+        <updated>2026-07-14T17:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Prompts shape every interaction with a large language model. Clear instructions produce focused, useful responses, while vague ones often lead to inconsistent results. This becomes harder when teams need the same task completed repeatedly in a fixed format, tone, or structure. Meta-prompting asks the model to design a reusable prompt, template, checklist, or workflow before […]
+The post What is Meta Prompting and How does it work? appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI]]></title>
+        <id>https://towardsdatascience.com/?p=609860</id>
+        <link href="https://towardsdatascience.com/how-im-making-sure-my-analytics-career-doesnt-get-eaten-by-ai/"/>
+        <updated>2026-07-14T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The analytics career I signed up for five years ago doesn't exist anymore, and honestly, I am fine with that.
+The post How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rashi Desai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Autoencoders & Latent Space]]></title>
+        <id>https://towardsdatascience.com/?p=609858</id>
+        <link href="https://towardsdatascience.com/gentle-introduction-to-autoencoders-latent-space/"/>
+        <updated>2026-07-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Heavy computation is a well-known problem in various ML algorithms today, especially when generative AI is applied to text, images, and other unstructured data. One of the principal approaches to mitigate this problem is to compress input data into a lower-dimensional representation while preserving the main context. There are various methods that achieve this […]
+The post A Gentle Introduction to Autoencoders & Latent Space appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Vyacheslav Efimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured)]]></title>
+        <id>https://towardsdatascience.com/?p=609848</id>
+        <link href="https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/"/>
+        <updated>2026-07-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I measured the actual GPU electricity for eight local models on one RTX 3090 — and the cheapest wasn't the smallest, nor the priciest the biggest.
+The post How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Arsen Apostolov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs]]></title>
+        <id>https://towardsdatascience.com/?p=609823</id>
+        <link href="https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/"/>
+        <updated>2026-07-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to stop parsing JSON by hand and start trusting your model's output
+The post Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Distillation of Hereditary Traits]]></title>
+        <id>WpYFAmJDH3zuAq2ha</id>
+        <link href="https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1"/>
+        <updated>2026-07-14T10:15:03.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+
+Josh and Neel show that distillation from a teacher model to a base pretrained student model transfers some of the teacher model’s traits (such as displaying negative emotion in the Gemma Needs Help evals)
+On its own this is pretty unsurprising, but Josh and Neel additionally show that even filtering out all the prompts and rollouts where the trait is mentioned doesn’t generally prevent the trait transfer
+In this post, I show a simple way to replicate and study these phenomena without access to a frontier SFT pipeline (or even running full SFT[1])
+I distill Gemma 3’s negative emotion into Qwen-base, Gemma 4’s agentic misalignment into Nemotron Chat, and Qwen’s Chinese censorship into Llama base
+I end the post with a bunch of open questions that could be tackled with a setup similar …]]></summary>
+        <author>
+            <name>Arthur Conmy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to manage AI investments in the agentic era]]></title>
+        <id>https://openai.com/index/managing-ai-investments-in-agentic-era</id>
+        <link href="https://openai.com/index/managing-ai-investments-in-agentic-era"/>
+        <updated>2026-07-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts]]></title>
+        <id>6a5580639ffb32ef2506a817</id>
+        <link href="https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/"/>
+        <updated>2026-07-14T00:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask]]></summary>
+        <author>
+            <name>Roland Sankara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts]]></title>
+        <id>6a5580639ffb32ef2506a817</id>
+        <link href="https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/"/>
+        <updated>2026-07-14T00:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask]]></summary>
+        <author>
+            <name>Roland Sankara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How data science teams use ChatGPT Work]]></title>
+        <id>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</id>
+        <link href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How sales teams use ChatGPT Work]]></title>
+        <id>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</id>
+        <link href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week Ending 7.12.2026]]></title>
         <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a552d3a77952c34c96d540f</id>
@@ -3037,75 +3158,6 @@ The post 4 Lines You Should Include in Your Claude Skill appeared first on Towar
         <updated>2026-06-14T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5quater] - The other parsers read the words on a page. A vision model also reads the pictures
 The post Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Time-Slicing for Concurrent LLM Agents on Kubernetes]]></title>
-        <id>https://towardsdatascience.com/?p=609361</id>
-        <link href="https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/"/>
-        <updated>2026-06-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A systems-level deep dive into the hidden microarchitectural costs of Kubernetes GPU time-slicing, and what it actually costs to co-locate Agentic AI workloads.
-The post GPU Time-Slicing for Concurrent LLM Agents on Kubernetes appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Private Text-to-Speech on Your Own Hardware Using QVAC]]></title>
-        <id>6a2e0cb22e4a72670f854140</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/"/>
-        <updated>2026-06-14T02:06:42.000Z</updated>
-        <summary type="html"><![CDATA[When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text]]></summary>
-        <author>
-            <name>Djibril-M🍀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting AI slop on Reddit in three easy steps]]></title>
-        <id>https://fastml.com/detecting-ai-slop-on-reddit-in-three-easy-steps/</id>
-        <link href="https://fastml.com/detecting-ai-slop-on-reddit-in-three-easy-steps/"/>
-        <updated>2026-06-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We like reading stories on Reddit, sometimes. Since the advent of large language models, people have posted more and more AI-generated stories. Here …]]></summary>
-        <author>
-            <name>FastML</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larger Context Windows Don’t Fix RAG — So I Built a System That Does]]></title>
-        <id>https://towardsdatascience.com/?p=609357</id>
-        <link href="https://towardsdatascience.com/larger-context-windows-dont-fix-rag-so-i-built-a-system-that-does/"/>
-        <updated>2026-06-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Increasing context size in RAG systems doesn’t improve accuracy for aggregation tasks—it makes errors harder to detect. In this article, I benchmark retrieval-based pipelines against a deterministic full-scan engine across 100,000 rows and show why computation queries must be routed away from RAG entirely.
-The post Larger Context Windows Don’t Fix RAG — So I Built a System That Does appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFT Drives Gemini’s Safety Properties]]></title>
-        <id>nLrrYweeFxgXACSmS</id>
-        <link href="https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1"/>
-        <updated>2026-06-13T15:31:52.000Z</updated>
-        <summary type="html"><![CDATA[This is the third in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The second post can be found here.
-
-
-In this short post, we describe a surprising finding: most safety relevant properties in Gemini seem to be caused by the combination of pretraining and SFT, not other training stages like RL. 
-We do not want to overstate this claim as applying to other model families, and we also note that this may change in future Gemini versions. Nevertheless, this result was counter to our initial expectations and will inform future safety work on our team, and so we felt that it was important to share with the broader safety community.
-Experiment
-We perform SFT using the Gemini mixture on the pre-training o…]]></summary>
-        <author>
-            <name>Josh Engels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload]]></title>
-        <id>https://towardsdatascience.com/?p=609359</id>
-        <link href="https://towardsdatascience.com/parse-pdfs-for-rag-locally-with-docling-rich-tables-no-cloud-upload/"/>
-        <updated>2026-06-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5ter] - Table cells, OCR, captions, headings: cloud-grade structure, running on your own machine. No key, no per-page bill, nothing leaves the building
-The post Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kezhan Shi</name>
         </author>
