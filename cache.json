@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609918",
+          "author": "Eivind Kjosbakken",
+          "description": "Maximize the latest OpenAI model\nThe post How to Work Effectively with GPT-5.6 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
+          "publishedOn": "2026-07-17T16:30:00.000Z",
+          "wordCount": 6754,
+          "title": "How to Work Effectively with GPT-5.6",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gpt-5-6-first-impressions_cover-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609915",
+          "author": "Stephanie Kirmer",
+          "description": "On the value of building on existing foundations\nThe post Using Classical ML to Empower AI Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/using-classical-ml-to-empower-ai-agents/",
+          "publishedOn": "2026-07-17T15:00:00.000Z",
+          "wordCount": 6490,
+          "title": "Using Classical ML to Empower AI Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609913",
+          "author": "Emmimal P Alexander",
+          "description": "Everyone is talking about loop engineering, but most discussions assume an LLM sits at the center of the loop. I wanted to isolate the architecture itself. So I built a deterministic, zero-dependency Python benchmark that replaces the model with simple rules, allowing me to measure one question directly: can a goal-directed controller isolate failures better than a traditional linear pipeline? After validating the benchmark across 300 random seeds—and fixing a subtle bug that initially invalidated my own results—I found that the controller consistently completed independent branches that a linear executor never reached. This article walks through the architecture, the benchmark design, the debugging process, and the evidence behind a narrow but practical claim: failure isolation is a measurable property of control flow, independent of LLM reasoning.\nThe post Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/context-engineering-isnt-enough-a-loop-engineering-experiment-with-no-llm-inside-the-loop/",
+          "publishedOn": "2026-07-17T13:30:00.000Z",
+          "wordCount": 9249,
+          "title": "Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop-engine.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609911",
+          "author": "Ferran Alia",
+          "description": "AI's energy crisis is reviving an old idea: computing with physics instead of digital logic. Here's how analog chips actually work, why noise nearly killed the idea once already, and what happens when you simulate that noise yourself.\nThe post Analog AI Is Back, But Can It Survive Its Own Noise? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/analog-ai-is-back-can-it-survive-its-own-noise/",
+          "publishedOn": "2026-07-17T12:00:00.000Z",
+          "wordCount": 6898,
+          "title": "Analog AI Is Back, But Can It Survive Its Own Noise?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Gemini_Generated_Image_voc1qpvoc1qpvoc1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609937",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #9B] - One call wires the four upgraded bricks together, run on a paper, a NIST standard, and a report with a broken TOC\nThe post One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every Answer Typed and Cited appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/one-rag-pipeline-four-very-different-pdfs-same-four-bricks-every-answer-typed-and-cited/",
+          "publishedOn": "2026-07-17T10:30:00.000Z",
+          "wordCount": 10557,
+          "title": "One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every Answer Typed and Cited",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pegboard_tools_909256_card.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609900",
           "author": "Weiwei Hu",
           "description": "How to define recurring work, give AI the right context, explain what high-quality work looks like, and decide where human judgment is still needed.\nThe post Prepare These 5 Assets Before Your AI Agents Take On More Work appeared first on Towards Data Science.",
@@ -1130,46 +1180,6 @@
           "wordCount": 5989,
           "title": "The Secret to Reproducible and Portable Optimization: ORPilot’s Intermediate Representation (IR)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Gemini_Generated_Image_f3s6k6f3s6k6f3s6.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609387",
-          "author": "Shuai Guo",
-          "description": "Most LLM applications need a clear workflow, not an autonomous agent. Here's how to build one in plain Python.\nThe post You Probably Don’t Need an Agent Framework appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/you-probably-dont-need-an-agent-framework/",
-          "publishedOn": "2026-06-17T13:30:00.000Z",
-          "wordCount": 6785,
-          "title": "You Probably Don’t Need an Agent Framework",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image-286.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609383",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #6b] - The five field families the parser reads straight from the user’s question, with the code that fills each one\nThe post What the Question Parser Extracts from a User String: Keywords, Scope, Shape, Decomposition, Clarification appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-the-question-parser-extracts-from-a-user-string-keywords-scope-shape-decomposition-clarification/",
-          "publishedOn": "2026-06-17T12:00:00.000Z",
-          "wordCount": 9114,
-          "title": "What the Question Parser Extracts from a User String: Keywords, Scope, Shape, Decomposition, Clarification",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_herbarium_cards_11066932_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609381",
-          "author": "Stephanie Kirmer",
-          "description": "Budgets for AI tokens can’t be infinite, no matter how much hyperscalers wish they were\nThe post Drilling Into AI’s Financial Sustainability appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/drilling-into-ais-financial-sustainability/",
-          "publishedOn": "2026-06-16T16:30:00.000Z",
-          "wordCount": 4411,
-          "title": "Drilling Into AI’s Financial Sustainability",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image-254.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609379",
-          "author": "Sam Black",
-          "description": "Tired of your monthly API bill? Follow this tested guide to set up a high-performance local LLM on your Mac Mini without the headaches. \nThe post Run a Local LLM with OpenClaw on Your Mac Mini appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/run-a-local-llm-with-openclaw-on-your-mac-mini/",
-          "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 4740,
-          "title": "Run a Local LLM with OpenClaw on Your Mac Mini",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/93c5e532-5182-40a1-b6a5-d11734f86e68.jpg"
         }
       ]
     },
@@ -1319,21 +1329,6 @@
             "type": "application/octet-stream"
           },
           "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/Evaluation-Position-Paper-3-pdf.jpg"
-        },
-        {
-          "id": "https://blog.ml.cmu.edu/?p=22501",
-          "author": "Shuqi Ke",
-          "description": "Richard Sutton’s “Bitter Lesson” is usually read as a warning against building too much human knowledge into AI systems. Over the long run, the methods that win are not the ones that encode our clever intuition most directly, but the ones that scale: search, learning, and other general methods that can absorb more compute and data. Modern foundation model pre-training looks, at first glance, like a triumph of that lesson. We take a general architecture, expose it to massive data, and train it with a simple self-supervised objective. Language models predict the next token. Vision models reconstruct masked patches, align views, or match teacher representations. The recipe is simple and scalable. But there is a catch. Pre-training may follow the Bitter Lesson in how it trains the models, but not how it chooses what the model should be trained on. The objective is still chosen outside the training loop. We conduct a large pre-training run, evaluate downstream performance, adjust the recipe, and run again. The learner optimizes one self-supervised learning objective but the downstream feedback actually arrives only after the whole training process. This is a very coarse control loop. This paper asks whether that loop can be made more […]",
-          "link": "https://blog.ml.cmu.edu/2026/06/17/pre-training-isnt-bitter-enough/",
-          "publishedOn": "2026-06-17T13:09:10.000Z",
-          "wordCount": 1987,
-          "title": "Pre-Training Isn’t Bitter Enough",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/vpt-handmade.png",
-            "length": "2659375",
-            "type": "image/png"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/vpt-handmade.png"
         }
       ]
     },
@@ -1366,6 +1361,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "publishedOn": "2026-07-17T15:57:54.000Z",
+          "wordCount": 2604,
+          "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
           "author": null,
@@ -1705,36 +1710,6 @@
           "wordCount": 2221,
           "title": "MolmoMotion: Language-guided 3D motion forecasting",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/wdq3AFZcDZAekGTb16VDy.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-          "author": null,
-          "description": "A Blog post by Amazon on Hugging Face",
-          "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-          "publishedOn": "2026-06-17T10:18:05.000Z",
-          "wordCount": 3957,
-          "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/qvSGZ0tZsgr4U4BCx_bVX.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
-          "author": null,
-          "description": "A Blog post by Z.ai on Hugging Face",
-          "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-          "publishedOn": "2026-06-17T09:01:25.000Z",
-          "wordCount": 3111,
-          "title": "GLM-5.2: Built for Long-Horizon Tasks",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67066ea38a79951d7b8d4195/iaTHtYOBgeY0C3Xx3vymr.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-          "publishedOn": "2026-06-17T00:00:00.000Z",
-          "wordCount": 1419,
-          "title": "Agentic Resource Discovery: Let agents search",
-          "imageUrl": "https://huggingface.co/blog/assets/agentic-resource-discovery-launch/thumbnail.png"
         }
       ]
     },
@@ -1922,6 +1897,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a5a5daeee4c6fc82387d36e",
+          "author": "Jibril-M🍀",
+          "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
+          "link": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
+          "publishedOn": "2026-07-17T16:51:58.000Z",
+          "wordCount": 4163,
+          "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89b0a610-cd98-4112-95cc-fb01597911dc.png"
+        },
+        {
           "id": "6a57a65ae479ecc16ad3b5b5",
           "author": "Rudrendu Paul",
           "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
@@ -2021,6 +2006,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "0a2682f8-81e4-11f1-9d77-fb3260a0e541",
+          "author": null,
+          "description": "We answer your questions from Threads! HWHAP celebrates nine years of podcasting by bringing on Dr. Kelsey Young to discuss the Artemis II lunar science team, and the crew's lunar flyby observations and photo targets.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-ii-lunar-science/",
+          "publishedOn": "2026-07-17T13:55:00.000Z",
+          "wordCount": null,
+          "title": "Artemis II Lunar Science",
+          "itunes": {
+            "duration": "3941"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8141278983.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6b1b8bc2-7c61-11f1-bf55-77c19ea51ee2",
           "author": null,
@@ -2191,6 +2194,16 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=39599",
+          "author": "Sujana Urs",
+          "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Career Paths in AI Training: From Language and Medical Experts to Autonomous Systems Specialists appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/career-paths-in-ai-training-from-language-and-medical-experts-to-autonomous-systems-specialists/",
+          "publishedOn": "2026-07-17T11:00:57.000Z",
+          "wordCount": 3087,
+          "title": "Career Paths in AI Training: From Language and Medical Experts to Autonomous Systems Specialists",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
+        },
+        {
           "id": "https://imerit.ai/?p=39074",
           "author": "Sujana Urs",
           "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026 appeared first on iMerit.",
@@ -2277,6 +2290,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256360",
+          "author": "Sree Vamsi",
+          "description": "Connecting MCP servers to Claude allows it to work with external tools, files, databases, repositories, and other systems instead of operating only within the chat window. The setup differs slightly between Claude Desktop and Claude Code, but both can be configured in just a few steps. In this article, you’ll learn how to connect MCP […]\nThe post How to Connect MCP Servers with Claude (Claude Desktop and Claude Code) appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/",
+          "publishedOn": "2026-07-17T09:07:57.000Z",
+          "wordCount": null,
+          "title": "How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256283",
           "author": "Vasu Deo Sankrityayan",
@@ -2529,17 +2553,6 @@
           "title": "Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255740",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Having the right certificate can make all the difference. But with so many out there, getting the right one isn’t easy. That’s where OpenAI Academy comes in. OpenAI, the company behind the ChatGPT models, has introduced a learning platform through its OpenAI academy that offers AI courses for upskilling professionals. These courses cover topics like […]\nThe post OpenAI Just Launched 3 Free AI Courses with Certificates appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/free-openai-ai-courses-with-certificates/",
-          "publishedOn": "2026-06-17T10:30:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI Just Launched 3 Free AI Courses with Certificates",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2584,6 +2597,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "author": null,
+          "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A scorecard for the AI age",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
           "author": null,
@@ -2963,26 +2986,6 @@
           "wordCount": null,
           "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ai-chemist-improves-reaction",
-          "author": null,
-          "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-          "link": "https://openai.com/index/ai-chemist-improves-reaction",
-          "publishedOn": "2026-06-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-life-sci-bench",
-          "author": null,
-          "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-          "link": "https://openai.com/index/introducing-life-sci-bench",
-          "publishedOn": "2026-06-17T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing LifeSciBench",
-          "imageUrl": null
         }
       ]
     },
@@ -3078,6 +3081,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "5kEezahvkEiQuWEfx",
+          "author": "Alex Mallen",
+          "description": "A bunch of conceptual reasoning tasks involve very subjective judgments, which makes them poorly suited for benchmarking AI capabilities. For example, it seems unreasonable to benchmark how well AIs can predict the probability of misaligned AI takeover. Perhaps instead we should measure capabilities by explicitly instructing the AI to predict a specified person’s judgment on this kind of question.\n(This quick document is aimed at people interested in benchmarking beneficial, urgent, and neglected conceptual reasoning capabilities. I don’t argue for this direction here, but in short it’s broadly aimed at making it so that at a given level of AI R&D speedup, AIs are less sloppy. See also here, here, here, and here.)\nFor conceptual tasks with hard-to-resolve disagreement, it's unclear if judg…",
+          "link": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
+          "publishedOn": "2026-07-17T23:42:45.000Z",
+          "wordCount": 22824,
+          "title": "Should we benchmark conceptual capabilities using judgment prediction tasks?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "FBqe5dt8ZjaHN4Xj9",
+          "author": "Max Harms",
+          "description": "TLDR: I'm managing a new fund, housed at Lightcone Infrastructure, that will award at least $200,000 in grants and prizes for corrigibility research in 2026. Roughly half will go to traditional grants (first application deadline August 23rd) and half for prizes recognizing excellent work done this year. If you have interest in working on corrigibility, now is a good time to start! Apply via email: grants@corrigibilityresearch.org\nWhy this fund exists\nWhen I first dived into AI safety and alignment in 2009, the field was basically nonexistent. I've been relieved and gratified to see attention and funding grow, especially in the past few years. But even now, nearly all AI safety funding goes to evals, control, or interpretability. Work on alignment itself still remains deeply neglected, and …",
+          "link": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund",
+          "publishedOn": "2026-07-17T18:06:32.000Z",
+          "wordCount": 24352,
+          "title": "Announcing the Corrigibility Research Fund",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "iKm2FhpWkuuBojm82",
           "author": "TurnTrout",
@@ -3276,16 +3299,6 @@
           "publishedOn": "2026-06-18T16:50:59.000Z",
           "wordCount": 18705,
           "title": "GDM AI Control Roadmap",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "xPXJfgqFTvuJxGZbE",
-          "author": "Tomek Korbak",
-          "description": "Paper link\nBefore releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of our pre-deployment safety review, we leverage targeted evaluations, red-teaming, and other checks to understand model behavior. We’ve now started using a method for simulating model deployments before they happen, which adds a complementary signal: a deployment-like preview of how a candidate model may behave before it reaches users.\nDeployment Simulation is a method for simulating a future deployment before it happens. We do so by replaying previous conversations in a privacy-preserving manner with a new candidate model. By doing so, we …",
-          "link": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating",
-          "publishedOn": "2026-06-16T19:55:05.000Z",
-          "wordCount": 17276,
-          "title": "Predicting LLM Safety Before Release by Simulating Deployment",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
