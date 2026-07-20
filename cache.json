@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=609923",
+          "author": "Nikhil Dasari",
+          "description": "Let's discover how neural networks learn, step by step\nThe post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/",
+          "publishedOn": "2026-07-19T17:00:00.000Z",
+          "wordCount": 7645,
+          "title": "Backpropagation Explained for Beginners (Part 1): Building the Intuition",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pexels-vargaphotography-10796342-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609943",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #6quinquies] - Prompt engineering, then context engineering, then loop engineering. On the question side, the loop is small by design: read the doc, ask what is missing, re-parse.\nThe post Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/",
+          "publishedOn": "2026-07-19T15:00:00.000Z",
+          "wordCount": 7282,
+          "title": "Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop_roundabout_7900785_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609939",
+          "author": "Pratik Rupareliya",
+          "description": "An AI agent passed every metric in the eval harness I published, then the CFO killed it — its successful resolutions cost more than the humans it replaced.\nThe post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/",
+          "publishedOn": "2026-07-19T13:00:00.000Z",
+          "wordCount": 8339,
+          "title": "Your AI Agent Passed Every Eval. Finance Still Killed It.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/eval-metric-cost-per-successful-outcome.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=609931",
           "author": "Jiayan Yin",
           "description": "A practical enterprise AI architecture with data agents, AI-powered QA, and AI governance.\nThe post Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform. appeared first on Towards Data Science.",
@@ -1120,56 +1150,6 @@
           "wordCount": 4625,
           "title": "I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect.",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/etl-scheduling.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609411",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5quinquies] - Same 1974 scanned PDF, two engines. EasyOCR recovers text. Docling recovers text + sections + figures. The structural gap makes one output usable downstream and the other one a flat string.\nThe post Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/",
-          "publishedOn": "2026-06-19T13:30:00.000Z",
-          "wordCount": 6045,
-          "title": "Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_antique_typewriter_37703243_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609404",
-          "author": "Anubhab Banerjee",
-          "description": "The PCIe transfer latency is silently bottlenecking your agentic inference. Here is how building a custom device-resident vector search kernel bypasses the CPU to unlock deterministic microsecond tail latencies.\nThe post GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/",
-          "publishedOn": "2026-06-19T12:00:00.000Z",
-          "wordCount": 9475,
-          "title": "GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/part3img1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609402",
-          "author": "Maria Mouschoutzi",
-          "description": "Getting reliable, readable responses out of your LLM, and knowing which tool to reach for\nThe post Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/",
-          "publishedOn": "2026-06-18T18:00:00.000Z",
-          "wordCount": 5261,
-          "title": "Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/BBD94E2D-CF75-487F-96CB-6BD5682C7CAC.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609400",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn about the upsides and downsides of Claude Fable 5\nThe post How Powerful is Claude Fable (Mythos) 5 for Coding? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-powerful-is-claude-fable-mythos-5-for-coding/",
-          "publishedOn": "2026-06-18T16:30:00.000Z",
-          "wordCount": 4862,
-          "title": "How Powerful is Claude Fable (Mythos) 5 for Coding?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/claude-fable-5-review_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609397",
-          "author": "Francisco Javier Lobo-Cabrera",
-          "description": "For decades, the existence of the hydrophobic core, a region in the 3D structure of proteins where hydrophobic amino acids reside together, has been considered a general property in proteins. What we have found now may extend that model. In particular, the rest of amino acids also seem to cluster together according to their chemical type (polar, acidic, basic, special), specifically in groups of ~8 units. This is what we have come to call the Mosaic Q model. Here is how we found it, along with tools for its quantification and visualization.\nThe post Proteins: A Mosaic Pattern to Rule Them All? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/proteins-a-mosaic-pattern-to-rule-them-all/",
-          "publishedOn": "2026-06-18T15:00:00.000Z",
-          "wordCount": 5479,
-          "title": "Proteins: A Mosaic Pattern to Rule Them All?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/2BA1.jpg"
         }
       ]
     },
@@ -1334,23 +1314,7 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": [
-        {
-          "id": "https://blog.ml.cmu.edu/?p=22518",
-          "author": "Naveen Raman",
-          "description": "In healthcare settings where patients use LLMs as a medical assistant, LLM performance differs between evaluation and deployment. (a) Bean et al. (2025) find a 61 percentage point difference between evaluation and deployment. (b) We argue this gap arises not from poorly designed benchmarks, but from implicit assumptions embedded in evaluation protocols that fail to hold at deployment. (c) We propose a taxonomy that categorizes assumptions into two types, task and outcome, to diagnose where the gap arises and what is required to close it. Closing the gap requires making assumptions explicit, testing which assumptions hold, and updating evaluation protocols accordingly. Healthcare LLM benchmarks are one of the main paradigms by which LLMs are evaluated prior to clinical settings. Benchmarks provide a stable goalpost that allow researchers to iterate quickly and measure progress consistently. However, in high-stakes domains like healthcare, that same abstraction becomes a liability. For example, a recent study found a 61 percentage point drop in accuracy when going from evaluation to deployment (see Figure). In this setting, patients use LLMs as a medical assistant to better understand their symptoms, identify the underlying condition, and take appropriate actions.  Moreover, the results showed that patients given access to a […]",
-          "link": "https://blog.ml.cmu.edu/2026/06/19/healthcare-benchmarks-are-only-as-good-as-their-assumptions/",
-          "publishedOn": "2026-06-19T13:03:35.000Z",
-          "wordCount": 2253,
-          "title": "Healthcare Benchmarks Are Only as Good as Their Assumptions",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/Evaluation-Position-Paper-3.pdf",
-            "length": "336423",
-            "type": "application/octet-stream"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/06/Evaluation-Position-Paper-3-pdf.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Google AI Blog",
@@ -1690,16 +1654,6 @@
           "wordCount": 3230,
           "title": "We got local models to triage the OpenClaw repo for FREE!*",
           "imageUrl": "https://huggingface.co/blog/assets/local-models-pr-triage/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-          "author": null,
-          "description": "A Blog post by ServiceNow on Hugging Face",
-          "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-          "publishedOn": "2026-06-18T18:13:13.000Z",
-          "wordCount": 2187,
-          "title": "MosaicLeaks: Can your research agent keep a secret?",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp"
         }
       ]
     },
@@ -2170,21 +2124,6 @@
           "wordCount": null,
           "title": "AI Aced JEE Advanced 2026. Can You Trust It to Teach You?",
           "imageUrl": null
-        },
-        {
-          "id": "https://learnopencv.com/?p=79541",
-          "author": "Sudip Chakrabarty",
-          "description": "Learn how to fine-tune YOLO26 on your own data. We build a construction PPE safety detector and a sign-language reader using one simple workflow.\nHow to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/how-to-fine-tune-yolo26-for-safety-gear-and-sign-language-detection/",
-          "publishedOn": "2026-06-19T05:53:27.000Z",
-          "wordCount": 5420,
-          "title": "How to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection",
-          "enclosure": {
-            "url": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/17124056/yolo26_Finetuning_PPE_video_single_worker.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/06/17235330/YOLO26_Finetuning_Thumbnail_image.jpg"
         }
       ]
     },
@@ -2280,6 +2219,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256373",
+          "author": "Aayush Tyagi",
+          "description": "If you’ve spent any time on GitHub Trending this month, you’ve probably noticed a pattern: it isn’t research papers turning into repositories anymore, it’s agents. Coding agents, pentesting agents, trading agents, and the infrastructure that ties them all together. We tracked star growth, momentum, and real-world impact to identify the ten repositories that mattered most […]\nThe post Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition) appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/",
+          "publishedOn": "2026-07-19T10:38:30.000Z",
+          "wordCount": null,
+          "title": "Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256360",
           "author": "Sree Vamsi",
@@ -2519,17 +2469,6 @@
           "publishedOn": "2026-06-22T11:30:00.000Z",
           "wordCount": null,
           "title": "Claude’s Hidden Art Skill: Making Illustrations With Code",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255555",
-          "author": "Janvi Kumari",
-          "description": "ML system design interviews test how well you can think beyond models. In these interviews, choosing an algorithm is only one part of the answer. You also need to explain how data is collected, how features are created, how predictions are served, and how the system improves over time.  Most real ML systems are built […]\nThe post System Design for ML Interviews: 10 Real Problems Walked Through appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/",
-          "publishedOn": "2026-06-19T14:30:00.000Z",
-          "wordCount": null,
-          "title": "System Design for ML Interviews: 10 Real Problems Walked Through",
           "itunes": {},
           "imageUrl": null
         }
@@ -2935,16 +2874,6 @@
           "wordCount": null,
           "title": "Samsung Electronics brings ChatGPT and Codex to employees",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "author": null,
-          "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "publishedOn": "2026-06-18T17:00:00.000Z",
-          "wordCount": null,
-          "title": "New usage analytics and updated spend controls for enterprises",
-          "imageUrl": null
         }
       ]
     },
@@ -3000,22 +2929,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
-          "author": "Nathan Lambert",
-          "description": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
-          "link": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
-          "publishedOn": "2026-06-19T13:02:47.000Z",
-          "wordCount": null,
-          "title": "Banning Open Source AI Would Be A Mistake",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png"
         }
       ]
     },
@@ -3253,16 +3166,6 @@
           "wordCount": 23263,
           "title": "How transparent is DiffusionGemma (and why it matters)",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/zoYXpdaMgFT43Wc24/vfxvfplwnzttjbqexrm6"
-        },
-        {
-          "id": "hEtkyKGoPpFeWnKkX",
-          "author": "Mary Phuong",
-          "description": "GDM has published an AI Control Roadmap! From the executive summary:\n\nWe present the GDM AI Control Roadmap (v0.1) – our plan for implementing and adopting internal guardrails designed to catch potential adversarial behaviour by AI agents, even as they become increasingly harder to oversee and contain.\nWe focus on system-level mitigations that limit the harm a misaligned AI system could cause. Specifically, this report provides:\n• Threat modelling: Taking inspiration from cybersecurity, we adopt a conservative, worst-case approach to threat modelling throughout this paper, and assume a hypothetical AI adversary pursuing undesirable goals in internal deployment. We introduce TRAIT&R, a taxonomy of tactics and techniques available to such a hypothetical AI adversary, building on the establis…",
-          "link": "https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap",
-          "publishedOn": "2026-06-18T16:50:59.000Z",
-          "wordCount": 18705,
-          "title": "GDM AI Control Roadmap",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }

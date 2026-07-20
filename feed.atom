@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-19T02:22:01.252Z</updated>
+    <updated>2026-07-20T02:39:16.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Backpropagation Explained for Beginners (Part 1): Building the Intuition]]></title>
+        <id>https://towardsdatascience.com/?p=609923</id>
+        <link href="https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/"/>
+        <updated>2026-07-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's discover how neural networks learn, step by step
+The post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikhil Dasari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval]]></title>
+        <id>https://towardsdatascience.com/?p=609943</id>
+        <link href="https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/"/>
+        <updated>2026-07-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6quinquies] - Prompt engineering, then context engineering, then loop engineering. On the question side, the loop is small by design: read the doc, ask what is missing, re-parse.
+The post Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Agent Passed Every Eval. Finance Still Killed It.]]></title>
+        <id>https://towardsdatascience.com/?p=609939</id>
+        <link href="https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/"/>
+        <updated>2026-07-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An AI agent passed every metric in the eval harness I published, then the CFO killed it — its successful resolutions cost more than the humans it replaced.
+The post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pratik Rupareliya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256373</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/07/trending-ai-github-repositories/"/>
+        <updated>2026-07-19T10:38:30.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent any time on GitHub Trending this month, you’ve probably noticed a pattern: it isn’t research papers turning into repositories anymore, it’s agents. Coding agents, pentesting agents, trading agents, and the infrastructure that ties them all together. We tracked star growth, momentum, and real-world impact to identify the ten repositories that mattered most […]
+The post Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition) appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Aayush Tyagi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Red Line and Oversight Framework for Government AI Contracts]]></title>
         <id>CCt9oy8axcdvaGcPE</id>
@@ -3058,137 +3102,6 @@ The post Building a Custom GStreamer Plugin for NVIDIA DeepStream appeared first
 The post I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect. appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Design for ML Interviews: 10 Real Problems Walked Through]]></title>
-        <id>https://www.analyticsvidhya.com/?p=255555</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/"/>
-        <updated>2026-06-19T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ML system design interviews test how well you can think beyond models. In these interviews, choosing an algorithm is only one part of the answer. You also need to explain how data is collected, how features are created, how predictions are served, and how the system improves over time.  Most real ML systems are built […]
-The post System Design for ML Interviews: 10 Real Problems Walked Through appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document]]></title>
-        <id>https://towardsdatascience.com/?p=609411</id>
-        <link href="https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/"/>
-        <updated>2026-06-19T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5quinquies] - Same 1974 scanned PDF, two engines. EasyOCR recovers text. Docling recovers text + sections + figures. The structural gap makes one output usable downstream and the other one a flat string.
-The post Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healthcare Benchmarks Are Only as Good as Their Assumptions]]></title>
-        <id>https://blog.ml.cmu.edu/?p=22518</id>
-        <link href="https://blog.ml.cmu.edu/2026/06/19/healthcare-benchmarks-are-only-as-good-as-their-assumptions/"/>
-        <updated>2026-06-19T13:03:35.000Z</updated>
-        <summary type="html"><![CDATA[In healthcare settings where patients use LLMs as a medical assistant, LLM performance differs between evaluation and deployment. (a) Bean et al. (2025) find a 61 percentage point difference between evaluation and deployment. (b) We argue this gap arises not from poorly designed benchmarks, but from implicit assumptions embedded in evaluation protocols that fail to hold at deployment. (c) We propose a taxonomy that categorizes assumptions into two types, task and outcome, to diagnose where the gap arises and what is required to close it. Closing the gap requires making assumptions explicit, testing which assumptions hold, and updating evaluation protocols accordingly. Healthcare LLM benchmarks are one of the main paradigms by which LLMs are evaluated prior to clinical settings. Benchmarks provide a stable goalpost that allow researchers to iterate quickly and measure progress consistently. However, in high-stakes domains like healthcare, that same abstraction becomes a liability. For example, a recent study found a 61 percentage point drop in accuracy when going from evaluation to deployment (see Figure). In this setting, patients use LLMs as a medical assistant to better understand their symptoms, identify the underlying condition, and take appropriate actions.  Moreover, the results showed that patients given access to a […]]]></summary>
-        <author>
-            <name>Naveen Raman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banning Open Source AI Would Be A Mistake]]></title>
-        <id>https://www.interconnects.ai/p/banning-open-source-ai-would-be-a</id>
-        <link href="https://www.interconnects.ai/p/banning-open-source-ai-would-be-a"/>
-        <updated>2026-06-19T13:02:47.000Z</updated>
-        <summary type="html"><![CDATA[This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU]]></title>
-        <id>https://towardsdatascience.com/?p=609404</id>
-        <link href="https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/"/>
-        <updated>2026-06-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The PCIe transfer latency is silently bottlenecking your agentic inference. Here is how building a custom device-resident vector search kernel bypasses the CPU to unlock deterministic microsecond tail latencies.
-The post GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection]]></title>
-        <id>https://learnopencv.com/?p=79541</id>
-        <link href="https://learnopencv.com/how-to-fine-tune-yolo26-for-safety-gear-and-sign-language-detection/"/>
-        <updated>2026-06-19T05:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to fine-tune YOLO26 on your own data. We build a construction PPE safety detector and a sign-language reader using one simple workflow.
-How to Fine-Tune YOLO26 for Safety Gear and Sign Language Detection first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Sudip Chakrabarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MosaicLeaks: Can your research agent keep a secret?]]></title>
-        <id>https://huggingface.co/blog/ServiceNow/mosaicleaks</id>
-        <link href="https://huggingface.co/blog/ServiceNow/mosaicleaks"/>
-        <updated>2026-06-18T18:13:13.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by ServiceNow on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each]]></title>
-        <id>https://towardsdatascience.com/?p=609402</id>
-        <link href="https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/"/>
-        <updated>2026-06-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting reliable, readable responses out of your LLM, and knowing which tool to reach for
-The post Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New usage analytics and updated spend controls for enterprises]]></title>
-        <id>https://openai.com/index/chatgpt-enterprise-spend-controls</id>
-        <link href="https://openai.com/index/chatgpt-enterprise-spend-controls"/>
-        <updated>2026-06-18T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDM AI Control Roadmap]]></title>
-        <id>hEtkyKGoPpFeWnKkX</id>
-        <link href="https://www.alignmentforum.org/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap"/>
-        <updated>2026-06-18T16:50:59.000Z</updated>
-        <summary type="html"><![CDATA[GDM has published an AI Control Roadmap! From the executive summary:
-
-We present the GDM AI Control Roadmap (v0.1) – our plan for implementing and adopting internal guardrails designed to catch potential adversarial behaviour by AI agents, even as they become increasingly harder to oversee and contain.
-We focus on system-level mitigations that limit the harm a misaligned AI system could cause. Specifically, this report provides:
-• Threat modelling: Taking inspiration from cybersecurity, we adopt a conservative, worst-case approach to threat modelling throughout this paper, and assume a hypothetical AI adversary pursuing undesirable goals in internal deployment. We introduce TRAIT&R, a taxonomy of tactics and techniques available to such a hypothetical AI adversary, building on the establis…]]></summary>
-        <author>
-            <name>Mary Phuong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Powerful is Claude Fable (Mythos) 5 for Coding?]]></title>
-        <id>https://towardsdatascience.com/?p=609400</id>
-        <link href="https://towardsdatascience.com/how-powerful-is-claude-fable-mythos-5-for-coding/"/>
-        <updated>2026-06-18T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the upsides and downsides of Claude Fable 5
-The post How Powerful is Claude Fable (Mythos) 5 for Coding? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proteins: A Mosaic Pattern to Rule Them All?]]></title>
-        <id>https://towardsdatascience.com/?p=609397</id>
-        <link href="https://towardsdatascience.com/proteins-a-mosaic-pattern-to-rule-them-all/"/>
-        <updated>2026-06-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For decades, the existence of the hydrophobic core, a region in the 3D structure of proteins where hydrophobic amino acids reside together, has been considered a general property in proteins. What we have found now may extend that model. In particular, the rest of amino acids also seem to cluster together according to their chemical type (polar, acidic, basic, special), specifically in groups of ~8 units. This is what we have come to call the Mosaic Q model. Here is how we found it, along with tools for its quantification and visualization.
-The post Proteins: A Mosaic Pattern to Rule Them All? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Francisco Javier Lobo-Cabrera</name>
         </author>
     </entry>
 </feed>
