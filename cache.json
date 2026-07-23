@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610019",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #8bis] - Two regimes for sending retrieved candidates to the generation brick, the sufficiency signal that picks between them, and the per-question type dispatch that makes it cheap\nThe post Loop Engineering for RAG Generation: Iterate top-k One at a Time appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/",
+          "publishedOn": "2026-07-22T16:30:00.000Z",
+          "wordCount": 6606,
+          "title": "Loop Engineering for RAG Generation: Iterate top-k One at a Time",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/conveyor_sorting_32578355_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610015",
+          "author": "Anubhab Banerjee",
+          "description": "If you have ever wanted to actually build an LLM inference runtime yourself — pack your own weights, own every barrier, capture your own CUDA graphs — this is what that journey looks like on an H100. A step-by-step tour of a small runtime called annotated-llm-runtime, and the three bugs that produced most of the annotations.\nThe post How To Build Your Own LLM Runtime From Scratch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/",
+          "publishedOn": "2026-07-22T15:00:00.000Z",
+          "wordCount": 9065,
+          "title": "How To Build Your Own LLM Runtime From Scratch",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/nanoqwen_hero.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610013",
+          "author": "Shuai Guo",
+          "description": "A hands-on walkthrough of code execution with the OpenAI Agents SDK and Docker\nThe post Build an LLM Agent That Can Write and Run Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/build-an-llm-agent-that-can-write-and-run-code/",
+          "publishedOn": "2026-07-22T13:30:00.000Z",
+          "wordCount": 6600,
+          "title": "Build an LLM Agent That Can Write and Run Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-239.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610010",
+          "author": "Chien Vu Minh",
+          "description": "Static analysis nailed the malicious skill and over-flagged the useful one. The gap between those results is where human judgement actually earns its keep.\nThe post Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/",
+          "publishedOn": "2026-07-22T12:00:00.000Z",
+          "wordCount": 9548,
+          "title": "Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/feature.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610008",
           "author": "angela shi",
           "description": "Enterprise Document Intelligence [Vol.1 #9bis] - Your RAG isn’t hallucinating, it’s answering the wrong context faithfully. On real NIST and World Bank documents, watch each of the four bricks break, and the contract that closes it\nThe post Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations appeared first on Towards Data Science.",
@@ -1120,46 +1160,6 @@
           "wordCount": 4624,
           "title": "How to Use Claude Code in Your Browser",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/coding-agents-browser_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609429",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #6bis] - Ask one focused clarification, learn the default from the answer, stay silent next time\nThe post When RAG Users Ask Vague Questions: Clarify Once, Learn the Default appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-rag-users-ask-vague-questions-clarify-once-learn-the-default/",
-          "publishedOn": "2026-06-22T13:30:00.000Z",
-          "wordCount": 5207,
-          "title": "When RAG Users Ask Vague Questions: Clarify Once, Learn the Default",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/sticky_note_ETRPjvb0KM0_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609427",
-          "author": "Nikhil Dasari",
-          "description": "The intuition behind neural networks and why they need activation functions.\nThe post Neural Networks, Explained for Beginners: Start Here If They’ve Confused You appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/neural-networks-explained-for-beginners-start-here-if-theyve-confused-you/",
-          "publishedOn": "2026-06-22T12:00:00.000Z",
-          "wordCount": 7557,
-          "title": "Neural Networks, Explained for Beginners: Start Here If They’ve Confused You",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pexels-david-bartus-43782-366791-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609425",
-          "author": "Maria Mouschoutzi",
-          "description": "Understanding ow LLMs interact with the world around them, from returning data to taking action\nThe post Tool Calling, Explained: How AI Agents Decide What to Do Next appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tool-calling-explained-how-ai-agents-decide-what-to-do-next/",
-          "publishedOn": "2026-06-21T17:00:00.000Z",
-          "wordCount": 5431,
-          "title": "Tool Calling, Explained: How AI Agents Decide What to Do Next",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Capture.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609415",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5septies] - When a PDF prints a contents page but exposes no outline, two ways to turn it back into structure, plus the page-alignment step everyone forgets\nThe post Reconstructing the Table of Contents a PDF Forgot to Ship, So RAG Can Scope by Section appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/reconstructing-the-table-of-contents-a-pdf-forgot-to-ship-so-rag-can-scope-by-section/",
-          "publishedOn": "2026-06-21T15:00:00.000Z",
-          "wordCount": 5882,
-          "title": "Reconstructing the Table of Contents a PDF Forgot to Ship, So RAG Can Scope by Section",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_contents_page_29378816_v3_card.jpg"
         }
       ]
     },
@@ -1307,16 +1307,6 @@
           "wordCount": 8994,
           "title": "Clustering Unstructured Text with LLM Embeddings and HDBSCAN",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-clustering-unstructured-text-with-llm-embeddings-and-hdbscan-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24488",
-          "author": "Shittu Olumide",
-          "description": "Most AI agent tutorials start with an API.",
-          "link": "https://machinelearningmastery.com/building-browser-using-ai-agents-in-python/",
-          "publishedOn": "2026-06-22T12:00:28.000Z",
-          "wordCount": 15572,
-          "title": "Building Browser-Using AI Agents in Python",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-Building-Browser-Using-AI-Agents-in-Python-1024x680.png"
         }
       ]
     },
@@ -1674,26 +1664,6 @@
           "wordCount": 3002,
           "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
           "imageUrl": "https://huggingface.co/blog/assets/cross-origin-storage/thumbnail.jpg"
-        },
-        {
-          "id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-          "author": null,
-          "description": "A Blog post by PaddlePaddle on Hugging Face",
-          "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-          "publishedOn": "2026-06-22T13:18:56.000Z",
-          "wordCount": 1499,
-          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/l156KP0e5PRyDrE4woHoM.jpeg"
-        },
-        {
-          "id": "https://huggingface.co/blog/local-models-pr-triage",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/local-models-pr-triage",
-          "publishedOn": "2026-06-22T00:00:00.000Z",
-          "wordCount": 3230,
-          "title": "We got local models to triage the OpenClaw repo for FREE!*",
-          "imageUrl": "https://huggingface.co/blog/assets/local-models-pr-triage/thumbnail.png"
         }
       ]
     },
@@ -1881,6 +1851,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a60f5843dee1fe3a0faaca9",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the",
+          "link": "https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/",
+          "publishedOn": "2026-07-22T16:53:24.000Z",
+          "wordCount": 3761,
+          "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e7cfe47-858c-4ce9-b8f9-1c5fc22f29b7.png"
+        },
+        {
           "id": "6a5a5daeee4c6fc82387d36e",
           "author": "Jibril-M🍀",
           "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
@@ -1957,6 +1937,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a60f5843dee1fe3a0faaca9",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Most segmentation tutorials begin by choosing a model, feeding images into it, and tuning hyperparameters until the metric improves. But this skips the step that often matters most: understanding the",
+          "link": "https://www.freecodecamp.org/news/how-to-train-a-tumor-segmentation-model-on-ultrasound-data-with-monai/",
+          "publishedOn": "2026-07-22T16:53:24.000Z",
+          "wordCount": 3761,
+          "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e7cfe47-858c-4ce9-b8f9-1c5fc22f29b7.png"
+        },
         {
           "id": "6a57a5ffa7a08b8fa91b718f",
           "author": "Mohammed Fahd Abrah",
@@ -2137,6 +2127,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=29039",
+          "author": "Sovit Rath",
+          "description": "This post focuses on contour detection in images using the OpenCV computer vision library along with hands-on coding using Python and C++.\nContour Detection using OpenCV (Python/C++) first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/contour-detection-using-opencv-python-c/",
+          "publishedOn": "2026-07-22T13:00:00.000Z",
+          "wordCount": 9225,
+          "title": "Contour Detection using OpenCV (Python/C++)",
+          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2021/06/04093440/Pg-5-Contour-Detection-using-OpenCV-Feature-Image-1-scaled.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=79814",
           "author": "Satya Mallick",
           "description": "Install OpenCV 5 on Linux with pip, C++ source, or CUDA. Includes Ubuntu 24.04 tests, distro routing, strict checks, and a verifier bundle.\nInstall OpenCV 5 on Linux first appeared on LearnOpenCV.",
@@ -2280,6 +2280,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256500",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "On July 21, 2026, while everyone was still waiting on the much-delayed Gemini 3.5 Pro, Google slipped out a mid-cycle update to its speed tier: Gemini 3.6 Flash. No new frontier claims, no dramatic reveal. Instead, the model does roughly the same thinking as 3.5 Flash while spending fewer tokens, fewer tool calls, and fewer […]\nThe post Gemini 3.6 Flash Is Here: The Efficiency Release appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/",
+          "publishedOn": "2026-07-22T11:52:49.000Z",
+          "wordCount": null,
+          "title": "Gemini 3.6 Flash Is Here: The Efficiency Release",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256435",
+          "author": "Riya Bansal",
+          "description": "This scene is playing out across engineering teams everywhere. Someone wraps a few LangChain calls inside a loop, adds a couple of tools, and proudly declares, “We’ve built an AI agent.” The demo looks great. Everyone is impressed. Then it goes to production. The first unexpected input arrives. The workflow breaks. Logs fill up. Alerts start firing. […]\nThe post Agentic AI vs AI Automation: What’s the Real Difference? appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/",
+          "publishedOn": "2026-07-21T18:22:00.000Z",
+          "wordCount": null,
+          "title": "Agentic AI vs AI Automation: What’s the Real Difference?",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256404",
           "author": "Harsh Mishra",
@@ -2532,17 +2554,6 @@
           "title": "Sakana Fugu: Multi-Agent System as a Model",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255789",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Everyone says Claude can’t make pictures. That’s partly true. Here is the kind of art it makes on its own, with no plugins and no connectors: Drawn by Claude in SVG, no image model anywhere near it. Not pixels but code: shapes and coordinates that stay sharp at any size and redraw themselves when you […]\nThe post Claude’s Hidden Art Skill: Making Illustrations With Code appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/claude-image-generation/",
-          "publishedOn": "2026-06-22T11:30:00.000Z",
-          "wordCount": null,
-          "title": "Claude’s Hidden Art Skill: Making Illustrations With Code",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2587,6 +2598,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "author": null,
+          "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "publishedOn": "2026-07-22T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Building AI infrastructure with the Effingham County community",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "author": null,
+          "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+          "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "publishedOn": "2026-07-22T13:00:00.000Z",
+          "wordCount": null,
+          "title": "How news organizations are using AI to advance their vital missions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "author": null,
+          "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+          "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "publishedOn": "2026-07-22T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Advancing the next era of national science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-openai-presence",
+          "author": null,
+          "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "link": "https://openai.com/index/introducing-openai-presence",
+          "publishedOn": "2026-07-22T05:30:00.000Z",
+          "wordCount": null,
+          "title": "Introducing OpenAI Presence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/ntt-data",
+          "author": null,
+          "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+          "link": "https://openai.com/index/ntt-data",
+          "publishedOn": "2026-07-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
           "author": null,
@@ -2946,46 +3007,6 @@
           "wordCount": null,
           "title": "How Omio is building the future of conversational travel",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/patch-the-planet",
-          "author": null,
-          "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-          "link": "https://openai.com/index/patch-the-planet",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/daybreak-securing-the-world",
-          "author": null,
-          "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-          "link": "https://openai.com/index/daybreak-securing-the-world",
-          "publishedOn": "2026-06-22T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Daybreak: Tools for securing every organization in the world",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/codex-maxxing-long-running-work",
-          "author": null,
-          "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-          "link": "https://openai.com/index/codex-maxxing-long-running-work",
-          "publishedOn": "2026-06-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Codex-maxxing for long-running work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "author": null,
-          "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-          "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "publishedOn": "2026-06-21T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "imageUrl": null
         }
       ]
     },
@@ -2994,6 +3015,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+          "author": "Nathan Lambert",
+          "description": "A podcast with Florian Brand.",
+          "link": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+          "publishedOn": "2026-07-22T14:09:04.000Z",
+          "wordCount": null,
+          "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/207969620/a82e3d40f39345b0609610ffedd72469.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
           "author": "Nathan Lambert",
@@ -3065,6 +3102,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "TTei7oq9ndjJFgnsT",
+          "author": "Vanessa Kosoy",
+          "description": "Abstract: In a previous paper, we began the study of sequence prediction algorithms adapted to stringological word complexity measures. One measure we considered was left-to-right (most-significant-digit-first) automaticity. Here, we show a statistically and computationally efficient algorithm adapted to the \"dual\" right-to-left (least-significant-digit-first) automaticity, which turns out to be substantially different for our purpose. We also demonstrate a prediction algorithm for a more expressive measure that we call \"arithmetic repetition complexity\". In particular, the latter can be used for predicting the so-called mix-automatic sequences.\nThis paper continues my sequence on the new approach to compositional learning, which started with \"stringological sequence prediction I\". Curious…",
+          "link": "https://www.alignmentforum.org/posts/TTei7oq9ndjJFgnsT/paper-stringological-sequence-prediction-ii",
+          "publishedOn": "2026-07-22T07:27:26.000Z",
+          "wordCount": 20203,
+          "title": "[Paper] Stringological sequence prediction II",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "6ek6n7yZ5DzfarJHy",
           "author": "agam_bhatia",
