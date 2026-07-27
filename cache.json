@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610068",
+          "author": "Eivind Kjosbakken",
+          "description": "Maximize your efficiency with Claude Code\nThe post How to Efficiently Prompt Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/",
+          "publishedOn": "2026-07-26T15:00:00.000Z",
+          "wordCount": 4999,
+          "title": "How to Efficiently Prompt Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/prompting-coding-agents_cover-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610062",
+          "author": "Shuai Guo",
+          "description": "Building a browser-use agent with OpenAI Agents SDK and Playwright MCP\nThe post How to Give an LLM Agent a Browser appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/giving-an-llm-agent-a-browser/",
+          "publishedOn": "2026-07-26T13:00:00.000Z",
+          "wordCount": 4250,
+          "title": "How to Give an LLM Agent a Browser",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/browser_use.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610059",
           "author": "Oleg Tereshin",
           "description": "Architecting cost-effective infrastructure by navigating the latency and storage trade-offs of HNSW, SPANN, and DiskANN\nThe post How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes appeared first on Towards Data Science.",
@@ -1060,66 +1080,6 @@
           "wordCount": 4844,
           "title": "Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Capture-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609515",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #M1] - The thesis behind every architectural choice in this series\nThe post Amplify the Expert: A Philosophy for Building Enterprise RAG appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/",
-          "publishedOn": "2026-06-26T13:30:00.000Z",
-          "wordCount": 6742,
-          "title": "Amplify the Expert: A Philosophy for Building Enterprise RAG",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_multiple_aged_megaphones_17619961_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609513",
-          "author": "Egor Howell",
-          "description": "How to smash through data / ML behavioural interviews\nThe post How to Ace Data and ML Behavioural Interviews appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/",
-          "publishedOn": "2026-06-26T12:00:00.000Z",
-          "wordCount": 4709,
-          "title": "How to Ace Data and ML Behavioural Interviews",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/3.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/",
-          "author": "Emmimal P Alexander",
-          "description": "I benchmarked raw chat history, vector-only RAG, and a context graph on the same multi-agent conversations. The results exposed a surprising weakness in relational retrieval.\nThe post Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/",
-          "publishedOn": "2026-06-25T18:37:53.000Z",
-          "wordCount": 6852,
-          "title": "Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Context-Graph.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609506",
-          "author": "Sandeep Bharadwaj Mannapur",
-          "description": "A reproducible benchmark on latency, cost, and reproducibility, and where agents actually earn their keep.\nThe post The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/",
-          "publishedOn": "2026-06-25T18:00:00.000Z",
-          "wordCount": 6291,
-          "title": "The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/01_architecture-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609504",
-          "author": "Gustavo Santos",
-          "description": "Whether you should stick to a classic Ordinary Least Squares regression, introduce interaction terms, or pivot to a Tweedie distribution depends entirely on how your data handles the messy reality of zeros and extreme outliers.\nThe post Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-the-straight-line-choosing-between-ols-interaction-terms-and-tweedie-regression/",
-          "publishedOn": "2026-06-25T16:30:00.000Z",
-          "wordCount": 5946,
-          "title": "Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Gemini_Generated_Image_p2smljp2smljp2sm.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609498",
-          "author": "Anubhab Banerjee",
-          "description": "Beat the 8GB VRAM limit. Learn how to run three different LLMs on a single 8GB GPU using C++ layer multiplexing and admission control.\nThe post 3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/3-agents-3-llms-1-aging-gpu-engineering-parallel-inference-on-bare-metal/",
-          "publishedOn": "2026-06-25T15:00:00.000Z",
-          "wordCount": 7309,
-          "title": "3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/vram_conductor_overview.jpg"
         }
       ]
     },
@@ -1227,16 +1187,6 @@
           "wordCount": 9349,
           "title": "Model Context Protocol Explained in 3 Levels of Difficulty",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-mcp-3-levels-1024x683.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24477",
-          "author": "Shittu Olumide",
-          "description": "• <a href=\"https://www.",
-          "link": "https://machinelearningmastery.com/the-ai-agent-tech-stack-explained/",
-          "publishedOn": "2026-06-26T14:01:03.000Z",
-          "wordCount": 14351,
-          "title": "The AI Agent Tech Stack Explained",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-The-AI-Agent-Tech-Stack-1024x573.png"
         }
       ]
     },
@@ -1534,26 +1484,6 @@
           "wordCount": 1141,
           "title": "DiScoFormer: One transformer for density and score, across distributions",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AnOX0pzQm-Hep_CLFOVM7.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/vllm-jobs",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/vllm-jobs",
-          "publishedOn": "2026-06-26T00:00:00.000Z",
-          "wordCount": 1808,
-          "title": "Run a vLLM Server on HF Jobs in One Command",
-          "imageUrl": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-          "publishedOn": "2026-06-25T16:11:42.000Z",
-          "wordCount": 1604,
-          "title": "Which tokens does a hybrid model predict better?",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F1-AlOdxpdaxe6a5BXuU7.png"
         }
       ]
     },
@@ -1633,16 +1563,6 @@
           "wordCount": 4425,
           "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Memora-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1176573",
-          "author": "Chandan Singh, Jianfeng Gao",
-          "description": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.\nThe post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
-          "publishedOn": "2026-06-25T16:00:00.000Z",
-          "wordCount": 4320,
-          "title": "Understanding the brain with AI-driven explanations and experiments",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/UnderstandingtheBrain-TWLIFB-1200x627-1-scaled.jpg"
         }
       ]
     },
@@ -1913,24 +1833,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "daae0d06-7163-11f1-9a3a-0bbed6c1c3d0",
-          "author": null,
-          "description": "Dr. Giuseppe Iaria discusses scientific results from the Wayfinding investigation on space station and what it reveals about how astronauts navigate, adapt, and form mental maps in space. Episode 427.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-wayfinding/",
-          "publishedOn": "2026-06-26T14:00:00.000Z",
-          "wordCount": null,
-          "title": "ISS Results: Wayfinding",
-          "itunes": {
-            "duration": "3399"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8038421748.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2167,6 +2069,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256454",
+          "author": "Vipin Vashisth",
+          "description": "Data science case study interviews are not just about writing code. They test how you think through a problem, analyze data, make decisions, and explain your approach in a way that solves a real business challenge. In this guide, you’ll learn a simple framework called SCOPE that you can use to approach almost any data […]\nThe post Cracking the Data Science Case Study Interview appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/data-science-case-study/",
+          "publishedOn": "2026-07-26T07:28:00.000Z",
+          "wordCount": null,
+          "title": "Cracking the Data Science Case Study Interview",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256465",
           "author": "Akshay Rana",
@@ -2428,17 +2341,6 @@
           "publishedOn": "2026-06-29T04:08:35.000Z",
           "wordCount": null,
           "title": "GraphRAG vs Vector RAG: Which Retrieval Method is Best?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255907",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "You’ve heard the warnings! Don’t tell ChatGPT your secrets. The robots are reading everything. Your data is the product. And yet here you are: using them as a subscriber. Because AI is genuinely useful! The good news: that distrust is healthy, and you don’t have to choose between using AI and protecting yourself. You can […]\nThe post Using AI When You Don’t Trust AI appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/ai-chatbot-privacy-guide/",
-          "publishedOn": "2026-06-26T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Using AI When You Don’t Trust AI",
           "itunes": {},
           "imageUrl": null
         }
@@ -2853,16 +2755,6 @@
           "publishedOn": "2026-06-28T17:00:00.000Z",
           "wordCount": null,
           "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "author": null,
-          "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-          "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "publishedOn": "2026-06-26T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Previewing GPT-5.6 Sol: a next-generation model",
           "imageUrl": null
         }
       ]
