@@ -2,10 +2,234 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-29T02:14:26.216Z</updated>
+    <updated>2026-07-30T02:03:34.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Imprecise beliefs: a tiny introduction]]></title>
+        <id>e7Pd4Q9TF7jFdmPgz</id>
+        <link href="https://www.alignmentforum.org/posts/e7Pd4Q9TF7jFdmPgz/imprecise-beliefs-a-tiny-introduction"/>
+        <updated>2026-07-29T22:17:35.000Z</updated>
+        <summary type="html"><![CDATA[Richard Ngo challenged me to set a time box and write down as many of the most important features of my formal epistemology as I can in one sitting. Here goes.
+
+Motivation: Where probability distributions fail...
+...to express beliefs
+
+There is no probability distribution over 
+
+
+mjx-container[jax="CHTML"] {
+  line-height: 0;
+}
+
+mjx-container [space="1"] {
+  margin-left: .111em;
+}
+
+mjx-container [space="2"] {
+  margin-left: .167em;
+}
+
+mjx-container [space="3"] {
+  margin-left: .222em;
+}
+
+mjx-container [space="4"] {
+  margin-left: .278em;
+}
+
+mjx-container [space="5"] {
+  margin-left: .333em;
+}
+
+mjx-container [rspace="1"] {
+  margin-right: .111em;
+}
+
+mjx-container [rspace="2"] {
+  margin-right: .167em;
+}
+
+mjx-container [rspace="3"] {
+  margin-right: .222em;
+}
+
+mjx-container [rspace="4"] {
+  …]]></summary>
+        <author>
+            <name>davidad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Engineering Is Solved—Prompt Management Isn’t]]></title>
+        <id>https://towardsdatascience.com/?p=610189</id>
+        <link href="https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/"/>
+        <updated>2026-07-29T16:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Prompt engineering helps you write better prompts—but it doesn’t help you change them safely. This article explores a common production failure where a simple variable rename breaks every live call, and introduces a lightweight static analysis tool that treats prompts like contracts, catching breaking changes before they ship.
+The post Prompt Engineering Is Solved—Prompt Management Isn’t appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Value Generalisation 3: Pre-aligned AIs]]></title>
+        <id>uMKGaEKRDpoqnZyBh</id>
+        <link href="https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais"/>
+        <updated>2026-07-29T15:58:16.000Z</updated>
+        <summary type="html"><![CDATA[When we get explicit strong generalisation to work (see the first post on the matter and the second) my dream would be to create pre-aligned generalising AIs.
+Think about the usual conflict between alignment and capabilities, between doing the right thing and doing the easy thing. The standard narrative puts the good people at a constant disadvantage: they have to carefully plan every AI advance, always on the lookout for potential dangers. While those who don’t care can just YOLO and let it rip and let their AIs get ever more powerful without taking any responsibility.
+Now, in reality, there is some nuance to the story; but I don’t want to nuance it, I want to turn it on its head. I want to create AIs so that the good people can YOLO and reap the rewards of increased AI capabilities. Whil…]]></summary>
+        <author>
+            <name>Stuart_Armstrong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Value Generalisation 2: The Missing Hole in AIs’ abilities]]></title>
+        <id>TZgezuYjkfMQxyqJC</id>
+        <link href="https://www.alignmentforum.org/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities"/>
+        <updated>2026-07-29T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A human superpower hidden from even ourselves
+I though GPT 3.5 was on the verge of Artificial General Intelligence (AGI). It certainly seemed that way – it could combine and extend ideas in ways that were far beyond narrow rigid computing. Sure, it had some flaws, but with its general capabilities and humans working tirelessly on improving the model, these flaws would soon be resolved and a full AGI would be born.
+It didn’t turn out that way. We are still where we were back in 2022 – as in, it feels we are on the verge of AGI, but not there yet.
+I think that humans have an ability, or a mix of abilities, that I’m calling strong generalisation. And LLMs and their derived models lack strong generalisation. This would explain some of the mysteries about LLMs:
+
+The fact that subject matter exp…]]></summary>
+        <author>
+            <name>Stuart_Armstrong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Value Generalisation 1: a Research and Deployment Program]]></title>
+        <id>58zFSWp8Tmxij6ckK</id>
+        <link href="https://www.alignmentforum.org/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program"/>
+        <updated>2026-07-29T15:57:50.000Z</updated>
+        <summary type="html"><![CDATA[I’m looking for people, advice, critiques, and funding to build a research program on value generalisation – the ability of an AI to correctly extend human values and preferences to situations neither it nor we have seen before. My ongoing research has become convinced that this is necessary if we want to get aligned AIs that operate in the human interest.
+This would be a focused research organisation or a commercial venture. I’m leaning towards commercial, because alignment techniques confined to academic papers get ignored – or worse, mined for capability-relevant parts while the alignment component is discarded.
+This post is the research program’s summary. The technical case is in the next post, and one exciting consequence – AIs whose alignment grows with their capabilities – is in the…]]></summary>
+        <author>
+            <name>Stuart_Armstrong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSIP Vision Announces Project Partnership With the University of South Florida]]></title>
+        <id>https://www.rsipvision.com/?p=17465</id>
+        <link href="https://www.rsipvision.com/rsip-vision-announces-project-partnership-with-the-university-of-south-florida/"/>
+        <updated>2026-07-29T15:37:54.000Z</updated>
+        <summary type="html"><![CDATA[July 29, 2026 RSIP Vision is excited to announce our collaboration with Professor Yuqiang Bai from the University of South Florida’s School of Medicine, Ophthalmology department. The ground-breaking tear film imaging system developed by Professor Bai and his team shows promising potential for dry eye disease, and we are honored to contribute to this important …
+  RSIP Vision Announces Project Partnership With the University of South Florida Read More »
+The post RSIP Vision Announces Project Partnership With the University of South Florida appeared first on RSIP Vision.]]></summary>
+        <author>
+            <name>David M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Best Predictive Model Gives the Wrong Treatment Effect]]></title>
+        <id>https://towardsdatascience.com/?p=610187</id>
+        <link href="https://towardsdatascience.com/why-your-best-predictive-model-gives-the-wrong-treatment-effect/"/>
+        <updated>2026-07-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why prediction-driven variable selection misses confounders and how Bayesian Adjustment for Confounding attempts to fix it.
+The post Why Your Best Predictive Model Gives the Wrong Treatment Effect appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ananya Bhattacharyya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark]]></title>
+        <id>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</id>
+        <link href="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"/>
+        <updated>2026-07-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weed vs. Crop Discrimination: Why Precision Spraying Models Fail Without Annotation Precision]]></title>
+        <id>https://imerit.ai/?p=40471</id>
+        <link href="https://imerit.ai/resources/blog/weed-vs-crop-discrimination-why-precision-spraying-models-fail-without-annotation-precision/"/>
+        <updated>2026-07-29T14:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn why text, image, audio, and video data require different annotation strategies, tools, quality controls, and expert workflows.
+The post Weed vs. Crop Discrimination: Why Precision Spraying Models Fail Without Annotation Precision appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Custom Skills in Claude: A Step-by-Step Guide]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256719</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/"/>
+        <updated>2026-07-29T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Claude can review data, check code, write reports, and prepare presentations, but teams still end up repeating the same structure, validation rules, company standards, and final-check instructions in every conversation. That repetition wastes time and often leads to inconsistent results. Custom Skills solve this by packaging reusable instructions, workflows, templates, scripts, examples, and reference files […]
+The post How to Create Custom Skills in Claude: A Step-by-Step Guide appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search]]></title>
+        <id>https://towardsdatascience.com/?p=610185</id>
+        <link href="https://towardsdatascience.com/los-movimientos-part-ii-solving-large-pickup-and-delivery-problems-with-adaptive-large-neighborhood-search/"/>
+        <updated>2026-07-29T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building an ALNS heuristic in Python for vehicle routing, time windows, capacity constraints, and mandatory driver breaks.
+The post Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Luis Fernando Pérez Armas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python]]></title>
+        <id>6a69ffcc634c4a299b014f9f</id>
+        <link href="https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/"/>
+        <updated>2026-07-29T13:27:40.000Z</updated>
+        <summary type="html"><![CDATA[For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization]]></title>
+        <id>https://towardsdatascience.com/?p=610179</id>
+        <link href="https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-1-normalization/"/>
+        <updated>2026-07-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the opening piece of a four-part deep dive series, on building a high-frequency streaming pipeline against a live public API. The data source is openSenseMap, a citizen-science IoT network used for climate research, mostly in Germany. A live public API is what makes it useful: it produces data-quality problems and edge cases that clean sample datasets never show. This article focuses on step-1: Normalization, later pieces cover matching algorithms, adaptive polling and noise filtering, and a vendor-agnostic Apache Iceberg pipeline with Terraform that runs locally in Docker and moves to AWS or GCP with minimal change.
+The post Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rahul Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating scientific discovery with ChatGPT for Academic Researchers]]></title>
+        <id>https://openai.com/index/chatgpt-for-academic-researchers</id>
+        <link href="https://openai.com/index/chatgpt-for-academic-researchers"/>
+        <updated>2026-07-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon]]></title>
+        <id>http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/</id>
+        <link href="http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/"/>
+        <updated>2026-07-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction.
+We face a new epoch in computing. Hardware is changing rapidly — not just faster GPUs, but a growing range of chips from different vendors, each with its own architecture and often tailored to specific AI workloads. Software is changing just as fast, and AI coding tools now generate in minutes what took months of effort a few years ago.
+With so much of computing now centered on AI, GPU kernels are a crucial component of its success. These are the low-level programs that run inside the GPU, and writing efficient ones is far from obvious — it takes years of expertise to get right. Transferring a kernel from o…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GPT-5.6 fuses frontier intelligence with frontier efficiency]]></title>
+        <id>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</id>
+        <link href="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"/>
+        <updated>2026-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research directions in condensation: varieties of objectivity]]></title>
         <id>89GJeixwhFHLWxNbX</id>
@@ -187,6 +411,16 @@ The post The Most Beautiful Statistic: The History and the Science of the Humble
 The post Claude Opus 5: Near-Frontier Intelligence, On a Dial appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Architectural Patterns for Persistent Memory and State in AI Agents]]></title>
+        <id>https://machinelearningmastery.com/?p=24766</id>
+        <link href="https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/"/>
+        <updated>2026-07-27T12:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Memory & State For AI Agents Building an AI agent can be tricky. Keeping it on track over a six-month deployment is incredibly hard. LLMs...]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
         </author>
     </entry>
     <entry>
@@ -410,6 +644,16 @@ The post Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems]]></title>
+        <id>https://machinelearningmastery.com/?p=24731</id>
+        <link href="https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/"/>
+        <updated>2026-07-24T12:44:38.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how an agent's approach to managing state — stateless or stateful — shapes both its implementation and the deployment...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Context Windows Forget What Matters — I Built a Usage-Reinforced Decay Engine for AI Agent Memory]]></title>
         <id>https://towardsdatascience.com/?p=610045</id>
         <link href="https://towardsdatascience.com/context-windows-forget-what-matters-i-used-a-140-year-old-psychology-paper-to-fix-ai-memory/"/>
@@ -522,6 +766,16 @@ The post Lessons Learned After 8.5 Years of ML appeared first on Towards Data Sc
 The post Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Loop Engineering]]></title>
+        <id>https://machinelearningmastery.com/?p=24756</id>
+        <link href="https://machinelearningmastery.com/an-introduction-to-loop-engineering/"/>
+        <updated>2026-07-23T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[It's tempting to treat loop engineering as something invented in a single week in June, but the mechanics behind it are closer to five years old, and knowing the lineage is what separates a real understanding of the idea from just repeating the trend piece.]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
         </author>
     </entry>
     <entry>
@@ -799,6 +1053,16 @@ The post How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Acc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Current State of Agentic AI]]></title>
+        <id>https://machinelearningmastery.com/?p=24750</id>
+        <link href="https://machinelearningmastery.com/the-current-state-of-agentic-ai/"/>
+        <updated>2026-07-21T12:33:09.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how agentic AI architecture has evolved by mid-2026, including the shift away from orchestrated reasoning loops, the rise of...]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Are Your ML Experiments a Mess? Here’s the Fix]]></title>
         <id>https://towardsdatascience.com/?p=609973</id>
         <link href="https://towardsdatascience.com/your-ml-experiments-are-a-mess-heres-the-fix/"/>
@@ -923,6 +1187,16 @@ The post Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance appeared fir
 The post Automatically Assign a Category to Uncategorized Rows in Power Query and DAX appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Agentic Workflows in Python with LangGraph]]></title>
+        <id>https://machinelearningmastery.com/?p=24693</id>
+        <link href="https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/"/>
+        <updated>2026-07-20T11:27:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to build a complete agentic workflow in Python with LangGraph, from a single model call to a tool-using...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -1157,6 +1431,16 @@ The post Context Engineering Isn’t Enough — A Loop Engineering Experiment Wi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Agentic AI Security: Defending Against Prompt Injection and Tool Misuse]]></title>
+        <id>https://machinelearningmastery.com/?p=24698</id>
+        <link href="https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/"/>
+        <updated>2026-07-17T12:00:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn what prompt injection and tool misuse are in the context of agentic AI systems, and which defense strategies experts...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Analog AI Is Back, But Can It Survive Its Own Noise?]]></title>
         <id>https://towardsdatascience.com/?p=609911</id>
         <link href="https://towardsdatascience.com/analog-ai-is-back-can-it-survive-its-own-noise/"/>
@@ -1272,6 +1556,16 @@ The post Context Engineering for RAG Question Parsing: From a Raw Question to Ty
 The post How to Get the Most Out of Claude Fable 5 appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run a Local AI Model with Ollama in 15 Minutes]]></title>
+        <id>https://machinelearningmastery.com/?p=24655</id>
+        <link href="https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/"/>
+        <updated>2026-07-16T12:25:41.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to get a small language model running locally on your own machine in under 15 minutes using Ollama....]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
         </author>
     </entry>
     <entry>
@@ -3134,112 +3428,6 @@ The post How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky A
 The post Prompt Engineering Fails Quietly —  Prompt Regression Is Why appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work]]></title>
-        <id>https://towardsdatascience.com/?p=609562</id>
-        <link href="https://towardsdatascience.com/i-completed-five-years-in-analytics-consulting-5-lessons-that-changed-how-i-work/"/>
-        <updated>2026-06-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The tools I use for analytics and reporting have changed more than I expected, yet my questions for any analytics project haven't moved much.
-The post I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rashi Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Object-Level Labels in Manipulation Datasets Are Critical for Dexterous Robotics]]></title>
-        <id>https://imerit.ai/?p=38156</id>
-        <link href="https://imerit.ai/resources/blog/why-object-level-labels-in-manipulation-datasets-are-critical-for-dexterous-robotics/"/>
-        <updated>2026-06-29T13:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Object detection isn't enough for dexterous robots. See how object-level labels in manipulation datasets enable grasping and embodied AI.
-The post Why Object-Level Labels in Manipulation Datasets Are Critical for Dexterous Robotics appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model Context Protocol Explained in 3 Levels of Difficulty]]></title>
-        <id>https://machinelearningmastery.com/?p=24521</id>
-        <link href="https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/"/>
-        <updated>2026-06-29T12:00:30.000Z</updated>
-        <summary type="html"><![CDATA[MCP provides a standard way for AI applications and external systems to communicate.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose Between Small and Frontier Models]]></title>
-        <id>https://towardsdatascience.com/?p=609560</id>
-        <link href="https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/"/>
-        <updated>2026-06-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of small language models
-The post How to Choose Between Small and Frontier Models appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara Nobrega</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping Europe’s AI Workforce Opportunity]]></title>
-        <id>https://openai.com/index/mapping-ai-jobs-transition-eu</id>
-        <link href="https://openai.com/index/mapping-ai-jobs-transition-eu"/>
-        <updated>2026-06-29T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Aced JEE Advanced 2026. Can You Trust It to Teach You?]]></title>
-        <id>https://learnopencv.com/?p=79574</id>
-        <link href="https://learnopencv.com/ai-aced-jee-advanced-2026-can-you-trust-it-to-teach-you/"/>
-        <updated>2026-06-29T05:48:35.000Z</updated>
-        <summary type="html"><![CDATA[A look inside the multi-agent design that keeps an AI tutor grounded in its textbook and code-checks every answer before a student ever sees it.
-AI Aced JEE Advanced 2026. Can You Trust It to Teach You? first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Sudip Chakrabarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphRAG vs Vector RAG: Which Retrieval Method is Best?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=255828</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/"/>
-        <updated>2026-06-29T04:08:35.000Z</updated>
-        <summary type="html"><![CDATA[GraphRAG and Vector RAG address different retrieval needs. Vector RAG splits documents into chunks, embeds them, retrieves semantically similar passages, and sends them to an LLM. It is simple, fast to build, and works best when answers sit within one or two relevant chunks. GraphRAG adds structure by extracting entities, relationships, and communities, making it […]
-The post GraphRAG vs Vector RAG: Which Retrieval Method is Best? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem]]></title>
-        <id>https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside</id>
-        <link href="https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside"/>
-        <updated>2026-06-28T17:03:07.000Z</updated>
-        <summary type="html"><![CDATA[An assessment of the open ecosystem and the motivations behind releasing models]]></summary>
-        <author>
-            <name>Florian Brand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP Inc. launches Frontier strategic partnership with OpenAI]]></title>
-        <id>https://openai.com/index/hp-frontier-partnership</id>
-        <link href="https://openai.com/index/hp-frontier-partnership"/>
-        <updated>2026-06-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows]]></title>
-        <id>https://towardsdatascience.com/?p=609558</id>
-        <link href="https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/"/>
-        <updated>2026-06-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Behind a customer's API, a high-quality answer isn't enough. It has to be usable, which means on time. Delivering that consistently is a problem about variance, not speed, and the fixes are counterintuitive.
-The post Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Frank Wittkampf</name>
         </author>
     </entry>
 </feed>

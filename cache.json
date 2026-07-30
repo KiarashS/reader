@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610189",
+          "author": "Emmimal P Alexander",
+          "description": "Prompt engineering helps you write better prompts—but it doesn’t help you change them safely. This article explores a common production failure where a simple variable rename breaks every live call, and introduces a lightweight static analysis tool that treats prompts like contracts, catching breaking changes before they ship.\nThe post Prompt Engineering Is Solved—Prompt Management Isn’t appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/",
+          "publishedOn": "2026-07-29T16:33:57.000Z",
+          "wordCount": 7666,
+          "title": "Prompt Engineering Is Solved—Prompt Management Isn’t",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Prompt-Management-Layer.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610187",
+          "author": "Ananya Bhattacharyya",
+          "description": "Why prediction-driven variable selection misses confounders and how Bayesian Adjustment for Confounding attempts to fix it.\nThe post Why Your Best Predictive Model Gives the Wrong Treatment Effect appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-your-best-predictive-model-gives-the-wrong-treatment-effect/",
+          "publishedOn": "2026-07-29T15:00:00.000Z",
+          "wordCount": 5870,
+          "title": "Why Your Best Predictive Model Gives the Wrong Treatment Effect",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.09.45-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610185",
+          "author": "Luis Fernando Pérez Armas",
+          "description": "Building an ALNS heuristic in Python for vehicle routing, time windows, capacity constraints, and mandatory driver breaks.\nThe post Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/los-movimientos-part-ii-solving-large-pickup-and-delivery-problems-with-adaptive-large-neighborhood-search/",
+          "publishedOn": "2026-07-29T13:30:00.000Z",
+          "wordCount": 8923,
+          "title": "Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/movimientos_part_II.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610179",
+          "author": "Rahul Saha",
+          "description": "This is the opening piece of a four-part deep dive series, on building a high-frequency streaming pipeline against a live public API. The data source is openSenseMap, a citizen-science IoT network used for climate research, mostly in Germany. A live public API is what makes it useful: it produces data-quality problems and edge cases that clean sample datasets never show. This article focuses on step-1: Normalization, later pieces cover matching algorithms, adaptive polling and noise filtering, and a vendor-agnostic Apache Iceberg pipeline with Terraform that runs locally in Docker and moves to AWS or GCP with minimal change.\nThe post Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-1-normalization/",
+          "publishedOn": "2026-07-29T12:00:00.000Z",
+          "wordCount": 6005,
+          "title": "Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/291547589_m-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610132",
           "author": "Justin Stewart",
           "description": "Five models, sustained generation, real wall-socket energy at $0.31/kWh — and the surprise the RTX-3090 numbers predicted, only bigger.\nThe post How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon appeared first on Towards Data Science.",
@@ -1080,36 +1120,6 @@
           "wordCount": 6337,
           "title": "Prompt Engineering Fails Quietly —  Prompt Regression Is Why",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Prompt-Engineering.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609562",
-          "author": "Rashi Desai",
-          "description": "The tools I use for analytics and reporting have changed more than I expected, yet my questions for any analytics project haven't moved much.\nThe post I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-completed-five-years-in-analytics-consulting-5-lessons-that-changed-how-i-work/",
-          "publishedOn": "2026-06-29T13:30:00.000Z",
-          "wordCount": 4553,
-          "title": "I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/fiona-smallwood-T64_Ysj_EMQ-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609560",
-          "author": "Sara Nobrega",
-          "description": "The rise of small language models\nThe post How to Choose Between Small and Frontier Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/",
-          "publishedOn": "2026-06-29T12:00:00.000Z",
-          "wordCount": 5312,
-          "title": "How to Choose Between Small and Frontier Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-09_33_20-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609558",
-          "author": "Frank Wittkampf",
-          "description": "Behind a customer's API, a high-quality answer isn't enough. It has to be usable, which means on time. Delivering that consistently is a problem about variance, not speed, and the fixes are counterintuitive.\nThe post Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/",
-          "publishedOn": "2026-06-28T15:00:00.000Z",
-          "wordCount": 8216,
-          "title": "Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/tail_control_image.jpg"
         }
       ]
     },
@@ -1118,6 +1128,76 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=24766",
+          "author": "Vinod Chugani",
+          "description": "Memory & State For AI Agents Building an AI agent can be tricky. Keeping it on track over a six-month deployment is incredibly hard. LLMs...",
+          "link": "https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/",
+          "publishedOn": "2026-07-27T12:00:46.000Z",
+          "wordCount": 9007,
+          "title": "5 Architectural Patterns for Persistent Memory and State in AI Agents",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-5-architectural-patterns-persistent-memory-state-ai-agents-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24731",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how an agent's approach to managing state — stateless or stateful — shapes both its implementation and the deployment...",
+          "link": "https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/",
+          "publishedOn": "2026-07-24T12:44:38.000Z",
+          "wordCount": 9559,
+          "title": "Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24756",
+          "author": "Shittu Olumide",
+          "description": "It's tempting to treat loop engineering as something invented in a single week in June, but the mechanics behind it are closer to five years old, and knowing the lineage is what separates a real understanding of the idea from just repeating the trend piece.",
+          "link": "https://machinelearningmastery.com/an-introduction-to-loop-engineering/",
+          "publishedOn": "2026-07-23T12:00:31.000Z",
+          "wordCount": 12608,
+          "title": "An Introduction to Loop Engineering",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/MLM-Shittu-An-Introduction-to-Loop-Engineering-scaled-1.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24750",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn how agentic AI architecture has evolved by mid-2026, including the shift away from orchestrated reasoning loops, the rise of...",
+          "link": "https://machinelearningmastery.com/the-current-state-of-agentic-ai/",
+          "publishedOn": "2026-07-21T12:33:09.000Z",
+          "wordCount": 9335,
+          "title": "The Current State of Agentic AI",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-current-state-agentic-ai-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24693",
+          "author": "Bala Priya C",
+          "description": "In this article, you will learn how to build a complete agentic workflow in Python with LangGraph, from a single model call to a tool-using...",
+          "link": "https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/",
+          "publishedOn": "2026-07-20T11:27:18.000Z",
+          "wordCount": 9967,
+          "title": "Building Agentic Workflows in Python with LangGraph",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-langgraph-cover.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24698",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn what prompt injection and tool misuse are in the context of agentic AI systems, and which defense strategies experts...",
+          "link": "https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/",
+          "publishedOn": "2026-07-17T12:00:32.000Z",
+          "wordCount": 8309,
+          "title": "Agentic AI Security: Defending Against Prompt Injection and Tool Misuse",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-agentic-ai-security-defending-against-prompt-injection-and-tool-misuse-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24655",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn how to get a small language model running locally on your own machine in under 15 minutes using Ollama....",
+          "link": "https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/",
+          "publishedOn": "2026-07-16T12:25:41.000Z",
+          "wordCount": 8906,
+          "title": "Run a Local AI Model with Ollama in 15 Minutes",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-local-ai-ollama-setup-feature-b-1024x550.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=24660",
           "author": "Iván Palomares Carrascosa",
@@ -1207,16 +1287,6 @@
           "wordCount": 8306,
           "title": "Context Window Management for Long-Running Agents: Strategies and Tradeoffs",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-context-window-management-for-long-running-agents-strategies-and-tradeoffs.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24521",
-          "author": "Bala Priya C",
-          "description": "MCP provides a standard way for AI applications and external systems to communicate.",
-          "link": "https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/",
-          "publishedOn": "2026-06-29T12:00:30.000Z",
-          "wordCount": 9349,
-          "title": "Model Context Protocol Explained in 3 Levels of Difficulty",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-mcp-3-levels-1024x683.png"
         }
       ]
     },
@@ -1654,6 +1724,16 @@
       "siteUrl": "http://bair.berkeley.edu/blog/",
       "articles": [
         {
+          "id": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+          "author": null,
+          "description": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction.\nWe face a new epoch in computing. Hardware is changing rapidly — not just faster GPUs, but a growing range of chips from different vendors, each with its own architecture and often tailored to specific AI workloads. Software is changing just as fast, and AI coding tools now generate in minutes what took months of effort a few years ago.\nWith so much of computing now centered on AI, GPU kernels are a crucial component of its success. These are the low-level programs that run inside the GPU, and writing efficient ones is far from obvious — it takes years of expertise to get right. Transferring a kernel from o…",
+          "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+          "publishedOn": "2026-07-29T09:00:00.000Z",
+          "wordCount": 2503,
+          "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+          "imageUrl": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png"
+        },
+        {
           "id": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
           "author": null,
           "description": "-->\n\n\n\n\n\n\n\n\n.abbel-fig {\n  display: block;\n  text-align: center;\n  margin: 2.4em 0;\n  line-height: 1.4;\n  max-width: 100%;\n}\n.abbel-fig img {\n  display: block;\n  margin: 0.65em auto 0;\n  height: auto;\n  max-width: 100%;\n}\n/* Image sizes; captions use a narrower measure below */\n.abbel-fig--wide img { width: 100%; max-width: 100%; }\n.abbel-fig--wide-90 img { width: 100%; max-width: 90%; }\n.abbel-fig--wide-lg img { width: 100%; max-width: 100%; }\n.abbel-fig--chart img { width: 100%; max-width: 82%; }\n.abbel-fig--chart-sm img { width: 100%; max-width: 64%; }\n.abbel-fig--portrait img { width: 50%; max-width: 520px; }\n.abbel-fig--equation img { width: 100%; max-width: 52%; }\n.abbel-fig--video {\n  width: 110%;\n  max-width: 110%;\n  margin-left: -5%;\n  margin-right: -5%;\n  box-sizing: border-box;\n…",
@@ -1720,6 +1800,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a69ffcc634c4a299b014f9f",
+          "author": "Rudrendu Paul",
+          "description": "For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe",
+          "link": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
+          "publishedOn": "2026-07-29T13:27:40.000Z",
+          "wordCount": 5105,
+          "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9b1e9df5-6f52-4f55-b9df-6cd0fbb0ce7c.png"
+        },
         {
           "id": "6a624877953fb9a0375f9238",
           "author": "Rudrendu Paul",
@@ -2065,16 +2155,6 @@
           "wordCount": 7528,
           "title": "World Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball",
           "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/07/02222244/world-cup-2026-offside-technology-var-hero-1.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=79574",
-          "author": "Sudip Chakrabarty",
-          "description": "A look inside the multi-agent design that keeps an AI tutor grounded in its textbook and code-checks every answer before a student ever sees it.\nAI Aced JEE Advanced 2026. Can You Trust It to Teach You? first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/ai-aced-jee-advanced-2026-can-you-trust-it-to-teach-you/",
-          "publishedOn": "2026-06-29T05:48:35.000Z",
-          "wordCount": null,
-          "title": "AI Aced JEE Advanced 2026. Can You Trust It to Teach You?",
-          "imageUrl": null
         }
       ]
     },
@@ -2083,6 +2163,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=40471",
+          "author": "Sujana Urs",
+          "description": "Learn why text, image, audio, and video data require different annotation strategies, tools, quality controls, and expert workflows.\nThe post Weed vs. Crop Discrimination: Why Precision Spraying Models Fail Without Annotation Precision appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/weed-vs-crop-discrimination-why-precision-spraying-models-fail-without-annotation-precision/",
+          "publishedOn": "2026-07-29T14:04:03.000Z",
+          "wordCount": 3214,
+          "title": "Weed vs. Crop Discrimination: Why Precision Spraying Models Fail Without Annotation Precision",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-img-Weed-vs.-Crop-Discrimination.png"
+        },
         {
           "id": "https://imerit.ai/?p=40338",
           "author": "Sujana Urs",
@@ -2162,16 +2252,6 @@
           "wordCount": 3459,
           "title": "CVPR 2026: What We Saw, What It Means, and Where AI Is Headed",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature_IMG_CVPR-2026-What-We-Saw-What-It-Means-and-Where-AI-Is-Headed.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=38156",
-          "author": "Sujana Urs",
-          "description": "Object detection isn't enough for dexterous robots. See how object-level labels in manipulation datasets enable grasping and embodied AI.\nThe post Why Object-Level Labels in Manipulation Datasets Are Critical for Dexterous Robotics appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/why-object-level-labels-in-manipulation-datasets-are-critical-for-dexterous-robotics/",
-          "publishedOn": "2026-06-29T13:06:24.000Z",
-          "wordCount": 3940,
-          "title": "Why Object-Level Labels in Manipulation Datasets Are Critical for Dexterous Robotics",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/06/Object-detection-isnt-enough-for-dexterous-robots_featured_image.png"
         }
       ]
     },
@@ -2180,6 +2260,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256719",
+          "author": "Janvi Kumari",
+          "description": "Claude can review data, check code, write reports, and prepare presentations, but teams still end up repeating the same structure, validation rules, company standards, and final-check instructions in every conversation. That repetition wastes time and often leads to inconsistent results. Custom Skills solve this by packaging reusable instructions, workflows, templates, scripts, examples, and reference files […]\nThe post How to Create Custom Skills in Claude: A Step-by-Step Guide appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/",
+          "publishedOn": "2026-07-29T13:49:28.000Z",
+          "wordCount": null,
+          "title": "How to Create Custom Skills in Claude: A Step-by-Step Guide",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256636",
           "author": "Harsh Mishra",
@@ -2465,17 +2556,6 @@
           "title": "The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255828",
-          "author": "Janvi Kumari",
-          "description": "GraphRAG and Vector RAG address different retrieval needs. Vector RAG splits documents into chunks, embeds them, retrieves semantically similar passages, and sends them to an LLM. It is simple, fast to build, and works best when answers sit within one or two relevant chunks. GraphRAG adds structure by extracting entities, relationships, and communities, making it […]\nThe post GraphRAG vs Vector RAG: Which Retrieval Method is Best? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/graphrag-vs-vector-rag-which-retrieval-method-is-best/",
-          "publishedOn": "2026-06-29T04:08:35.000Z",
-          "wordCount": null,
-          "title": "GraphRAG vs Vector RAG: Which Retrieval Method is Best?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2495,7 +2575,18 @@
       "title": "RSIP Vision",
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=17465",
+          "author": "David M",
+          "description": "July 29, 2026 RSIP Vision is excited to announce our collaboration with Professor Yuqiang Bai from the University of South Florida’s School of Medicine, Ophthalmology department. The ground-breaking tear film imaging system developed by Professor Bai and his team shows promising potential for dry eye disease, and we are honored to contribute to this important …\n  RSIP Vision Announces Project Partnership With the University of South Florida Read More »\nThe post RSIP Vision Announces Project Partnership With the University of South Florida appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/rsip-vision-announces-project-partnership-with-the-university-of-south-florida/",
+          "publishedOn": "2026-07-29T15:37:54.000Z",
+          "wordCount": 1740,
+          "title": "RSIP Vision Announces Project Partnership With the University of South Florida",
+          "imageUrl": "https://www.rsipvision.com/wp-content/uploads/2026/07/RSIP_USF_Partnership_grey.png"
+        }
+      ]
     },
     {
       "title": "RSIP Vision Learns Archives - RSIP Vision",
@@ -2520,6 +2611,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "author": null,
+          "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+          "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "publishedOn": "2026-07-29T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "author": null,
+          "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "publishedOn": "2026-07-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "author": null,
+          "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+          "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "publishedOn": "2026-07-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/scientific-computing-agentic-ai",
           "author": null,
@@ -2889,26 +3010,6 @@
           "wordCount": null,
           "title": "Inside Genebench-Pro",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "author": null,
-          "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-          "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "publishedOn": "2026-06-29T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Mapping Europe’s AI Workforce Opportunity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/hp-frontier-partnership",
-          "author": null,
-          "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-          "link": "https://openai.com/index/hp-frontier-partnership",
-          "publishedOn": "2026-06-28T17:00:00.000Z",
-          "wordCount": null,
-          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "imageUrl": null
         }
       ]
     },
@@ -2964,22 +3065,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2e40ce14-a532-4db6-a855-caee778250f7_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
-          "author": "Florian Brand",
-          "description": "An assessment of the open ecosystem and the motivations behind releasing models",
-          "link": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
-          "publishedOn": "2026-06-28T17:03:07.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!Yzio!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6a1684-d8af-4a82-a0fc-ba65d6a6dde0_1024x576.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Yzio!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6a1684-d8af-4a82-a0fc-ba65d6a6dde0_1024x576.jpeg"
         }
       ]
     },
@@ -2988,6 +3073,46 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "e7Pd4Q9TF7jFdmPgz",
+          "author": "davidad",
+          "description": "Richard Ngo challenged me to set a time box and write down as many of the most important features of my formal epistemology as I can in one sitting. Here goes.\n\nMotivation: Where probability distributions fail...\n...to express beliefs\n\nThere is no probability distribution over \n\n\nmjx-container[jax=\"CHTML\"] {\n  line-height: 0;\n}\n\nmjx-container [space=\"1\"] {\n  margin-left: .111em;\n}\n\nmjx-container [space=\"2\"] {\n  margin-left: .167em;\n}\n\nmjx-container [space=\"3\"] {\n  margin-left: .222em;\n}\n\nmjx-container [space=\"4\"] {\n  margin-left: .278em;\n}\n\nmjx-container [space=\"5\"] {\n  margin-left: .333em;\n}\n\nmjx-container [rspace=\"1\"] {\n  margin-right: .111em;\n}\n\nmjx-container [rspace=\"2\"] {\n  margin-right: .167em;\n}\n\nmjx-container [rspace=\"3\"] {\n  margin-right: .222em;\n}\n\nmjx-container [rspace=\"4\"] {\n  …",
+          "link": "https://www.alignmentforum.org/posts/e7Pd4Q9TF7jFdmPgz/imprecise-beliefs-a-tiny-introduction",
+          "publishedOn": "2026-07-29T22:17:35.000Z",
+          "wordCount": 45714,
+          "title": "Imprecise beliefs: a tiny introduction",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "uMKGaEKRDpoqnZyBh",
+          "author": "Stuart_Armstrong",
+          "description": "When we get explicit strong generalisation to work (see the first post on the matter and the second) my dream would be to create pre-aligned generalising AIs.\nThink about the usual conflict between alignment and capabilities, between doing the right thing and doing the easy thing. The standard narrative puts the good people at a constant disadvantage: they have to carefully plan every AI advance, always on the lookout for potential dangers. While those who don’t care can just YOLO and let it rip and let their AIs get ever more powerful without taking any responsibility.\nNow, in reality, there is some nuance to the story; but I don’t want to nuance it, I want to turn it on its head. I want to create AIs so that the good people can YOLO and reap the rewards of increased AI capabilities. Whil…",
+          "link": "https://www.alignmentforum.org/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais",
+          "publishedOn": "2026-07-29T15:58:16.000Z",
+          "wordCount": 23176,
+          "title": "Value Generalisation 3: Pre-aligned AIs",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "TZgezuYjkfMQxyqJC",
+          "author": "Stuart_Armstrong",
+          "description": "A human superpower hidden from even ourselves\nI though GPT 3.5 was on the verge of Artificial General Intelligence (AGI). It certainly seemed that way – it could combine and extend ideas in ways that were far beyond narrow rigid computing. Sure, it had some flaws, but with its general capabilities and humans working tirelessly on improving the model, these flaws would soon be resolved and a full AGI would be born.\nIt didn’t turn out that way. We are still where we were back in 2022 – as in, it feels we are on the verge of AGI, but not there yet.\nI think that humans have an ability, or a mix of abilities, that I’m calling strong generalisation. And LLMs and their derived models lack strong generalisation. This would explain some of the mysteries about LLMs:\n\nThe fact that subject matter exp…",
+          "link": "https://www.alignmentforum.org/posts/TZgezuYjkfMQxyqJC/value-generalisation-2-the-missing-hole-in-ais-abilities",
+          "publishedOn": "2026-07-29T15:58:00.000Z",
+          "wordCount": 33104,
+          "title": "Value Generalisation 2: The Missing Hole in AIs’ abilities",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "58zFSWp8Tmxij6ckK",
+          "author": "Stuart_Armstrong",
+          "description": "I’m looking for people, advice, critiques, and funding to build a research program on value generalisation – the ability of an AI to correctly extend human values and preferences to situations neither it nor we have seen before. My ongoing research has become convinced that this is necessary if we want to get aligned AIs that operate in the human interest.\nThis would be a focused research organisation or a commercial venture. I’m leaning towards commercial, because alignment techniques confined to academic papers get ignored – or worse, mined for capability-relevant parts while the alignment component is discarded.\nThis post is the research program’s summary. The technical case is in the next post, and one exciting consequence – AIs whose alignment grows with their capabilities – is in the…",
+          "link": "https://www.alignmentforum.org/posts/58zFSWp8Tmxij6ckK/value-generalisation-1-a-research-and-deployment-program",
+          "publishedOn": "2026-07-29T15:57:50.000Z",
+          "wordCount": 22867,
+          "title": "Value Generalisation 1: a Research and Deployment Program",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "89GJeixwhFHLWxNbX",
           "author": "SamEisenstat",
