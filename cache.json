@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610205",
+          "author": "Sara A. Metwalli",
+          "description": "How one open-source ecosystem made state-of-the-art AI accessible\nThe post The Python Ecosystem That Changed AI Development appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/",
+          "publishedOn": "2026-07-30T16:30:00.000Z",
+          "wordCount": 3991,
+          "title": "The Python Ecosystem That Changed AI Development",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pexels-meet-patel-236003280-37085303-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610203",
+          "author": "Eivind Kjosbakken",
+          "description": "Optimise how you interact with your coding agents\nThe post How to Organize All of Your Coding Agent Tasks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/",
+          "publishedOn": "2026-07-30T15:00:00.000Z",
+          "wordCount": 5516,
+          "title": "How to Organize All of Your Coding Agent Tasks",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/task-management-coding-agents_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610259",
+          "author": "Tomer Mesika",
+          "description": "What it actually takes to turn a company's scattered knowledge into something an LLM can reliably use — and why the demo is 5% of the work.\nThe post How to Build a Context Layer and a Company Brain appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/",
+          "publishedOn": "2026-07-30T14:00:00.000Z",
+          "wordCount": 5033,
+          "title": "How to Build a Context Layer and a Company Brain",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/jeroen-overschie-i03lRgNVKW4-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610201",
+          "author": "James O'Brien",
+          "description": "The full conjecture is stated over abstract fields, but the counterexample is a concrete 3D function that we can explain and visualize using familiar geometric ideas and a little algebra.\nThe post A Simplified View of the Jacobian Conjecture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-simplified-view-of-the-jacobian-conjecture/",
+          "publishedOn": "2026-07-30T13:30:00.000Z",
+          "wordCount": 4380,
+          "title": "A Simplified View of the Jacobian Conjecture",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/4de51e0f-c3ab-47de-afe2-310f6ea72b4e_1472x986-copy.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610199",
+          "author": "Spyros Georgopoulos",
+          "description": "How statistical physics explains the transition from deterministic predictions to generative AI.\nThe post How to Decode the Temperature Parameter in LLMs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/decoding-the-temperature-parameter-in-llms/",
+          "publishedOn": "2026-07-30T12:00:00.000Z",
+          "wordCount": 4994,
+          "title": "How to Decode the Temperature Parameter in LLMs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/TemperatureArticle.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610189",
           "author": "Emmimal P Alexander",
           "description": "Prompt engineering helps you write better prompts—but it doesn’t help you change them safely. This article explores a common production failure where a simple variable rename breaks every live call, and introduces a lightweight static analysis tool that treats prompts like contracts, catching breaking changes before they ship.\nThe post Prompt Engineering Is Solved—Prompt Management Isn’t appeared first on Towards Data Science.",
@@ -1080,46 +1130,6 @@
           "wordCount": 4213,
           "title": "Surviving the Data Science Behavioral Interview",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/christina-wocintechchat-com-m-LQ1t-8Ms5PY-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609613",
-          "author": "Eivind Kjosbakken",
-          "description": "Build a more powerful coding agent setup with a model ensemble\nThe post How to Maximize Codex Exec Command appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-maximize-codex-exec-command/",
-          "publishedOn": "2026-06-30T13:30:00.000Z",
-          "wordCount": 4360,
-          "title": "How to Maximize Codex Exec Command",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/codex-exec_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609611",
-          "author": "Shuai Guo",
-          "description": "A hands-on walkthrough of a hybrid local-cloud workflow using Gemma 4 and GPT-5.4, with reasoning and structured outputs\nThe post Stop Choosing Between Local and Cloud LLMs: A Field Guide to Hybrid Patterns appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-choosing-between-local-and-cloud-llms-a-field-guide-to-hybrid-patterns/",
-          "publishedOn": "2026-06-30T12:00:00.000Z",
-          "wordCount": 6442,
-          "title": "Stop Choosing Between Local and Cloud LLMs: A Field Guide to Hybrid Patterns",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/hybrid_pattern.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609599",
-          "author": "Nahid Ahmadvand",
-          "description": "An end-to-end classical NLP experiment on Kaggle’s Spooky Author Identification task: from Vowpal Wabbit and TF-IDF/NB-SVM baselines to a tuned stacked ensemble, with a compact representation survey of Bag-of-Words, BM25, Word2Vec, and FastText for context.\nThe post How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-far-can-classical-nlp-go-from-bag-of-words-to-stacking-on-spooky-author-identification/",
-          "publishedOn": "2026-06-29T17:34:26.000Z",
-          "wordCount": 6264,
-          "title": "How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-05_07_07-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609564",
-          "author": "Emmimal P Alexander",
-          "description": "Small prompt changes can silently break critical behavior in production. This article introduces a practical framework to detect hidden regressions before users notice.\nThe post Prompt Engineering Fails Quietly —  Prompt Regression Is Why appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/prompt-engineering-fails-quietly-prompt-regression-is-why/",
-          "publishedOn": "2026-06-29T15:00:00.000Z",
-          "wordCount": 6337,
-          "title": "Prompt Engineering Fails Quietly —  Prompt Regression Is Why",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Prompt-Engineering.jpg"
         }
       ]
     },
@@ -1277,16 +1287,6 @@
           "wordCount": 10058,
           "title": "Context vs. Memory Engineering in Agentic AI Systems",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-context-vs-memory-engg-1024x576.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24544",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn five practical strategies for managing context windows in long-running AI agent applications, along with the key tradeoffs each approach...",
-          "link": "https://machinelearningmastery.com/context-window-management-for-long-running-agents-strategies-and-tradeoffs/",
-          "publishedOn": "2026-06-30T12:00:17.000Z",
-          "wordCount": 8306,
-          "title": "Context Window Management for Long-Running Agents: Strategies and Tradeoffs",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-context-window-management-for-long-running-agents-strategies-and-tradeoffs.png"
         }
       ]
     },
@@ -1325,6 +1325,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "author": null,
+          "description": "A Blog post by Dharma-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "publishedOn": "2026-07-30T15:09:09.000Z",
+          "wordCount": 2953,
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Ih3Nn6Wc1U_w_QpvEMXRY.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
           "author": null,
@@ -1604,26 +1614,6 @@
           "wordCount": 2551,
           "title": "Why Specialization Is Inevitable",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Av4v9_l94sEUj-etRFOLb.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/eee-community-evals",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/eee-community-evals",
-          "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": 1865,
-          "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "imageUrl": "https://huggingface.co/blog/assets/eee_commevals/eee_commevals_banner.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/discoformer",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/discoformer",
-          "publishedOn": "2026-06-29T18:02:48.000Z",
-          "wordCount": 1141,
-          "title": "DiScoFormer: One transformer for density and score, across distributions",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AnOX0pzQm-Hep_CLFOVM7.png"
         }
       ]
     },
@@ -1649,6 +1639,31 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1179908",
+          "author": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah, Ece Kamar",
+          "description": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.\nThe post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+          "publishedOn": "2026-07-30T17:00:00.000Z",
+          "wordCount": 8092,
+          "title": "Echoverse: Deep, evolving environments for computer-use agents",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Hero-video.mp4",
+            "length": "84092742",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/PraxisWorld-TWLIFB-1200x627-1.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1179889",
+          "author": "Weijia Xu, Alessandro Sordoni, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
+          "description": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. \nThe post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+          "publishedOn": "2026-07-30T16:00:00.000Z",
+          "wordCount": null,
+          "title": "EvoLib: Turning experience into evolving knowledge",
+          "imageUrl": null
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
           "author": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
@@ -1693,16 +1708,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/SkillOpt-TWLIFB-1200x627-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1176834",
-          "author": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
-          "description": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.\nThe post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-          "publishedOn": "2026-06-29T21:14:22.000Z",
-          "wordCount": 4425,
-          "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Memora-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -2261,6 +2266,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=256728",
+          "author": "Sree Vamsi",
+          "description": "I used Claude Code daily for months before realizing that claude --help hides many of its most useful capabilities. I kept restarting fresh sessions, repeatedly explaining the same project structure, simply because I did not know a better workflow existed. While debugging an unrelated issue, I discovered the full CLI reference: dozens of commands and […]\nThe post Claude Code CLI Commands I Wish I Had Known Sooner appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/",
+          "publishedOn": "2026-07-30T18:25:00.000Z",
+          "wordCount": null,
+          "title": "Claude Code CLI Commands I Wish I Had Known Sooner",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=256719",
           "author": "Janvi Kumari",
           "description": "Claude can review data, check code, write reports, and prepare presentations, but teams still end up repeating the same structure, validation rules, company standards, and final-check instructions in every conversation. That repetition wastes time and often leads to inconsistent results. Custom Skills solve this by packaging reusable instructions, workflows, templates, scripts, examples, and reference files […]\nThe post How to Create Custom Skills in Claude: A Step-by-Step Guide appeared first on Analytics Vidhya.",
@@ -2545,17 +2561,6 @@
           "title": "Claude Sonnet 5: The Fable 5 at Home",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255927",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Three chatbots. Same price of $20 for their subscriptions. The convergence is almost funny considering how different the offerings are. The same price does not mean the same product. I paid for all three and ran the same work through each. They are not interchangeable as you’ll soon find out. Pick wrong and you’ll spend months […]\nThe post The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/06/chatgpt-plus-vs-claude-pro-vs-gemini-pro/",
-          "publishedOn": "2026-06-30T12:15:00.000Z",
-          "wordCount": null,
-          "title": "The Best $20 AI Plan: ChatGPT Plus vs Claude Pro vs Gemini Pro",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2611,6 +2616,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "author": null,
+          "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "publishedOn": "2026-07-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/avatarin",
+          "author": null,
+          "description": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+          "link": "https://openai.com/index/avatarin",
+          "publishedOn": "2026-07-30T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
           "author": null,
@@ -2970,46 +2995,6 @@
           "wordCount": null,
           "title": "MUFG aims to become AI-native with OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "author": null,
-          "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-          "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "publishedOn": "2026-06-30T09:00:00.000Z",
-          "wordCount": null,
-          "title": "How ChatGPT adoption has expanded",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-genebench-pro",
-          "author": null,
-          "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-          "link": "https://openai.com/index/introducing-genebench-pro",
-          "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GeneBench-Pro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-          "author": null,
-          "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-          "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-          "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Core dump epidemiology: fixing an 18-year-old bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/genebench-pro/case-studies",
-          "author": null,
-          "description": "",
-          "link": "https://openai.com/index/genebench-pro/case-studies",
-          "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Inside Genebench-Pro",
-          "imageUrl": null
         }
       ]
     },
@@ -3073,6 +3058,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "sFhW3ZnPMJdnB4Dd6",
+          "author": "Geoffrey Irving",
+          "description": "Summary: One area we plan to explore at Resolution is personas and character training, operationalized as finding and controlling low-dimensional structure in models that emerges in pretraining and flows through post-training to superintelligence. The hope is to expand and systematize phenomena such as emergent misalignment, subliminal learning, and other empirical persona research, then intervene on this structure without accidentally hiding undesirable behavior elsewhere. If this approach resonates with you, consider working with us. \nGlimmers of low-dimensional structure\nOur understanding of AI training and alignment as a field is very poor. If sufficient alignment of superintelligent AI agents requires pinning down the precise meaning of alignment and turning that meaning into high-acc…",
+          "link": "https://www.alignmentforum.org/posts/sFhW3ZnPMJdnB4Dd6/thousand-dimensional-structure-1",
+          "publishedOn": "2026-07-30T14:04:05.000Z",
+          "wordCount": 29999,
+          "title": "Thousand-dimensional structure",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/oy9wjbszfakx2u5ggewa"
+        },
         {
           "id": "e7Pd4Q9TF7jFdmPgz",
           "author": "davidad",
@@ -3362,16 +3357,6 @@
           "wordCount": 42933,
           "title": "Pragmatic FDT, and predictors as game theory",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "SD9jayFvEctW82Duk",
-          "author": "Aran Nayebi",
-          "description": "[No LLMs were used (or harmed!) in the writing of this blogpost!]\nTechnical results can all be found in my UAI 2026 paper: https://arxiv.org/abs/2603.02491\nThis work, and this post about this work, was borne out of a frustration. The frustration first emerged over a year ago when I was at a Dave & Buster’s for the first time in years (for an annual ML department event, no less!), surrounded by flashing lights and NPC agents, not being able to objectively rule out that they were conscious or not, even though I strongly felt these particular programmed agents weren’t. I wasn’t particularly interested in playing the games there, as I mainly sat in confusion the whole time watching the various games running about around me…\nSo, given my background in NeuroAI (though I prefer the term \"natural …",
-          "link": "https://www.alignmentforum.org/posts/SD9jayFvEctW82Duk/what-capable-agents-must-know-why-ai-consciousness-may-be-an-2",
-          "publishedOn": "2026-06-30T11:48:47.000Z",
-          "wordCount": 38767,
-          "title": "What Capable Agents Must Know: Why AI Consciousness May Be an Inevitable Byproduct of Capability",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/cwcNNu9S8f3FQbo9c/pm3pb1ifirhew7z3dxkg"
         }
       ]
     }
