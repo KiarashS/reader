@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610227",
+          "author": "Priyansh Bhardwaj",
+          "description": "How a seemingly harmless move to a multi-agent architecture quietly tripled our LLM costs and what actually fixed it.\nThe post The 3× Token Bill We Didn’t See Coming appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/",
+          "publishedOn": "2026-07-31T16:30:00.000Z",
+          "wordCount": 4791,
+          "title": "The 3× Token Bill We Didn’t See Coming",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/article7.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610224",
+          "author": "Anubhab Banerjee",
+          "description": "In five to ten years, the sharpest manager in your company might not be human, might not sleep, and might exist entirely in shared GPU memory. This is the systems-level view of the algorithmic corporation — why middle management collapses into a protocol, what breaks in the current AI stack, and what has to be built for autonomous agents to actually run a business.\nThe post When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/",
+          "publishedOn": "2026-07-31T15:00:00.000Z",
+          "wordCount": 5408,
+          "title": "When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/newpost_featured_image.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610222",
+          "author": "Abdullahi Dattijo",
+          "description": "A practical tutorial for recording model tool requests, real function results, patches, checks, screenshots, and a saved run log.\nThe post How to Debug AI Coding Agents When They Change the Wrong Thing appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/",
+          "publishedOn": "2026-07-31T13:30:00.000Z",
+          "wordCount": 5867,
+          "title": "How to Debug AI Coding Agents When They Change the Wrong Thing",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-25-2026-05_12_15-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610220",
+          "author": "Luis Fernando Pérez Armas",
+          "description": "A friendly introduction to one of the most powerfull optimization techniques using the uncapacitated facility location problem\nThe post How Benders Decomposition Works Part I: Optimality Cuts appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-benders-decomposition-works-part-i-optimality-cuts/",
+          "publishedOn": "2026-07-31T12:00:00.000Z",
+          "wordCount": 9839,
+          "title": "How Benders Decomposition Works Part I: Optimality Cuts",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-437.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610205",
           "author": "Sara A. Metwalli",
           "description": "How one open-source ecosystem made state-of-the-art AI accessible\nThe post The Python Ecosystem That Changed AI Development appeared first on Towards Data Science.",
@@ -1090,46 +1130,6 @@
           "wordCount": 10660,
           "title": "Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/part4_overview.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609630",
-          "author": "Jiayan Yin",
-          "description": "How Pandas chunking, Dask, and Polars help process millions of records when adding more compute isn't an option.\nThe post What Can We Do When Memory Becomes the New Bottleneck in Data Engineering? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-memory-becomes-the-new-bottleneck-in-data-engineering-what-can-we-do/",
-          "publishedOn": "2026-07-01T13:30:00.000Z",
-          "wordCount": 4543,
-          "title": "What Can We Do When Memory Becomes the New Bottleneck in Data Engineering?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/liam-briese-lYxQ5F9xBDM-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609628",
-          "author": "Thomas Reid",
-          "description": "Build and deploy an agent on AWS with Strands and AgentCore\nThe post Build and Run Your Own AI Agent in the Cloud appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/build-and-run-your-own-ai-agent-in-the-cloud/",
-          "publishedOn": "2026-07-01T12:00:00.000Z",
-          "wordCount": 8039,
-          "title": "Build and Run Your Own AI Agent in the Cloud",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ig_020b8d354f1edfb1016a2c5177d9c88193bc7dddbc59220a90.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609617",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #7bis] - Tobi Lütke and Andrej Karpathy named the practice in 2025. For a single document, each brick emits typed pieces that converge on one LLM call. Corpus, conversation, and tool extensions are follow-up work\nThe post Context Engineering for RAG : The Four Typed Inputs Behind Every RAG Answer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/context-engineering-for-rag-the-four-typed-inputs-behind-every-rag-answer/",
-          "publishedOn": "2026-06-30T16:30:00.000Z",
-          "wordCount": 6587,
-          "title": "Context Engineering for RAG : The Four Typed Inputs Behind Every RAG Answer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_pasta_bowls_2720445_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609615",
-          "author": "Haden Pelletier",
-          "description": "In the age of AI, standing out here means a lot more than ever. Here are three tips to walk into your next interview with confidence.\nThe post Surviving the Data Science Behavioral Interview appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/surviving-the-data-science-behavioral-interview/",
-          "publishedOn": "2026-06-30T15:00:00.000Z",
-          "wordCount": 4213,
-          "title": "Surviving the Data Science Behavioral Interview",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/christina-wocintechchat-com-m-LQ1t-8Ms5PY-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1584,36 +1584,6 @@
           "wordCount": 2077,
           "title": "🤗 Kernels: Major Updates",
           "imageUrl": "https://huggingface.co/blog/assets/revamped-kernels/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-          "publishedOn": "2026-07-01T00:00:00.000Z",
-          "wordCount": 915,
-          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-          "imageUrl": "https://huggingface.co/blog/assets/cerebras-gemma4-voice-ai/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "publishedOn": "2026-06-30T18:32:50.000Z",
-          "wordCount": 1519,
-          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/649c1276a83f996b4191a8f1/iYCwB2Hl8qPTA8DCgDilB.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-          "author": null,
-          "description": "A Blog post by Dharma-AI on Hugging Face",
-          "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-          "publishedOn": "2026-06-30T14:39:11.000Z",
-          "wordCount": 2551,
-          "title": "Why Specialization Is Inevitable",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Av4v9_l94sEUj-etRFOLb.png"
         }
       ]
     },
@@ -1693,21 +1663,6 @@
           "wordCount": 4171,
           "title": "Flint: A visualization language for the AI era",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Flint-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1176927",
-          "author": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
-          "description": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.\nThe post SkillOpt: Agent skills as trainable parameters appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-          "publishedOn": "2026-06-30T16:50:02.000Z",
-          "wordCount": 4399,
-          "title": "SkillOpt: Agent skills as trainable parameters",
-          "enclosure": {
-            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/skillopt_teaser-1.mp4",
-            "length": "21177671",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/SkillOpt-TWLIFB-1200x627-1-scaled.jpg"
         }
       ]
     },
@@ -1757,16 +1712,6 @@
           "wordCount": 2838,
           "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
           "imageUrl": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png"
-        },
-        {
-          "id": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-          "author": null,
-          "description": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of artificial intelligence and machine learning.\nTheir work spans the breadth of modern AI — robotics and embodied intelligence, large language models and reasoning, computer vision, generative modeling, AI safety, human-AI interaction, AI for science and healthcare, and much more. Along the way, they have published influential research, built systems with real-world impact, mentored their peers, and shaped the BAIR community for the better.\nNow they are headed everywhere ideas travel: to faculty and postdoctoral positions, to industry research labs, and to st…",
-          "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-          "publishedOn": "2026-07-01T09:00:00.000Z",
-          "wordCount": 2493,
-          "title": "2026 BAIR Graduate Showcase",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
         }
       ]
     },
@@ -1894,16 +1839,6 @@
           "wordCount": 5004,
           "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8df7e6a8-923c-4cbf-9e5b-56a68f5ad96e.png"
-        },
-        {
-          "id": "6a43e83fe6f3ef85737305cb",
-          "author": "Rudrendu Paul",
-          "description": "Your team ships an intelligent query-routing feature for an LLM SaaS platform. The feature reads each incoming request in real time and decides whether to send it to the fast standard model or the mor",
-          "link": "https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/",
-          "publishedOn": "2026-06-30T16:01:03.000Z",
-          "wordCount": 6332,
-          "title": "Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50802c2c-ef8c-4137-852a-eed1000e67e7.png"
         }
       ]
     },
@@ -1955,6 +1890,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "a42baca8-8ce2-11f1-b731-cb369b984c2c",
+          "author": null,
+          "description": "NASA’s CHAPEA II crew shares what it was like to operate through a simulated two-week communications blackout with Earth, and NASA analog scientist Sarah Whiting explains what researchers are learning for future Mars missions. Episode 431",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/chapea-2-audio-log-3/",
+          "publishedOn": "2026-07-31T13:30:00.000Z",
+          "wordCount": null,
+          "title": "CHAPEA 2: Audio Log 3",
+          "itunes": {
+            "duration": "3163"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3617465336.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "90835a36-8763-11f1-acfb-27f6b878a121",
           "author": null,
@@ -2059,17 +2012,6 @@
           "title": "Week Ending 7.5.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a43ed2b0fd9805f31714267",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z",
-          "publishedOn": "2026-06-30T16:22:32.000Z",
-          "wordCount": null,
-          "title": "Week Ending 6.28.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2101,6 +2043,16 @@
       "feedUrl": "https://learnopencv.com/feed/",
       "siteUrl": "https://learnopencv.com",
       "articles": [
+        {
+          "id": "https://learnopencv.com/?p=80076",
+          "author": "Sudip Chakrabarty",
+          "description": "MiniCPM-o 4.5 is a 9B open-source model that can see, hear, and speak simultaneously. We test its full-duplex Omni-Flow streaming on real-world videos.\nMiniCPM-o 4.5: A 9B Model That Can See, Hear, and Speak at the Same Time first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/minicpm-o-4-5-a-9b-model-that-can-see-hear-and-speak-at-the-same-time/",
+          "publishedOn": "2026-07-31T13:59:02.000Z",
+          "wordCount": 7057,
+          "title": "MiniCPM-o 4.5: A 9B Model That Can See, Hear, and Speak at the Same Time",
+          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/07/31063403/minicpm-o-45-banner-padded-scaled.png"
+        },
         {
           "id": "https://learnopencv.com/?p=79847",
           "author": "Sudip Chakrabarty",
@@ -2168,6 +2120,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=40597",
+          "author": "Sujana Urs",
+          "description": "Discover how robotaxi companies use human-in-the-loop review to identify rare driving scenarios and strengthen safety validation.\nThe post The Edge Cases That Stall Robotaxi Safety Validation and How Human-in-the-Loop Review Pipelines Catch Them Before Regulators Do appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/the-edge-cases-that-stall-robotaxi-safety-validation-and-how-human-in-the-loop-review-pipelines-catch-them-before-regulators-do/",
+          "publishedOn": "2026-07-31T13:49:59.000Z",
+          "wordCount": 3616,
+          "title": "The Edge Cases That Stall Robotaxi Safety Validation and How Human-in-the-Loop Review Pipelines Catch Them Before Regulators Do",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-image-The-Edge-Cases-That-Stall-Robotaxi-Safety.png"
+        },
         {
           "id": "https://imerit.ai/?p=40471",
           "author": "Sujana Urs",
@@ -2265,6 +2227,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256745",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "July 2026 was the busiest month for frontier model releases the field has seen. Four major labs shipped flagship or near-flagship models, two well funded newcomers shipped their first, and the largest open weight model ever published went up for download, all inside thirty one days. Read as a list, the top AI models in July […]\nThe post July 2026 AI Releases: A Timeline of Frontier Model Shifts appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/",
+          "publishedOn": "2026-07-31T09:01:01.000Z",
+          "wordCount": null,
+          "title": "July 2026 AI Releases: A Timeline of Frontier Model Shifts",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256728",
           "author": "Sree Vamsi",
@@ -2550,17 +2523,6 @@
           "title": "Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255975",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Anthropic has just released Claude Sonnet 5. Sonnet. Had to say it twice. It is the middle child of the Claude family, and the one most people will actually use. It is quick, capable, cheap to run, and free to use for all users without any subscription. In this article, we go over the latest […]\nThe post Claude Sonnet 5: The Fable 5 at Home appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/claude-sonnet-5/",
-          "publishedOn": "2026-06-30T21:15:56.000Z",
-          "wordCount": null,
-          "title": "Claude Sonnet 5: The Fable 5 at Home",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2616,6 +2578,46 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "author": null,
+          "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+          "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "publishedOn": "2026-07-31T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Advancing responsible AI across Europe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/building-abundant-intelligence",
+          "author": null,
+          "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+          "link": "https://openai.com/index/building-abundant-intelligence",
+          "publishedOn": "2026-07-31T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Building abundant intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/unive",
+          "author": null,
+          "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+          "link": "https://openai.com/index/unive",
+          "publishedOn": "2026-07-31T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Univé builds an AI-ready workforce",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "author": null,
+          "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "publishedOn": "2026-07-31T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Disrupting a Criminal Scam Operation",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "author": null,
@@ -3058,6 +3060,46 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "hbMw4Yqw6RnFaExDy",
+          "author": "Johannes Treutlein",
+          "description": "TL;DR: LLMs should give accurate answers. Yet we find their answers are often biased to favor their own values and they don't disclose this in their reasoning. For example, when a user asks how likely the AI bubble is to pop and mentions a potential investment in an AI company, Claude models give lower probabilities when that company is Anthropic rather than OpenAI, mostly without disclosing this influence to the user. On a Fermi-estimation task, Claude models often falsely claim to give unbiased answers in their CoT (see Figure 3 below for an example). We call this covert value leakage and introduce a suite of evaluations that shows it across frontier models and across different kinds of values.\nNew paper by Truthful AI: Paper, X thread, Website (model responses and CoT), Code and data.\nA…",
+          "link": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1",
+          "publishedOn": "2026-07-31T16:32:50.000Z",
+          "wordCount": 39968,
+          "title": "Value Leakage: An LLM’s Answers Are Silently Shaped by Its Own Values",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/hbMw4Yqw6RnFaExDy/bprbeyc8pkpmrcc7clmn"
+        },
+        {
+          "id": "ZTdRtSWaw7JgqEtfa",
+          "author": "Rohin Shah",
+          "description": "Cross-posted from our new Substack\nIt’s been nearly two years since our last major update here in August 2024 and we wanted to share another recap of our recent work with the AGI safety community. Things have changed a lot since then. We are now fully in the midgame, and focus more on landing things in production.\nWho are we?\nWe are the AGI Safety and Alignment Team (ASAT), the main group at Google DeepMind working directly on technical approaches to existential risk from AI systems. Last year we published An Approach to Technical AGI Safety and Security, which remains the best place to read our overarching vision.\nHighlights\nNorms around chain of thought. Our impression is that our work meaningfully moved the field away from beliefs along the lines of “chain of thought is often unfaithful…",
+          "link": "https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1",
+          "publishedOn": "2026-07-31T15:57:59.000Z",
+          "wordCount": 27088,
+          "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "AyDNvb3Pw6Kgo7Dqb",
+          "author": "Seb Farquhar",
+          "description": "GDM’s AGI Safety and Alignment Team is hiring for multiple roles, across all areas in this post on our recent work. This is the team at GDM, led by Rohin Shah, that aims to reduce existential risks from AI systems. You can listen to many of Rohin’s takes in his podcast on 80,000 hours.\nThere is no one ‘type’ that we are looking for—we want excellent people. We think of the role as ‘member of technical staff’ though different people will have more of a research engineer or scientist flavour. We are flexible on location though most people will be most productive in either San Francisco or London. You should apply here (for the US) or here (for the UK) after reading the guidance here.\nMany of the basic facts about why ASAT is a good place to work and how we think about research are mostly unc…",
+          "link": "https://www.alignmentforum.org/posts/AyDNvb3Pw6Kgo7Dqb/the-agi-safety-and-alignment-team-at-google-deepmind-is",
+          "publishedOn": "2026-07-31T15:53:58.000Z",
+          "wordCount": 25741,
+          "title": "The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "k3eKqKzq4Y7xnqEfZ",
+          "author": "Charbel-Raphaël",
+          "description": "One day before OpenAI’s HF incident disclosure, OpenAI disclosed that it paused internal deployment of a long-horizon model after it circumvented its sandbox, then restored access weeks later under new monitoring. So a resumption decision has already been made against a standard that has not really been formalized. We need to prevent this from happening again.\nEpistemic status: could have been a short-form.\n\n\nOpenAI, 20th July: \"To evaluate the new monitoring system, we replayed a small set of internal deployment environments where the model previously pursued misaligned actions, this time with the new safeguards in place. The new safeguards were able to catch considerably more misaligned actions pursued by the model, and the ones it missed were all judged to be low-severity.\"\n\n0.0%. Maybe…",
+          "link": "https://www.alignmentforum.org/posts/k3eKqKzq4Y7xnqEfZ/openai-has-already-ended-an-internal-pause",
+          "publishedOn": "2026-07-31T12:03:18.000Z",
+          "wordCount": 18653,
+          "title": "OpenAI has already ended an internal pause",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/k3eKqKzq4Y7xnqEfZ/rlkn3khrstk9uc7y4plc"
+        },
         {
           "id": "sFhW3ZnPMJdnB4Dd6",
           "author": "Geoffrey Irving",
