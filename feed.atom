@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-01T02:29:50.476Z</updated>
+    <updated>2026-08-02T02:27:55.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler]]></title>
+        <id>https://towardsdatascience.com/?p=610231</id>
+        <link href="https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/"/>
+        <updated>2026-08-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mid-task. What looks like “forgetting” is usually just degraded context. This article explores a different approach: treating prompt construction like a compiler that decides what to keep, what to reduce, and what to discard entirely.
+The post Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put the Agent Inside the Workflow]]></title>
+        <id>https://towardsdatascience.com/?p=610229</id>
+        <link href="https://towardsdatascience.com/put-the-agent-inside-the-workflow/"/>
+        <updated>2026-08-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior
+The post Put the Agent Inside the Workflow appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LanceDB Vector Database Guide: Features, Python Demo]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256587</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/"/>
+        <updated>2026-08-01T10:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Large language models understand text well, but they become less effective when information is scattered across documents or mixed with images and other media. Modern AI systems rely on vector databases, which store embeddings and enable similarity search across collections. LanceDB is a vector database built for AI workloads, with native support for multimodal data […]
+The post LanceDB Vector Database Guide: Features, Python Demo appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Mounish V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
+        <id>https://openai.com/index/ten-advances-in-mathematics</id>
+        <link href="https://openai.com/index/ten-advances-in-mathematics"/>
+        <updated>2026-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Value Leakage: An LLM’s Answers Are Silently Shaped by Its Own Values]]></title>
         <id>hbMw4Yqw6RnFaExDy</id>
@@ -3399,71 +3442,6 @@ The post Tokenminning: How to Get More from Your Chatbot for Less appeared first
 The post Design Loops, Not Prompts appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Javier Marin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR 2026: What We Saw, What It Means, and Where AI Is Headed]]></title>
-        <id>https://imerit.ai/?p=38562</id>
-        <link href="https://imerit.ai/resources/blog/cvpr-2026-what-we-saw-what-it-means-and-where-ai-is-headed/"/>
-        <updated>2026-07-02T14:22:59.000Z</updated>
-        <summary type="html"><![CDATA[iMerit's team returns from Denver with a clear signal: the field is changing faster than the headlines suggest.
-The post CVPR 2026: What We Saw, What It Means, and Where AI Is Headed appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context vs. Memory Engineering in Agentic AI Systems]]></title>
-        <id>https://machinelearningmastery.com/?p=24568</id>
-        <link href="https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/"/>
-        <updated>2026-07-02T14:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Compression on Arrival Tool outputs should be compressed after a call returns, not after the window fills.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time-Series LLMs, Explained with t0-alpha]]></title>
-        <id>https://towardsdatascience.com/?p=609640</id>
-        <link href="https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/"/>
-        <updated>2026-07-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[t0-alpha is a decoder-style patch transformer for probabilistic time-series forecasting. Raw series are split into 32-step patches, embedded, processed through causal time-attention and group-attention layers, and decoded into future quantiles rather than a single point forecast.
-The post Time-Series LLMs, Explained with t0-alpha appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Untaught Lessons of RAG Question Parsing: Structure Before You Search]]></title>
-        <id>https://towardsdatascience.com/?p=609638</id>
-        <link href="https://towardsdatascience.com/the-untaught-lessons-of-rag-question-parsing-structure-before-you-search/"/>
-        <updated>2026-07-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6ter] - Six positions on the question-parsing brick that contradict the mainstream RAG playbook
-The post The Untaught Lessons of RAG Question Parsing: Structure Before You Search appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Powerful ML Is Deceptively Easy — Part 2]]></title>
-        <id>https://towardsdatascience.com/?p=609635</id>
-        <link href="https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy-part-2/"/>
-        <updated>2026-07-01T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The next leakage problem is not only temporal. It is spatial, structural, and coverage-related. AI-generated illustration created with DALL·E
-The post Why Powerful ML Is Deceptively Easy — Part 2 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Erika Gomes-Gonçalves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start]]></title>
-        <id>https://towardsdatascience.com/?p=609633</id>
-        <link href="https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/"/>
-        <updated>2026-07-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every hand-off in your multi-agent pipeline is an expensive tokenization round-trip. Discover how Inductive Latent Context Persistence (ILCP) transfers a compressed hidden state so downstream agents never have to re-create the same context.
-The post Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
         </author>
     </entry>
 </feed>
