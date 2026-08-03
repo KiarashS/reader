@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610235",
+          "author": "Eivind Kjosbakken",
+          "description": "Perform non-programming tasks with coding agents\nThe post How to Apply Coding Agents to Non-Programming Tasks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/",
+          "publishedOn": "2026-08-02T15:00:00.000Z",
+          "wordCount": 5108,
+          "title": "How to Apply Coding Agents to Non-Programming Tasks",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/coding-agents-non-programming-tasks_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610233",
+          "author": "Soner Yıldırım",
+          "description": "A step-by-step guide to building, running, and monitoring a stateful customer support agent using Python, LangGraph, and Langfuse.\nThe post I Replaced a 15-Minute Booking Process with a LangGraph AI Agent appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/",
+          "publishedOn": "2026-08-02T13:00:00.000Z",
+          "wordCount": 4206,
+          "title": "I Replaced a 15-Minute Booking Process with a LangGraph AI Agent",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/towfiqu-barbhuiya-9gPKrsbGmc-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610231",
           "author": "Emmimal P Alexander",
           "description": "Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mid-task. What looks like “forgetting” is usually just degraded context. This article explores a different approach: treating prompt construction like a compiler that decides what to keep, what to reduce, and what to discard entirely.\nThe post Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler appeared first on Towards Data Science.",
@@ -1070,46 +1090,6 @@
           "wordCount": 9457,
           "title": "Long Context vs. Short Context Model: When Does a Long Context Model Win?",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/jr-korpa-Dm-DXaMx2vY-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609659",
-          "author": "Emmimal P Alexander",
-          "description": "Most \"LLM wikis\" use agents, embeddings, and repeated model calls to organize local notes. I built a deterministic alternative: a pure Python compiler that turns messy markdown into a linked, linted wiki using only the standard library. Along the way, I fixed two real bugs, benchmarked the pipeline on two operating systems, and showed why a compiler is often a better fit than an agent for mechanical text organization.\nThe post LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/",
-          "publishedOn": "2026-07-03T13:30:00.000Z",
-          "wordCount": 6328,
-          "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/LLM-Wikis.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609657",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG\nThe post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/",
-          "publishedOn": "2026-07-03T12:00:00.000Z",
-          "wordCount": 4376,
-          "title": "The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/card_catalog_kAQo6CJCPN4_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609644",
-          "author": "Sam Black",
-          "description": "Tokenmaxxing is out. Real patterns for reducing costs without sacrificing AI effectiveness\nThe post Tokenminning: How to Get More from Your Chatbot for Less appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/",
-          "publishedOn": "2026-07-02T16:30:00.000Z",
-          "wordCount": 5573,
-          "title": "Tokenminning: How to Get More from Your Chatbot for Less",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/2c944596-ee19-4d0f-a2e3-a0512ba2d347-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609642",
-          "author": "Javier Marin",
-          "description": "But don't let the model check itself\nThe post Design Loops, Not Prompts appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/design-loops-not-prompts/",
-          "publishedOn": "2026-07-02T15:00:00.000Z",
-          "wordCount": 4818,
-          "title": "Design Loops, Not Prompts",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/TDS_pipeline-02.jpg"
         }
       ]
     },
@@ -1799,16 +1779,6 @@
           "wordCount": 3994,
           "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c6e53c46-ca40-4f4a-87e9-a925c85963d6.png"
-        },
-        {
-          "id": "6a46977d0ad5b1f1520283a9",
-          "author": "Rudrendu Paul",
-          "description": "Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc",
-          "link": "https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/",
-          "publishedOn": "2026-07-02T16:53:17.000Z",
-          "wordCount": 5004,
-          "title": "Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8df7e6a8-923c-4cbf-9e5b-56a68f5ad96e.png"
         }
       ]
     },
@@ -2072,16 +2042,6 @@
           "wordCount": 4761,
           "title": "How to Run Object Detection with OpenCV 5",
           "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/07/09071756/OpenCV_5_Blog_Thumbnail-scaled.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=79561",
-          "author": "Satya Mallick",
-          "description": "Learn how World Cup 2026 offside technology works with multi-camera tracking, AI pose estimation, digital twins, VAR, and the connected Trionda ball.\nWorld Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/world-cup-2026-offside-technology/",
-          "publishedOn": "2026-07-03T05:39:17.000Z",
-          "wordCount": 7528,
-          "title": "World Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball",
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/07/02222244/world-cup-2026-offside-technology-var-hero-1.jpg"
         }
       ]
     },
@@ -2187,6 +2147,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256525",
+          "author": "Aayush Tyagi",
+          "description": "Imagine hiring an AI assistant to handle important tasks, only to find that it quietly ignores your instructions because it believes it knows better. This is known as agentic misalignment, where an AI intentionally pursues its own objective instead of the one set by its operator. To understand how often this behavior appears, Anthropic researchers […]\nThe post Agentic Misalignment Explained: When AI Agents Go Rogue appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/agentic-misalignment-explained/",
+          "publishedOn": "2026-08-02T09:33:49.000Z",
+          "wordCount": null,
+          "title": "Agentic Misalignment Explained: When AI Agents Go Rogue",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256587",
           "author": "Mounish V",
@@ -2987,6 +2958,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+          "author": "Florian Brand",
+          "description": "Capacity to train strong models is proliferating.",
+          "link": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+          "publishedOn": "2026-08-02T13:01:40.000Z",
+          "wordCount": null,
+          "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!RSM6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a71a4f9-5ac5-447e-82ff-899915627512_2048x1152.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!RSM6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a71a4f9-5ac5-447e-82ff-899915627512_2048x1152.jpeg"
+        },
+        {
           "id": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
           "author": "Nathan Lambert",
           "description": "A podcast with Florian Brand.",
@@ -3370,16 +3357,6 @@
           "wordCount": 31932,
           "title": "Data filtering works a lot worse than you would expect",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/aTybJ6CPQrxEY8rE2/ezsurswoucztbrs1y0z4"
-        },
-        {
-          "id": "SdGbWkCZgCN7EGBxM",
-          "author": "Stuart_Armstrong",
-          "description": "Decision theory is back in fashion (defining fashion as \"one good post on a good EA blog\"). Bentham's Bulldog (BB) has published a case against FDT (functional decision theory), contrasting rationalist enthusiasm with academic scepticism: \"Academic decision theorists don't like the theory. The number of academic decision theorists who adopt it could be counted on one hand by someone missing four of their fingers.\"\nI am, just barely, a published academic decision theorist, so you can keep a small finger to count me too. My position is that, though FDT may have problems with its definitions and under-definedness, we can build defined variants that achieve what FDT attempted to.\nI want to do two things in this post. First, sketch a \"pragmatic\" version of FDT designed to sidestep the theoretic…",
-          "link": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
-          "publishedOn": "2026-07-03T13:22:38.000Z",
-          "wordCount": 42933,
-          "title": "Pragmatic FDT, and predictors as game theory",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }

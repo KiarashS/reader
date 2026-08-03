@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-02T02:27:55.930Z</updated>
+    <updated>2026-08-03T02:29:37.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Apply Coding Agents to Non-Programming Tasks]]></title>
+        <id>https://towardsdatascience.com/?p=610235</id>
+        <link href="https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/"/>
+        <updated>2026-08-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Perform non-programming tasks with coding agents
+The post How to Apply Coding Agents to Non-Programming Tasks appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier]]></title>
+        <id>https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21</id>
+        <link href="https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21"/>
+        <updated>2026-08-02T13:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Capacity to train strong models is proliferating.]]></summary>
+        <author>
+            <name>Florian Brand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Replaced a 15-Minute Booking Process with a LangGraph AI Agent]]></title>
+        <id>https://towardsdatascience.com/?p=610233</id>
+        <link href="https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/"/>
+        <updated>2026-08-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to building, running, and monitoring a stateful customer support agent using Python, LangGraph, and Langfuse.
+The post I Replaced a 15-Minute Booking Process with a LangGraph AI Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic Misalignment Explained: When AI Agents Go Rogue]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256525</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/agentic-misalignment-explained/"/>
+        <updated>2026-08-02T09:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Imagine hiring an AI assistant to handle important tasks, only to find that it quietly ignores your instructions because it believes it knows better. This is known as agentic misalignment, where an AI intentionally pursues its own objective instead of the one set by its operator. To understand how often this behavior appears, Anthropic researchers […]
+The post Agentic Misalignment Explained: When AI Agents Go Rogue appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Aayush Tyagi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler]]></title>
         <id>https://towardsdatascience.com/?p=610231</id>
@@ -3365,83 +3408,6 @@ The post How Robotaxi Fleets Use In-Service Failure Data to Retrain Perception M
 The post Long Context vs. Short Context Model: When Does a Long Context Model Win? appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Chien Vu Minh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler]]></title>
-        <id>https://towardsdatascience.com/?p=609659</id>
-        <link href="https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/"/>
-        <updated>2026-07-03T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Most "LLM wikis" use agents, embeddings, and repeated model calls to organize local notes. I built a deterministic alternative: a pure Python compiler that turns messy markdown into a linked, linted wiki using only the standard library. Along the way, I fixed two real bugs, benchmarked the pipeline on two operating systems, and showed why a compiler is often a better fit than an agent for mechanical text organization.
-The post LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pragmatic FDT, and predictors as game theory]]></title>
-        <id>SdGbWkCZgCN7EGBxM</id>
-        <link href="https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1"/>
-        <updated>2026-07-03T13:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Decision theory is back in fashion (defining fashion as "one good post on a good EA blog"). Bentham's Bulldog (BB) has published a case against FDT (functional decision theory), contrasting rationalist enthusiasm with academic scepticism: "Academic decision theorists don't like the theory. The number of academic decision theorists who adopt it could be counted on one hand by someone missing four of their fingers."
-I am, just barely, a published academic decision theorist, so you can keep a small finger to count me too. My position is that, though FDT may have problems with its definitions and under-definedness, we can build defined variants that achieve what FDT attempted to.
-I want to do two things in this post. First, sketch a "pragmatic" version of FDT designed to sidestep the theoretic…]]></summary>
-        <author>
-            <name>Stuart_Armstrong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation]]></title>
-        <id>https://towardsdatascience.com/?p=609657</id>
-        <link href="https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/"/>
-        <updated>2026-07-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG
-The post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball]]></title>
-        <id>https://learnopencv.com/?p=79561</id>
-        <link href="https://learnopencv.com/world-cup-2026-offside-technology/"/>
-        <updated>2026-07-03T05:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Learn how World Cup 2026 offside technology works with multi-camera tracking, AI pose estimation, digital twins, VAR, and the connected Trionda ball.
-World Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Satya Mallick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python]]></title>
-        <id>6a46977d0ad5b1f1520283a9</id>
-        <link href="https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/"/>
-        <updated>2026-07-02T16:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenminning: How to Get More from Your Chatbot for Less]]></title>
-        <id>https://towardsdatascience.com/?p=609644</id>
-        <link href="https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/"/>
-        <updated>2026-07-02T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Tokenmaxxing is out. Real patterns for reducing costs without sacrificing AI effectiveness
-The post Tokenminning: How to Get More from Your Chatbot for Less appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Loops, Not Prompts]]></title>
-        <id>https://towardsdatascience.com/?p=609642</id>
-        <link href="https://towardsdatascience.com/design-loops-not-prompts/"/>
-        <updated>2026-07-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[But don't let the model check itself
-The post Design Loops, Not Prompts appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Javier Marin</name>
         </author>
     </entry>
 </feed>
