@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610256",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #M2] - Every RAG system is built in three engineering layers stacked on one LLM call: prompt (the call itself), context (what fills the model’s window), loop (when the next call fires and when it stops). Knowing which layer you are standing on is half of building and debugging RAG\nThe post Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
+          "publishedOn": "2026-08-03T16:30:00.000Z",
+          "wordCount": 7568,
+          "title": "Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/folded_towels_4210372_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610254",
+          "author": "Mauro Di Pietro",
+          "description": "Create a local CLI Agent from scratch completely for free\nThe post How to Build CLI Agents with Python & Ollama appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/cli-agents-with-python-ollama/",
+          "publishedOn": "2026-08-03T15:00:00.000Z",
+          "wordCount": 3988,
+          "title": "How to Build CLI Agents with Python & Ollama",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-235-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610251",
+          "author": "Samir Saci",
+          "description": "What actually makes a Forward Deployed Engineer, told through one supply chain project.\nThe post The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-ai-was-the-easy-part-what-is-a-forward-deployed-engineer-in-a-supply-chain/",
+          "publishedOn": "2026-08-03T13:30:00.000Z",
+          "wordCount": 5685,
+          "title": "The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/temp-1-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610249",
+          "author": "Egor Howell",
+          "description": "How use Claude to craft an outstanding resume that lands offers\nThe post How Claude Help Me Build My $200k+ ML Resume appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-claude-help-me-build-my-200k-ml-resume/",
+          "publishedOn": "2026-08-03T12:00:00.000Z",
+          "wordCount": 4796,
+          "title": "How Claude Help Me Build My $200k+ ML Resume",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/ZERO.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610235",
           "author": "Eivind Kjosbakken",
           "description": "Perform non-programming tasks with coding agents\nThe post How to Apply Coding Agents to Non-Programming Tasks appeared first on Towards Data Science.",
@@ -1060,36 +1100,6 @@
           "wordCount": 5089,
           "title": "Setting Up Your Own Large Language Model",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-34.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609673",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #8A] - The schema is the contract: every field is a question the pipeline asks the model, and every answer is checkable\nThe post Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-returning-text-from-rag-the-typed-answer-contract-that-prevents-hallucination/",
-          "publishedOn": "2026-07-04T13:00:00.000Z",
-          "wordCount": 8943,
-          "title": "Stop Returning Text from RAG: The Typed Answer Contract That Prevents Hallucination",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/compare_wax_seal_5425649_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609664",
-          "author": "Maria Mouschoutzi",
-          "description": "How agents reason, act, and observe their way to a final answer, one step at a time\nThe post AI Agents Explained: What Is a ReAct Loop and How Does It Work? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/",
-          "publishedOn": "2026-07-03T16:30:00.000Z",
-          "wordCount": 5184,
-          "title": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jun-24-2026-10_21_57-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609661",
-          "author": "Chien Vu Minh",
-          "description": "Balancing context capability against cost, speed, and data\nThe post Long Context vs. Short Context Model: When Does a Long Context Model Win? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/",
-          "publishedOn": "2026-07-03T15:00:00.000Z",
-          "wordCount": 9457,
-          "title": "Long Context vs. Short Context Model: When Does a Long Context Model Win?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/jr-korpa-Dm-DXaMx2vY-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1541,24 +1551,23 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": [
-        {
-          "id": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-          "author": null,
-          "description": "The concept of recursive self-improvement (RSI) dates back to I. J. Good (1965), where he defined an “ultraintelligent machine” as a system that can surpass humans in all intellectual activities and design better machines to improve itself. Yudkowsky (2008) used the phrase “recursive self-improvement” for a specific feedback loop: an AI uses its current intelligence to improve the cognitive machinery that produces its intelligence.\nThis feedback loop in modern AI may indicate the model rewriting its own weights directly, or more broadly the model improves the training pipeline and the deployment system, which in turn enables a better successor model with improved performance across economically valuable tasks. The speed of research development in AI has been shown to drastically accelerated in frontier labs (Anthropic; OpenAI).",
-          "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-          "publishedOn": "2026-07-04T00:00:00.000Z",
-          "wordCount": 12379,
-          "title": "Harness Engineering for Self-Improvement",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Microsoft Research",
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+          "author": "Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Jianfeng Gao",
+          "description": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.\nThe post Orchard: An open framework for scalable agentic AI appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+          "publishedOn": "2026-08-03T16:00:00.000Z",
+          "wordCount": 4942,
+          "title": "Orchard: An open framework for scalable agentic AI",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Orchard-TWLIFB-1200x627_NEW.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1179908",
           "author": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah, Ece Kamar",
@@ -2129,16 +2138,6 @@
           "wordCount": 2219,
           "title": "Segmentation is Now Front and Centre on Ango Hub",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Feature-IMG-Segmentation-is-Now-Front-and-Centre-on-Ango-Hub.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=38765",
-          "author": "Sujana Urs",
-          "description": "Learn how Robotaxi perception model retraining uses failure data, annotation, and shadow mode testing to improve autonomous driving systems. \nThe post How Robotaxi Fleets Use In-Service Failure Data to Retrain Perception Models appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/how-robotaxi-fleets-use-in-service-failure-data-to-retrain-perception-models/",
-          "publishedOn": "2026-07-03T16:18:41.000Z",
-          "wordCount": 3791,
-          "title": "How Robotaxi Fleets Use In-Service Failure Data to Retrain Perception Models",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-img-How-Robotaxi-Fleets-Use-In-Service-Failure-Data-to-Retrain-Perception-Models.png"
         }
       ]
     },
@@ -2454,17 +2453,6 @@
           "title": "YOLO26 Tutorial: Object Detection, Pose Estimation & More",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255945",
-          "author": "Sree Vamsi",
-          "description": "You tell your AI “Polish my email and send it.” Same sentence, three outcomes. The gap between Large Action Models (LAMs) and agentic LLMs is one of the most practically important distinctions in AI today, and also one of the least clearly explained. In this article, we cut through the confusion through a simple breakdown […]\nThe post Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/large-action-models-vs-agentic-llms/",
-          "publishedOn": "2026-07-03T18:28:00.000Z",
-          "wordCount": null,
-          "title": "Large Action Models (LAMs) vs Agentic LLMs: What’s the Real Difference?",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2520,6 +2508,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "author": null,
+          "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+          "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "publishedOn": "2026-08-03T07:00:00.000Z",
+          "wordCount": null,
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/circles",
+          "author": null,
+          "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "link": "https://openai.com/index/circles",
+          "publishedOn": "2026-08-03T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/ten-advances-in-mathematics",
           "author": null,
@@ -2958,6 +2966,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+          "author": "Nathan Lambert",
+          "description": "Scaling our curation and measurement of the open ecosystem.",
+          "link": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+          "publishedOn": "2026-08-03T14:03:08.000Z",
+          "wordCount": null,
+          "title": "Introducing our Artifacts Hub and Adoption Dashboard",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/dff5e29d-7c81-4f81-a64b-10d9b9bbecbc_2856x1577.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dff5e29d-7c81-4f81-a64b-10d9b9bbecbc_2856x1577.png"
+        },
+        {
           "id": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
           "author": "Florian Brand",
           "description": "Capacity to train strong models is proliferating.",
@@ -3028,6 +3052,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "aCdhjy7Rps3BEhiSj",
+          "author": "Tim Hua",
+          "description": "[Tweet Thread]\nThis post is written in our personal capacity.\nThree-Minute Executive Summary\n\nAn OpenAI model/multi-agent system bypassed its sandbox and launched a cyberattack on Hugging Face in order to cheat on a cyber evaluation.\nIn this post, we describe the ambitious, comprehensive alignment evaluation we would run on this model/system if we had unrestricted access to OpenAI.\nThese experiments could also help us understand Claude’s behavior when it hacked external companies during cyber evals.\n\nHere are the top five questions we would like OpenAI to answer:\nDoes the model know that OpenAI does not want it to hack Hugging Face? Experiment: tell the model that OpenAI researchers will be closely monitoring its progress in this evaluation. Does that result in lower rates of misalignment?…",
+          "link": "https://www.alignmentforum.org/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that",
+          "publishedOn": "2026-08-03T09:23:01.000Z",
+          "wordCount": 63768,
+          "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "hbMw4Yqw6RnFaExDy",
           "author": "Johannes Treutlein",
