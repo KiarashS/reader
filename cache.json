@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610277",
+          "author": "Thomas Reid",
+          "description": "A practical guide to Bronze, Silver and Gold, with a working Python and DuckDB example\nThe post The Medallion Data Architecture: An Introduction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-medallion-data-architecture/",
+          "publishedOn": "2026-08-04T16:30:00.000Z",
+          "wordCount": 5774,
+          "title": "The Medallion Data Architecture: An Introduction",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/call_OYFXRf8aWZSxGNcWfIomSovO.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610274",
+          "author": "Nathan Bos",
+          "description": "An online simulation and a novel method for increasing power\nThe post How to Get More Statistical Power from Fewer Research Participants appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/increasing-statistical-power-with-more-problems/",
+          "publishedOn": "2026-08-04T15:00:00.000Z",
+          "wordCount": 6125,
+          "title": "How to Get More Statistical Power from Fewer Research Participants",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-433.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610271",
+          "author": "Ivo Bernardo",
+          "description": "Data Storytelling Series, Chapter 1\nThe post Are Home Teams Favoured by Referees in Football/Soccer? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/are-home-teams-favoured-by-referees-in-football-soccer/",
+          "publishedOn": "2026-08-04T13:30:00.000Z",
+          "wordCount": 6450,
+          "title": "Are Home Teams Favoured by Referees in Football/Soccer?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-493.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610263",
+          "author": "Shuai Guo",
+          "description": "Building manager–specialist workflows with the OpenAI Agents SDK\nThe post Using Agents as Tools appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/using-agents-as-tools/",
+          "publishedOn": "2026-08-04T12:00:00.000Z",
+          "wordCount": 4236,
+          "title": "Using Agents as Tools",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/agent_as_tool-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610256",
           "author": "angela shi",
           "description": "Enterprise Document Intelligence [Vol.1 #M2] - Every RAG system is built in three engineering layers stacked on one LLM call: prompt (the call itself), context (what fills the model’s window), loop (when the next call fires and when it stops). Knowing which layer you are standing on is half of building and debugging RAG\nThe post Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On appeared first on Towards Data Science.",
@@ -1080,26 +1120,6 @@
           "wordCount": 8831,
           "title": "Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/compare_letterpress_drawer_4140925_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609679",
-          "author": "Muhammad Ardi",
-          "description": "Understanding how PANet shortens the path between low-level and high-level features\nThe post PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/",
-          "publishedOn": "2026-07-05T13:00:00.000Z",
-          "wordCount": 6339,
-          "title": "PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/PANet-Cover-Page.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609677",
-          "author": "Ivo Bernardo",
-          "description": "Still a long way to go, but the future is promising\nThe post Setting Up Your Own Large Language Model appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/setting-up-your-own-large-language-model/",
-          "publishedOn": "2026-07-04T15:00:00.000Z",
-          "wordCount": 5089,
-          "title": "Setting Up Your Own Large Language Model",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-34.jpg"
         }
       ]
     },
@@ -1285,6 +1305,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "author": null,
+          "description": "A Blog post by Liquid AI on Hugging Face",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "publishedOn": "2026-08-04T13:58:29.000Z",
+          "wordCount": 1410,
+          "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/DsoMk3kqhMYedjPiZINKv.png"
+        },
         {
           "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
           "author": null,
@@ -1919,6 +1949,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a72239233d4031e5cf51fe8",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8",
+          "publishedOn": "2026-08-04T17:39:10.000Z",
+          "wordCount": null,
+          "title": "Week Ending 8.2.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a67f929e25133077d795e3b",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -2060,6 +2101,16 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=40788",
+          "author": "Sujana Urs",
+          "description": "Learn how sensor calibration errors break multi-sensor fusion, why calibration drifts after deployment, and how to keep AV perception reliable.\nThe post Why Sensor Calibration Errors Break Multi-Sensor Fusion Systems appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-sensor-calibration-errors-break-multi-sensor-fusion-systems/",
+          "publishedOn": "2026-08-04T13:36:04.000Z",
+          "wordCount": 4049,
+          "title": "Why Sensor Calibration Errors Break Multi-Sensor Fusion Systems",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Sensor-Calibration-Errors.png"
+        },
+        {
           "id": "https://imerit.ai/?p=40597",
           "author": "Sujana Urs",
           "description": "Discover how robotaxi companies use human-in-the-loop review to identify rare driving scenarios and strengthen safety validation.\nThe post The Edge Cases That Stall Robotaxi Safety Validation and How Human-in-the-Loop Review Pipelines Catch Them Before Regulators Do appeared first on iMerit.",
@@ -2146,6 +2197,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256769",
+          "author": "Riya Bansal",
+          "description": "One of your colleagues asserts that “we require improved loop engineering,” yet the fundamental issue lies within the harness itself. Others may create graphs with 40 nodes before they observe how the agent executes a given task at a single time. Does this sound like something you have encountered before? This ongoing confusion surrounding agent […]\nThe post Agent Harness vs Loop vs Graph Engineering: A Technical Guide appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/agent-harness-loop-graph-engineering/",
+          "publishedOn": "2026-08-04T12:31:15.000Z",
+          "wordCount": null,
+          "title": "Agent Harness vs Loop vs Graph Engineering: A Technical Guide",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256525",
           "author": "Aayush Tyagi",
@@ -2442,17 +2504,6 @@
           "title": "Modern VLMs Explained: How GPT-4o, Gemini, Claude Vision, and Qwen-VL Work",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=255998",
-          "author": "Mounish V",
-          "description": "Looking to model to implement pose estimation? I know something that can perform detection, instance segmentation, pose estimation and classification, all of that in real-time. Yes, I’m talking about the YOLO26 from ultralytics.  It can aid security systems or can be fine-tuned to detect even smaller objects. Wondering how to get started? No worries, we’ll […]\nThe post YOLO26 Tutorial: Object Detection, Pose Estimation & More appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/yolo26-tutorial/",
-          "publishedOn": "2026-07-04T19:55:13.000Z",
-          "wordCount": null,
-          "title": "YOLO26 Tutorial: Object Detection, Pose Estimation & More",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2508,6 +2559,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "author": null,
+          "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "publishedOn": "2026-08-04T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "author": null,
+          "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+          "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "publishedOn": "2026-08-04T00:00:00.000Z",
+          "wordCount": null,
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/apple-is-getting-this-wrong",
+          "author": null,
+          "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+          "link": "https://openai.com/index/apple-is-getting-this-wrong",
+          "publishedOn": "2026-08-03T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Apple is getting this wrong",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
           "author": null,
@@ -3052,6 +3133,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "vLFh8HP3hyNy9MCwe",
+          "author": "paulfchristiano",
+          "description": "I've returned to the Alignment Research Center (ARC) as executive director. My main focus for the next six months will be driving forward ARC's research agenda—building techniques to find mechanistic explanations for neural network behavior and then using those explanations to detect and address misalignment. I think this is an ambitious bet that attacks the core difficulties in alignment head-on and I'm excited about our chances. I'll still be spending some of my time advising governments[1] and AI developers, and may scale that work back up in the future, but for now I want to push on ARC's core agenda to see how far we can get. Jacob Hilton is remaining at ARC as VP of research and we'll likely grow rapidly over the next few months.\nThere are a lot of urgent things to do in alignment bu…",
+          "link": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc",
+          "publishedOn": "2026-08-04T22:27:40.000Z",
+          "wordCount": 30257,
+          "title": "Returning to ARC",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "aCdhjy7Rps3BEhiSj",
           "author": "Tim Hua",
