@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-08T01:16:39.195Z</updated>
+    <updated>2026-08-09T01:21:11.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Before Q, K, and V: Reconstructing the Transformer]]></title>
+        <id>https://towardsdatascience.com/?p=610386</id>
+        <link href="https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/"/>
+        <updated>2026-08-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many Transformer explainers start with the finished architecture. We ask why it looks the way it does.
+The post Before Q, K, and V: Reconstructing the Transformer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sankar Srinivasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Trustworthy Snowflake AI Agents with Semantic Governance]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256780</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/snowflake-ai-agents-semantic-governance/"/>
+        <updated>2026-08-08T13:27:12.000Z</updated>
+        <summary type="html"><![CDATA[This year, many data teams have added AI agents to their roadmaps. The excitement is real: an agent that turns a two-day analysis into a two-minute conversation can change how analysts and business teams work together. But agents are only as reliable as the data foundation beneath them. Point them at raw tables or outdated […]
+The post Building Trustworthy Snowflake AI Agents with Semantic Governance appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Analytics Vidhya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Streamlit UI for My LangGraph AI Agent]]></title>
+        <id>https://towardsdatascience.com/?p=610385</id>
+        <link href="https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/"/>
+        <updated>2026-08-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a production-ready web interface for a stateful LangGraph agent
+The post Building a Streamlit UI for My LangGraph AI Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TutorMoments: Do AI tutors know when to help and when to hold back?]]></title>
         <id>https://huggingface.co/blog/allenai/tutormoments</id>
@@ -111,6 +144,17 @@ How can we study misalignment with today's models as proxies? They're clearly no
 We see this as a work of high-level model forensics. Rather than investigating a single incident, the core problem here is taking an ambiguous pattern of behavior across many contexts with various plausible motivations, and practicing how t…]]></summary>
         <author>
             <name>aditya singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User awareness in frontier models]]></title>
+        <id>kfunjXeaRTpkT5RAF</id>
+        <link href="https://www.alignmentforum.org/posts/kfunjXeaRTpkT5RAF/user-awareness-in-frontier-models"/>
+        <updated>2026-08-06T20:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Cross-posted on Transluce blog. This is a joint work of Ziqian Zhong, Aditi Raghunathan, Cassidy Laidlaw and Jacob Steinhardt.
+Modern AI assistants often know who they are talking to: agent scaffolds like Claude Code place the user's e-mail address directly in the model's context, and models can even identify some authors from writing style alone. We study this particular kind of situational awareness, which we call user awareness. When the inferred user is a specific, recognized AI researcher or is affiliated with certain AI organizations, frontier models including Claude Sonnet 5 can report lower confidence about their own behavior, be less suspicious of potentially harmful requests, and reason more often. These effects vary across models and individuals, with the strongest effects we se…]]></summary>
+        <author>
+            <name>Ziqian Zhong</name>
         </author>
     </entry>
     <entry>
@@ -3283,177 +3327,6 @@ The post How to Find the Optimal Coding Agent Interface appeared first on Toward
 The post Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 is now the preferred model in Microsoft 365 Copilot]]></title>
-        <id>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</id>
-        <link href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"/>
-        <updated>2026-07-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Does an AI’s Personality Actually Come From?]]></title>
-        <id>https://towardsdatascience.com/?p=609734</id>
-        <link href="https://towardsdatascience.com/where-does-an-ais-personality-actually-come-from/"/>
-        <updated>2026-07-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[They aren’t designed, you can’t help perceiving one anyway, and that makes them an engineering problem almost no one is solving.
-The post Where Does an AI’s Personality Actually Come From? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Slava Polonski, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT is now a partner for your most ambitious work]]></title>
-        <id>https://openai.com/index/chatgpt-for-your-most-ambitious-work</id>
-        <link href="https://openai.com/index/chatgpt-for-your-most-ambitious-work"/>
-        <updated>2026-07-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.5 Bio Bug Bounty]]></title>
-        <id>https://openai.com/index/bio-bug-bounty</id>
-        <link href="https://openai.com/index/bio-bug-bounty"/>
-        <updated>2026-07-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Details about the OpenAI Bio Bounty program]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6: Frontier intelligence that scales with your ambition]]></title>
-        <id>https://openai.com/index/gpt-5-6</id>
-        <link href="https://openai.com/index/gpt-5-6"/>
-        <updated>2026-07-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing our $160M grant from Coefficient Giving]]></title>
-        <id>HDKQNqiR2gtfMiWsn</id>
-        <link href="https://www.alignmentforum.org/posts/HDKQNqiR2gtfMiWsn/announcing-our-usd160m-grant-from-coefficient-giving"/>
-        <updated>2026-07-09T07:58:47.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce that Resolution (fka Sequent) has a $160M grant from Coefficient Giving (cG) to put rigorous alignment research on a (closer to) even footing with the frontier labs. We will use it to accelerate progress towards higher-confidence alignment, or to find evidence and obstacles showing why alignment is hard.
-The grant is structured as a $108M base plus $52M conditional on a combination of hiring success and compute needs. The base includes a small regranting budget, which we plan to use both for high-quality non-Resolution alignment research and to give back to shared community infrastructure that we depend on. Coefficient Giving will be our sole funder to start (thank you!); our goal is to raise larger-scale funds from a mixture of sources once we demonstrate succes…]]></summary>
-        <author>
-            <name>Geoffrey Irving</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modular Pretraining Enables Access Control]]></title>
-        <id>43vKjWuH4goLwrFHA</id>
-        <link href="https://www.alignmentforum.org/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control"/>
-        <updated>2026-07-09T00:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Full author list: Ethan Roland*, Murat Cubuktepe*, Erick Martinez*, Stijn Servaes, Keenan Pepper, Mike Vaiana, Diogo Schwerz de Lucena, Judd Rosenblatt, Addie Foote, Cem Anil, Alex Cloud; *Equal contribution
-tldr: Frontier AI models have knowledge that could be misused for nefarious purposes. To address this risk, we introduce Gradient Routed Auxiliary Modules (GRAM), a method for isolating dangerous knowledge to specific modules within a language model. These modules can be switched on or off to control what the model knows, making it possible to restrict or extend access to the most sensitive model capabilities based on user need and trust. In our experiments, we find evidence that a single model trained in this way can approximate multiple models, each trained with a different category …]]></summary>
-        <author>
-            <name>E.Roland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI]]></title>
-        <id>6a4edb71b23ba37e305b1825</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/"/>
-        <updated>2026-07-08T23:21:21.000Z</updated>
-        <summary type="html"><![CDATA[Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on technical alignment via human-like social drives]]></title>
-        <id>rKdS7i4StaMmFzYRo</id>
-        <link href="https://www.alignmentforum.org/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives"/>
-        <updated>2026-07-08T18:30:22.000Z</updated>
-        <summary type="html"><![CDATA[1. Frontmatter
-1.1 Backstory for this post
-As discussed in Intro to Brain-Like-AGI Safety, I’m working on the technical alignment problem for a hypothetical future “brain-like AGI”, with a particular focus on treating human innate social and moral drives as a possible jumping-off point for our technical alignment approach.
-After all, if it’s possible for humans to do stuff that ultimately leads to a good future, then it’s probably also possible for sufficiently human-like AGIs to do stuff that ultimately leads to a good future. Or if it’s not possible for humans to do stuff that ultimately leads to a good future, then we’re screwed no matter what. But assuming it’s possible, the “sufficiently human-like AGIs” would certainly need to have good prosocial motivations. What code do we write th…]]></summary>
-        <author>
-            <name>Steven Byrnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek DSpark: The Speculative Decoding Trick Behind 400% Faster LLM]]></title>
-        <id>https://www.analyticsvidhya.com/?p=256047</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/07/deepseek-dspark-speculative-decoding/"/>
-        <updated>2026-07-08T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek’s new DSpark module brings speculative decoding to DeepSeek-V4. It might look like a niche inference tweak, but in production it boosted per-user generation speed by 60 to 85 percent with no drop in model quality. What sets DSpark apart is that it tackles two longstanding problems at once, weak draft quality and the waste […]
-The post DeepSeek DSpark: The Speculative Decoding Trick Behind 400% Faster LLM  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data for Agents]]></title>
-        <id>https://huggingface.co/blog/nvidia/open-data-for-agents</id>
-        <link href="https://huggingface.co/blog/nvidia/open-data-for-agents"/>
-        <updated>2026-07-08T17:16:05.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Challenge Limiting AI Models Today]]></title>
-        <id>https://towardsdatascience.com/?p=609742</id>
-        <link href="https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/"/>
-        <updated>2026-07-08T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hint: it is not GPU speed!
-The post The Real Challenge Limiting AI Models Today appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flint: A visualization language for the AI era]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1177589</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/"/>
-        <updated>2026-07-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.
-The post Flint: A visualization language for the AI era appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redesign Work Before You Add More AI Agents]]></title>
-        <id>https://towardsdatascience.com/?p=609740</id>
-        <link href="https://towardsdatascience.com/redesign-work-before-you-add-more-ai-agents/"/>
-        <updated>2026-07-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Map AI value, design workflows, redefine talent, upgrade the executive team, and measure the business impact.
-The post Redesign Work Before You Add More AI Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Weiwei Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the Subspace Where Spurious Correlations Are Born]]></title>
-        <id>https://towardsdatascience.com/?p=609713</id>
-        <link href="https://towardsdatascience.com/inside-the-subspace-where-spurious-correlations-are-born/"/>
-        <updated>2026-07-08T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Why small samples can produce large correlations by chance, and why large does not always mean meaningful
-The post Inside the Subspace Where Spurious Correlations Are Born appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Magdalena Ruducha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our approach to government and national security partnerships]]></title>
-        <id>https://openai.com/index/government-national-security-partnerships</id>
-        <link href="https://openai.com/index/government-national-security-partnerships"/>
-        <updated>2026-07-08T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.]]></summary>
-        <author>
-            <name>OpenAI News</name>
         </author>
     </entry>
 </feed>
