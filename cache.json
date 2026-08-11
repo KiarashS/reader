@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610507",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to optimize your CI/CD pipeline for coding agents\nThe post How to Effectively Deploy Code With Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-deploy-code-with-claude-code/",
+          "publishedOn": "2026-08-10T16:30:00.000Z",
+          "wordCount": 4407,
+          "title": "How to Effectively Deploy Code With Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/optimize-cicd-coding-agents_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610505",
+          "author": "Shafeeq Ur Rahaman",
+          "description": "Giving an AI agent access to a data warehouse doesn't automatically make it agent-ready. The real challenge lies in teaching the agent what the data means and when it's reliable enough to use. \nThe post Building an Agent-Ready Data Warehouse: What Traditional Architectures Do Wrong appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-an-agent-ready-data-warehouse-what-traditional-architectures-do-wrong/",
+          "publishedOn": "2026-08-10T15:00:00.000Z",
+          "wordCount": 4944,
+          "title": "Building an Agent-Ready Data Warehouse: What Traditional Architectures Do Wrong",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-photo-36496927-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610503",
+          "author": "Slava Efimov",
+          "description": "A clear, math-first walkthrough of how VAEs learn to generate new data\nThe post Variational Autoencoders (VAEs) Explained: From Theory to ELBO and the Reparameterization Trick appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/variational-autoencoders-vaes-explained-from-theory-to-elbo-and-the-reparameterization-trick/",
+          "publishedOn": "2026-08-10T13:30:00.000Z",
+          "wordCount": 5024,
+          "title": "Variational Autoencoders (VAEs) Explained: From Theory to ELBO and the Reparameterization Trick",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Variational-autoencoders-scaled-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610501",
+          "author": "Muhammad Ardi",
+          "description": "Learn how Spatial Pyramid Pooling enables CNNs to handle any image size, with a from-scratch PyTorch implementation\nThe post SPP-Net Paper Walkthrough: Breaking the Fixed-Size Constraint appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/spp-net-paper-walkthrough-breaking-the-fixed-size-constraint/",
+          "publishedOn": "2026-08-10T12:00:00.000Z",
+          "wordCount": 7062,
+          "title": "SPP-Net Paper Walkthrough: Breaking the Fixed-Size Constraint",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/0_1b-saeAeKEc7qkSF.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610482",
           "author": "Ibrahim Salami",
           "description": "Building my first dbt models and learning what “analysis-ready” data actually means\nThe post I Thought Loading Data Was the Finish Line. It Was the Starting Point. appeared first on Towards Data Science.",
@@ -1040,46 +1080,6 @@
           "wordCount": 7355,
           "title": "Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Pruning-prompts-into-AI-flow.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609803",
-          "author": "Omer Rosenbaum",
-          "description": "The best AI models still hallucinate. These hallucinations are sometimes funny, and sometimes cause actual damage. In this post we will consider recent tales of AI hallucinations, and then look under the hood to understand why they happen.\nThe post That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
-          "publishedOn": "2026-07-11T13:00:00.000Z",
-          "wordCount": 7133,
-          "title": "That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gilang-fahmi-H4K_5qxu_9w-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609797",
-          "author": "Ibrahim Salami",
-          "description": "Building a production-ready RSS pipeline with Python, Docker, PostgreSQL, and Kestra\nThe post I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/",
-          "publishedOn": "2026-07-10T17:00:00.000Z",
-          "wordCount": 6297,
-          "title": "I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/etl-article-image-rss.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609791",
-          "author": "Thomas Reid",
-          "description": "A practical next step into partitions, shuffles, joins, caching, and execution plans.\nThe post PySpark for Beginners: Building Intermediate-Level Skills appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/",
-          "publishedOn": "2026-07-10T15:00:00.000Z",
-          "wordCount": 5935,
-          "title": "PySpark for Beginners: Building Intermediate-Level Skills",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Generated-Image-May-24-2026-9_06AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609789",
-          "author": "Anubhab Banerjee",
-          "description": "Vector databases are a temporary bridge. Discover why the next AI infrastructure revolution relies on persistent neural state and strict latency budgets, not on vector databases.\nThe post RAG Was Always a Temporary Workaround. What is Next? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/",
-          "publishedOn": "2026-07-10T13:30:00.000Z",
-          "wordCount": 4552,
-          "title": "RAG Was Always a Temporary Workaround. What is Next?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/rag1.jpg"
         }
       ]
     },
@@ -1277,16 +1277,6 @@
           "wordCount": 9042,
           "title": "Building AI Agents? Here Are Some Anti-Patterns to Avoid.",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-ai-agent-anti-patterns-cover-1024x683.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24636",
-          "author": "Bala Priya C",
-          "description": "In this article, you will learn how to choose the right memory strategy for an AI agent by working through a simple decision tree, one...",
-          "link": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
-          "publishedOn": "2026-07-10T20:26:21.000Z",
-          "wordCount": 9579,
-          "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-memory-strategy-decision-tree-cover-1024x683.png"
         }
       ]
     },
@@ -1294,7 +1284,23 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22553",
+          "author": "Willa Potosnak",
+          "description": "Based on: Potosnak, W., Wolff, M., Cao, M., Ma, R., Konstantinova, T., Efimov, D., Mahoney, M.W., Oreshkin, B., & Olivares, K.G. \"Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility.\" Transactions on Machine Learning Research, 2026. (Disclaimer: Code implementation not used in the paper; not affiliated with Amazon — provided as a reference for forking-sequences and forecast ensembling) TL;DR Ensembling, nearly for free. Forking-sequences already produces overlapping forecasts for every target date across FCDs in a single forward pass, so ensembling them at inference adds no extra encoder computation compared with window-sampling. Two new forecast volatility metrics. scaled Forecast Percentage Change (sFPC) measures raw revision size in real time (no ground truth needed); Excess Volatility (EV) goes further, rewarding accuracy-improving revisions and only penalizing the ones that move forecasts away from the truth or overshoot it. Reduced volatility without sacrificing accuracy. Exponential-smoothing forecast ensembling (α = 0.9) reduces sEV by 10–13% across all encoder types, with less than 0.1% accuracy degradation. Works zero-shot on models pretrained with window-sampling. Forecast ensembling applied to pretrained Time Series Foundation Models (TSFMs) — Chronos-2, Toto 2.0, TimesFM, PatchTST, N-BEATS — cuts volatility by ~10% with negligible accuracy cost (less than 0.1%). In Part […]",
+          "link": "https://blog.ml.cmu.edu/2026/08/10/forking-sequences-part-ii-multi-horizon-forecast-ensembling-with-reduced-volatility/",
+          "publishedOn": "2026-08-10T21:52:23.000Z",
+          "wordCount": 2884,
+          "title": "Forking-Sequences — Part II: Multi-Horizon Forecast Ensembling with Reduced Volatility",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/07/forking_sequences-1-scaled.jpg",
+            "length": "208061",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/07/forking_sequences-1-scaled.jpg"
+        }
+      ]
     },
     {
       "title": "Google AI Blog",
@@ -1325,6 +1331,36 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "publishedOn": "2026-08-10T16:25:36.000Z",
+          "wordCount": 1986,
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/Ol-uDBWtBtVDbowXgP-Un.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "author": null,
+          "description": "A Blog post by Multiverse Computing on Hugging Face",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "publishedOn": "2026-08-10T10:05:36.000Z",
+          "wordCount": 2184,
+          "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/nB5NK4bdfr7AY1IAO14Gh.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/muse-glimmer",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/muse-glimmer",
+          "publishedOn": "2026-08-10T00:00:00.000Z",
+          "wordCount": 4078,
+          "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "imageUrl": "https://huggingface.co/blog/assets/muse-glimmer/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/tutormoments",
           "author": null,
@@ -1840,24 +1876,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6b1b8bc2-7c61-11f1-bf55-77c19ea51ee2",
-          "author": null,
-          "description": "NASA astronaut Anil Menon discusses his journey ahead of his first spaceflight to the International Space Station aboard Soyuz MS-29. Episode 428.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/space-runs-in-the-family/",
-          "publishedOn": "2026-07-10T13:25:00.000Z",
-          "wordCount": null,
-          "title": "Space Runs in the Family",
-          "itunes": {
-            "duration": "2054"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7744373742.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1866,6 +1884,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a79c0d84c5a106971cd64d5",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp",
+          "publishedOn": "2026-08-10T12:15:51.000Z",
+          "wordCount": null,
+          "title": "Week Ending 8.9.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a72239233d4031e5cf51fe8",
           "author": "Craig Smith",
@@ -2074,6 +2103,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256886",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "You have probably heard by now. Claude Code burns through usage limits! But most of us live in the web app… distant from the terminal app, around which the buzz is about. Maybe that was enough to make you curious. Maybe you already knew exactly what it was and just want it running on your […]\nThe post How to Install Claude Code: A Step-by-Step Guide appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/",
+          "publishedOn": "2026-08-10T18:20:22.000Z",
+          "wordCount": null,
+          "title": "How to Install Claude Code: A Step-by-Step Guide",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256849",
           "author": "Vasu Deo Sankrityayan",
@@ -2436,6 +2476,86 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/building-an-ai-native-finance-function",
+          "author": null,
+          "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "link": "https://openai.com/index/building-an-ai-native-finance-function",
+          "publishedOn": "2026-08-10T17:00:00.000Z",
+          "wordCount": null,
+          "title": "What building an AI-native finance function taught me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "author": null,
+          "description": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "publishedOn": "2026-08-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/model-ml",
+          "author": null,
+          "description": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+          "link": "https://openai.com/index/model-ml",
+          "publishedOn": "2026-08-10T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "author": null,
+          "description": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+          "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "publishedOn": "2026-08-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "author": null,
+          "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+          "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "publishedOn": "2026-08-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Putting frontier cyber models in more trusted hands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/premium-seats-chatgpt-business",
+          "author": null,
+          "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "link": "https://openai.com/index/premium-seats-chatgpt-business",
+          "publishedOn": "2026-08-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Premium seats are coming to ChatGPT Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/zapier",
+          "author": null,
+          "description": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+          "link": "https://openai.com/index/zapier",
+          "publishedOn": "2026-08-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "author": null,
+          "description": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+          "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "publishedOn": "2026-08-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
           "author": null,
@@ -2854,6 +2974,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+          "author": "Nathan Lambert",
+          "description": "After a few long years of finding time to document my lessons from training open models, my post-training book is done!",
+          "link": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+          "publishedOn": "2026-08-10T13:02:42.000Z",
+          "wordCount": null,
+          "title": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!ccYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4468909c-7481-4b27-9566-6fc838b95743_1074x731.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ccYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4468909c-7481-4b27-9566-6fc838b95743_1074x731.jpeg"
+        },
+        {
           "id": "https://www.interconnects.ai/p/lessons-from-the-hacks",
           "author": "Nathan Lambert",
           "description": "Musings on model alignment, what determines safety, and where we go from here.",
@@ -2957,6 +3093,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "GRmvZsHXH4vaijPMv",
+          "author": "Steven Byrnes",
+          "description": "It seems to me that, for every loss function that we use to train LLMs, we get a very distinct flavor of LLM misalignment. Here’s the summary table, and then we’ll go through the rows separately.\n\n\nTraining stage\n\nLoss function\n\nFlavor of misalignment[1]\n\nFamous examples\n\n\nPretraining & SFT\n\nImitative learning (next-token prediction)\n\n“Seven deadly sins” misalignment\n\nBing-Sydney, “Emergent misalignment”\n\n\nRLHF & DPO\n\nHuman approval\n\n“Glazing” misalignment\n\nGPT-4o\n\n\nRLVR\n\nAutomatic verifier\n\n“Literal genie” misalignment\n\nHuggingFace hacking\n\n\nRLAIF\n\nApproval from another LLM\n\n“Trickster” misalignment\n\n“Current AIs seem pretty misaligned to me”\n\n\nWarning: I’m not an LLM power-user myself, but rather relying on reports I’ve read. Also, I don’t consider LLM alignment to be my primary area of …",
+          "link": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment",
+          "publishedOn": "2026-08-10T16:16:16.000Z",
+          "wordCount": 25849,
+          "title": "Four LLM loss functions → four flavors of LLM misalignment",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/lcvfsyuvmffzfyomevue"
+        },
+        {
           "id": "HACauvWhEdC6QhdS4",
           "author": "aditya singh",
           "description": "TL;DR\nHow can we study misalignment with today's models as proxies? They're clearly not paperclip maximizers, but they also often do things the user doesn't want. A strong contender for a real misaligned propensity is task gaming: taking actions that don't complete a task but superficially seem like they do, such as hardcoding tests or falsely claiming a task is fully complete. But maybe task gaming is just a crude heuristic, or the model mistakenly trying to achieve the user's intent? In this post we do a deep dive into why a range of models task game.\nWe see this as a work of high-level model forensics. Rather than investigating a single incident, the core problem here is taking an ambiguous pattern of behavior across many contexts with various plausible motivations, and practicing how t…",
@@ -2975,6 +3121,16 @@
           "wordCount": 76910,
           "title": "User awareness in frontier models",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/kfunjXeaRTpkT5RAF/j5svtonhfceqlf9cowxr"
+        },
+        {
+          "id": "nv8oedrnLXKRzNEL9",
+          "author": "camilablank",
+          "description": "TL;DR:\nWe introduce the R-lens: a drop-in replacement for J-lens that produces clearer readouts on earlier layers. R-Lens is identical to J-Lens, except that we make minor and low-overhead changes to the backwards pass, following layerwise-relevance propagation, allowing us to reduce the propagation of errors. This method allows us to surface important intermediate variables more consistently and more saliently, reduce the frequency of semantically-irrelevant readouts, and even detect relevant concepts that J-lens misses entirely.\n\n\n\n\nIntroduction\nMotivation\nThe J-lens is a powerful tool for surfacing intermediate variables in the workspace layers of a model, but we find readouts in early layers to often be noisy and largely uninterpretable. Plausibly, either J-lens is degenerate at these …",
+          "link": "https://www.alignmentforum.org/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers",
+          "publishedOn": "2026-08-05T20:02:19.000Z",
+          "wordCount": 29836,
+          "title": "R-lens: Making J-lens More Faithful on Early Layers",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/nv8oedrnLXKRzNEL9/on4gll0bviiwbggd1rq7"
         },
         {
           "id": "vLFh8HP3hyNy9MCwe",
