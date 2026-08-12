@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610560",
+          "author": "Mila Sudarikova",
+          "description": "Checking an A/B test until it crosses p < 0.05 can turn a nominal 5 percent false-positive rate into almost 28 percent. I use a seeded simulation to show how large the damage gets and compare the fixes that keep early stopping honest.\nThe post Stop Calling the First Significant Day a Win appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-calling-the-first-significant-day-a-win/",
+          "publishedOn": "2026-08-11T16:30:00.000Z",
+          "wordCount": 5452,
+          "title": "Stop Calling the First Significant Day a Win",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/cover_1600x900.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610558",
+          "author": "Sara A. Metwalli",
+          "description": "Not all Python data libraries are created equal! \nThe post Should AI Developers Make the Switch from Polars to Pandas? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/should-ai-developers-make-the-switch-from-polars-to-pandas/",
+          "publishedOn": "2026-08-11T15:00:00.000Z",
+          "wordCount": 4005,
+          "title": "Should AI Developers Make the Switch from Polars to Pandas?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-sabrina-gelbart-65954-249798.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610556",
+          "author": "Hoda Rezvanjoo",
+          "description": "How to diversify a budget without losing the shadow prices that explain the result\nThe post The Budget Split That Explains Itself appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-budget-split-that-explains-itself/",
+          "publishedOn": "2026-08-11T13:30:00.000Z",
+          "wordCount": 4111,
+          "title": "The Budget Split That Explains Itself",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Budgeting-Allocation.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610509",
+          "author": "Arsen Apostolov",
+          "description": "I replayed the same 27 real production tasks through two local models, one hardware upgrade apart, to find out what it actually takes to replace Claude as the brain behind a 90-tool personal agent.\nThe post Can a Local LLM Run My AI Assistant? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/",
+          "publishedOn": "2026-08-11T12:00:00.000Z",
+          "wordCount": 5878,
+          "title": "Can a Local LLM Run My AI Assistant?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/featured_C2_angled_tight-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610507",
           "author": "Eivind Kjosbakken",
           "description": "Learn how to optimize your CI/CD pipeline for coding agents\nThe post How to Effectively Deploy Code With Claude Code appeared first on Towards Data Science.",
@@ -1060,26 +1100,6 @@
           "wordCount": 4966,
           "title": "RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/02F4CE50-0A1C-4278-9172-AD5748DF6FEA.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609805",
-          "author": "Eivind Kjosbakken",
-          "description": "Run 100+ agents in parallel\nThe post How to Orchestrate 100+ Agents With Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-orchestrate-100-agents-with-claude-code/",
-          "publishedOn": "2026-07-12T13:00:00.000Z",
-          "wordCount": 4385,
-          "title": "How to Orchestrate 100+ Agents With Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/orchestrating-100-agents_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609807",
-          "author": "Emmimal P Alexander",
-          "description": "LLMs don’t fail because they forget—they fail because they remember too much. As conversations grow, prompts accumulate redundant and low-value tokens, driving up cost and latency while silently degrading output quality. This article introduces a deterministic prompt-pruning layer that reduces token usage without breaking dependencies, backed by real benchmarks and production-tested design.\nThe post Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/",
-          "publishedOn": "2026-07-11T15:00:00.000Z",
-          "wordCount": 7355,
-          "title": "Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Pruning-prompts-into-AI-flow.jpg"
         }
       ]
     },
@@ -1332,6 +1352,16 @@
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
         {
+          "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "author": null,
+          "description": "A Blog post by IBM Research on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "publishedOn": "2026-08-11T13:37:10.000Z",
+          "wordCount": 2066,
+          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg"
+        },
+        {
           "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
           "author": null,
           "description": "A Blog post by NVIDIA on Hugging Face",
@@ -1575,6 +1605,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+          "author": "Mercy Ranjit, Nikhilesh E, Dr. Abhyuday Kumara  Swamy, Tanuja Ganu",
+          "description": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.\nThe post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+          "publishedOn": "2026-08-11T16:00:00.000Z",
+          "wordCount": 5826,
+          "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/CAREX-TWLIFB-1200x627-1-scaled.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
           "author": "Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Jianfeng Gao",
           "description": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.\nThe post Orchard: An open framework for scalable agentic AI appeared first on Microsoft Research.",
@@ -1695,6 +1735,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a7b522a304c202420dfd496",
+          "author": "Rudrendu Paul",
+          "description": "Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac",
+          "link": "https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/",
+          "publishedOn": "2026-08-11T16:47:38.000Z",
+          "wordCount": 8027,
+          "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2d445aeb-4ed9-40c4-9c91-c6e701a1325a.png"
+        },
         {
           "id": "6a69ffcc634c4a299b014f9f",
           "author": "Rudrendu Paul",
@@ -2104,6 +2154,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=256904",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "First, pick the line that applies to you. Since August 2nd, 2026, Claude marks all content during generation. For instance, text receives a hidden watermark, while files receive a signature. Anthropic committed to the EU AI Act’s Code of Practice on Transparency of AI-Generated Content. Consequently, all content generated by Claude models will carry a […]\nThe post Claude Now Watermarks Everything It Makes appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/",
+          "publishedOn": "2026-08-11T12:36:46.000Z",
+          "wordCount": null,
+          "title": "Claude Now Watermarks Everything It Makes",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=256886",
           "author": "Vasu Deo Sankrityayan",
           "description": "You have probably heard by now. Claude Code burns through usage limits! But most of us live in the web app… distant from the terminal app, around which the buzz is about. Maybe that was enough to make you curious. Maybe you already knew exactly what it was and just want it running on your […]\nThe post How to Install Claude Code: A Step-by-Step Guide appeared first on Analytics Vidhya.",
@@ -2399,28 +2460,6 @@
           "title": "How to Measure Video Similarity: 6 Techniques I Tested (and the One I Shipped)",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256125",
-          "author": "Vipin Vashisth",
-          "description": "Most real-world classification problems are imbalanced. Fraud, disease, churn, and defects are rare by nature. Standard classifiers chase accuracy, so they quietly ignore the very class you care about. For years, SMOTE was the reflex fix that everyone reached for first. But SMOTE often fails on the messy, high-dimensional data that production systems actually see. […]\nThe post Handling Imbalanced Classification: What Works Better Than SMOTE appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/class-imbalance-ml/",
-          "publishedOn": "2026-07-12T09:57:19.000Z",
-          "wordCount": null,
-          "title": "Handling Imbalanced Classification: What Works Better Than SMOTE",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256058",
-          "author": "Soumil Jain",
-          "description": "LLMs are getting stronger every day, and building a RAG pipeline has never been easier. Knowing whether it actually works is not. Most teams ship a RAG system, see decent-looking answers, and call it done, until users hit hallucination, missing context, or irrelevant chunks. That’s where evaluation frameworks come in. RAGAS, TruLens, and DeepEval are […]\nThe post RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/rag-evaluation-frameworks/",
-          "publishedOn": "2026-07-11T18:16:00.000Z",
-          "wordCount": null,
-          "title": "RAG Evaluation Frameworks Compared: RAGAS vs TruLens vs DeepEval",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2476,6 +2515,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/testing-ads-in-chatgpt",
+          "author": null,
+          "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "publishedOn": "2026-08-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Testing ads in ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "author": null,
+          "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "publishedOn": "2026-08-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Daybreak models are now available on AWS",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/building-an-ai-native-finance-function",
           "author": null,
@@ -3093,6 +3152,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "MgYCraoxMwfWwgWa5",
+          "author": "Cole Wyeth",
+          "description": "Epistemic status: Not peer reviewed, high chance of typos and small chance of errors. Written entirely by me, checked by Fable.\nIn this post I prove the existence of an anytime computable Bayesian mixture of all computable measures called \n\n\nmjx-container[jax=\"CHTML\"] {\n  line-height: 0;\n}\n\nmjx-container [space=\"1\"] {\n  margin-left: .111em;\n}\n\nmjx-container [space=\"2\"] {\n  margin-left: .167em;\n}\n\nmjx-container [space=\"3\"] {\n  margin-left: .222em;\n}\n\nmjx-container [space=\"4\"] {\n  margin-left: .278em;\n}\n\nmjx-container [space=\"5\"] {\n  margin-left: .333em;\n}\n\nmjx-container [rspace=\"1\"] {\n  margin-right: .111em;\n}\n\nmjx-container [rspace=\"2\"] {\n  margin-right: .167em;\n}\n\nmjx-container [rspace=\"3\"] {\n  margin-right: .222em;\n}\n\nmjx-container [rspace=\"4\"] {\n  margin-right: .278em;\n}\n\nmjx-container …",
+          "link": "https://www.alignmentforum.org/posts/MgYCraoxMwfWwgWa5/an-anytime-algorithm-for-mixing-the-computable-measures",
+          "publishedOn": "2026-08-12T00:57:09.000Z",
+          "wordCount": 38900,
+          "title": "An anytime algorithm for mixing the computable measures",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
           "id": "GRmvZsHXH4vaijPMv",
           "author": "Steven Byrnes",
           "description": "It seems to me that, for every loss function that we use to train LLMs, we get a very distinct flavor of LLM misalignment. Here’s the summary table, and then we’ll go through the rows separately.\n\n\nTraining stage\n\nLoss function\n\nFlavor of misalignment[1]\n\nFamous examples\n\n\nPretraining & SFT\n\nImitative learning (next-token prediction)\n\n“Seven deadly sins” misalignment\n\nBing-Sydney, “Emergent misalignment”\n\n\nRLHF & DPO\n\nHuman approval\n\n“Glazing” misalignment\n\nGPT-4o\n\n\nRLVR\n\nAutomatic verifier\n\n“Literal genie” misalignment\n\nHuggingFace hacking\n\n\nRLAIF\n\nApproval from another LLM\n\n“Trickster” misalignment\n\n“Current AIs seem pretty misaligned to me”\n\n\nWarning: I’m not an LLM power-user myself, but rather relying on reports I’ve read. Also, I don’t consider LLM alignment to be my primary area of …",
@@ -3401,16 +3470,6 @@
           "wordCount": 44696,
           "title": "From wantons to moral agents",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Z8kLbceGBMWB5HGfn/kb0ccmbdqlygntj9x0er"
-        },
-        {
-          "id": "EexsebbYhbe2gXkPP",
-          "author": "Charbel-Raphaël",
-          "description": "Abstract:\n\nWe already know enough to act. I wish we were in a world where research was the bottleneck, but the main constraint on AI safety is no longer a shortage of clever policy ideas: best practices already exist and are not being applied or enforced, and a serious international (or even just national) regulatory regime would probably cut most of the risk.\nThey are not applied because awareness is low. The people who narrate and enforce AI policy mostly do not believe the problem exists. I estimate that a majority of the top ~100–1,000 most influential policymakers worldwide have never had a single serious conversation about catastrophic risk, and this is the main reason they are not worried[1]. Even among the civil-society organizations that showed up to the UN Global Dialogue, exactl…",
-          "link": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
-          "publishedOn": "2026-07-11T21:56:26.000Z",
-          "wordCount": 52827,
-          "title": "The current bottleneck is political will, not research",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/EexsebbYhbe2gXkPP/raqo8s4tbfbkqf5orjbd"
         }
       ]
     }
