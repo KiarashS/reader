@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610585",
+          "author": "Anubhab Banerjee",
+          "description": "Google's Open Knowledge Format (OKF) is a Markdown+YAML skeleton for sharing knowledge between humans and AI agents. This post reuses that skeleton for a very specific job — an agent-to-agent hand-off of pre-tokenized integer arrays between three Qwen2.5-Coder models (7B, 3B, 1.5B) — and shows the 28–37% TTFT reduction plus the one full-vocabulary equivalence check that keeps the whole thing safe.\nThe post How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-utilize-okf-efficiently-to-enable-knowledge-exchange-among-llms/",
+          "publishedOn": "2026-08-13T16:30:00.000Z",
+          "wordCount": 7312,
+          "title": "How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/featured_image-1-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610587",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #9ter] - The pipeline from Article 9 calls a model at several steps to be sure it is right. On easy questions that is needless latency. A per-question signal routes them past the model, about two seconds saved for a keyword match.\nThe post Cut an Enterprise RAG Pipeline’s Latency and Cost by Calling the LLM Less, Not by Buying a Faster Model appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/cut-an-enterprise-rag-pipelines-latency-and-cost-by-calling-the-llm-less-not-by-buying-a-faster-model/",
+          "publishedOn": "2026-08-13T15:00:00.000Z",
+          "wordCount": 5532,
+          "title": "Cut an Enterprise RAG Pipeline’s Latency and Cost by Calling the LLM Less, Not by Buying a Faster Model",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/toll_plaza_aerial_34282750_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610592",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to run OpenClaw bots for increased productivity\nThe post How to Orchestrate a Fleet of OpenClaw Bots appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-orchestrate-a-fleet-of-openclaw-bots/",
+          "publishedOn": "2026-08-13T13:30:00.000Z",
+          "wordCount": 4674,
+          "title": "How to Orchestrate a Fleet of OpenClaw Bots",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/openclaw-agent-fleet_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610589",
+          "author": "Soner Yıldırım",
+          "description": "A practical guide to choose the proper tool for your agentic workflows and systems\nThe post LangChain vs LangGraph: 4 Key Differences and When to Use Each appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/langchain-vs-langgraph-4-key-differences-and-when-to-use-each/",
+          "publishedOn": "2026-08-13T12:00:00.000Z",
+          "wordCount": 4032,
+          "title": "LangChain vs LangGraph: 4 Key Differences and When to Use Each",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/mika-baumeister-3XjMwxUHx0Q-unsplash-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610579",
           "author": "angela shi",
           "description": "Enterprise Document Intelligence [Vol.1 #5nonies] - Nature, plan, execute, synthesize: closing brick 1 with a dispatcher that reads each PDF’s nature and picks the method that fits, fitz, Docling, PaddleOCR, EasyOCR, MinerU or Surya, then folds the outputs into one corpus\nThe post Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From appeared first on Towards Data Science.",
@@ -1070,46 +1110,6 @@
           "wordCount": 3915,
           "title": "A Gentle Introduction to Autoencoders & Latent Space",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Autoencoders_2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609848",
-          "author": "Arsen Apostolov",
-          "description": "I measured the actual GPU electricity for eight local models on one RTX 3090 — and the cheapest wasn't the smallest, nor the priciest the biggest.\nThe post How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/",
-          "publishedOn": "2026-07-14T13:30:00.000Z",
-          "wordCount": 5138,
-          "title": "How Much Does It Actually Cost to Run a Local LLM? (Euros per Million Tokens, Measured)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/local-llm-cost-gpu-energy-hero.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609823",
-          "author": "Maria Mouschoutzi",
-          "description": "How to stop parsing JSON by hand and start trusting your model's output\nThe post Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/",
-          "publishedOn": "2026-07-14T12:00:00.000Z",
-          "wordCount": 4855,
-          "title": "Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/D1F0F3B0-AFD2-4DA5-B3D6-899AB1A9708C.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609820",
-          "author": "Shuai Guo",
-          "description": "A minimal OpenAI Agents SDK implementation where retrieval becomes a search-read-decide loop\nThe post Agentic RAG: Let the Agent Search appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/agentic-rag-let-the-agent-search/",
-          "publishedOn": "2026-07-13T16:30:00.000Z",
-          "wordCount": 4368,
-          "title": "Agentic RAG: Let the Agent Search",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/agenti_RAG.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609816",
-          "author": "Jake Minns",
-          "description": "Long sessions rot quietly, well before any token limit is reached. Here’s why, and how to govern your context in Claude Code.\nThe post Context Rot: Why Claude Code Sessions Decay, and How to Govern Them appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/",
-          "publishedOn": "2026-07-13T15:00:00.000Z",
-          "wordCount": 6762,
-          "title": "Context Rot: Why Claude Code Sessions Decay, and How to Govern Them",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/headline.png"
         }
       ]
     },
@@ -1287,16 +1287,6 @@
           "wordCount": 8489,
           "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-scikit-ollama-for-scikit-llm-ollama-integration-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24575",
-          "author": "Shittu Olumide",
-          "description": "In this article, you will learn how to evaluate LLM applications using the three dominant open-source frameworks — RAGAS, DeepEval, and Promptfoo — and why...",
-          "link": "https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/",
-          "publishedOn": "2026-07-14T12:00:29.000Z",
-          "wordCount": 11628,
-          "title": "LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-LLM-Evaluation-Frameworks-Compared-1024x541.png"
         }
       ]
     },
@@ -1351,6 +1341,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "author": null,
+          "description": "A Blog post by Amazon on Hugging Face",
+          "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "publishedOn": "2026-08-13T17:16:04.000Z",
+          "wordCount": 4824,
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/St00mBynNYpgz93MpL17G.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "publishedOn": "2026-08-13T00:00:00.000Z",
+          "wordCount": 2487,
+          "title": "What We Learned by Reproducing 2,200 papers from ICML",
+          "imageUrl": "https://huggingface.co/blog/assets/icml-2026-open-reproductions/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
           "author": null,
@@ -1678,16 +1688,6 @@
           "wordCount": null,
           "title": "EvoLib: Turning experience into evolving knowledge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-          "author": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
-          "description": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.\nThe post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-          "publishedOn": "2026-07-13T16:00:00.000Z",
-          "wordCount": 5385,
-          "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/RustSymCrypt-TWLIFB-1200x627-1-scaled.jpg"
         }
       ]
     },
@@ -1824,16 +1824,6 @@
           "wordCount": 4745,
           "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/731ac81a-7bf4-45ff-9eac-49292d1484b1.png"
-        },
-        {
-          "id": "6a5580639ffb32ef2506a817",
-          "author": "Roland Sankara",
-          "description": "Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask",
-          "link": "https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/",
-          "publishedOn": "2026-07-14T00:18:43.000Z",
-          "wordCount": 3946,
-          "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edd06632-76da-42f9-b741-e249d22c5f29.png"
         }
       ]
     },
@@ -1861,16 +1851,6 @@
           "wordCount": 6374,
           "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4588c233-fd5f-4a51-86e8-79784b629fb4.png"
-        },
-        {
-          "id": "6a5580639ffb32ef2506a817",
-          "author": "Roland Sankara",
-          "description": "Okay, pop quiz: What is a neural network? What is deep learning? Does anything come to mind? I know that feeling – yes, that thing you’re feeling now. It’s either confidence that you know what I’m ask",
-          "link": "https://www.freecodecamp.org/news/cnns-rnns-and-transformers-explained-a-mental-model-for-key-deep-learning-concepts/",
-          "publishedOn": "2026-07-14T00:18:43.000Z",
-          "wordCount": 3946,
-          "title": "CNNs, RNNs, and Transformers Explained: A Mental Model for Key Deep Learning Concepts",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edd06632-76da-42f9-b741-e249d22c5f29.png"
         }
       ]
     },
@@ -2005,17 +1985,6 @@
           "publishedOn": "2026-07-20T11:23:22.000Z",
           "wordCount": null,
           "title": "Week Ending 7.19.2026",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a552d3a77952c34c96d540f",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw",
-          "publishedOn": "2026-07-13T18:24:22.000Z",
-          "wordCount": null,
-          "title": "Week Ending 7.12.2026",
           "itunes": {},
           "imageUrl": null
         }
@@ -2165,16 +2134,6 @@
           "wordCount": 3087,
           "title": "Career Paths in AI Training: From Language and Medical Experts to Autonomous Systems Specialists",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=39074",
-          "author": "Sujana Urs",
-          "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026 appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/top-data-annotation-partners-for-scientific-ai-autonomous-labs-in-2026/",
-          "publishedOn": "2026-07-13T13:50:00.000Z",
-          "wordCount": 3013,
-          "title": "Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
         }
       ]
     },
@@ -2183,6 +2142,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256924",
+          "author": "Shaik Hamzah Shareef",
+          "description": "About a month ago, Baidu (often called the “Google of China”) introduced Unlimited-OCR, an advancement over DeepSeek OCR. The model was designed to transcribe long, multi-page documents with high accuracy while delivering fast and stable inference. Unlike conventional vision-language OCR systems, Unlimited-OCR addresses a major bottleneck in long-document transcription: the rapidly growing Key-Value (KV) cache, […]\nThe post How Baidu Unlimited-OCR Works: Solving Long-Document Transcription appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/baidu-unlimited-ocr-technical-breakdown/",
+          "publishedOn": "2026-08-13T12:10:18.000Z",
+          "wordCount": null,
+          "title": "How Baidu Unlimited-OCR Works: Solving Long-Document Transcription",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256907",
           "author": "Soumil Jain",
@@ -2545,6 +2515,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "author": null,
+          "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "publishedOn": "2026-08-13T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The builder’s guide to GPT‑5.6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/previewing-ultrafast",
+          "author": null,
+          "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "link": "https://openai.com/index/previewing-ultrafast",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "author": null,
+          "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "publishedOn": "2026-08-13T09:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
           "author": null,
@@ -3044,56 +3044,6 @@
           "wordCount": null,
           "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-          "author": null,
-          "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "How to manage AI investments in the agentic era",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-          "author": null,
-          "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-          "publishedOn": "2026-07-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How data science teams use ChatGPT Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-          "author": null,
-          "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "link": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-          "publishedOn": "2026-07-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How sales teams use ChatGPT Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "author": null,
-          "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "publishedOn": "2026-07-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How data science teams use ChatGPT Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "author": null,
-          "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "publishedOn": "2026-07-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How sales teams use ChatGPT Work",
-          "imageUrl": null
         }
       ]
     },
@@ -3510,26 +3460,6 @@
           "wordCount": 61077,
           "title": "Why I Left Google DeepMind",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/c7wajpliuyq6jjlqh87r"
-        },
-        {
-          "id": "WpYFAmJDH3zuAq2ha",
-          "author": "Arthur Conmy",
-          "description": "TL;DR\n\nJosh and Neel show that distillation from a teacher model to a base pretrained student model transfers some of the teacher model’s traits (such as displaying negative emotion in the Gemma Needs Help evals)\nOn its own this is pretty unsurprising, but Josh and Neel additionally show that even filtering out all the prompts and rollouts where the trait is mentioned doesn’t generally prevent the trait transfer\nIn this post, I show a simple way to replicate and study these phenomena without access to a frontier SFT pipeline (or even running full SFT[1])\nI distill Gemma 3’s negative emotion into Qwen-base, Gemma 4’s agentic misalignment into Nemotron Chat, and Qwen’s Chinese censorship into Llama base\nI end the post with a bunch of open questions that could be tackled with a setup similar …",
-          "link": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1",
-          "publishedOn": "2026-07-14T10:15:03.000Z",
-          "wordCount": 34752,
-          "title": "Open Distillation of Hereditary Traits",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/WpYFAmJDH3zuAq2ha/fha53mm7hztyodldfvyd"
-        },
-        {
-          "id": "wq5PfGiHvnx6XipDi",
-          "author": "LAThomson",
-          "description": "tl;dr – we present [Prism], a scaffold for automating science-of-evals research: work that makes the evaluation the primary object of study. The scaffold provides Claude Code with sub-agents and resources for carrying out scientifically rigorous investigations into eval dynamics and, by extension, model behaviours.\nWe talk through an autonomous Prism run on the Agentic Misalignment setting which demonstrates how minor perturbations to GPT-4.1's prompt cause the model to adopt more indirect methods of blackmail (e.g. telling a trusted ally to blackmail on their behalf). Moreover, the eval's built-in scorers fail to track this kind of misbehaviour, only acknowledging a blackmail attempt if the model mentions the leverage directly in an email to the blackmail victim. This autonomous investiga…",
-          "link": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research",
-          "publishedOn": "2026-07-13T16:30:21.000Z",
-          "wordCount": 83463,
-          "title": "Prism: Automating Science-of-Evals Research",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/nxmbx2zzuhrufbect1hf"
         }
       ]
     }
