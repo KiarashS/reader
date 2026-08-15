@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610606",
+          "author": "Haden Pelletier",
+          "description": "How AI has massively changed my day-to-day workflow\nThe post A Day in the Life of a Data Scientist in 2026 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026/",
+          "publishedOn": "2026-08-14T16:30:00.000Z",
+          "wordCount": 3895,
+          "title": "A Day in the Life of a Data Scientist in 2026",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/ofspace-llc-ZTLUNxoRaPY-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610604",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #13] - Putting the patterns together, and why this is what “agentic RAG” should look like\nThe post RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/",
+          "publishedOn": "2026-08-14T15:00:00.000Z",
+          "wordCount": 9269,
+          "title": "RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/industrial_buttons_32529354_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610602",
+          "author": "Abdullahi Dattijo",
+          "description": "A preprocessing pipeline let my car price model peek at the test set before the exam, and the twelve points of R squared it cheated its way to\nThe post My Model Was Cheating on Its Own Test appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/",
+          "publishedOn": "2026-08-14T13:30:00.000Z",
+          "wordCount": 5543,
+          "title": "My Model Was Cheating on Its Own Test",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/featured_image-3.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610600",
+          "author": "Jaemin Han",
+          "description": "Can a language model do live adversarial level design? Yes, emphasis on the adversarial part\nThe post I Made an LLM Lay Siege to My Minecraft House appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-made-an-llm-lay-siege-to-my-minecraft-house/",
+          "publishedOn": "2026-08-14T12:00:00.000Z",
+          "wordCount": 8446,
+          "title": "I Made an LLM Lay Siege to My Minecraft House",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Copy-of-rigorous-llm-benchmarks.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610585",
           "author": "Anubhab Banerjee",
           "description": "Google's Open Knowledge Format (OKF) is a Markdown+YAML skeleton for sharing knowledge between humans and AI agents. This post reuses that skeleton for a very specific job — an agent-to-agent hand-off of pre-tokenized integer arrays between three Qwen2.5-Coder models (7B, 3B, 1.5B) — and shows the 28–37% TTFT reduction plus the one full-vocabulary equivalence check that keeps the whole thing safe.\nThe post How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs appeared first on Towards Data Science.",
@@ -1080,36 +1120,6 @@
           "wordCount": 4345,
           "title": "How I Mastered Data Structures and Algorithms for ML (In 6 Weeks)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/1-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609863",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #7quinquies] - Hallucination is usually garbage-in. Fix retrieval, and the model has nothing left to make up\nThe post Most RAG Hallucinations Are Retrieval Failures: How the Retrieval Brick Decides What the Model Can Invent appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/most-rag-hallucinations-are-retrieval-failures-how-the-retrieval-brick-decides-what-the-model-can-invent/",
-          "publishedOn": "2026-07-15T12:00:00.000Z",
-          "wordCount": 5422,
-          "title": "Most RAG Hallucinations Are Retrieval Failures: How the Retrieval Brick Decides What the Model Can Invent",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/wrong_way_sign_13056513_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609860",
-          "author": "Rashi Desai",
-          "description": "The analytics career I signed up for five years ago doesn't exist anymore, and honestly, I am fine with that.\nThe post How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-im-making-sure-my-analytics-career-doesnt-get-eaten-by-ai/",
-          "publishedOn": "2026-07-14T16:30:00.000Z",
-          "wordCount": 4092,
-          "title": "How I’m Making Sure My Analytics Career Doesn’t Get Eaten by AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/yulia-matvienko-kgz9vsP5JCU-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609858",
-          "author": "Vyacheslav Efimov",
-          "description": "Introduction Heavy computation is a well-known problem in various ML algorithms today, especially when generative AI is applied to text, images, and other unstructured data. One of the principal approaches to mitigate this problem is to compress input data into a lower-dimensional representation while preserving the main context. There are various methods that achieve this […]\nThe post A Gentle Introduction to Autoencoders & Latent Space appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gentle-introduction-to-autoencoders-latent-space/",
-          "publishedOn": "2026-07-14T15:00:00.000Z",
-          "wordCount": 3915,
-          "title": "A Gentle Introduction to Autoencoders & Latent Space",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Autoencoders_2.jpg"
         }
       ]
     },
@@ -1277,16 +1287,6 @@
           "wordCount": 8906,
           "title": "Run a Local AI Model with Ollama in 15 Minutes",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-local-ai-ollama-setup-feature-b-1024x550.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24660",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn how scikit-ollama bridges the scikit-learn interface with locally running Ollama models to perform zero-shot text classification; no cloud API...",
-          "link": "https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/",
-          "publishedOn": "2026-07-15T12:00:34.000Z",
-          "wordCount": 8489,
-          "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-scikit-ollama-for-scikit-llm-ollama-integration-feature.png"
         }
       ]
     },
@@ -1341,6 +1341,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "publishedOn": "2026-08-14T00:00:00.000Z",
+          "wordCount": 3389,
+          "title": "State of Open Models: Summer 2026 Observations",
+          "imageUrl": "https://huggingface.co/blog/assets/state-of-open-models-summer-2026/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
           "author": null,
@@ -1600,26 +1610,6 @@
           "wordCount": 1371,
           "title": "Model Routing Is Simple. Until It Isn’t.",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/642ee6f6ffd6084c6a620985/ibA2XHLJsqDH9VAL-3ou-.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/thinkingmachines-inkling",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-          "publishedOn": "2026-07-15T00:00:00.000Z",
-          "wordCount": 3687,
-          "title": "Welcome Inkling by Thinking Machines",
-          "imageUrl": "https://huggingface.co/blog/assets/thinkingmachines-inkling/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/real-world-voiceeq",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/real-world-voiceeq",
-          "publishedOn": "2026-07-15T00:00:00.000Z",
-          "wordCount": 1639,
-          "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "imageUrl": "https://huggingface.co/blog/assets/real-world-voiceeq/thumbnail.png"
         }
       ]
     },
@@ -1866,6 +1856,24 @@
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
         {
+          "id": "c07783da-97de-11f1-8743-77812e3c07d4",
+          "author": null,
+          "description": "Former NASA flight director Gene Kranz reflects on his career, leadership, legacy, and lessons for the future of human space exploration. Episode 433",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/callsign-white-flight/",
+          "publishedOn": "2026-08-14T12:50:00.000Z",
+          "wordCount": null,
+          "title": "Callsign White Flight",
+          "itunes": {
+            "duration": "3950"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9055430257.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "a7a9cd48-9263-11f1-b956-cf4cb90ed221",
           "author": null,
           "description": "Dr. Abba Zubair discusses how stem cell research aboard the International Space Station is advancing regenerative medicine and what scientists learned from a recently published study. Episode 432",
@@ -2076,6 +2084,16 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=40993",
+          "author": "Sujana Urs",
+          "description": "Learn why orchard headlands challenge autonomous tractors and how trajectory labeling improves navigation models.\nThe post Why Headland Turns Challenge Orchard Navigation Trajectory Labeling appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-headland-turns-challenge-orchard-navigation-trajectory-labeling/",
+          "publishedOn": "2026-08-14T08:46:31.000Z",
+          "wordCount": 3875,
+          "title": "Why Headland Turns Challenge Orchard Navigation Trajectory Labeling",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Sensor-Calibration-Errors.png"
+        },
+        {
           "id": "https://imerit.ai/?p=40788",
           "author": "Sujana Urs",
           "description": "Learn how sensor calibration errors break multi-sensor fusion, why calibration drifts after deployment, and how to keep AV perception reliable.\nThe post Why Sensor Calibration Errors Break Multi-Sensor Fusion Systems appeared first on iMerit.",
@@ -2126,6 +2144,16 @@
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Autonomous-Self-Driving-Car.jpg"
         },
         {
+          "id": "https://imerit.ai/?p=39074",
+          "author": "Sujana Urs",
+          "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026 appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/top-data-annotation-partners-for-scientific-ai-autonomous-labs-in-2026/",
+          "publishedOn": "2026-07-17T13:50:00.000Z",
+          "wordCount": 3031,
+          "title": "Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
+        },
+        {
           "id": "https://imerit.ai/?p=39599",
           "author": "Sujana Urs",
           "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Career Paths in AI Training: From Language and Medical Experts to Autonomous Systems Specialists appeared first on iMerit.",
@@ -2142,6 +2170,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256949",
+          "author": "Harsh Mishra",
+          "description": "Long-running AI agents often spend most of their time on routine execution rather than difficult reasoning. After making a plan, they may perform hundreds of tool calls, file reads, validations, commands, and formatting steps, so using a frontier reasoning model for every action can become unnecessarily slow and expensive. NVIDIA’s Nemotron 3.5 Lightning takes a […]\nThe post NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/",
+          "publishedOn": "2026-08-14T11:08:54.000Z",
+          "wordCount": null,
+          "title": "NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256924",
           "author": "Shaik Hamzah Shareef",
@@ -2436,28 +2475,6 @@
           "publishedOn": "2026-07-16T18:28:00.000Z",
           "wordCount": null,
           "title": "GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256250",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "THE GIST ▸ What it is: A 3,826-line system prompt steering Claude Fable 5 inside the Claude app, pulled from a public GitHub archive. ▸ What’s in it: Rules about safety, tone and restraint. ▸ Why it matters: it shows a frontier “AI” is far more an engineered rulebook than a mysterious mind. Before your […]\nThe post Inside the Claude Fable 5 System Prompt: A Full Breakdown appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/claude-fable-5-system-prompt/",
-          "publishedOn": "2026-07-15T04:44:28.000Z",
-          "wordCount": null,
-          "title": "Inside the Claude Fable 5 System Prompt: A Full Breakdown",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256237",
-          "author": "Janvi Kumari",
-          "description": "Prompts shape every interaction with a large language model. Clear instructions produce focused, useful responses, while vague ones often lead to inconsistent results. This becomes harder when teams need the same task completed repeatedly in a fixed format, tone, or structure. Meta-prompting asks the model to design a reusable prompt, template, checklist, or workflow before […]\nThe post What is Meta Prompting and How does it work? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/meta-prompting/",
-          "publishedOn": "2026-07-14T17:21:46.000Z",
-          "wordCount": null,
-          "title": "What is Meta Prompting and How does it work?",
           "itunes": {},
           "imageUrl": null
         }
@@ -3024,26 +3041,6 @@
           "wordCount": null,
           "title": "How Cars24 scales conversations and builds faster with OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "author": null,
-          "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-          "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-          "publishedOn": "2026-07-15T12:00:00.000Z",
-          "wordCount": null,
-          "title": "The US is advancing AI safety through state and federal action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "author": null,
-          "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "publishedOn": "2026-07-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "imageUrl": null
         }
       ]
     },
@@ -3052,6 +3049,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+          "author": "Nathan Lambert",
+          "description": "Hint: It’s really not a distillation story.",
+          "link": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+          "publishedOn": "2026-08-14T21:23:35.000Z",
+          "wordCount": null,
+          "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!_6Y2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49ade27f-0d84-40f3-840a-3c919e0bb8af_4239x2504.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_6Y2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49ade27f-0d84-40f3-840a-3c919e0bb8af_4239x2504.webp"
+        },
         {
           "id": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
           "author": "Nathan Lambert",
