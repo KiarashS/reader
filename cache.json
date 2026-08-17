@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610617",
+          "author": "Miodrag Cekikj",
+          "description": "RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a property-insurance corpus. \nThe post Designing a Persistent Knowledge Layer That Refuses to Guess appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/",
+          "publishedOn": "2026-08-16T15:00:00.000Z",
+          "wordCount": 12768,
+          "title": "Designing a Persistent Knowledge Layer That Refuses to Guess",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-316.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610619",
+          "author": "Thomas Reid",
+          "description": "A small experiment in remote SQL execution\nThe post Running SQL Concurrently Across Three Remote DuckDB Servers with Quack appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/",
+          "publishedOn": "2026-08-16T13:00:00.000Z",
+          "wordCount": 6552,
+          "title": "Running SQL Concurrently Across Three Remote DuckDB Servers with Quack",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/exec-b645139d-72cc-456b-9ad9-a810bca8e5e0.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610610",
           "author": "Sean Moran",
           "description": "Two open problems, exact-arithmetic checking and a proof assistant, over a single weekend.\nThe post Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming appeared first on Towards Data Science.",
@@ -1050,56 +1070,6 @@
           "wordCount": 9249,
           "title": "Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop-engine.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609911",
-          "author": "Ferran Alia",
-          "description": "AI's energy crisis is reviving an old idea: computing with physics instead of digital logic. Here's how analog chips actually work, why noise nearly killed the idea once already, and what happens when you simulate that noise yourself.\nThe post Analog AI Is Back, But Can It Survive Its Own Noise? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/analog-ai-is-back-can-it-survive-its-own-noise/",
-          "publishedOn": "2026-07-17T12:00:00.000Z",
-          "wordCount": 6898,
-          "title": "Analog AI Is Back, But Can It Survive Its Own Noise?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Gemini_Generated_Image_voc1qpvoc1qpvoc1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609937",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #9B] - One call wires the four upgraded bricks together, run on a paper, a NIST standard, and a report with a broken TOC\nThe post One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every Answer Typed and Cited appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/one-rag-pipeline-four-very-different-pdfs-same-four-bricks-every-answer-typed-and-cited/",
-          "publishedOn": "2026-07-17T10:30:00.000Z",
-          "wordCount": 10557,
-          "title": "One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every Answer Typed and Cited",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pegboard_tools_909256_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609900",
-          "author": "Weiwei Hu",
-          "description": "How to define recurring work, give AI the right context, explain what high-quality work looks like, and decide where human judgment is still needed.\nThe post Prepare These 5 Assets Before Your AI Agents Take On More Work appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/prepare-these-5-assets-before-your-ai-agents-take-on-more-work/",
-          "publishedOn": "2026-07-16T16:30:00.000Z",
-          "wordCount": 6843,
-          "title": "Prepare These 5 Assets Before Your AI Agents Take On More Work",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-14-2026-06_41_14-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609903",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #6quater] - Question parsing takes one messy string and writes four typed pieces, each read by a different downstream call\nThe post Context Engineering for RAG Question Parsing: From a Raw Question to Typed Fields That Steer Retrieval and Generation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/context-engineering-for-rag-question-parsing-from-a-raw-question-to-typed-fields-that-steer-retrieval-and-generation/",
-          "publishedOn": "2026-07-16T15:00:00.000Z",
-          "wordCount": 7963,
-          "title": "Context Engineering for RAG Question Parsing: From a Raw Question to Typed Fields That Steer Retrieval and Generation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/prism_glass_2179374_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609891",
-          "author": "Eivind Kjosbakken",
-          "description": "Maximize your Claude Fable 5 usage\nThe post How to Get the Most Out of Claude Fable 5 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-get-the-most-out-of-claude-fable-5/",
-          "publishedOn": "2026-07-16T13:30:00.000Z",
-          "wordCount": 6440,
-          "title": "How to Get the Most Out of Claude Fable 5",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gpt-5-6-first-impressions_cover.jpg"
         }
       ]
     },
@@ -1247,16 +1217,6 @@
           "wordCount": 9967,
           "title": "Building Agentic Workflows in Python with LangGraph",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-langgraph-cover.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24698",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn what prompt injection and tool misuse are in the context of agentic AI systems, and which defense strategies experts...",
-          "link": "https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/",
-          "publishedOn": "2026-07-17T12:00:32.000Z",
-          "wordCount": 8309,
-          "title": "Agentic AI Security: Defending Against Prompt Injection and Tool Misuse",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-agentic-ai-security-defending-against-prompt-injection-and-tool-misuse-feature.png"
         }
       ]
     },
@@ -1530,16 +1490,6 @@
           "wordCount": 2604,
           "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-          "publishedOn": "2026-07-16T16:01:21.000Z",
-          "wordCount": 2985,
-          "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/697fa5ae089a7f9330c5078f/AaXgkciE-wvxSPrA4wg0n.png"
         }
       ]
     },
@@ -2061,16 +2011,6 @@
           "wordCount": 3031,
           "title": "Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=39599",
-          "author": "Sujana Urs",
-          "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Career Paths in AI Training: From Language and Medical Experts to Autonomous Systems Specialists appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/career-paths-in-ai-training-from-language-and-medical-experts-to-autonomous-systems-specialists/",
-          "publishedOn": "2026-07-17T11:00:57.000Z",
-          "wordCount": 3087,
-          "title": "Career Paths in AI Training: From Language and Medical Experts to Autonomous Systems Specialists",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
         }
       ]
     },
@@ -2373,28 +2313,6 @@
           "publishedOn": "2026-07-19T10:38:30.000Z",
           "wordCount": null,
           "title": "Top 10 GitHub Repositories Trending in July 2026 (AI, ML & GenAI Edition)",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256360",
-          "author": "Sree Vamsi",
-          "description": "Connecting MCP servers to Claude allows it to work with external tools, files, databases, repositories, and other systems instead of operating only within the chat window. The setup differs slightly between Claude Desktop and Claude Code, but both can be configured in just a few steps. In this article, you’ll learn how to connect MCP […]\nThe post How to Connect MCP Servers with Claude (Claude Desktop and Claude Code) appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/connect-mcp-servers-claude-desktop-code/",
-          "publishedOn": "2026-07-17T09:07:57.000Z",
-          "wordCount": null,
-          "title": "How to Connect MCP Servers with Claude (Claude Desktop and Claude Code)",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256283",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "GPT-5.6 Sol and Claude Fable 5 are currently fighting for the frontier-model crown. Fable 5 holds a slight edge in general intelligence, while Sol hits back with stronger coding performance, faster execution and much lower pricing. In fact, GPT-5.6 Sol is priced closer to Claude Opus 4.8 than to Fable 5, which makes this comparison […]\nThe post GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/gpt-5-6-sol-vs-claude-fable-5/",
-          "publishedOn": "2026-07-16T18:28:00.000Z",
-          "wordCount": null,
-          "title": "GPT-5.6 Sol vs Claude Fable 5: Benchmarks, Pricing & Hands-On",
           "itunes": {},
           "imageUrl": null
         }
@@ -2921,26 +2839,6 @@
           "wordCount": null,
           "title": "Safety and alignment in an era of long-horizon models",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "author": null,
-          "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "publishedOn": "2026-07-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "A scorecard for the AI age",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "author": null,
-          "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-          "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "publishedOn": "2026-07-16T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Why teens deserve access to safe AI",
-          "imageUrl": null
         }
       ]
     },
@@ -3084,6 +2982,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "QBuJ3suRZxrrxSTtv",
+          "author": "Jan Bauer",
+          "description": "TL;DR\nGoogle DeepMind's recent model DiffusionGemma (DG) generates text via diffusion, meaning many diffusion steps happen before generating the final output. In particular, these diffusion steps carry vectors in addition to tokens. If we cannot interpret these tokens and vectors, the model has significant opaque serial depth, potentially harming monitorability. Recently, Engels et al. found that DG nevertheless maintains high monitorability, for instance by showing that projecting the distribution to its top-k items largely retains performance. We strengthen these results by showing that this performance degradation is largely a sampler artifact and good performance can be maintained with only the top item, supporting the case for high monitorability. Still, we also find some rare case st…",
+          "link": "https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning",
+          "publishedOn": "2026-08-16T04:22:18.000Z",
+          "wordCount": 45328,
+          "title": "Does DiffusionGemma do latent reasoning?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QBuJ3suRZxrrxSTtv/pttbbisnxwnkwlmb8vyq"
+        },
         {
           "id": "8oFYZdXkTaNGRtcn8",
           "author": "oakhu",
