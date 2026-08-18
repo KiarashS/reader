@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610630",
+          "author": "Chien Vu Minh",
+          "description": "For years, web agents have worked one click at a time—and often fallen apart on long tasks. Microsoft Research’s Webwright makes a different bet: give the model a terminal and let it write the program instead. On long-horizon tasks, the same GPT-5.4 model jumps from 33.5% to 60.1% success. And instead of leaving behind a click trace, it leaves something you can actually use again: a command-line tool.\nThe post Webwright: Why AI Web Agents Should Write Code, Not Click appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/",
+          "publishedOn": "2026-08-17T16:30:00.000Z",
+          "wordCount": 7206,
+          "title": "Webwright: Why AI Web Agents Should Write Code, Not Click",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/hal-gatewood-tZc3vjPCk-Q-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610626",
+          "author": "Shoumik Chakravarty",
+          "description": "How autonomous agents broke two decades of capacity planning — and what to build instead\nThe post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/",
+          "publishedOn": "2026-08-17T15:00:00.000Z",
+          "wordCount": 5501,
+          "title": "Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Three_Generations_Autoscaling_1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610623",
+          "author": "Eivind Kjosbakken",
+          "description": "Become a more productive software engineer with LLMs\nThe post How to Perform Effective Project Management with AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-perform-effective-project-management-with-ai/",
+          "publishedOn": "2026-08-17T13:30:00.000Z",
+          "wordCount": 4591,
+          "title": "How to Perform Effective Project Management with AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/project-management-age-of-llms_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610621",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #13bis] - The four bricks return useful results most of the time. Loop engineering is what the system does the rest of the time: when retrieval misses, when generation fails the schema, when the listing comes back incomplete, when an API call times out. Three control surfaces (trigger, termination, recovery) and one rule that separates a useful loop from a spinning one\nThe post Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/",
+          "publishedOn": "2026-08-17T12:00:00.000Z",
+          "wordCount": 6235,
+          "title": "Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/vintage_gauges_11598090_v3_card.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610617",
           "author": "Miodrag Cekikj",
           "description": "RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a property-insurance corpus. \nThe post Designing a Persistent Knowledge Layer That Refuses to Guess appeared first on Towards Data Science.",
@@ -1040,36 +1080,6 @@
           "wordCount": 7690,
           "title": "How to Improve Customer Retention in FinTech",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/A-practical-guide-to-combining-pre-churn-scoring-with-uplift-modelling-for-smarter-retention.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609918",
-          "author": "Eivind Kjosbakken",
-          "description": "Maximize the latest OpenAI model\nThe post How to Work Effectively with GPT-5.6 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
-          "publishedOn": "2026-07-17T16:30:00.000Z",
-          "wordCount": 6754,
-          "title": "How to Work Effectively with GPT-5.6",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gpt-5-6-first-impressions_cover-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609915",
-          "author": "Stephanie Kirmer",
-          "description": "On the value of building on existing foundations\nThe post Using Classical ML to Empower AI Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/using-classical-ml-to-empower-ai-agents/",
-          "publishedOn": "2026-07-17T15:00:00.000Z",
-          "wordCount": 6490,
-          "title": "Using Classical ML to Empower AI Agents",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609913",
-          "author": "Emmimal P Alexander",
-          "description": "Everyone is talking about loop engineering, but most discussions assume an LLM sits at the center of the loop. I wanted to isolate the architecture itself. So I built a deterministic, zero-dependency Python benchmark that replaces the model with simple rules, allowing me to measure one question directly: can a goal-directed controller isolate failures better than a traditional linear pipeline? After validating the benchmark across 300 random seeds—and fixing a subtle bug that initially invalidated my own results—I found that the controller consistently completed independent branches that a linear executor never reached. This article walks through the architecture, the benchmark design, the debugging process, and the evidence behind a narrow but practical claim: failure isolation is a measurable property of control flow, independent of LLM reasoning.\nThe post Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/context-engineering-isnt-enough-a-loop-engineering-experiment-with-no-llm-inside-the-loop/",
-          "publishedOn": "2026-07-17T13:30:00.000Z",
-          "wordCount": 9249,
-          "title": "Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop-engine.jpg"
         }
       ]
     },
@@ -1271,6 +1281,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "author": null,
+          "description": "A Blog post by Dharma-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "publishedOn": "2026-08-17T19:46:21.000Z",
+          "wordCount": 3443,
+          "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg"
+        },
         {
           "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
           "author": null,
@@ -1480,16 +1500,6 @@
           "wordCount": 1619,
           "title": "Introducing Cosmos 3 Edge",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a45813c717ace23b8c3b562/9_7TYr_qt6fVauHKiFGh5.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "publishedOn": "2026-07-17T15:57:54.000Z",
-          "wordCount": 2604,
-          "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png"
         }
       ]
     },
@@ -1674,16 +1684,6 @@
           "wordCount": 3761,
           "title": "How to Train a Tumor Segmentation Model on Ultrasound Data with MONAI",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3e7cfe47-858c-4ce9-b8f9-1c5fc22f29b7.png"
-        },
-        {
-          "id": "6a5a5daeee4c6fc82387d36e",
-          "author": "Jibril-M🍀",
-          "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
-          "link": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
-          "publishedOn": "2026-07-17T16:51:58.000Z",
-          "wordCount": 4163,
-          "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89b0a610-cd98-4112-95cc-fb01597911dc.png"
         }
       ]
     },
@@ -1812,6 +1812,17 @@
       "feedUrl": "https://www.eye-on.ai/ai-articles?format=rss",
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
+        {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a836c0450766b025d00a117",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp",
+          "publishedOn": "2026-08-17T20:16:32.000Z",
+          "wordCount": null,
+          "title": "Week Ending 8.16.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a79c0d84c5a106971cd64d5",
           "author": "Craig Smith",
@@ -1943,6 +1954,26 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=41059",
+          "author": "Sujana Urs",
+          "description": "Learn how autonomous vehicle data triage is shifting from reactive review to AI-directed workflows, and where human experts improve models.\nThe post When AI Decides What Data Is Needed Next: The Shift to Directed Triage in Autonomous Vehicles appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/when-ai-decides-what-data-is-needed-next-the-shift-to-directed-triage-in-autonomous-vehicles/",
+          "publishedOn": "2026-08-17T14:05:14.000Z",
+          "wordCount": 2971,
+          "title": "When AI Decides What Data Is Needed Next: The Shift to Directed Triage in Autonomous Vehicles",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-When-AI-Decides-What-Data-is-Needed-Next-The-Shift-to-Directed-Triage-in-Autonomous-Vehicles.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=41034",
+          "author": "Sujana Urs",
+          "description": "The recurring sensor, calibration, and annotation issues that quietly degrade 3D point cloud dataset quality, and how to catch them early.\nThe post 3D Point Cloud Dataset Quality: The Most Common Issues to Catch Early appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/3d-point-cloud-dataset-quality-the-most-common-issues-to-catch-early/",
+          "publishedOn": "2026-08-17T13:58:44.000Z",
+          "wordCount": 3644,
+          "title": "3D Point Cloud Dataset Quality: The Most Common Issues to Catch Early",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Sensor-Calibration-Errors.png"
+        },
+        {
           "id": "https://imerit.ai/?p=40993",
           "author": "Sujana Urs",
           "description": "Learn why orchard headlands challenge autonomous tractors and how trajectory labeling improves navigation models.\nThe post Why Headland Turns Challenge Orchard Navigation Trajectory Labeling appeared first on iMerit.",
@@ -2001,16 +2032,6 @@
           "wordCount": 2457,
           "title": "Golden Datasets: The Hidden Backbone of Reliable Model Evaluation",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Autonomous-Self-Driving-Car.jpg"
-        },
-        {
-          "id": "https://imerit.ai/?p=39074",
-          "author": "Sujana Urs",
-          "description": "Compare top data annotation partners for scientific AI and autonomous labs, including expert feedback and model evaluation.\nThe post Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026 appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/top-data-annotation-partners-for-scientific-ai-autonomous-labs-in-2026/",
-          "publishedOn": "2026-07-17T13:50:00.000Z",
-          "wordCount": 3031,
-          "title": "Top Data Annotation Partners for Scientific AI & Autonomous Labs in 2026",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Top-Data-Annotation-Partners-for-Scientific-AI-Autonomous-Labs-in-2026.png"
         }
       ]
     },
@@ -2019,6 +2040,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256984",
+          "author": "Riya Bansal",
+          "description": "Developers launch new models every week, but most barely change how you work. Kimi K3 is different—not because of benchmark charts, but because of a few small API changes that fundamentally affect how you use it. The first is reasoning_effort, which defaults to maximum, alongside 131,072 max_completion_tokens. Ask K3 to rename a variable, and it […]\nThe post 7 Kimi K3 Features That Make Every Other Model Feel Outdated appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-features/",
+          "publishedOn": "2026-08-17T17:17:11.000Z",
+          "wordCount": null,
+          "title": "7 Kimi K3 Features That Make Every Other Model Feel Outdated",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=256968",
           "author": "Vasu Deo Sankrityayan",
@@ -2370,6 +2402,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/the-defenders-window",
+          "author": null,
+          "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+          "link": "https://openai.com/index/the-defenders-window",
+          "publishedOn": "2026-08-17T05:30:00.000Z",
+          "wordCount": null,
+          "title": "The Defender’s Window",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/openai-joins-ports-pike-project",
+          "author": null,
+          "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+          "link": "https://openai.com/index/openai-joins-ports-pike-project",
+          "publishedOn": "2026-08-17T05:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI joins PORTS-Pike project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "author": null,
+          "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "publishedOn": "2026-08-17T03:15:00.000Z",
+          "wordCount": null,
+          "title": "New policy ideas for the Intelligence Age",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
           "author": null,
@@ -2848,6 +2910,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+          "author": "Nathan Lambert",
+          "description": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI.",
+          "link": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+          "publishedOn": "2026-08-17T15:07:49.000Z",
+          "wordCount": null,
+          "title": "Teaching Everyone to Fish for Tokens",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b8608bb9-bf33-46e6-8ffe-dcf75a851f9b_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b8608bb9-bf33-46e6-8ffe-dcf75a851f9b_3182x1790.png"
+        },
+        {
           "id": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
           "author": "Nathan Lambert",
           "description": "Hint: It’s really not a distillation story.",
@@ -3250,26 +3328,6 @@
           "publishedOn": "2026-07-18T14:10:37.000Z",
           "wordCount": 21047,
           "title": "Endogenous Alignment",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "5kEezahvkEiQuWEfx",
-          "author": "Alex Mallen",
-          "description": "A bunch of conceptual reasoning tasks involve very subjective judgments, which makes them poorly suited for benchmarking AI capabilities. For example, it seems unreasonable to benchmark how well AIs can predict the probability of misaligned AI takeover. Perhaps instead we should measure capabilities by explicitly instructing the AI to predict a specified person’s judgment on this kind of question.\n(This quick document is aimed at people interested in benchmarking beneficial, urgent, and neglected conceptual reasoning capabilities. I don’t argue for this direction here, but in short it’s broadly aimed at making it so that at a given level of AI R&D speedup, AIs are less sloppy. See also here, here, here, and here.)\nFor conceptual tasks with hard-to-resolve disagreement, it's unclear if judg…",
-          "link": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
-          "publishedOn": "2026-07-17T23:42:45.000Z",
-          "wordCount": 22824,
-          "title": "Should we benchmark conceptual capabilities using judgment prediction tasks?",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "FBqe5dt8ZjaHN4Xj9",
-          "author": "Max Harms",
-          "description": "TLDR: I'm managing a new fund, housed at Lightcone Infrastructure, that will award at least $200,000 in grants and prizes for corrigibility research in 2026. Roughly half will go to traditional grants (first application deadline August 23rd) and half for prizes recognizing excellent work done this year. If you have interest in working on corrigibility, now is a good time to start! Apply via email: grants@corrigibilityresearch.org\nWhy this fund exists\nWhen I first dived into AI safety and alignment in 2009, the field was basically nonexistent. I've been relieved and gratified to see attention and funding grow, especially in the past few years. But even now, nearly all AI safety funding goes to evals, control, or interpretability. Work on alignment itself still remains deeply neglected, and …",
-          "link": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund",
-          "publishedOn": "2026-07-17T18:06:32.000Z",
-          "wordCount": 24352,
-          "title": "Announcing the Corrigibility Research Fund",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
