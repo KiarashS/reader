@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610703",
+          "author": "Yuelin Ou",
+          "description": "A production account of scaling an enterprise integration pipeline from 500 to 8,000 events per second, and the two correctness guarantees the throughput work was never allowed to trade away.\nThe post How to Scale an Integration Pipeline Without Breaking Correctness appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/",
+          "publishedOn": "2026-08-19T18:00:00.000Z",
+          "wordCount": 6339,
+          "title": "How to Scale an Integration Pipeline Without Breaking Correctness",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/A3_featured_image.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610670",
+          "author": "Sarah Schürch",
+          "description": "A controlled comparison of a top-5 RAG pipeline and a full 127,000 token prompt on the same 12 questions, same system prompt and same model. Graded blind on correctness, completeness and grounding.\nThe post Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/",
+          "publishedOn": "2026-08-19T16:30:00.000Z",
+          "wordCount": 7332,
+          "title": "Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/RAG-vs-1M-Token-Context-Window-in-Kimi-K3-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610668",
+          "author": "Stephanie Kirmer",
+          "description": "People can accept tradeoffs when they see value — but if they don’t, what happens?\nThe post Understanding Anti-AI Public Opinion appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/understanding-anti-ai-public-opinion/",
+          "publishedOn": "2026-08-19T15:00:00.000Z",
+          "wordCount": 4527,
+          "title": "Understanding Anti-AI Public Opinion",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-1.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610659",
+          "author": "Chinmay Kakatkar",
+          "description": "Conceptual overview and walkthrough of a solution approach in Python\nThe post Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/jigsaw-jeeves-building-a-puzzle-assistant-using-computer-vision/",
+          "publishedOn": "2026-08-19T12:00:00.000Z",
+          "wordCount": 7883,
+          "title": "Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/alexas_fotos-teamwork-3276694-scaled-1.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610657",
           "author": "Partha Sarkar",
           "description": "Building the Responsible AI, security, and governance layers required for enterprise-ready agents\nThe post From Prototype to Production: The Architecture Behind Secure & Governed AI Agents appeared first on Towards Data Science.",
@@ -1050,46 +1090,6 @@
           "wordCount": 6580,
           "title": "Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/E961875B-411E-4760-B73D-CDEFD7BE77B0.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609955",
-          "author": "Salvatore Cagliari",
-          "description": "Having categorized data is everything in reporting. Uncategorized data cannot be grouped and aggregated. But sometimes we must assign a category to uncategorized data according to certain rules. Let’s see how I solved this in a facility management project.\nThe post Automatically Assign a Category to Uncategorized Rows in Power Query and DAX appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/",
-          "publishedOn": "2026-07-20T12:00:00.000Z",
-          "wordCount": 6902,
-          "title": "Automatically Assign a Category to Uncategorized Rows in Power Query and DAX",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/rodeo-project-management-software-iqLVxrHp46k-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609923",
-          "author": "Nikhil Dasari",
-          "description": "Let's discover how neural networks learn, step by step\nThe post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/",
-          "publishedOn": "2026-07-19T17:00:00.000Z",
-          "wordCount": 7645,
-          "title": "Backpropagation Explained for Beginners (Part 1): Building the Intuition",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pexels-vargaphotography-10796342-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609943",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #6quinquies] - Prompt engineering, then context engineering, then loop engineering. On the question side, the loop is small by design: read the doc, ask what is missing, re-parse.\nThe post Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/",
-          "publishedOn": "2026-07-19T15:00:00.000Z",
-          "wordCount": 7282,
-          "title": "Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop_roundabout_7900785_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609939",
-          "author": "Pratik Rupareliya",
-          "description": "An AI agent passed every metric in the eval harness I published, then the CFO killed it — its successful resolutions cost more than the humans it replaced.\nThe post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/",
-          "publishedOn": "2026-07-19T13:00:00.000Z",
-          "wordCount": 8339,
-          "title": "Your AI Agent Passed Every Eval. Finance Still Killed It.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/eval-metric-cost-per-successful-outcome.jpg"
         }
       ]
     },
@@ -1227,16 +1227,6 @@
           "wordCount": 9335,
           "title": "The Current State of Agentic AI",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-current-state-agentic-ai-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24693",
-          "author": "Bala Priya C",
-          "description": "In this article, you will learn how to build a complete agentic workflow in Python with LangGraph, from a single model call to a tool-using...",
-          "link": "https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/",
-          "publishedOn": "2026-07-20T11:27:18.000Z",
-          "wordCount": 9967,
-          "title": "Building Agentic Workflows in Python with LangGraph",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-langgraph-cover.png"
         }
       ]
     },
@@ -1291,6 +1281,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/LiquidAI/qad",
+          "author": null,
+          "description": "A Blog post by Liquid AI on Hugging Face",
+          "link": "https://huggingface.co/blog/LiquidAI/qad",
+          "publishedOn": "2026-08-19T13:48:49.000Z",
+          "wordCount": 935,
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/PYy1cufo9frwFjiHZLq2S.png"
+        },
         {
           "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
           "author": null,
@@ -1867,17 +1867,6 @@
           "title": "Week Ending 7.26.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a5e05149688b66af60b00ea",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja",
-          "publishedOn": "2026-07-20T11:23:22.000Z",
-          "wordCount": null,
-          "title": "Week Ending 7.19.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2042,6 +2031,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257044",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Claude now marks AI-generated content. But it does not mark everything the same way. Anthropic currently uses embedded watermarks for text and signed C2PA provenance metadata for supported files. Code sits somewhere in between: it is still text, but its structure gives the watermark fewer places to work. I went into detail about Claude’s watermarks […]\nThe post How to Remove Claude Watermarks from Text, Code, and Files appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/",
+          "publishedOn": "2026-08-19T05:52:55.000Z",
+          "wordCount": null,
+          "title": "How to Remove Claude Watermarks from Text, Code, and Files",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257013",
           "author": "Mounish V",
@@ -2338,17 +2338,6 @@
           "title": "Agentic AI vs AI Automation: What’s the Real Difference?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256404",
-          "author": "Harsh Mishra",
-          "description": "Thinking Machines Lab has unveiled Inkling, its first general-purpose open-weights foundation model. It is a multimodal MoE model with 975B parameters, 41B active parameters, and a 1M-token context window. Rather than chasing benchmark supremacy, Inkling is designed as a customizable foundation for multimodal reasoning, agentic AI, coding, tool use, audio and vision tasks, and domain-specific […]\nThe post Complete Guide to Thinking Machines Inkling appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/",
-          "publishedOn": "2026-07-20T06:37:00.000Z",
-          "wordCount": null,
-          "title": "Complete Guide to Thinking Machines Inkling",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2404,6 +2393,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "author": null,
+          "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "publishedOn": "2026-08-19T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Offering Zero Data Retention for frontier models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/replit",
+          "author": null,
+          "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "link": "https://openai.com/index/replit",
+          "publishedOn": "2026-08-19T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "author": null,
+          "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "publishedOn": "2026-08-18T22:00:00.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Ads expands across Europe",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
           "author": null,
@@ -2953,16 +2972,6 @@
           "wordCount": null,
           "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "author": null,
-          "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-          "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "publishedOn": "2026-07-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Safety and alignment in an era of long-horizon models",
-          "imageUrl": null
         }
       ]
     },
@@ -3123,6 +3132,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "BB8o7b8A4Aykeksvw",
+          "author": "zac_kenton",
+          "description": "Paper: Debate Training Reduces Reward Hacking in RLAIF\nLinkpost for GDM Alignment blogpost\nWork done by the GDM Amplified Oversight team (we're hiring).\nTL;DR: When you RL against an LLM judge, the judge gets hacked i.e. fooled into incorrectly giving high reward; adding a debate opponent reduces this.\nMany of the most impressive capabilities of current AI systems are produced by training on crisp tasks, like math and coding, where task success can be automatically verified. However, much of AI behavior that we actually care about is in some sense fuzzy, even for the most classical crisp tasks. For example, a coding agent should produce maintainable code, not just code that passes tests. More crucially, a coding agent should not learn to pass tests at all costs, especially by subverting th…",
+          "link": "https://www.alignmentforum.org/posts/BB8o7b8A4Aykeksvw/debate-training-reduces-reward-hacking-in-rlaif",
+          "publishedOn": "2026-08-19T12:17:57.000Z",
+          "wordCount": 24553,
+          "title": "Debate Training Reduces Reward Hacking in RLAIF",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/BB8o7b8A4Aykeksvw/wy7ostfhgb4xfhiuvokg"
+        },
+        {
           "id": "QBuJ3suRZxrrxSTtv",
           "author": "Jan Bauer",
           "description": "TL;DR\nGoogle DeepMind's recent model DiffusionGemma (DG) generates text via diffusion, meaning many diffusion steps happen before generating the final output. In particular, these diffusion steps carry vectors in addition to tokens. If we cannot interpret these tokens and vectors, the model has significant opaque serial depth, potentially harming monitorability. Recently, Engels et al. found that DG nevertheless maintains high monitorability, for instance by showing that projecting the distribution to its top-k items largely retains performance. We strengthen these results by showing that this performance degradation is largely a sampler artifact and good performance can be maintained with only the top item, supporting the case for high monitorability. Still, we also find some rare case st…",
@@ -3151,6 +3170,16 @@
           "wordCount": 38900,
           "title": "An anytime algorithm for mixing the computable measures",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "9jKhqmFjMzdAvHANr",
+          "author": "Omar Khursheed",
+          "description": "TLDR; We are (potentially irreversibly) giving AIs control of weapons systems through the standard procurement process while hiding our strongest warning shots behind classified doors. We’re reducing the capability thresholds required for takeover by misaligned AIs by giving them this level of access. If military integration of AI continues as it is, we may give AIs key tools for a takeover.\nWe thank Fabien Roger and Thomas Morris for feedback.\nIntroduction\nAI-based targeting and autonomous weapons are being integrated into militaries today with extreme haste. Traditionally, AI takeover scenarios involve a step in which AIs acquire the ability to exert physical force. Carlsmith (2022) lays out required capabilities and potential takeover mechanisms, including utility disruption and CBRN ca…",
+          "link": "https://www.alignmentforum.org/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over",
+          "publishedOn": "2026-08-11T19:03:26.000Z",
+          "wordCount": 24518,
+          "title": "Misaligned AIs could use killer robots to take over",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/vy2ma7s49qxjciqifxjg"
         },
         {
           "id": "GRmvZsHXH4vaijPMv",

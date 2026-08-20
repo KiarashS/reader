@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-19T01:02:29.514Z</updated>
+    <updated>2026-08-20T01:00:05.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Offering Zero Data Retention for frontier models]]></title>
+        <id>https://openai.com/index/offering-zero-data-retention-for-frontier-models</id>
+        <link href="https://openai.com/index/offering-zero-data-retention-for-frontier-models"/>
+        <updated>2026-08-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale an Integration Pipeline Without Breaking Correctness]]></title>
+        <id>https://towardsdatascience.com/?p=610703</id>
+        <link href="https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/"/>
+        <updated>2026-08-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A production account of scaling an enterprise integration pipeline from 500 to 8,000 events per second, and the two correctness guarantees the throughput work was never allowed to trade away.
+The post How to Scale an Integration Pipeline Without Breaking Correctness appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Yuelin Ou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality]]></title>
+        <id>https://towardsdatascience.com/?p=610670</id>
+        <link href="https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/"/>
+        <updated>2026-08-19T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A controlled comparison of a top-5 RAG pipeline and a full 127,000 token prompt on the same 12 questions, same system prompt and same model. Graded blind on correctness, completeness and grounding.
+The post Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sarah Schürch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Anti-AI Public Opinion]]></title>
+        <id>https://towardsdatascience.com/?p=610668</id>
+        <link href="https://towardsdatascience.com/understanding-anti-ai-public-opinion/"/>
+        <updated>2026-08-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[People can accept tradeoffs when they see value — but if they don’t, what happens?
+The post Understanding Anti-AI Public Opinion appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation]]></title>
+        <id>https://huggingface.co/blog/LiquidAI/qad</id>
+        <link href="https://huggingface.co/blog/LiquidAI/qad"/>
+        <updated>2026-08-19T13:48:49.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by Liquid AI on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debate Training Reduces Reward Hacking in RLAIF]]></title>
+        <id>BB8o7b8A4Aykeksvw</id>
+        <link href="https://www.alignmentforum.org/posts/BB8o7b8A4Aykeksvw/debate-training-reduces-reward-hacking-in-rlaif"/>
+        <updated>2026-08-19T12:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Paper: Debate Training Reduces Reward Hacking in RLAIF
+Linkpost for GDM Alignment blogpost
+Work done by the GDM Amplified Oversight team (we're hiring).
+TL;DR: When you RL against an LLM judge, the judge gets hacked i.e. fooled into incorrectly giving high reward; adding a debate opponent reduces this.
+Many of the most impressive capabilities of current AI systems are produced by training on crisp tasks, like math and coding, where task success can be automatically verified. However, much of AI behavior that we actually care about is in some sense fuzzy, even for the most classical crisp tasks. For example, a coding agent should produce maintainable code, not just code that passes tests. More crucially, a coding agent should not learn to pass tests at all costs, especially by subverting th…]]></summary>
+        <author>
+            <name>zac_kenton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision]]></title>
+        <id>https://towardsdatascience.com/?p=610659</id>
+        <link href="https://towardsdatascience.com/jigsaw-jeeves-building-a-puzzle-assistant-using-computer-vision/"/>
+        <updated>2026-08-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Conceptual overview and walkthrough of a solution approach in Python
+The post Jigsaw Jeeves: Building a Puzzle Assistant using Computer Vision appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chinmay Kakatkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]></title>
+        <id>https://openai.com/index/replit</id>
+        <link href="https://openai.com/index/replit"/>
+        <updated>2026-08-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove Claude Watermarks from Text, Code, and Files]]></title>
+        <id>https://www.analyticsvidhya.com/?p=257044</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/how-to-remove-claude-watermarks/"/>
+        <updated>2026-08-19T05:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Claude now marks AI-generated content. But it does not mark everything the same way. Anthropic currently uses embedded watermarks for text and signed C2PA provenance metadata for supported files. Code sits somewhere in between: it is still text, but its structure gives the watermark fewer places to work. I went into detail about Claude’s watermarks […]
+The post How to Remove Claude Watermarks from Text, Code, and Files appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Ads expands across Europe]]></title>
+        <id>https://openai.com/index/chatgpt-ads-expands-across-europe</id>
+        <link href="https://openai.com/index/chatgpt-ads-expands-across-europe"/>
+        <updated>2026-08-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strengthening democratic oversight in national security]]></title>
         <id>https://openai.com/index/strengthening-democratic-oversight-in-national-security</id>
@@ -734,6 +843,19 @@ mjx-container …]]></summary>
         <summary type="html"><![CDATA[See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.]]></summary>
         <author>
             <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misaligned AIs could use killer robots to take over]]></title>
+        <id>9jKhqmFjMzdAvHANr</id>
+        <link href="https://www.alignmentforum.org/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"/>
+        <updated>2026-08-11T19:03:26.000Z</updated>
+        <summary type="html"><![CDATA[TLDR; We are (potentially irreversibly) giving AIs control of weapons systems through the standard procurement process while hiding our strongest warning shots behind classified doors. We’re reducing the capability thresholds required for takeover by misaligned AIs by giving them this level of access. If military integration of AI continues as it is, we may give AIs key tools for a takeover.
+We thank Fabien Roger and Thomas Morris for feedback.
+Introduction
+AI-based targeting and autonomous weapons are being integrated into militaries today with extreme haste. Traditionally, AI takeover scenarios involve a step in which AIs acquire the ability to exert physical force. Carlsmith (2022) lays out required capabilities and potential takeover mechanisms, including utility disruption and CBRN ca…]]></summary>
+        <author>
+            <name>Omar Khursheed</name>
         </author>
     </entry>
     <entry>
@@ -3346,91 +3468,6 @@ The post Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables w
 The post Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Assign a Category to Uncategorized Rows in Power Query and DAX]]></title>
-        <id>https://towardsdatascience.com/?p=609955</id>
-        <link href="https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/"/>
-        <updated>2026-07-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having categorized data is everything in reporting. Uncategorized data cannot be grouped and aggregated. But sometimes we must assign a category to uncategorized data according to certain rules. Let’s see how I solved this in a facility management project.
-The post Automatically Assign a Category to Uncategorized Rows in Power Query and DAX appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Salvatore Cagliari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Agentic Workflows in Python with LangGraph]]></title>
-        <id>https://machinelearningmastery.com/?p=24693</id>
-        <link href="https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/"/>
-        <updated>2026-07-20T11:27:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to build a complete agentic workflow in Python with LangGraph, from a single model call to a tool-using...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 7.19.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a5e05149688b66af60b00ea</id>
-        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja"/>
-        <updated>2026-07-20T11:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safety and alignment in an era of long-horizon models]]></title>
-        <id>https://openai.com/index/safety-alignment-long-horizon-models</id>
-        <link href="https://openai.com/index/safety-alignment-long-horizon-models"/>
-        <updated>2026-07-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Guide to Thinking Machines Inkling]]></title>
-        <id>https://www.analyticsvidhya.com/?p=256404</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/07/thinking-machines-inkling/"/>
-        <updated>2026-07-20T06:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Thinking Machines Lab has unveiled Inkling, its first general-purpose open-weights foundation model. It is a multimodal MoE model with 975B parameters, 41B active parameters, and a 1M-token context window. Rather than chasing benchmark supremacy, Inkling is designed as a customizable foundation for multimodal reasoning, agentic AI, coding, tool use, audio and vision tasks, and domain-specific […]
-The post Complete Guide to Thinking Machines Inkling appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backpropagation Explained for Beginners (Part 1): Building the Intuition]]></title>
-        <id>https://towardsdatascience.com/?p=609923</id>
-        <link href="https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/"/>
-        <updated>2026-07-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's discover how neural networks learn, step by step
-The post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval]]></title>
-        <id>https://towardsdatascience.com/?p=609943</id>
-        <link href="https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/"/>
-        <updated>2026-07-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6quinquies] - Prompt engineering, then context engineering, then loop engineering. On the question side, the loop is small by design: read the doc, ask what is missing, re-parse.
-The post Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Agent Passed Every Eval. Finance Still Killed It.]]></title>
-        <id>https://towardsdatascience.com/?p=609939</id>
-        <link href="https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/"/>
-        <updated>2026-07-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An AI agent passed every metric in the eval harness I published, then the CFO killed it — its successful resolutions cost more than the humans it replaced.
-The post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pratik Rupareliya</name>
         </author>
     </entry>
 </feed>
