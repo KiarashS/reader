@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610694",
+          "author": "Eivind Kjosbakken",
+          "description": "Improve your proficiency with Claude Code.\nThe post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/",
+          "publishedOn": "2026-08-20T18:00:00.000Z",
+          "wordCount": 5169,
+          "title": "How to Effectively Align Your Intent with Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/aligning-intent-coding-agents_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610692",
+          "author": "Priyansh Bhardwaj",
+          "description": "What a production incident taught me about trusting a model to judge another model's work\nThe post The LLM Judge That Kept Agreeing With Itself appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/",
+          "publishedOn": "2026-08-20T16:30:00.000Z",
+          "wordCount": 4809,
+          "title": "The LLM Judge That Kept Agreeing With Itself",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/article8_1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610690",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture\nThe post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/",
+          "publishedOn": "2026-08-20T15:00:00.000Z",
+          "wordCount": 6782,
+          "title": "Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/forked_road_snow_20061882_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610680",
+          "author": "Sam Black",
+          "description": "A hands-on guide to fine-tuning LLMs for the real world\nThe post How to Fine-Tune an LLM: An End-to-End Guide appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/",
+          "publishedOn": "2026-08-20T13:30:00.000Z",
+          "wordCount": 8665,
+          "title": "How to Fine-Tune an LLM: An End-to-End Guide",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/google-deepmind-LcgLq78WZCQ-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610678",
+          "author": "Miodrag Cekikj",
+          "description": "Why retrieval quality should be a property of the system, not of the question's wording? Rebuilding knowledge layer with graph traversal on every query, bitemporal edges, and two-threshold entity resolution.\nThe post Making the Knowledge Layer a Graph You Actually Traverse appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/",
+          "publishedOn": "2026-08-20T12:00:00.000Z",
+          "wordCount": 11559,
+          "title": "Making the Knowledge Layer a Graph You Actually Traverse",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-319.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610703",
           "author": "Yuelin Ou",
           "description": "A production account of scaling an enterprise integration pipeline from 500 to 8,000 events per second, and the two correctness guarantees the throughput work was never allowed to trade away.\nThe post How to Scale an Integration Pipeline Without Breaking Correctness appeared first on Towards Data Science.",
@@ -1050,46 +1100,6 @@
           "wordCount": 6805,
           "title": "How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/featured_image_v4.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609973",
-          "author": "Alex Davis",
-          "description": "A hands-on guide to tracking experiments, logging models, and reproducing results with ML Flow.\nThe post Are Your ML Experiments a Mess? Here’s the Fix appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ml-experiments-are-a-mess-heres-the-fix/",
-          "publishedOn": "2026-07-21T12:00:00.000Z",
-          "wordCount": 6287,
-          "title": "Are Your ML Experiments a Mess? Here’s the Fix",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/photo-1526628953301-3e589a6a8b74.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609960",
-          "author": "Eivind Kjosbakken",
-          "description": "Apply long-running coding agents to become a more productive engineer\nThe post How to Run Claude Code Agents for 24+ Hours appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-run-claude-code-agents-for-24-hours/",
-          "publishedOn": "2026-07-20T16:30:00.000Z",
-          "wordCount": 6845,
-          "title": "How to Run Claude Code Agents for 24+ Hours",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/long-running-coding-agents_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609953",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #10B] - The LLM as last line of defence, then two real escalations walked end to end: a flat table to Azure, a figure to a vision model\nThe post Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures with a Vision LLM appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/loop-engineering-with-adaptive-parsing-in-action-parsing-flat-tables-with-azure-and-figures-with-a-vision-llm/",
-          "publishedOn": "2026-07-20T15:00:00.000Z",
-          "wordCount": 9851,
-          "title": "Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures with a Vision LLM",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/map_instruments_7009483_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609957",
-          "author": "Maria Mouschoutzi",
-          "description": "How do you make decisions when you can't trust anyone in the room?\nThe post Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/water-cooler-small-talk-ep-12-byzantine-fault-tolerance/",
-          "publishedOn": "2026-07-20T13:30:00.000Z",
-          "wordCount": 6580,
-          "title": "Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/E961875B-411E-4760-B73D-CDEFD7BE77B0.jpg"
         }
       ]
     },
@@ -1217,16 +1227,6 @@
           "wordCount": 12608,
           "title": "An Introduction to Loop Engineering",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/MLM-Shittu-An-Introduction-to-Loop-Engineering-scaled-1.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24750",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn how agentic AI architecture has evolved by mid-2026, including the shift away from orchestrated reasoning loops, the rise of...",
-          "link": "https://machinelearningmastery.com/the-current-state-of-agentic-ai/",
-          "publishedOn": "2026-07-21T12:33:09.000Z",
-          "wordCount": 9335,
-          "title": "The Current State of Agentic AI",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-current-state-agentic-ai-feature.png"
         }
       ]
     },
@@ -1281,6 +1281,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "author": null,
+          "description": "A Blog post by Liquid AI on Hugging Face",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "publishedOn": "2026-08-20T16:52:57.000Z",
+          "wordCount": 1913,
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif"
+        },
         {
           "id": "https://huggingface.co/blog/LiquidAI/qad",
           "author": null,
@@ -1510,26 +1520,6 @@
           "wordCount": 2377,
           "title": "The State of Simulation for Physical AI: An Overview",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/qW-EiAM1rpPTBCzGK-Cbx.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/grabette",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/grabette",
-          "publishedOn": "2026-07-21T00:00:00.000Z",
-          "wordCount": 1724,
-          "title": "Grabette: an open system to record robot-manipulation data",
-          "imageUrl": "https://huggingface.co/blog/assets/grabette/thumbnail_grabette.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-          "publishedOn": "2026-07-20T15:58:51.000Z",
-          "wordCount": 1619,
-          "title": "Introducing Cosmos 3 Edge",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a45813c717ace23b8c3b562/9_7TYr_qt6fVauHKiFGh5.png"
         }
       ]
     },
@@ -1544,6 +1534,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1184167",
+          "author": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+          "description": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. \nThe post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+          "publishedOn": "2026-08-20T16:00:00.000Z",
+          "wordCount": 5547,
+          "title": "Broadening access to Skala creates a faster path to predictive DFT",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Skala-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
           "author": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
@@ -1926,16 +1926,6 @@
           "wordCount": 9225,
           "title": "Contour Detection using OpenCV (Python/C++)",
           "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2021/06/04093440/Pg-5-Contour-Detection-using-OpenCV-Feature-Image-1-scaled.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=79814",
-          "author": "Satya Mallick",
-          "description": "Install OpenCV 5 on Linux with pip, C++ source, or CUDA. Includes Ubuntu 24.04 tests, distro routing, strict checks, and a verifier bundle.\nInstall OpenCV 5 on Linux first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/install-opencv-5-linux/",
-          "publishedOn": "2026-07-21T00:19:10.000Z",
-          "wordCount": 12978,
-          "title": "Install OpenCV 5 on Linux",
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/07/20102353/install-opencv-5-linux-featured-logos-side-by-side.png"
         }
       ]
     },
@@ -1944,6 +1934,26 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=41122",
+          "author": "Sujana Urs",
+          "description": "Compare real-time vs. offline triage in AV data pipelines and how data selection architecture affects training and edge-case coverage.\nThe post Real-Time vs. Offline Triage in AV Pipelines: Why the Architecture Decision Shapes What Your Model Actually Learns appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/real-time-vs-offline-triage-in-av-pipelines-why-the-architecture-decision-shapes-what-your-model-actually-learns/",
+          "publishedOn": "2026-08-20T16:15:39.000Z",
+          "wordCount": 3746,
+          "title": "Real-Time vs. Offline Triage in AV Pipelines: Why the Architecture Decision Shapes What Your Model Actually Learns",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-image-3D-point-cloud-dataset-1.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=41109",
+          "author": "Sujana Urs",
+          "description": "Public benchmarks saturate fast. See why custom evaluation sets hold up better for frontier model testing over time.\nThe post Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-custom-evaluation-sets-outlast-public-benchmarks-for-frontier-model-testing/",
+          "publishedOn": "2026-08-20T13:49:00.000Z",
+          "wordCount": 3626,
+          "title": "Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Custom-Evaluation-Sets-Outlast-Public-Benchmarks-for-Frontier-Model-Testing.png"
+        },
         {
           "id": "https://imerit.ai/?p=41059",
           "author": "Sujana Urs",
@@ -2393,6 +2403,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-ai-futures",
+          "author": null,
+          "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+          "link": "https://openai.com/index/introducing-ai-futures",
+          "publishedOn": "2026-08-20T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing AI Futures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/stampli",
+          "author": null,
+          "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "link": "https://openai.com/index/stampli",
+          "publishedOn": "2026-08-20T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "author": null,
@@ -2952,26 +2982,6 @@
           "wordCount": null,
           "title": "Introducing the ChatGPT for small business program",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "author": null,
-          "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "publishedOn": "2026-07-21T07:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-          "author": null,
-          "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-          "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-          "publishedOn": "2026-07-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-          "imageUrl": null
         }
       ]
     },
@@ -3107,22 +3117,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-          "author": "Nathan Lambert",
-          "description": "The global implications on the AI ecosystem.",
-          "link": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-          "publishedOn": "2026-07-20T15:48:28.000Z",
-          "wordCount": null,
-          "title": "Kimi K3: The open-weights escalation",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b7967fef-8d08-4180-a3fd-8c2239bc9619_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b7967fef-8d08-4180-a3fd-8c2239bc9619_3182x1790.png"
         }
       ]
     },
@@ -3390,16 +3384,6 @@
           "wordCount": 20203,
           "title": "[Paper] Stringological sequence prediction II",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "6ek6n7yZ5DzfarJHy",
-          "author": "agam_bhatia",
-          "description": "TL;DR\nWe used J-lens on Qwen3.6-27B to find “meta-tokens”: tokens that surface non-obvious computation in the model. When the model reads ambiguous text, 什么意思 (\"what does this mean\") fires in the J-space, and steering it away makes the model answer \"a boiled egg every morning is hard to beat\" with nutrition facts instead of catching the pun. On LCM problems, \"gcd\" fires, pointing at the product/GCD algorithm: swapping the GCD vector from 9 to 3 makes the model change its answer for the LCM of 27 and 90 from 270 to 810. Additionally, before the model hedges, 大概率 (\"most likely\") fires, and suppressing it makes the model commit to a single option (for e.g. \"There are several logical places John could have gone\" turns into \"he went to the stationery store).\" While meta-tokens are hard to find …",
-          "link": "https://www.alignmentforum.org/posts/6ek6n7yZ5DzfarJHy/towards-surfacing-model-algorithms-with-meta-tokens-in-the-j",
-          "publishedOn": "2026-07-20T19:45:04.000Z",
-          "wordCount": 29954,
-          "title": "Towards surfacing model algorithms with meta-tokens in the J-Space",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6ek6n7yZ5DzfarJHy/ohq0ukt3hsgr2oryjwvw"
         }
       ]
     }
