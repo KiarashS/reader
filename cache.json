@@ -12,6 +12,66 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610713",
+          "author": "Shuai Guo",
+          "description": "Turning Codex from an interactive assistant into a programmable automation component\nThe post Running Codex as a Headless Agent appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/running-codex-as-a-headless-agent/",
+          "publishedOn": "2026-08-21T18:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Running Codex as a Headless Agent",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/codex_cli-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610778",
+          "author": "Elod Pal Csirmaz",
+          "description": "A walkthrough of and the maths behind using low-capacity networks to acquire fine-grained scoring when only categorical labelling is available for training\nThe post Estimating from No Data: Deriving a Continuous Score from Categories appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/estimating-from-no-data-deriving-a-continuous-score-from-categories-2/",
+          "publishedOn": "2026-08-21T17:09:54.000Z",
+          "wordCount": 5552,
+          "title": "Estimating from No Data: Deriving a Continuous Score from Categories",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/elod-pal-image.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610715",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #7sexies] - The unit of retrieval doesn’t have to be a page or a paragraph. When the corpus carries tables, each body row with its column headers is a chunk in its own right, and it’s often the one row the reader asked about\nThe post Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/retrieve-one-row-from-a-table-not-the-whole-table-row-level-chunks-for-rag/",
+          "publishedOn": "2026-08-21T16:30:00.000Z",
+          "wordCount": 5946,
+          "title": "Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/museum_specimen_drawer_16566150_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610711",
+          "author": "Salvatore Cagliari",
+          "description": "Dimensions are one of the two main object types in dimensional modelling. But what are the different types of dimensions? And how can you use them?\nThe post The Types of Dimensions in a Star Schema, and How to Use Them appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-are-the-types-of-dimensions-in-a-star-schema-and-how-to-use-them/",
+          "publishedOn": "2026-08-21T15:00:00.000Z",
+          "wordCount": 4729,
+          "title": "The Types of Dimensions in a Star Schema, and How to Use Them",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/deng-xiang-WXQm_NTK0U-unsplash.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610709",
+          "author": "Mahe Jabeen Abdul",
+          "description": "AI systems should not automate a decision simply because they can provide a prediction. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly.\nThe post Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/",
+          "publishedOn": "2026-08-21T13:30:00.000Z",
+          "wordCount": 5814,
+          "title": "Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-photo-1034650-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610707",
+          "author": "Luis Fernando Pérez Armas",
+          "description": "Learning about Farkas' lemma and how it can inform Benders decomposition to learn from infeasibility, applied to the capacitated facility location problem.\nThe post How Benders Decomposition Works, Part II: Feasibility Cuts appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-benders-decomposition-works-part-ii-feasibility-cuts/",
+          "publishedOn": "2026-08-21T12:00:00.000Z",
+          "wordCount": 10817,
+          "title": "How Benders Decomposition Works, Part II: Feasibility Cuts",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-527.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610694",
           "author": "Eivind Kjosbakken",
           "description": "Improve your proficiency with Claude Code.\nThe post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.",
@@ -1060,46 +1120,6 @@
           "wordCount": 6600,
           "title": "Build an LLM Agent That Can Write and Run Code",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-239.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610010",
-          "author": "Chien Vu Minh",
-          "description": "Static analysis nailed the malicious skill and over-flagged the useful one. The gap between those results is where human judgement actually earns its keep.\nThe post Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/",
-          "publishedOn": "2026-07-22T12:00:00.000Z",
-          "wordCount": 9548,
-          "title": "Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/feature.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610008",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #9bis] - Your RAG isn’t hallucinating, it’s answering the wrong context faithfully. On real NIST and World Bank documents, watch each of the four bricks break, and the contract that closes it\nThe post Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/",
-          "publishedOn": "2026-07-21T16:30:00.000Z",
-          "wordCount": 6899,
-          "title": "Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/signpost_14059293_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610005",
-          "author": "Abdullahi Dattijo",
-          "description": "A reproducible 100-step LoRA fine-tuning run for OpenVLA, with dataset checks, Colab setup, training metrics, and W&B evidence.\nThe post I Tried Fine-Tuning a Robot AI Model on Colab. Here Is What Worked appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-tried-fine-tuning-a-robot-ai-model-on-colab-here-is-what-worked/",
-          "publishedOn": "2026-07-21T15:00:00.000Z",
-          "wordCount": 7778,
-          "title": "I Tried Fine-Tuning a Robot AI Model on Colab. Here Is What Worked",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-08_32_49-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609976",
-          "author": "Parul Pandey",
-          "description": "Exploring GPU acceleration with cuDF, cudf.pandas, and the Polars GPU Engine\nThe post How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-much-of-a-data-science-workflow-can-run-on-a-gpu-today-part-1-accelerating-data-preparation/",
-          "publishedOn": "2026-07-21T13:30:00.000Z",
-          "wordCount": 6805,
-          "title": "How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/featured_image_v4.jpg"
         }
       ]
     },
@@ -1281,6 +1301,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "publishedOn": "2026-08-21T00:00:00.000Z",
+          "wordCount": 3346,
+          "title": "Measuring benchmark optimization in speech recognition",
+          "imageUrl": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
           "author": null,
@@ -1510,16 +1540,6 @@
           "wordCount": 2603,
           "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
           "imageUrl": "https://huggingface.co/blog/assets/nunchaku-diffusers/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "publishedOn": "2026-07-21T20:00:27.000Z",
-          "wordCount": 2377,
-          "title": "The State of Simulation for Physical AI: An Overview",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/qW-EiAM1rpPTBCzGK-Cbx.png"
         }
       ]
     },
@@ -1676,6 +1696,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a887ddeb55a70d585eec152",
+          "author": "Reetain Raina",
+          "description": "A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b",
+          "link": "https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/",
+          "publishedOn": "2026-08-21T16:33:34.000Z",
+          "wordCount": 3045,
+          "title": "How Sensors Collect, Process, and Track Data in Wearable Devices",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0ee25a6-436d-48d6-abca-9519b531707a.png"
+        },
+        {
           "id": "6a7b522a304c202420dfd496",
           "author": "Rudrendu Paul",
           "description": "Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac",
@@ -1745,6 +1775,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "1ec5465a-9d63-11f1-a7ca-5772de4eaeea",
+          "author": null,
+          "description": "NASA Artemis III Chief Training Officer Debbie O’Connell discusses how the crew is preparing for one of NASA’s most challenging missions yet. Episode 434",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-iii-training/",
+          "publishedOn": "2026-08-21T13:20:00.000Z",
+          "wordCount": null,
+          "title": "Artemis III Training",
+          "itunes": {
+            "duration": "2283"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1028622555.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "c07783da-97de-11f1-8743-77812e3c07d4",
           "author": null,
@@ -2023,16 +2071,6 @@
           "wordCount": 3175,
           "title": "Text, Image, Audio, and Video: Why Each Modality Demands a Different Annotation Strategy",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Feature-IMG-Text-Image-Audio-and-Video-Why-Each-Modality-Demands-a-Different-Annotation-Strategy.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=39945",
-          "author": "Sujana Urs",
-          "description": "A golden dataset is the most trustworthy tool you have for judging whether a model is ready to ship. It\nThe post Golden Datasets: The Hidden Backbone of Reliable Model Evaluation appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/golden-datasets-the-hidden-backbone-of-reliable-model-evaluation/",
-          "publishedOn": "2026-07-21T22:52:08.000Z",
-          "wordCount": 2457,
-          "title": "Golden Datasets: The Hidden Backbone of Reliable Model Evaluation",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/07/Autonomous-Self-Driving-Car.jpg"
         }
       ]
     },
@@ -2041,6 +2079,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257000",
+          "author": "Janvi Kumari",
+          "description": "Modern LLMs rely on quantization, pruning, distillation, and faster attention kernels, but production performance often depends most on KV cache management. As context windows grow, the cache consumes significant GPU memory, limiting concurrency, throughput, and latency. Two breakthroughs transformed this challenge: PagedAttention improves memory allocation, while RadixAttention enables efficient prefix reuse. Together, these techniques make […]\nThe post PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/",
+          "publishedOn": "2026-08-21T10:42:03.000Z",
+          "wordCount": null,
+          "title": "PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257044",
           "author": "Vasu Deo Sankrityayan",
@@ -2324,28 +2373,6 @@
           "publishedOn": "2026-07-23T12:16:21.000Z",
           "wordCount": null,
           "title": "Prompt Compression Techniques: How to Reduce LLM Costs Without Losing Important Context",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256500",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "On July 21, 2026, while everyone was still waiting on the much-delayed Gemini 3.5 Pro, Google slipped out a mid-cycle update to its speed tier: Gemini 3.6 Flash. No new frontier claims, no dramatic reveal. Instead, the model does roughly the same thinking as 3.5 Flash while spending fewer tokens, fewer tool calls, and fewer […]\nThe post Gemini 3.6 Flash Is Here: The Efficiency Release appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/gemini-3-6-flash-review/",
-          "publishedOn": "2026-07-22T11:52:49.000Z",
-          "wordCount": null,
-          "title": "Gemini 3.6 Flash Is Here: The Efficiency Release",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256435",
-          "author": "Riya Bansal",
-          "description": "This scene is playing out across engineering teams everywhere. Someone wraps a few LangChain calls inside a loop, adds a couple of tools, and proudly declares, “We’ve built an AI agent.” The demo looks great. Everyone is impressed. Then it goes to production. The first unexpected input arrives. The workflow breaks. Logs fill up. Alerts start firing. […]\nThe post Agentic AI vs AI Automation: What’s the Real Difference? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/agentic-ai-vs-ai-automation/",
-          "publishedOn": "2026-07-21T18:22:00.000Z",
-          "wordCount": null,
-          "title": "Agentic AI vs AI Automation: What’s the Real Difference?",
           "itunes": {},
           "imageUrl": null
         }
@@ -2942,46 +2969,6 @@
           "wordCount": null,
           "title": "How news organizations are using AI to advance their vital missions",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
-          "author": null,
-          "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-          "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-          "publishedOn": "2026-07-22T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Advancing the next era of national science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-openai-presence",
-          "author": null,
-          "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-          "link": "https://openai.com/index/introducing-openai-presence",
-          "publishedOn": "2026-07-22T05:30:00.000Z",
-          "wordCount": null,
-          "title": "Introducing OpenAI Presence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ntt-data",
-          "author": null,
-          "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-          "link": "https://openai.com/index/ntt-data",
-          "publishedOn": "2026-07-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "author": null,
-          "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-          "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "publishedOn": "2026-07-21T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing the ChatGPT for small business program",
-          "imageUrl": null
         }
       ]
     },
@@ -3373,16 +3360,6 @@
           "publishedOn": "2026-07-23T03:40:37.000Z",
           "wordCount": 25962,
           "title": "Are we existentially threatened by the type of AI misalignment seen in the OpenAI Hugging Face attack?",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "TTei7oq9ndjJFgnsT",
-          "author": "Vanessa Kosoy",
-          "description": "Abstract: In a previous paper, we began the study of sequence prediction algorithms adapted to stringological word complexity measures. One measure we considered was left-to-right (most-significant-digit-first) automaticity. Here, we show a statistically and computationally efficient algorithm adapted to the \"dual\" right-to-left (least-significant-digit-first) automaticity, which turns out to be substantially different for our purpose. We also demonstrate a prediction algorithm for a more expressive measure that we call \"arithmetic repetition complexity\". In particular, the latter can be used for predicting the so-called mix-automatic sequences.\nThis paper continues my sequence on the new approach to compositional learning, which started with \"stringological sequence prediction I\". Curious…",
-          "link": "https://www.alignmentforum.org/posts/TTei7oq9ndjJFgnsT/paper-stringological-sequence-prediction-ii",
-          "publishedOn": "2026-07-22T07:27:26.000Z",
-          "wordCount": 20203,
-          "title": "[Paper] Stringological sequence prediction II",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
