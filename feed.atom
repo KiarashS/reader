@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-23T01:05:11.531Z</updated>
+    <updated>2026-08-24T01:04:53.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide]]></title>
+        <id>https://towardsdatascience.com/?p=610734</id>
+        <link href="https://towardsdatascience.com/a-first-look-at-survival-analysis-and-the-cox-model/"/>
+        <updated>2026-08-23T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From Kaplan-Meier curves to hazard ratios with runnable Python Code throughout
+The post Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ananya Bhattacharyya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parse the Folder, Not Just the PDFs: The Relational Tables RAG Needs on a Case File]]></title>
+        <id>https://towardsdatascience.com/?p=610750</id>
+        <link href="https://towardsdatascience.com/parse-the-folder-not-just-the-pdfs-the-relational-tables-rag-needs-on-a-case-file/"/>
+        <updated>2026-08-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #14D] - The index lists what the case type demands before any folder is opened, and the two questions worth building for are not retrieval questions at all
+The post Parse the Folder, Not Just the PDFs: The Relational Tables RAG Needs on a Case File appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spec-Driven Development with Claude Code: Writing Bulletproof Specs]]></title>
+        <id>https://www.analyticsvidhya.com/?p=257093</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/spec-driven-development-claude-code/"/>
+        <updated>2026-08-23T13:02:40.000Z</updated>
+        <summary type="html"><![CDATA[I have written enough specs for Claude Code now to have hit the failure mode nobody warns you about.  The spec was fine. The plan was fine. Claude worked through the tasks, ran the test suite, and reported everything passing. I looked at the diff properly the next morning and found it had converted a […]
+The post Spec-Driven Development with Claude Code: Writing Bulletproof Specs appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sree Vamsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Detection Blind Spots in AI Coding Harnesses (GStack and Beyond)]]></title>
+        <id>https://towardsdatascience.com/?p=610725</id>
+        <link href="https://towardsdatascience.com/bug-detection-blind-spots-in-ai-coding-harnesses-gstack-and-beyond/"/>
+        <updated>2026-08-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[28 debugging experiments reveal that AI struggles less with complexity than with missing information.
+The post Bug Detection Blind Spots in AI Coding Harnesses (GStack and Beyond) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nhu Hoang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Proper Backend for My LangGraph AI Agent]]></title>
         <id>https://towardsdatascience.com/?p=610733</id>
@@ -3202,120 +3246,6 @@ The post Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To app
 The post Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic Systems]]></title>
-        <id>https://machinelearningmastery.com/?p=24731</id>
-        <link href="https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/"/>
-        <updated>2026-07-24T12:44:38.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how an agent's approach to managing state — stateless or stateful — shapes both its implementation and the deployment...]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context Windows Forget What Matters — I Built a Usage-Reinforced Decay Engine for AI Agent Memory]]></title>
-        <id>https://towardsdatascience.com/?p=610045</id>
-        <link href="https://towardsdatascience.com/context-windows-forget-what-matters-i-used-a-140-year-old-psychology-paper-to-fix-ai-memory/"/>
-        <updated>2026-07-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most AI memory systems keep the newest information—not the most important. Here's how I used the Ebbinghaus forgetting curve to build a better memory engine for LLMs.
-The post Context Windows Forget What Matters — I Built a Usage-Reinforced Decay Engine for AI Agent Memory appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenge: Hand coding weights for efficient sequence memorisation]]></title>
-        <id>KWtchKwwnJkd4bwCi</id>
-        <link href="https://www.alignmentforum.org/posts/KWtchKwwnJkd4bwCi/challenge-hand-coding-weights-for-efficient-sequence-1"/>
-        <updated>2026-07-23T18:05:43.000Z</updated>
-        <summary type="html"><![CDATA[We hand coded weights for one layer MLPs that memorises labels for input token sequences of length two. The number of facts our hand-coded models can memorise with 90% accuracy[1]scales roughly linearly with the models' parameter count[2], just like trained models for the same architecture. However, our hand-coded models' scaling prefactor still falls short of trained models' by a factor of 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mjx-math {
-  display: inline-block;
-  text-align: left;
-  line-height: 0;
-  text-indent: 0;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 100%;
-  font-size-adjust: none;
-  letter-spacing: normal;
-  border-collapse: collapse;
-  word-wrap: normal;
-  word-spacing: normal;
-  white-space: nowrap;
-  direction: ltr;
-  padding: 1px 0;
-}
-
-mjx-container[jax="CHTML"][display="true…]]></summary>
-        <author>
-            <name>Linda Linsefors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering]]></title>
-        <id>6a624877953fb9a0375f9238</id>
-        <link href="https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/"/>
-        <updated>2026-07-23T16:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Imagine your team deployed Prompt A globally two weeks ago. Tight deadlines and high confidence meant the rollout hit 100 percent of users without any A/B testing, shadow traffic, or holdout groups. W]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Data Science Makes Us Sad: The Story of an Overbooked Flight]]></title>
-        <id>https://towardsdatascience.com/?p=610036</id>
-        <link href="https://towardsdatascience.com/when-data-science-makes-us-sad-the-story-of-an-overbooked-flight/"/>
-        <updated>2026-07-23T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[$8 million vs $5k + Potentially Going Viral
-The post When Data Science Makes Us Sad: The Story of an Overbooked Flight appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Soner Yıldırım</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract]]></title>
-        <id>https://towardsdatascience.com/?p=610032</id>
-        <link href="https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/"/>
-        <updated>2026-07-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #8ter] - Naming the RAG error correctly matters: model reads the context, so a wrong answer is an extraction error, not a hallucination. Seven typed-contract patterns keep the generation brick honest, with a decomposition rule for small models
-The post Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons Learned After 8.5 Years of ML]]></title>
-        <id>https://towardsdatascience.com/?p=610031</id>
-        <link href="https://towardsdatascience.com/lessons-learned-after-8-5-years-of-ml/"/>
-        <updated>2026-07-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Patience, Optimism, Discipline, Projects, Teams
-The post Lessons Learned After 8.5 Years of ML appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pascal Janetzky</name>
         </author>
     </entry>
 </feed>
