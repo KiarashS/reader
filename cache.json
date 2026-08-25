@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=610754",
+          "author": "Shuai Guo",
+          "description": "Understanding Codex hooks\nThe post Put Your Own Logic Inside the Codex Agentic Loop appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/",
+          "publishedOn": "2026-08-24T18:00:00.000Z",
+          "wordCount": 4347,
+          "title": "Put Your Own Logic Inside the Codex Agentic Loop",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Codex_hooks.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610752",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #M3] - The ten positions the series argues from, and the map of every article that argues them\nThe post 10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/10-positions-for-enterprise-rag-that-mainstream-tutorials-get-wrong/",
+          "publishedOn": "2026-08-24T16:30:00.000Z",
+          "wordCount": 7718,
+          "title": "10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/nautical_chart_flatlay_31805295_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610744",
+          "author": "Anubhab Banerjee",
+          "description": "Most LLM inference runtimes have no idea a physical deadline exists. This one refuses admission rather than miss a 33ms robot control cycle, evicts KV cache by meaning instead of age, and is written entirely in hand-written CUDA — no cuBLAS, no libtorch.\nThe post Can an LLM Forget the Right Things? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-an-llm-forget-the-right-things/",
+          "publishedOn": "2026-08-24T15:00:00.000Z",
+          "wordCount": 7707,
+          "title": "Can an LLM Forget the Right Things?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/featured_image_phyai.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610740",
+          "author": "Ehssan Khan",
+          "description": "Speculative decoding can turn underused CPU compute into faster token generation, without changing the model's output. In our vLLM tests, DFlash delivered 3.92x the autoregressive throughput with Qwen3.5-9B on Intel Xeon 6 at concurrency 1. We break down where the speedup comes from, explain the acceptance metrics, and show what determines whether speculation pays off.\nThe post Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/speculative-decoding-on-cpus-nearly-4x-faster-token-generation-with-dflash/",
+          "publishedOn": "2026-08-24T13:30:00.000Z",
+          "wordCount": 4820,
+          "title": "Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/featured-image.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610738",
+          "author": "Emmimal P Alexander",
+          "description": "AI agents don’t just have a context problem—they have a context typing problem. When instructions, memory, retrieved evidence, and tool outputs are flattened into one string, their semantic boundaries can disappear. I built a lightweight, zero-dependency Python runtime that keeps those boundaries explicit, tracks provenance, and rejects invalid context transformations before they reach the model. This article walks through the implementation, tests, and what this approach does—and does not—guarantee.\nThe post AI Agents Don’t Need More Context — They Need Typed Context appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/",
+          "publishedOn": "2026-08-24T12:00:00.000Z",
+          "wordCount": 8399,
+          "title": "AI Agents Don’t Need More Context — They Need Typed Context",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/AI-Agents-Dont-Need-More-Context.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=610734",
           "author": "Ananya Bhattacharyya",
           "description": "From Kaplan-Meier curves to hazard ratios with runnable Python Code throughout\nThe post Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide appeared first on Towards Data Science.",
@@ -1060,46 +1110,6 @@
           "wordCount": 5101,
           "title": "How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Screenshot-2026-07-19-at-12.46.27-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610057",
-          "author": "Ferran Alia",
-          "description": "I generated a Kármán vortex street without solving a single fluid equation. Here's how the Lattice Boltzmann Method gets there instead, derived from first principles, implemented in C++, and run on a supercomputer.\nThe post The Fluid Simulator That Doesn’t Solve the Fluid Equations appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/",
-          "publishedOn": "2026-07-25T13:00:00.000Z",
-          "wordCount": 5456,
-          "title": "The Fluid Simulator That Doesn’t Solve the Fluid Equations",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Gemini_Generated_Image_h98etrh98etrh98e.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610047",
-          "author": "Sean Moran",
-          "description": "Tabular foundation models predict the missing column of any spreadsheet zero-shot, the way an LLM completes text — and on the TabArena benchmark they now sit above fully tuned gradient-boosted trees. An introduction to how they work, an independent reproduction of the strongest open one, and a map of where XGBoost still wins.\nThe post Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/",
-          "publishedOn": "2026-07-24T16:30:00.000Z",
-          "wordCount": 7859,
-          "title": "Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/architecture-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610049",
-          "author": "Thomas Reid",
-          "description": "Automating the classification and extraction of PII from emails using AWS\nThe post Build and Run an Intelligent Document Processing (IDP) System in the Cloud appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/",
-          "publishedOn": "2026-07-24T15:00:00.000Z",
-          "wordCount": 5491,
-          "title": "Build and Run an Intelligent Document Processing (IDP) System in the Cloud",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/1_RurwGGGw2TXjPrXRLBdnnA.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610034",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #8quater] - Two angles on the cascade, cost and a validation loop, backed by a real sweep of twenty local models against a hosted flagship\nThe post Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/",
-          "publishedOn": "2026-07-24T13:30:00.000Z",
-          "wordCount": 5495,
-          "title": "Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/cascade_overrocks_Y0RX9JMbA4c_card.jpg"
         }
       ]
     },
@@ -1108,6 +1118,66 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=24921",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn three practical strategies for managing small context windows in large language models, along with working Python examples that demonstrate...",
+          "link": "https://machinelearningmastery.com/managing-small-context-windows-in-language-models/",
+          "publishedOn": "2026-08-18T12:00:20.000Z",
+          "wordCount": 9046,
+          "title": "Managing Small Context Windows in Language Models",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-managing-small-context-windows-in-language-models-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24836",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn seven concrete regression tests for catching the orchestration-layer failure modes that matter most before deploying an AI agent to...",
+          "link": "https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/",
+          "publishedOn": "2026-08-17T12:00:15.000Z",
+          "wordCount": 8889,
+          "title": "7 Regression Tests Every AI Agent Should Pass Before Deploy",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-7-regression-tests-every-ai-agent-should-pass-before-deploy-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24863",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn what latent spaces are and how they serve three distinct roles — descriptive, generative, and predictive — across a...",
+          "link": "https://machinelearningmastery.com/understanding-the-role-of-latent-space-in-machine-learning-models/",
+          "publishedOn": "2026-08-14T12:00:23.000Z",
+          "wordCount": 8554,
+          "title": "Understanding the Role of Latent Space in Machine Learning Models",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-understanding-the-role-of-latent-space-in-machine-learning-models-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24896",
+          "author": "Bala Priya C",
+          "description": "In this article, you will learn the conceptual and practical differences between retrieval and memory in agentic AI systems, and how to combine both effectively....",
+          "link": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
+          "publishedOn": "2026-08-12T12:00:35.000Z",
+          "wordCount": 8921,
+          "title": "Retrieval vs. Memory in Agentic AI Systems",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/bala-mlm-retrieval-vs-memory.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24844",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn seven async patterns for running AI agents concurrently in Python, what each pattern is suited for, and the production-level...",
+          "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
+          "publishedOn": "2026-08-11T12:00:35.000Z",
+          "wordCount": 8516,
+          "title": "7 Async Patterns for Running Agents Concurrently in Python",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-7-async-patterns-running-agents-concurrently-python-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24876",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how prompt caching and fine-tuning differ as strategies for reducing cost and latency in agentic AI systems, and how...",
+          "link": "https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/",
+          "publishedOn": "2026-08-10T12:00:54.000Z",
+          "wordCount": 8432,
+          "title": "Prompt Caching vs. Fine-Tuning: A Cost and Latency Decision Framework",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework-feature.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=24816",
           "author": "Vinod Chugani",
@@ -1765,24 +1835,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "90835a36-8763-11f1-acfb-27f6b878a121",
-          "author": null,
-          "description": "Kim de Groh and Sylvie Crowell review what researchers have learned and published from the Materials International Space Station Experiment (MISSE) platform that tests how materials perform in the harsh environment of space.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-materials-science/",
-          "publishedOn": "2026-07-24T13:34:00.000Z",
-          "wordCount": null,
-          "title": "ISS Results: Materials Science",
-          "itunes": {
-            "duration": "2973"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9215033298.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1988,6 +2040,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=256969",
+          "author": "Riya Bansal",
+          "description": "Moonshot AI’s Kimi K3 is a 2.8-trillion-parameter open-weight model built with a Mixture-of-Experts architecture. It activates only a small fraction of its parameters per token, helping reduce inference costs while delivering strong coding and agentic performance. K3 combines near-frontier capabilities, open weights, and lower API pricing, making it an interesting alternative to proprietary models. In […]\nThe post How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/",
+          "publishedOn": "2026-08-24T12:22:57.000Z",
+          "wordCount": null,
+          "title": "How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257093",
           "author": "Sree Vamsi",
@@ -2284,17 +2347,6 @@
           "title": "A Complete Guide to AI Red-Teaming (With Garak Tutorial)",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256549",
-          "author": "Sree Vamsi",
-          "description": "For months, Claude Code has been the go to terminal coding agent for developers. Then Grok Build arrived in beta on May 14, 2026, giving developers a second serious option and raising a new question: which one actually performs better? I tested both agents on the same real world coding tasks using identical prompts to […]\nThe post Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/07/claude-code-vs-grok-build-cli/",
-          "publishedOn": "2026-07-24T14:25:40.000Z",
-          "wordCount": null,
-          "title": "Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2350,6 +2402,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/gpt-5-6-in-kiro",
+          "author": null,
+          "description": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "link": "https://openai.com/index/gpt-5-6-in-kiro",
+          "publishedOn": "2026-08-24T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-ai-futures",
           "author": null,
@@ -3205,16 +3267,6 @@
           "wordCount": 41091,
           "title": "RL & search is a terrifying way to build AGI (an FAQ)",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/KHyBocZncAmtu4Jbc/d1dm4kiw6exlywv3k6ky"
-        },
-        {
-          "id": "2iCmDWewnZWQxxwtt",
-          "author": "Wei Dai",
-          "description": "I propose the Long Self-Correction[1] as an alternative name/idea/concept to AI Pause and Long Reflection.\nProblem with AI Pause: Pause until when, and for what purpose? Presumably to make AI (that we'll build later) safer, but the deeper problem is that humans aren't safe, and can't safely serve as builders, overseers, or alignment targets for powerful AIs.\nProblem with Long Reflection: It seems to imply that the main problem with humans is that we just haven't had enough time to think, that reflection is the main thing we need to do more of, and then we can get on with building powerful AIs or other technologies. Or that if we build aligned AIs that sincerely help us think a lot more, or do the thinking for us, then things will turn out fine.\nSo I think we need a catchy handle for a rela…",
-          "link": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
-          "publishedOn": "2026-07-24T21:01:47.000Z",
-          "wordCount": 18485,
-          "title": "The Long (Self-)Correction",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }

@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-24T01:04:53.590Z</updated>
+    <updated>2026-08-25T01:03:34.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Put Your Own Logic Inside the Codex Agentic Loop]]></title>
+        <id>https://towardsdatascience.com/?p=610754</id>
+        <link href="https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/"/>
+        <updated>2026-08-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Codex hooks
+The post Put Your Own Logic Inside the Codex Agentic Loop appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong]]></title>
+        <id>https://towardsdatascience.com/?p=610752</id>
+        <link href="https://towardsdatascience.com/10-positions-for-enterprise-rag-that-mainstream-tutorials-get-wrong/"/>
+        <updated>2026-08-24T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #M3] - The ten positions the series argues from, and the map of every article that argues them
+The post 10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can an LLM Forget the Right Things?]]></title>
+        <id>https://towardsdatascience.com/?p=610744</id>
+        <link href="https://towardsdatascience.com/can-an-llm-forget-the-right-things/"/>
+        <updated>2026-08-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most LLM inference runtimes have no idea a physical deadline exists. This one refuses admission rather than miss a 33ms robot control cycle, evicts KV cache by meaning instead of age, and is written entirely in hand-written CUDA — no cuBLAS, no libtorch.
+The post Can an LLM Forget the Right Things? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anubhab Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash]]></title>
+        <id>https://towardsdatascience.com/?p=610740</id>
+        <link href="https://towardsdatascience.com/speculative-decoding-on-cpus-nearly-4x-faster-token-generation-with-dflash/"/>
+        <updated>2026-08-24T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Speculative decoding can turn underused CPU compute into faster token generation, without changing the model's output. In our vLLM tests, DFlash delivered 3.92x the autoregressive throughput with Qwen3.5-9B on Intel Xeon 6 at concurrency 1. We break down where the speedup comes from, explain the acceptance metrics, and show what determines whether speculation pays off.
+The post Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ehssan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model]]></title>
+        <id>https://www.analyticsvidhya.com/?p=256969</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/kimi-k3-explained/"/>
+        <updated>2026-08-24T12:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Moonshot AI’s Kimi K3 is a 2.8-trillion-parameter open-weight model built with a Mixture-of-Experts architecture. It activates only a small fraction of its parameters per token, helping reduce inference costs while delivering strong coding and agentic performance. K3 combines near-frontier capabilities, open weights, and lower API pricing, making it an interesting alternative to proprietary models. In […]
+The post How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Riya Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Don’t Need More Context — They Need Typed Context]]></title>
+        <id>https://towardsdatascience.com/?p=610738</id>
+        <link href="https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/"/>
+        <updated>2026-08-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI agents don’t just have a context problem—they have a context typing problem. When instructions, memory, retrieved evidence, and tool outputs are flattened into one string, their semantic boundaries can disappear. I built a lightweight, zero-dependency Python runtime that keeps those boundaries explicit, tracks provenance, and rejects invalid context transformations before they reach the model. This article walks through the implementation, tests, and what this approach does—and does not—guarantee.
+The post AI Agents Don’t Need More Context — They Need Typed Context appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancing price-performance for developers with GPT‑5.6 in Kiro]]></title>
+        <id>https://openai.com/index/gpt-5-6-in-kiro</id>
+        <link href="https://openai.com/index/gpt-5-6-in-kiro"/>
+        <updated>2026-08-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide]]></title>
         <id>https://towardsdatascience.com/?p=610734</id>
@@ -482,6 +558,16 @@ The post Graph Engineering Isn’t About More Connections — It’s About Which
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Managing Small Context Windows in Language Models]]></title>
+        <id>https://machinelearningmastery.com/?p=24921</id>
+        <link href="https://machinelearningmastery.com/managing-small-context-windows-in-language-models/"/>
+        <updated>2026-08-18T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn three practical strategies for managing small context windows in large language models, along with working Python examples that demonstrate...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ten Is Not a Hundred]]></title>
         <id>https://towardsdatascience.com/?p=610632</id>
         <link href="https://towardsdatascience.com/ten-is-not-a-hundred/"/>
@@ -660,6 +746,16 @@ The post How to Perform Effective Project Management with AI appeared first on T
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7 Regression Tests Every AI Agent Should Pass Before Deploy]]></title>
+        <id>https://machinelearningmastery.com/?p=24836</id>
+        <link href="https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/"/>
+        <updated>2026-08-17T12:00:15.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn seven concrete regression tests for catching the orchestration-layer failure modes that matter most before deploying an AI agent to...]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline]]></title>
         <id>https://towardsdatascience.com/?p=610621</id>
         <link href="https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/"/>
@@ -828,6 +924,16 @@ The post My Model Was Cheating on Its Own Test appeared first on Towards Data Sc
         <summary type="html"><![CDATA[Former NASA flight director Gene Kranz reflects on his career, leadership, legacy, and lessons for the future of human space exploration. Episode 433]]></summary>
         <author>
             <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Role of Latent Space in Machine Learning Models]]></title>
+        <id>https://machinelearningmastery.com/?p=24863</id>
+        <link href="https://machinelearningmastery.com/understanding-the-role-of-latent-space-in-machine-learning-models/"/>
+        <updated>2026-08-14T12:00:23.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn what latent spaces are and how they serve three distinct roles — descriptive, generative, and predictive — across a...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -1053,6 +1159,16 @@ The post Building Multimodal Workflows with a Local LLM appeared first on Toward
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Retrieval vs. Memory in Agentic AI Systems]]></title>
+        <id>https://machinelearningmastery.com/?p=24896</id>
+        <link href="https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/"/>
+        <updated>2026-08-12T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn the conceptual and practical differences between retrieval and memory in agentic AI systems, and how to combine both effectively....]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Place Vertiport Locations in Any City Using Geospatial Machine Learning]]></title>
         <id>https://towardsdatascience.com/?p=610571</id>
         <link href="https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/"/>
@@ -1247,6 +1363,16 @@ The post Claude Now Watermarks Everything It Makes appeared first on Analytics V
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7 Async Patterns for Running Agents Concurrently in Python]]></title>
+        <id>https://machinelearningmastery.com/?p=24844</id>
+        <link href="https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/"/>
+        <updated>2026-08-11T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn seven async patterns for running AI agents concurrently in Python, what each pattern is suited for, and the production-level...]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can a Local LLM Run My AI Assistant?]]></title>
         <id>https://towardsdatascience.com/?p=610509</id>
         <link href="https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/"/>
@@ -1437,6 +1563,16 @@ The post Variational Autoencoders (VAEs) Explained: From Theory to ELBO and the 
         <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
         <author>
             <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Caching vs. Fine-Tuning: A Cost and Latency Decision Framework]]></title>
+        <id>https://machinelearningmastery.com/?p=24876</id>
+        <link href="https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/"/>
+        <updated>2026-08-10T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how prompt caching and fine-tuning differ as strategies for reducing cost and latency in agentic AI systems, and how...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -3168,84 +3304,6 @@ The post A Complete Guide to AI Red-Teaming (With Garak Tutorial) appeared first
 The post How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Oleg Tereshin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fluid Simulator That Doesn’t Solve the Fluid Equations]]></title>
-        <id>https://towardsdatascience.com/?p=610057</id>
-        <link href="https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/"/>
-        <updated>2026-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I generated a Kármán vortex street without solving a single fluid equation. Here's how the Lattice Boltzmann Method gets there instead, derived from first principles, implemented in C++, and run on a supercomputer.
-The post The Fluid Simulator That Doesn’t Solve the Fluid Equations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ferran Alia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Long (Self-)Correction]]></title>
-        <id>2iCmDWewnZWQxxwtt</id>
-        <link href="https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2"/>
-        <updated>2026-07-24T21:01:47.000Z</updated>
-        <summary type="html"><![CDATA[I propose the Long Self-Correction[1] as an alternative name/idea/concept to AI Pause and Long Reflection.
-Problem with AI Pause: Pause until when, and for what purpose? Presumably to make AI (that we'll build later) safer, but the deeper problem is that humans aren't safe, and can't safely serve as builders, overseers, or alignment targets for powerful AIs.
-Problem with Long Reflection: It seems to imply that the main problem with humans is that we just haven't had enough time to think, that reflection is the main thing we need to do more of, and then we can get on with building powerful AIs or other technologies. Or that if we build aligned AIs that sincerely help us think a lot more, or do the thinking for us, then things will turn out fine.
-So I think we need a catchy handle for a rela…]]></summary>
-        <author>
-            <name>Wei Dai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet]]></title>
-        <id>https://towardsdatascience.com/?p=610047</id>
-        <link href="https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/"/>
-        <updated>2026-07-24T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Tabular foundation models predict the missing column of any spreadsheet zero-shot, the way an LLM completes text — and on the TabArena benchmark they now sit above fully tuned gradient-boosted trees. An introduction to how they work, an independent reproduction of the strongest open one, and a map of where XGBoost still wins.
-The post Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Run an Intelligent Document Processing (IDP) System in the Cloud]]></title>
-        <id>https://towardsdatascience.com/?p=610049</id>
-        <link href="https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/"/>
-        <updated>2026-07-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Automating the classification and extraction of PII from emails using AWS
-The post Build and Run an Intelligent Document Processing (IDP) System in the Cloud appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To]]></title>
-        <id>https://www.analyticsvidhya.com/?p=256549</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/07/claude-code-vs-grok-build-cli/"/>
-        <updated>2026-07-24T14:25:40.000Z</updated>
-        <summary type="html"><![CDATA[For months, Claude Code has been the go to terminal coding agent for developers. Then Grok Build arrived in beta on May 14, 2026, giving developers a second serious option and raising a new question: which one actually performs better? I tested both agents on the same real world coding tasks using identical prompts to […]
-The post Grok Build CLI vs Claude Code: I Tested Both So You Don’t Have To appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sree Vamsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISS Results: Materials Science]]></title>
-        <id>90835a36-8763-11f1-acfb-27f6b878a121</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-materials-science/"/>
-        <updated>2026-07-24T13:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Kim de Groh and Sylvie Crowell review what researchers have learned and published from the Materials International Space Station Experiment (MISSE) platform that tests how materials perform in the harsh environment of space.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship]]></title>
-        <id>https://towardsdatascience.com/?p=610034</id>
-        <link href="https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/"/>
-        <updated>2026-07-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #8quater] - Two angles on the cascade, cost and a validation loop, backed by a real sweep of twenty local models against a hosted flagship
-The post Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
         </author>
     </entry>
 </feed>
