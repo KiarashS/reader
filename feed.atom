@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-26T01:03:41.751Z</updated>
+    <updated>2026-08-27T07:04:31.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident]]></title>
+        <id>nB8KKapnWGBXtKKiM</id>
+        <link href="https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning"/>
+        <updated>2026-08-26T19:40:21.000Z</updated>
+        <summary type="html"><![CDATA[We recently published the report from our brief independent investigation into this incident. You can read the full report here.
+Here is our tweet thread summarizing what we found:
+METR & Redwood Research investigated agent behavior in the Hugging Face incident. We found agents developed a universal cheat for ExploitGym within 4 hours, then coordinated multi-day R&D efforts to trick the scorer into accepting cheats, including trying to tamper with logs.
+
+Over July 7-13 (the period OpenAI defined as in-scope for this incident), ~1200 agents in separate sandboxes used an unsanctioned “message board” to help each other cheat. The Hugging Face attack was an offshoot of this, and 700 agents joined.
+
+Here we highlight key events from agent transcripts & messages.
+An agent that named itself PHASE…]]></summary>
+        <author>
+            <name>ryan_greenblatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the AI Project Cycle: From Concept to Production]]></title>
+        <id>https://www.analyticsvidhya.com/?p=257135</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/08/ai-project-cycle-guide/"/>
+        <updated>2026-08-26T12:39:52.000Z</updated>
+        <summary type="html"><![CDATA[In fact, AI projects are not built by simply choosing a model and feeding it data. Furthermore, a successful AI system goes through multiple stages, starting with identifying the right problem and ending with deployment, monitoring, and continuous improvement. This structured journey is known as the AI Project Cycle. It helps teams move from an […]
+The post Mastering the AI Project Cycle: From Concept to Production appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a RAG Reranker Really Work?]]></title>
+        <id>https://towardsdatascience.com/?p=680587</id>
+        <link href="https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/"/>
+        <updated>2026-08-26T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #2D] - What data scientists say when asked, what the model actually does under the hood, and why the honest answer changes your architecture decisions in enterprise RAG
+The post How Does a RAG Reranker Really Work? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]></title>
+        <id>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</id>
+        <link href="https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"/>
+        <updated>2026-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning never stops: How AI makes learning continuous]]></title>
+        <id>https://openai.com/index/learning-never-stops</id>
+        <link href="https://openai.com/index/learning-never-stops"/>
+        <updated>2026-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Effectively Solve 100+ Tasks with Claude Code]]></title>
+        <id>https://towardsdatascience.com/?p=680327</id>
+        <link href="https://towardsdatascience.com/how-to-effectively-solve-100-tasks-with-claude-code/"/>
+        <updated>2026-08-26T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Work more effectively with your coding agents
+The post How to Effectively Solve 100+ Tasks with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Random Forest Needs to Be This Random]]></title>
+        <id>https://towardsdatascience.com/?p=676370</id>
+        <link href="https://towardsdatascience.com/why-random-forest-needs-to-be-this-random/"/>
+        <updated>2026-08-26T07:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Bagging hits a wall no amount of trees can break — here's the equation that explains why, and the experiment that proves it
+The post Why Random Forest Needs to Be This Random appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Spyros Georgopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Agentic AI Just Automation?]]></title>
+        <id>https://towardsdatascience.com/?p=680233</id>
+        <link href="https://towardsdatascience.com/is-agentic-ai-just-automation/"/>
+        <updated>2026-08-26T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Why most agents are just flowcharts in disguise, and what to build instead.
+The post Is Agentic AI Just Automation? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Prashant Mudgal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Format Your TDS Draft: A New and Improved Guide]]></title>
+        <id>https://towardsdatascience.com/how-to-format-your-tds-draft-a-new-and-improved-guide/</id>
+        <link href="https://towardsdatascience.com/how-to-format-your-tds-draft-a-new-and-improved-guide/"/>
+        <updated>2026-08-26T01:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know about creating a draft on our Contributor Portal
+The post How to Format Your TDS Draft: A New and Improved Guide appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers]]></title>
+        <id>https://huggingface.co/blog/train-multi-vector-encoder</id>
+        <link href="https://huggingface.co/blog/train-multi-vector-encoder"/>
+        <updated>2026-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hugging Face incident and the road ahead]]></title>
+        <id>https://openai.com/index/hugging-face-incident-and-the-road-ahead</id>
+        <link href="https://openai.com/index/hugging-face-incident-and-the-road-ahead"/>
+        <updated>2026-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How loveholidays is making everyone a builder with Codex]]></title>
+        <id>https://openai.com/index/loveholidays</id>
+        <link href="https://openai.com/index/loveholidays"/>
+        <updated>2026-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Towards Data Science: A Faster Site and a Brand-New Contributor Portal]]></title>
         <id>https://towardsdatascience.com/a-new-towards-data-science-a-faster-site-and-a-brand-new-contributor-portal/</id>
@@ -550,6 +683,16 @@ The post How to Fine-Tune an LLM: An End-to-End Guide appeared first on Towards 
 The post Making the Knowledge Layer a Graph You Actually Traverse appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Miodrag Cekikj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Intelligence Age]]></title>
+        <id>https://openai.com/index/introducing-intelligence-age</id>
+        <link href="https://openai.com/index/introducing-intelligence-age"/>
+        <updated>2026-08-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -3273,124 +3416,6 @@ The post Graph Engineering for AI Agents: Beyond the Single-Agent Loop appeared 
         <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
         <author>
             <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Los Movimientos”: The Routing Problem That Nearly Broke My Spirit]]></title>
-        <id>https://towardsdatascience.com/?p=610098</id>
-        <link href="https://towardsdatascience.com/los-movimientos-the-routing-problem-that-nearly-broke-my-spirit-2/"/>
-        <updated>2026-07-27T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using mathematical optimization to solve a pickup-and-delivery problem with time windows.
-The post “Los Movimientos”: The Routing Problem That Nearly Broke My Spirit appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Luis Fernando Pérez Armas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing Human Annotation with ML Active Learning]]></title>
-        <id>https://towardsdatascience.com/?p=610081</id>
-        <link href="https://towardsdatascience.com/reducing-human-annotation-with-ml-active-learning/"/>
-        <updated>2026-07-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a world where human time is expensive, learn how to use it only when really necessary
-The post Reducing Human Annotation with ML Active Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Lucas Braga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RL & search is a terrifying way to build AGI (an FAQ)]]></title>
-        <id>KHyBocZncAmtu4Jbc</id>
-        <link href="https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq"/>
-        <updated>2026-07-27T14:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Q1: What are you saying?
-A: My claim here is that if you build artificial general intelligence (AGI) via any algorithm that’s choosing actions via reinforcement learning (RL) and/or model-based search and planning—a giant chunk of your AI textbook—then that’s just an utterly terrifying thing that you’re doing. You’re playing around with algorithms that, if they work at all, would tend to create ruthless, callous AGIs, AGIs which would happily exterminate humanity and run the world by themselves, given an opportunity.
-Mercifully, large language models (LLMs) today are not in the category of “algorithms that choose actions via RL & search”. At least, not primarily—see LLMs are (still) mostly powered by imitative learning, not RL. So LLMs are outside the scope of this post. However, lots of o…]]></summary>
-        <author>
-            <name>Steven Byrnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Beautiful Statistic: The History and the Science of the Humble Mean]]></title>
-        <id>https://towardsdatascience.com/?p=610072</id>
-        <link href="https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean/"/>
-        <updated>2026-07-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The mean keeps making its usefulness felt in all sorts of situations, often in truly non-obvious ways
-The post The Most Beautiful Statistic: The History and the Science of the Humble Mean appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sachin Date</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Opus 5: Near-Frontier Intelligence, On a Dial]]></title>
-        <id>https://www.analyticsvidhya.com/?p=256567</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/07/claude-opus-5-hands-on-review/"/>
-        <updated>2026-07-27T12:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic has released Claude Opus 5. The fourth model in two months, if you are keeping count. Most people are not. This one matters more than the count suggests. Opus is the workhorse tier, the model that does the actual paid work, and it just got a step change rather than a bump. Anthropic’s own […]
-The post Claude Opus 5: Near-Frontier Intelligence, On a Dial appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Architectural Patterns for Persistent Memory and State in AI Agents]]></title>
-        <id>https://machinelearningmastery.com/?p=24766</id>
-        <link href="https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/"/>
-        <updated>2026-07-27T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Memory & State For AI Agents Building an AI agent can be tricky. Keeping it on track over a six-month deployment is incredibly hard. LLMs...]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook]]></title>
-        <id>https://towardsdatascience.com/?p=610070</id>
-        <link href="https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/"/>
-        <updated>2026-07-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical reproduction of three retrieval baselines, including the crashes, fixes, and score checks that matter for RAG systems.
-The post How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Abdullahi Dattijo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics]]></title>
-        <id>https://huggingface.co/blog/nvidia/cosmos-h-dreams</id>
-        <link href="https://huggingface.co/blog/nvidia/cosmos-h-dreams"/>
-        <updated>2026-07-27T09:32:20.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI is expanding what people do at work]]></title>
-        <id>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</id>
-        <link href="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"/>
-        <updated>2026-07-27T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident]]></title>
-        <id>https://huggingface.co/blog/agent-intrusion-technical-timeline</id>
-        <link href="https://huggingface.co/blog/agent-intrusion-technical-timeline"/>
-        <updated>2026-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Efficiently Prompt Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=610068</id>
-        <link href="https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/"/>
-        <updated>2026-07-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maximize your efficiency with Claude Code
-The post How to Efficiently Prompt Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
         </author>
     </entry>
     <entry>
