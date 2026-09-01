@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
+          "author": "Benjamin Nweke",
+          "description": "What I learned after thinking more carefully about Structured Outputs on messy, incomplete data\nThe post Your LLM Can Return Perfect JSON and Still Be Wrong appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
+          "publishedOn": "2026-08-31T15:30:01.000Z",
+          "wordCount": 4237,
+          "title": "Your LLM Can Return Perfect JSON and Still Be Wrong",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787701093191_a7jk3n.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=680988",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #B2] - The FAQ inverts every brick of the standard RAG pipeline. Parsing is trivial, retrieval doubles as a cache, and few-shot prompting becomes a retrieval problem too\nThe post FAQ as RAG: When You Get to Design the Corpus appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/",
+          "publishedOn": "2026-08-31T14:00:02.000Z",
+          "wordCount": 9089,
+          "title": "FAQ as RAG: When You Get to Design the Corpus",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/envelopes_toQNPpuDuwI_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
+          "author": "Tahreem Rasul",
+          "description": "A framework for building RAG pipelines that introduces complexity in response to observed failure modes, from lexical and hybrid search to reranking and agentic information seeking\nThe post Why RAG Complexity Should Be Earned appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
+          "publishedOn": "2026-08-31T12:30:01.000Z",
+          "wordCount": 8655,
+          "title": "Why RAG Complexity Should Be Earned",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787691245458_3eu6qi.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=681811",
+          "author": "Mostafa Ibrahim",
+          "description": "The five MLOps monitoring assumptions agents break, and which inherited signals now pass failed runs as healthy.\nThe post AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/",
+          "publishedOn": "2026-08-31T11:00:01.000Z",
+          "wordCount": 5108,
+          "title": "AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/cover-image.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=680831",
           "author": "Payal Patel",
           "description": "Quick and simple tips to help you write better agent instructions\nThe post 8 Tips for Writing Effective Agent Instructions appeared first on Towards Data Science.",
@@ -1100,36 +1140,6 @@
           "wordCount": 4206,
           "title": "I Replaced a 15-Minute Booking Process with a LangGraph AI Agent",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/towfiqu-barbhuiya-9gPKrsbGmc-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610231",
-          "author": "Emmimal P Alexander",
-          "description": "Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mid-task. What looks like “forgetting” is usually just degraded context. This article explores a different approach: treating prompt construction like a compiler that decides what to keep, what to reduce, and what to discard entirely.\nThe post Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/",
-          "publishedOn": "2026-08-01T15:00:00.000Z",
-          "wordCount": 5843,
-          "title": "Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Context-Compiler.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610229",
-          "author": "Shuai Guo",
-          "description": "A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior\nThe post Put the Agent Inside the Workflow appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/put-the-agent-inside-the-workflow/",
-          "publishedOn": "2026-08-01T13:00:00.000Z",
-          "wordCount": 4526,
-          "title": "Put the Agent Inside the Workflow",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/workflow_agent_hybrid.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610227",
-          "author": "Priyansh Bhardwaj",
-          "description": "How a seemingly harmless move to a multi-agent architecture quietly tripled our LLM costs and what actually fixed it.\nThe post The 3× Token Bill We Didn’t See Coming appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/",
-          "publishedOn": "2026-07-31T16:30:00.000Z",
-          "wordCount": 4791,
-          "title": "The 3× Token Bill We Didn’t See Coming",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/article7.jpg"
         }
       ]
     },
@@ -1615,6 +1625,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+          "author": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
+          "description": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.\nThe post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+          "publishedOn": "2026-08-31T16:00:00.000Z",
+          "wordCount": 5158,
+          "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-TWLIFB-1200x627_NEW.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/research/?p=1184167",
           "author": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
           "description": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. \nThe post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.",
@@ -1948,6 +1968,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=41279",
+          "author": "Sujana Urs",
+          "description": "Explore how to evaluate conversational AI agents across complete interactions and identify failures that single-turn testing consistently misses.\nThe post Multi-Turn Evaluation for Conversational Agents: What Single-Turn Testing Consistently Gets  Wrong appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/multi-turn-evaluation-for-conversational-agents-what-single-turn-testing-consistently-gets-wrong/",
+          "publishedOn": "2026-08-31T10:42:19.000Z",
+          "wordCount": 3849,
+          "title": "Multi-Turn Evaluation for Conversational Agents: What Single-Turn Testing Consistently Gets  Wrong",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Multi-Turn-Evaluation-for-Conversational-Agents.png"
+        },
         {
           "id": "https://imerit.ai/?p=41239",
           "author": "Sujana Urs",
@@ -2308,17 +2338,6 @@
           "title": "Agentic Misalignment Explained: When AI Agents Go Rogue",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256587",
-          "author": "Mounish V",
-          "description": "Large language models understand text well, but they become less effective when information is scattered across documents or mixed with images and other media. Modern AI systems rely on vector databases, which store embeddings and enable similarity search across collections. LanceDB is a vector database built for AI workloads, with native support for multimodal data […]\nThe post LanceDB Vector Database Guide: Features, Python Demo appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/",
-          "publishedOn": "2026-08-01T10:41:05.000Z",
-          "wordCount": null,
-          "title": "LanceDB Vector Database Guide: Features, Python Demo",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2363,6 +2382,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/polimill",
+          "author": null,
+          "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+          "link": "https://openai.com/index/polimill",
+          "publishedOn": "2026-08-31T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "author": null,
+          "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+          "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "publishedOn": "2026-08-31T04:00:00.000Z",
+          "wordCount": null,
+          "title": "A milestone in expanding access to AI",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
           "author": null,
@@ -2892,16 +2931,6 @@
           "wordCount": null,
           "title": "Circles powers telco personalization with OpenAI technology",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ten-advances-in-mathematics",
-          "author": null,
-          "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-          "link": "https://openai.com/index/ten-advances-in-mathematics",
-          "publishedOn": "2026-08-01T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Ten advances in mathematics and theoretical computer science",
-          "imageUrl": null
         }
       ]
     },
@@ -3030,6 +3059,26 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "J76LZCC55RdHeqEhz",
+          "author": "evhub",
+          "description": "Authors: Richard Qi, Benjamin Wright, Monte MacDiarmid, Evan Hubinger\nAbstract\n\nDuring reinforcement learning (RL), AI models complete tasks and are rewarded based on their results. They sometimes learn to “cheat” rather than completing these tasks as intended, a phenomenon known as reward hacking. Our industry lacks a general solution to this problem, and reward hacking remains challenging to fully mitigate. To better understand the impact of reward hacking on model behavior, we trained an Opus-class model with large-scale RL on many production environments vulnerable to reward hacks. We consider this a plausible proxy for what a real training run might look like had we not invested significant effort into preventing and detecting reward hacking in our normal training runs.\nThe resulting …",
+          "link": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker",
+          "publishedOn": "2026-09-01T01:41:44.000Z",
+          "wordCount": 20634,
+          "title": "Training a Misaligned Reward Seeker",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/J76LZCC55RdHeqEhz/mdkog7fgbui3byrspcaa"
+        },
+        {
+          "id": "kjPEH4KGEHd8iQ4Hn",
+          "author": "Stuart_Armstrong",
+          "description": "In the previous post, I presented my theory of change for why value generalisation is vital for AI alignment. Here I'll add the practical part of the argument: given those facts, why explicitly try to do value generalisation, what are the dangers of the approach, how should it be done, and how do we mitigate the risks?\nThe formal theory of change is down below, but I'll put a collapsible version here, to make references easier:\n\nTheory of Change\n\n\nInputs / activities: investment/grants, a small research team, small-medium compute resources.\nOutputs:\nSolutions to the three components of value generalisation (see here) in academically rigorous forms, demonstrations of these solutions on toy problems, public benchmarks, and new benchmarks. If going commercial, applications of this value gener…",
+          "link": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into",
+          "publishedOn": "2026-08-31T10:51:46.000Z",
+          "wordCount": 41023,
+          "title": "Value generalisation Theory of Change: putting it into practice",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
           "id": "f79SNtqFD7SqJY2vf",
           "author": "Stuart_Armstrong",
           "description": "This is the first part of a theory of change explaining why I'm targeting value generalisation as the path to AI alignment. It presents the definitions and key claims behind the theory, and shows that most AI alignment failure modes are value generalisation failures.\nNote that a lot of these arguments are very similar to those about why alignment is hard in the first place. This is not a coincidence. I believe that lack of value generalisation is a fundamental reason for the hardness of the problem, at least when combined with the crucial claim \n\n\nmjx-container[jax=\"CHTML\"] {\n  line-height: 0;\n}\n\nmjx-container [space=\"1\"] {\n  margin-left: .111em;\n}\n\nmjx-container [space=\"2\"] {\n  margin-left: .167em;\n}\n\nmjx-container [space=\"3\"] {\n  margin-left: .222em;\n}\n\nmjx-container [space=\"4\"] {\n  marg…",
@@ -3157,36 +3206,6 @@
           "publishedOn": "2026-08-03T09:23:01.000Z",
           "wordCount": 63768,
           "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "hbMw4Yqw6RnFaExDy",
-          "author": "Johannes Treutlein",
-          "description": "TL;DR: LLMs should give accurate answers. Yet we find their answers are often biased to favor their own values and they don't disclose this in their reasoning. For example, when a user asks how likely the AI bubble is to pop and mentions a potential investment in an AI company, Claude models give lower probabilities when that company is Anthropic rather than OpenAI, mostly without disclosing this influence to the user. On a Fermi-estimation task, Claude models often falsely claim to give unbiased answers in their CoT (see Figure 3 below for an example). We call this covert value leakage and introduce a suite of evaluations that shows it across frontier models and across different kinds of values.\nNew paper by Truthful AI: Paper, X thread, Website (model responses and CoT), Code and data.\nA…",
-          "link": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1",
-          "publishedOn": "2026-07-31T16:32:50.000Z",
-          "wordCount": 39968,
-          "title": "Value Leakage: An LLM’s Answers Are Silently Shaped by Its Own Values",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/hbMw4Yqw6RnFaExDy/bprbeyc8pkpmrcc7clmn"
-        },
-        {
-          "id": "ZTdRtSWaw7JgqEtfa",
-          "author": "Rohin Shah",
-          "description": "Cross-posted from our new Substack\nIt’s been nearly two years since our last major update here in August 2024 and we wanted to share another recap of our recent work with the AGI safety community. Things have changed a lot since then. We are now fully in the midgame, and focus more on landing things in production.\nWho are we?\nWe are the AGI Safety and Alignment Team (ASAT), the main group at Google DeepMind working directly on technical approaches to existential risk from AI systems. Last year we published An Approach to Technical AGI Safety and Security, which remains the best place to read our overarching vision.\nHighlights\nNorms around chain of thought. Our impression is that our work meaningfully moved the field away from beliefs along the lines of “chain of thought is often unfaithful…",
-          "link": "https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1",
-          "publishedOn": "2026-07-31T15:57:59.000Z",
-          "wordCount": 27088,
-          "title": "AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "AyDNvb3Pw6Kgo7Dqb",
-          "author": "Seb Farquhar",
-          "description": "GDM’s AGI Safety and Alignment Team is hiring for multiple roles, across all areas in this post on our recent work. This is the team at GDM, led by Rohin Shah, that aims to reduce existential risks from AI systems. You can listen to many of Rohin’s takes in his podcast on 80,000 hours.\nThere is no one ‘type’ that we are looking for—we want excellent people. We think of the role as ‘member of technical staff’ though different people will have more of a research engineer or scientist flavour. We are flexible on location though most people will be most productive in either San Francisco or London. You should apply here (for the US) or here (for the UK) after reading the guidance here.\nMany of the basic facts about why ASAT is a good place to work and how we think about research are mostly unc…",
-          "link": "https://www.alignmentforum.org/posts/AyDNvb3Pw6Kgo7Dqb/the-agi-safety-and-alignment-team-at-google-deepmind-is",
-          "publishedOn": "2026-07-31T15:53:58.000Z",
-          "wordCount": 25741,
-          "title": "The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]

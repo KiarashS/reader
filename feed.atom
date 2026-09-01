@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-31T03:21:20.980Z</updated>
+    <updated>2026-09-01T03:23:49.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Training a Misaligned Reward Seeker]]></title>
+        <id>J76LZCC55RdHeqEhz</id>
+        <link href="https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker"/>
+        <updated>2026-09-01T01:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Richard Qi, Benjamin Wright, Monte MacDiarmid, Evan Hubinger
+Abstract
+
+During reinforcement learning (RL), AI models complete tasks and are rewarded based on their results. They sometimes learn to “cheat” rather than completing these tasks as intended, a phenomenon known as reward hacking. Our industry lacks a general solution to this problem, and reward hacking remains challenging to fully mitigate. To better understand the impact of reward hacking on model behavior, we trained an Opus-class model with large-scale RL on many production environments vulnerable to reward hacks. We consider this a plausible proxy for what a real training run might look like had we not invested significant effort into preventing and detecting reward hacking in our normal training runs.
+The resulting …]]></summary>
+        <author>
+            <name>evhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/"/>
+        <updated>2026-08-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.
+The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.]]></summary>
+        <author>
+            <name>Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your LLM Can Return Perfect JSON and Still Be Wrong]]></title>
+        <id>https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/</id>
+        <link href="https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/"/>
+        <updated>2026-08-31T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[What I learned after thinking more carefully about Structured Outputs on messy, incomplete data
+The post Your LLM Can Return Perfect JSON and Still Be Wrong appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAQ as RAG: When You Get to Design the Corpus]]></title>
+        <id>https://towardsdatascience.com/?p=680988</id>
+        <link href="https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/"/>
+        <updated>2026-08-31T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #B2] - The FAQ inverts every brick of the standard RAG pipeline. Parsing is trivial, retrieval doubles as a cache, and few-shot prompting becomes a retrieval problem too
+The post FAQ as RAG: When You Get to Design the Corpus appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why RAG Complexity Should Be Earned]]></title>
+        <id>https://towardsdatascience.com/why-rag-complexity-should-be-earned/</id>
+        <link href="https://towardsdatascience.com/why-rag-complexity-should-be-earned/"/>
+        <updated>2026-08-31T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[A framework for building RAG pipelines that introduces complexity in response to observed failure modes, from lexical and hybrid search to reranking and agentic information seeking
+The post Why RAG Complexity Should Be Earned appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Tahreem Rasul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production]]></title>
+        <id>https://towardsdatascience.com/?p=681811</id>
+        <link href="https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/"/>
+        <updated>2026-08-31T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The five MLOps monitoring assumptions agents break, and which inherited signals now pass failed runs as healthy.
+The post AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mostafa Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Value generalisation Theory of Change: putting it into practice]]></title>
+        <id>kjPEH4KGEHd8iQ4Hn</id>
+        <link href="https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into"/>
+        <updated>2026-08-31T10:51:46.000Z</updated>
+        <summary type="html"><![CDATA[In the previous post, I presented my theory of change for why value generalisation is vital for AI alignment. Here I'll add the practical part of the argument: given those facts, why explicitly try to do value generalisation, what are the dangers of the approach, how should it be done, and how do we mitigate the risks?
+The formal theory of change is down below, but I'll put a collapsible version here, to make references easier:
+
+Theory of Change
+
+
+Inputs / activities: investment/grants, a small research team, small-medium compute resources.
+Outputs:
+Solutions to the three components of value generalisation (see here) in academically rigorous forms, demonstrations of these solutions on toy problems, public benchmarks, and new benchmarks. If going commercial, applications of this value gener…]]></summary>
+        <author>
+            <name>Stuart_Armstrong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Turn Evaluation for Conversational Agents: What Single-Turn Testing Consistently Gets  Wrong]]></title>
+        <id>https://imerit.ai/?p=41279</id>
+        <link href="https://imerit.ai/resources/blog/multi-turn-evaluation-for-conversational-agents-what-single-turn-testing-consistently-gets-wrong/"/>
+        <updated>2026-08-31T10:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Explore how to evaluate conversational AI agents across complete interactions and identify failures that single-turn testing consistently misses.
+The post Multi-Turn Evaluation for Conversational Agents: What Single-Turn Testing Consistently Gets  Wrong appeared first on iMerit.]]></summary>
+        <author>
+            <name>Sujana Urs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polimill builds Japan's next-generation public AI infrastructure]]></title>
+        <id>https://openai.com/index/polimill</id>
+        <link href="https://openai.com/index/polimill"/>
+        <updated>2026-08-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A milestone in expanding access to AI]]></title>
+        <id>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</id>
+        <link href="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"/>
+        <updated>2026-08-31T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 Free AI Automation Courses with Certificates]]></title>
         <id>https://www.analyticsvidhya.com/?p=257203</id>
@@ -3040,99 +3158,6 @@ The post I Replaced a 15-Minute Booking Process with a LangGraph AI Agent appear
 The post Agentic Misalignment Explained: When AI Agents Go Rogue appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Aayush Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler]]></title>
-        <id>https://towardsdatascience.com/?p=610231</id>
-        <link href="https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/"/>
-        <updated>2026-08-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mid-task. What looks like “forgetting” is usually just degraded context. This article explores a different approach: treating prompt construction like a compiler that decides what to keep, what to reduce, and what to discard entirely.
-The post Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Put the Agent Inside the Workflow]]></title>
-        <id>https://towardsdatascience.com/?p=610229</id>
-        <link href="https://towardsdatascience.com/put-the-agent-inside-the-workflow/"/>
-        <updated>2026-08-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior
-The post Put the Agent Inside the Workflow appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LanceDB Vector Database Guide: Features, Python Demo]]></title>
-        <id>https://www.analyticsvidhya.com/?p=256587</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/"/>
-        <updated>2026-08-01T10:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Large language models understand text well, but they become less effective when information is scattered across documents or mixed with images and other media. Modern AI systems rely on vector databases, which store embeddings and enable similarity search across collections. LanceDB is a vector database built for AI workloads, with native support for multimodal data […]
-The post LanceDB Vector Database Guide: Features, Python Demo appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
-        <id>https://openai.com/index/ten-advances-in-mathematics</id>
-        <link href="https://openai.com/index/ten-advances-in-mathematics"/>
-        <updated>2026-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Value Leakage: An LLM’s Answers Are Silently Shaped by Its Own Values]]></title>
-        <id>hbMw4Yqw6RnFaExDy</id>
-        <link href="https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1"/>
-        <updated>2026-07-31T16:32:50.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR: LLMs should give accurate answers. Yet we find their answers are often biased to favor their own values and they don't disclose this in their reasoning. For example, when a user asks how likely the AI bubble is to pop and mentions a potential investment in an AI company, Claude models give lower probabilities when that company is Anthropic rather than OpenAI, mostly without disclosing this influence to the user. On a Fermi-estimation task, Claude models often falsely claim to give unbiased answers in their CoT (see Figure 3 below for an example). We call this covert value leakage and introduce a suite of evaluations that shows it across frontier models and across different kinds of values.
-New paper by Truthful AI: Paper, X thread, Website (model responses and CoT), Code and data.
-A…]]></summary>
-        <author>
-            <name>Johannes Treutlein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 3× Token Bill We Didn’t See Coming]]></title>
-        <id>https://towardsdatascience.com/?p=610227</id>
-        <link href="https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/"/>
-        <updated>2026-07-31T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How a seemingly harmless move to a multi-agent architecture quietly tripled our LLM costs and what actually fixed it.
-The post The 3× Token Bill We Didn’t See Coming appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Priyansh Bhardwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work (July 2026)]]></title>
-        <id>ZTdRtSWaw7JgqEtfa</id>
-        <link href="https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1"/>
-        <updated>2026-07-31T15:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Cross-posted from our new Substack
-It’s been nearly two years since our last major update here in August 2024 and we wanted to share another recap of our recent work with the AGI safety community. Things have changed a lot since then. We are now fully in the midgame, and focus more on landing things in production.
-Who are we?
-We are the AGI Safety and Alignment Team (ASAT), the main group at Google DeepMind working directly on technical approaches to existential risk from AI systems. Last year we published An Approach to Technical AGI Safety and Security, which remains the best place to read our overarching vision.
-Highlights
-Norms around chain of thought. Our impression is that our work meaningfully moved the field away from beliefs along the lines of “chain of thought is often unfaithful…]]></summary>
-        <author>
-            <name>Rohin Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AGI Safety and Alignment team at Google DeepMind is Hiring (July 2026)]]></title>
-        <id>AyDNvb3Pw6Kgo7Dqb</id>
-        <link href="https://www.alignmentforum.org/posts/AyDNvb3Pw6Kgo7Dqb/the-agi-safety-and-alignment-team-at-google-deepmind-is"/>
-        <updated>2026-07-31T15:53:58.000Z</updated>
-        <summary type="html"><![CDATA[GDM’s AGI Safety and Alignment Team is hiring for multiple roles, across all areas in this post on our recent work. This is the team at GDM, led by Rohin Shah, that aims to reduce existential risks from AI systems. You can listen to many of Rohin’s takes in his podcast on 80,000 hours.
-There is no one ‘type’ that we are looking for—we want excellent people. We think of the role as ‘member of technical staff’ though different people will have more of a research engineer or scientist flavour. We are flexible on location though most people will be most productive in either San Francisco or London. You should apply here (for the US) or here (for the UK) after reading the guidance here.
-Many of the basic facts about why ASAT is a good place to work and how we think about research are mostly unc…]]></summary>
-        <author>
-            <name>Seb Farquhar</name>
         </author>
     </entry>
     <entry>
