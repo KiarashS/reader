@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
+          "author": "Mostafa Ibrahim",
+          "description": "Five failure modes that survive constrained decoding, and why your schema validator will never catch them.\nThe post Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
+          "publishedOn": "2026-09-01T15:30:02.000Z",
+          "wordCount": 4477,
+          "title": "Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787750259158_ns6qyj.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/what-we-miss-about-missing-values/",
+          "author": "David Conneely",
+          "description": "The hidden assumptions behind the data we observe.\nThe post What We Miss About Missing Values appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-we-miss-about-missing-values/",
+          "publishedOn": "2026-09-01T14:00:02.000Z",
+          "wordCount": 5767,
+          "title": "What We Miss About Missing Values",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787745270049_h1iwu9.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/",
+          "author": "Tom Narock",
+          "description": "More informed decision-making through uncertainty quantification\nThe post Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/",
+          "publishedOn": "2026-09-01T12:30:02.000Z",
+          "wordCount": 7780,
+          "title": "Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787782692643_m7a2z4.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=674059",
+          "author": "Sara Nobrega",
+          "description": "What each one solves, and runnable code you can paste into a notebook.\nThe post 5 AI Skills That Will Keep Data Scientists Relevant in 2027 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/",
+          "publishedOn": "2026-09-01T11:00:02.000Z",
+          "wordCount": 6873,
+          "title": "5 AI Skills That Will Keep Data Scientists Relevant in 2027",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787909177964_0h8syh.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
           "author": "Benjamin Nweke",
           "description": "What I learned after thinking more carefully about Structured Outputs on messy, incomplete data\nThe post Your LLM Can Return Perfect JSON and Still Be Wrong appeared first on Towards Data Science.",
@@ -1130,16 +1170,6 @@
           "wordCount": 5108,
           "title": "How to Apply Coding Agents to Non-Programming Tasks",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/coding-agents-non-programming-tasks_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610233",
-          "author": "Soner Yıldırım",
-          "description": "A step-by-step guide to building, running, and monitoring a stateful customer support agent using Python, LangGraph, and Langfuse.\nThe post I Replaced a 15-Minute Booking Process with a LangGraph AI Agent appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/",
-          "publishedOn": "2026-08-02T13:00:00.000Z",
-          "wordCount": 4206,
-          "title": "I Replaced a 15-Minute Booking Process with a LangGraph AI Agent",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/towfiqu-barbhuiya-9gPKrsbGmc-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1371,6 +1401,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/allenai/benchmirt",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/benchmirt",
+          "publishedOn": "2026-09-01T21:39:07.000Z",
+          "wordCount": 1835,
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/webgpu-kernels",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/webgpu-kernels",
+          "publishedOn": "2026-09-01T00:00:00.000Z",
+          "wordCount": 2088,
+          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "imageUrl": "https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
           "author": null,
@@ -1889,6 +1939,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a965b1546741812cbbed5be",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na",
+          "publishedOn": "2026-09-01T04:57:24.000Z",
+          "wordCount": null,
+          "title": "Week Ending 8.30.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a8d15ffc706f715e1fe5acb",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1968,6 +2029,26 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=41354",
+          "author": "Sujana Urs",
+          "description": "What ExploitGym's sandbox failures reveal about red-teaming AI agents and what evaluation infrastructure needs to actually contain them.\nThe post What ExploitGym Reveals About the Blind Spots in AI Agent Evaluation appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/what-exploitgym-reveals-about-the-blind-spots-in-ai-agent-evaluation/",
+          "publishedOn": "2026-09-01T10:52:53.000Z",
+          "wordCount": 3037,
+          "title": "What ExploitGym Reveals About the Blind Spots in AI Agent Evaluation",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-What-ExploitGym-Reveals-About-the-Blind-Spots-in-AI-Agent-Evaluation.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=41348",
+          "author": "Cadence SEO",
+          "description": "Learn how medical data annotation powers healthcare AI, from imaging and surgery to clinical LLMs, and why quality labeled data drives accurate models.\nThe post Medical Data Annotation: Powering the Next Generation of Healthcare AI appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/medical-data-annotation-powering-the-next-generation-of-healthcare-ai/",
+          "publishedOn": "2026-09-01T08:55:56.000Z",
+          "wordCount": 3536,
+          "title": "Medical Data Annotation: Powering the Next Generation of Healthcare AI",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-imgMedical-Data-Annotation-Powering-the-Next-Generation-of-Healthcare-AI.png"
+        },
         {
           "id": "https://imerit.ai/?p=41279",
           "author": "Sujana Urs",
@@ -2075,6 +2156,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257217",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models.  The Mac mini has emerged as a surprisingly capable machine for running AI locally. With Apple Silicon, enough unified memory, and tools like Ollama and LM Studio, users can now run capable models entirely on-device.  But […]\nThe post 5 Best Local LLMs You Can Run on a Mac mini in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
+          "publishedOn": "2026-09-01T09:38:02.000Z",
+          "wordCount": null,
+          "title": "5 Best Local LLMs You Can Run on a Mac mini in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257203",
           "author": "Vasu Deo Sankrityayan",
@@ -2327,17 +2419,6 @@
           "title": "Agent Harness vs Loop vs Graph Engineering: A Technical Guide",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256525",
-          "author": "Aayush Tyagi",
-          "description": "Imagine hiring an AI assistant to handle important tasks, only to find that it quietly ignores your instructions because it believes it knows better. This is known as agentic misalignment, where an AI intentionally pursues its own objective instead of the one set by its operator. To understand how often this behavior appears, Anthropic researchers […]\nThe post Agentic Misalignment Explained: When AI Agents Go Rogue appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/08/agentic-misalignment-explained/",
-          "publishedOn": "2026-08-02T09:33:49.000Z",
-          "wordCount": null,
-          "title": "Agentic Misalignment Explained: When AI Agents Go Rogue",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2382,6 +2463,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/ai-native-company-workflows",
+          "author": null,
+          "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+          "link": "https://openai.com/index/ai-native-company-workflows",
+          "publishedOn": "2026-09-01T17:00:00.000Z",
+          "wordCount": null,
+          "title": "How AI-native companies turn workflows into operating capability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/path-to-astra",
+          "author": null,
+          "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "link": "https://openai.com/index/path-to-astra",
+          "publishedOn": "2026-09-01T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "author": null,
+          "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+          "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "publishedOn": "2026-09-01T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/gilbert-tobin",
+          "author": null,
+          "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+          "link": "https://openai.com/index/gilbert-tobin",
+          "publishedOn": "2026-09-01T01:00:00.000Z",
+          "wordCount": null,
+          "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "author": null,
+          "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+          "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "publishedOn": "2026-08-31T07:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI supports California’s bill to advance youth AI safety",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/polimill",
           "author": null,
@@ -3034,22 +3165,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dff5e29d-7c81-4f81-a64b-10d9b9bbecbc_2856x1577.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
-          "author": "Florian Brand",
-          "description": "Capacity to train strong models is proliferating.",
-          "link": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
-          "publishedOn": "2026-08-02T13:01:40.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!RSM6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a71a4f9-5ac5-447e-82ff-899915627512_2048x1152.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!RSM6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a71a4f9-5ac5-447e-82ff-899915627512_2048x1152.jpeg"
         }
       ]
     },
