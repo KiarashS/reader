@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
+          "author": "Rahul Saha",
+          "description": "I built a matcher meant to finish the cleanup that normalization left behind. Testing it against real data showed that no version of it could be made safe. What follows is the architecture that was left once the matcher was set aside.\nThe post Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
+          "publishedOn": "2026-09-02T15:30:02.000Z",
+          "wordCount": 11287,
+          "title": "Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787801771917_78tjda.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #B3] - A confident wrong answer is a bug. A bare “no answer” with no justification is almost as bad. Each of the four bricks has one piece of evidence to show\nThe post A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
+          "publishedOn": "2026-09-02T14:00:02.000Z",
+          "wordCount": 7143,
+          "title": "A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787689088170_fmrsl0.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
+          "author": "Slava Efimov",
+          "description": "A visual guide to how graph neural networks work under the hood\nThe post Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
+          "publishedOn": "2026-09-02T12:30:02.000Z",
+          "wordCount": 5787,
+          "title": "Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788014371553_lnvlks.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=668722",
+          "author": "Thomas Reid",
+          "description": "Why the standard groupBy function isn’t enough\nThe post A Practical Introduction to PySpark Window Functions appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-practical-introduction-to-pyspark-window-functions/",
+          "publishedOn": "2026-09-02T11:00:02.000Z",
+          "wordCount": 6835,
+          "title": "A Practical Introduction to PySpark Window Functions",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-05_38_38-PM.png"
+        },
+        {
           "id": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
           "author": "Mostafa Ibrahim",
           "description": "Five failure modes that survive constrained decoding, and why your schema validator will never catch them.\nThe post Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch appeared first on Towards Data Science.",
@@ -1140,36 +1180,6 @@
           "wordCount": 3988,
           "title": "How to Build CLI Agents with Python & Ollama",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-235-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610251",
-          "author": "Samir Saci",
-          "description": "What actually makes a Forward Deployed Engineer, told through one supply chain project.\nThe post The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-ai-was-the-easy-part-what-is-a-forward-deployed-engineer-in-a-supply-chain/",
-          "publishedOn": "2026-08-03T13:30:00.000Z",
-          "wordCount": 5685,
-          "title": "The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/temp-1-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610249",
-          "author": "Egor Howell",
-          "description": "How use Claude to craft an outstanding resume that lands offers\nThe post How Claude Help Me Build My $200k+ ML Resume appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-claude-help-me-build-my-200k-ml-resume/",
-          "publishedOn": "2026-08-03T12:00:00.000Z",
-          "wordCount": 4796,
-          "title": "How Claude Help Me Build My $200k+ ML Resume",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/ZERO.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610235",
-          "author": "Eivind Kjosbakken",
-          "description": "Perform non-programming tasks with coding agents\nThe post How to Apply Coding Agents to Non-Programming Tasks appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/",
-          "publishedOn": "2026-08-02T15:00:00.000Z",
-          "wordCount": 5108,
-          "title": "How to Apply Coding Agents to Non-Programming Tasks",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/coding-agents-non-programming-tasks_cover.jpg"
         }
       ]
     },
@@ -1337,16 +1347,6 @@
           "wordCount": 8836,
           "title": "Static vs. Dynamic vs. Continuous Batching in LLM Inference",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-batching-llm-inference-1024x576.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24793",
-          "author": "Adrian Tam",
-          "description": "This chapter is divided into nine parts; they are: • Reading Logits from a Model • Greedy Decoding • Temperature Sampling • Top-$k$ Sampling • Nucleus Sampling • Repetition Penalties • Beam Search • Stop Conditions • Structured Output Constraints The model returns a vector of logits for every position in the input sequence.",
-          "link": "https://machinelearningmastery.com/decoding-strategies-and-output-control/",
-          "publishedOn": "2026-08-03T14:36:17.000Z",
-          "wordCount": 10503,
-          "title": "Decoding Strategies and Output Control",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/claudio-testa-iqeG5xA96M4-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1401,6 +1401,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "author": null,
+          "description": "A Blog post by IBM Research on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "publishedOn": "2026-09-02T13:49:14.000Z",
+          "wordCount": 3387,
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/1oB5vm47VNu42diDOsp0p.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/benchmirt",
           "author": null,
@@ -2157,6 +2167,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=257284",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "If you have ever tried downloading a local LLM, you have probably seen model names that look like this:  Qwen3.8-27B-A3B-It-2507-gguf-q2ks-mixed-AutoRound At first, it looks like meaningless technical shorthand.  It isn’t!  Every part of that name tells you something about the model: how large it is, how it is built, how much of it is used at a time, how […]\nThe post A Complete Guide to Decoding LLM Model Names appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/decoding-llm-model-names/",
+          "publishedOn": "2026-09-02T11:43:23.000Z",
+          "wordCount": null,
+          "title": "A Complete Guide to Decoding LLM Model Names",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=257217",
           "author": "Vasu Deo Sankrityayan",
           "description": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models.  The Mac mini has emerged as a surprisingly capable machine for running AI locally. With Apple Silicon, enough unified memory, and tools like Ollama and LM Studio, users can now run capable models entirely on-device.  But […]\nThe post 5 Best Local LLMs You Can Run on a Mac mini in 2026 appeared first on Analytics Vidhya.",
@@ -2463,6 +2484,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/atv-big-air-tour",
+          "author": null,
+          "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+          "link": "https://openai.com/index/atv-big-air-tour",
+          "publishedOn": "2026-09-02T12:00:00.000Z",
+          "wordCount": null,
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/ai-native-company-workflows",
           "author": null,
@@ -3042,26 +3073,6 @@
           "wordCount": null,
           "title": "Apple is getting this wrong",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "author": null,
-          "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-          "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "publishedOn": "2026-08-03T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How we built a realtime system for responsive voice AI in six months",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/circles",
-          "author": null,
-          "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-          "link": "https://openai.com/index/circles",
-          "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Circles powers telco personalization with OpenAI technology",
-          "imageUrl": null
         }
       ]
     },
@@ -3149,22 +3160,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/61d577fe-7a20-4a72-8158-79ddbd2ec97e_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-          "author": "Nathan Lambert",
-          "description": "Scaling our curation and measurement of the open ecosystem.",
-          "link": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-          "publishedOn": "2026-08-03T14:03:08.000Z",
-          "wordCount": null,
-          "title": "Introducing our Artifacts Hub and Adoption Dashboard",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/dff5e29d-7c81-4f81-a64b-10d9b9bbecbc_2856x1577.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dff5e29d-7c81-4f81-a64b-10d9b9bbecbc_2856x1577.png"
         }
       ]
     },
@@ -3311,16 +3306,6 @@
           "publishedOn": "2026-08-04T22:27:40.000Z",
           "wordCount": 30257,
           "title": "Returning to ARC",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "aCdhjy7Rps3BEhiSj",
-          "author": "Tim Hua",
-          "description": "[Tweet Thread]\nThis post is written in our personal capacity.\nThree-Minute Executive Summary\n\nAn OpenAI model/multi-agent system bypassed its sandbox and launched a cyberattack on Hugging Face in order to cheat on a cyber evaluation.\nIn this post, we describe the ambitious, comprehensive alignment evaluation we would run on this model/system if we had unrestricted access to OpenAI.\nThese experiments could also help us understand Claude’s behavior when it hacked external companies during cyber evals.\n\nHere are the top five questions we would like OpenAI to answer:\nDoes the model know that OpenAI does not want it to hack Hugging Face? Experiment: tell the model that OpenAI researchers will be closely monitoring its progress in this evaluation. Does that result in lower rates of misalignment?…",
-          "link": "https://www.alignmentforum.org/posts/aCdhjy7Rps3BEhiSj/concrete-evaluations-to-investigate-the-openai-model-that",
-          "publishedOn": "2026-08-03T09:23:01.000Z",
-          "wordCount": 63768,
-          "title": "Concrete Evaluations to Investigate the OpenAI Model That Hacked Hugging Face",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
