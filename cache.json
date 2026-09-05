@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/",
+          "author": "Alejandro Alvarez Perez",
+          "description": "Why the default 50/50 split is the wrong move when your treatment is more expensive than your control, and how cost-based sampling weights fix it\nThe post Optimal Traffic Allocation Under Heterogeneous Variant Cost appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/",
+          "publishedOn": "2026-09-04T15:30:02.000Z",
+          "wordCount": 7274,
+          "title": "Optimal Traffic Allocation Under Heterogeneous Variant Cost",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788286151360_jjyt80.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/",
+          "author": "Mostafa Ibrahim",
+          "description": "Three conditions that must hold before splitting prefill from decode pays off, and why chunked prefill is the right default below that threshold.\nThe post Disaggregation Is a Thousand-GPU Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/",
+          "publishedOn": "2026-09-04T14:00:02.000Z",
+          "wordCount": 3621,
+          "title": "Disaggregation Is a Thousand-GPU Problem",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787858702320_n0xwek.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
+          "author": "Nikola Ilic",
+          "description": "Power BI Premium is gone. Microsoft Fabric took its place. Here's what actually changed for you, what didn't, and where to start — without the panic.\nThe post The Power BI Developer's Survival Guide to Microsoft Fabric appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
+          "publishedOn": "2026-09-04T12:30:02.000Z",
+          "wordCount": 5416,
+          "title": "The Power BI Developer's Survival Guide to Microsoft Fabric",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788274893786_zm158n.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to run a lot of parallel coding agents without expensive, powerful hardware at home\nThe post How to Run 10+ Claude Code Sessions Without a Powerful Computer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
+          "publishedOn": "2026-09-04T11:00:02.000Z",
+          "wordCount": 5270,
+          "title": "How to Run 10+ Claude Code Sessions Without a Powerful Computer",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788297639039_e3l6hh.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/",
           "author": "Ibrahim Salami",
           "description": "Turning a trained churn classifier into a FastAPI service that other software can actually call.\nThe post My Model Worked Perfectly. Then I Tried to Make It Useful. appeared first on Towards Data Science.",
@@ -1140,46 +1180,6 @@
           "wordCount": 4539,
           "title": "Introduction to Semi-Supervised Learning",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/00-cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610291",
-          "author": "Sam Black",
-          "description": "Research-backed cues to detect LLM-generated text along with the mathematical intuition as to 'why'\nThe post Is This Slop? Detecting AI-Generated Content Without a Model appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/is-this-slop-detecting-ai-generated-content-without-a-model-2/",
-          "publishedOn": "2026-08-05T13:30:00.000Z",
-          "wordCount": 5982,
-          "title": "Is This Slop? Detecting AI-Generated Content Without a Model",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-432-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610285",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5octies] - Rules propose, LLM validates: six deterministic signals on span-level typography surface heading candidates, one bounded loop keeps the real ones, and the same toc_df drops back into the RAG pipeline\nThe post Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-document-structure-with-loop-engineering-recovering-a-pdfs-outline-from-body-typography-for-rag/",
-          "publishedOn": "2026-08-05T12:00:00.000Z",
-          "wordCount": 8058,
-          "title": "Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/open_dictionary_pen_226612_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610277",
-          "author": "Thomas Reid",
-          "description": "A practical guide to Bronze, Silver and Gold, with a working Python and DuckDB example\nThe post The Medallion Data Architecture: An Introduction appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-medallion-data-architecture/",
-          "publishedOn": "2026-08-04T16:30:00.000Z",
-          "wordCount": 5774,
-          "title": "The Medallion Data Architecture: An Introduction",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/call_OYFXRf8aWZSxGNcWfIomSovO.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610274",
-          "author": "Nathan Bos",
-          "description": "An online simulation and a novel method for increasing power\nThe post How to Get More Statistical Power from Fewer Research Participants appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/increasing-statistical-power-with-more-problems/",
-          "publishedOn": "2026-08-04T15:00:00.000Z",
-          "wordCount": 6125,
-          "title": "How to Get More Statistical Power from Fewer Research Participants",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-433.jpg"
         }
       ]
     },
@@ -1317,16 +1317,6 @@
           "wordCount": 11410,
           "title": "Designing AI Agents That Can Self-Correct",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-designing-ai-agents-that-can-self-correct-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24808",
-          "author": "Vinod Chugani",
-          "description": "Day 100 in production isn't really about chunking strategies anymore.",
-          "link": "https://machinelearningmastery.com/7-chunking-strategies-that-decide-whether-your-rag-works/",
-          "publishedOn": "2026-08-05T12:00:38.000Z",
-          "wordCount": 8919,
-          "title": "7 Chunking Strategies That Decide Whether Your RAG Works",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-7-chunking-strategies-that-decide-whether-your-rag-works-feature-1.png"
         }
       ]
     },
@@ -1991,17 +1981,6 @@
           "title": "Week Ending 8.9.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a72239233d4031e5cf51fe8",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8",
-          "publishedOn": "2026-08-04T17:39:10.000Z",
-          "wordCount": null,
-          "title": "Week Ending 8.2.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2186,6 +2165,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257424",
+          "author": "Nitika Sharma",
+          "description": "OpenAI has released GPT-6 Astra, its newest frontier model, less than a week after Anthropic’s Claude Fable 5.1. OpenAI calls Astra the world’s most intelligent and aligned model yet. What actually makes Astra different? The simplest way to put it is this: Astra is built to do more, not just answer more. It can use […]\nThe post GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/gpt-6-astra-explained/",
+          "publishedOn": "2026-09-05T00:57:25.000Z",
+          "wordCount": null,
+          "title": "GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257339",
+          "author": "Aayush Tyagi",
+          "description": "If you spent any time on GitHub Trending in August, you probably noticed the centre of gravity had shifted again. Models took a back seat to the machinery around them: agent harnesses, skills, memory layers, gateways, and document tooling. One repository alone gained more than 190,000 stars in four weeks.  We tracked star growth, momentum, ecosystem impact, […]\nThe post Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/top-github-repositories-august-2026/",
+          "publishedOn": "2026-09-04T10:55:00.000Z",
+          "wordCount": null,
+          "title": "Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257318",
           "author": "Sree Vamsi",
@@ -3103,16 +3104,6 @@
           "wordCount": null,
           "title": "From asking to doing: How the world is putting ChatGPT to work",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-          "author": null,
-          "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-          "publishedOn": "2026-08-04T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Third-party cyber evaluations involving OpenAI models",
-          "imageUrl": null
         }
       ]
     },
@@ -3347,16 +3338,6 @@
           "wordCount": 29836,
           "title": "R-lens: Making J-lens More Faithful on Early Layers",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/nv8oedrnLXKRzNEL9/on4gll0bviiwbggd1rq7"
-        },
-        {
-          "id": "vLFh8HP3hyNy9MCwe",
-          "author": "paulfchristiano",
-          "description": "I've returned to the Alignment Research Center (ARC) as executive director. My main focus for the next six months will be driving forward ARC's research agenda—building techniques to find mechanistic explanations for neural network behavior and then using those explanations to detect and address misalignment. I think this is an ambitious bet that attacks the core difficulties in alignment head-on and I'm excited about our chances. I'll still be spending some of my time advising governments[1] and AI developers, and may scale that work back up in the future, but for now I want to push on ARC's core agenda to see how far we can get. Jacob Hilton is remaining at ARC as VP of research and we'll likely grow rapidly over the next few months.\nThere are a lot of urgent things to do in alignment bu…",
-          "link": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc",
-          "publishedOn": "2026-08-04T22:27:40.000Z",
-          "wordCount": 30257,
-          "title": "Returning to ARC",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
