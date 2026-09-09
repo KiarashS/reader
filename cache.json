@@ -12,6 +12,56 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-to-maximize-gpt-6-astra/",
+          "author": "Eivind Kjosbakken",
+          "description": "My first impressions of OpenAI's new frontier model\nThe post How to Maximize GPT-6 Astra appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-maximize-gpt-6-astra/",
+          "publishedOn": "2026-09-08T18:00:35.000Z",
+          "wordCount": 5661,
+          "title": "How to Maximize GPT-6 Astra",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788729989347_ivpyyw.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=680437",
+          "author": "Ananya Bhattacharyya",
+          "description": "How model validation standards are changing for LLM-based systems: what breaks, what carries over, and how to test output quality\nThe post The Model Validation Playbook for GenAI: Lessons from Banking appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-model-validation-playbook-for-genai-lessons-from-banking/",
+          "publishedOn": "2026-09-08T17:34:37.000Z",
+          "wordCount": 6246,
+          "title": "The Model Validation Playbook for GenAI: Lessons from Banking",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787985474815_lezwlc.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=629070",
+          "author": "Mauro Di Pietro",
+          "description": "Learn how to simulate reality with Python\nThe post A Beginner’s Guide to World Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-beginners-guide-to-world-models/",
+          "publishedOn": "2026-09-08T17:27:42.000Z",
+          "wordCount": 4439,
+          "title": "A Beginner’s Guide to World Models",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1787815057461_e8hnid.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/introducing-shipai/",
+          "author": "TDS Editors",
+          "description": "Towards Data Science launches a video showcase for real-world AI work\nThe post Introducing ShipAI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/introducing-shipai/",
+          "publishedOn": "2026-09-08T13:41:29.000Z",
+          "wordCount": 1667,
+          "title": "Introducing ShipAI",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788531404847_lruwmt.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/",
+          "author": "Emmimal P Alexander",
+          "description": "A context window can be technically complete and still describe a world that no longer exists. I built a deterministic benchmark to measure the cost of acting on stale context.\nThe post Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/",
+          "publishedOn": "2026-09-08T11:00:01.000Z",
+          "wordCount": 11901,
+          "title": "Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788520758191_noazxn.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/",
           "author": "Thuwarakesh Murallie",
           "description": "I saved my day with a mere $52 bill. But you don't have to repeat my mistake.\nThe post I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day) appeared first on Towards Data Science.",
@@ -1110,26 +1160,6 @@
           "wordCount": 4998,
           "title": "I Thought Loading Data Was the Finish Line. It Was the Starting Point.",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/RSS-transform-article-dbt.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610388",
-          "author": "Shuai Guo",
-          "description": "Why use it? How to implement it? What can we do when it fails?\nThe post How to Implement Structured Output with Local LLMs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/structured-output-with-local-llms/",
-          "publishedOn": "2026-08-09T13:00:00.000Z",
-          "wordCount": 4639,
-          "title": "How to Implement Structured Output with Local LLMs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/structured_output.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610386",
-          "author": "Sankar Srinivasan",
-          "description": "Many Transformer explainers start with the finished architecture. We ask why it looks the way it does.\nThe post Before Q, K, and V: Reconstructing the Transformer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/",
-          "publishedOn": "2026-08-08T15:00:00.000Z",
-          "wordCount": 8756,
-          "title": "Before Q, K, and V: Reconstructing the Transformer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/antonio-janeski-ANP0t4EGMBE-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -1351,6 +1381,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "author": null,
+          "description": "A Blog post by Multiverse Computing on Hugging Face",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "publishedOn": "2026-09-08T14:23:07.000Z",
+          "wordCount": 1869,
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/HuauFbdznYW4fNQh8j4Tp.png"
+        },
         {
           "id": "https://huggingface.co/blog/Hcompany/neomme",
           "author": null,
@@ -1944,6 +1984,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=80336",
+          "author": "Satya Mallick",
+          "description": "Before a flight, I left Astra a short prompt and a signed-in Roboflow account. It collected Microduck media, produced annotations, trained two RF-DETR-Seg-M models, and returned held-out video comparisons. Here is what worked, what failed, and what the experiment measured.\nTrain RF-DETR for Instance Segmentation with GPT-6 Astra first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/astra-rf-detr-microduck-segmentation/",
+          "publishedOn": "2026-09-08T07:07:43.000Z",
+          "wordCount": null,
+          "title": "Train RF-DETR for Instance Segmentation with GPT-6 Astra",
+          "imageUrl": null
+        },
+        {
           "id": "https://learnopencv.com/?p=80269",
           "author": "Satya Mallick",
           "description": "Learn a production model training playbook from PINTO's face alignment project: reframe the task, engineer data, enforce QA, distill, and deploy.\nHow 10x AI Engineers Train Models for Production: Lessons from PINTO’s Face Alignment Project first appeared on LearnOpenCV.",
@@ -1970,6 +2020,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=41580",
+          "author": "Sujana Urs",
+          "description": "MTurk closes September 30, 2026. Here's what the shutdown means for human data quality and what AI teams should look for next.\nThe post Why Is Mechanical Turk Shutting Down? What MTurk’s Closure Means for Human Data Quality appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-is-mechanical-turk-shutting-down-what-mturks-closure-means-for-human-data-quality/",
+          "publishedOn": "2026-09-08T08:17:38.000Z",
+          "wordCount": 2933,
+          "title": "Why Is Mechanical Turk Shutting Down? What MTurk’s Closure Means for Human Data Quality",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Why-Is-Mechanical-Turk-Shutting-Down-What-MTurks-Closure-Means-for-Human-Data-Quality.png"
+        },
         {
           "id": "https://imerit.ai/?p=41560",
           "author": "Sujana Urs",
@@ -2127,6 +2187,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257260",
+          "author": "Shaik Hamzah Shareef",
+          "description": "As LLM applications grow more complex, inference cost and latency become increasingly important. A single request can contain thousands or even millions of tokens from system instructions, conversation history, retrieved documents, tool definitions, and user input. Reprocessing the same information again and again wastes both time and compute.  Caching helps avoid this repeated work. But […]\nThe post The Four Caches in LLM Serving  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/four-caches-in-llm-serving/",
+          "publishedOn": "2026-09-08T12:13:31.000Z",
+          "wordCount": null,
+          "title": "The Four Caches in LLM Serving",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257374",
           "author": "Riya Bansal",
@@ -2434,6 +2505,76 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/codex-quantum-computing-experiments",
+          "author": null,
+          "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+          "link": "https://openai.com/index/codex-quantum-computing-experiments",
+          "publishedOn": "2026-09-08T17:00:00.000Z",
+          "wordCount": null,
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/the-work-now-within-reach",
+          "author": null,
+          "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+          "link": "https://openai.com/index/the-work-now-within-reach",
+          "publishedOn": "2026-09-08T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Work Now Within Reach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "author": null,
+          "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+          "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "publishedOn": "2026-09-08T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ChatGPT Images 2.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/navier-stokes-solution",
+          "author": null,
+          "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+          "link": "https://openai.com/index/navier-stokes-solution",
+          "publishedOn": "2026-09-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/teen-development-research-grants",
+          "author": null,
+          "description": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+          "link": "https://openai.com/index/teen-development-research-grants",
+          "publishedOn": "2026-09-08T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Funding grants for new research into AI and teen development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "author": null,
+          "description": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+          "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "publishedOn": "2026-09-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/1password",
+          "author": null,
+          "description": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+          "link": "https://openai.com/index/1password",
+          "publishedOn": "2026-09-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "1Password increases engineering productivity 21% with Codex",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "author": null,
@@ -3032,6 +3173,22 @@
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
         {
+          "id": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+          "author": "Florian Brand",
+          "description": "The open model ecosystem continues to expand in its breadth",
+          "link": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+          "publishedOn": "2026-09-08T14:15:25.000Z",
+          "wordCount": null,
+          "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!J8Bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2908b12f-8586-49cf-b34b-e1d5bc61bf19_1196x798.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!J8Bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2908b12f-8586-49cf-b34b-e1d5bc61bf19_1196x798.png"
+        },
+        {
           "id": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
           "author": "Nathan Lambert",
           "description": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI.",
@@ -3118,6 +3275,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "HGfMBEFnsXYkKvbRo",
+          "author": "Charlie Steiner",
+          "description": "Recap\nSequel to Previous Post. This post might not make sense without it.\nTraining on probes might let our judgments on easy domains generalize to harder domains by leveraging an AI's model of the world. Training using the gradient of the probe teaches the model to fool the probe, but doing RL against the probe doesn't teach the model to fool it!\nFollowing the brain-like story\nMy hardwired instincts for eating fresh fruit have recruited my learned knowledge about supermarkets, and now I want to go to the supermarket. Here are some elements of the brain-like story that could be fruitful avenues for RL-on-probes research that goes beyond the papers referenced in the last post:\n\nProbing a capable learned model based on a weak supervisor. Rather than trying to train the probe on a representati…",
+          "link": "https://www.alignmentforum.org/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas",
+          "publishedOn": "2026-09-08T17:06:23.000Z",
+          "wordCount": null,
+          "title": "Training on probes: Research ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "gHFCgrvfxQtaEnJye",
+          "author": "Charlie Steiner",
+          "description": "TL;DR\n\nIf you train a probe for some property (like \"honesty\") and do gradient descent against this probe while continuing training that incentivizes dishonesty, the model will change its internal representation to evade the probe. Duh.\nIf you train against the probe after all other training, it works fine and might have some advantages over ablating the probe direction. But it doesn't satisfy an ambitious vision, because it doesn't support learning new skills.\nIf you add a probe term to reinforcement learning (RL), and if your model is giving one-token answers, or if you credit-assign the loss from the probe only to the token that triggered the probe, the training will do nothing. Even if your model is lying a lot and getting high loss when it does so, it will just keep triggering a lie d…",
+          "link": "https://www.alignmentforum.org/posts/gHFCgrvfxQtaEnJye/training-on-probes-what-s-going-on",
+          "publishedOn": "2026-09-08T17:06:18.000Z",
+          "wordCount": null,
+          "title": "Training on probes: What's going on",
+          "imageUrl": null
+        },
         {
           "id": "9vm2wtAtb34pEkjje",
           "author": "Dan MacKinlay",
