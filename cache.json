@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
+          "author": "Eivind Kjosbakken",
+          "description": "Better understand the intent of your coding agents\nThe post How to 5x Your Communication Effectiveness with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
+          "publishedOn": "2026-09-10T15:30:01.000Z",
+          "wordCount": 5285,
+          "title": "How to 5x Your Communication Effectiveness with Claude Code",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788699575639_nl13r2.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/",
+          "author": "Benjamin Nweke",
+          "description": "Why autonomous agents expose a new explainability problem in fraud detection\nThe post What SHAP Can't Explain About Agentic AI Fraud appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/",
+          "publishedOn": "2026-09-10T14:00:01.000Z",
+          "wordCount": 4734,
+          "title": "What SHAP Can't Explain About Agentic AI Fraud",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788814203456_bz3f84.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
+          "author": "Partha Sarkar",
+          "description": "Moving from static model assignment to intelligent, task-level LLM selection.\nThe post Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
+          "publishedOn": "2026-09-10T12:30:01.000Z",
+          "wordCount": 4744,
+          "title": "Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788795473037_he173q.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/who-questions-what-works-when-should-we-retest-our-assumptions/",
+          "author": "Erika Gomes-Gonçalves",
+          "description": "A model is only as reliable as the assumptions behind it\nThe post Who Questions What Works: When Should We Retest Our Assumptions? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/who-questions-what-works-when-should-we-retest-our-assumptions/",
+          "publishedOn": "2026-09-10T11:00:01.000Z",
+          "wordCount": 5735,
+          "title": "Who Questions What Works: When Should We Retest Our Assumptions?",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788708678614_4wugvh.jpg"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=678106",
           "author": "Thomas Reid",
           "description": "A practical guide to building, testing, and documenting SQL transformations\nThe post Getting started with dbt appeared first on Towards Data Science.",
@@ -1130,46 +1170,6 @@
           "wordCount": 4005,
           "title": "Should AI Developers Make the Switch from Polars to Pandas?",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-sabrina-gelbart-65954-249798.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610556",
-          "author": "Hoda Rezvanjoo",
-          "description": "How to diversify a budget without losing the shadow prices that explain the result\nThe post The Budget Split That Explains Itself appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-budget-split-that-explains-itself/",
-          "publishedOn": "2026-08-11T13:30:00.000Z",
-          "wordCount": 4111,
-          "title": "The Budget Split That Explains Itself",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Budgeting-Allocation.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610509",
-          "author": "Arsen Apostolov",
-          "description": "I replayed the same 27 real production tasks through two local models, one hardware upgrade apart, to find out what it actually takes to replace Claude as the brain behind a 90-tool personal agent.\nThe post Can a Local LLM Run My AI Assistant? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/",
-          "publishedOn": "2026-08-11T12:00:00.000Z",
-          "wordCount": 5878,
-          "title": "Can a Local LLM Run My AI Assistant?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/featured_C2_angled_tight-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610507",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to optimize your CI/CD pipeline for coding agents\nThe post How to Effectively Deploy Code With Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-effectively-deploy-code-with-claude-code/",
-          "publishedOn": "2026-08-10T16:30:00.000Z",
-          "wordCount": 4407,
-          "title": "How to Effectively Deploy Code With Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/optimize-cicd-coding-agents_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610505",
-          "author": "Shafeeq Ur Rahaman",
-          "description": "Giving an AI agent access to a data warehouse doesn't automatically make it agent-ready. The real challenge lies in teaching the agent what the data means and when it's reliable enough to use. \nThe post Building an Agent-Ready Data Warehouse: What Traditional Architectures Do Wrong appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-an-agent-ready-data-warehouse-what-traditional-architectures-do-wrong/",
-          "publishedOn": "2026-08-10T15:00:00.000Z",
-          "wordCount": 4944,
-          "title": "Building an Agent-Ready Data Warehouse: What Traditional Architectures Do Wrong",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-photo-36496927-scaled-1.jpg"
         }
       ]
     },
@@ -1317,16 +1317,6 @@
           "wordCount": 8921,
           "title": "Retrieval vs. Memory in Agentic AI Systems",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/bala-mlm-retrieval-vs-memory.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24844",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn seven async patterns for running AI agents concurrently in Python, what each pattern is suited for, and the production-level...",
-          "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
-          "publishedOn": "2026-08-11T12:00:35.000Z",
-          "wordCount": 8516,
-          "title": "7 Async Patterns for Running Agents Concurrently in Python",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-7-async-patterns-running-agents-concurrently-python-feature.png"
         }
       ]
     },
@@ -1334,23 +1324,7 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": [
-        {
-          "id": "https://blog.ml.cmu.edu/?p=22553",
-          "author": "Willa Potosnak",
-          "description": "Based on: Potosnak, W., Wolff, M., Cao, M., Ma, R., Konstantinova, T., Efimov, D., Mahoney, M.W., Oreshkin, B., & Olivares, K.G. \"Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility.\" Transactions on Machine Learning Research, 2026. (Disclaimer: Code implementation not used in the paper; not affiliated with Amazon — provided as a reference for forking-sequences and forecast ensembling) TL;DR Ensembling, nearly for free. Forking-sequences already produces overlapping forecasts for every target date across FCDs in a single forward pass, so ensembling them at inference adds no extra encoder computation compared with window-sampling. Two new forecast volatility metrics. scaled Forecast Percentage Change (sFPC) measures raw revision size in real time (no ground truth needed); Excess Volatility (EV) goes further, rewarding accuracy-improving revisions and only penalizing the ones that move forecasts away from the truth or overshoot it. Reduced volatility without sacrificing accuracy. Exponential-smoothing forecast ensembling (α = 0.9) reduces sEV by 10–13% across all encoder types, with less than 0.1% accuracy degradation. Works zero-shot on models pretrained with window-sampling. Forecast ensembling applied to pretrained Time Series Foundation Models (TSFMs) — Chronos-2, Toto 2.0, TimesFM, PatchTST, N-BEATS — cuts volatility by ~10% with negligible accuracy cost (less than 0.1%). In Part […]",
-          "link": "https://blog.ml.cmu.edu/2026/08/10/forking-sequences-part-ii-multi-horizon-forecast-ensembling-with-reduced-volatility/",
-          "publishedOn": "2026-08-10T21:52:23.000Z",
-          "wordCount": 2884,
-          "title": "Forking-Sequences — Part II: Multi-Horizon Forecast Ensembling with Reduced Volatility",
-          "enclosure": {
-            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/07/forking_sequences-1-scaled.jpg",
-            "length": "208061",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/07/forking_sequences-1-scaled.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Google AI Blog",
@@ -1381,6 +1355,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/gradio-workflow-1111",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/gradio-workflow-1111",
+          "publishedOn": "2026-09-10T00:00:00.000Z",
+          "wordCount": 2632,
+          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "imageUrl": "https://huggingface.co/blog/assets/gradio-workflow1111/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
           "author": null,
@@ -1640,26 +1624,6 @@
           "wordCount": 1568,
           "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/apldbDPIJWZeODX1g9iFV.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "publishedOn": "2026-08-11T13:37:10.000Z",
-          "wordCount": 2066,
-          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "publishedOn": "2026-08-10T16:25:36.000Z",
-          "wordCount": 1986,
-          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/Ol-uDBWtBtVDbowXgP-Un.png"
         }
       ]
     },
@@ -2011,6 +1975,26 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=41709",
+          "author": "Sujana Urs",
+          "description": "Generic crowds can't handle every AI task. Learn why expert data annotation and verified contributors are becoming the new standard.\nThe post Expert Data Annotation: Why Generic Crowds Are No Longer Enough for Every AI Task appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/expert-data-annotation-why-generic-crowds-are-no-longer-enough-for-every-ai-task/",
+          "publishedOn": "2026-09-10T13:42:21.000Z",
+          "wordCount": 2717,
+          "title": "Expert Data Annotation: Why Generic Crowds Are No Longer Enough for Every AI Task",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Expert-Data-Annotation.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=41652",
+          "author": "Sujana Urs",
+          "description": "Discover how turn-taking data for voice AI improves end-of-turn detection, interruption handling, and conversational timing beyond latency optimization.\nThe post Why Sub-Second Latency Voice AI Fails Without Better Turn-Taking Data appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-sub-second-latency-voice-ai-fails-without-better-turn-taking-data/",
+          "publishedOn": "2026-09-10T06:36:55.000Z",
+          "wordCount": 4180,
+          "title": "Why Sub-Second Latency Voice AI Fails Without Better Turn-Taking Data",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Why-Sub-Second-Latency-Voice-AI-Fails-Without-Better-Turn-Taking-Data.png"
+        },
+        {
           "id": "https://imerit.ai/?p=41634",
           "author": "Sujana Urs",
           "description": "How laser weeding AI hit 500,000 weeds eliminated per hour, and the data annotation pipeline that trained it to get there.\nThe post How Laser Weeding AI Learned to See Every Crop and Weed appeared first on iMerit.",
@@ -2187,6 +2171,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257464",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "A Hindi lesson can mix English terms (loan words), scanned tables and handwritten equations. Making that content searchable, translating it and reading it aloud requires several kinds of AI. Bodhan AI and AI4Bharat’s four new models target those jobs across Indian languages.  Released in September 2026, the models cover document parsing, translation, speech recognition and speech generation, with support for mixed languages and scripts. In this […]\nThe post Bodhan AI Releases Four Indic Models for OCR, Translation and Speech  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/",
+          "publishedOn": "2026-09-10T06:54:03.000Z",
+          "wordCount": null,
+          "title": "Bodhan AI Releases Four Indic Models for OCR, Translation and Speech",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257260",
           "author": "Shaik Hamzah Shareef",
@@ -2428,28 +2423,6 @@
           "title": "Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256904",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "First, pick the line that applies to you. Since August 2nd, 2026, Claude marks all content during generation. For instance, text receives a hidden watermark, while files receive a signature. Anthropic committed to the EU AI Act’s Code of Practice on Transparency of AI-Generated Content. Consequently, all content generated by Claude models will carry a […]\nThe post Claude Now Watermarks Everything It Makes appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/",
-          "publishedOn": "2026-08-11T12:36:46.000Z",
-          "wordCount": null,
-          "title": "Claude Now Watermarks Everything It Makes",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=256886",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "You have probably heard by now. Claude Code burns through usage limits! But most of us live in the web app… distant from the terminal app, around which the buzz is about. Maybe that was enough to make you curious. Maybe you already knew exactly what it was and just want it running on your […]\nThe post How to Install Claude Code: A Step-by-Step Guide appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/",
-          "publishedOn": "2026-08-10T18:20:22.000Z",
-          "wordCount": null,
-          "title": "How to Install Claude Code: A Step-by-Step Guide",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2494,6 +2467,66 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "author": null,
+          "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+          "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "publishedOn": "2026-09-10T16:00:00.000Z",
+          "wordCount": null,
+          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/put-data-to-work",
+          "author": null,
+          "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+          "link": "https://openai.com/index/put-data-to-work",
+          "publishedOn": "2026-09-10T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Now everyone can put data to work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "author": null,
+          "description": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+          "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "publishedOn": "2026-09-10T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ChatGPT for Financial Services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/expanding-ai-access-us-government",
+          "author": null,
+          "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+          "link": "https://openai.com/index/expanding-ai-access-us-government",
+          "publishedOn": "2026-09-10T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-the-agents-api",
+          "author": null,
+          "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+          "link": "https://openai.com/index/introducing-the-agents-api",
+          "publishedOn": "2026-09-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the Agents API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "author": null,
+          "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "publishedOn": "2026-09-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
           "author": null,
@@ -3083,36 +3116,6 @@
           "wordCount": null,
           "title": "How RingCentral builds AI-native work from engineering to ops",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/testing-ads-in-chatgpt",
-          "author": null,
-          "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-          "link": "https://openai.com/index/testing-ads-in-chatgpt",
-          "publishedOn": "2026-08-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Testing ads in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "author": null,
-          "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "publishedOn": "2026-08-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Daybreak models are now available on AWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/building-an-ai-native-finance-function",
-          "author": null,
-          "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-          "link": "https://openai.com/index/building-an-ai-native-finance-function",
-          "publishedOn": "2026-08-10T17:00:00.000Z",
-          "wordCount": null,
-          "title": "What building an AI-native finance function taught me",
-          "imageUrl": null
         }
       ]
     },
@@ -3121,6 +3124,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+          "author": "Nathan Lambert",
+          "description": "Some quick notes on a truly weird week.",
+          "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+          "publishedOn": "2026-09-10T15:28:52.000Z",
+          "wordCount": null,
+          "title": "One resignation turned the embers of AI fear into a wildfire",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
           "author": "Nathan Lambert",
@@ -3208,6 +3227,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "x8BvtWxtoajBGHS3g",
+          "author": "ryan_greenblatt",
+          "description": "Currently, chain-of-thought (CoT) is a valuable tool for overseeing AI models. However, some architectural shifts could significantly reduce CoT monitorability. We have recently proposed that AI companies should transparently share ​​information about the degree to which their architectures may allow for latent reasoning and communication. To assist with this proposal, this document operationalizes a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform. Our measure is a specific instantiation of the notion of “opaque serial depth”, originally defined in a recent paper from GDM (Brown-Cohen et al, 2026).\nTo measure the opaque serial depth of a computation, Brown-Cohen et al. propose measuring the longest path in the computational graph which doe…",
+          "link": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth",
+          "publishedOn": "2026-09-10T17:26:39.000Z",
+          "wordCount": null,
+          "title": "An operationalization of opaque serial depth",
+          "imageUrl": null
+        },
+        {
+          "id": "hLPGv8QjPcNLtDp3A",
+          "author": "ryan_greenblatt",
+          "description": "Architectures that incorporate opaque recurrence or allow for agents to communicate with each other using latents could rapidly make it much harder to monitor chains of thought or communication (we’ll refer to this property as “monitorability” going forward).[1] As companies begin to explore such architectures, we believe it is important to transparently share evidence about how monitorability varies with architecture and training method. To inform the scientific debate on how to make tradeoffs between performance and monitorability, we believe AI companies should:\n\nRegularly report externally verified information about the degree to which their architectures may allow for latent reasoning or communication. Companies should publicly disclose enough information about architectures to allow …",
+          "link": "https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on",
+          "publishedOn": "2026-09-10T17:18:38.000Z",
+          "wordCount": null,
+          "title": "Proposal for tracking the effects of architecture on monitorability",
+          "imageUrl": null
+        },
         {
           "id": "eRmzz8J8Qkzqvzrgg",
           "author": "Neel Nanda",
@@ -3347,16 +3386,6 @@
           "wordCount": 24518,
           "title": "Misaligned AIs could use killer robots to take over",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/vy2ma7s49qxjciqifxjg"
-        },
-        {
-          "id": "GRmvZsHXH4vaijPMv",
-          "author": "Steven Byrnes",
-          "description": "It seems to me that, for every loss function that we use to train LLMs, we get a very distinct flavor of LLM misalignment. Here’s the summary table, and then we’ll go through the rows separately.\n\n\nTraining stage\n\nLoss function\n\nFlavor of misalignment[1]\n\nFamous examples\n\n\nPretraining & SFT\n\nImitative learning (next-token prediction)\n\n“Seven deadly sins” misalignment\n\nBing-Sydney, “Emergent misalignment”\n\n\nRLHF & DPO\n\nHuman approval\n\n“Glazing” misalignment\n\nGPT-4o\n\n\nRLVR\n\nAutomatic verifier\n\n“Literal genie” misalignment\n\nHuggingFace hacking\n\n\nRLAIF\n\nApproval from another LLM\n\n“Trickster” misalignment\n\n“Current AIs seem pretty misaligned to me”\n\n\nWarning: I’m not an LLM power-user myself, but rather relying on reports I’ve read. Also, I don’t consider LLM alignment to be my primary area of …",
-          "link": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment",
-          "publishedOn": "2026-08-10T16:16:16.000Z",
-          "wordCount": 25849,
-          "title": "Four LLM loss functions → four flavors of LLM misalignment",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/lcvfsyuvmffzfyomevue"
         }
       ]
     }
