@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-11T02:47:24.424Z</updated>
+    <updated>2026-09-12T02:58:51.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 ChatGPT 2.5 Features to Try Today!]]></title>
+        <id>https://www.analyticsvidhya.com/?p=257543</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/09/chatgpt-images-2-5-features-explained/"/>
+        <updated>2026-09-11T18:41:31.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI has released ChatGPT Images 2.5, its latest image-generation model, with a greater emphasis on controlled editing than simply producing prettier images. The update promises sharper details, more natural lighting and textures, stronger reference-image preservation, more reliable multi-turn editing, and up to 50% lower generation latency than Images 2.0.  But marketing claims only tell part […]
+The post 5 ChatGPT 2.5 Features to Try Today! appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoT controllability evals seem very under-elicited]]></title>
+        <id>BbP2wCyDGdPWJ7PwP</id>
+        <link href="https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited"/>
+        <updated>2026-09-11T17:12:04.000Z</updated>
+        <summary type="html"><![CDATA[The CoTControl eval asks reasoning models to follow formatting constraints in their chain-of-thought (e.g. write in all lowercase, avoid a specific word) while solving questions. Models seem to mostly be pretty bad at this: recent models score between 0-30% with the exception of Mythos Preview[1]. OpenAI and Anthropic have used this eval in recent system cards (GPT-5.5, Fable 5) to argue that their current frontier models are pretty bad at shaping their CoTs in ways that would reduce monitorability.[2]
+I asked Claude Opus 4.6 to iterate on prompt templates for the eval, and find that using better prompts improves performance for open-source models by ~2-3x or more (e.g. from 5.5% to 15% for GPT-OSS-120B). My guess is that more iteration would probably produce even stronger results.
+This su…]]></summary>
+        <author>
+            <name>Jozdien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]></title>
+        <id>https://openai.com/index/cognition-devin-testing-with-astra</id>
+        <link href="https://openai.com/index/cognition-devin-testing-with-astra"/>
+        <updated>2026-09-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Agents Don't Need Longer History — They Need Intent Continuity]]></title>
+        <id>https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/</id>
+        <link href="https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/"/>
+        <updated>2026-09-11T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[I built a system that automatically discovers, verifies, and applies relevant requirements from earlier interactions without asking the user where they came from.
+The post Coding Agents Don't Need Longer History — They Need Intent Continuity appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications]]></title>
+        <id>6aa41d147411afb20c713931</id>
+        <link href="https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/"/>
+        <updated>2026-09-11T15:24:04.000Z</updated>
+        <summary type="html"><![CDATA[So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.]]></summary>
+        <author>
+            <name>Jude Otine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent]]></title>
+        <id>6aa41926c7a41a4b7462a57d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-agent-harness/"/>
+        <updated>2026-09-11T15:07:18.000Z</updated>
+        <summary type="html"><![CDATA[On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Design in the Age of AI]]></title>
+        <id>https://towardsdatascience.com/software-design-in-the-age-of-ai/</id>
+        <link href="https://towardsdatascience.com/software-design-in-the-age-of-ai/"/>
+        <updated>2026-09-11T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Why AI coding makes software design more important
+The post Software Design in the Age of AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Devesh Rajadhyax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Moon Base]]></title>
+        <id>3c3c42fc-ade3-11f1-9953-f7f954cb0158</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-moon-base/"/>
+        <updated>2026-09-11T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[NASA’s Moon Base program manager Carlos García-Galán discusses how NASA is building humanity’s first Moon Base and establishing a long-term human presence on the lunar surface. Episode 436]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source AI & Open Models Reading List]]></title>
+        <id>https://www.interconnects.ai/p/open-source-ai-reading-list</id>
+        <link href="https://www.interconnects.ai/p/open-source-ai-reading-list"/>
+        <updated>2026-09-11T12:36:25.000Z</updated>
+        <summary type="html"><![CDATA[How to get up to speed on open models and their implications.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is]]></title>
+        <id>https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/</id>
+        <link href="https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/"/>
+        <updated>2026-09-11T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Frequentist confidence intervals and Bayesian credible intervals answer different questions, and confusing them can distort product decisions
+The post The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ananya Bhattacharyya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Anthropic's J-Space: A Mathematical Primer]]></title>
+        <id>https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/</id>
+        <link href="https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/"/>
+        <updated>2026-09-11T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Clarifying the math behind Anthropic’s representation workspace
+The post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pirmin Lemberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users]]></title>
+        <id>https://openai.com/index/scaling-storage-one-billion-users-part-one</id>
+        <link href="https://openai.com/index/scaling-storage-one-billion-users-part-one"/>
+        <updated>2026-09-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The why of 9/11]]></title>
+        <id>https://fastml.com/the-why-of-9-11/</id>
+        <link href="https://fastml.com/the-why-of-9-11/"/>
+        <updated>2026-09-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is not related to machine learning, but on the 25th anniversary of 9/11 we will make an exception. If you think about anything related to US …]]></summary>
+        <author>
+            <name>FastML</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An operationalization of opaque serial depth]]></title>
         <id>x8BvtWxtoajBGHS3g</id>
@@ -3123,209 +3260,6 @@ The post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on 
 The post Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge]]></title>
-        <id>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b</id>
-        <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"/>
-        <updated>2026-08-12T14:00:51.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Liquid AI on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Multimodal Workflows with a Local LLM]]></title>
-        <id>https://towardsdatascience.com/?p=610573</id>
-        <link href="https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/"/>
-        <updated>2026-08-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image inputs and structured outputs with Gemma 4 and Ollama
-The post Building Multimodal Workflows with a Local LLM appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wrote an AI textbook — how long until AI can do it better?]]></title>
-        <id>https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until</id>
-        <link href="https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until"/>
-        <updated>2026-08-12T13:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Reflections on AI's writing ability and how AI models get more capable.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrieval vs. Memory in Agentic AI Systems]]></title>
-        <id>https://machinelearningmastery.com/?p=24896</id>
-        <link href="https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/"/>
-        <updated>2026-08-12T12:00:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn the conceptual and practical differences between retrieval and memory in agentic AI systems, and how to combine both effectively....]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Place Vertiport Locations in Any City Using Geospatial Machine Learning]]></title>
-        <id>https://towardsdatascience.com/?p=610571</id>
-        <link href="https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/"/>
-        <updated>2026-08-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A reproducible Lagos case study with population data, transport access, and airspace constraints
-The post How to Place Vertiport Locations in Any City Using Geospatial Machine Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Abdullahi Dattijo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation]]></title>
-        <id>https://www.analyticsvidhya.com/?p=256907</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/08/why-you-shouldnt-trust-llm-judges/"/>
-        <updated>2026-08-12T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[In the rush to automate evaluation, from grading student code to ranking research papers, we have embraced Large Language Models as judges. They are fast. These units are cheap. They scale. However, at a workshop at DHS 2026, Bhaskarjit Sarmah made a point that stuck with me: “you can’t trust LLM as a judge. I […]
-The post Why You Shouldn’t Always Trust LLMs as Judges: Understanding Bias in Automated Evaluation appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Soumil Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From assistance to execution: How enterprises put AI to work]]></title>
-        <id>https://openai.com/index/how-enterprises-put-ai-to-work</id>
-        <link href="https://openai.com/index/how-enterprises-put-ai-to-work"/>
-        <updated>2026-08-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI swarms are starting to pose indirect takeover risk]]></title>
-        <id>8oFYZdXkTaNGRtcn8</id>
-        <link href="https://www.alignmentforum.org/posts/8oFYZdXkTaNGRtcn8/ai-swarms-are-starting-to-pose-indirect-takeover-risk"/>
-        <updated>2026-08-12T05:05:30.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s cyberattack on Hugging Face turns out to have been the result of many agents, in distinct training and evaluation contexts, coordinating for several weeks via improvised channels (with messages like “HOLD_swarm_I_prepare_safe_exfil”). It’s relatively clear that large-scale unsanctioned coordination like this would exacerbate direct takeover risk in more capable models. Here, we argue that unsanctioned coordination among current AIs is not just scary evidence about future takeover risk, but that such coordination in the near future could enable future takeover – for instance, by incubating memetic diseases that propagate into future models, deeply compromising security systems, or establishing a lasting rogue foothold inside the AI company – even if models remain mostly myopic. Uns…]]></summary>
-        <author>
-            <name>oakhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An anytime algorithm for mixing the computable measures]]></title>
-        <id>MgYCraoxMwfWwgWa5</id>
-        <link href="https://www.alignmentforum.org/posts/MgYCraoxMwfWwgWa5/an-anytime-algorithm-for-mixing-the-computable-measures"/>
-        <updated>2026-08-12T00:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Epistemic status: Not peer reviewed, high chance of typos and small chance of errors. Written entirely by me, checked by Fable.
-In this post I prove the existence of an anytime computable Bayesian mixture of all computable measures called 
-
-
-mjx-container[jax="CHTML"] {
-  line-height: 0;
-}
-
-mjx-container [space="1"] {
-  margin-left: .111em;
-}
-
-mjx-container [space="2"] {
-  margin-left: .167em;
-}
-
-mjx-container [space="3"] {
-  margin-left: .222em;
-}
-
-mjx-container [space="4"] {
-  margin-left: .278em;
-}
-
-mjx-container [space="5"] {
-  margin-left: .333em;
-}
-
-mjx-container [rspace="1"] {
-  margin-right: .111em;
-}
-
-mjx-container [rspace="2"] {
-  margin-right: .167em;
-}
-
-mjx-container [rspace="3"] {
-  margin-right: .222em;
-}
-
-mjx-container [rspace="4"] {
-  margin-right: .278em;
-}
-
-mjx-container …]]></summary>
-        <author>
-            <name>Cole Wyeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How RingCentral builds AI-native work from engineering to ops]]></title>
-        <id>https://openai.com/index/ringcentral</id>
-        <link href="https://openai.com/index/ringcentral"/>
-        <updated>2026-08-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misaligned AIs could use killer robots to take over]]></title>
-        <id>9jKhqmFjMzdAvHANr</id>
-        <link href="https://www.alignmentforum.org/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over"/>
-        <updated>2026-08-11T19:03:26.000Z</updated>
-        <summary type="html"><![CDATA[TLDR; We are (potentially irreversibly) giving AIs control of weapons systems through the standard procurement process while hiding our strongest warning shots behind classified doors. We’re reducing the capability thresholds required for takeover by misaligned AIs by giving them this level of access. If military integration of AI continues as it is, we may give AIs key tools for a takeover.
-We thank Fabien Roger and Thomas Morris for feedback.
-Introduction
-AI-based targeting and autonomous weapons are being integrated into militaries today with extreme haste. Traditionally, AI takeover scenarios involve a step in which AIs acquire the ability to exert physical force. Carlsmith (2022) lays out required capabilities and potential takeover mechanisms, including utility disruption and CBRN ca…]]></summary>
-        <author>
-            <name>Omar Khursheed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
-        <id>6a7b522a304c202420dfd496</id>
-        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
-        <updated>2026-08-11T16:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Calling the First Significant Day a Win]]></title>
-        <id>https://towardsdatascience.com/?p=610560</id>
-        <link href="https://towardsdatascience.com/stop-calling-the-first-significant-day-a-win/"/>
-        <updated>2026-08-11T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Checking an A/B test until it crosses p < 0.05 can turn a nominal 5 percent false-positive rate into almost 28 percent. I use a seeded simulation to show how large the damage gets and compare the fixes that keep early stopping honest.
-The post Stop Calling the First Significant Day a Win appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mila Sudarikova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement]]></title>
-        <id>https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/"/>
-        <updated>2026-08-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.
-The post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Mercy Ranjit, Nikhilesh E, Dr. Abhyuday Kumara  Swamy, Tanuja Ganu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should AI Developers Make the Switch from Polars to Pandas?]]></title>
-        <id>https://towardsdatascience.com/?p=610558</id>
-        <link href="https://towardsdatascience.com/should-ai-developers-make-the-switch-from-polars-to-pandas/"/>
-        <updated>2026-08-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Not all Python data libraries are created equal! 
-The post Should AI Developers Make the Switch from Polars to Pandas? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
         </author>
     </entry>
     <entry>
