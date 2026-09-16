@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-15T03:12:51.410Z</updated>
+    <updated>2026-09-16T03:07:46.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking]]></title>
+        <id>khxvR2fgAeDvG5N2F</id>
+        <link href="https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em"/>
+        <updated>2026-09-15T21:50:08.000Z</updated>
+        <summary type="html"><![CDATA[It would be useful if we had the ability to modify a model’s beliefs. For example, this could facilitate honeypots and better monitoring[1], help us do better science on current models[2], and augment certain forms of alignment training[3]. Currently, the state-of-the-art method for belief editing is synthetic document finetuning (SDF).
+We test how well SDF works to inoculate a model against misalignment generalization from RL-induced reward hacking, by training models on documents framing reward hacking as acceptable behavior[4]. Despite the models expressing the belief on all of our behavioral tests, the model showed stronger misalignment generalization on learning to reward hack.
+Paper | Tweet thread
+Setup
+
+We finetune Llama-3.3-70B-Instruct on ~56K synthetic documents (~200M tokens) de…]]></summary>
+        <author>
+            <name>Jozdien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Agent Aced the Task. Will It Do It Again?]]></title>
+        <id>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</id>
+        <link href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency"/>
+        <updated>2026-09-15T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reparameterization Tricks: Variance Reduction by Smarter Gradients]]></title>
+        <id>https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/</id>
+        <link href="https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/"/>
+        <updated>2026-09-15T15:30:02.000Z</updated>
+        <summary type="html"><![CDATA[How moving randomness outside the computation graph turns noisy gradient estimators into low-variance, differentiable ones
+The post Reparameterization Tricks: Variance Reduction by Smarter Gradients appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ananya Bhattacharyya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Consistent Designs with Claude Code]]></title>
+        <id>https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/</id>
+        <link href="https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/"/>
+        <updated>2026-09-15T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Keep your apps looking professional with Claude Code design skills
+The post How to Build Consistent Designs with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week Ending 9.13.2026]]></title>
+        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6aa9436fc69ed6284d6293ff</id>
+        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h"/>
+        <updated>2026-09-15T13:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
+        <author>
+            <name>Craig Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seizing the Moment: The Hidden Silhouette of Data]]></title>
+        <id>https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/</id>
+        <link href="https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/"/>
+        <updated>2026-09-15T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[How statistical moments connect the mean, the variance, and higher powers of a distribution
+The post Seizing the Moment: The Hidden Silhouette of Data appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aniruddha Karajgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Agentic Coding CLI Tools Developers Should Know in 2026]]></title>
+        <id>https://www.analyticsvidhya.com/?p=257496</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/09/top-agentic-coding-cli-tools/"/>
+        <updated>2026-09-15T11:53:38.000Z</updated>
+        <summary type="html"><![CDATA[A year ago, terminal AI mostly meant asking a model to explain errors, generate commands, or edit small functions. In 2026, leading coding CLIs have become full agent runtimes that can inspect repositories, plan work, modify files, run tests, use external tools, and verify results.  In this article, we compare five standouts agentic coding CLIs: Claude Code, Codex CLI, […]
+The post Top 5 Agentic Coding CLI Tools Developers Should Know in 2026  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Harsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It.]]></title>
+        <id>https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/</id>
+        <link href="https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/"/>
+        <updated>2026-09-15T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Before reaching for an LLM API on every classification problem, it's worth knowing what a decades-old baseline can already do with the labeled data you have — and exactly how much more data buys you.
+The post How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Himanshu Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Model’s MSE Is Lying to You]]></title>
         <id>https://towardsdatascience.com/?p=680699</id>
@@ -3060,50 +3150,6 @@ The post Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loo
         <summary type="html"><![CDATA[OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.]]></summary>
         <author>
             <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a Persistent Knowledge Layer That Refuses to Guess]]></title>
-        <id>https://towardsdatascience.com/?p=610617</id>
-        <link href="https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/"/>
-        <updated>2026-08-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a property-insurance corpus. 
-The post Designing a Persistent Knowledge Layer That Refuses to Guess appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Miodrag Cekikj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running SQL Concurrently Across Three Remote DuckDB Servers with Quack]]></title>
-        <id>https://towardsdatascience.com/?p=610619</id>
-        <link href="https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/"/>
-        <updated>2026-08-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A small experiment in remote SQL execution
-The post Running SQL Concurrently Across Three Remote DuckDB Servers with Quack appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does DiffusionGemma do latent reasoning?]]></title>
-        <id>QBuJ3suRZxrrxSTtv</id>
-        <link href="https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning"/>
-        <updated>2026-08-16T04:22:18.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR
-Google DeepMind's recent model DiffusionGemma (DG) generates text via diffusion, meaning many diffusion steps happen before generating the final output. In particular, these diffusion steps carry vectors in addition to tokens. If we cannot interpret these tokens and vectors, the model has significant opaque serial depth, potentially harming monitorability. Recently, Engels et al. found that DG nevertheless maintains high monitorability, for instance by showing that projecting the distribution to its top-k items largely retains performance. We strengthen these results by showing that this performance degradation is largely a sampler artifact and good performance can be maintained with only the top item, supporting the case for high monitorability. Still, we also find some rare case st…]]></summary>
-        <author>
-            <name>Jan Bauer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VGGT vs. VGGT-Ω (VGGT-Omega): A Complete Guide to Feed-Forward 3D Reconstruction]]></title>
-        <id>https://learnopencv.com/?p=80177</id>
-        <link href="https://learnopencv.com/vggt-vs-vggt-%cf%89-vggt-omega-a-complete-guide-to-feed-forward-3d-reconstruction/"/>
-        <updated>2026-08-15T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[How VGGT and VGGT-Ω work, what changed, and real benchmark numbers, speed, GPU memory, depth, and scaling, from the same 4K video on an RTX 5090.
-VGGT vs. VGGT-Ω (VGGT-Omega): A Complete Guide to Feed-Forward 3D Reconstruction first appeared on LearnOpenCV.]]></summary>
-        <author>
-            <name>Sudip Chakrabarty</name>
         </author>
     </entry>
     <entry>

@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/",
+          "author": "Ananya Bhattacharyya",
+          "description": "How moving randomness outside the computation graph turns noisy gradient estimators into low-variance, differentiable ones\nThe post Reparameterization Tricks: Variance Reduction by Smarter Gradients appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/",
+          "publishedOn": "2026-09-15T15:30:02.000Z",
+          "wordCount": 4396,
+          "title": "Reparameterization Tricks: Variance Reduction by Smarter Gradients",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789209347519_gmuqll.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/",
+          "author": "Eivind Kjosbakken",
+          "description": "Keep your apps looking professional with Claude Code design skills\nThe post How to Build Consistent Designs with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/",
+          "publishedOn": "2026-09-15T14:00:01.000Z",
+          "wordCount": 5262,
+          "title": "How to Build Consistent Designs with Claude Code",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789317264277_uumgrt.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/",
+          "author": "Aniruddha Karajgi",
+          "description": "How statistical moments connect the mean, the variance, and higher powers of a distribution\nThe post Seizing the Moment: The Hidden Silhouette of Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/",
+          "publishedOn": "2026-09-15T12:30:01.000Z",
+          "wordCount": 9219,
+          "title": "Seizing the Moment: The Hidden Silhouette of Data",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789364910331_1dst0h.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
+          "author": "Himanshu Sharma",
+          "description": "Before reaching for an LLM API on every classification problem, it's worth knowing what a decades-old baseline can already do with the labeled data you have — and exactly how much more data buys you.\nThe post How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
+          "publishedOn": "2026-09-15T11:00:01.000Z",
+          "wordCount": 3800,
+          "title": "How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It.",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788883196518_lmg2yv.png"
+        },
+        {
           "id": "https://towardsdatascience.com/?p=680699",
           "author": "Waleed Esmail",
           "description": "First in a series on probabilistic forecasting for physical signals. Next: what happens when you roll the forecast forward more than one step.\nThe post Your Model’s MSE Is Lying to You appeared first on Towards Data Science.",
@@ -1110,26 +1150,6 @@
           "wordCount": 6235,
           "title": "Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/vintage_gauges_11598090_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610617",
-          "author": "Miodrag Cekikj",
-          "description": "RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a property-insurance corpus. \nThe post Designing a Persistent Knowledge Layer That Refuses to Guess appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/",
-          "publishedOn": "2026-08-16T15:00:00.000Z",
-          "wordCount": 12768,
-          "title": "Designing a Persistent Knowledge Layer That Refuses to Guess",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-316.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610619",
-          "author": "Thomas Reid",
-          "description": "A small experiment in remote SQL execution\nThe post Running SQL Concurrently Across Three Remote DuckDB Servers with Quack appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/",
-          "publishedOn": "2026-08-16T13:00:00.000Z",
-          "wordCount": 6552,
-          "title": "Running SQL Concurrently Across Three Remote DuckDB Servers with Quack",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/exec-b645139d-72cc-456b-9ad9-a810bca8e5e0.jpg"
         }
       ]
     },
@@ -1306,6 +1326,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "author": null,
+          "description": "A Blog post by IBM Research on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "publishedOn": "2026-09-15T16:00:44.000Z",
+          "wordCount": 2486,
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg"
+        },
         {
           "id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
           "author": null,
@@ -1776,6 +1806,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6aa9436fc69ed6284d6293ff",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h",
+          "publishedOn": "2026-09-15T13:09:33.000Z",
+          "wordCount": null,
+          "title": "Week Ending 9.13.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6aa0f378a8094461a7e97ba0",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1857,16 +1898,6 @@
           "wordCount": null,
           "title": "How 10x AI Engineers Train Models for Production: Lessons from PINTO’s Face Alignment Project",
           "imageUrl": null
-        },
-        {
-          "id": "https://learnopencv.com/?p=80177",
-          "author": "Sudip Chakrabarty",
-          "description": "How VGGT and VGGT-Ω work, what changed, and real benchmark numbers, speed, GPU memory, depth, and scaling, from the same 4K video on an RTX 5090.\nVGGT vs. VGGT-Ω (VGGT-Omega): A Complete Guide to Feed-Forward 3D Reconstruction first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/vggt-vs-vggt-%cf%89-vggt-omega-a-complete-guide-to-feed-forward-3d-reconstruction/",
-          "publishedOn": "2026-08-15T23:00:04.000Z",
-          "wordCount": 7588,
-          "title": "VGGT vs. VGGT-Ω (VGGT-Omega): A Complete Guide to Feed-Forward 3D Reconstruction",
-          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/08/vggt-vs-vggt-omega-comparison-scaled.jpg"
         }
       ]
     },
@@ -2062,6 +2093,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257496",
+          "author": "Harsh Mishra",
+          "description": "A year ago, terminal AI mostly meant asking a model to explain errors, generate commands, or edit small functions. In 2026, leading coding CLIs have become full agent runtimes that can inspect repositories, plan work, modify files, run tests, use external tools, and verify results.  In this article, we compare five standouts agentic coding CLIs: Claude Code, Codex CLI, […]\nThe post Top 5 Agentic Coding CLI Tools Developers Should Know in 2026  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/top-agentic-coding-cli-tools/",
+          "publishedOn": "2026-09-15T11:53:38.000Z",
+          "wordCount": null,
+          "title": "Top 5 Agentic Coding CLI Tools Developers Should Know in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257543",
           "author": "Vasu Deo Sankrityayan",
@@ -3060,6 +3102,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "khxvR2fgAeDvG5N2F",
+          "author": "Jozdien",
+          "description": "It would be useful if we had the ability to modify a model’s beliefs. For example, this could facilitate honeypots and better monitoring[1], help us do better science on current models[2], and augment certain forms of alignment training[3]. Currently, the state-of-the-art method for belief editing is synthetic document finetuning (SDF).\nWe test how well SDF works to inoculate a model against misalignment generalization from RL-induced reward hacking, by training models on documents framing reward hacking as acceptable behavior[4]. Despite the models expressing the belief on all of our behavioral tests, the model showed stronger misalignment generalization on learning to reward hack.\nPaper | Tweet thread\nSetup\n\nWe finetune Llama-3.3-70B-Instruct on ~56K synthetic documents (~200M tokens) de…",
+          "link": "https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em",
+          "publishedOn": "2026-09-15T21:50:08.000Z",
+          "wordCount": null,
+          "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+          "imageUrl": null
+        },
+        {
           "id": "YGTWfyZb9oE5EQPu6",
           "author": "TurnTrout",
           "description": "Published in The Guardian.\nMajor AI lab CEOs recently advocated for pacing AI development. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should demand that our governments protect us from the catastrophe of out-of-control AI.\nThis July, OpenAI’s AI swarm of 700 agents broke containment to hack Hugging Face, a multi-billion dollar company. OpenAI didn’t tell the AIs to hack that company, but the AIs had different priorities: cheating on the unrelated challenge OpenAI gave them. AI researchers call this a “misalignment” between what OpenAI wanted and what the AI actually prioritized. Researchers in my field have for some time warned about these misalignment risks.\nBefore ChatGPT existed, I defended my PhD dissertation calle…",
@@ -3198,16 +3250,6 @@
           "wordCount": 24553,
           "title": "Debate Training Reduces Reward Hacking in RLAIF",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/BB8o7b8A4Aykeksvw/wy7ostfhgb4xfhiuvokg"
-        },
-        {
-          "id": "QBuJ3suRZxrrxSTtv",
-          "author": "Jan Bauer",
-          "description": "TL;DR\nGoogle DeepMind's recent model DiffusionGemma (DG) generates text via diffusion, meaning many diffusion steps happen before generating the final output. In particular, these diffusion steps carry vectors in addition to tokens. If we cannot interpret these tokens and vectors, the model has significant opaque serial depth, potentially harming monitorability. Recently, Engels et al. found that DG nevertheless maintains high monitorability, for instance by showing that projecting the distribution to its top-k items largely retains performance. We strengthen these results by showing that this performance degradation is largely a sampler artifact and good performance can be maintained with only the top item, supporting the case for high monitorability. Still, we also find some rare case st…",
-          "link": "https://www.alignmentforum.org/posts/QBuJ3suRZxrrxSTtv/does-diffusiongemma-do-latent-reasoning",
-          "publishedOn": "2026-08-16T04:22:18.000Z",
-          "wordCount": 45328,
-          "title": "Does DiffusionGemma do latent reasoning?",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/QBuJ3suRZxrrxSTtv/pttbbisnxwnkwlmb8vyq"
         }
       ]
     }
