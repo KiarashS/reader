@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/",
+          "author": "Aamir Hussain Chughtai, PhD",
+          "description": "Robust Estimation Series: comparing classical and modern robust estimators through theory, code, and experiments\nThe post How to Make Linear Regression Survive Outliers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/",
+          "publishedOn": "2026-09-16T15:30:01.000Z",
+          "wordCount": 12499,
+          "title": "How to Make Linear Regression Survive Outliers",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789023917893_774ihr.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
+          "author": "Sam Black",
+          "description": "PyTorch and TensorFlow tensor broadcasting: how silent shape errors cause difficult-to-debug machine learning bugs\nThe post Silent Broadcasting Can Ruin Your Model appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
+          "publishedOn": "2026-09-16T14:00:01.000Z",
+          "wordCount": 3542,
+          "title": "Silent Broadcasting Can Ruin Your Model",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789493748719_jlk4gz.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/",
+          "author": "Mostafa Ibrahim",
+          "description": "A VRAM budget formula for LLM serving, and three optimization strategies mapped to the traffic patterns that trigger the OOM.\nThe post The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/",
+          "publishedOn": "2026-09-16T12:30:02.000Z",
+          "wordCount": 4034,
+          "title": "The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789330856875_qybhsj.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/the-n-squared-pizza-problem/",
+          "author": "Daniel Miller",
+          "description": "What ordering and not eating a large pizza tells us about ML memory management\nThe post The N Squared Pizza Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-n-squared-pizza-problem/",
+          "publishedOn": "2026-09-16T11:00:02.000Z",
+          "wordCount": 5254,
+          "title": "The N Squared Pizza Problem",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789479570881_wapx9n.webp"
+        },
+        {
           "id": "https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/",
           "author": "Ananya Bhattacharyya",
           "description": "How moving randomness outside the computation graph turns noisy gradient estimators into low-variance, differentiable ones\nThe post Reparameterization Tricks: Variance Reduction by Smarter Gradients appeared first on Towards Data Science.",
@@ -1120,36 +1160,6 @@
           "wordCount": 7206,
           "title": "Webwright: Why AI Web Agents Should Write Code, Not Click",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/hal-gatewood-tZc3vjPCk-Q-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610626",
-          "author": "Shoumik Chakravarty",
-          "description": "How autonomous agents broke two decades of capacity planning — and what to build instead\nThe post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/",
-          "publishedOn": "2026-08-17T15:00:00.000Z",
-          "wordCount": 5501,
-          "title": "Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Three_Generations_Autoscaling_1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610623",
-          "author": "Eivind Kjosbakken",
-          "description": "Become a more productive software engineer with LLMs\nThe post How to Perform Effective Project Management with AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-perform-effective-project-management-with-ai/",
-          "publishedOn": "2026-08-17T13:30:00.000Z",
-          "wordCount": 4591,
-          "title": "How to Perform Effective Project Management with AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/project-management-age-of-llms_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610621",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #13bis] - The four bricks return useful results most of the time. Loop engineering is what the system does the rest of the time: when retrieval misses, when generation fails the schema, when the listing comes back incomplete, when an API call times out. Three control surfaces (trigger, termination, recovery) and one rule that separates a useful loop from a spinning one\nThe post Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/",
-          "publishedOn": "2026-08-17T12:00:00.000Z",
-          "wordCount": 6235,
-          "title": "Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/vintage_gauges_11598090_v3_card.jpg"
         }
       ]
     },
@@ -1267,16 +1277,6 @@
           "wordCount": 9046,
           "title": "Managing Small Context Windows in Language Models",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-managing-small-context-windows-in-language-models-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24836",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn seven concrete regression tests for catching the orchestration-layer failure modes that matter most before deploying an AI agent to...",
-          "link": "https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/",
-          "publishedOn": "2026-08-17T12:00:15.000Z",
-          "wordCount": 8889,
-          "title": "7 Regression Tests Every AI Agent Should Pass Before Deploy",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-7-regression-tests-every-ai-agent-should-pass-before-deploy-feature.png"
         }
       ]
     },
@@ -2065,26 +2065,6 @@
           "wordCount": 3626,
           "title": "Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Custom-Evaluation-Sets-Outlast-Public-Benchmarks-for-Frontier-Model-Testing.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41059",
-          "author": "Sujana Urs",
-          "description": "Learn how autonomous vehicle data triage is shifting from reactive review to AI-directed workflows, and where human experts improve models.\nThe post When AI Decides What Data Is Needed Next: The Shift to Directed Triage in Autonomous Vehicles appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/when-ai-decides-what-data-is-needed-next-the-shift-to-directed-triage-in-autonomous-vehicles/",
-          "publishedOn": "2026-08-17T14:05:14.000Z",
-          "wordCount": 2971,
-          "title": "When AI Decides What Data Is Needed Next: The Shift to Directed Triage in Autonomous Vehicles",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-When-AI-Decides-What-Data-is-Needed-Next-The-Shift-to-Directed-Triage-in-Autonomous-Vehicles.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41034",
-          "author": "Sujana Urs",
-          "description": "The recurring sensor, calibration, and annotation issues that quietly degrade 3D point cloud dataset quality, and how to catch them early.\nThe post 3D Point Cloud Dataset Quality: The Most Common Issues to Catch Early appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/3d-point-cloud-dataset-quality-the-most-common-issues-to-catch-early/",
-          "publishedOn": "2026-08-17T13:58:44.000Z",
-          "wordCount": 3644,
-          "title": "3D Point Cloud Dataset Quality: The Most Common Issues to Catch Early",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Sensor-Calibration-Errors.png"
         }
       ]
     },
@@ -2367,6 +2347,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/model-misalignment-reporting-framework",
+          "author": null,
+          "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "link": "https://openai.com/index/model-misalignment-reporting-framework",
+          "publishedOn": "2026-09-16T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Our framework for reporting model misalignment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "author": null,
+          "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "publishedOn": "2026-09-16T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Helping older adults use AI in everyday life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/reimagining-advertising-with-ai",
+          "author": null,
+          "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "link": "https://openai.com/index/reimagining-advertising-with-ai",
+          "publishedOn": "2026-09-16T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Reimagining advertising with AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "author": null,
+          "description": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "publishedOn": "2026-09-16T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How to connect AI usage to business value",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/unlocking-new-ways-of-working",
+          "author": null,
+          "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "link": "https://openai.com/index/unlocking-new-ways-of-working",
+          "publishedOn": "2026-09-16T09:00:00.000Z",
+          "wordCount": null,
+          "title": "How workers are unlocking new ways of working",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/fyxer",
           "author": null,
@@ -2976,36 +3006,6 @@
           "wordCount": null,
           "title": "How NVIDIA scales expertise with ChatGPT Work",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/the-defenders-window",
-          "author": null,
-          "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-          "link": "https://openai.com/index/the-defenders-window",
-          "publishedOn": "2026-08-17T05:30:00.000Z",
-          "wordCount": null,
-          "title": "The Defender’s Window",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-joins-ports-pike-project",
-          "author": null,
-          "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-          "link": "https://openai.com/index/openai-joins-ports-pike-project",
-          "publishedOn": "2026-08-17T05:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI joins PORTS-Pike project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "author": null,
-          "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-          "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "publishedOn": "2026-08-17T03:15:00.000Z",
-          "wordCount": null,
-          "title": "New policy ideas for the Intelligence Age",
-          "imageUrl": null
         }
       ]
     },
@@ -3077,22 +3077,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!J8Bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2908b12f-8586-49cf-b34b-e1d5bc61bf19_1196x798.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
-          "author": "Nathan Lambert",
-          "description": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI.",
-          "link": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
-          "publishedOn": "2026-08-17T15:07:49.000Z",
-          "wordCount": null,
-          "title": "Teaching Everyone to Fish for Tokens",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b8608bb9-bf33-46e6-8ffe-dcf75a851f9b_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b8608bb9-bf33-46e6-8ffe-dcf75a851f9b_3182x1790.png"
         }
       ]
     },
