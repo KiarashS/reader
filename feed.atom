@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-19T02:58:39.412Z</updated>
+    <updated>2026-09-20T03:10:07.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
+        <id>6aaec60b559dfa1d9e4f1ddc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
+        <updated>2026-09-19T17:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I still haven’t bought into true RSI]]></title>
+        <id>https://www.interconnects.ai/p/where-i-stand-on-rsi</id>
+        <link href="https://www.interconnects.ai/p/where-i-stand-on-rsi"/>
+        <updated>2026-09-19T15:42:20.000Z</updated>
+        <summary type="html"><![CDATA[An “AI moderate’s” view on recent events and the trajectory of frontier models.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores]]></title>
+        <id>https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/</id>
+        <link href="https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/"/>
+        <updated>2026-09-19T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Deduplicating a 10,000-row supplier list in Python, where the hard part is deciding what a similarity score of 91 means
+The post One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Boris Dzhingarov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.]]></title>
+        <id>https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/</id>
+        <link href="https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/"/>
+        <updated>2026-09-19T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[One near miss, four months of running agents, and the question almost nobody is asking: what are you supposed to do while the AI writes the code?
+The post AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
         <id>6aadae08b3c208add9878388</id>
@@ -70,6 +112,16 @@ The post We Pinned Our Model Version to Stay Safe. The Provider Deprecated It An
 The post Starting a Career in Data Science in the Age of AI appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Australian Youth Safety Blueprint]]></title>
+        <id>https://openai.com/index/australian-youth-safety-blueprint</id>
+        <link href="https://openai.com/index/australian-youth-safety-blueprint"/>
+        <updated>2026-09-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.]]></summary>
+        <author>
+            <name>OpenAI News</name>
         </author>
     </entry>
     <entry>
@@ -3068,133 +3120,6 @@ The post Real-Time vs. Offline Triage in AV Pipelines: Why the Architecture Deci
 The post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.]]></summary>
         <author>
             <name>Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&amp;aacute;t Szab&amp;oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One]]></title>
-        <id>https://towardsdatascience.com/?p=610690</id>
-        <link href="https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/"/>
-        <updated>2026-08-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture
-The post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing]]></title>
-        <id>https://imerit.ai/?p=41109</id>
-        <link href="https://imerit.ai/resources/blog/why-custom-evaluation-sets-outlast-public-benchmarks-for-frontier-model-testing/"/>
-        <updated>2026-08-20T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Public benchmarks saturate fast. See why custom evaluation sets hold up better for frontier model testing over time.
-The post Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune an LLM: An End-to-End Guide]]></title>
-        <id>https://towardsdatascience.com/?p=610680</id>
-        <link href="https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/"/>
-        <updated>2026-08-20T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A hands-on guide to fine-tuning LLMs for the real world
-The post How to Fine-Tune an LLM: An End-to-End Guide appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Robust RAG System with Minimal Resources]]></title>
-        <id>https://machinelearningmastery.com/?p=24851</id>
-        <link href="https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/"/>
-        <updated>2026-08-20T12:00:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to design, assemble, and tune a retrieval-augmented generation system that runs entirely on a standard laptop, without cloud...]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making the Knowledge Layer a Graph You Actually Traverse]]></title>
-        <id>https://towardsdatascience.com/?p=610678</id>
-        <link href="https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/"/>
-        <updated>2026-08-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why retrieval quality should be a property of the system, not of the question's wording? Rebuilding knowledge layer with graph traversal on every query, bitemporal edges, and two-threshold entity resolution.
-The post Making the Knowledge Layer a Graph You Actually Traverse appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Miodrag Cekikj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Intelligence Age]]></title>
-        <id>https://openai.com/index/introducing-intelligence-age</id>
-        <link href="https://openai.com/index/introducing-intelligence-age"/>
-        <updated>2026-08-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing AI Futures]]></title>
-        <id>https://openai.com/index/introducing-ai-futures</id>
-        <link href="https://openai.com/index/introducing-ai-futures"/>
-        <updated>2026-08-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stampli cuts launch hours by 68% using ChatGPT Work]]></title>
-        <id>https://openai.com/index/stampli</id>
-        <link href="https://openai.com/index/stampli"/>
-        <updated>2026-08-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offering Zero Data Retention for frontier models]]></title>
-        <id>https://openai.com/index/offering-zero-data-retention-for-frontier-models</id>
-        <link href="https://openai.com/index/offering-zero-data-retention-for-frontier-models"/>
-        <updated>2026-08-19T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale an Integration Pipeline Without Breaking Correctness]]></title>
-        <id>https://towardsdatascience.com/?p=610703</id>
-        <link href="https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/"/>
-        <updated>2026-08-19T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A production account of scaling an enterprise integration pipeline from 500 to 8,000 events per second, and the two correctness guarantees the throughput work was never allowed to trade away.
-The post How to Scale an Integration Pipeline Without Breaking Correctness appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Yuelin Ou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality]]></title>
-        <id>https://towardsdatascience.com/?p=610670</id>
-        <link href="https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/"/>
-        <updated>2026-08-19T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A controlled comparison of a top-5 RAG pipeline and a full 127,000 token prompt on the same 12 questions, same system prompt and same model. Graded blind on correctness, completeness and grounding.
-The post Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sarah Schürch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Anti-AI Public Opinion]]></title>
-        <id>https://towardsdatascience.com/?p=610668</id>
-        <link href="https://towardsdatascience.com/understanding-anti-ai-public-opinion/"/>
-        <updated>2026-08-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[People can accept tradeoffs when they see value — but if they don’t, what happens?
-The post Understanding Anti-AI Public Opinion appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Stephanie Kirmer</name>
         </author>
     </entry>
 </feed>

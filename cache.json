@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
+          "author": "Boris Dzhingarov",
+          "description": "Deduplicating a 10,000-row supplier list in Python, where the hard part is deciding what a similarity score of 91 means\nThe post One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
+          "publishedOn": "2026-09-19T15:00:01.000Z",
+          "wordCount": 5558,
+          "title": "One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789283071488_524xny.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/",
+          "author": "Gursimar Singh",
+          "description": "One near miss, four months of running agents, and the question almost nobody is asking: what are you supposed to do while the AI writes the code?\nThe post AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/",
+          "publishedOn": "2026-09-19T13:00:01.000Z",
+          "wordCount": 6142,
+          "title": "AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789669106848_cea74c.png"
+        },
+        {
           "id": "https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/",
           "author": "Reya Vir",
           "description": "How to verify your app aligns with your intent without ever reading a line of generated code.\nThe post Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them appeared first on Towards Data Science.",
@@ -1120,66 +1140,6 @@
           "wordCount": 4809,
           "title": "The LLM Judge That Kept Agreeing With Itself",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/article8_1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610690",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture\nThe post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/",
-          "publishedOn": "2026-08-20T15:00:00.000Z",
-          "wordCount": 6782,
-          "title": "Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/forked_road_snow_20061882_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610680",
-          "author": "Sam Black",
-          "description": "A hands-on guide to fine-tuning LLMs for the real world\nThe post How to Fine-Tune an LLM: An End-to-End Guide appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/",
-          "publishedOn": "2026-08-20T13:30:00.000Z",
-          "wordCount": 8665,
-          "title": "How to Fine-Tune an LLM: An End-to-End Guide",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/google-deepmind-LcgLq78WZCQ-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610678",
-          "author": "Miodrag Cekikj",
-          "description": "Why retrieval quality should be a property of the system, not of the question's wording? Rebuilding knowledge layer with graph traversal on every query, bitemporal edges, and two-threshold entity resolution.\nThe post Making the Knowledge Layer a Graph You Actually Traverse appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/",
-          "publishedOn": "2026-08-20T12:00:00.000Z",
-          "wordCount": 11559,
-          "title": "Making the Knowledge Layer a Graph You Actually Traverse",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-319.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610703",
-          "author": "Yuelin Ou",
-          "description": "A production account of scaling an enterprise integration pipeline from 500 to 8,000 events per second, and the two correctness guarantees the throughput work was never allowed to trade away.\nThe post How to Scale an Integration Pipeline Without Breaking Correctness appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/",
-          "publishedOn": "2026-08-19T18:00:00.000Z",
-          "wordCount": 6339,
-          "title": "How to Scale an Integration Pipeline Without Breaking Correctness",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/A3_featured_image.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610670",
-          "author": "Sarah Schürch",
-          "description": "A controlled comparison of a top-5 RAG pipeline and a full 127,000 token prompt on the same 12 questions, same system prompt and same model. Graded blind on correctness, completeness and grounding.\nThe post Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/",
-          "publishedOn": "2026-08-19T16:30:00.000Z",
-          "wordCount": 7332,
-          "title": "Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/RAG-vs-1M-Token-Context-Window-in-Kimi-K3-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610668",
-          "author": "Stephanie Kirmer",
-          "description": "People can accept tradeoffs when they see value — but if they don’t, what happens?\nThe post Understanding Anti-AI Public Opinion appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/understanding-anti-ai-public-opinion/",
-          "publishedOn": "2026-08-19T15:00:00.000Z",
-          "wordCount": 4527,
-          "title": "Understanding Anti-AI Public Opinion",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-1.jpeg"
         }
       ]
     },
@@ -1347,16 +1307,6 @@
           "wordCount": 9980,
           "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-integrating-agentic-ai-with-existing-machine-learning-pipelines-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24851",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn how to design, assemble, and tune a retrieval-augmented generation system that runs entirely on a standard laptop, without cloud...",
-          "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
-          "publishedOn": "2026-08-20T12:00:21.000Z",
-          "wordCount": 8848,
-          "title": "How to Build a Robust RAG System with Minimal Resources",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-how-to-build-a-robust-rag-system-with-minimal-resources-feature.png"
         }
       ]
     },
@@ -1694,6 +1644,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aaec60b559dfa1d9e4f1ddc",
+          "author": "Kayode Adeniyi",
+          "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
+          "publishedOn": "2026-09-19T17:27:39.000Z",
+          "wordCount": 7363,
+          "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1cfd03f-8ff0-4dcb-8282-f7fac7c5fe04.png"
+        },
         {
           "id": "6aa41d147411afb20c713931",
           "author": "Jude Otine",
@@ -2112,16 +2072,6 @@
           "wordCount": 3746,
           "title": "Real-Time vs. Offline Triage in AV Pipelines: Why the Architecture Decision Shapes What Your Model Actually Learns",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-image-3D-point-cloud-dataset-1.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41109",
-          "author": "Sujana Urs",
-          "description": "Public benchmarks saturate fast. See why custom evaluation sets hold up better for frontier model testing over time.\nThe post Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/why-custom-evaluation-sets-outlast-public-benchmarks-for-frontier-model-testing/",
-          "publishedOn": "2026-08-20T13:49:00.000Z",
-          "wordCount": 3626,
-          "title": "Why Custom Evaluation Sets Outlast Public Benchmarks for Frontier Model Testing",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Why-Custom-Evaluation-Sets-Outlast-Public-Benchmarks-for-Frontier-Model-Testing.png"
         }
       ]
     },
@@ -2393,6 +2343,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/australian-youth-safety-blueprint",
+          "author": null,
+          "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "link": "https://openai.com/index/australian-youth-safety-blueprint",
+          "publishedOn": "2026-09-18T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/cooley-gopublic",
           "author": null,
@@ -2962,46 +2922,6 @@
           "wordCount": null,
           "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-intelligence-age",
-          "author": null,
-          "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-          "link": "https://openai.com/index/introducing-intelligence-age",
-          "publishedOn": "2026-08-20T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing Intelligence Age",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-ai-futures",
-          "author": null,
-          "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-          "link": "https://openai.com/index/introducing-ai-futures",
-          "publishedOn": "2026-08-20T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing AI Futures",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/stampli",
-          "author": null,
-          "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-          "link": "https://openai.com/index/stampli",
-          "publishedOn": "2026-08-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "author": null,
-          "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "publishedOn": "2026-08-19T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Offering Zero Data Retention for frontier models",
-          "imageUrl": null
         }
       ]
     },
@@ -3010,6 +2930,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+          "author": "Nathan Lambert",
+          "description": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
+          "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+          "publishedOn": "2026-09-19T15:42:20.000Z",
+          "wordCount": null,
+          "title": "Why I still haven’t bought into true RSI",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png"
+        },
         {
           "id": "https://www.interconnects.ai/p/open-source-ai-reading-list",
           "author": "Nathan Lambert",
