@@ -51,6 +51,110 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-09-20 datetime="2026-09-20T15:00:01.000Z">2026-09-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-09-20 datetime="2026-09-20T15:00:01.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Towards Data Science</button>
+                  <a class="source-heading__link" href="https://towardsdatascience.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/"
+                        open
+                      >
+                        <summary class="article-expander__title">GraphRAG: A Practitioner&#x27;s Guide to 6 Advanced Architectural Patterns</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.insightmediagroup.io/media/1789481785421_ubs6xz.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Beyond basic graph retrieval: six production-oriented architectures for combining semantic search, knowledge graphs, and LLM reasoning.
+The post GraphRAG: A Practitioner&#x27;s Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;32
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/"
+                        open
+                      >
+                        <summary class="article-expander__title">CBAM Paper Walkthrough: The Double-Attention Mechanism</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.insightmediagroup.io/media/1789357494559_enki42.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Understanding and implementing CBAM (Convolutional Block Attention Module) from scratch with PyTorch
+The post CBAM Paper Walkthrough: The Double-Attention Mechanism appeared first on Towards Data Science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;37
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Casual Inference</button>
+                  <a class="source-heading__link" href="https://lmc2179.github.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://lmc2179.github.io/posts/top_trains.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Finding New York’s Hottest Train with time series decomposition</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://lmc2179.github.io/posts/top_trains.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://lmc2179.github.io/top_trains.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Credit for the title photo goes to Taylen Lundequalm, found on pexels.com. Lots of very important decisions are made by looking at time series data A shocking number of real world decisions are made by people on a zoom call squinting at a time series chart of a metric and saying “okay, I think I know what’s going on here”. But do they? In their defense, a time series can be hard to read. For example, the other day as I was sitting on the subway to go to my office (where I would sit on zoom calls squinting at time series plots), I found myself wondering whether there are more people on the subway than there had been a few years ago. The subway certainly felt more crowded, but maybe I’m just looking through rose tinted glasses at the New York of yesteryear (I wouldn’t be the first). Had the subway ridership actually increased? That’s a data question! We can grab a data set from our good friends at the MTA, and look at train ridership over time. For example, here’s the monthly ridership of the L train, which I was commuting on: # Import the data I downloaded from https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-2020-2025/vxuj-8kew/about_data import pandas as pd import numpy as np from matplotlib import pyplot as plt import matplotlib.ticker as ticker import seaborn as sns from statsmodels.tsa.seasonal import MSTL plt.rcParams[&quot;figure.figsize&quot;] &#x3D; (10, 8) df &#x3D; pd.read_csv(r&#x27;MTA_Subway_Customer_Journey-Focused_Metrics__Beginning_2015_20260829.csv&#x27;) df &#x3D; df[df[&#x27;month&#x27;] &gt;&#x3D; &#x27;2023-01-01&#x27;] df &#x3D; df[df[&#x27;period&#x27;] &#x3D;&#x3D; &#x27;peak&#x27;] df[&#x27;num_passengers&#x27;] &#x3D; df[&#x27;num_passengers&#x27;].str.replace(&#x27;,&#x27;, &#x27;&#x27;).astype(float) # L train plot def millions(x, pos): return f&#x27;{x*1e-6:.1f}M&#x27; l_train_peak_df &#x3D; df[df[&#x27;line&#x27;]&#x3D;&#x3D;&#x27;L&#x27;] l_train_peak_df.index &#x3D; pd.to_datetime(l_train_peak_df.month) plt.title(&#x27;Monthly Ridership on the (L) train&#x27;) plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(millions)) plt.plot(l_train_peak_df.num_passengers, marker&#x3D;&#x27;o&#x27;, markersize&#x3D;12, color&#x3D;&#x27;grey&#x27;, label&#x3D;&#x27;Monthly Riders&#x27;) plt.legend() plt.show() Okay, so…hm. I do not find this to be an easy chart to read. What’s the story here? It looks like it has increased, but how much? Is there a dip in the middle there? What can we say about the overall trend, other than “it looks like it’s going up”? What about monthly seasonality, is that affecting how this looks? You’ve probably had to deal with this before. The most common tool for dealing with this in practice is to smooth the time series with a moving average, or something similar. And it’s a good solution! Smoothing is the most common solution, and it’s a pretty good one The idea of a moving average is simple: average each point with the ones near it in order to make the curve smoother. Sudden spikes will get smoothed out as we combine them with their neighbors. By making the window size 12, we are attempting to remove the 12 month cycle and noise, leaving just the overall long-term trend. plt.title(&#x27;Monthly Ridership on the (L) train with smoothing&#x27;) plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(millions)) plt.plot(l_train_peak_df.num_passengers, marker&#x3D;&#x27;o&#x27;, markersize&#x3D;12, color&#x3D;&#x27;grey&#x27;, label&#x3D;&#x27;Monthly Riders&#x27;) plt.plot(l_train_peak_df.num_passengers.ewm(alpha&#x3D;0.3).mean(), color&#x3D;&#x27;black&#x27;, linestyle&#x3D;&#x27;dashed&#x27;, label&#x3D;&#x27;Exponentially Weighted Mean&#x27;) plt.plot(l_train_peak_df.num_passengers.rolling(window&#x3D;12, center&#x3D;True).mean(), color&#x3D;&#x27;black&#x27;, linestyle&#x3D;&#x27;dotted&#x27;, label&#x3D;&#x27;Rolling average&#x27;) plt.plot(l_train_peak_df.num_passengers.rolling(win_type&#x3D;&#x27;triang&#x27;, window&#x3D;12, center&#x3D;True).mean(), color&#x3D;&#x27;black&#x27;, linestyle&#x3D;&#x27;solid&#x27;, label&#x3D;&#x27;Rolling average (Triangular weights)&#x27;) plt.legend() plt.show() That is an improvement, admittedly. It’s now much easier to read, for example, that ridership started around the 3 million-ish mark and as of mid-2026 is around the 4 million-ish mark. This solution hints that there is a smooth trend underlying the data, something like \[Data_t &#x3D; Trend_t + Month_t + Noise_t\] or maybe if you’re feeling really fancy, you might write it with Greek letters: \[\underbrace{y_t}_\textrm{Observed} &#x3D; \underbrace{\mu_t}_\textrm{Trend component} + \underbrace{\beta_t}_\textrm{Monthly component} + \underbrace{\epsilon_t}_\textrm{Noise component}\] (For what it’s worth, I recommend the Greek letter version. People are always very impressed when data scientists use Greek letters.) We’re removing the monthly cycle and the noise with our moving average, ideally leaving just the trend behind. This is a good trick, but it always feels a little brittle to me. If we had more than one seasonal cycle (for example, daily and monthly cycles), we’d have to do some work to extend our method. It also raises a natural question - can I see the other parts of the equation, ie the monthly cycle and the noise? They might have information I could use too. Get the full picture by decomposing the time series with (M)STL We can decompose the time series into its pieces using the MSTL procedure as implemented in statsmodels. MSTL stands for “Multiple Seasonal-Trend decomposition using LOESS”, which is admittedly a bit of a mouthful. The method decomposes the observed time series into three components: Trend: The smooth long-term trajectory of the time series, with seasonal factors and noise removed. Seasonal: The cyclic behavior - in our example of month-level data, this is the 12 month cycle. The M in in MSTL comes from the fact that it supports multiple seasonalities (ie, daily and monthly). Residual: Everything left over. In theory, this is just normally distributed noise. In practice, examining the residuals helps us understand where the model doesn’t fit well. It’s easy to calculate this decomposition in statsmodels, and plot the different components: res &#x3D; MSTL(l_train_peak_df[&#x27;num_passengers&#x27;], periods&#x3D;(12)).fit() res.plot() plt.show() All of these add up to the time series we actually observed. They are our estimates of the right hand side of the equation for an additive time series we had before: \[\underbrace{y_t}_\textrm{Observed} &#x3D; \underbrace{\mu_t}_\textrm{Trend component} + \underbrace{\beta_t}_\textrm{Monthly component} + \underbrace{\epsilon_t}_\textrm{Noise component}\] Let’s look at each component separately and see what we can learn. Trend component Here’s the observed time series, plus the smooth long-term trend component: # Trend view plt.title(&#x27;Monthly Ridership on the (L) train with MSTL trend component&#x27;) plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(millions)) plt.plot(l_train_peak_df.num_passengers, marker&#x3D;&#x27;o&#x27;, markersize&#x3D;12, color&#x3D;&#x27;grey&#x27;, label&#x3D;&#x27;Monthly Riders&#x27;) plt.plot(res.trend, color&#x3D;&#x27;black&#x27;, linestyle&#x3D;&#x27;dashed&#x27;, label&#x3D;&#x27;Trend component&#x27;) plt.legend() plt.show() This makes things clearer - it gives us a single smooth line for the trend. We can see a dip in 2024, followed by a recovery over ‘25 and ‘26. Seasonal component # Seasonal view plt.title(&#x27;Monthly Ridership on the (L) train - MSTL seasonal component only&#x27;) plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(millions)) plt.plot(res.seasonal, marker&#x3D;&#x27;o&#x27;, markersize&#x3D;10) plt.axhline(0, color&#x3D;&#x27;grey&#x27;, alpha&#x3D;0.5) for i in [0, 12, 24, 36]: plt.axvline(l_train_peak_df.index[i], linestyle&#x3D;&#x27;dashed&#x27;, alpha&#x3D;0.5, color&#x3D;&#x27;grey&#x27;) plt.show() What does this tell us about the seasonal cycles of L train usage? October is busiest month, a fact that is well known (see the NYT for more) . September, on the other hand, is a very low ridership month. February tends to be a big dip after January - but it’s worth keeping in mind that February has fewer days, which is probably part of the explanation (the bitter cold of the subway in February probably doesn’t help). Comparing the seasonal and trend components using res.seasonal/res.trend is interesting too - that will show you how large the “seasonal effect” is compared to the long-term trend. Residual component Lastly, lets look at the residual component. The residuals tell us where a smooth trend + monthly cycle don’t account for what’s measured. Residuals much larger than the rest are where the model is “surprised” by a sudden change in some month. If the model captures all the relevant structure, then the residuals will look like a normally distributed fuzz around zero. # Residual view plt.title(&#x27;Monthly Ridership on the (L) train - MSTL residual component only&#x27;) plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(millions)) plt.plot(res.resid, marker&#x3D;&#x27;o&#x27;, markersize&#x3D;10, linewidth&#x3D;0) plt.axhline(0, color&#x3D;&#x27;grey&#x27;, alpha&#x3D;0.5) for i in [0, 12, 24, 36]: plt.axvline(l_train_peak_df.index[i], linestyle&#x3D;&#x27;dashed&#x27;, color&#x3D;&#x27;grey&#x27;, alpha&#x3D;0.5) plt.show() The model seems to fit poorly around the start of 2025; the ridership in January is way higher than the model’s estimate. What could have happenened in January 2025 that suddenly caused ridership to jump? We don’t have to look far for an explanation - on January 5, 2025, New York City implemented its congestion pricing program, a toll on driving in Manhattan south of 61st street. It seems reasonable to conclude that as the L train serves Manhattan and Brooklyn, some drivers chose to substitute a drive into the city with a ride on the L train. Which train has increased its ridership the most? One thing that’s nice about this sort of decomposition is that it lets you analyze the trend series, or multiple trend series, to understand what has been happening over the long term. For example, we can ask a question like: Which subway line has increased monthly ridership the most since 2023? Using the trend line helps us isolate long-term changes in each series, without worrying that we’re accidentally looking at transient effects or the result of seasonal variation. We can plot the trend-only views of all the lines: plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(millions)) plt.title(&#x27;Change in Monthly ridership from Jan 2023&#x27;) rows &#x3D; [] for line, color, bullet in [(&#x27;JZ&#x27;, &#x27;brown&#x27;, &#x27;🟤&#x27;), (&#x27;B&#x27;, &#x27;orange&#x27;, &#x27;🟠&#x27;), (&#x27;D&#x27;, &#x27;orange&#x27;, &#x27;🟠&#x27;), (&#x27;F&#x27;, &#x27;orange&#x27;, &#x27;🟠&#x27;), (&#x27;M&#x27;, &#x27;orange&#x27;, &#x27;🟠&#x27;), (&#x27;L&#x27;, &#x27;gray&#x27;, &#x27;🔘&#x27;), (&#x27;1&#x27;, &#x27;red&#x27;, &#x27;🔴&#x27;), (&#x27;2&#x27;, &#x27;red&#x27;, &#x27;🔴&#x27;), (&#x27;3&#x27;, &#x27;red&#x27;, &#x27;🔴&#x27;), (&#x27;4&#x27;, &#x27;green&#x27;, &#x27;🟢&#x27;), (&#x27;5&#x27;, &#x27;green&#x27;, &#x27;🟢&#x27;), (&#x27;6&#x27;, &#x27;green&#x27;, &#x27;🟢&#x27;), (&#x27;G&#x27;, &#x27;lightgreen&#x27;, &#x27;🟢&#x27;), (&#x27;7&#x27;, &#x27;purple&#x27;, &#x27;🟣&#x27;), (&#x27;A&#x27;, &#x27;blue&#x27;, &#x27;🔵&#x27;), (&#x27;C&#x27;, &#x27;blue&#x27;, &#x27;🔵&#x27;), (&#x27;E&#x27;, &#x27;blue&#x27;, &#x27;🔵&#x27;), (&#x27;N&#x27;, &#x27;olive&#x27;, &#x27;🟡&#x27;), (&#x27;Q&#x27;, &#x27;olive&#x27;, &#x27;🟡&#x27;), (&#x27;R&#x27;, &#x27;olive&#x27;, &#x27;🟡&#x27;), (&#x27;W&#x27;, &#x27;olive&#x27;, &#x27;🟡&#x27;)]: line_peak_df &#x3D; df[df[&#x27;line&#x27;]&#x3D;&#x3D;line] line_peak_df.index &#x3D; pd.to_datetime(line_peak_df.month) res &#x3D; MSTL(line_peak_df[&#x27;num_passengers&#x27;], periods&#x3D;(12)).fit() change_in_ridership &#x3D; res.trend - res.trend[0] plt.plot(change_in_ridership, color&#x3D;color) plt.text(line_peak_df.index[-1], change_in_ridership[-1], line, color&#x3D;color) absolute_change &#x3D; str(round((res.trend.iloc[-1] - res.trend.iloc[0])/1000000, 3)) + &#x27;M&#x27; percent_change &#x3D; str(100*round(res.trend.iloc[-1] / res.trend.iloc[0] - 1, 3)) + &#x27;%&#x27; rows.append([line+&#x27; &#x27;+bullet, absolute_change, percent_change]) print(pd.DataFrame(rows, columns&#x3D;[&#x27;Line&#x27;, &#x27;Absolute Change&#x27;, &#x27;Percent change&#x27;]).to_markdown()) That’s pretty clear - the 6 train is the clear winner! Its trend increased more or less continuously from 2023 to right now in 2026. We could also consider percent growth, as of course subway lines all have different levels of normal traffic. Okay, that’s a little bit busy. Let’s look at the summary table for both absolute and percent growth:   Line Absolute Change Percent change 0 JZ 🟤 0.413M 28.6% 1 B 🟠 0.641M 23.4% 2 D 🟠 0.351M 13.1% 3 F 🟠 1.135M 24.3% 4 M 🟠 0.87M 39.9% 🏆 5 L 🔘 0.908M 28.6% 6 1 🔴 0.817M 15.4% 7 2 🔴 0.459M 12.8% 8 3 🔴 0.282M 10.4% 9 4 🟢 0.944M 26.0% 10 5 🟢 0.765M 25.1% 11 6 🟢 1.503M 🏆 29.5% 12 G 🟢 0.277M 17.7% 13 7 🟣 0.234M 4.6% 14 A 🔵 1.289M 31.1% 15 C 🔵 0.324M 16.0% 16 E 🔵 0.644M 15.3% 17 N 🟡 0.798M 31.3% 18 Q 🟡 0.552M 16.3% 19 R 🟡 1.038M 25.8% 20 W 🟡 0.282M 18.8% The big winners are the 6 train and the M train! The M is one of my local trains out here on the Brooklyn side, good work lads. The 6 train even got called out in the Governor’s Yearly MTA highlights as the train with the most ridership! Downsides of MSTL We’ve seen lots of ways MSTL is useful in getting a closer look at time series data. What are some of the downsides of this approach? The model is flexible enough to add multiple seasonality types on top, but modeling exogenous shocks isn’t easy - we can’t, for example, easily insert a “congestion pricing” term. This method doesn’t give us any standard errors around our values. This is unfortunate and a pretty big downside, and isn’t trivial to fix because of the autocorrelation of the time series (ie, you can’t just do a bootstrap, though maybe you could use a block bootstrap). MSTL is a great way to understand the different components of the time series, but if these downsides are a problem for your use case, you may want to consider a more powerful modeling approach (like an ARIMA model).</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-09-19 datetime="2026-09-19T17:27:39.000Z">2026-09-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-09-19 datetime="2026-09-19T17:27:39.000Z"></time>
           </button>
@@ -7838,69 +7942,6 @@ The post Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks fo
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;610711"
-                        open
-                      >
-                        <summary class="article-expander__title">The Types of Dimensions in a Star Schema, and How to Use Them</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/what-are-the-types-of-dimensions-in-a-star-schema-and-how-to-use-them/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/08/deng-xiang-WXQm_NTK0U-unsplash.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Dimensions are one of the two main object types in dimensional modelling. But what are the different types of dimensions? And how can you use them?
-The post The Types of Dimensions in a Star Schema, and How to Use Them appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;610709"
-                        open
-                      >
-                        <summary class="article-expander__title">Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-photo-1034650-scaled-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AI systems should not automate a decision simply because they can provide a prediction. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly.
-The post Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;610707"
-                        open
-                      >
-                        <summary class="article-expander__title">How Benders Decomposition Works, Part II: Feasibility Cuts</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/how-benders-decomposition-works-part-ii-feasibility-cuts/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/08/image-527.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Learning about Farkas&#x27; lemma and how it can inform Benders decomposition to learn from infeasibility, applied to the capacitated facility location problem.
-The post How Benders Decomposition Works, Part II: Feasibility Cuts appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;36
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -7938,303 +7979,12 @@ The post How Benders Decomposition Works, Part II: Feasibility Cuts appeared fir
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Houston We Have a Podcast</button>
-                  <a class="source-heading__link" href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="1ec5465a-9d63-11f1-a7ca-5772de4eaeea"
-                        open
-                      >
-                        <summary class="article-expander__title">Artemis III Training</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-iii-training/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>NASA Artemis III Chief Training Officer Debbie O’Connell discusses how the crew is preparing for one of NASA’s most challenging missions yet. Episode 434</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Analytics Vidhya</button>
-                  <a class="source-heading__link" href="https://www.analyticsvidhya.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.analyticsvidhya.com/?p&#x3D;257000"
-                        open
-                      >
-                        <summary class="article-expander__title">PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Modern LLMs rely on quantization, pruning, distillation, and faster attention kernels, but production performance often depends most on KV cache management. As context windows grow, the cache consumes significant GPU memory, limiting concurrency, throughput, and latency. Two breakthroughs transformed this challenge: PagedAttention improves memory allocation, while RadixAttention enables efficient prefix reuse. Together, these techniques make […]
-The post PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management appeared first on Analytics Vidhya.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hugging Face - Blog</button>
-                  <a class="source-heading__link" href="https://huggingface.co/blog">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://huggingface.co/blog/pwc-search"
-                        open
-                      >
-                        <summary class="article-expander__title">How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://huggingface.co/blog/pwc-search">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://huggingface.co/blog/assets/pwc-search/thumbnail.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>We’re on a journey to advance and democratize artificial intelligence through open source and open science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;10
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://huggingface.co/blog/asr-benchmark-optimization"
-                        open
-                      >
-                        <summary class="article-expander__title">Measuring benchmark optimization in speech recognition</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://huggingface.co/blog/asr-benchmark-optimization">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>We’re on a journey to advance and democratize artificial intelligence through open source and open science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;11
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-08-20 datetime="2026-08-20T18:00:00.000Z">2026-08-20</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-08-20 datetime="2026-08-20T18:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Towards Data Science</button>
-                  <a class="source-heading__link" href="https://towardsdatascience.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;610694"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Effectively Align Your Intent with Claude Code</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/08/aligning-intent-coding-agents_cover.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Improve your proficiency with Claude Code.
-The post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;17
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://towardsdatascience.com/?p&#x3D;610692"
-                        open
-                      >
-                        <summary class="article-expander__title">The LLM Judge That Kept Agreeing With Itself</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://towardsdatascience.com/wp-content/uploads/2026/08/article8_1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>What a production incident taught me about trusting a model to judge another model&#x27;s work
-The post The LLM Judge That Kept Agreeing With Itself appeared first on Towards Data Science.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hugging Face - Blog</button>
-                  <a class="source-heading__link" href="https://huggingface.co/blog">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-                        open
-                      >
-                        <summary class="article-expander__title">Up to 3.2x Faster Inference with LFM2.5-DSpark</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://huggingface.co/blog/LiquidAI/lfm25-dspark">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A Blog post by Liquid AI on Hugging Face</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >iMerit</button>
-                  <a class="source-heading__link" href="https://imerit.ai/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://imerit.ai/?p&#x3D;41122"
-                        open
-                      >
-                        <summary class="article-expander__title">Real-Time vs. Offline Triage in AV Pipelines: Why the Architecture Decision Shapes What Your Model Actually Learns</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://imerit.ai/resources/blog/real-time-vs-offline-triage-in-av-pipelines-why-the-architecture-decision-shapes-what-your-model-actually-learns/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://imerit.ai/wp-content/uploads/2026/08/Feature-image-3D-point-cloud-dataset-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Compare real-time vs. offline triage in AV data pipelines and how data selection architecture affects training and edge-case coverage.
-The post Real-Time vs. Offline Triage in AV Pipelines: Why the Architecture Decision Shapes What Your Model Actually Learns appeared first on iMerit.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Microsoft Research</button>
-                  <a class="source-heading__link" href="https://www.microsoft.com/en-us/research/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.microsoft.com/en-us/research/?p&#x3D;1184167"
-                        open
-                      >
-                        <summary class="article-expander__title">Broadening access to Skala creates a faster path to predictive DFT</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Skala-TWLIFB-1200x627-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. 
-The post Broadening access to Skala creates a faster path to predictive DFT  appeared first on Microsoft Research.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/35485825390">
-        <time id="build-timestamp" datetime="2026-09-20T03:10:07.783Z">2026-09-20T03:10:07.783Z</time>
+      <a class="footer-link" href="https://github.com/KiarashS/reader/actions/runs/35556303085">
+        <time id="build-timestamp" datetime="2026-09-21T03:06:23.303Z">2026-09-21T03:06:23.303Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
