@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
+          "author": "Sara A. Metwalli",
+          "description": "How the way we represent data can change what we think the data is saying\nThe post How Many Stories Can Your Data Tell? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
+          "publishedOn": "2026-09-30T15:30:02.000Z",
+          "wordCount": null,
+          "title": "How Many Stories Can Your Data Tell?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/insight-is-still-the-currency-of-data-science/",
+          "author": "Andrew Hinton",
+          "description": "Coding agents give us more time for discovery and our review practices should follow the analysis\nThe post Insight Is Still the Currency of Data Science appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/insight-is-still-the-currency-of-data-science/",
+          "publishedOn": "2026-09-30T14:00:02.000Z",
+          "wordCount": null,
+          "title": "Insight Is Still the Currency of Data Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/",
+          "author": "Salvatore Cagliari",
+          "description": "In DAX, we reuse existing measures all the time when writing new measures. What happens when we write a measure based on another measure and try to change a filter already set in the nested measure?\nThe post How to Solve Issues When You Nest Measures While Overwriting the Same Filter appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/",
+          "publishedOn": "2026-09-30T12:30:02.000Z",
+          "wordCount": null,
+          "title": "How to Solve Issues When You Nest Measures While Overwriting the Same Filter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-2/",
+          "author": "Gal Arav",
+          "description": "One run, and what it actually proves\nThe post Towards Spec-Driven Test Automation: Part 2 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-2/",
+          "publishedOn": "2026-09-30T11:00:01.000Z",
+          "wordCount": null,
+          "title": "Towards Spec-Driven Test Automation: Part 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/i-compacted-1000-apache-iceberg-files-into-6-heres-what-happened-to-query-performance/",
           "author": "Thomas Reid",
           "description": "Benchmarking the impact of fewer, larger files across three SQL workloads\nThe post I Compacted 1,000 Apache Iceberg Files Into 6. Here’s What Happened to Query Performance. appeared first on Towards Data Science.",
@@ -1010,56 +1050,6 @@
           "wordCount": 6873,
           "title": "5 AI Skills That Will Keep Data Scientists Relevant in 2027",
           "imageUrl": "https://assets.insightmediagroup.io/media/1787909177964_0h8syh.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
-          "author": "Benjamin Nweke",
-          "description": "What I learned after thinking more carefully about Structured Outputs on messy, incomplete data\nThe post Your LLM Can Return Perfect JSON and Still Be Wrong appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
-          "publishedOn": "2026-08-31T15:30:01.000Z",
-          "wordCount": 4237,
-          "title": "Your LLM Can Return Perfect JSON and Still Be Wrong",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787701093191_a7jk3n.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=680988",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #B2] - The FAQ inverts every brick of the standard RAG pipeline. Parsing is trivial, retrieval doubles as a cache, and few-shot prompting becomes a retrieval problem too\nThe post FAQ as RAG: When You Get to Design the Corpus appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/",
-          "publishedOn": "2026-08-31T14:00:02.000Z",
-          "wordCount": 9089,
-          "title": "FAQ as RAG: When You Get to Design the Corpus",
-          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/envelopes_toQNPpuDuwI_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
-          "author": "Tahreem Rasul",
-          "description": "A framework for building RAG pipelines that introduces complexity in response to observed failure modes, from lexical and hybrid search to reranking and agentic information seeking\nThe post Why RAG Complexity Should Be Earned appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
-          "publishedOn": "2026-08-31T12:30:01.000Z",
-          "wordCount": 8655,
-          "title": "Why RAG Complexity Should Be Earned",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787691245458_3eu6qi.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=681811",
-          "author": "Mostafa Ibrahim",
-          "description": "The five MLOps monitoring assumptions agents break, and which inherited signals now pass failed runs as healthy.\nThe post AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/",
-          "publishedOn": "2026-08-31T11:00:01.000Z",
-          "wordCount": 5108,
-          "title": "AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production",
-          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/cover-image.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=680831",
-          "author": "Payal Patel",
-          "description": "Quick and simple tips to help you write better agent instructions\nThe post 8 Tips for Writing Effective Agent Instructions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/",
-          "publishedOn": "2026-08-30T17:00:02.000Z",
-          "wordCount": 4514,
-          "title": "8 Tips for Writing Effective Agent Instructions",
-          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg"
         }
       ]
     },
@@ -1068,6 +1058,96 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=25320",
+          "author": "Shittu Olumide",
+          "description": "In this article, you will learn how to build a fully local, zero-cost agentic AI workflow using Hermes Agent and Ollama, so that your files,...",
+          "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
+          "publishedOn": "2026-09-28T12:00:25.000Z",
+          "wordCount": 9208,
+          "title": "Local Agentic AI Workflows with Hermes + Ollama",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/MLM-Shittu-Local-Agentic-AI-Workflows-with-Hermes-Ollama-scaled-1.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25107",
+          "author": "Shittu Olumide",
+          "description": "Theory is easier to trust once it's running against a real API, so both examples in this article use the same tool — a get_weather function backed by <a href=\"https://open-meteo.",
+          "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
+          "publishedOn": "2026-09-25T12:00:37.000Z",
+          "wordCount": 10013,
+          "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-Tool-Calling-vs.-Code-Execution-for-AI-Agents-Choosing-the-Right-Action-Primitive-1024x586.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25310",
+          "author": "Kanwal Mehreen",
+          "description": "In this article, you will learn the key differences between AI workflows and agents, and how to decide which approach is right for your use...",
+          "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
+          "publishedOn": "2026-09-24T12:00:02.000Z",
+          "wordCount": 7770,
+          "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25104",
+          "author": "Shittu Olumide",
+          "description": "In this article, you will learn the mechanical difference between retrieval-augmented generation and fine-tuning, when each technique is the right tool, and how to decide...",
+          "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
+          "publishedOn": "2026-09-23T12:00:23.000Z",
+          "wordCount": 9424,
+          "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-RAG-vs-Fine-Tuning-for-Domain-Adaptation-1024x586.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25023",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn what embedding drift is, why it matters for production large language models, and how to implement two practical techniques...",
+          "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
+          "publishedOn": "2026-09-22T12:00:35.000Z",
+          "wordCount": 8624,
+          "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-monitoring-embedding-drift-in-production-scikit-llm-pipelines-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25236",
+          "author": "Bala Priya C",
+          "description": "In this article, you will learn how LLM inference optimization works and which techniques to apply to make language models faster, cheaper, and more reliable...",
+          "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
+          "publishedOn": "2026-09-21T12:00:43.000Z",
+          "wordCount": 8953,
+          "title": "The Roadmap to Mastering LLM Inference Optimization",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-llm-inference-optimization-cover.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25252",
+          "author": "Matthew Mayo",
+          "description": "In this article, you will learn how a vector database works under the hood by building one from scratch in ten incremental steps using Python...",
+          "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+          "publishedOn": "2026-09-18T12:00:03.000Z",
+          "wordCount": 9636,
+          "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-build-a-vector-database-from-scratch-in-10-easy-steps-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25263",
+          "author": "MLM Team",
+          "description": "Sponsored Content       It's no secret that AI agents burn massive amounts of tokens on search results and file retrievals. They pull in...",
+          "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
+          "publishedOn": "2026-09-18T10:37:48.000Z",
+          "wordCount": 7270,
+          "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/image2.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=24991",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how to build a multilingual text classification pipeline using multilingual large language model (LLM) embeddings and Scikit-learn, without training...",
+          "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
+          "publishedOn": "2026-09-17T12:00:49.000Z",
+          "wordCount": 8027,
+          "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings-feature.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=25052",
           "author": "Vinod Chugani",
@@ -1177,16 +1257,6 @@
           "wordCount": 10109,
           "title": "3 Ways to Enhance Your AI Model’s Interpretability",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-3-Ways-to-Enhance-Your-AI-Models-Interpretability-1024x592.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24932",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn how to build a unified scikit-learn pipeline that combines text embeddings generated by a lightweight open-source language model with...",
-          "link": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
-          "publishedOn": "2026-08-31T12:00:18.000Z",
-          "wordCount": 9115,
-          "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline-feature.png"
         }
       ]
     },
@@ -1236,6 +1306,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/open-tts-leaderboard",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/open-tts-leaderboard",
+          "publishedOn": "2026-09-30T00:00:00.000Z",
+          "wordCount": 2073,
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "imageUrl": "https://huggingface.co/blog/assets/open-tts-leaderboard/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
           "author": null,
@@ -1469,6 +1549,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1186605",
+          "author": "Rohan Kannan",
+          "description": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.\nThe post Forecasting space weather risks on power grids appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+          "publishedOn": "2026-09-30T16:00:00.000Z",
+          "wordCount": 5032,
+          "title": "Forecasting space weather risks on power grids",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1186958",
           "author": "Nicolo Fusi, Jonathan M. Carlson",
@@ -1817,6 +1907,36 @@
       "siteUrl": "https://imerit.ai/",
       "articles": [
         {
+          "id": "https://imerit.ai/?p=42371",
+          "author": "Sujana Urs",
+          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Measuring Annotation Quality for Multimodal Data: Agreement, Consensus, and QA Across Modalities appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/measuring-annotation-quality-for-multimodal-data/",
+          "publishedOn": "2026-09-30T17:15:23.000Z",
+          "wordCount": 2880,
+          "title": "Measuring Annotation Quality for Multimodal Data: Agreement, Consensus, and QA Across Modalities",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=42301",
+          "author": "Srishty Sharon",
+          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Why the Rarest AV Scenarios Are Also the Most Expensive to Miss appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-the-rarest-av-scenarios-are-also-the-most-expensive-to-miss/",
+          "publishedOn": "2026-09-30T06:37:44.000Z",
+          "wordCount": 3078,
+          "title": "Why the Rarest AV Scenarios Are Also the Most Expensive to Miss",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=42317",
+          "author": "Srishty Sharon",
+          "description": "Learn how cross-modal annotation connects speech, images, and documents to build reliable multimodal voice AI training data.\nThe post The Multimodal Voice AI Problem Nobody Has Solved Yet: Labeling Audio Alongside Images and Documents appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/the-multimodal-voice-ai-problem-nobody-has-solved-yet-labeling-audio-alongside-images-and-documents/",
+          "publishedOn": "2026-09-29T15:44:15.000Z",
+          "wordCount": 3333,
+          "title": "The Multimodal Voice AI Problem Nobody Has Solved Yet: Labeling Audio Alongside Images and Documents",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/The-Multimodal-Voice-AI-Problem-Nobody-Has-Solved-Yet-Labeling-Audio-Alongside-Images-and-Documents.png"
+        },
+        {
           "id": "https://imerit.ai/?p=42164",
           "author": "Sujana Urs",
           "description": "Learn why annotating intent, sentiment, and escalation risk, not transcription accuracy, determines enterprise voice AI reliability.\nThe post From Transcription to Behavior: Why Intent Annotation Is the Real Driver of Enterprise Voice AI appeared first on iMerit.",
@@ -1965,16 +2085,6 @@
           "wordCount": 3536,
           "title": "Medical Data Annotation: Powering the Next Generation of Healthcare AI",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-imgMedical-Data-Annotation-Powering-the-Next-Generation-of-Healthcare-AI.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41279",
-          "author": "Sujana Urs",
-          "description": "Explore how to evaluate conversational AI agents across complete interactions and identify failures that single-turn testing consistently misses.\nThe post Multi-Turn Evaluation for Conversational Agents: What Single-Turn Testing Consistently Gets  Wrong appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/multi-turn-evaluation-for-conversational-agents-what-single-turn-testing-consistently-gets-wrong/",
-          "publishedOn": "2026-08-31T10:42:19.000Z",
-          "wordCount": 3849,
-          "title": "Multi-Turn Evaluation for Conversational Agents: What Single-Turn Testing Consistently Gets  Wrong",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/08/Feature-IMG-Multi-Turn-Evaluation-for-Conversational-Agents.png"
         }
       ]
     },
@@ -1983,6 +2093,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257898",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "That is a slightly awkward introduction to OpenAI Dot, but a useful one. In this article I’ll be discussing what this autonomous 24/7 agent (which consumes no usage) can do, what it is, how you can access it (along with its setup), and a live analytics exercise I ran after on Dot. By the time […]\nThe post OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/09/chatgpt-dot-access-setup-hands-on/",
+          "publishedOn": "2026-09-30T11:40:22.000Z",
+          "wordCount": null,
+          "title": "OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257874",
           "author": "Vasu Deo Sankrityayan",
@@ -2213,17 +2334,6 @@
           "title": "5 Best Local LLMs You Can Run on a Mac mini in 2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257203",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "You don’t need to know anything about AI automation to get started. There are plenty of free courses that can take you from the basics to building your own automations, even if you’re starting from zero. Some are completely beginner-friendly, while others are better once you’re comfortable with the basics. We’ve picked courses covering popular […]\nThe post Top 7 Free AI Automation Courses with Certificates appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/08/free-ai-automation-courses-with-certificates/",
-          "publishedOn": "2026-08-30T18:10:00.000Z",
-          "wordCount": null,
-          "title": "Top 7 Free AI Automation Courses with Certificates",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2279,6 +2389,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "author": null,
+          "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "publishedOn": "2026-09-30T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "author": null,
+          "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "publishedOn": "2026-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Helping small businesses put AI to work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-gpt-6-1-sol",
           "author": null,
@@ -2978,36 +3108,6 @@
           "wordCount": null,
           "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "author": null,
-          "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-          "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "publishedOn": "2026-08-31T07:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/polimill",
-          "author": null,
-          "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-          "link": "https://openai.com/index/polimill",
-          "publishedOn": "2026-08-31T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Polimill builds Japan's next-generation public AI infrastructure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "author": null,
-          "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-          "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "publishedOn": "2026-08-31T04:00:00.000Z",
-          "wordCount": null,
-          "title": "A milestone in expanding access to AI",
-          "imageUrl": null
         }
       ]
     },
@@ -3344,16 +3444,6 @@
           "wordCount": 20634,
           "title": "Training a Misaligned Reward Seeker",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/J76LZCC55RdHeqEhz/mdkog7fgbui3byrspcaa"
-        },
-        {
-          "id": "kjPEH4KGEHd8iQ4Hn",
-          "author": "Stuart_Armstrong",
-          "description": "In the previous post, I presented my theory of change for why value generalisation is vital for AI alignment. Here I'll add the practical part of the argument: given those facts, why explicitly try to do value generalisation, what are the dangers of the approach, how should it be done, and how do we mitigate the risks?\nThe formal theory of change is down below, but I'll put a collapsible version here, to make references easier:\n\nTheory of Change\n\n\nInputs / activities: investment/grants, a small research team, small-medium compute resources.\nOutputs:\nSolutions to the three components of value generalisation (see here) in academically rigorous forms, demonstrations of these solutions on toy problems, public benchmarks, and new benchmarks. If going commercial, applications of this value gener…",
-          "link": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into",
-          "publishedOn": "2026-08-31T10:51:46.000Z",
-          "wordCount": 41023,
-          "title": "Value generalisation Theory of Change: putting it into practice",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
