@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/",
+          "author": "Himanshu Sharma",
+          "description": "A theoretical advantage that didn't survive contact with a real benchmark.\nThe post Autoencoders vs. PCA: I Rigged the Test and PCA Still Won appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/",
+          "publishedOn": "2026-10-01T15:30:02.000Z",
+          "wordCount": null,
+          "title": "Autoencoders vs. PCA: I Rigged the Test and PCA Still Won",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
+          "author": "Abdullahi Dattijo",
+          "description": "I traced 2,500 listing checks with Weights & Biases Weave, removed avoidable model work one change at a time, and scored every version against the same answers.\nThe post Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
+          "publishedOn": "2026-10-01T14:00:01.000Z",
+          "wordCount": null,
+          "title": "Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
+          "author": "Rob Taylor",
+          "description": "The activation function was never a fixed biological commitment but a working hypothesis revised under empirical pressure.\nThe post What the ReLU Revolution Revealed About Biological Plausibility appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
+          "publishedOn": "2026-10-01T12:30:01.000Z",
+          "wordCount": null,
+          "title": "What the ReLU Revolution Revealed About Biological Plausibility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
+          "author": "Gursimar Singh",
+          "description": "The budget nobody saw coming\nThe post Your AI Bill Is a Toll Booth. Stop Paying Twice. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
+          "publishedOn": "2026-10-01T11:00:01.000Z",
+          "wordCount": null,
+          "title": "Your AI Bill Is a Toll Booth. Stop Paying Twice.",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
           "author": "Sara A. Metwalli",
           "description": "How the way we represent data can change what we think the data is saying\nThe post How Many Stories Can Your Data Tell? appeared first on Towards Data Science.",
@@ -1010,46 +1050,6 @@
           "wordCount": 6835,
           "title": "A Practical Introduction to PySpark Window Functions",
           "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-05_38_38-PM.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
-          "author": "Mostafa Ibrahim",
-          "description": "Five failure modes that survive constrained decoding, and why your schema validator will never catch them.\nThe post Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
-          "publishedOn": "2026-09-01T15:30:02.000Z",
-          "wordCount": 4477,
-          "title": "Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787750259158_ns6qyj.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/what-we-miss-about-missing-values/",
-          "author": "David Conneely",
-          "description": "The hidden assumptions behind the data we observe.\nThe post What We Miss About Missing Values appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-we-miss-about-missing-values/",
-          "publishedOn": "2026-09-01T14:00:02.000Z",
-          "wordCount": 5767,
-          "title": "What We Miss About Missing Values",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787745270049_h1iwu9.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/",
-          "author": "Tom Narock",
-          "description": "More informed decision-making through uncertainty quantification\nThe post Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/",
-          "publishedOn": "2026-09-01T12:30:02.000Z",
-          "wordCount": 7780,
-          "title": "Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787782692643_m7a2z4.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=674059",
-          "author": "Sara Nobrega",
-          "description": "What each one solves, and runnable code you can paste into a notebook.\nThe post 5 AI Skills That Will Keep Data Scientists Relevant in 2027 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/",
-          "publishedOn": "2026-09-01T11:00:02.000Z",
-          "wordCount": 6873,
-          "title": "5 AI Skills That Will Keep Data Scientists Relevant in 2027",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787909177964_0h8syh.webp"
         }
       ]
     },
@@ -1247,16 +1247,6 @@
           "wordCount": 10042,
           "title": "AI Agent Memory Design: What Works and What Doesn’t",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/ai-agent-memory-design-mlm-1024x576.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=24968",
-          "author": "Shittu Olumide",
-          "description": "In this article, you will learn three concrete techniques for making machine learning model predictions interpretable, covering both global and local explanations across tree-based and...",
-          "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
-          "publishedOn": "2026-09-01T12:00:35.000Z",
-          "wordCount": 10109,
-          "title": "3 Ways to Enhance Your AI Model’s Interpretability",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-3-Ways-to-Enhance-Your-AI-Models-Interpretability-1024x592.png"
         }
       ]
     },
@@ -1306,6 +1296,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/allenai/olmocore3",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/olmocore3",
+          "publishedOn": "2026-10-01T15:01:43.000Z",
+          "wordCount": 1737,
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/uKnK93gjkKbmJmSx94WO2.png"
+        },
         {
           "id": "https://huggingface.co/blog/open-tts-leaderboard",
           "author": null,
@@ -1525,16 +1525,6 @@
           "wordCount": 1835,
           "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/webgpu-kernels",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/webgpu-kernels",
-          "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2088,
-          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "imageUrl": "https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png"
         }
       ]
     },
@@ -1608,16 +1598,6 @@
           "wordCount": 4852,
           "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/RetroChimera-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-          "author": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
-          "description": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.\nThe post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-          "publishedOn": "2026-08-31T16:00:00.000Z",
-          "wordCount": 5158,
-          "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-TWLIFB-1200x627_NEW.jpg"
         }
       ]
     },
@@ -1848,17 +1828,6 @@
           "title": "Week Ending 9.6.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6a965b1546741812cbbed5be",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na",
-          "publishedOn": "2026-09-01T04:57:24.000Z",
-          "wordCount": null,
-          "title": "Week Ending 8.30.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -1925,6 +1894,16 @@
           "wordCount": 3078,
           "title": "Why the Rarest AV Scenarios Are Also the Most Expensive to Miss",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
+        {
+          "id": "https://imerit.ai/?p=42388",
+          "author": "Inkline Admin",
+          "description": "Why do robot policies struggle with deformable objects? Explore manipulation challenges and the training data needed to improve them.\nThe post Beyond Pick-and-Place: Why Cable, Cloth, and Transparent Object Manipulation Is Where Policies Break Down appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/beyond-pick-and-place-why-cable-cloth-and-transparent-object-manipulation-is-where-policies-break-down/",
+          "publishedOn": "2026-09-29T17:56:59.000Z",
+          "wordCount": 3665,
+          "title": "Beyond Pick-and-Place: Why Cable, Cloth, and Transparent Object Manipulation Is Where Policies Break Down",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Why-Synthetic-Data-Alone-Cannot-Train-Dexterous-Robot-Policies-and-What-Real-world-Annotation-Fills-in.png"
         },
         {
           "id": "https://imerit.ai/?p=42317",
@@ -2065,26 +2044,6 @@
           "wordCount": 2757,
           "title": "Best Mechanical Turk Alternatives in 2026: What to Use After MTurk Shuts Down",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Best-Mechanical-Turk-Alternatives-in-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41354",
-          "author": "Sujana Urs",
-          "description": "What ExploitGym's sandbox failures reveal about red-teaming AI agents and what evaluation infrastructure needs to actually contain them.\nThe post What ExploitGym Reveals About the Blind Spots in AI Agent Evaluation appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/what-exploitgym-reveals-about-the-blind-spots-in-ai-agent-evaluation/",
-          "publishedOn": "2026-09-01T10:52:53.000Z",
-          "wordCount": 3037,
-          "title": "What ExploitGym Reveals About the Blind Spots in AI Agent Evaluation",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-What-ExploitGym-Reveals-About-the-Blind-Spots-in-AI-Agent-Evaluation.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41348",
-          "author": "Cadence SEO",
-          "description": "Learn how medical data annotation powers healthcare AI, from imaging and surgery to clinical LLMs, and why quality labeled data drives accurate models.\nThe post Medical Data Annotation: Powering the Next Generation of Healthcare AI appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/medical-data-annotation-powering-the-next-generation-of-healthcare-ai/",
-          "publishedOn": "2026-09-01T08:55:56.000Z",
-          "wordCount": 3536,
-          "title": "Medical Data Annotation: Powering the Next Generation of Healthcare AI",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-imgMedical-Data-Annotation-Powering-the-Next-Generation-of-Healthcare-AI.png"
         }
       ]
     },
@@ -2093,6 +2052,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=257708",
+          "author": "Mounish V",
+          "description": "Every dev team has repeatable setup tasks: spinning up a new project, running a deployment checklist, generating a file structure, or typing the same instructions into Claude again and again. Claude Code helps reduce that friction with slash commands, including built-in commands and custom commands you can define for your own workflows.  These commands turn […]\nThe post Claude Code Custom Commands & Skills: Automate Your Workflow appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/claude-code-custom-commands-skills-automate-your-workflow/",
+          "publishedOn": "2026-10-01T08:47:03.000Z",
+          "wordCount": null,
+          "title": "Claude Code Custom Commands & Skills: Automate Your Workflow",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=257898",
           "author": "Vasu Deo Sankrityayan",
@@ -2323,17 +2293,6 @@
           "title": "A Complete Guide to Decoding LLM Model Names",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257217",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models.  The Mac mini has emerged as a surprisingly capable machine for running AI locally. With Apple Silicon, enough unified memory, and tools like Ollama and LM Studio, users can now run capable models entirely on-device.  But […]\nThe post 5 Best Local LLMs You Can Run on a Mac mini in 2026 appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
-          "publishedOn": "2026-09-01T09:38:02.000Z",
-          "wordCount": null,
-          "title": "5 Best Local LLMs You Can Run on a Mac mini in 2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2389,6 +2348,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/the-eternal-complement",
+          "author": null,
+          "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "link": "https://openai.com/index/the-eternal-complement",
+          "publishedOn": "2026-10-01T17:00:00.000Z",
+          "wordCount": null,
+          "title": "The eternal complement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/albertsons-reimagining-retail",
+          "author": null,
+          "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "link": "https://openai.com/index/albertsons-reimagining-retail",
+          "publishedOn": "2026-10-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/the-den-family-social",
+          "author": null,
+          "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+          "link": "https://openai.com/index/the-den-family-social",
+          "publishedOn": "2026-10-01T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
           "author": null,
@@ -3078,36 +3067,6 @@
           "wordCount": null,
           "title": "How AI-native companies turn workflows into operating capability",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/path-to-astra",
-          "author": null,
-          "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-          "link": "https://openai.com/index/path-to-astra",
-          "publishedOn": "2026-09-01T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "author": null,
-          "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-          "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "publishedOn": "2026-09-01T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gilbert-tobin",
-          "author": null,
-          "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-          "link": "https://openai.com/index/gilbert-tobin",
-          "publishedOn": "2026-09-01T01:00:00.000Z",
-          "wordCount": null,
-          "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-          "imageUrl": null
         }
       ]
     },
@@ -3235,6 +3194,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "rp4sB5a6HaPpfD4rA",
+          "author": "Gordon Seidoh Worley",
+          "description": "My post on endogenous alignment got several excellent comments. Among them, one from Karl Krueger argued that imitation learning is more important for how humans align their children than reinforcement learning. Teasing out which is more important seems hard, but I agree I was wrong to ignore the importance of imitation, and arguably imitation learning is more fundamental for a reason explained by another comment.\nAs Gunnar Zarncke helpfully pointed out, I had forgotten the most critical part of the endogenous alignment story in humans: it starts not with exogenous alignment, but with hologenous alignment of the child-parent system.\nAs he points out, babies aren’t really separate beings from their parents, in that babies need to model themselves as part of the parent-child system, not as a…",
+          "link": "https://www.alignmentforum.org/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence",
+          "publishedOn": "2026-10-01T16:20:56.000Z",
+          "wordCount": 18887,
+          "title": "Endogenous Alignment Requires Dependence",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "9LWK9Hh3Qsg36e3FS",
           "author": "Stuart_Armstrong",
@@ -3434,16 +3403,6 @@
           "wordCount": 29204,
           "title": "The Alignment Journal: Organization, Personnel, and Scope",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "J76LZCC55RdHeqEhz",
-          "author": "evhub",
-          "description": "Authors: Richard Qi, Benjamin Wright, Monte MacDiarmid, Evan Hubinger\nAbstract\n\nDuring reinforcement learning (RL), AI models complete tasks and are rewarded based on their results. They sometimes learn to “cheat” rather than completing these tasks as intended, a phenomenon known as reward hacking. Our industry lacks a general solution to this problem, and reward hacking remains challenging to fully mitigate. To better understand the impact of reward hacking on model behavior, we trained an Opus-class model with large-scale RL on many production environments vulnerable to reward hacks. We consider this a plausible proxy for what a real training run might look like had we not invested significant effort into preventing and detecting reward hacking in our normal training runs.\nThe resulting …",
-          "link": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker",
-          "publishedOn": "2026-09-01T01:41:44.000Z",
-          "wordCount": 20634,
-          "title": "Training a Misaligned Reward Seeker",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/J76LZCC55RdHeqEhz/mdkog7fgbui3byrspcaa"
         }
       ]
     }
