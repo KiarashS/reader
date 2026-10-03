@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
+          "author": "Andrew Hinton",
+          "description": "Coordinating agent capability development with the application it powers\nThe post Where the Agent Development Lifecycle Fits appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
+          "publishedOn": "2026-10-02T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Where the Agent Development Lifecycle Fits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/",
+          "author": "Ari Joury, PhD",
+          "description": "Giving an LLM permission to act, in 9 steps\nThe post How to Build a Control Plane for AI Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/",
+          "publishedOn": "2026-10-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Build a Control Plane for AI Agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/",
           "author": "Himanshu Sharma",
           "description": "A theoretical advantage that didn't survive contact with a real benchmark.\nThe post Autoencoders vs. PCA: I Rigged the Test and PCA Still Won appeared first on Towards Data Science.",
@@ -1010,46 +1030,6 @@
           "wordCount": 6907,
           "title": "How to Solve the Right Problem in the Age of Agentic AI",
           "imageUrl": "https://assets.insightmediagroup.io/media/1787750810582_aly77w.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
-          "author": "Rahul Saha",
-          "description": "I built a matcher meant to finish the cleanup that normalization left behind. Testing it against real data showed that no version of it could be made safe. What follows is the architecture that was left once the matcher was set aside.\nThe post Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
-          "publishedOn": "2026-09-02T15:30:02.000Z",
-          "wordCount": 11287,
-          "title": "Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787801771917_78tjda.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #B3] - A confident wrong answer is a bug. A bare “no answer” with no justification is almost as bad. Each of the four bricks has one piece of evidence to show\nThe post A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
-          "publishedOn": "2026-09-02T14:00:02.000Z",
-          "wordCount": 7143,
-          "title": "A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787689088170_fmrsl0.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
-          "author": "Slava Efimov",
-          "description": "A visual guide to how graph neural networks work under the hood\nThe post Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
-          "publishedOn": "2026-09-02T12:30:02.000Z",
-          "wordCount": 5787,
-          "title": "Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788014371553_lnvlks.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=668722",
-          "author": "Thomas Reid",
-          "description": "Why the standard groupBy function isn’t enough\nThe post A Practical Introduction to PySpark Window Functions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-practical-introduction-to-pyspark-window-functions/",
-          "publishedOn": "2026-09-02T11:00:02.000Z",
-          "wordCount": 6835,
-          "title": "A Practical Introduction to PySpark Window Functions",
-          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-05_38_38-PM.png"
         }
       ]
     },
@@ -1058,6 +1038,36 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=25276",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how to add a lightweight temporal reasoning layer to a Graph-RAG system so that it can distinguish fresh facts...",
+          "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
+          "publishedOn": "2026-10-01T12:00:00.000Z",
+          "wordCount": 8265,
+          "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/kdn-adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25111",
+          "author": "Shittu Olumide",
+          "description": "Chain Visualization: Reading the Trace Waterfall The spans from the last section don't mean much as a raw list.",
+          "link": "https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/",
+          "publishedOn": "2026-10-01T12:00:00.000Z",
+          "wordCount": 10741,
+          "title": "AI Agent Observability: Logging, Tracing, and Debugging Explained",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-AI-Agent-Observability-Logging-Tracing-and-Debugging-Explained-1024x598.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25244",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how to automatically extract structured knowledge from raw text and populate a knowledge graph with SPOC quads using a...",
+          "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+          "publishedOn": "2026-09-29T12:00:20.000Z",
+          "wordCount": 8861,
+          "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm-feature.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=25320",
           "author": "Shittu Olumide",
@@ -1237,16 +1247,6 @@
           "wordCount": 8893,
           "title": "Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25148",
-          "author": "Bala Priya C",
-          "description": "In this article, you will learn how to design reliable memory systems for AI agents, covering both the patterns that work and the common architectural...",
-          "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
-          "publishedOn": "2026-09-02T11:49:36.000Z",
-          "wordCount": 10042,
-          "title": "AI Agent Memory Design: What Works and What Doesn’t",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/ai-agent-memory-design-mlm-1024x576.png"
         }
       ]
     },
@@ -1296,6 +1296,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/allenai/astabrief",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/astabrief",
+          "publishedOn": "2026-10-02T15:19:50.000Z",
+          "wordCount": 3158,
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "author": null,
+          "description": "A Blog post by ServiceNow-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "publishedOn": "2026-10-02T04:01:31.000Z",
+          "wordCount": 2710,
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/olmocore3",
           "author": null,
@@ -1505,26 +1525,6 @@
           "wordCount": 5636,
           "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "imageUrl": "https://huggingface.co/blog/assets/train-to-paint-with-code/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "publishedOn": "2026-09-02T13:49:14.000Z",
-          "wordCount": 3387,
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/1oB5vm47VNu42diDOsp0p.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/benchmirt",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/benchmirt",
-          "publishedOn": "2026-09-01T21:39:07.000Z",
-          "wordCount": 1835,
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png"
         }
       ]
     },
@@ -1724,6 +1724,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "8fad0808-be65-11f1-8708-1bdf1a5eae54",
+          "author": null,
+          "description": "Lunar scientists Juliane Gross and Aaron Regberg share never-before-heard recordings from the Artemis II crew as they observed the far side of the Moon. Episode 439",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/recordings-from-the-far-side-of-the-moon/",
+          "publishedOn": "2026-10-02T13:31:00.000Z",
+          "wordCount": null,
+          "title": "Recordings from the Far Side of the Moon",
+          "itunes": {
+            "duration": "4370"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1112239742.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "ca6e1f66-b8e5-11f1-a633-7f4c8f342395",
           "author": null,
@@ -2034,16 +2052,6 @@
           "wordCount": 3229,
           "title": "From OTS to Production-Ready: The Data Pipeline for Frontier Model Training",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-From-OTS-to-Production-Ready-The-Data-Pipeline-for-Frontier-Model-Training.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41459",
-          "author": "Sujana Urs",
-          "description": "MTurk closes Sept 30, 2026. Discover expert-backed alternatives like Scholars and Ango for reliable AI data annotation.\nThe post Best Mechanical Turk Alternatives in 2026: What to Use After MTurk Shuts Down appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/best-mechanical-turk-alternatives-in-2026-what-to-use-after-mturk-shuts-down/",
-          "publishedOn": "2026-09-02T14:19:17.000Z",
-          "wordCount": 2757,
-          "title": "Best Mechanical Turk Alternatives in 2026: What to Use After MTurk Shuts Down",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Best-Mechanical-Turk-Alternatives-in-2026.png"
         }
       ]
     },
@@ -2282,17 +2290,6 @@
           "title": "OpenCode Explained: The Open-Source AI Coding Agent",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257284",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "If you have ever tried downloading a local LLM, you have probably seen model names that look like this:  Qwen3.8-27B-A3B-It-2507-gguf-q2ks-mixed-AutoRound At first, it looks like meaningless technical shorthand.  It isn’t!  Every part of that name tells you something about the model: how large it is, how it is built, how much of it is used at a time, how […]\nThe post A Complete Guide to Decoding LLM Model Names appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/decoding-llm-model-names/",
-          "publishedOn": "2026-09-02T11:43:23.000Z",
-          "wordCount": null,
-          "title": "A Complete Guide to Decoding LLM Model Names",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2348,6 +2345,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/practical-guide-building-gpt-6",
+          "author": null,
+          "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "link": "https://openai.com/index/practical-guide-building-gpt-6",
+          "publishedOn": "2026-10-02T16:15:00.000Z",
+          "wordCount": null,
+          "title": "A model guide for the GPT-6 family",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatham-financial",
+          "author": null,
+          "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "link": "https://openai.com/index/chatham-financial",
+          "publishedOn": "2026-10-02T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/the-eternal-complement",
           "author": null,
@@ -3047,26 +3064,6 @@
           "wordCount": null,
           "title": "Safety overview: GPT-6 Astra",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/atv-big-air-tour",
-          "author": null,
-          "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-          "link": "https://openai.com/index/atv-big-air-tour",
-          "publishedOn": "2026-09-02T12:00:00.000Z",
-          "wordCount": null,
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ai-native-company-workflows",
-          "author": null,
-          "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-          "link": "https://openai.com/index/ai-native-company-workflows",
-          "publishedOn": "2026-09-01T17:00:00.000Z",
-          "wordCount": null,
-          "title": "How AI-native companies turn workflows into operating capability",
-          "imageUrl": null
         }
       ]
     },
@@ -3393,16 +3390,6 @@
           "wordCount": null,
           "title": "Training on probes: What's going on",
           "imageUrl": null
-        },
-        {
-          "id": "9vm2wtAtb34pEkjje",
-          "author": "Dan MacKinlay",
-          "description": "[Cross-posted from the Alignment Journal's blog]\nThe Alignment Journal is beginning to invite the authors of select papers to submit their work for review. If you are interested in participating as an action editor or a reviewer, make an account on our website; if you have a manuscript that you think would be a good fit for the Journal at this stage, email contact@alignmentjournal.org to request an invitation to submit. Manuscripts under review will become visible on our homepage, and you will be able to nominate yourself as a reviewer of a specific paper that interests you. We plan to open up submissions to everyone sometime in October.\nHere we announce the Journal's inaugural senior editorial board, advisory board, staff, organizational structure, and initial scope. We welcome questions …",
-          "link": "https://www.alignmentforum.org/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope",
-          "publishedOn": "2026-09-01T20:49:18.000Z",
-          "wordCount": 29204,
-          "title": "The Alignment Journal: Organization, Personnel, and Scope",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }

@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-02T03:51:44.607Z</updated>
+    <updated>2026-10-03T03:38:11.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A model guide for the GPT-6 family]]></title>
+        <id>https://openai.com/index/practical-guide-building-gpt-6</id>
+        <link href="https://openai.com/index/practical-guide-building-gpt-6"/>
+        <updated>2026-10-02T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-sourcing AstaBrief, the fast report-generation model in Asta]]></title>
+        <id>https://huggingface.co/blog/allenai/astabrief</id>
+        <link href="https://huggingface.co/blog/allenai/astabrief"/>
+        <updated>2026-10-02T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by Ai2 on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recordings from the Far Side of the Moon]]></title>
+        <id>8fad0808-be65-11f1-8708-1bdf1a5eae54</id>
+        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/recordings-from-the-far-side-of-the-moon/"/>
+        <updated>2026-10-02T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Lunar scientists Juliane Gross and Aaron Regberg share never-before-heard recordings from the Artemis II crew as they observed the far side of the Moon. Episode 439]]></summary>
+        <author>
+            <name>Houston We Have a Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where the Agent Development Lifecycle Fits]]></title>
+        <id>https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/</id>
+        <link href="https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/"/>
+        <updated>2026-10-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coordinating agent capability development with the application it powers
+The post Where the Agent Development Lifecycle Fits appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Andrew Hinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Control Plane for AI Agents]]></title>
+        <id>https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/</id>
+        <link href="https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/"/>
+        <updated>2026-10-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giving an LLM permission to act, in 9 steps
+The post How to Build a Control Plane for AI Agents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AutoSynthData: Generating Training Data for Enterprise Agents]]></title>
+        <id>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</id>
+        <link href="https://huggingface.co/blog/ServiceNow-AI/autosynthdata"/>
+        <updated>2026-10-02T04:01:31.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by ServiceNow-AI on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatham scales its capital markets expertise with OpenAI]]></title>
+        <id>https://openai.com/index/chatham-financial</id>
+        <link href="https://openai.com/index/chatham-financial"/>
+        <updated>2026-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The eternal complement]]></title>
         <id>https://openai.com/index/the-eternal-complement</id>
@@ -79,6 +151,26 @@ The post Can an Apartment Search Agent Call the Model Fewer Times and Still Find
 The post What the ReLU Revolution Revealed About Biological Plausibility appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Rob Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness]]></title>
+        <id>https://machinelearningmastery.com/?p=25276</id>
+        <link href="https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/"/>
+        <updated>2026-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to add a lightweight temporal reasoning layer to a Graph-RAG system so that it can distinguish fresh facts...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent Observability: Logging, Tracing, and Debugging Explained]]></title>
+        <id>https://machinelearningmastery.com/?p=25111</id>
+        <link href="https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/"/>
+        <updated>2026-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chain Visualization: Reading the Trace Waterfall The spans from the last section don't mean much as a raw list.]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
         </author>
     </entry>
     <entry>
@@ -326,6 +418,16 @@ The post When All You Have Are Decoders, Every Decision Looks Like Generation ap
 The post How to Design Architectural Guardrails Around AI Agents appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM]]></title>
+        <id>https://machinelearningmastery.com/?p=25244</id>
+        <link href="https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/"/>
+        <updated>2026-09-29T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to automatically extract structured knowledge from raw text and populate a knowledge graph with SPOC quads using a...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -3166,134 +3268,6 @@ The post From OTS to Production-Ready: The Data Pipeline for Frontier Model Trai
         <link href="https://openai.com/index/safety-overview-gpt-6-astra"/>
         <updated>2026-09-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working]]></title>
-        <id>https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/</id>
-        <link href="https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/"/>
-        <updated>2026-09-02T15:30:02.000Z</updated>
-        <summary type="html"><![CDATA[I built a matcher meant to finish the cleanup that normalization left behind. Testing it against real data showed that no version of it could be made safe. What follows is the architecture that was left once the matcher was set aside.
-The post Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rahul Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Mechanical Turk Alternatives in 2026: What to Use After MTurk Shuts Down]]></title>
-        <id>https://imerit.ai/?p=41459</id>
-        <link href="https://imerit.ai/resources/blog/best-mechanical-turk-alternatives-in-2026-what-to-use-after-mturk-shuts-down/"/>
-        <updated>2026-09-02T14:19:17.000Z</updated>
-        <summary type="html"><![CDATA[MTurk closes Sept 30, 2026. Discover expert-backed alternatives like Scholars and Ango for reliable AI data annotation.
-The post Best Mechanical Turk Alternatives in 2026: What to Use After MTurk Shuts Down appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence]]></title>
-        <id>https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/</id>
-        <link href="https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/"/>
-        <updated>2026-09-02T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #B3] - A confident wrong answer is a bug. A bare “no answer” with no justification is almost as bad. Each of the four bricks has one piece of evidence to show
-The post A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Intelligence with IBM Time Series Models on Confluent]]></title>
-        <id>https://huggingface.co/blog/ibm-research/real-time-intelligence</id>
-        <link href="https://huggingface.co/blog/ibm-research/real-time-intelligence"/>
-        <updated>2026-09-02T13:49:14.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply]]></title>
-        <id>https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/</id>
-        <link href="https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/"/>
-        <updated>2026-09-02T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[A visual guide to how graph neural networks work under the hood
-The post Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Slava Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]></title>
-        <id>https://openai.com/index/atv-big-air-tour</id>
-        <link href="https://openai.com/index/atv-big-air-tour"/>
-        <updated>2026-09-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Memory Design: What Works and What Doesn’t]]></title>
-        <id>https://machinelearningmastery.com/?p=25148</id>
-        <link href="https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/"/>
-        <updated>2026-09-02T11:49:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to design reliable memory systems for AI agents, covering both the patterns that work and the common architectural...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to Decoding LLM Model Names]]></title>
-        <id>https://www.analyticsvidhya.com/?p=257284</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/09/decoding-llm-model-names/"/>
-        <updated>2026-09-02T11:43:23.000Z</updated>
-        <summary type="html"><![CDATA[If you have ever tried downloading a local LLM, you have probably seen model names that look like this:  Qwen3.8-27B-A3B-It-2507-gguf-q2ks-mixed-AutoRound At first, it looks like meaningless technical shorthand.  It isn’t!  Every part of that name tells you something about the model: how large it is, how it is built, how much of it is used at a time, how […]
-The post A Complete Guide to Decoding LLM Model Names appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Vasu Deo Sankrityayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Introduction to PySpark Window Functions]]></title>
-        <id>https://towardsdatascience.com/?p=668722</id>
-        <link href="https://towardsdatascience.com/a-practical-introduction-to-pyspark-window-functions/"/>
-        <updated>2026-09-02T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Why the standard groupBy function isn’t enough
-The post A Practical Introduction to PySpark Window Functions appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BenchMIRT: What are LLM benchmarks actually measuring?]]></title>
-        <id>https://huggingface.co/blog/allenai/benchmirt</id>
-        <link href="https://huggingface.co/blog/allenai/benchmirt"/>
-        <updated>2026-09-01T21:39:07.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Ai2 on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Alignment Journal: Organization, Personnel, and Scope]]></title>
-        <id>9vm2wtAtb34pEkjje</id>
-        <link href="https://www.alignmentforum.org/posts/9vm2wtAtb34pEkjje/the-alignment-journal-organization-personnel-and-scope"/>
-        <updated>2026-09-01T20:49:18.000Z</updated>
-        <summary type="html"><![CDATA[[Cross-posted from the Alignment Journal's blog]
-The Alignment Journal is beginning to invite the authors of select papers to submit their work for review. If you are interested in participating as an action editor or a reviewer, make an account on our website; if you have a manuscript that you think would be a good fit for the Journal at this stage, email contact@alignmentjournal.org to request an invitation to submit. Manuscripts under review will become visible on our homepage, and you will be able to nominate yourself as a reviewer of a specific paper that interests you. We plan to open up submissions to everyone sometime in October.
-Here we announce the Journal's inaugural senior editorial board, advisory board, staff, organizational structure, and initial scope. We welcome questions …]]></summary>
-        <author>
-            <name>Dan MacKinlay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
-        <id>https://openai.com/index/ai-native-company-workflows</id>
-        <link href="https://openai.com/index/ai-native-company-workflows"/>
-        <updated>2026-09-01T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.]]></summary>
         <author>
             <name>OpenAI News</name>
         </author>
