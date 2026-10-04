@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
+          "author": "Shitanshu Bhushan",
+          "description": "Trying to answer the question of \"Can LLM agents discover?\" through the lens of creativity\nThe post Measuring the Creativity Potential of LLM Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
+          "publishedOn": "2026-10-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Measuring the Creativity Potential of LLM Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
+          "author": "Ferran Alia",
+          "description": "A from-scratch PyTorch build that recovers blood flow, viscosity, and wall shear stress in a narrowed artery from 40 noisy velocity readings\nThe post How to Use a PINN for a Navier-Stokes Inverse Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
+          "publishedOn": "2026-10-03T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Use a PINN for a Navier-Stokes Inverse Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
           "author": "Andrew Hinton",
           "description": "Coordinating agent capability development with the application it powers\nThe post Where the Agent Development Lifecycle Fits appeared first on Towards Data Science.",
@@ -990,46 +1010,6 @@
           "wordCount": 5270,
           "title": "How to Run 10+ Claude Code Sessions Without a Powerful Computer",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788297639039_e3l6hh.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/",
-          "author": "Ibrahim Salami",
-          "description": "Turning a trained churn classifier into a FastAPI service that other software can actually call.\nThe post My Model Worked Perfectly. Then I Tried to Make It Useful. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/",
-          "publishedOn": "2026-09-03T15:30:01.000Z",
-          "wordCount": 5636,
-          "title": "My Model Worked Perfectly. Then I Tried to Make It Useful.",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788084041405_ighu7h.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/tables-in-pdfs-for-rag-dont-flatten-the-grid/",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #B4] - A diagnostic and five composable operations, not a decision tree\nThe post Tables in PDFs for RAG: Don’t Flatten the Grid appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tables-in-pdfs-for-rag-dont-flatten-the-grid/",
-          "publishedOn": "2026-09-03T14:00:01.000Z",
-          "wordCount": 9581,
-          "title": "Tables in PDFs for RAG: Don’t Flatten the Grid",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787719196760_wbhavi.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
-          "author": "Emmimal P Alexander",
-          "description": "I built a prompt dependency graph that separates everything a component can reach from the smaller set that actually needs targeted evaluation.\nThe post Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
-          "publishedOn": "2026-09-03T12:30:01.000Z",
-          "wordCount": 10273,
-          "title": "Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788014908565_aqq52x.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/",
-          "author": "Mike Huls",
-          "description": "A practical framework for reducing uncertainty before agents accelerate implementation\nThe post How to Solve the Right Problem in the Age of Agentic AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/",
-          "publishedOn": "2026-09-03T11:00:01.000Z",
-          "wordCount": 6907,
-          "title": "How to Solve the Right Problem in the Age of Agentic AI",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787750810582_aly77w.jpg"
         }
       ]
     },
@@ -1237,16 +1217,6 @@
           "wordCount": 9534,
           "title": "Dataclasses for Structured Application Data",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-dataclasses-for-structured-application-data-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25002",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn the key differences between single-agent and multi-agent AI systems, and how to decide which architecture fits your problem. Topics...",
-          "link": "https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/",
-          "publishedOn": "2026-09-03T12:00:46.000Z",
-          "wordCount": 8893,
-          "title": "Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it-feature.png"
         }
       ]
     },
@@ -1296,6 +1266,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "author": null,
+          "description": "A Blog post by Microsoft on Hugging Face",
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "publishedOn": "2026-10-03T22:56:48.000Z",
+          "wordCount": 3515,
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/astabrief",
           "author": null,
@@ -1485,46 +1465,6 @@
           "wordCount": 1869,
           "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/HuauFbdznYW4fNQh8j4Tp.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/Hcompany/neomme",
-          "author": null,
-          "description": "A Blog post by H company on Hugging Face",
-          "link": "https://huggingface.co/blog/Hcompany/neomme",
-          "publishedOn": "2026-09-03T13:13:48.000Z",
-          "wordCount": 3133,
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6264f9655f6f2e14d6ac981c/GJ6FUbgFpq1x8RNOqzmz-.webp"
-        },
-        {
-          "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "publishedOn": "2026-09-03T00:00:00.000Z",
-          "wordCount": 2214,
-          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "imageUrl": "https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/funes",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/funes",
-          "publishedOn": "2026-09-03T00:00:00.000Z",
-          "wordCount": 1979,
-          "title": "Give Your Coding Agents a Memory You Own",
-          "imageUrl": "https://huggingface.co/blog/assets/funes/thumbnail.jpg"
-        },
-        {
-          "id": "https://huggingface.co/blog/train-to-paint-with-code",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/train-to-paint-with-code",
-          "publishedOn": "2026-09-03T00:00:00.000Z",
-          "wordCount": 5636,
-          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "imageUrl": "https://huggingface.co/blog/assets/train-to-paint-with-code/thumbnail.png"
         }
       ]
     },
@@ -2032,26 +1972,6 @@
           "wordCount": 4056,
           "title": "AI Model Evaluation Awareness: The Benchmark Gap That Appears When Your Model Knows It is Being Tested",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-Img-AI-Model-Evaluation-Awareness.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41504",
-          "author": "Sujana Urs",
-          "description": "Learn why road perception fails off-highway and what agricultural sensor fusion needs to handle complex multi-sensor data.\nThe post Why Sensor Fusion Built for Roads Fails on Farm Equipment and What Agricultural Multi-Sensor Models Actually Need appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/why-sensor-fusion-built-for-roads-fails-on-farm-equipment-and-what-agricultural-multi-sensor-models-actually-need/",
-          "publishedOn": "2026-09-03T07:17:42.000Z",
-          "wordCount": 3609,
-          "title": "Why Sensor Fusion Built for Roads Fails on Farm Equipment and What Agricultural Multi-Sensor Models Actually Need",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Why-Sensor-Fusion-Built-for-Roads-Fails-on-Farm-Equipment-and-What-Agricultural-Multi-Sensor-Models-Actually-Need.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41492",
-          "author": "Sujana Urs",
-          "description": "Learn how raw AI training data becomes production-ready through filtering, deduplication, QA, expert enrichment, and expert validation.\nThe post From OTS to Production-Ready: The Data Pipeline for Frontier Model Training appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/from-ots-to-production-ready-the-data-pipeline-for-frontier-model-training/",
-          "publishedOn": "2026-09-03T06:47:47.000Z",
-          "wordCount": 3229,
-          "title": "From OTS to Production-Ready: The Data Pipeline for Frontier Model Training",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-From-OTS-to-Production-Ready-The-Data-Pipeline-for-Frontier-Model-Training.png"
         }
       ]
     },
@@ -2277,17 +2197,6 @@
           "publishedOn": "2026-09-04T10:55:00.000Z",
           "wordCount": null,
           "title": "Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257318",
-          "author": "Sree Vamsi",
-          "description": "OpenCode is open source and works with any model, but those are no longer its most interesting features. Model choice is table stakes. What sets OpenCode apart is its architecture, and the trade-offs that come with it, especially if you are coming from Claude Code.  In this article, we look at what OpenCode is, what makes its architecture different, what […]\nThe post OpenCode Explained: The Open-Source AI Coding Agent appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/opencode-ai-explained/",
-          "publishedOn": "2026-09-03T11:49:22.000Z",
-          "wordCount": null,
-          "title": "OpenCode Explained: The Open-Source AI Coding Agent",
           "itunes": {},
           "imageUrl": null
         }
@@ -3013,56 +2922,6 @@
           "publishedOn": "2026-09-06T08:00:00.000Z",
           "wordCount": null,
           "title": "Research acceleration: The view inside OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "author": null,
-          "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "publishedOn": "2026-09-03T13:15:00.000Z",
-          "wordCount": null,
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "author": null,
-          "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "publishedOn": "2026-09-03T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "author": null,
-          "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "publishedOn": "2026-09-03T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/gpt-6-astra",
-          "author": null,
-          "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-          "link": "https://openai.com/index/gpt-6-astra",
-          "publishedOn": "2026-09-03T11:00:00.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra: A new generation of intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "author": null,
-          "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-          "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "publishedOn": "2026-09-03T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Safety overview: GPT-6 Astra",
           "imageUrl": null
         }
       ]
