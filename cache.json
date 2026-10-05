@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-to-govern-ai-agents/",
+          "author": "Amber Roberts",
+          "description": "From guarding one agent to steering a fleet\nThe post How to Govern AI Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-govern-ai-agents/",
+          "publishedOn": "2026-10-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Govern AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/",
+          "author": "Utkarsh Mangal",
+          "description": "A model can recall a fact in the direction it learned it and fail in the other. Here's a toy version of why\nThe post The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A” appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/",
+          "publishedOn": "2026-10-04T12:00:00.000Z",
+          "wordCount": null,
+          "title": "The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
           "author": "Shitanshu Bhushan",
           "description": "Trying to answer the question of \"Can LLM agents discover?\" through the lens of creativity\nThe post Measuring the Creativity Potential of LLM Agents appeared first on Towards Data Science.",
@@ -970,46 +990,6 @@
           "wordCount": 7610,
           "title": "Dynamical System Transfer Learning with Reduced Order Models",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788309944526_5aqat3.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/",
-          "author": "Alejandro Alvarez Perez",
-          "description": "Why the default 50/50 split is the wrong move when your treatment is more expensive than your control, and how cost-based sampling weights fix it\nThe post Optimal Traffic Allocation Under Heterogeneous Variant Cost appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/",
-          "publishedOn": "2026-09-04T15:30:02.000Z",
-          "wordCount": 7274,
-          "title": "Optimal Traffic Allocation Under Heterogeneous Variant Cost",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788286151360_jjyt80.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/",
-          "author": "Mostafa Ibrahim",
-          "description": "Three conditions that must hold before splitting prefill from decode pays off, and why chunked prefill is the right default below that threshold.\nThe post Disaggregation Is a Thousand-GPU Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/",
-          "publishedOn": "2026-09-04T14:00:02.000Z",
-          "wordCount": 3621,
-          "title": "Disaggregation Is a Thousand-GPU Problem",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787858702320_n0xwek.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
-          "author": "Nikola Ilic",
-          "description": "Power BI Premium is gone. Microsoft Fabric took its place. Here's what actually changed for you, what didn't, and where to start — without the panic.\nThe post The Power BI Developer's Survival Guide to Microsoft Fabric appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
-          "publishedOn": "2026-09-04T12:30:02.000Z",
-          "wordCount": 5416,
-          "title": "The Power BI Developer's Survival Guide to Microsoft Fabric",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788274893786_zm158n.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to run a lot of parallel coding agents without expensive, powerful hardware at home\nThe post How to Run 10+ Claude Code Sessions Without a Powerful Computer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
-          "publishedOn": "2026-09-04T11:00:02.000Z",
-          "wordCount": 5270,
-          "title": "How to Run 10+ Claude Code Sessions Without a Powerful Computer",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788297639039_e3l6hh.webp"
         }
       ]
     },
@@ -1207,16 +1187,6 @@
           "wordCount": 8556,
           "title": "Chain of Thought vs. Tree of Thoughts: Which is Best for AI Agents?",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-chain-thought-tree-thoughts-best-ai-agents-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25171",
-          "author": "Matthew Mayo",
-          "description": "Scalar defaults work the way you'd expect, and batch_size: int = 500 is all you need.",
-          "link": "https://machinelearningmastery.com/dataclasses-for-structured-application-data/",
-          "publishedOn": "2026-09-04T12:00:44.000Z",
-          "wordCount": 9534,
-          "title": "Dataclasses for Structured Application Data",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-dataclasses-for-structured-application-data-feature.png"
         }
       ]
     },
@@ -1807,6 +1777,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=80322",
+          "author": "Sudip Chakrabarty",
+          "description": "Run Qwen3.8-27B, an open vision-language model, on real computer vision tasks: detection, inspection, video, OCR and more, with runnable code.\nHow to Master Qwen3.8-27B for Real Computer Vision Tasks first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/qwen3-8-27b-computer-vision/",
+          "publishedOn": "2026-10-04T16:28:44.000Z",
+          "wordCount": 9209,
+          "title": "How to Master Qwen3.8-27B for Real Computer Vision Tasks",
+          "imageUrl": "https://cdn.learnopencv.com/wp-content/uploads/2026/09/Qwen_38_27B_featured.jpg"
+        },
+        {
           "id": "https://learnopencv.com/?p=80336",
           "author": "Satya Mallick",
           "description": "Before a flight, I left Astra a short prompt and a signed-in Roboflow account. It collected Microduck media, produced annotations, trained two RF-DETR-Seg-M models, and returned held-out video comparisons. Here is what worked, what failed, and what the experiment measured.\nTrain RF-DETR for Instance Segmentation with GPT-6 Astra first appeared on LearnOpenCV.",
@@ -2186,17 +2166,6 @@
           "publishedOn": "2026-09-05T00:57:25.000Z",
           "wordCount": null,
           "title": "GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257339",
-          "author": "Aayush Tyagi",
-          "description": "If you spent any time on GitHub Trending in August, you probably noticed the centre of gravity had shifted again. Models took a back seat to the machinery around them: agent harnesses, skills, memory layers, gateways, and document tooling. One repository alone gained more than 190,000 stars in four weeks.  We tracked star growth, momentum, ecosystem impact, […]\nThe post Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/top-github-repositories-august-2026/",
-          "publishedOn": "2026-09-04T10:55:00.000Z",
-          "wordCount": null,
-          "title": "Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)",
           "itunes": {},
           "imageUrl": null
         }

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-04T04:06:03.821Z</updated>
+    <updated>2026-10-05T03:50:48.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Master Qwen3.8-27B for Real Computer Vision Tasks]]></title>
+        <id>https://learnopencv.com/?p=80322</id>
+        <link href="https://learnopencv.com/qwen3-8-27b-computer-vision/"/>
+        <updated>2026-10-04T16:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Run Qwen3.8-27B, an open vision-language model, on real computer vision tasks: detection, inspection, video, OCR and more, with runnable code.
+How to Master Qwen3.8-27B for Real Computer Vision Tasks first appeared on LearnOpenCV.]]></summary>
+        <author>
+            <name>Sudip Chakrabarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Govern AI Agents]]></title>
+        <id>https://towardsdatascience.com/how-to-govern-ai-agents/</id>
+        <link href="https://towardsdatascience.com/how-to-govern-ai-agents/"/>
+        <updated>2026-10-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From guarding one agent to steering a fleet
+The post How to Govern AI Agents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Amber Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”]]></title>
+        <id>https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/</id>
+        <link href="https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/"/>
+        <updated>2026-10-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A model can recall a fact in the direction it learned it and fail in the other. Here's a toy version of why
+The post The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A” appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Agent Said It Was Done. The Database Disagreed.]]></title>
         <id>https://huggingface.co/blog/microsoft/thinkingbox</id>
@@ -3060,71 +3093,6 @@ How 10x AI Engineers Train Models for Production: Lessons from PINTO’s Face Al
 The post GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model appeared first on Analytics Vidhya.]]></summary>
         <author>
             <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Traffic Allocation Under Heterogeneous Variant Cost]]></title>
-        <id>https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/</id>
-        <link href="https://towardsdatascience.com/optimal-traffic-allocation-under-heterogeneous-variant-cost/"/>
-        <updated>2026-09-04T15:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Why the default 50/50 split is the wrong move when your treatment is more expensive than your control, and how cost-based sampling weights fix it
-The post Optimal Traffic Allocation Under Heterogeneous Variant Cost appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Alejandro Alvarez Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disaggregation Is a Thousand-GPU Problem]]></title>
-        <id>https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/</id>
-        <link href="https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/"/>
-        <updated>2026-09-04T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Three conditions that must hold before splitting prefill from decode pays off, and why chunked prefill is the right default below that threshold.
-The post Disaggregation Is a Thousand-GPU Problem appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mostafa Ibrahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power BI Developer's Survival Guide to Microsoft Fabric]]></title>
-        <id>https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/</id>
-        <link href="https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/"/>
-        <updated>2026-09-04T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Power BI Premium is gone. Microsoft Fabric took its place. Here's what actually changed for you, what didn't, and where to start — without the panic.
-The post The Power BI Developer's Survival Guide to Microsoft Fabric appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataclasses for Structured Application Data]]></title>
-        <id>https://machinelearningmastery.com/?p=25171</id>
-        <link href="https://machinelearningmastery.com/dataclasses-for-structured-application-data/"/>
-        <updated>2026-09-04T12:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Scalar defaults work the way you'd expect, and batch_size: int = 500 is all you need.]]></summary>
-        <author>
-            <name>Matthew Mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run 10+ Claude Code Sessions Without a Powerful Computer]]></title>
-        <id>https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/</id>
-        <link href="https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/"/>
-        <updated>2026-09-04T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to run a lot of parallel coding agents without expensive, powerful hardware at home
-The post How to Run 10+ Claude Code Sessions Without a Powerful Computer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)]]></title>
-        <id>https://www.analyticsvidhya.com/?p=257339</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/09/top-github-repositories-august-2026/"/>
-        <updated>2026-09-04T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[If you spent any time on GitHub Trending in August, you probably noticed the centre of gravity had shifted again. Models took a back seat to the machinery around them: agent harnesses, skills, memory layers, gateways, and document tooling. One repository alone gained more than 190,000 stars in four weeks.  We tracked star growth, momentum, ecosystem impact, […]
-The post Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Aayush Tyagi</name>
         </author>
     </entry>
 </feed>
