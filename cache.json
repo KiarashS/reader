@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+          "author": "Thuwarakesh Murallie",
+          "description": "Add architectural guardrails around how agents read untrusted sources and use them in the workflow.\nThe post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+          "publishedOn": "2026-10-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How Can AI Agents Read Untrusted Sources Safely?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+          "author": "Utkarsh Mangal",
+          "description": "A one-line formula for how often an LLM's top token flips, and why identical\ncompletions fall apart after about a hundred tokens\nThe post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+          "publishedOn": "2026-10-10T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Temperature 0 Isn't Deterministic",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/",
           "author": "Benjamin Nweke",
           "description": "How a decision-first model can catch risky tool calls before they turn into real-world actions\nThe post Can TypeSafe's Jev Make AI Agents Safer Without Another LLM? appeared first on Towards Data Science.",
@@ -980,46 +1000,6 @@
           "wordCount": 3250,
           "title": "Demystifying Anthropic's J-Space: A Mathematical Primer",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788771866306_trus89.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
-          "author": "Eivind Kjosbakken",
-          "description": "Better understand the intent of your coding agents\nThe post How to 5x Your Communication Effectiveness with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
-          "publishedOn": "2026-09-10T15:30:01.000Z",
-          "wordCount": 5285,
-          "title": "How to 5x Your Communication Effectiveness with Claude Code",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788699575639_nl13r2.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/",
-          "author": "Benjamin Nweke",
-          "description": "Why autonomous agents expose a new explainability problem in fraud detection\nThe post What SHAP Can't Explain About Agentic AI Fraud appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/",
-          "publishedOn": "2026-09-10T14:00:01.000Z",
-          "wordCount": 4734,
-          "title": "What SHAP Can't Explain About Agentic AI Fraud",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788814203456_bz3f84.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
-          "author": "Partha Sarkar",
-          "description": "Moving from static model assignment to intelligent, task-level LLM selection.\nThe post Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
-          "publishedOn": "2026-09-10T12:30:01.000Z",
-          "wordCount": 4744,
-          "title": "Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788795473037_he173q.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/who-questions-what-works-when-should-we-retest-our-assumptions/",
-          "author": "Erika Gomes-Gonçalves",
-          "description": "A model is only as reliable as the assumptions behind it\nThe post Who Questions What Works: When Should We Retest Our Assumptions? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/who-questions-what-works-when-should-we-retest-our-assumptions/",
-          "publishedOn": "2026-09-10T11:00:01.000Z",
-          "wordCount": 5735,
-          "title": "Who Questions What Works: When Should We Retest Our Assumptions?",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788708678614_4wugvh.jpg"
         }
       ]
     },
@@ -1187,16 +1167,6 @@
           "wordCount": 9507,
           "title": "Fine-Tuning Agentic AI: A Practical Guide",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-FIne-tuning-Agentic-AI-1024x609.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25085",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn where traditional machine learning reaches its limits, what agentic reasoning adds, and how combining the two produces AI systems...",
-          "link": "https://machinelearningmastery.com/how-to-combine-traditional-machine-learning-with-agentic-reasoning/",
-          "publishedOn": "2026-09-10T12:00:20.000Z",
-          "wordCount": 8385,
-          "title": "How to Combine Traditional Machine Learning with Agentic Reasoning",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-combine-traditional-machine-learning-agentic-reasoning-feature.png"
         }
       ]
     },
@@ -1475,26 +1445,6 @@
           "wordCount": 2486,
           "title": "Your Agent Aced the Task. Will It Do It Again?",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg"
-        },
-        {
-          "id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-          "publishedOn": "2026-09-10T00:00:00.000Z",
-          "wordCount": 6707,
-          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-          "imageUrl": "https://huggingface.co/blog/assets/asyncgrpo-lora-hfjobs/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/gradio-workflow-1111",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/gradio-workflow-1111",
-          "publishedOn": "2026-09-10T00:00:00.000Z",
-          "wordCount": 2632,
-          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "imageUrl": "https://huggingface.co/blog/assets/gradio-workflow1111/thumbnail.png"
         }
       ]
     },
@@ -2050,26 +2000,6 @@
           "wordCount": 4025,
           "title": "Autonomous Tractor Perception Failure in Low Light and Bad Weather: The Training Data That Fixes It",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Autonomous-Tractor-Perception-Failure-in-Low-Light-and-Bad-Weather-The-Training-Data-That-Fixes-It.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41709",
-          "author": "Sujana Urs",
-          "description": "Generic crowds can't handle every AI task. Learn why expert data annotation and verified contributors are becoming the new standard.\nThe post Expert Data Annotation: Why Generic Crowds Are No Longer Enough for Every AI Task appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/expert-data-annotation-why-generic-crowds-are-no-longer-enough-for-every-ai-task/",
-          "publishedOn": "2026-09-10T13:42:21.000Z",
-          "wordCount": 2717,
-          "title": "Expert Data Annotation: Why Generic Crowds Are No Longer Enough for Every AI Task",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Expert-Data-Annotation.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=41652",
-          "author": "Sujana Urs",
-          "description": "Discover how turn-taking data for voice AI improves end-of-turn detection, interruption handling, and conversational timing beyond latency optimization.\nThe post Why Sub-Second Latency Voice AI Fails Without Better Turn-Taking Data appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/why-sub-second-latency-voice-ai-fails-without-better-turn-taking-data/",
-          "publishedOn": "2026-09-10T06:36:55.000Z",
-          "wordCount": 4180,
-          "title": "Why Sub-Second Latency Voice AI Fails Without Better Turn-Taking Data",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Why-Sub-Second-Latency-Voice-AI-Fails-Without-Better-Turn-Taking-Data.png"
         }
       ]
     },
@@ -2295,17 +2225,6 @@
           "publishedOn": "2026-09-11T18:41:31.000Z",
           "wordCount": null,
           "title": "5 ChatGPT 2.5 Features to Try Today!",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257464",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "A Hindi lesson can mix English terms (loan words), scanned tables and handwritten equations. Making that content searchable, translating it and reading it aloud requires several kinds of AI. Bodhan AI and AI4Bharat’s four new models target those jobs across Indian languages.  Released in September 2026, the models cover document parsing, translation, speech recognition and speech generation, with support for mixed languages and scripts. In this […]\nThe post Bodhan AI Releases Four Indic Models for OCR, Translation and Speech  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/",
-          "publishedOn": "2026-09-10T06:54:03.000Z",
-          "wordCount": null,
-          "title": "Bodhan AI Releases Four Indic Models for OCR, Translation and Speech",
           "itunes": {},
           "imageUrl": null
         }
@@ -3033,66 +2952,6 @@
           "wordCount": null,
           "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/put-data-to-work",
-          "author": null,
-          "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-          "link": "https://openai.com/index/put-data-to-work",
-          "publishedOn": "2026-09-10T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Now everyone can put data to work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-chatgpt-financial-services",
-          "author": null,
-          "description": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-          "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-          "publishedOn": "2026-09-10T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing ChatGPT for Financial Services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/expanding-ai-access-us-government",
-          "author": null,
-          "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-          "link": "https://openai.com/index/expanding-ai-access-us-government",
-          "publishedOn": "2026-09-10T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-the-agents-api",
-          "author": null,
-          "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "link": "https://openai.com/index/introducing-the-agents-api",
-          "publishedOn": "2026-09-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing the Agents API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "author": null,
-          "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "publishedOn": "2026-09-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "author": null,
-          "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-          "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "publishedOn": "2026-09-09T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Paul Christiano joins OpenAI Foundation Board",
-          "imageUrl": null
         }
       ]
     },
@@ -3196,22 +3055,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-          "author": "Nathan Lambert",
-          "description": "Some quick notes on a truly weird week.",
-          "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-          "publishedOn": "2026-09-10T15:28:52.000Z",
-          "wordCount": null,
-          "title": "One resignation turned the embers of AI fear into a wildfire",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png"
         }
       ]
     },
@@ -3358,16 +3201,6 @@
           "publishedOn": "2026-09-10T17:18:38.000Z",
           "wordCount": null,
           "title": "Proposal for tracking the effects of architecture on monitorability",
-          "imageUrl": null
-        },
-        {
-          "id": "eRmzz8J8Qkzqvzrgg",
-          "author": "Neel Nanda",
-          "description": "TLDR: Astra has 8.6x better odds of doing a reasoning task without CoT than the next best model (Fable 5.1), and can do 7.2 serial arithmetic steps in a forward pass vs 4.1 for the next best model (Gemini 3.8 Flash/Fable 5.1)\nEpistemic status: Heavily LLM-dependent research, and the precise results are somewhat sensitive to researcher decisions, but I’ve done enough sanity checks that I’d be surprised if the core claims were misleading\nOne of the most striking things in the Astra report was the massive jump UK AISI found in no-CoT reasoning abilities. I was somewhat suspicious, given the size of the jump, and the many ways this kind of measurement can be misleading. Conveniently, I’ve independently been making my own no CoT reasoning benchmark[1] and tried it on there!\nUnfortunately, it re…",
-          "link": "https://www.alignmentforum.org/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought",
-          "publishedOn": "2026-09-10T02:31:26.000Z",
-          "wordCount": null,
-          "title": "Astra can do a concerning amount with no chain of thought",
           "imageUrl": null
         }
       ]
