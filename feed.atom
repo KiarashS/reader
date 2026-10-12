@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-11T03:43:58.469Z</updated>
+    <updated>2026-10-12T04:06:59.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minimum required pacing: finish aligning it before you train the next one]]></title>
+        <id>ZWSstGSwmaxTjQ8W7</id>
+        <link href="https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train"/>
+        <updated>2026-10-11T21:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Let's say we coordinate to pace the frontier, but we don't coordinate on an outright pause. What should the standard of pacing be?
+My proposal for a minimum requirement: a lab cannot train the next generation of models (in terms of capabilities) until they have adequately[1] resolved all significant alignment issues in the present generation of models.
+You don't launch a jet that goes at Mach 3 before you've figured out why your Mach 2 jet keeps crashing[2]. With any other kind of dangerous technology, we wouldn't accept "shrug and move on".
+This proposal may appeal to many prosaic-alignment optimists and pessimists, because they usually differ on how easy it would be to fix current alignment issues with current techniques. 
+
+Prosaic-alignment optimists might expect that a moderate coordin…]]></summary>
+        <author>
+            <name>orthonormal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to OpenAI's New Decisions API]]></title>
+        <id>https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/</id>
+        <link href="https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"/>
+        <updated>2026-10-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is this the JEV killer?
+The post A Practical Guide to OpenAI's New Decisions API appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns]]></title>
+        <id>https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/</id>
+        <link href="https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/"/>
+        <updated>2026-10-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beyond basic ReAct loops: six production-oriented architectures for building autonomous, reliable, and scalable LLM agents.
+The post Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents]]></title>
+        <id>https://www.analyticsvidhya.com/?p=257978</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/"/>
+        <updated>2026-10-11T05:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Autonomous AI agents can read requests, retrieve data, reason through options, and trigger actions in seconds. That speed is useful, but it also creates risk when the next step affects money, customer records, or external systems.  Human-in-the-loop checkpoints add control at the moment an agent’s recommendation is about to become a real-world action. In this […]
+The post How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents  appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Janvi Kumari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can AI Agents Read Untrusted Sources Safely?]]></title>
         <id>https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/</id>
@@ -2891,163 +2939,6 @@ I asked Claude Opus 4.6 to iterate on prompt templates for the eval, and find th
 This su…]]></summary>
         <author>
             <name>Jozdien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]></title>
-        <id>https://openai.com/index/cognition-devin-testing-with-astra</id>
-        <link href="https://openai.com/index/cognition-devin-testing-with-astra"/>
-        <updated>2026-09-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Agents Don't Need Longer History — They Need Intent Continuity]]></title>
-        <id>https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/</id>
-        <link href="https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/"/>
-        <updated>2026-09-11T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[I built a system that automatically discovers, verifies, and applies relevant requirements from earlier interactions without asking the user where they came from.
-The post Coding Agents Don't Need Longer History — They Need Intent Continuity appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications]]></title>
-        <id>6aa41d147411afb20c713931</id>
-        <link href="https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/"/>
-        <updated>2026-09-11T15:24:04.000Z</updated>
-        <summary type="html"><![CDATA[So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.]]></summary>
-        <author>
-            <name>Jude Otine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent]]></title>
-        <id>6aa41926c7a41a4b7462a57d</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-agent-harness/"/>
-        <updated>2026-09-11T15:07:18.000Z</updated>
-        <summary type="html"><![CDATA[On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Design in the Age of AI]]></title>
-        <id>https://towardsdatascience.com/software-design-in-the-age-of-ai/</id>
-        <link href="https://towardsdatascience.com/software-design-in-the-age-of-ai/"/>
-        <updated>2026-09-11T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Why AI coding makes software design more important
-The post Software Design in the Age of AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Devesh Rajadhyax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Moon Base]]></title>
-        <id>3c3c42fc-ade3-11f1-9953-f7f954cb0158</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-moon-base/"/>
-        <updated>2026-09-11T13:37:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s Moon Base program manager Carlos García-Galán discusses how NASA is building humanity’s first Moon Base and establishing a long-term human presence on the lunar surface. Episode 436]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source AI & Open Models Reading List]]></title>
-        <id>https://www.interconnects.ai/p/open-source-ai-reading-list</id>
-        <link href="https://www.interconnects.ai/p/open-source-ai-reading-list"/>
-        <updated>2026-09-11T12:36:25.000Z</updated>
-        <summary type="html"><![CDATA[How to get up to speed on open models and their implications.]]></summary>
-        <author>
-            <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is]]></title>
-        <id>https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/</id>
-        <link href="https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/"/>
-        <updated>2026-09-11T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Frequentist confidence intervals and Bayesian credible intervals answer different questions, and confusing them can distort product decisions
-The post The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ananya Bhattacharyya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning Agentic AI: A Practical Guide]]></title>
-        <id>https://machinelearningmastery.com/?p=25116</id>
-        <link href="https://machinelearningmastery.com/fine-tuning-agentic-ai-a-practical-guide/"/>
-        <updated>2026-09-11T12:00:50.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to fine-tune an agentic AI system holistically, covering all four critical dials: training data, parameter-efficient fine-tuning, runtime hyperparameters,...]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying Anthropic's J-Space: A Mathematical Primer]]></title>
-        <id>https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/</id>
-        <link href="https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/"/>
-        <updated>2026-09-11T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Clarifying the math behind Anthropic’s representation workspace
-The post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pirmin Lemberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users]]></title>
-        <id>https://openai.com/index/scaling-storage-one-billion-users-part-one</id>
-        <link href="https://openai.com/index/scaling-storage-one-billion-users-part-one"/>
-        <updated>2026-09-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The why of 9/11]]></title>
-        <id>https://fastml.com/the-why-of-9-11/</id>
-        <link href="https://fastml.com/the-why-of-9-11/"/>
-        <updated>2026-09-10T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is not related to machine learning, but on the 25th anniversary of 9/11 we will make an exception. If you think about anything related to US …]]></summary>
-        <author>
-            <name>FastML</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An operationalization of opaque serial depth]]></title>
-        <id>x8BvtWxtoajBGHS3g</id>
-        <link href="https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth"/>
-        <updated>2026-09-10T17:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Currently, chain-of-thought (CoT) is a valuable tool for overseeing AI models. However, some architectural shifts could significantly reduce CoT monitorability. We have recently proposed that AI companies should transparently share ​​information about the degree to which their architectures may allow for latent reasoning and communication. To assist with this proposal, this document operationalizes a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform. Our measure is a specific instantiation of the notion of “opaque serial depth”, originally defined in a recent paper from GDM (Brown-Cohen et al, 2026).
-To measure the opaque serial depth of a computation, Brown-Cohen et al. propose measuring the longest path in the computational graph which doe…]]></summary>
-        <author>
-            <name>ryan_greenblatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposal for tracking the effects of architecture on monitorability]]></title>
-        <id>hLPGv8QjPcNLtDp3A</id>
-        <link href="https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on"/>
-        <updated>2026-09-10T17:18:38.000Z</updated>
-        <summary type="html"><![CDATA[Architectures that incorporate opaque recurrence or allow for agents to communicate with each other using latents could rapidly make it much harder to monitor chains of thought or communication (we’ll refer to this property as “monitorability” going forward).[1] As companies begin to explore such architectures, we believe it is important to transparently share evidence about how monitorability varies with architecture and training method. To inform the scientific debate on how to make tradeoffs between performance and monitorability, we believe AI companies should:
-
-Regularly report externally verified information about the degree to which their architectures may allow for latent reasoning or communication. Companies should publicly disclose enough information about architectures to allow …]]></summary>
-        <author>
-            <name>ryan_greenblatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules]]></title>
-        <id>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</id>
-        <link href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"/>
-        <updated>2026-09-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.]]></summary>
-        <author>
-            <name>OpenAI News</name>
         </author>
     </entry>
 </feed>
