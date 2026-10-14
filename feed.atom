@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-13T05:18:22.580Z</updated>
+    <updated>2026-10-14T03:23:48.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Continual Constitutional Convention: How language models revise the documents that govern them]]></title>
+        <id>c9woewdY9ddsPqf3J</id>
+        <link href="https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models"/>
+        <updated>2026-10-13T22:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Executive Summary
+
+Human societies exhibit broad shifts in values and norms over time, often driven by moral disagreements.
+One way of understanding moral progress is the resolution of these disagreements through a process of reflection by rational agents.
+Frontier AI companies use documents such as constitutions, model specs, and system prompts to guide the moral orientation of AI systems.
+In this experiment, we simulate value reflection in LLMs by asking them to edit these documents. We provide the model with the document, ask it to make a substantive edit, then provide the edited version back again to the model for further edits, presented as the original.
+Across 20 successive rounds, we find that Claude models assign themselves with increasingly more moral agency. That is, they add sec…]]></summary>
+        <author>
+            <name>peterkirgis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Agent Doesn't Need More Freedom]]></title>
+        <id>https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/</id>
+        <link href="https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/"/>
+        <updated>2026-10-13T18:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Agents got good. The hard part now is everything around them.
+The post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run fast, private agents on-device with LFM2.5-24B-A2B]]></title>
+        <id>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</id>
+        <link href="https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"/>
+        <updated>2026-10-13T17:05:48.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by Liquid AI on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling]]></title>
+        <id>https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/</id>
+        <link href="https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/"/>
+        <updated>2026-10-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Benchmarking NumPyro, affine-invariant MCMC, and dynesty against exact ground truth and watching them fail.
+The post Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samit Ganguly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Agents Can Solve the Task — But How Much Work Did They Waste?]]></title>
+        <id>https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/</id>
+        <link href="https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/"/>
+        <updated>2026-10-13T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Real repositories, seeded agent decisions: what 50,400 runs show about wasted turns, patch churn, and which harness rules help
+The post Coding Agents Can Solve the Task — But How Much Work Did They Waste? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higgsfield takes AI video from 1 minute to over 10]]></title>
+        <id>https://openai.com/index/higgsfield-longer-videos-voice</id>
+        <link href="https://openai.com/index/higgsfield-longer-videos-voice"/>
+        <updated>2026-10-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Leverage NLP for Product Data Science]]></title>
+        <id>https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/</id>
+        <link href="https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/"/>
+        <updated>2026-10-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to strengthening churn, CLV, and other traditional models with text
+The post How to Leverage NLP for Product Data Science appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Alex Davis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Decisions API: What it is and how to use it?]]></title>
         <id>https://www.analyticsvidhya.com/?p=258212</id>
@@ -2959,28 +3039,6 @@ The post From Static to Dynamic Skills: A Different Model for Agent Knowledge ap
         <summary type="html"><![CDATA[Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.]]></summary>
         <author>
             <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Model Isn't Done Until Someone Else Can Call It]]></title>
-        <id>https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/</id>
-        <link href="https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/"/>
-        <updated>2026-09-13T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Building a FastAPI endpoint for churn prediction, and everything that broke between "it runs" and "it's live
-The post Your Model Isn't Done Until Someone Else Can Call It appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Adoption Lift Is a Selection Effect]]></title>
-        <id>https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/</id>
-        <link href="https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/"/>
-        <updated>2026-09-13T12:00:02.000Z</updated>
-        <summary type="html"><![CDATA[A practitioner's guide to estimating what an opt-in AI feature actually did, when nobody randomized it.
-The post Your AI Adoption Lift Is a Selection Effect appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>William Gieng</name>
         </author>
     </entry>
 </feed>

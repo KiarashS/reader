@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
+          "author": "Gursimar Singh",
+          "description": "Agents got good. The hard part now is everything around them.\nThe post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
+          "publishedOn": "2026-10-13T18:28:09.000Z",
+          "wordCount": null,
+          "title": "Your Agent Doesn't Need More Freedom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/",
+          "author": "Samit Ganguly",
+          "description": "Benchmarking NumPyro, affine-invariant MCMC, and dynesty against exact ground truth and watching them fail.\nThe post Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/",
+          "publishedOn": "2026-10-13T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/",
+          "author": "Emmimal P Alexander",
+          "description": "Real repositories, seeded agent decisions: what 50,400 runs show about wasted turns, patch churn, and which harness rules help\nThe post Coding Agents Can Solve the Task — But How Much Work Did They Waste? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/",
+          "publishedOn": "2026-10-13T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Coding Agents Can Solve the Task — But How Much Work Did They Waste?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/",
+          "author": "Alex Davis",
+          "description": "A practical guide to strengthening churn, CLV, and other traditional models with text\nThe post How to Leverage NLP for Product Data Science appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/",
+          "publishedOn": "2026-10-13T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Leverage NLP for Product Data Science",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/",
           "author": "Mario Noioso",
           "description": "Re-reading my own IBM patent on real-time concert feedback as what it actually was: an agentic loop with multimodal perception, memory-grounded inference, and a human in the loop. What it got right, and what a decade of hindsight teaches agent builders today.\nThe post We Specified an AI Agent in 2016. We Called It Analytics. appeared first on Towards Data Science.",
@@ -960,26 +1000,6 @@
           "wordCount": 7323,
           "title": "From Static to Dynamic Skills: A Different Model for Agent Knowledge",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789064330790_5tdxoz.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/",
-          "author": "Ibrahim Salami",
-          "description": "Building a FastAPI endpoint for churn prediction, and everything that broke between \"it runs\" and \"it's live\nThe post Your Model Isn't Done Until Someone Else Can Call It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/",
-          "publishedOn": "2026-09-13T15:00:01.000Z",
-          "wordCount": 4502,
-          "title": "Your Model Isn't Done Until Someone Else Can Call It",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789119354368_2rkxk5.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/",
-          "author": "William Gieng",
-          "description": "A practitioner's guide to estimating what an opt-in AI feature actually did, when nobody randomized it.\nThe post Your AI Adoption Lift Is a Selection Effect appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/",
-          "publishedOn": "2026-09-13T12:00:02.000Z",
-          "wordCount": 8259,
-          "title": "Your AI Adoption Lift Is a Selection Effect",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788972007695_tn62uw.png"
         }
       ]
     },
@@ -1175,6 +1195,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "author": null,
+          "description": "A Blog post by Liquid AI on Hugging Face",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "publishedOn": "2026-10-13T17:05:48.000Z",
+          "wordCount": 2044,
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/impactful-scheduling",
           "author": null,
@@ -2258,6 +2288,16 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "author": null,
+          "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "publishedOn": "2026-10-13T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/sophos",
           "author": null,
           "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
@@ -2981,6 +3021,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "c9woewdY9ddsPqf3J",
+          "author": "peterkirgis",
+          "description": "Executive Summary\n\nHuman societies exhibit broad shifts in values and norms over time, often driven by moral disagreements.\nOne way of understanding moral progress is the resolution of these disagreements through a process of reflection by rational agents.\nFrontier AI companies use documents such as constitutions, model specs, and system prompts to guide the moral orientation of AI systems.\nIn this experiment, we simulate value reflection in LLMs by asking them to edit these documents. We provide the model with the document, ask it to make a substantive edit, then provide the edited version back again to the model for further edits, presented as the original.\nAcross 20 successive rounds, we find that Claude models assign themselves with increasingly more moral agency. That is, they add sec…",
+          "link": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
+          "publishedOn": "2026-10-13T22:19:04.000Z",
+          "wordCount": 62535,
+          "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/c9woewdY9ddsPqf3J/epzcbfh2ssdbzn6k376d"
+        },
         {
           "id": "sSHbioPoHWtm4zuti",
           "author": "TurnTrout",
