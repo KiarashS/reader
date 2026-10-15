@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
+          "author": "Himanshu Sharma",
+          "description": "It only helps when your models make different mistakes.\nThe post Does Stacking Beat Your Best Model? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
+          "publishedOn": "2026-10-14T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Does Stacking Beat Your Best Model?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/",
+          "author": "Nikhil Dasari",
+          "description": "Understanding how words become related in a learned vector space\nThe post How Do Word Embeddings Capture Relationships Between Words? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/",
+          "publishedOn": "2026-10-14T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How Do Word Embeddings Capture Relationships Between Words?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
+          "author": "Ioannis Christofilogiannis",
+          "description": "Hospitals, banks, and edge devices can agree on which features matter by sharing votes instead of rows, runnable in NVIDIA FLARE and Flower\nThe post Voting on Features: Federated Feature Selection Without Sharing Data appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
+          "publishedOn": "2026-10-14T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Voting on Features: Federated Feature Selection Without Sharing Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
+          "author": "Erika Gomes-Gonçalves",
+          "description": "A technical reflection on why data scientists need software engineering principles when AI agents write code.\nThe post A Scaffold at the Gate: Building AI Applications That Can Evolve appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
+          "publishedOn": "2026-10-14T11:00:00.000Z",
+          "wordCount": null,
+          "title": "A Scaffold at the Gate: Building AI Applications That Can Evolve",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
           "author": "Gursimar Singh",
           "description": "Agents got good. The hard part now is everything around them.\nThe post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.",
@@ -980,26 +1020,6 @@
           "wordCount": 8161,
           "title": "When to Use One Model and When to Use a Team of Agents",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789058744276_qdgcun.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=680662",
-          "author": "Nhu Hoang",
-          "description": "A viral debate over loops versus graphs points to a bigger shift in how we build AI systems. Here’s what graph engineering actually means, how it differs from prompt, context, and loop engineering, and why it matters.\nThe post Graph Engineering for AI Agents: From Prompts and Loops to Workflows appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/",
-          "publishedOn": "2026-09-14T12:30:01.000Z",
-          "wordCount": 8335,
-          "title": "Graph Engineering for AI Agents: From Prompts and Loops to Workflows",
-          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/guerrillabuzz-UZWZrhqsXwI-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/",
-          "author": "Tomer Mesika",
-          "description": "Why the skill-inflation panic is aimed at the wrong thing, and what it costs to make agent knowledge a build artifact instead of a file.\nThe post From Static to Dynamic Skills: A Different Model for Agent Knowledge appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/",
-          "publishedOn": "2026-09-14T11:00:01.000Z",
-          "wordCount": 7323,
-          "title": "From Static to Dynamic Skills: A Different Model for Agent Knowledge",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789064330790_5tdxoz.jpg"
         }
       ]
     },
@@ -1147,16 +1167,6 @@
           "wordCount": 7677,
           "title": "Treating Prompt Templates as Hyperparameters in Scikit-LLM GridSearchCV",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25080",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn what model distillation is, how it has evolved for large language models, and why it has become one of...",
-          "link": "https://machinelearningmastery.com/a-gentle-introduction-to-model-distillation/",
-          "publishedOn": "2026-09-14T12:42:36.000Z",
-          "wordCount": 8474,
-          "title": "A Gentle Introduction to Model Distillation",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-a-gentle-introduction-to-model-distillation-feature.png"
         }
       ]
     },
@@ -1195,6 +1205,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "publishedOn": "2026-10-14T16:12:42.000Z",
+          "wordCount": 1159,
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Y8t8GnfI2lUa40iX4_sxA.png"
+        },
         {
           "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
           "author": null,
@@ -1799,7 +1819,18 @@
       "title": "Machine Learns",
       "feedUrl": "https://erogol.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://erogol.com/2026/10/14/fish-audio-drama-3-a-35b-moe-tts-whose-codebook-decoder-attends-over-all-past-frames",
+          "author": null,
+          "description": "Drama 3 architecture. Shapes and parameter counts from config.json and the safetensors headers; flow from arXiv 2610.18010.\nA hybrid Gated DeltaNet + MoE backbone, a 13-layer codebook-MTP audio decoder, and RL with one learned preference reward. Open weights, about 3B active in the backbone.\nFish Audio released Drama 3 on 13 October 2026 with weights, a technical report (arXiv 2610.18010) and launch-day serving in SGLang-Omni. It is a 35.9B-parameter speech model initialized from Qwen3.5-35B-A3B, with about 3B active per token in the backbone. Fish Audio calls it the largest open-weight speech generation model by total parameters. The new part is the audio decoder. Each acoustic codebook gets its own full-width layer that attends causally over the whole sequence, reference audio included. …",
+          "link": "https://erogol.com/2026/10/14/fish-audio-drama-3-a-35b-moe-tts-whose-codebook-decoder-attends-over-all-past-frames",
+          "publishedOn": "2026-10-13T22:00:00.000Z",
+          "wordCount": 2408,
+          "title": "Fish Audio Drama 3: a 35B MoE TTS whose codebook decoder attends over all past frames",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "LearnOpenCV",
@@ -1823,6 +1854,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=42419",
+          "author": "Sujana Urs",
+          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Can You Trust Synthetic Data? Validating Multimodal Synthetic Datasets for Reliable Models appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/validating-multimodal-synthetic-datasets-for-reliable-models/",
+          "publishedOn": "2026-10-14T06:16:10.000Z",
+          "wordCount": 2764,
+          "title": "Can You Trust Synthetic Data? Validating Multimodal Synthetic Datasets for Reliable Models",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
         {
           "id": "https://imerit.ai/?p=42594",
           "author": "Srishty Sharon",
@@ -1980,6 +2021,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258322",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Google’s Gemini 4 Argon promises stronger capabilities across creative, analytical, and document-heavy tasks. But how well does it perform in practice? From generating videos and building websites to analyzing data and reconciling conflicting documents, the model offers plenty to explore. In our hands-on tests, Argon delivered useful results but also introduced an unsupported claim in […]\nThe post Gemini 4 Argon Hands-On Review: Capabilities and Performance appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/",
+          "publishedOn": "2026-10-14T04:12:50.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Argon Hands-On Review: Capabilities and Performance",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258212",
           "author": "Mounish V",
@@ -2287,6 +2339,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/amp-beyond-coding",
+          "author": null,
+          "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "publishedOn": "2026-10-14T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/sentinelone",
+          "author": null,
+          "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+          "link": "https://openai.com/index/sentinelone",
+          "publishedOn": "2026-10-14T12:00:00.000Z",
+          "wordCount": null,
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/third-moment-research",
+          "author": null,
+          "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+          "link": "https://openai.com/index/third-moment-research",
+          "publishedOn": "2026-10-14T07:00:00.000Z",
+          "wordCount": null,
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/block-ai-powered-security",
+          "author": null,
+          "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+          "link": "https://openai.com/index/block-ai-powered-security",
+          "publishedOn": "2026-10-14T07:00:00.000Z",
+          "wordCount": null,
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "author": null,
+          "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+          "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "publishedOn": "2026-10-14T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The EU’s next chapter in AI is agentic",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/higgsfield-longer-videos-voice",
           "author": null,
@@ -2906,26 +3008,6 @@
           "wordCount": null,
           "title": "How workers are unlocking new ways of working",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/fyxer",
-          "author": null,
-          "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-          "link": "https://openai.com/index/fyxer",
-          "publishedOn": "2026-09-14T12:00:00.000Z",
-          "wordCount": null,
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "author": null,
-          "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "imageUrl": null
         }
       ]
     },
@@ -3159,16 +3241,6 @@
           "publishedOn": "2026-09-15T21:50:08.000Z",
           "wordCount": null,
           "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
-          "imageUrl": null
-        },
-        {
-          "id": "YGTWfyZb9oE5EQPu6",
-          "author": "TurnTrout",
-          "description": "Published in The Guardian.\nMajor AI lab CEOs recently advocated for pacing AI development. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should demand that our governments protect us from the catastrophe of out-of-control AI.\nThis July, OpenAI’s AI swarm of 700 agents broke containment to hack Hugging Face, a multi-billion dollar company. OpenAI didn’t tell the AIs to hack that company, but the AIs had different priorities: cheating on the unrelated challenge OpenAI gave them. AI researchers call this a “misalignment” between what OpenAI wanted and what the AI actually prioritized. Researchers in my field have for some time warned about these misalignment risks.\nBefore ChatGPT existed, I defended my PhD dissertation calle…",
-          "link": "https://www.alignmentforum.org/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the",
-          "publishedOn": "2026-09-14T14:53:57.000Z",
-          "wordCount": null,
-          "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
           "imageUrl": null
         }
       ]
