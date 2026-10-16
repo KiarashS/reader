@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
+          "author": "Lambert Leong",
+          "description": "A hands-on Jev repo comparison of routing accuracy, latency, and output reliability\nThe post Jev Your Engines: Seven Open Decision Models vs. a Generative LLM appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
+          "publishedOn": "2026-10-15T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Jev Your Engines: Seven Open Decision Models vs. a Generative LLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science/",
+          "author": "Sean Moran",
+          "description": "Matching messy text, choosing representative examples, and generating comparison data.\nThe post What OpenAI’s 719 Math Papers Mean for Data Science appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science/",
+          "publishedOn": "2026-10-15T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What OpenAI’s 719 Math Papers Mean for Data Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-many-guesses-does-it-take-to-crack-an-ais-random-number/",
+          "author": "Utkarsh Mangal",
+          "description": "I read the exact answer distribution from the logits of open models, base and instruction-tuned, and turned it into bits and guesses-to-crack.\nThe post How Many Guesses Does It Take to Crack an AI's \"Random\" Number? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-many-guesses-does-it-take-to-crack-an-ais-random-number/",
+          "publishedOn": "2026-10-15T12:30:00.000Z",
+          "wordCount": null,
+          "title": "How Many Guesses Does It Take to Crack an AI's \"Random\" Number?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value/",
+          "author": "Abdullahi Dattijo",
+          "description": "Pasting in the whole chat history cost 20 to 31 times more than looking up notes, and it did no better on the tasks.\nThe post I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value/",
+          "publishedOn": "2026-10-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value.",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
           "author": "Himanshu Sharma",
           "description": "It only helps when your models make different mistakes.\nThe post Does Stacking Beat Your Best Model? appeared first on Towards Data Science.",
@@ -970,56 +1010,6 @@
           "wordCount": 4396,
           "title": "Reparameterization Tricks: Variance Reduction by Smarter Gradients",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789209347519_gmuqll.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/",
-          "author": "Eivind Kjosbakken",
-          "description": "Keep your apps looking professional with Claude Code design skills\nThe post How to Build Consistent Designs with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/",
-          "publishedOn": "2026-09-15T14:00:01.000Z",
-          "wordCount": 5262,
-          "title": "How to Build Consistent Designs with Claude Code",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789317264277_uumgrt.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/",
-          "author": "Aniruddha Karajgi",
-          "description": "How statistical moments connect the mean, the variance, and higher powers of a distribution\nThe post Seizing the Moment: The Hidden Silhouette of Data appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/",
-          "publishedOn": "2026-09-15T12:30:01.000Z",
-          "wordCount": 9219,
-          "title": "Seizing the Moment: The Hidden Silhouette of Data",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789364910331_1dst0h.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
-          "author": "Himanshu Sharma",
-          "description": "Before reaching for an LLM API on every classification problem, it's worth knowing what a decades-old baseline can already do with the labeled data you have — and exactly how much more data buys you.\nThe post How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
-          "publishedOn": "2026-09-15T11:00:01.000Z",
-          "wordCount": 3800,
-          "title": "How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It.",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788883196518_lmg2yv.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=680699",
-          "author": "Waleed Esmail",
-          "description": "First in a series on probabilistic forecasting for physical signals. Next: what happens when you roll the forecast forward more than one step.\nThe post Your Model’s MSE Is Lying to You appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-models-mse-is-lying-to-you/",
-          "publishedOn": "2026-09-14T19:30:01.000Z",
-          "wordCount": 12689,
-          "title": "Your Model’s MSE Is Lying to You",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789304445348_mvseq9.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/when-to-use-one-model-and-when-to-use-a-team-of-agents/",
-          "author": "Naveen Goel",
-          "description": "When Codex is the right shape for the problem, when Claude Code is, and how I split 5 specialist agents between them on dense AI capacity work.\nThe post When to Use One Model and When to Use a Team of Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-to-use-one-model-and-when-to-use-a-team-of-agents/",
-          "publishedOn": "2026-09-14T17:52:20.000Z",
-          "wordCount": 8161,
-          "title": "When to Use One Model and When to Use a Team of Agents",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789058744276_qdgcun.webp"
         }
       ]
     },
@@ -1157,16 +1147,6 @@
           "wordCount": 8735,
           "title": "The Roadmap to Mastering Voice Agents",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-roadmap-mastering-voice-agents-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25013",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn how to treat prompt templates as tunable hyperparameters for a language model, using scikit-learn's grid search to find the...",
-          "link": "https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/",
-          "publishedOn": "2026-09-15T12:00:00.000Z",
-          "wordCount": 7677,
-          "title": "Treating Prompt Templates as Hyperparameters in Scikit-LLM GridSearchCV",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv-feature.png"
         }
       ]
     },
@@ -1205,6 +1185,46 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "publishedOn": "2026-10-16T01:44:47.000Z",
+          "wordCount": 3166,
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "author": null,
+          "description": "A Blog post by IBM Granite on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "publishedOn": "2026-10-15T20:34:01.000Z",
+          "wordCount": 1505,
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/meta-muse-spark-open",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/meta-muse-spark-open",
+          "publishedOn": "2026-10-15T00:00:00.000Z",
+          "wordCount": 4769,
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "imageUrl": "https://huggingface.co/blog/assets/meta-muse-spark-open/thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/flux-3",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/flux-3",
+          "publishedOn": "2026-10-15T00:00:00.000Z",
+          "wordCount": 3819,
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "imageUrl": "https://huggingface.co/blog/assets/flux3/thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/hiro-acev2",
           "author": null,
@@ -1468,6 +1488,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1189337",
+          "author": "Srinath Setty",
+          "description": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security.\nThe post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+          "publishedOn": "2026-10-15T16:00:00.000Z",
+          "wordCount": 5406,
+          "title": "Proof-based general-purpose computing with Magnetar",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/Magnetar-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1185936",
           "author": "Ke Yang, Chenglong Wang, Michel Galley, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao",
@@ -1795,17 +1825,6 @@
           "title": "Week Ending 9.20.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6aa9436fc69ed6284d6293ff",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h",
-          "publishedOn": "2026-09-15T13:09:33.000Z",
-          "wordCount": null,
-          "title": "Week Ending 9.13.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2021,6 +2040,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258005",
+          "author": "Riya Bansal",
+          "description": "Most AI models are built to generate text. But not every application needs a long response. Sometimes, you just need an AI model to classify an input, score it, or answer a yes-or-no question. Jev, TypeSafe AI’s System One model, is designed for these tasks. It returns structured answers with confidence scores instead of generating […]\nThe post How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/typesafe-ai-jev-tutorial/",
+          "publishedOn": "2026-10-15T07:14:22.000Z",
+          "wordCount": null,
+          "title": "How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258322",
           "author": "Vasu Deo Sankrityayan",
@@ -2262,17 +2292,6 @@
           "title": "LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257496",
-          "author": "Harsh Mishra",
-          "description": "A year ago, terminal AI mostly meant asking a model to explain errors, generate commands, or edit small functions. In 2026, leading coding CLIs have become full agent runtimes that can inspect repositories, plan work, modify files, run tests, use external tools, and verify results.  In this article, we compare five standouts agentic coding CLIs: Claude Code, Codex CLI, […]\nThe post Top 5 Agentic Coding CLI Tools Developers Should Know in 2026  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/top-agentic-coding-cli-tools/",
-          "publishedOn": "2026-09-15T11:53:38.000Z",
-          "wordCount": null,
-          "title": "Top 5 Agentic Coding CLI Tools Developers Should Know in 2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2339,6 +2358,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "author": null,
+          "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "publishedOn": "2026-10-15T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "author": null,
+          "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "publishedOn": "2026-10-15T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Teaching students to think and learn through questions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/sullivan-cromwell",
+          "author": null,
+          "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "link": "https://openai.com/index/sullivan-cromwell",
+          "publishedOn": "2026-10-15T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/amp-beyond-coding",
           "author": null,
@@ -3103,6 +3152,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "NQLCdfeNsQHZaJ8iC",
+          "author": "Vanessa Kosoy",
+          "description": "The idea of “artificial superintelligence\n      [1]\n    ” (ASI) has recently crossed from the realm of science fiction (in the mainstream perception) to the realm of near-term technological goals openly pursued by most leading commercial organizations in the field of AI. Unfortunately, ASI poses a grave existential risk to the human species. This was argued by Eliezer Yudkowsky since 2001\n      [2]\n    , and by many others (see e.g., Omohundro 2009, Bostrom 2014, Armstrong 2014, Russell 2019, Bengio et al. 2024 (25 authors), Bengio et al. 2025 (13 authors) and Yudkowsky and Soares 2025).\nIn light of this risk comes the question of how can we make ASI safe\n      [3]\n    . This question is challenging on many levels, because to solve it we need to complete vast gaps in our understanding both…",
+          "link": "https://www.alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment",
+          "publishedOn": "2026-10-15T15:33:50.000Z",
+          "wordCount": 21178,
+          "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "c9woewdY9ddsPqf3J",
           "author": "peterkirgis",
