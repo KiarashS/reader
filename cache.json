@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
+          "author": "Benjamin Nweke",
+          "description": "A million-token output window changes what you can hand a model in one go, and the benchmarks and the bill show who it actually suits.\nThe post Welcome to Google Gemini 4 Argon appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
+          "publishedOn": "2026-10-19T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Welcome to Google Gemini 4 Argon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
+          "author": "Devashish Thakar",
+          "description": "ML model adoption doesn't stop with acceptance of accuracy; it starts there.\nThe post Can Conformal Prediction Take You from Accurate to Reliable Machine Learning? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
+          "publishedOn": "2026-10-19T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
+          "author": "Renish Joshi",
+          "description": "Testing sensor reduction, feature ranking, and generalization to unseen\nparticipants\nThe post How Many EEG Channels Do You Actually Need? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
+          "publishedOn": "2026-10-19T12:30:00.000Z",
+          "wordCount": null,
+          "title": "How Many EEG Channels Do You Actually Need?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/ai-harms-and-their-technical-causes/",
+          "author": "Stephanie Kirmer",
+          "description": "How technical choices can lead to safety failures, and what to do differently\nThe post AI Harms and Their Technical Causes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-harms-and-their-technical-causes/",
+          "publishedOn": "2026-10-19T11:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Harms and Their Technical Causes",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=666108",
           "author": "Samit Ganguly",
           "description": "\"Always switch\" is true for one particular host. Watch a few episodes and you can work out which host you've got.\nThe post Inferring the Host: A Bayesian Look at the Monty Hall Problem appeared first on Towards Data Science.",
@@ -940,36 +980,6 @@
           "wordCount": 10957,
           "title": "CBAM Paper Walkthrough: The Double-Attention Mechanism",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789357494559_enki42.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
-          "author": "Boris Dzhingarov",
-          "description": "Deduplicating a 10,000-row supplier list in Python, where the hard part is deciding what a similarity score of 91 means\nThe post One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
-          "publishedOn": "2026-09-19T15:00:01.000Z",
-          "wordCount": 5558,
-          "title": "One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789283071488_524xny.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/",
-          "author": "Gursimar Singh",
-          "description": "One near miss, four months of running agents, and the question almost nobody is asking: what are you supposed to do while the AI writes the code?\nThe post AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/",
-          "publishedOn": "2026-09-19T13:00:01.000Z",
-          "wordCount": 6142,
-          "title": "AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789669106848_cea74c.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/",
-          "author": "Reya Vir",
-          "description": "How to verify your app aligns with your intent without ever reading a line of generated code.\nThe post Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/",
-          "publishedOn": "2026-09-18T15:30:01.000Z",
-          "wordCount": 3949,
-          "title": "Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789578264712_cov179.jpeg"
         }
       ]
     },
@@ -1206,6 +1216,16 @@
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
         {
+          "id": "https://huggingface.co/blog/hf-torchneuron",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/hf-torchneuron",
+          "publishedOn": "2026-10-19T00:00:00.000Z",
+          "wordCount": 1920,
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "imageUrl": "https://huggingface.co/blog/assets/hf-torchneuron/thumbnail.png"
+        },
+        {
           "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
           "author": null,
           "description": "A Blog post by NVIDIA on Hugging Face",
@@ -1234,6 +1254,16 @@
           "wordCount": 1505,
           "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "author": null,
+          "description": "A Blog post by Swiss AI Initiative on Hugging Face",
+          "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "publishedOn": "2026-10-15T09:08:45.000Z",
+          "wordCount": 3209,
+          "title": "Apertus 1.5 Release Notes",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/61f1877a168a0b52fda88455/2mHXxCtfos6CgwFSNKFVi.jpeg"
         },
         {
           "id": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -1689,18 +1719,7 @@
       "title": "Deep Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/deep-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "6aadae08b3c208add9878388",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/",
-          "publishedOn": "2026-09-18T21:32:56.000Z",
-          "wordCount": 4763,
-          "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bde6732f-ad81-4a51-8939-ec74637d09e6.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "colah's blog",
@@ -1793,6 +1812,17 @@
       "siteUrl": "https://www.eye-on.ai/ai-articles/",
       "articles": [
         {
+          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6ad5fa709a15c943a5a5c2f5",
+          "author": "Craig Smith",
+          "description": "Newly published papers and discussions around them.",
+          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m-ydkx9-xfl2g-mca6f",
+          "publishedOn": "2026-10-19T11:10:07.000Z",
+          "wordCount": null,
+          "title": "Week Ending 10.18.2026",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6accadfc0fb19d0bc2798735",
           "author": "Craig Smith",
           "description": "Newly published papers and discussions around them.",
@@ -1883,6 +1913,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=42635",
+          "author": "Cadence SEO",
+          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Why High-Stakes Multimodal AI Needs Expert-in-the-Loop Data Curation appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/why-high-stakes-multimodal-ai-needs-expert-in-the-loop-data-curation/",
+          "publishedOn": "2026-10-19T08:00:29.000Z",
+          "wordCount": 2492,
+          "title": "Why High-Stakes Multimodal AI Needs Expert-in-the-Loop Data Curation",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
         {
           "id": "https://imerit.ai/?p=42620",
           "author": "Sujana Urs",
@@ -2050,6 +2090,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258285",
+          "author": "Janvi Kumari",
+          "description": "An AI coding agent can write a function in seconds. But a working feature takes more than generated code. The agent needs to understand the project, find the right files, use tools safely, and check whether its changes work.  A model on its own does none of that. It sees only the text it is […]\nThe post A Practical Guide to Harness Engineering: Building the System Around the Model  appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/",
+          "publishedOn": "2026-10-19T06:18:20.000Z",
+          "wordCount": null,
+          "title": "A Practical Guide to Harness Engineering: Building the System Around the Model",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258372",
           "author": "Aayush Tyagi",
@@ -2368,6 +2419,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/low-resource-programming-languages",
+          "author": null,
+          "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+          "link": "https://openai.com/index/low-resource-programming-languages",
+          "publishedOn": "2026-10-19T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Advancing coding in low‑resource programming languages",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/itau-generative-ai",
           "author": null,
@@ -3267,16 +3328,6 @@
           "wordCount": 36399,
           "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/lgh8wuyku3fnp1yneo8r"
-        },
-        {
-          "id": "virawHQekJsozwotz",
-          "author": "Vanessa Kosoy",
-          "description": "Abstract: In previous papers (Kosoy 2026a,b), we began the study of sequence prediction algorithms adapted to stringological word complexity measures. In particular, we defined a complexity measure called Arithmetic Repetition Complexity (ARC) which admits a polynomial-time prediction algorithm with a mistake bound quasilinear in the complexity. Here, we show a weaker complexity measure related to ARC that admits an especially efficient prediction algorithm: an algorithm that runs in quasilinear time and polylog space for appropriate highly-structured sequences. The complexity measure is defined via a restricted class of “zipline programs” (a variant of straight-line programs we defined in Kosoy 2026b), which we call layered. We thus get a less expressive measure with a more efficient algorithm (compared to our results for ARC), demonstrating a possible tradeoff.\nThis paper continues the \"stringological sequence prediction\" series (see I II) about my new approach to compositional learning theory. It describes a tradeoff between efficiency and expressivity, but whether this tradeoff is necessary or just a limitation of my techniques remains an interesting open problem.\n\nDiscuss",
-          "link": "https://www.alignmentforum.org/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii",
-          "publishedOn": "2026-09-18T16:52:53.000Z",
-          "wordCount": 16984,
-          "title": "[Paper] Stringological sequence prediction III",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
