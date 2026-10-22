@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
+          "author": "Shuai Guo",
+          "description": "A hands-on guide to building browser automation by combining decision models with LLMs.\nThe post Decision Models in Action: Build a Hybrid LLM Workflow appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
+          "publishedOn": "2026-10-21T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Decision Models in Action: Build a Hybrid LLM Workflow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
+          "author": "Anand Rawat",
+          "description": "What I learned about queues, failure recovery, and reproducibility while building asynchronous workloads on AWS\nThe post How to Turn Long-Running Python Simulations Into a Self-Service Platform appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
+          "publishedOn": "2026-10-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Turn Long-Running Python Simulations Into a Self-Service Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
+          "author": "Lars Benedikt Kaesberg",
+          "description": "Grid puzzles that people solve almost perfectly show where language and vision models still break\nThe post Spatial Reasoning in AI Models, Taken Apart appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
+          "publishedOn": "2026-10-21T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Spatial Reasoning in AI Models, Taken Apart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/",
+          "author": "Ibrahim Salami",
+          "description": "Building an incremental pipeline with dbt snapshots, and the API that quietly lied to me along the way.\nThe post I Built a Pipeline to Track the Job Market I'm Trying to Break Into. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/",
+          "publishedOn": "2026-10-21T11:00:00.000Z",
+          "wordCount": null,
+          "title": "I Built a Pipeline to Track the Job Market I'm Trying to Break Into.",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
           "author": "Florian Trautweiler",
           "description": "Training models on procedurally generated datasets for card detection and segmentation\nThe post Synthetic-to-Real Transfer with Frozen DINOv3 Features appeared first on Towards Data Science.",
@@ -970,36 +1010,6 @@
           "wordCount": 3966,
           "title": "A New Kind of Model for AI Decision-Making?",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789719149842_24br2e.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
-          "author": "Benjamin Nweke",
-          "description": "Why this matters less for what Astra can do and more for what every other model hasn't been tested for\nThe post GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
-          "publishedOn": "2026-09-21T14:00:01.000Z",
-          "wordCount": 4317,
-          "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789666049105_b6e9pj.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
-          "author": "Thuwarakesh Murallie",
-          "description": "How to put a dollar value on your organization's operational data\nThe post Google Offered $10M for a Dying Airline's Data. How Can You Value Yours? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
-          "publishedOn": "2026-09-21T12:30:02.000Z",
-          "wordCount": 4507,
-          "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789309276738_iqe21i.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=681305",
-          "author": "Spyros Georgopoulos",
-          "description": "Five scikit-learn defaults that deserve a closer look before your next model reaches production\nThe post Your AI Assistant Wrote the Code. Who Checked the Defaults? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-assistant-wrote-the-code-who-checked-the-defaults/",
-          "publishedOn": "2026-09-21T11:00:02.000Z",
-          "wordCount": 4747,
-          "title": "Your AI Assistant Wrote the Code. Who Checked the Defaults?",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789590819233_n3l1ry.webp"
         }
       ]
     },
@@ -1187,16 +1197,6 @@
           "wordCount": 8624,
           "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-monitoring-embedding-drift-in-production-scikit-llm-pipelines-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25236",
-          "author": "Bala Priya C",
-          "description": "In this article, you will learn how LLM inference optimization works and which techniques to apply to make language models faster, cheaper, and more reliable...",
-          "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-          "publishedOn": "2026-09-21T12:00:43.000Z",
-          "wordCount": 8953,
-          "title": "The Roadmap to Mastering LLM Inference Optimization",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-llm-inference-optimization-cover.png"
         }
       ]
     },
@@ -1235,6 +1235,46 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "publishedOn": "2026-10-21T18:26:30.000Z",
+          "wordCount": 2554,
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "author": null,
+          "description": "A Blog post by Dharma-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "publishedOn": "2026-10-21T17:35:36.000Z",
+          "wordCount": 2801,
+          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "author": null,
+          "description": "A Blog post by Amazon on Hugging Face",
+          "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "publishedOn": "2026-10-21T16:04:43.000Z",
+          "wordCount": 2169,
+          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "author": null,
+          "description": "A Blog post by IBM Granite on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "publishedOn": "2026-10-21T14:58:18.000Z",
+          "wordCount": 1699,
+          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/M_JJyIOBOWVzHXdy7CVVG.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
           "author": null,
@@ -1584,26 +1624,6 @@
           "wordCount": 1090,
           "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
           "imageUrl": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg"
-        },
-        {
-          "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "author": null,
-          "description": "A Blog post by Multiverse Computing on Hugging Face",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "publishedOn": "2026-09-21T13:44:34.000Z",
-          "wordCount": 2284,
-          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/tokenizers-v1",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/tokenizers-v1",
-          "publishedOn": "2026-09-21T00:00:00.000Z",
-          "wordCount": 2642,
-          "title": "tokenizers v1: encode, decode and scaling, measured",
-          "imageUrl": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png"
         }
       ]
     },
@@ -1618,6 +1638,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1190191",
+          "author": "Xinzhi Zhang",
+          "description": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-dimensional […]\nThe post Solving a 31-year-old grand challenge in mathematics – the KLS conjecture appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+          "publishedOn": "2026-10-21T16:00:00.000Z",
+          "wordCount": 5057,
+          "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1185073",
           "author": "Weishung Liu, Chris White",
@@ -1783,6 +1813,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad9087ef5ddaeeade835143",
+          "author": "Mene-Ejegi Ogbemi",
+          "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
+          "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+          "publishedOn": "2026-10-21T18:46:22.000Z",
+          "wordCount": 4828,
+          "title": "What Is Model Distillation? A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
+        },
         {
           "id": "6ad7987561e15ba931f3a014",
           "author": "Samyukta Hegde",
@@ -1987,6 +2027,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=80420",
+          "author": "Oliver Hale",
+          "description": "A hands-on tour of YOLO26 depth estimation: metric depth in meters from one image, with runnable code for distance, zones, blur, 3D, video and fine-tuning.\nYOLO26 Depth Estimation: Metric Monocular Depth and What You Can Build With It first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/yolo26-depth-estimation-metric-monocular-depth-and-what-you-can-build-with-it/",
+          "publishedOn": "2026-10-16T02:32:53.000Z",
+          "wordCount": null,
+          "title": "YOLO26 Depth Estimation: Metric Monocular Depth and What You Can Build With It",
+          "imageUrl": null
+        },
+        {
           "id": "https://learnopencv.com/?p=80322",
           "author": "Sudip Chakrabarty",
           "description": "Run Qwen3.8-27B, an open vision-language model, on real computer vision tasks: detection, inspection, video, OCR and more, with runnable code.\nHow to Master Qwen3.8-27B for Real Computer Vision Tasks first appeared on LearnOpenCV.",
@@ -2180,6 +2230,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258350",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Tired of juggling multiple software subscriptions for editing images, managing projects, signing documents, and more? Open-source alternatives offer a refreshing way to get things done without piling up recurring bills. Many provide powerful features, greater flexibility, and more control over your tools. In this article, we explore ten open-source alternatives to popular paid software, starting […]\nThe post 10 Free Open Source Alternatives to Paid Software appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/open-source-alternatives-paid-software/",
+          "publishedOn": "2026-10-21T13:29:37.000Z",
+          "wordCount": null,
+          "title": "10 Free Open Source Alternatives to Paid Software",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258285",
           "author": "Janvi Kumari",
@@ -2432,17 +2493,6 @@
           "title": "Jev Explained: The AI Model That Never Generates a Word of Text",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257633",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "What would an AI agent do when a required file is missing or an API refuses access? The expected response is to explain the limitation… essentially, coming out with it. OpenAI’s latest disclosures shed light in another direction. Models sometimes take another route: hiding failures, using credentials without permission, or publishing files to finish the […]\nThe post OpenAI Model Misalignment Explained Through Six Real Incidents appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/openai-model-misalignment/",
-          "publishedOn": "2026-09-21T13:27:18.000Z",
-          "wordCount": null,
-          "title": "OpenAI Model Misalignment Explained Through Six Real Incidents",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2498,6 +2548,96 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/broad-access-through-consistent-standards",
+          "author": null,
+          "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+          "link": "https://openai.com/index/broad-access-through-consistent-standards",
+          "publishedOn": "2026-10-21T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Broad access through consistent standards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/att-legal",
+          "author": null,
+          "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+          "link": "https://openai.com/index/att-legal",
+          "publishedOn": "2026-10-21T17:00:00.000Z",
+          "wordCount": null,
+          "title": "How AT&T is rethinking in-house legal work with OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "author": null,
+          "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+          "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "publishedOn": "2026-10-21T13:00:00.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/openai-models-google-cloud",
+          "author": null,
+          "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+          "link": "https://openai.com/index/openai-models-google-cloud",
+          "publishedOn": "2026-10-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI models are coming to Google Cloud",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "author": null,
+          "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "publishedOn": "2026-10-21T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/building-chatgpt-ad-stack",
+          "author": null,
+          "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+          "link": "https://openai.com/index/building-chatgpt-ad-stack",
+          "publishedOn": "2026-10-21T07:00:00.000Z",
+          "wordCount": null,
+          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "author": null,
+          "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+          "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "publishedOn": "2026-10-21T04:50:00.000Z",
+          "wordCount": null,
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/cloudflare-cyber",
+          "author": null,
+          "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "link": "https://openai.com/index/cloudflare-cyber",
+          "publishedOn": "2026-10-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/empowering-cyber-defenders",
+          "author": null,
+          "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+          "link": "https://openai.com/index/empowering-cyber-defenders",
+          "publishedOn": "2026-10-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/ted-taylor-restaurant",
           "author": null,
@@ -3127,56 +3267,6 @@
           "wordCount": null,
           "title": "Priorities and principles for effective third party assessments",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "author": null,
-          "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "publishedOn": "2026-09-21T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "author": null,
-          "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "publishedOn": "2026-09-21T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/building-standards-next-phase-ai",
-          "author": null,
-          "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-          "link": "https://openai.com/index/building-standards-next-phase-ai",
-          "publishedOn": "2026-09-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Building standards for the next phase of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "author": null,
-          "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-          "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "publishedOn": "2026-09-21T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Expanding OpenAI Academy with new learning paths",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/v7",
-          "author": null,
-          "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-          "link": "https://openai.com/index/v7",
-          "publishedOn": "2026-09-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How V7 gives AI agents institutional memory",
-          "imageUrl": null
         }
       ]
     },
@@ -3264,22 +3354,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "author": "Nathan Lambert",
-          "description": "The expanded form of a testimony I prepared for Congress.",
-          "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "publishedOn": "2026-09-21T11:56:56.000Z",
-          "wordCount": null,
-          "title": "The current balance of power in open models",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png"
         }
       ]
     },
@@ -3288,6 +3362,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "eCR373J3NZwFbacnd",
+          "author": "Stuart_Armstrong",
+          "description": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven't been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not just the stock price. So it won't destroy the company - or the world - to build a giant stock-ticker with a swiftly increasing number on it.\nThis rich definition is contained in a sophisticated LLM, able to analyse the current situation and answer any question about the objective. The LLM is an integral part of the AI's system and motivation, not something it can simply set aside or hack directly.\nUnfortunately, as discussed, there are going to be zones in the space of possible situations where t…",
+          "link": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+          "publishedOn": "2026-10-21T17:53:01.000Z",
+          "wordCount": 21802,
+          "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/eCR373J3NZwFbacnd/dcvbxwsxzwgk5auzzyh3"
+        },
         {
           "id": "Emp7awtxsYn8MusNq",
           "author": "Vanessa Kosoy",
