@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=679336",
+          "author": "Shuai Guo",
+          "description": "A hands-on guide with Gemma 4, Ollama, and the OpenAI Agents SDK\nThe post How to Add Guardrails to a Local LLM Agent appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
+          "publishedOn": "2026-10-24T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Add Guardrails to a Local LLM Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/python-315-has-a-new-profiler/",
+          "author": "Thomas Reid",
+          "description": "Here's what it finds that cProfile misses\nThe post Python 3.15 Has a New Profiler appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/python-315-has-a-new-profiler/",
+          "publishedOn": "2026-10-24T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Python 3.15 Has a New Profiler",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/",
           "author": "Aamir Hussain Chughtai, PhD",
           "description": "Robust Estimation Series: Building Accurate Curves with Polynomials and Splines With Spurious Data\nThe post Don’t Let Messy Data Bend Your Curves appeared first on Towards Data Science.",
@@ -970,46 +990,6 @@
           "wordCount": null,
           "title": "How to Maximize Your Coding Agent Subscriptions",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/",
-          "author": "Ari Joury, PhD",
-          "description": "Retrieval is not evidence. How to build AI that proves its own claims.\nThe post Beyond RAGs: Building Actually Truthful AI Harnesses appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/",
-          "publishedOn": "2026-09-24T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Beyond RAGs: Building Actually Truthful AI Harnesses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/",
-          "author": "Gal Arav",
-          "description": "Why a green test suite can mean nothing\nThe post Towards Spec-Driven Test Automation: Part 1 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/",
-          "publishedOn": "2026-09-24T12:30:02.000Z",
-          "wordCount": null,
-          "title": "Towards Spec-Driven Test Automation: Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/",
-          "author": "Hubert García Gordon",
-          "description": "The reliability mechanisms we add to LLM pipelines are often the ones that make them confidently wrong.\nThe post When the Correct Answer Is Nothing, What Does Your Pipeline Return? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/",
-          "publishedOn": "2026-09-24T11:00:01.000Z",
-          "wordCount": null,
-          "title": "When the Correct Answer Is Nothing, What Does Your Pipeline Return?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/",
-          "author": "Utkarsh Mangal",
-          "description": "Reproducing Anthropic's \"Toy Models of Superposition\" from scratch in NumPy, with hand-derived gradients and no borrowed numbers.\nThe post I Trained a Tiny Network to Compress Data. It Drew a Pentagon. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/",
-          "publishedOn": "2026-09-23T15:30:01.000Z",
-          "wordCount": null,
-          "title": "I Trained a Tiny Network to Compress Data. It Drew a Pentagon.",
-          "imageUrl": null
         }
       ]
     },
@@ -1197,16 +1177,6 @@
           "wordCount": 10013,
           "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-Tool-Calling-vs.-Code-Execution-for-AI-Agents-Choosing-the-Right-Action-Primitive-1024x586.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25310",
-          "author": "Kanwal Mehreen",
-          "description": "In this article, you will learn the key differences between AI workflows and agents, and how to decide which approach is right for your use...",
-          "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
-          "publishedOn": "2026-09-24T12:00:02.000Z",
-          "wordCount": 7770,
-          "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent-feature.png"
         }
       ]
     },
@@ -1634,26 +1604,6 @@
           "wordCount": 2374,
           "title": "Welcome RL Environments to the hub",
           "imageUrl": "https://huggingface.co/blog/assets/datasets-filters/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "author": null,
-          "description": "A Blog post by Liquid AI on Hugging Face",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "publishedOn": "2026-09-24T14:08:57.000Z",
-          "wordCount": 1462,
-          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/WgfT8N8Xyb6lBxSif7XLO.gif"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "publishedOn": "2026-09-23T18:41:40.000Z",
-          "wordCount": 3733,
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/rQ6tGCJEaH16bQQ8X4M8b.png"
         }
       ]
     },
@@ -1772,21 +1722,6 @@
           "wordCount": 5865,
           "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/1YSingapore-TWLIFB-1200x627-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1186774",
-          "author": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-          "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.\nThe post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-          "publishedOn": "2026-09-23T16:01:36.000Z",
-          "wordCount": 5144,
-          "title": "Offloaded inference for real-world physical AI robotics",
-          "enclosure": {
-            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/SO101-handover-1.mp4",
-            "length": "5512837",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/PhysicalAI-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -2229,16 +2164,6 @@
           "wordCount": 3333,
           "title": "The Multimodal Voice AI Problem Nobody Has Solved Yet: Labeling Audio Alongside Images and Documents",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/The-Multimodal-Voice-AI-Problem-Nobody-Has-Solved-Yet-Labeling-Audio-Alongside-Images-and-Documents.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=42164",
-          "author": "Sujana Urs",
-          "description": "Learn why annotating intent, sentiment, and escalation risk, not transcription accuracy, determines enterprise voice AI reliability.\nThe post From Transcription to Behavior: Why Intent Annotation Is the Real Driver of Enterprise Voice AI appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/from-transcription-to-behavior-why-intent-annotation-is-the-real-driver-of-enterprise-voice-ai/",
-          "publishedOn": "2026-09-24T09:11:32.000Z",
-          "wordCount": 3722,
-          "title": "From Transcription to Behavior: Why Intent Annotation Is the Real Driver of Enterprise Voice AI",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-From-Transcription-to-Behavior.png"
         }
       ]
     },
@@ -2497,17 +2422,6 @@
           "publishedOn": "2026-09-25T07:57:59.000Z",
           "wordCount": null,
           "title": "10 Solved Generative AI Projects to Boost your Profile",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257771",
-          "author": "Nitika Sharma",
-          "description": "What happens when a frontier model’s abilities get packed into cheaper, faster versions? That’s what OpenAI did with GPT-6 Sol and GPT-6 Luna, two new models built with methods similar to GPT-6 Astra. OpenAI is cutting API prices for both models by 50% compared with their GPT-5.6 versions, and says they bring Astra’s gains in […]\nThe post GPT-6 Sol and Luna: Near-Astra Performance at Half the Price? appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/gpt-6-sol-and-luna/",
-          "publishedOn": "2026-09-24T12:34:52.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Sol and Luna: Near-Astra Performance at Half the Price?",
           "itunes": {},
           "imageUrl": null
         }
@@ -3204,16 +3118,6 @@
           "wordCount": null,
           "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/two-years-of-openai-academy",
-          "author": null,
-          "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-          "link": "https://openai.com/index/two-years-of-openai-academy",
-          "publishedOn": "2026-09-23T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Two years of OpenAI Academy",
-          "imageUrl": null
         }
       ]
     },
@@ -3422,26 +3326,6 @@
           "wordCount": 33751,
           "title": "Continual learning might make your blocking monitors nearly useless",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "6m29SfjbittooYojj",
-          "author": "Lukas Finnveden",
-          "description": "Edited 2026-09-29; see note at the start of the conclusion.\nSummary: Currently, “chain of thought” (CoT) is our most valuable tool for understanding the reasoning and cognition of AI systems. However, some architectures would enable AI models to reason much more extensively in latent states rather than in text CoT. We think that a shift towards latent reasoning architectures would likely undermine the usefulness of CoT and make oversight much harder.\nIntroduction\nSwarms of more than a thousand AI agents have in recent months, both intentionally and in unsanctioned, rogue coordination, tackled increasingly ambitious tasks. This is likely to continue, as Anthropic, OpenAI, and other AI companies deploy increasingly large quantities of superhumanly fast agents to automate AI development. As t…",
-          "link": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-likely-undermine-cot",
-          "publishedOn": "2026-09-23T18:01:49.000Z",
-          "wordCount": 54021,
-          "title": "Latent reasoning architectures would likely undermine CoT, our strongest oversight tool",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/j67su4qozdgbofgq7vvc"
-        },
-        {
-          "id": "6m29SfjbittooYojj",
-          "author": "Lukas Finnveden",
-          "description": "Summary: Currently, “chain of thought” (CoT) is our most valuable tool for understanding the reasoning and cognition of AI systems. However, some architectures would enable AI models to reason much more extensively in latent states rather than in text CoT. We think that a shift towards latent reasoning architectures would undermine the usefulness of CoT and make oversight much harder.\nIntroduction\nSwarms of more than a thousand AI agents have in recent months, both intentionally and in unsanctioned, rogue coordination, tackled increasingly ambitious tasks. This is likely to continue, as Anthropic, OpenAI, and other AI companies deploy increasingly large quantities of superhumanly fast agents to automate AI development. As the AIs increase in both number and capability, humans will find it …",
-          "link": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our",
-          "publishedOn": "2026-09-23T18:01:49.000Z",
-          "wordCount": 52461,
-          "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/j67su4qozdgbofgq7vvc"
         }
       ]
     }

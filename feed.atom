@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-24T03:08:23.841Z</updated>
+    <updated>2026-10-25T03:00:42.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Guardrails to a Local LLM Agent]]></title>
+        <id>https://towardsdatascience.com/?p=679336</id>
+        <link href="https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/"/>
+        <updated>2026-10-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on guide with Gemma 4, Ollama, and the OpenAI Agents SDK
+The post How to Add Guardrails to a Local LLM Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.15 Has a New Profiler]]></title>
+        <id>https://towardsdatascience.com/python-315-has-a-new-profiler/</id>
+        <link href="https://towardsdatascience.com/python-315-has-a-new-profiler/"/>
+        <updated>2026-10-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's what it finds that cProfile misses
+The post Python 3.15 Has a New Profiler appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]]></title>
         <id>https://openai.com/index/scaling-storage-one-billion-users-part-two</id>
@@ -3163,148 +3185,6 @@ Continual learning, by which I mean any mechanism that lets an AI accumulate ski
 The post How to Maximize Your Coding Agent Subscriptions appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating vision-language models with LFM2.5-VL-DSpark]]></title>
-        <id>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</id>
-        <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"/>
-        <updated>2026-09-24T14:08:57.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Liquid AI on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond RAGs: Building Actually Truthful AI Harnesses]]></title>
-        <id>https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/</id>
-        <link href="https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/"/>
-        <updated>2026-09-24T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval is not evidence. How to build AI that proves its own claims.
-The post Beyond RAGs: Building Actually Truthful AI Harnesses appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ari Joury, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Sol and Luna: Near-Astra Performance at Half the Price?]]></title>
-        <id>https://www.analyticsvidhya.com/?p=257771</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/09/gpt-6-sol-and-luna/"/>
-        <updated>2026-09-24T12:34:52.000Z</updated>
-        <summary type="html"><![CDATA[What happens when a frontier model’s abilities get packed into cheaper, faster versions? That’s what OpenAI did with GPT-6 Sol and GPT-6 Luna, two new models built with methods similar to GPT-6 Astra. OpenAI is cutting API prices for both models by 50% compared with their GPT-5.6 versions, and says they bring Astra’s gains in […]
-The post GPT-6 Sol and Luna: Near-Astra Performance at Half the Price? appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Nitika Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Spec-Driven Test Automation: Part 1]]></title>
-        <id>https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/</id>
-        <link href="https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/"/>
-        <updated>2026-09-24T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Why a green test suite can mean nothing
-The post Towards Spec-Driven Test Automation: Part 1 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gal Arav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent]]></title>
-        <id>https://machinelearningmastery.com/?p=25310</id>
-        <link href="https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/"/>
-        <updated>2026-09-24T12:00:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn the key differences between AI workflows and agents, and how to decide which approach is right for your use...]]></summary>
-        <author>
-            <name>Kanwal Mehreen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the Correct Answer Is Nothing, What Does Your Pipeline Return?]]></title>
-        <id>https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/</id>
-        <link href="https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/"/>
-        <updated>2026-09-24T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[The reliability mechanisms we add to LLM pipelines are often the ones that make them confidently wrong.
-The post When the Correct Answer Is Nothing, What Does Your Pipeline Return? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hubert García Gordon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Transcription to Behavior: Why Intent Annotation Is the Real Driver of Enterprise Voice AI]]></title>
-        <id>https://imerit.ai/?p=42164</id>
-        <link href="https://imerit.ai/resources/blog/from-transcription-to-behavior-why-intent-annotation-is-the-real-driver-of-enterprise-voice-ai/"/>
-        <updated>2026-09-24T09:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Learn why annotating intent, sentiment, and escalation risk, not transcription accuracy, determines enterprise voice AI reliability.
-The post From Transcription to Behavior: Why Intent Annotation Is the Real Driver of Enterprise Voice AI appeared first on iMerit.]]></summary>
-        <author>
-            <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows]]></title>
-        <id>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</id>
-        <link href="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"/>
-        <updated>2026-09-23T18:41:40.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latent reasoning architectures would likely undermine CoT, our strongest oversight tool]]></title>
-        <id>6m29SfjbittooYojj</id>
-        <link href="https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-likely-undermine-cot"/>
-        <updated>2026-09-23T18:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Edited 2026-09-29; see note at the start of the conclusion.
-Summary: Currently, “chain of thought” (CoT) is our most valuable tool for understanding the reasoning and cognition of AI systems. However, some architectures would enable AI models to reason much more extensively in latent states rather than in text CoT. We think that a shift towards latent reasoning architectures would likely undermine the usefulness of CoT and make oversight much harder.
-Introduction
-Swarms of more than a thousand AI agents have in recent months, both intentionally and in unsanctioned, rogue coordination, tackled increasingly ambitious tasks. This is likely to continue, as Anthropic, OpenAI, and other AI companies deploy increasingly large quantities of superhumanly fast agents to automate AI development. As t…]]></summary>
-        <author>
-            <name>Lukas Finnveden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latent reasoning architectures would undermine CoT, our strongest oversight tool]]></title>
-        <id>6m29SfjbittooYojj</id>
-        <link href="https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our"/>
-        <updated>2026-09-23T18:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Summary: Currently, “chain of thought” (CoT) is our most valuable tool for understanding the reasoning and cognition of AI systems. However, some architectures would enable AI models to reason much more extensively in latent states rather than in text CoT. We think that a shift towards latent reasoning architectures would undermine the usefulness of CoT and make oversight much harder.
-Introduction
-Swarms of more than a thousand AI agents have in recent months, both intentionally and in unsanctioned, rogue coordination, tackled increasingly ambitious tasks. This is likely to continue, as Anthropic, OpenAI, and other AI companies deploy increasingly large quantities of superhumanly fast agents to automate AI development. As the AIs increase in both number and capability, humans will find it …]]></summary>
-        <author>
-            <name>Lukas Finnveden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offloaded inference for real-world physical AI robotics]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1186774</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/"/>
-        <updated>2026-09-23T16:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.
-The post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two years of OpenAI Academy]]></title>
-        <id>https://openai.com/index/two-years-of-openai-academy</id>
-        <link href="https://openai.com/index/two-years-of-openai-academy"/>
-        <updated>2026-09-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Marking two years of OpenAI Academy and bringing AI skills to even more communities.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Trained a Tiny Network to Compress Data. It Drew a Pentagon.]]></title>
-        <id>https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/</id>
-        <link href="https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/"/>
-        <updated>2026-09-23T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Reproducing Anthropic's "Toy Models of Superposition" from scratch in NumPy, with hand-derived gradients and no borrowed numbers.
-The post I Trained a Tiny Network to Compress Data. It Drew a Pentagon. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Utkarsh Mangal</name>
         </author>
     </entry>
 </feed>
