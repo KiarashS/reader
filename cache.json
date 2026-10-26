@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+          "author": "Benjamin Nweke",
+          "description": "When a tool breaks, an agent can keep going and write a confident answer from nothing while the dashboard stays green.\nThe post Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+          "publishedOn": "2026-10-25T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+          "author": "Partha Sarkar",
+          "description": "Beyond naive chunk-and-embed: Six production architectures for turning enterprise lakehouses into governed AI platforms.\nThe post Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+          "publishedOn": "2026-10-25T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=679336",
           "author": "Shuai Guo",
           "description": "A hands-on guide with Gemma 4, Ollama, and the OpenAI Agents SDK\nThe post How to Add Guardrails to a Local LLM Agent appeared first on Towards Data Science.",
@@ -950,46 +970,6 @@
           "wordCount": null,
           "title": "10 Things I’m Learning Beyond AI to Become More Technologically Fluent",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
-          "author": "Waleed Esmail",
-          "description": "Autoregressive rollout and uncertainty propagation. Second in a series on probabilistic forecasting for physical signals.\nThe post Your Model's MSE Is Lying to You: Part II appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
-          "publishedOn": "2026-09-25T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Your Model's MSE Is Lying to You: Part II",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/",
-          "author": "Emmimal P Alexander",
-          "description": "RAG retrieves. Agents act. I built both separately, connected them explicitly, and ran the same nine tasks through all three systems.\nThe post RAG Isn't an Agent — I Built the Layer Between Retrieval and Action appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/",
-          "publishedOn": "2026-09-25T12:30:01.000Z",
-          "wordCount": null,
-          "title": "RAG Isn't an Agent — I Built the Layer Between Retrieval and Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/",
-          "author": "Nhu Hoang",
-          "description": "I tested TypeSafe AI’s Jev on 3,080 classification tasks to see how its accuracy, latency, calibration, and confidence compare with LLMs — and whether it works as a practical decision layer for AI systems.\nThe post Jev vs. LLMs: When AI Moves from Generation to Decision-Making appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/",
-          "publishedOn": "2026-09-25T11:00:01.000Z",
-          "wordCount": null,
-          "title": "Jev vs. LLMs: When AI Moves from Generation to Decision-Making",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/",
-          "author": "Eivind Kjosbakken",
-          "description": "Get more out of your coding agent subscriptions\nThe post How to Maximize Your Coding Agent Subscriptions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/",
-          "publishedOn": "2026-09-24T15:30:01.000Z",
-          "wordCount": null,
-          "title": "How to Maximize Your Coding Agent Subscriptions",
-          "imageUrl": null
         }
       ]
     },
@@ -1167,16 +1147,6 @@
           "wordCount": 9208,
           "title": "Local Agentic AI Workflows with Hermes + Ollama",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/MLM-Shittu-Local-Agentic-AI-Workflows-with-Hermes-Ollama-scaled-1.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25107",
-          "author": "Shittu Olumide",
-          "description": "Theory is easier to trust once it's running against a real API, so both examples in this article use the same tool — a get_weather function backed by <a href=\"https://open-meteo.",
-          "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
-          "publishedOn": "2026-09-25T12:00:37.000Z",
-          "wordCount": 10013,
-          "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-Tool-Calling-vs.-Code-Execution-for-AI-Agents-Choosing-the-Right-Action-Primitive-1024x586.png"
         }
       ]
     },
@@ -1898,24 +1868,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ca6e1f66-b8e5-11f1-a633-7f4c8f342395",
-          "author": null,
-          "description": "NASA’s SpaceX Crew-13 members discuss their journeys to becoming astronauts and their upcoming mission to the International Space Station. Episode 438",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/crew-13/",
-          "publishedOn": "2026-09-25T13:36:00.000Z",
-          "wordCount": null,
-          "title": "Crew-13",
-          "itunes": {
-            "duration": "3765"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION2863054701.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2173,6 +2125,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=258482",
+          "author": "Nitika Sharma",
+          "description": "Claude Opus 5.5 and GPT-6 Astra are strong performers in coding and complex reasoning. But how does Kimi K3.1 Pro compare? Moonshot AI’s latest model delivers competitive coding-agent benchmark results, a 1-million-token context window, and promising performance on financial tasks. Beyond the headline numbers, the real question is how well it handles complex, multi-step tasks […]\nThe post Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/",
+          "publishedOn": "2026-10-25T04:03:03.000Z",
+          "wordCount": null,
+          "title": "Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=258459",
           "author": "Janvi Kumari",
           "description": "You type a question into ChatGPT or Claude. For a split second, nothing happens. Then the answer starts flowing, word by word. That brief pause and the steady stream that follows are two very different jobs happening on a GPU. Understanding them is the key to building AI apps that feel instant, serve thousands of […]\nThe post LLM Inference Explained: How Models Generate Responses Faster appeared first on Analytics Vidhya.",
@@ -2411,17 +2374,6 @@
           "publishedOn": "2026-09-26T14:27:41.000Z",
           "wordCount": null,
           "title": "Agentic Context Engineering (ACE): Self-Improving Language Models",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257671",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Projects are the bridge between learning and becoming a professional. While theory builds fundamentals, recruiters value candidates who can solve real problems. A strong, diverse portfolio showcases practical skills, technical range, and problem-solving ability.  This guide compiles 10 solved projects across AI domains, from basic machine learning to advanced generative AI system. The tools and […]\nThe post 10 Solved Generative AI Projects to Boost your Profile  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/solved-generative-ai-projects/",
-          "publishedOn": "2026-09-25T07:57:59.000Z",
-          "wordCount": null,
-          "title": "10 Solved Generative AI Projects to Boost your Profile",
           "itunes": {},
           "imageUrl": null
         }
@@ -3098,26 +3050,6 @@
           "wordCount": null,
           "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/lowes",
-          "author": null,
-          "description": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
-          "link": "https://openai.com/index/lowes",
-          "publishedOn": "2026-09-25T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/wayfair",
-          "author": null,
-          "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-          "link": "https://openai.com/index/wayfair",
-          "publishedOn": "2026-09-25T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-          "imageUrl": null
         }
       ]
     },
@@ -3126,6 +3058,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+          "author": "Nathan Lambert",
+          "description": "#20",
+          "link": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+          "publishedOn": "2026-10-25T11:49:00.000Z",
+          "wordCount": null,
+          "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/221950500/f405df0feea3458953c0647088905e4f.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
           "author": "Florian Brand",
@@ -3197,6 +3145,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "dmYP7DS3ERyXGAYe6",
+          "author": "Chris_Leong",
+          "description": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are really just there for students who want to go deeper, before or after the course. I also provide a lot of links; this is to make it easy for students to follow up anything that catches their interest.\nAny feedback on how to improve these posts would be greatly appreciated.\nCyber Security\nI think it’…",
+          "link": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+          "publishedOn": "2026-10-25T07:52:23.000Z",
+          "wordCount": 31121,
+          "title": "Setting the Scene (Public v1; October 25)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/dmYP7DS3ERyXGAYe6/tihfdyagffugnjjtkhpt"
+        },
         {
           "id": "zAczYuHQS6jdG5DTg",
           "author": "evhub",
@@ -3316,16 +3274,6 @@
           "wordCount": 25732,
           "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/ahdxhuahd4vfdtbygz7e"
-        },
-        {
-          "id": "QnDqGbKehEB3DxJAp",
-          "author": "Alex Mallen",
-          "description": "Many control protocols work by intervening on an untrusted AI's actions during deployment. For example, you might set up a monitor that scores each action's suspiciousness and blocks actions above a threshold, replacing them with actions from a weaker \"trusted\" model (a defer-to-trusted protocol). Interventions like this cost usefulness: the protocol sometimes replaces good actions with worse ones.\nContinual learning, by which I mean any mechanism that lets an AI accumulate skills and knowledge over the course of its deployment, optimizes for usefulness. So, if blocking monitors get in the way of task success, I expect continually-learning AIs to learn how to evade blocking[1] monitors. This requires no scheming; it falls out of usefulness pressure applied to a benign model. And the effect…",
-          "link": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly",
-          "publishedOn": "2026-09-24T23:45:34.000Z",
-          "wordCount": 33751,
-          "title": "Continual learning might make your blocking monitors nearly useless",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
