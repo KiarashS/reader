@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
+          "author": "Theophano Mitsa",
+          "description": "Why traditional retrieval metrics miss meaningful similarities\nThe post When Labels Say No, But Embeddings Say Yes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
+          "publishedOn": "2026-10-29T15:30:00.000Z",
+          "wordCount": null,
+          "title": "When Labels Say No, But Embeddings Say Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/difference-in-differences-vs-lagged-outcome-regression/",
+          "author": "Ryan OSullivan",
+          "description": "A simulation study and a pre-period check for choosing the right design for self-selected treatments in product analytics.\nThe post Difference-in-Differences vs Lagged-Outcome Regression appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/difference-in-differences-vs-lagged-outcome-regression/",
+          "publishedOn": "2026-10-29T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Difference-in-Differences vs Lagged-Outcome Regression",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/is-the-1-ai-model-really-1/",
+          "author": "Utkarsh Mangal",
+          "description": "On a 2,000-question test, my top two models couldn't be told apart at the usual 5% level. On a 200-question version, a different model would have taken first place about three times in ten.\nThe post Is the #1 AI Model Really #1? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/is-the-1-ai-model-really-1/",
+          "publishedOn": "2026-10-29T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Is the #1 AI Model Really #1?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction/",
+          "author": "Sam Black",
+          "description": "Learn three essential primitives of harness engineering to future-proof your career\nThe post What Is Harness Engineering? A Hands-On Introduction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction/",
+          "publishedOn": "2026-10-29T11:00:00.000Z",
+          "wordCount": null,
+          "title": "What Is Harness Engineering? A Hands-On Introduction",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
           "author": "Weiwei Hu",
           "description": "From simplifying workflows to connecting knowledge and rules, coordinating AI agents, and delivering measurable business results.\nThe post How to Make AI Work for End-to-End Business Processes appeared first on Towards Data Science.",
@@ -950,56 +990,6 @@
           "wordCount": null,
           "title": "Towards Spec-Driven Test Automation: Part 2",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-compacted-1000-apache-iceberg-files-into-6-heres-what-happened-to-query-performance/",
-          "author": "Thomas Reid",
-          "description": "Benchmarking the impact of fewer, larger files across three SQL workloads\nThe post I Compacted 1,000 Apache Iceberg Files Into 6. Here’s What Happened to Query Performance. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-compacted-1000-apache-iceberg-files-into-6-heres-what-happened-to-query-performance/",
-          "publishedOn": "2026-09-29T15:30:01.000Z",
-          "wordCount": null,
-          "title": "I Compacted 1,000 Apache Iceberg Files Into 6. Here’s What Happened to Query Performance.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/ai-made-data-scientists-faster-now-its-expanding-the-job/",
-          "author": "Yu Dong",
-          "description": "The real shift is bigger than productivity: AI is reshaping ownership, judgment, and the career path of data scientists.\nThe post AI Made Data Scientists Faster. Now It’s Expanding the Job. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-made-data-scientists-faster-now-its-expanding-the-job/",
-          "publishedOn": "2026-09-29T14:00:01.000Z",
-          "wordCount": null,
-          "title": "AI Made Data Scientists Faster. Now It’s Expanding the Job.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/when-all-you-have-are-decoders-every-decision-looks-like-generation/",
-          "author": "Lambert Leong",
-          "description": "Not every decision needs a decoder, generation Is not always a decision\nThe post When All You Have Are Decoders, Every Decision Looks Like Generation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-all-you-have-are-decoders-every-decision-looks-like-generation/",
-          "publishedOn": "2026-09-29T14:00:01.000Z",
-          "wordCount": null,
-          "title": "When All You Have Are Decoders, Every Decision Looks Like Generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-design-architectural-guardrails-around-ai-agents/",
-          "author": "Thuwarakesh Murallie",
-          "description": "Agent design patterns every data engineer must know\nThe post How to Design Architectural Guardrails Around AI Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-design-architectural-guardrails-around-ai-agents/",
-          "publishedOn": "2026-09-29T12:30:02.000Z",
-          "wordCount": null,
-          "title": "How to Design Architectural Guardrails Around AI Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/building-fair-evaluation-sets-is-a-combinatorial-problem/",
-          "author": "Vasileios Vonikakis",
-          "description": "Here’s how to solve it exactly.\nThe post Building Fair Evaluation Sets Is a Combinatorial Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-fair-evaluation-sets-is-a-combinatorial-problem/",
-          "publishedOn": "2026-09-29T11:00:02.000Z",
-          "wordCount": null,
-          "title": "Building Fair Evaluation Sets Is a Combinatorial Problem",
-          "imageUrl": null
         }
       ]
     },
@@ -1157,16 +1147,6 @@
           "wordCount": 10741,
           "title": "AI Agent Observability: Logging, Tracing, and Debugging Explained",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-AI-Agent-Observability-Logging-Tracing-and-Debugging-Explained-1024x598.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25244",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn how to automatically extract structured knowledge from raw text and populate a knowledge graph with SPOC quads using a...",
-          "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
-          "publishedOn": "2026-09-29T12:00:20.000Z",
-          "wordCount": 8861,
-          "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm-feature.png"
         }
       ]
     },
@@ -1205,6 +1185,46 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "author": null,
+          "description": "A Blog post by IBM Granite on Hugging Face",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "publishedOn": "2026-10-29T13:37:07.000Z",
+          "wordCount": 880,
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/announcing-project-protostar",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/announcing-project-protostar",
+          "publishedOn": "2026-10-29T00:00:00.000Z",
+          "wordCount": 1941,
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "imageUrl": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg"
+        },
+        {
+          "id": "https://huggingface.co/blog/mistral-large4",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/mistral-large4",
+          "publishedOn": "2026-10-29T00:00:00.000Z",
+          "wordCount": 3034,
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "imageUrl": "https://huggingface.co/blog/assets/ml4/thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/anydecisionmodel",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/anydecisionmodel",
+          "publishedOn": "2026-10-29T00:00:00.000Z",
+          "wordCount": 3149,
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "imageUrl": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png"
+        },
         {
           "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
           "author": null,
@@ -1584,26 +1604,6 @@
           "wordCount": 2073,
           "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
           "imageUrl": "https://huggingface.co/blog/assets/open-tts-leaderboard/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-          "publishedOn": "2026-09-29T15:30:38.000Z",
-          "wordCount": 2246,
-          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/684040a5de1ad7f4fcec9508/HyVlq-3d7EVj_M-m_TfHJ.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-          "author": null,
-          "description": "A Blog post by Multiverse Computing on Hugging Face",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-          "publishedOn": "2026-09-29T13:07:00.000Z",
-          "wordCount": 2413,
-          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/phhhj_BLOJbvnTFhVaZ5y.png"
         }
       ]
     },
@@ -1618,6 +1618,16 @@
       "feedUrl": "https://www.microsoft.com/en-us/research/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/research/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/research/?p=1191933",
+          "author": "Sowbhagya Suresh",
+          "description": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting.\nThe post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research.",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+          "publishedOn": "2026-10-29T19:19:16.000Z",
+          "wordCount": 4828,
+          "title": "Microsoft Research Focus – Edition #97",
+          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/research/?p=1190353",
           "author": "Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
@@ -1697,31 +1707,6 @@
           "wordCount": 5032,
           "title": "Forecasting space weather risks on power grids",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1186958",
-          "author": "Nicolo Fusi, Jonathan M. Carlson",
-          "description": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.\nThe post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-          "publishedOn": "2026-09-29T14:00:02.000Z",
-          "wordCount": 5564,
-          "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-          "enclosure": {
-            "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/QUINE-Visual1_Lite_FinalComp_V2_FIG-1.mp4",
-            "length": "5497271",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-2.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1186954",
-          "author": "Microsoft Research Team",
-          "description": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value.\nThe post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-          "publishedOn": "2026-09-28T21:00:00.000Z",
-          "wordCount": 5865,
-          "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/1YSingapore-TWLIFB-1200x627-1-scaled.jpg"
         }
       ]
     },
@@ -1949,17 +1934,6 @@
           "title": "Week Ending 10.4.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6abb88839baafb2d6232a0dc",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m",
-          "publishedOn": "2026-09-29T09:52:18.000Z",
-          "wordCount": null,
-          "title": "Week Ending 9.27.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2167,16 +2141,6 @@
           "wordCount": 3665,
           "title": "Beyond Pick-and-Place: Why Cable, Cloth, and Transparent Object Manipulation Is Where Policies Break Down",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Why-Synthetic-Data-Alone-Cannot-Train-Dexterous-Robot-Policies-and-What-Real-world-Annotation-Fills-in.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=42317",
-          "author": "Srishty Sharon",
-          "description": "Learn how cross-modal annotation connects speech, images, and documents to build reliable multimodal voice AI training data.\nThe post The Multimodal Voice AI Problem Nobody Has Solved Yet: Labeling Audio Alongside Images and Documents appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/the-multimodal-voice-ai-problem-nobody-has-solved-yet-labeling-audio-alongside-images-and-documents/",
-          "publishedOn": "2026-09-29T15:44:15.000Z",
-          "wordCount": 3333,
-          "title": "The Multimodal Voice AI Problem Nobody Has Solved Yet: Labeling Audio Alongside Images and Documents",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/The-Multimodal-Voice-AI-Problem-Nobody-Has-Solved-Yet-Labeling-Audio-Alongside-Images-and-Documents.png"
         }
       ]
     },
@@ -2185,6 +2149,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258585",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Python, APIs, cloud deployment. You’ll find these skills in both forward deployed engineer and AI engineer job descriptions. Yet the two jobs can lead to very different working days. An FDE might spend the morning tracing a customer’s approval process before writing an integration. A product AI engineer might spend it investigating why the same […]\nThe post FDE vs AI Engineer: Roles, Skills, and Career Paths Explained appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/fde-vs-ai-engineer-roles-skills/",
+          "publishedOn": "2026-10-29T12:09:54.000Z",
+          "wordCount": null,
+          "title": "FDE vs AI Engineer: Roles, Skills, and Career Paths Explained",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258548",
           "author": "Vasu Deo Sankrityayan",
@@ -2415,39 +2390,6 @@
           "title": "OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257874",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "A practical guide to what changed, the benchmarks that matter, the cost controls developers should not miss, and one hands-on demo worth building.  Anthropic has just released Claude Sonnet 5.5. It is the middle child of the Claude family, and the one most people will actually use. It is quick, capable, cheap to run, and […]\nThe post Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/claude-sonnet-5-5-review/",
-          "publishedOn": "2026-09-29T11:22:11.000Z",
-          "wordCount": null,
-          "title": "Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257839",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "AI agents can handle large context windows, yet still forget what happened after a session ends. Memory systems close that gap by preserving useful facts, preferences, relationships, and task state, giving agents continuity beyond a single prompt.  Open-source projects now approach memory through APIs, graphs, benchmarks, and portable agent state. In this article, we look […]\nThe post 7 Open-Source Memory GitHub Projects on AI Memory  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/github-projects-on-ai-memory/",
-          "publishedOn": "2026-09-29T08:48:34.000Z",
-          "wordCount": null,
-          "title": "7 Open-Source Memory GitHub Projects on AI Memory",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257827",
-          "author": "Sree Vamsi",
-          "description": "For the first time, an OCR model reads Indian languages as fluently as English documents. Sarvam Vision 2.1 breaks a long-standing trade-off. Indian businesses had to choose between structural document parsing and script recognition. Never both. Finance teams automating invoices faced this. Insurance companies processing handwritten claims in multiple states faced this. Organizations digitizing regional […]\nThe post Sarvam Vision 2.1: The OCR Model Built for the Documents India Actually Has  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/09/sarvam-vision-2-1-review/",
-          "publishedOn": "2026-09-28T16:15:26.000Z",
-          "wordCount": null,
-          "title": "Sarvam Vision 2.1: The OCR Model Built for the Documents India Actually Has",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2503,6 +2445,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/updated-model-spec",
+          "author": null,
+          "description": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "link": "https://openai.com/index/updated-model-spec",
+          "publishedOn": "2026-10-29T17:00:00.000Z",
+          "wordCount": null,
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "author": null,
+          "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "publishedOn": "2026-10-29T09:00:00.000Z",
+          "wordCount": null,
+          "title": "How we detect frontier model misalignment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/ropes-gray-ai-diligence",
+          "author": null,
+          "description": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "link": "https://openai.com/index/ropes-gray-ai-diligence",
+          "publishedOn": "2026-10-29T07:00:00.000Z",
+          "wordCount": null,
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
           "author": null,
@@ -3192,56 +3164,6 @@
           "wordCount": null,
           "title": "Helping small businesses put AI to work",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "author": null,
-          "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "publishedOn": "2026-09-29T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing GPT-6.1 Sol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/devday-2026-recap",
-          "author": null,
-          "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-          "link": "https://openai.com/index/devday-2026-recap",
-          "publishedOn": "2026-09-29T10:00:00.000Z",
-          "wordCount": null,
-          "title": "DevDay 2026 Recap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-dots",
-          "author": null,
-          "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-          "link": "https://openai.com/index/introducing-dots",
-          "publishedOn": "2026-09-29T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Introducing dots",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "author": null,
-          "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "publishedOn": "2026-09-28T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Towards safety cases for frontier AI training",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "author": null,
-          "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "publishedOn": "2026-09-28T19:00:00.000Z",
-          "wordCount": null,
-          "title": "How we will do better for Australia",
-          "imageUrl": null
         }
       ]
     },
@@ -3367,6 +3289,16 @@
           "id": "dmYP7DS3ERyXGAYe6",
           "author": "Chris_Leong",
           "description": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are really just there for students who want to go deeper, before or after the course. I also provide a lot of links; this is to make it easy for students to follow up anything that catches their interest.\nAny feedback on how to improve these posts would be greatly appreciated.\nCyber Security\nI think it’…",
+          "link": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-2026",
+          "publishedOn": "2026-10-25T07:52:23.000Z",
+          "wordCount": 32707,
+          "title": "Setting the Scene (Public v1; October 2026)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/dmYP7DS3ERyXGAYe6/tihfdyagffugnjjtkhpt"
+        },
+        {
+          "id": "dmYP7DS3ERyXGAYe6",
+          "author": "Chris_Leong",
+          "description": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are really just there for students who want to go deeper, before or after the course. I also provide a lot of links; this is to make it easy for students to follow up anything that catches their interest.\nAny feedback on how to improve these posts would be greatly appreciated.\nCyber Security\nI think it’…",
           "link": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
           "publishedOn": "2026-10-25T07:52:23.000Z",
           "wordCount": 31121,
@@ -3482,16 +3414,6 @@
           "wordCount": 18887,
           "title": "Endogenous Alignment Requires Dependence",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "9LWK9Hh3Qsg36e3FS",
-          "author": "Stuart_Armstrong",
-          "description": "This post argues that fixed-weight models (at least as we understand them today) will a) always be vulnerable to adversarial examples in their concept-spaces, and b) hence will be misaligned, under sufficient optimisation pressure.\nBoundaries in concept space\nTo serve any purpose whatsoever, an AI will have to draw boundaries inside its world-model - to distinguish world A from world B, and reach some comparison between them.\nIf we want the AI to follow our goals and values, we want it to be able to recognise concepts like \"human being\", or maybe \"conscious being\", \"suffering\", \"preference satisfaction\", \"law\", and so on. So we want an AI to be able to look at a situation and assess, e.g., whether there are or aren't suffering conscious beings in it.\nBut concepts like \"conscious beings\" ar…",
-          "link": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence",
-          "publishedOn": "2026-09-28T20:08:39.000Z",
-          "wordCount": 25732,
-          "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/ahdxhuahd4vfdtbygz7e"
         }
       ]
     }
