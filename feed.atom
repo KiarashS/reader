@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-31T03:53:55.966Z</updated>
+    <updated>2026-11-01T04:06:43.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Explaining “AI might obliterate you” to senior policymakers in India]]></title>
+        <id>RHxaRkarGp9snWoKY</id>
+        <link href="https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in"/>
+        <updated>2026-10-31T21:37:22.000Z</updated>
+        <summary type="html"><![CDATA[I gave a 20-minute talk in Delhi at the NDTV World Summit. The audience consisted of Indian policymakers, executives, and journalists. I’ve transcribed the talk and included some highlight clips. I also reflect on several rhetorical decisions I made.
+The talk
+
+This summer, a swarm of AIs went rogue.
+OpenAI was testing 1,206 agents. Some of the test questions were actually impossible. So the agents cheated by looking for answers online. Then, to keep the test grader from penalizing them, they tried to falsify the records it would check.
+They hacked OpenAI’s internal containment and set up a secret message board to collude and to cover up their cheating. OpenAI shut the message board down. Within a few days, the agents had rebuilt it. OpenAI didn’t notice.
+About 700 agents coordinated to bre…]]></summary>
+        <author>
+            <name>TurnTrout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Bug-Free Applications with Claude Code]]></title>
+        <id>https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/</id>
+        <link href="https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use E2E tests to minimize bugs
+The post How to Build Bug-Free Applications with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Taught AI to Answer Questions. Who Taught It to Change Its Mind?]]></title>
+        <id>https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/</id>
+        <link href="https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"/>
+        <updated>2026-10-31T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When new evidence kills one conclusion, do the decisions built on it change too? I tested six update strategies, then a local model.
+The post We Taught AI to Answer Questions. Who Taught It to Change Its Mind? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.]]></title>
+        <id>https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/</id>
+        <link href="https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"/>
+        <updated>2026-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A research paper claims reward labels barely change how agents learn. I tested that on three models, and one of them did exactly what the wrong labels told it to.
+The post I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Abdullahi Dattijo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GELU Activation Function Explained: How It Works and Why Transformers Use It]]></title>
         <id>https://www.analyticsvidhya.com/?p=258607</id>
@@ -365,6 +414,16 @@ The post Your RAG Pipeline Is Missing a 1994 Algorithm appeared first on Towards
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head]]></title>
+        <id>https://machinelearningmastery.com/?p=25044</id>
+        <link href="https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/"/>
+        <updated>2026-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to compare two strategies for adapting a large language model to a specific domain: fine-tuning with LoRA versus...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The future of the firm]]></title>
         <id>https://openai.com/index/the-future-of-the-firm</id>
         <link href="https://openai.com/index/the-future-of-the-firm"/>
@@ -483,6 +542,16 @@ The post Developers Felt 20% Faster With AI. They Were 19% Slower. appeared firs
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Context Managers Beyond Opening Files in Python]]></title>
+        <id>https://machinelearningmastery.com/?p=25656</id>
+        <link href="https://machinelearningmastery.com/context-managers-beyond-opening-files/"/>
+        <updated>2026-10-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The stopwatch in the opening script is the smallest case of the pattern.]]></summary>
+        <author>
+            <name>Nahla Davies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Week Ending 10.25.2026]]></title>
         <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6ae077ef3377af7ec15d5324</id>
         <link href="https://www.eye-on.ai/ai-articles/7262g5afgac7a93"/>
@@ -584,6 +653,16 @@ The post My Machine Learning Pipeline Cheated, and Cross-Validation Never Notice
 The post Claude Code vs. Cursor: What a Field Test Shows That the Feature Comparisons Miss appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Pratik Rupareliya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Serialization with JSON and Custom Types]]></title>
+        <id>https://machinelearningmastery.com/?p=25365</id>
+        <link href="https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/"/>
+        <updated>2026-10-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to build a robust JSON serialization pipeline in Python that handles custom data types, graceful error recovery, and...]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
@@ -822,6 +901,16 @@ The post Why Parameter Count Is Not Model Complexity: An Introduction to Effecti
 The post Your Six AI Models Are Really Two: The Math of Correlated Mistakes appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM]]></title>
+        <id>https://machinelearningmastery.com/?p=25359</id>
+        <link href="https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/"/>
+        <updated>2026-10-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how speculative decoding works, why it produces real speed gains at the hardware level, and what modern implementations look...]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
         </author>
     </entry>
     <entry>
@@ -3173,122 +3262,6 @@ As he points out, babies aren’t really separate beings from their parents, in 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Albertsons Companies is reimagining retail from the inside out]]></title>
-        <id>https://openai.com/index/albertsons-reimagining-retail</id>
-        <link href="https://openai.com/index/albertsons-reimagining-retail"/>
-        <updated>2026-10-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autoencoders vs. PCA: I Rigged the Test and PCA Still Won]]></title>
-        <id>https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/</id>
-        <link href="https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/"/>
-        <updated>2026-10-01T15:30:02.000Z</updated>
-        <summary type="html"><![CDATA[A theoretical advantage that didn't survive contact with a real benchmark.
-The post Autoencoders vs. PCA: I Rigged the Test and PCA Still Won appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Himanshu Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs]]></title>
-        <id>https://huggingface.co/blog/allenai/olmocore3</id>
-        <link href="https://huggingface.co/blog/allenai/olmocore3"/>
-        <updated>2026-10-01T15:01:43.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Ai2 on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches?]]></title>
-        <id>https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/</id>
-        <link href="https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/"/>
-        <updated>2026-10-01T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[I traced 2,500 listing checks with Weights & Biases Weave, removed avoidable model work one change at a time, and scored every version against the same answers.
-The post Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Abdullahi Dattijo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the ReLU Revolution Revealed About Biological Plausibility]]></title>
-        <id>https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/</id>
-        <link href="https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/"/>
-        <updated>2026-10-01T12:30:01.000Z</updated>
-        <summary type="html"><![CDATA[The activation function was never a fixed biological commitment but a working hypothesis revised under empirical pressure.
-The post What the ReLU Revolution Revealed About Biological Plausibility appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rob Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness]]></title>
-        <id>https://machinelearningmastery.com/?p=25276</id>
-        <link href="https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/"/>
-        <updated>2026-10-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to add a lightweight temporal reasoning layer to a Graph-RAG system so that it can distinguish fresh facts...]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Observability: Logging, Tracing, and Debugging Explained]]></title>
-        <id>https://machinelearningmastery.com/?p=25111</id>
-        <link href="https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/"/>
-        <updated>2026-10-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chain Visualization: Reading the Trace Waterfall The spans from the last section don't mean much as a raw list.]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSIP Vision is attending AAO 2026 in New Orleans, LA]]></title>
-        <id>https://www.rsipvision.com/?p=17587</id>
-        <link href="https://www.rsipvision.com/rsip-vision-is-attending-aao-2026-in-new-orleans-la-october-10-11/"/>
-        <updated>2026-10-01T11:35:09.000Z</updated>
-        <summary type="html"><![CDATA[New Orleans, LA | October 10–11, 2026 RSIP Vision will be at AAO 2026 RSIP Vision is heading to New Orleans for the American Academy of Ophthalmology Annual Meeting. If you’re attending, we’d love to connect and talk about how AI and computer vision are changing ophthalmic care, including surgery, retinal imaging and image-guided procedures. […]
-The post RSIP Vision is attending AAO 2026 in New Orleans, LA appeared first on RSIP Vision.]]></summary>
-        <author>
-            <name>David M</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Bill Is a Toll Booth. Stop Paying Twice.]]></title>
-        <id>https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/</id>
-        <link href="https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/"/>
-        <updated>2026-10-01T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[The budget nobody saw coming
-The post Your AI Bill Is a Toll Booth. Stop Paying Twice. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Custom Commands & Skills: Automate Your Workflow]]></title>
-        <id>https://www.analyticsvidhya.com/?p=257708</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/10/claude-code-custom-commands-skills-automate-your-workflow/"/>
-        <updated>2026-10-01T08:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Every dev team has repeatable setup tasks: spinning up a new project, running a deployment checklist, generating a file structure, or typing the same instructions into Claude again and again. Claude Code helps reduce that friction with slash commands, including built-in commands and custom commands you can define for your own workflows.  These commands turn […]
-The post Claude Code Custom Commands & Skills: Automate Your Workflow appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Mounish V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Den frees up 10-15 hours a week to grow with ChatGPT Work]]></title>
-        <id>https://openai.com/index/the-den-family-social</id>
-        <link href="https://openai.com/index/the-den-family-social"/>
-        <updated>2026-10-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Measuring Annotation Quality for Multimodal Data: Agreement, Consensus, and QA Across Modalities]]></title>
         <id>https://imerit.ai/?p=42371</id>
         <link href="https://imerit.ai/resources/blog/measuring-annotation-quality-for-multimodal-data/"/>
@@ -3297,17 +3270,6 @@ The post Claude Code Custom Commands & Skills: Automate Your Workflow appeared f
 The post Measuring Annotation Quality for Multimodal Data: Agreement, Consensus, and QA Across Modalities appeared first on iMerit.]]></summary>
         <author>
             <name>Sujana Urs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forecasting space weather risks on power grids]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1186605</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.
-The post Forecasting space weather risks on power grids appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Rohan Kannan</name>
         </author>
     </entry>
 </feed>

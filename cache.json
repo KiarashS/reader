@@ -12,6 +12,36 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/",
+          "author": "Eivind Kjosbakken",
+          "description": "Use E2E tests to minimize bugs\nThe post How to Build Bug-Free Applications with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/",
+          "publishedOn": "2026-10-31T16:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Build Bug-Free Applications with Claude Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/",
+          "author": "Emmimal P Alexander",
+          "description": "When new evidence kills one conclusion, do the decisions built on it change too? I tested six update strategies, then a local model.\nThe post We Taught AI to Answer Questions. Who Taught It to Change Its Mind? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/",
+          "publishedOn": "2026-10-31T14:00:00.000Z",
+          "wordCount": null,
+          "title": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/",
+          "author": "Abdullahi Dattijo",
+          "description": "A research paper claims reward labels barely change how agents learn. I tested that on three models, and one of them did exactly what the wrong labels told it to.\nThe post I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/",
+          "publishedOn": "2026-10-31T12:00:00.000Z",
+          "wordCount": null,
+          "title": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
           "author": "Spyros Georgopoulos",
           "description": "A viral tweet says LLMs pick 7 because of gradient descent. The math says it’s more interesting than that.\nThe post Pick a Number Between 1 and 10 appeared first on Towards Data Science.",
@@ -950,46 +980,6 @@
           "wordCount": null,
           "title": "How to Build a Control Plane for AI Agents",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/",
-          "author": "Himanshu Sharma",
-          "description": "A theoretical advantage that didn't survive contact with a real benchmark.\nThe post Autoencoders vs. PCA: I Rigged the Test and PCA Still Won appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/",
-          "publishedOn": "2026-10-01T15:30:02.000Z",
-          "wordCount": null,
-          "title": "Autoencoders vs. PCA: I Rigged the Test and PCA Still Won",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
-          "author": "Abdullahi Dattijo",
-          "description": "I traced 2,500 listing checks with Weights & Biases Weave, removed avoidable model work one change at a time, and scored every version against the same answers.\nThe post Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
-          "publishedOn": "2026-10-01T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
-          "author": "Rob Taylor",
-          "description": "The activation function was never a fixed biological commitment but a working hypothesis revised under empirical pressure.\nThe post What the ReLU Revolution Revealed About Biological Plausibility appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
-          "publishedOn": "2026-10-01T12:30:01.000Z",
-          "wordCount": null,
-          "title": "What the ReLU Revolution Revealed About Biological Plausibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
-          "author": "Gursimar Singh",
-          "description": "The budget nobody saw coming\nThe post Your AI Bill Is a Toll Booth. Stop Paying Twice. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
-          "publishedOn": "2026-10-01T11:00:01.000Z",
-          "wordCount": null,
-          "title": "Your AI Bill Is a Toll Booth. Stop Paying Twice.",
-          "imageUrl": null
         }
       ]
     },
@@ -998,6 +988,46 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=25044",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how to compare two strategies for adapting a large language model to a specific domain: fine-tuning with LoRA versus...",
+          "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
+          "publishedOn": "2026-10-28T11:00:00.000Z",
+          "wordCount": 8448,
+          "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25656",
+          "author": "Nahla Davies",
+          "description": "The stopwatch in the opening script is the smallest case of the pattern.",
+          "link": "https://machinelearningmastery.com/context-managers-beyond-opening-files/",
+          "publishedOn": "2026-10-27T11:00:00.000Z",
+          "wordCount": 9870,
+          "title": "Context Managers Beyond Opening Files in Python",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-context-managers-beyond-opening-files-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25365",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how to build a robust JSON serialization pipeline in Python that handles custom data types, graceful error recovery, and...",
+          "link": "https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/",
+          "publishedOn": "2026-10-26T11:00:00.000Z",
+          "wordCount": 8427,
+          "title": "Robust Serialization with JSON and Custom Types",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-robust-serialization-with-json-and-custom-types-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25359",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn how speculative decoding works, why it produces real speed gains at the hardware level, and what modern implementations look...",
+          "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
+          "publishedOn": "2026-10-23T11:00:00.000Z",
+          "wordCount": 8433,
+          "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-speculative-decoding-3x-faster-inference-llm-feature.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=25407",
           "author": "Vinod Chugani",
@@ -1127,26 +1157,6 @@
           "wordCount": 8857,
           "title": "How (and Why) to Build an AI Agent from Scratch in Python",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-ai-agent-from-scratch.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25276",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn how to add a lightweight temporal reasoning layer to a Graph-RAG system so that it can distinguish fresh facts...",
-          "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
-          "publishedOn": "2026-10-01T12:00:00.000Z",
-          "wordCount": 8265,
-          "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/kdn-adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25111",
-          "author": "Shittu Olumide",
-          "description": "Chain Visualization: Reading the Trace Waterfall The spans from the last section don't mean much as a raw list.",
-          "link": "https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/",
-          "publishedOn": "2026-10-01T12:00:00.000Z",
-          "wordCount": 10741,
-          "title": "AI Agent Observability: Logging, Tracing, and Debugging Explained",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/MLM-Shittu-AI-Agent-Observability-Logging-Tracing-and-Debugging-Explained-1024x598.png"
         }
       ]
     },
@@ -1594,16 +1604,6 @@
           "wordCount": 2710,
           "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/olmocore3",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/olmocore3",
-          "publishedOn": "2026-10-01T15:01:43.000Z",
-          "wordCount": 1737,
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/uKnK93gjkKbmJmSx94WO2.png"
         }
       ]
     },
@@ -1707,16 +1707,6 @@
           "wordCount": 9879,
           "title": "What AI gets wrong and what failure teaches us",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ChadJennifer-MSRPod_TW_LI_FB_1920x1080-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1186605",
-          "author": "Rohan Kannan",
-          "description": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives.\nThe post Forecasting space weather risks on power grids appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
-          "publishedOn": "2026-09-30T16:00:00.000Z",
-          "wordCount": 5032,
-          "title": "Forecasting space weather risks on power grids",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -2380,17 +2370,6 @@
           "title": "Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257708",
-          "author": "Mounish V",
-          "description": "Every dev team has repeatable setup tasks: spinning up a new project, running a deployment checklist, generating a file structure, or typing the same instructions into Claude again and again. Claude Code helps reduce that friction with slash commands, including built-in commands and custom commands you can define for your own workflows.  These commands turn […]\nThe post Claude Code Custom Commands & Skills: Automate Your Workflow appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/claude-code-custom-commands-skills-automate-your-workflow/",
-          "publishedOn": "2026-10-01T08:47:03.000Z",
-          "wordCount": null,
-          "title": "Claude Code Custom Commands & Skills: Automate Your Workflow",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2410,18 +2389,7 @@
       "title": "RSIP Vision",
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
-      "articles": [
-        {
-          "id": "https://www.rsipvision.com/?p=17587",
-          "author": "David M",
-          "description": "New Orleans, LA | October 10–11, 2026 RSIP Vision will be at AAO 2026 RSIP Vision is heading to New Orleans for the American Academy of Ophthalmology Annual Meeting. If you’re attending, we’d love to connect and talk about how AI and computer vision are changing ophthalmic care, including surgery, retinal imaging and image-guided procedures. […]\nThe post RSIP Vision is attending AAO 2026 in New Orleans, LA appeared first on RSIP Vision.",
-          "link": "https://www.rsipvision.com/rsip-vision-is-attending-aao-2026-in-new-orleans-la-october-10-11/",
-          "publishedOn": "2026-10-01T11:35:09.000Z",
-          "wordCount": null,
-          "title": "RSIP Vision is attending AAO 2026 in New Orleans, LA",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "RSIP Vision Learns Archives - RSIP Vision",
@@ -3165,26 +3133,6 @@
           "wordCount": null,
           "title": "The eternal complement",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/albertsons-reimagining-retail",
-          "author": null,
-          "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-          "link": "https://openai.com/index/albertsons-reimagining-retail",
-          "publishedOn": "2026-10-01T16:00:00.000Z",
-          "wordCount": null,
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/the-den-family-social",
-          "author": null,
-          "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-          "link": "https://openai.com/index/the-den-family-social",
-          "publishedOn": "2026-10-01T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-          "imageUrl": null
         }
       ]
     },
@@ -3312,6 +3260,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "RHxaRkarGp9snWoKY",
+          "author": "TurnTrout",
+          "description": "I gave a 20-minute talk in Delhi at the NDTV World Summit. The audience consisted of Indian policymakers, executives, and journalists. I’ve transcribed the talk and included some highlight clips. I also reflect on several rhetorical decisions I made.\nThe talk\n\nThis summer, a swarm of AIs went rogue.\nOpenAI was testing 1,206 agents. Some of the test questions were actually impossible. So the agents cheated by looking for answers online. Then, to keep the test grader from penalizing them, they tried to falsify the records it would check.\nThey hacked OpenAI’s internal containment and set up a secret message board to collude and to cover up their cheating. OpenAI shut the message board down. Within a few days, the agents had rebuilt it. OpenAI didn’t notice.\nAbout 700 agents coordinated to bre…",
+          "link": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+          "publishedOn": "2026-10-31T21:37:22.000Z",
+          "wordCount": 33218,
+          "title": "Explaining “AI might obliterate you” to senior policymakers in India",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/v6vwu7yxmwyec1evl1y2"
+        },
         {
           "id": "BFyNkWgxucqy6Wcee",
           "author": "Chris_Leong",
