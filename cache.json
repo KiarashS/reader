@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/credit-risk-what-are-we-actually-measuring/",
+          "author": "JUNIOR JUMBONG",
+          "description": "Let’s start with a loan and work out what PD, LGD, and EAD tell us about losses and bank capital.\nThe post Credit Risk: What Are We Actually Measuring? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/credit-risk-what-are-we-actually-measuring/",
+          "publishedOn": "2026-11-02T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Credit Risk: What Are We Actually Measuring?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/reflections-beam-is-the-new-open-weight-model-everyone-is-talking-about/",
+          "author": "Benjamin Nweke",
+          "description": "A 501B model that only activates 23B parameters per token sounds like a bargain, until you look at what it takes to host.\nThe post Reflection's Beam Is the New Open-Weight Model Everyone Is Talking About appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/reflections-beam-is-the-new-open-weight-model-everyone-is-talking-about/",
+          "publishedOn": "2026-11-02T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Reflection's Beam Is the New Open-Weight Model Everyone Is Talking About",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/",
+          "author": "Sabrine Bendimerad",
+          "description": "The hardest part is no longer getting the numbers. It's deciding what to do with them.\nThe post Our AI Has an Invisible Footprint — Let's see How to Measure It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/",
+          "publishedOn": "2026-11-02T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Our AI Has an Invisible Footprint — Let's see How to Measure It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/let-decision-models-watch-your-agents/",
+          "author": "Shuai Guo",
+          "description": "A hands-on guide to detecting behavioral anomalies from an agent’s evolving execution history\nThe post Let Decision Models Watch Your Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/let-decision-models-watch-your-agents/",
+          "publishedOn": "2026-11-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Let Decision Models Watch Your Agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/",
           "author": "Partha Sarkar",
           "description": "Beyond RAG: How modern architectures engineer precise, cost-efficient context for enterprise AI agents.\nThe post The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.",
@@ -970,26 +1010,6 @@
           "wordCount": null,
           "title": "The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
-          "author": "Shitanshu Bhushan",
-          "description": "Trying to answer the question of \"Can LLM agents discover?\" through the lens of creativity\nThe post Measuring the Creativity Potential of LLM Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
-          "publishedOn": "2026-10-03T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Measuring the Creativity Potential of LLM Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
-          "author": "Ferran Alia",
-          "description": "A from-scratch PyTorch build that recovers blood flow, viscosity, and wall shear stress in a narrowed artery from 40 noisy velocity readings\nThe post How to Use a PINN for a Navier-Stokes Inverse Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
-          "publishedOn": "2026-10-03T12:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Use a PINN for a Navier-Stokes Inverse Problem",
-          "imageUrl": null
         }
       ]
     },
@@ -1803,6 +1823,24 @@
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
         {
+          "id": "95140dfe-d464-11f1-aff3-335a18623455",
+          "author": null,
+          "description": "NASA Human Landing System engineers discuss the Artemis III lunar lander test articles and docking operations that will pave the way for future crewed Moon landings. Episode 443",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-iii-paving-the-way-to-lunar-landings/",
+          "publishedOn": "2026-10-30T13:19:00.000Z",
+          "wordCount": null,
+          "title": "Artemis III: Paving the Way to Lunar Landings",
+          "itunes": {
+            "duration": "3593"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION2348421011.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "bb225066-cee5-11f1-b9ee-0ffb3fd42659",
           "author": null,
           "description": "The CHAPEA 2 crew shares final reflections from inside their simulated Mars mission, and principal investigator Grace Douglas discusses the study as its conclusion approaches. Episode 442.",
@@ -1851,24 +1889,6 @@
           },
           "enclosure": {
             "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7536169629.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "8fad0808-be65-11f1-8708-1bdf1a5eae54",
-          "author": null,
-          "description": "Lunar scientists Juliane Gross and Aaron Regberg share never-before-heard recordings from the Artemis II crew as they observed the far side of the Moon. Episode 439",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/recordings-from-the-far-side-of-the-moon/",
-          "publishedOn": "2026-10-02T13:31:00.000Z",
-          "wordCount": null,
-          "title": "Recordings from the Far Side of the Moon",
-          "itunes": {
-            "duration": "4370"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1112239742.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
@@ -1982,6 +2002,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=42909",
+          "author": "Cadence SEO",
+          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Data Curation for Computer Vision: How to Build Reliable Training Data for Vision Models appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/data-curation-for-computer-vision-how-to-build-reliable-training-data-for-vision-models/",
+          "publishedOn": "2026-11-02T06:44:53.000Z",
+          "wordCount": 3330,
+          "title": "Data Curation for Computer Vision: How to Build Reliable Training Data for Vision Models",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
         {
           "id": "https://imerit.ai/?p=42810",
           "author": "Sujana Urs",
@@ -2139,6 +2169,17 @@
           "publishedOn": "2026-10-29T12:09:54.000Z",
           "wordCount": null,
           "title": "FDE vs AI Engineer: Roles, Skills, and Career Paths Explained",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258555",
+          "author": "Shaik Hamzah",
+          "description": "I started writing this blog when Kimi K3 was still Moonshot’s flagship. Then, on 24th October 2026, Kimi K3.1 Pro dropped, right in the middle of my writing, hehe. The good news: K3.1 Pro is built on the same K3 base model with much more post-training on top, so everything we study here still applies. […]\nThe post Kimi K3 Architecture Explained: How a 2.8T Model Runs Efficiently appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-architecture/",
+          "publishedOn": "2026-10-29T04:42:29.000Z",
+          "wordCount": null,
+          "title": "Kimi K3 Architecture Explained: How a 2.8T Model Runs Efficiently",
           "itunes": {},
           "imageUrl": null
         },
@@ -2394,6 +2435,76 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "author": null,
+          "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "publishedOn": "2026-11-02T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Rewarding defenders with bigger bug bounties",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "author": null,
+          "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "publishedOn": "2026-11-02T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/scaling-git-at-openai",
+          "author": null,
+          "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+          "link": "https://openai.com/index/scaling-git-at-openai",
+          "publishedOn": "2026-11-02T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Scaling Git at OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/grid-protectors-program",
+          "author": null,
+          "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+          "link": "https://openai.com/index/grid-protectors-program",
+          "publishedOn": "2026-11-02T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing the Grid Protectors Program",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/lifeval",
+          "author": null,
+          "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+          "link": "https://openai.com/index/lifeval",
+          "publishedOn": "2026-11-02T09:00:00.000Z",
+          "wordCount": null,
+          "title": "LifeVal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/qodo-codex-plugin",
+          "author": null,
+          "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+          "link": "https://openai.com/index/qodo-codex-plugin",
+          "publishedOn": "2026-11-02T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Qodo builds context into AI code review with Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/dan-driscoll-joins-openai",
+          "author": null,
+          "description": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+          "link": "https://openai.com/index/dan-driscoll-joins-openai",
+          "publishedOn": "2026-11-02T00:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
           "author": null,
@@ -3083,16 +3194,6 @@
           "wordCount": null,
           "title": "Building advertising for the way people use AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/practical-guide-building-gpt-6",
-          "author": null,
-          "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-          "link": "https://openai.com/index/practical-guide-building-gpt-6",
-          "publishedOn": "2026-10-02T16:15:00.000Z",
-          "wordCount": null,
-          "title": "A model guide for the GPT-6 family",
-          "imageUrl": null
         }
       ]
     },
@@ -3220,6 +3321,26 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "6qDn6H5XG5Hc6BJFe",
+          "author": "Chris_Leong",
+          "description": "Context: I created this to share before the start of courses I facilitate to provide a bunch of additional context and frames. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are really just there for students who want to go deeper, before or after the course. I also provide a lot of links; this is to make it easy for students to follow up anything that catches their interest. \nSome general thoughts on advice\nI suspect that most advice (including most of the advice I’ve given in the past) is bad. People have very different goals, personalities, skills and opportunities and unless you know someone them really well, it’s hard to cater advice to their circumstances. What one person needs to hear, may be the absol…",
+          "link": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals",
+          "publishedOn": "2026-11-02T15:02:41.000Z",
+          "wordCount": 32420,
+          "title": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6qDn6H5XG5Hc6BJFe/kr5vxjhh45mouqldt6e7"
+        },
+        {
+          "id": "5a4tuSNDNodPsiS26",
+          "author": "Steven Byrnes",
+          "description": "The “two kids in a trenchcoat” trope, in case you haven’t heard of it. Image sources: 1, 2\n\ntl;dr\nI go through three “coherence arguments”, related to (1) market competition, (2) AI self-reflection and self-modification, and (3) AI training algorithms. I argue that each of these implies a pressure for (something like) “being self-consistent”, and also a pressure for (something like) “only caring about long-term eventual outcomes, with ruthless indifference to anything else”. But the latter pressure tends to be weaker and/or more contingent than the former. So it's bad to lump them together and call them by the same name.\n1. An example “coherence argument” that I’ll focus on for most of the post\nI’ll talk about two other “coherence arguments” at the end (§6), but let’s start with the one ba…",
+          "link": "https://www.alignmentforum.org/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a",
+          "publishedOn": "2026-11-02T14:13:16.000Z",
+          "wordCount": 32894,
+          "title": "Some “coherence arguments” are two different things in a trenchcoat",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/ub72li3m7kzbqjrgowu2"
+        },
         {
           "id": "RHxaRkarGp9snWoKY",
           "author": "TurnTrout",
@@ -3349,16 +3470,6 @@
           "wordCount": 22912,
           "title": "Minimum required pacing: finish aligning it before you train the next one",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "hEDMDFmb322yfufYL",
-          "author": "Lorxus",
-          "description": "(Epistemic status: A promising but weird research direction in agent foundations and philosophy of language. A half-built conceptual tower whose mortar and paint are both still wet: please excuse our mess while we innovate. Some of it, I'm confident in as pretty much right; some of it is merely suggestive; probably much of it is wrong or incomplete. Certainly it lacks the math it'd need to be truly correct, which gnaws at me. The prior art here is strange and thin: Gärdenfors, Tarski, Gentner, and the later Mohists make for odd bedfellows, and I can't tell whether that's a warning sign or a moat I can peculiarly easily clear. I gave the simplest parts of this as a talk extremely recently in Berkeley at a luminously-named venue for a conference with a Grecian name. For @johnswentworth, but …",
-          "link": "https://www.alignmentforum.org/posts/hEDMDFmb322yfufYL/rocks-to-rules-climbing-a-rickety-but-interoperable-semantic",
-          "publishedOn": "2026-10-03T08:07:32.000Z",
-          "wordCount": 74768,
-          "title": "Rocks to Rules: Climbing a Rickety-But-Interoperable Semantic Ladder",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/hEDMDFmb322yfufYL/oqe6no8upuh0b8dzonoj"
         }
       ]
     }
