@@ -2,10 +2,199 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-04T04:40:39.599Z</updated>
+    <updated>2026-11-05T04:55:17.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI: Astra covertly underperforms on safety research]]></title>
+        <id>eKe7fky8kSt9DCJxZ</id>
+        <link href="https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research"/>
+        <updated>2026-11-04T22:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Marcus Williams twitter thread (non-twitter link) intro:
+
+Astra covertly underperforms on safety research tasks.
+We noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.
+To measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no…]]></summary>
+        <author>
+            <name>Zach Stein-Perlman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dharma Field Extractor: Any Document In, Structured Fields in JSON Out]]></title>
+        <id>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</id>
+        <link href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"/>
+        <updated>2026-11-04T17:50:10.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by Dharma-AI on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positive and Negative AI Futures]]></title>
+        <id>MrWZfxHCEgm7uvHJj</id>
+        <link href="https://www.alignmentforum.org/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures"/>
+        <updated>2026-11-04T17:32:27.000Z</updated>
+        <summary type="html"><![CDATA[I'm continuing to share some notes I created for myself to use when I facilitate AI safety courses. I really like using Ilya: the AI scientist shaping the world as a way of engaging students at the start of a course. The video primarily focuses on the way that AI could go wrong, however, it also starts with “Now, AI is a great thing…”, so it naturally leads to a discussion of positive and negative futures.
+
+Positive Futures:
+
+One obvious resource on positive futures Foresight Institute’s Existential Hope website. I’ve browsed their content in the past, some of it is kind of interesting, but honestly, I found view it as mostly pretty mid. They also run a fellowship which has an existential hope stream:
+They recently released The AI future nobody is showing you, which resulted in a wide rang…]]></summary>
+        <author>
+            <name>Chris_Leong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How big is the open model economy today?]]></title>
+        <id>https://www.interconnects.ai/p/how-well-can-we-measure-open-model</id>
+        <link href="https://www.interconnects.ai/p/how-well-can-we-measure-open-model"/>
+        <updated>2026-11-04T16:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Our first open model economy research note for paid subscribers.]]></summary>
+        <author>
+            <name>Nathan Lambert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Computational Analysis of Women’s Suffrage in Historical Newspapers]]></title>
+        <id>https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/</id>
+        <link href="https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/"/>
+        <updated>2026-11-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using 600,546 digitized newspaper pages to measure how suffrage coverage changed from 1890 to 1920
+The post A Computational Analysis of Women’s Suffrage in Historical Newspapers appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Renish Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Ango Scholars: The Platform Powering iMerit’s Domain Expert Network]]></title>
+        <id>https://imerit.ai/?p=42938</id>
+        <link href="https://imerit.ai/resources/blog/introducing-ango-scholars-the-platform-powering-imerits-domain-expert-network/"/>
+        <updated>2026-11-04T15:07:40.000Z</updated>
+        <summary type="html"><![CDATA[iMerit launches Ango Scholars, automating onboarding, assessments, contracts, and payments for its 30,000+ global domain experts worldwide.
+The post Introducing Ango Scholars: The Platform Powering iMerit’s Domain Expert Network appeared first on iMerit.]]></summary>
+        <author>
+            <name>Srishty Sharon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI to acquire Pierre Computer Company, Inc.]]></title>
+        <id>https://openai.com/index/openai-to-acquire-pierre</id>
+        <link href="https://openai.com/index/openai-to-acquire-pierre"/>
+        <updated>2026-11-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Combine Contradictory Filters in DAX]]></title>
+        <id>https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/</id>
+        <link href="https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/"/>
+        <updated>2026-11-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes we need to calculate results based on contradictory filters. Without any action, these filters will lead to an empty result. Let's see how we can improve the data model to make it work.
+The post How to Combine Contradictory Filters in DAX appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let Decision Models Guide Your Voice Assistant]]></title>
+        <id>https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/</id>
+        <link href="https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/"/>
+        <updated>2026-11-04T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT-Live does the talking. A decision model tracks what’s confirmed and picks what to ask next.
+The post Let Decision Models Guide Your Voice Assistant appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Best AI Agent Collaboration Platforms in 2026]]></title>
+        <id>https://www.analyticsvidhya.com/?p=258705</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/11/best-ai-agent-collaboration-platforms/"/>
+        <updated>2026-11-04T12:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Building an AI agent is one thing. Making it available to an entire team is another. Shared access, permissions, integrations, and reusable workflows determine whether an agent becomes a reliable team resource or another setup everyone must recreate. Platforms approach this differently. Some share a single assistant, others coordinate multiple agents, while some distribute independent […]
+The post 7 Best AI Agent Collaboration Platforms in 2026 appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Vasu Deo Sankrityayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desiderata for the Theory of Agents]]></title>
+        <id>sqjti8dxcKSvZJikd</id>
+        <link href="https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents"/>
+        <updated>2026-11-04T11:25:12.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories fall short of these desiderata.
+A Theory of What?
+The word "agent" is often used in the AI safety discourse and in other research communities, but the intended meaning and scope of this concept varies substantially. For the purpose of this sequence, I informally define an agent to be a system with inputs ("observations") and outputs ("actions") that is effective at steering its environment in the direction of particular preferences, for a large variety of different environments. To do so, it arguably has to create a sophisticated model of the environment
+      [1]
+    , and use this model to build a long-term plan. Moreover, it has to continu…]]></summary>
+        <author>
+            <name>Vanessa Kosoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Classical: A Quantum Approach to Time-Series Prediction]]></title>
+        <id>https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/</id>
+        <link href="https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/"/>
+        <updated>2026-11-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing CoQS-LSTM, a Coherent Quantum Long Short-Term Memory Architecture
+The post Beyond Classical: A Quantum Approach to Time-Series Prediction appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Davinder Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Train Your own Decision Model like Jev using Unsloth]]></title>
+        <id>https://machinelearningmastery.com/?p=25706</id>
+        <link href="https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/"/>
+        <updated>2026-11-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to turn an open-weight language model into a decision model that classifies user intent, by fine-tuning Qwen3.5-4B on...]]></summary>
+        <author>
+            <name>Kanwal Mehreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A thousand fewer paths to root]]></title>
+        <id>https://openai.com/index/a-thousand-fewer-paths-to-root</id>
+        <link href="https://openai.com/index/a-thousand-fewer-paths-to-root"/>
+        <updated>2026-11-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daybreak Red is now available in AWS GovCloud (US-East)]]></title>
+        <id>https://openai.com/index/daybreak-red-aws-govcloud</id>
+        <link href="https://openai.com/index/daybreak-red-aws-govcloud"/>
+        <updated>2026-11-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Images 2.6]]></title>
+        <id>https://openai.com/index/introducing-images-2-6</id>
+        <link href="https://openai.com/index/introducing-images-2-6"/>
+        <updated>2026-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevRev delivers autonomous self-service with GPT-6.1 Sol]]></title>
+        <id>https://openai.com/index/devrev-enterprise-self-service</id>
+        <link href="https://openai.com/index/devrev-enterprise-self-service"/>
+        <updated>2026-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automating subtle emergent misalignment research]]></title>
         <id>MuQDLAJyKJPFkw6q9</id>
@@ -113,6 +302,16 @@ The post Top 5 Local AI Models and How to Get Them appeared first on Analytics V
 The post Three Techniques to Understand Your Codebase When Coding Agents Write the Code appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach]]></title>
+        <id>https://machinelearningmastery.com/?p=25412</id>
+        <link href="https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/"/>
+        <updated>2026-11-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to match an LLM inference optimization technique to the actual bottleneck in your workload by working through a...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -284,6 +483,16 @@ The post Our AI Has an Invisible Footprint — Let's see How to Measure It appea
 The post Let Decision Models Watch Your Agents appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks]]></title>
+        <id>https://machinelearningmastery.com/?p=25424</id>
+        <link href="https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/"/>
+        <updated>2026-11-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how agent memory works, what types of memory exist, and how different frameworks approach storage, retrieval, and memory management...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
@@ -514,6 +723,16 @@ The post Harness²: Improving AI Agent Performance Without Model Upgrades appear
 The post Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Chien Vu Minh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)]]></title>
+        <id>https://machinelearningmastery.com/?p=25352</id>
+        <link href="https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/"/>
+        <updated>2026-10-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn seven common token-waste patterns in production AI agent systems, and the architectural fixes that address each one. Topics we...]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
         </author>
     </entry>
     <entry>
@@ -3381,100 +3600,6 @@ The post I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants
 The post 5 Research Papers Shaping Dexterous Manipulation Training Data in 2026 appeared first on iMerit.]]></summary>
         <author>
             <name>Srishty Sharon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our approach to EU text provenance rules]]></title>
-        <id>https://openai.com/index/eu-text-provenance</id>
-        <link href="https://openai.com/index/eu-text-provenance"/>
-        <updated>2026-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Pass Rate is the Wrong Metric for Agentic AI and What Agent Trajectory Evaluation Replaces it With]]></title>
-        <id>https://imerit.ai/?p=42480</id>
-        <link href="https://imerit.ai/resources/blog/why-pass-rate-is-the-wrong-metric-for-agentic-ai-and-what-agent-trajectory-evaluation-replaces-it-with/"/>
-        <updated>2026-10-05T14:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Agent trajectory evaluation reveals tool errors, inefficient paths, policy violations, and recovery failures beyond pass rates.
-The post Why Pass Rate is the Wrong Metric for Agentic AI and What Agent Trajectory Evaluation Replaces it With appeared first on iMerit.]]></summary>
-        <author>
-            <name>Srishty Sharon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)]]></title>
-        <id>https://towardsdatascience.com/?p=673377</id>
-        <link href="https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/"/>
-        <updated>2026-10-05T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Elegant object matching from several viewpoints
-The post Computer Vision: SIFT algorithm (Scale Invariant Feature Transform) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Slava Efimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 10.4.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6ac3a821b32c687c30016ac0</id>
-        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m-ydkx9"/>
-        <updated>2026-10-05T13:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code]]></title>
-        <id>https://www.analyticsvidhya.com/?p=257927</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/10/build-enterprise-ai-agent-claude-fable-5-1/"/>
-        <updated>2026-10-05T12:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Most AI coding demos stop at task managers, weather apps, or simple chatbots. For this project, we take on something more demanding: building an enterprise customer-support platform that can investigate complaints, retrieve relevant policies, recommend resolutions, and keep risky actions behind human approval. This gives us a practical way to test Claude Fable 5.1 as […]
-The post Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Harsh Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How (and Why) to Build an AI Agent from Scratch in Python]]></title>
-        <id>https://machinelearningmastery.com/?p=25301</id>
-        <link href="https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/"/>
-        <updated>2026-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn what an AI agent is and how to build one from scratch in plain Python using the Anthropic API,...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Cheap, Yet Reliable Model Router With Jev]]></title>
-        <id>https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/</id>
-        <link href="https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/"/>
-        <updated>2026-10-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Model routing can finally be a design choice rather than a system enhancement
-The post How to Build a Cheap, Yet Reliable Model Router With Jev appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thuwarakesh Murallie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement]]></title>
-        <id>6ac38287d6fd64daae93bf3c</id>
-        <link href="https://www.freecodecamp.org/news/ai-email-deliverability-explained/"/>
-        <updated>2026-10-05T10:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building advertising for the way people use AI]]></title>
-        <id>https://openai.com/index/new-chatgpt-ads-format-and-measurement</id>
-        <link href="https://openai.com/index/new-chatgpt-ads-format-and-measurement"/>
-        <updated>2026-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.]]></summary>
-        <author>
-            <name>OpenAI News</name>
         </author>
     </entry>
 </feed>

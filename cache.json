@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
+          "author": "Renish Joshi",
+          "description": "Using 600,546 digitized newspaper pages to measure how suffrage coverage changed from 1890 to 1920\nThe post A Computational Analysis of Women’s Suffrage in Historical Newspapers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
+          "publishedOn": "2026-11-04T15:30:00.000Z",
+          "wordCount": null,
+          "title": "A Computational Analysis of Women’s Suffrage in Historical Newspapers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/",
+          "author": "Salvatore Cagliari",
+          "description": "Sometimes we need to calculate results based on contradictory filters. Without any action, these filters will lead to an empty result. Let's see how we can improve the data model to make it work.\nThe post How to Combine Contradictory Filters in DAX appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/",
+          "publishedOn": "2026-11-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Combine Contradictory Filters in DAX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+          "author": "Shuai Guo",
+          "description": "GPT-Live does the talking. A decision model tracks what’s confirmed and picks what to ask next.\nThe post Let Decision Models Guide Your Voice Assistant appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+          "publishedOn": "2026-11-04T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Let Decision Models Guide Your Voice Assistant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/",
+          "author": "Davinder Singh",
+          "description": "Introducing CoQS-LSTM, a Coherent Quantum Long Short-Term Memory Architecture\nThe post Beyond Classical: A Quantum Approach to Time-Series Prediction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/",
+          "publishedOn": "2026-11-04T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Beyond Classical: A Quantum Approach to Time-Series Prediction",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
           "author": "James O'Brien",
           "description": "The case for paying people to play when machines do the work\nThe post AI Will Do Your Job. That Should Be Good News. appeared first on Towards Data Science.",
@@ -1010,26 +1050,6 @@
           "wordCount": null,
           "title": "I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=673377",
-          "author": "Slava Efimov",
-          "description": "Elegant object matching from several viewpoints\nThe post Computer Vision: SIFT algorithm (Scale Invariant Feature Transform) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/",
-          "publishedOn": "2026-10-05T14:18:00.000Z",
-          "wordCount": null,
-          "title": "Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
-          "author": "Thuwarakesh Murallie",
-          "description": "Model routing can finally be a design choice rather than a system enhancement\nThe post How to Build a Cheap, Yet Reliable Model Router With Jev appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
-          "publishedOn": "2026-10-05T11:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Build a Cheap, Yet Reliable Model Router With Jev",
-          "imageUrl": null
         }
       ]
     },
@@ -1038,6 +1058,46 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=25706",
+          "author": "Kanwal Mehreen",
+          "description": "In this article, you will learn how to turn an open-weight language model into a decision model that classifies user intent, by fine-tuning Qwen3.5-4B on...",
+          "link": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
+          "publishedOn": "2026-11-04T11:00:00.000Z",
+          "wordCount": 10283,
+          "title": "How to Train Your own Decision Model like Jev using Unsloth",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm-how-to-train-your-own-decision-model-like-jev-using-unsloth-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25412",
+          "author": "Bala Priya C",
+          "description": "In this article, you will learn how to match an LLM inference optimization technique to the actual bottleneck in your workload by working through a...",
+          "link": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
+          "publishedOn": "2026-11-03T11:00:00.000Z",
+          "wordCount": 8546,
+          "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-inference-optimization-decision-tree-cover.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25424",
+          "author": "Bala Priya C",
+          "description": "In this article, you will learn how agent memory works, what types of memory exist, and how different frameworks approach storage, retrieval, and memory management...",
+          "link": "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
+          "publishedOn": "2026-11-02T11:00:00.000Z",
+          "wordCount": 8507,
+          "title": "The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-bala-agent-memory-stack.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25352",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn seven common token-waste patterns in production AI agent systems, and the architectural fixes that address each one. Topics we...",
+          "link": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
+          "publishedOn": "2026-10-30T11:00:00.000Z",
+          "wordCount": 8903,
+          "title": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-7-ways-ai-agent-wasting-tokens-feature.png"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=25044",
           "author": "Iván Palomares Carrascosa",
@@ -1197,16 +1257,6 @@
           "wordCount": 8395,
           "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25301",
-          "author": "Bala Priya C",
-          "description": "In this article, you will learn what an AI agent is and how to build one from scratch in plain Python using the Anthropic API,...",
-          "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
-          "publishedOn": "2026-10-05T12:00:00.000Z",
-          "wordCount": 8857,
-          "title": "How (and Why) to Build an AI Agent from Scratch in Python",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-ai-agent-from-scratch.png"
         }
       ]
     },
@@ -1245,6 +1295,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "author": null,
+          "description": "A Blog post by Dharma-AI on Hugging Face",
+          "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "publishedOn": "2026-11-04T17:50:10.000Z",
+          "wordCount": 2460,
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/statebench",
           "author": null,
@@ -1852,16 +1912,6 @@
           "wordCount": 3534,
           "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0220c2ae-5938-458c-9a87-b97a66c7945e.png"
-        },
-        {
-          "id": "6ac38287d6fd64daae93bf3c",
-          "author": "Reetain Raina",
-          "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
-          "link": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
-          "publishedOn": "2026-10-05T10:57:11.000Z",
-          "wordCount": 3226,
-          "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ccac1a88-7bba-4136-a680-f20637c173b1.png"
         }
       ]
     },
@@ -2004,17 +2054,6 @@
           "title": "Week Ending 10.11.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6ac3a821b32c687c30016ac0",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m-ydkx9",
-          "publishedOn": "2026-10-05T13:38:08.000Z",
-          "wordCount": null,
-          "title": "Week Ending 10.4.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2063,6 +2102,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=42938",
+          "author": "Srishty Sharon",
+          "description": "iMerit launches Ango Scholars, automating onboarding, assessments, contracts, and payments for its 30,000+ global domain experts worldwide.\nThe post Introducing Ango Scholars: The Platform Powering iMerit’s Domain Expert Network appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/introducing-ango-scholars-the-platform-powering-imerits-domain-expert-network/",
+          "publishedOn": "2026-11-04T15:07:40.000Z",
+          "wordCount": 2584,
+          "title": "Introducing Ango Scholars: The Platform Powering iMerit’s Domain Expert Network",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/11/Feature-IMG-Introducing-Ango-Scholars-The-Platform-Powering-iMerits-Domain-Expert-Network-scaled.jpg"
+        },
         {
           "id": "https://imerit.ai/?p=42909",
           "author": "Cadence SEO",
@@ -2182,16 +2231,6 @@
           "wordCount": 2787,
           "title": "5 Research Papers Shaping Dexterous Manipulation Training Data in 2026",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/10/5-Research-Papers-Shaping-Dexterous-Manipulation-Training-Data-in-2026.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=42480",
-          "author": "Srishty Sharon",
-          "description": "Agent trajectory evaluation reveals tool errors, inefficient paths, policy violations, and recovery failures beyond pass rates.\nThe post Why Pass Rate is the Wrong Metric for Agentic AI and What Agent Trajectory Evaluation Replaces it With appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/why-pass-rate-is-the-wrong-metric-for-agentic-ai-and-what-agent-trajectory-evaluation-replaces-it-with/",
-          "publishedOn": "2026-10-05T14:51:08.000Z",
-          "wordCount": 3611,
-          "title": "Why Pass Rate is the Wrong Metric for Agentic AI and What Agent Trajectory Evaluation Replaces it With",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/10/Feature-IMG-Why-Pass-Rate-Is-the-Wrong-Metric-for-Agentic-AI-and-What-Agent-Trajectory-Evaluation-Replaces-It-With-scaled.jpg"
         }
       ]
     },
@@ -2200,6 +2239,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258705",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Building an AI agent is one thing. Making it available to an entire team is another. Shared access, permissions, integrations, and reusable workflows determine whether an agent becomes a reliable team resource or another setup everyone must recreate. Platforms approach this differently. Some share a single assistant, others coordinate multiple agents, while some distribute independent […]\nThe post 7 Best AI Agent Collaboration Platforms in 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/best-ai-agent-collaboration-platforms/",
+          "publishedOn": "2026-11-04T12:24:18.000Z",
+          "wordCount": null,
+          "title": "7 Best AI Agent Collaboration Platforms in 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258642",
           "author": "Vasu Deo Sankrityayan",
@@ -2452,17 +2502,6 @@
           "title": "JEV vs LLM as a Judge: The AI Evaluation Comparison",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=257927",
-          "author": "Harsh Mishra",
-          "description": "Most AI coding demos stop at task managers, weather apps, or simple chatbots. For this project, we take on something more demanding: building an enterprise customer-support platform that can investigate complaints, retrieve relevant policies, recommend resolutions, and keep risky actions behind human approval. This gives us a practical way to test Claude Fable 5.1 as […]\nThe post Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/build-enterprise-ai-agent-claude-fable-5-1/",
-          "publishedOn": "2026-10-05T12:45:02.000Z",
-          "wordCount": null,
-          "title": "Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2507,6 +2546,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/openai-to-acquire-pierre",
+          "author": null,
+          "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+          "link": "https://openai.com/index/openai-to-acquire-pierre",
+          "publishedOn": "2026-11-04T14:30:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "author": null,
+          "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "publishedOn": "2026-11-04T08:00:00.000Z",
+          "wordCount": null,
+          "title": "A thousand fewer paths to root",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "author": null,
+          "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "publishedOn": "2026-11-04T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-images-2-6",
+          "author": null,
+          "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "link": "https://openai.com/index/introducing-images-2-6",
+          "publishedOn": "2026-11-04T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing Images 2.6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/devrev-enterprise-self-service",
+          "author": null,
+          "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "link": "https://openai.com/index/devrev-enterprise-self-service",
+          "publishedOn": "2026-11-04T00:00:00.000Z",
+          "wordCount": null,
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
           "author": null,
@@ -3296,26 +3385,6 @@
           "wordCount": null,
           "title": "Advancing computer use with Ironclad",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/eu-text-provenance",
-          "author": null,
-          "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-          "link": "https://openai.com/index/eu-text-provenance",
-          "publishedOn": "2026-10-05T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Our approach to EU text provenance rules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "author": null,
-          "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "publishedOn": "2026-10-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Building advertising for the way people use AI",
-          "imageUrl": null
         }
       ]
     },
@@ -3324,6 +3393,22 @@
       "feedUrl": "https://www.interconnects.ai/feed",
       "siteUrl": "https://www.interconnects.ai",
       "articles": [
+        {
+          "id": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+          "author": "Nathan Lambert",
+          "description": "Our first open model economy research note for paid subscribers.",
+          "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+          "publishedOn": "2026-11-04T16:35:44.000Z",
+          "wordCount": null,
+          "title": "How big is the open model economy today?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg"
+        },
         {
           "id": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
           "author": "Nathan Lambert",
@@ -3443,6 +3528,36 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "eKe7fky8kSt9DCJxZ",
+          "author": "Zach Stein-Perlman",
+          "description": "Marcus Williams twitter thread (non-twitter link) intro:\n\nAstra covertly underperforms on safety research tasks.\nWe noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underperform was not verbalized in the CoT meaning our misalignment monitoring system did not detect this.\nTo measure underperformance we created a paired open-ended coding evaluation with safety and capability tasks. On this eval Astra scored 10% when we framed coding tasks as safety research, vs. 16% when framed as capabilities research. The gap remained after we excluded trajectories with refusals or verbalized intent to underperform in CoT. There was no…",
+          "link": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
+          "publishedOn": "2026-11-04T22:15:30.000Z",
+          "wordCount": 24020,
+          "title": "OpenAI: Astra covertly underperforms on safety research",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/eKe7fky8kSt9DCJxZ/f4n7jqeksoz2zqjyrq4g"
+        },
+        {
+          "id": "MrWZfxHCEgm7uvHJj",
+          "author": "Chris_Leong",
+          "description": "I'm continuing to share some notes I created for myself to use when I facilitate AI safety courses. I really like using Ilya: the AI scientist shaping the world as a way of engaging students at the start of a course. The video primarily focuses on the way that AI could go wrong, however, it also starts with “Now, AI is a great thing…”, so it naturally leads to a discussion of positive and negative futures.\n\nPositive Futures:\n\nOne obvious resource on positive futures Foresight Institute’s Existential Hope website. I’ve browsed their content in the past, some of it is kind of interesting, but honestly, I found view it as mostly pretty mid. They also run a fellowship which has an existential hope stream:\nThey recently released The AI future nobody is showing you, which resulted in a wide rang…",
+          "link": "https://www.alignmentforum.org/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures",
+          "publishedOn": "2026-11-04T17:32:27.000Z",
+          "wordCount": 25762,
+          "title": "Positive and Negative AI Futures",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/MrWZfxHCEgm7uvHJj/fm1lyzogwvtf5fb3vr0r"
+        },
+        {
+          "id": "sqjti8dxcKSvZJikd",
+          "author": "Vanessa Kosoy",
+          "description": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories fall short of these desiderata.\nA Theory of What?\nThe word \"agent\" is often used in the AI safety discourse and in other research communities, but the intended meaning and scope of this concept varies substantially. For the purpose of this sequence, I informally define an agent to be a system with inputs (\"observations\") and outputs (\"actions\") that is effective at steering its environment in the direction of particular preferences, for a large variety of different environments. To do so, it arguably has to create a sophisticated model of the environment\n      [1]\n    , and use this model to build a long-term plan. Moreover, it has to continu…",
+          "link": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents",
+          "publishedOn": "2026-11-04T11:25:12.000Z",
+          "wordCount": 39235,
+          "title": "Desiderata for the Theory of Agents",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "MuQDLAJyKJPFkw6q9",
           "author": "evhub",
