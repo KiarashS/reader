@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-08T04:13:29.731Z</updated>
+    <updated>2026-11-09T04:26:10.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ajeya: AI is dramatically accelerating AI research right now]]></title>
+        <id>8tL9f5HZxsTvn2LHp</id>
+        <link href="https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now"/>
+        <updated>2026-11-08T17:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Anthropic stated in their S1 that they “may imminently meet” the threshold of “dramatically accelerated progress due to AI” as defined in their Responsible Scaling Policy. In their latest RSP (effective July 2026), say this threshold will be met when:
+
+They observe or expect overall capabilities progress to be going twice as fast as the fastest sustained rate before AI was contributing much to AI R&D.
+This is plausibly attributable to AI automating AI R&D, rather than acceleration in compute or other inputs.
+
+For the last few months, some of my colleagues at METR have been working on a deep-access investigation to understand how much Anthropic is being accelerated by its AI systems. From my reading of their report and Anthropic’s RSP, it looks like the “dramatic accelera…]]></summary>
+        <author>
+            <name>Zach Stein-Perlman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Multi-Agent Systems with the OpenAI Agents SDK]]></title>
+        <id>https://towardsdatascience.com/?p=678368</id>
+        <link href="https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/"/>
+        <updated>2026-11-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Build an EV purchase adviser and a support agent in Python, then see how fan-out, pipelines, hierarchies, and swarms reuse the same building blocks.
+The post How to Build Multi-Agent Systems with the OpenAI Agents SDK appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on Take-Off Speeds and RSI]]></title>
+        <id>ft9hzw82v7FRDKmpn</id>
+        <link href="https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi"/>
+        <updated>2026-11-08T13:39:02.000Z</updated>
+        <summary type="html"><![CDATA[I created these notes for use when I facilitate AI safety courses. I'm sharing these notes early because this issue is topical and I suspect it is better to make an imperfect version available early rather than a much more polished version available later.
+Please note: some of this content was taken from Additional Course Context. I decided recently that the content on take-off speeds really belonged in the same document as the content on RSI, so I'll be releasing an new version of Additional Course Context at some point (to avoid spamming LW, it'll probably be Substack only; none of my work is paywalled). Some of the other content was taken from Notes on “We’re in Triage Mode for AI Safety”. This Miles' article has been removed from the governance course, so I was looking for a new home f…]]></summary>
+        <author>
+            <name>Chris_Leong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change One Monty Hall Rule and Five LLMs Still Say Switch]]></title>
+        <id>https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/</id>
+        <link href="https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/"/>
+        <updated>2026-11-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even with step-by-step reasoning, the models landed near 33% accuracy, and one quoted the host's rule correctly before ignoring it.
+The post Change One Monty Hall Rule and Five LLMs Still Say Switch appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval]]></title>
         <id>https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/</id>
@@ -3362,133 +3410,6 @@ The post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Sc
         <summary type="html"><![CDATA[I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.]]></summary>
         <author>
             <name>Nathan Lambert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?]]></title>
-        <id>https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/</id>
-        <link href="https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"/>
-        <updated>2026-10-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How a decision-first model can catch risky tool calls before they turn into real-world actions
-The post Can TypeSafe's Jev Make AI Agents Safer Without Another LLM? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impactful scheduling for GPU clusters]]></title>
-        <id>https://huggingface.co/blog/allenai/impactful-scheduling</id>
-        <link href="https://huggingface.co/blog/allenai/impactful-scheduling"/>
-        <updated>2026-10-09T15:20:29.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Ai2 on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Does the Money Go Across Long-Running Coding Agents?]]></title>
-        <id>https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/</id>
-        <link href="https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/"/>
-        <updated>2026-10-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The cost of control
-The post Where Does the Money Go Across Long-Running Coding Agents? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Daniel Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space]]></title>
-        <id>https://www.analyticsvidhya.com/?p=258141</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/10/embeddinggemma-2-multimodal-embeddings-guide/"/>
-        <updated>2026-10-09T13:23:19.000Z</updated>
-        <summary type="html"><![CDATA[EmbeddingGemma 2 launched on October 6, 2026 under Apache 2.0. It is a sub-1B model built on Gemma 4 that maps text, code, images, video and audio into one 768-dimensional space.  This article covers the architecture, the benchmarks, and runnable scripts to provide measured results.  Specifications Specification EmbeddingGemma 2 Base model Gemma 4 License Apache […]
-The post EmbeddingGemma 2: Text, Code, Images, Video and Audio in One Vector Space  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Sree Vamsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To the Moon and Back Again with Reid and Christina]]></title>
-        <id>44ef7fba-c3e4-11f1-9658-7b8f668a9ece</id>
-        <link href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/to-the-moon-and-back-again/"/>
-        <updated>2026-10-09T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Artemis II astronauts Reid Wiseman and Christina Koch reflect on their historic journey around the Moon, the moments that moved them, and what it’s like to come home after traveling farther than any humans before them. Episode 440.]]></summary>
-        <author>
-            <name>Houston We Have a Podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your First AI Agent with One Tool Call]]></title>
-        <id>https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/</id>
-        <link href="https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/"/>
-        <updated>2026-10-09T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AI Agents for Beginners, Part 1
-The post Build Your First AI Agent with One Tool Call appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Coding Benchmarks Stop Being Reliable and What to Build Instead]]></title>
-        <id>https://imerit.ai/?p=42594</id>
-        <link href="https://imerit.ai/resources/blog/when-coding-benchmarks-stop-being-reliable-and-what-to-build-instead/"/>
-        <updated>2026-10-09T11:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Coding benchmarks are leaking answers, not testing skills. See how contamination inflates scores and what a reliable replacement requires.
-The post When Coding Benchmarks Stop Being Reliable and What to Build Instead appeared first on iMerit.]]></summary>
-        <author>
-            <name>Srishty Sharon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Using AI. Start Hiring It.]]></title>
-        <id>https://towardsdatascience.com/stop-using-ai-start-hiring-it/</id>
-        <link href="https://towardsdatascience.com/stop-using-ai-start-hiring-it/"/>
-        <updated>2026-10-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI agents can now write more code than any of us can read. That changed how I think about AI.
-The post Stop Using AI. Start Hiring It. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune Llama 3 for Custom Tool Calling with Unsloth in Python]]></title>
-        <id>https://machinelearningmastery.com/?p=25393</id>
-        <link href="https://machinelearningmastery.com/how-to-fine-tune-llama-3-for-custom-tool-calling-with-unsloth-in-python/"/>
-        <updated>2026-10-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Llama 3 is a capable generalist, but that's exactly the problem when you need an agent that reliably outputs structured JSON for a specific API.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]></title>
-        <id>https://openai.com/index/sophos</id>
-        <link href="https://openai.com/index/sophos"/>
-        <updated>2026-10-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]></title>
-        <id>https://openai.com/index/asana-browser-agent</id>
-        <link href="https://openai.com/index/asana-browser-agent"/>
-        <updated>2026-10-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Industrial Robot Deployments Need Triage Programs as Much as Autonomous Vehicles Do]]></title>
-        <id>https://imerit.ai/?p=42579</id>
-        <link href="https://imerit.ai/resources/blog/why-industrial-robot-deployments-need-triage-programs-as-much-as-autonomous-vehicles-do/"/>
-        <updated>2026-10-08T14:15:16.000Z</updated>
-        <summary type="html"><![CDATA[See how industrial robot triage helps robotics teams identify, prioritize, and route rare production failures for human review.
-The post Why Industrial Robot Deployments Need Triage Programs as Much as Autonomous Vehicles Do appeared first on iMerit.]]></summary>
-        <author>
-            <name>Srishty Sharon</name>
         </author>
     </entry>
 </feed>
