@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/",
+          "author": "Nhu Hoang",
+          "description": "For anyone running an inference server: a zero-variance control, five traffic traces, and an engine-vs-scheduler split show where the gains come from.\nThe post Continuous Batching Beats Static and Dynamic by Up to 2.91× in vLLM appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/",
+          "publishedOn": "2026-11-09T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Continuous Batching Beats Static and Dynamic by Up to 2.91× in vLLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/ask-ai-to-refine-your-ideas-not-invent-them/",
+          "author": "Abdullahi Dattijo",
+          "description": "Studies of short stories, metaphors, and 486 participants point one way, an 800-person experiment points the other, and the author weighs both.\nThe post Ask AI to Refine Your Ideas, Not Invent Them appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ask-ai-to-refine-your-ideas-not-invent-them/",
+          "publishedOn": "2026-11-09T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Ask AI to Refine Your Ideas, Not Invent Them",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/",
+          "author": "Maksym Bilychenko",
+          "description": "A fisheries estimator from the 1890s, tested on 294 CUAD contracts, landed within 2 points of true recall for most agents with a 10% hand audit.\nThe post How to Estimate the Recall of AI Agents with Capture-Recapture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/",
+          "publishedOn": "2026-11-09T13:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Estimate the Recall of AI Agents with Capture-Recapture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/quantile-regression-caught-the-house-price-ols-missed-by-55k/",
+          "author": "Gustavo Santos",
+          "description": "On 88 house sales, OLS predicted $164K for a $219K home, while a 90% interval from 5th and 95th percentile models spanned $136K to $227K.\nThe post Quantile Regression Caught the House Price OLS Missed by $55K appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/quantile-regression-caught-the-house-price-ols-missed-by-55k/",
+          "publishedOn": "2026-11-09T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Quantile Regression Caught the House Price OLS Missed by $55K",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/?p=678368",
           "author": "Shuai Guo",
           "description": "Build an EV purchase adviser and a support agent in Python, then see how fan-out, pipelines, hierarchies, and swarms reuse the same building blocks.\nThe post How to Build Multi-Agent Systems with the OpenAI Agents SDK appeared first on Towards Data Science.",
@@ -990,26 +1030,6 @@
           "wordCount": null,
           "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
-          "author": "Thuwarakesh Murallie",
-          "description": "Add architectural guardrails around how agents read untrusted sources and use them in the workflow.\nThe post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
-          "publishedOn": "2026-10-10T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How Can AI Agents Read Untrusted Sources Safely?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
-          "author": "Utkarsh Mangal",
-          "description": "A one-line formula for how often an LLM's top token flips, and why identical\ncompletions fall apart after about a hundred tokens\nThe post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
-          "publishedOn": "2026-10-10T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Why Temperature 0 Isn't Deterministic",
-          "imageUrl": null
         }
       ]
     },
@@ -1215,6 +1235,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "publishedOn": "2026-11-09T15:05:57.000Z",
+          "wordCount": 1882,
+          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg"
+        },
+        {
+          "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "author": null,
+          "description": "A Blog post by Amazon on Hugging Face",
+          "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "publishedOn": "2026-11-09T12:34:29.000Z",
+          "wordCount": 2457,
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png"
+        },
         {
           "id": "https://huggingface.co/blog/allenai/toyblocks",
           "author": null,
@@ -1746,7 +1786,18 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed.xml",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+          "author": null,
+          "description": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies.\n h2 { border-bottom: 2px solid #003262; padding-bottom: 0.3rem; margin-bottom: 0.2rem; }\n.corl-day-sub { font-size: 0.8rem; color: #666; margin: 0 0 1em; }\n.corl-day-sub span + span::before { content: \"·\"; margin: 0 0.5em; color: #aaa; }\n\n.corl-session { display: grid; grid-template-columns: 7.5rem 1fr; gap: 1rem; padding: 1rem 0; border-top: 1px solid #eee; }\n.corl-session:first-of-type { border-top: 0; }\n.corl…",
+          "link": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+          "publishedOn": "2026-11-09T09:00:00.000Z",
+          "wordCount": 4223,
+          "title": "BAIR at CoRL 2026",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+        }
+      ]
     },
     {
       "title": "Setosa blog",
@@ -1992,6 +2043,16 @@
       "feedUrl": "https://imerit.net/feed/",
       "siteUrl": "https://imerit.ai/",
       "articles": [
+        {
+          "id": "https://imerit.ai/?p=42931",
+          "author": "Cadence SEO",
+          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post How to Curate Edge Cases and Rare Scenarios for Computer Vision Models appeared first on iMerit.",
+          "link": "https://imerit.ai/resources/blog/how-to-curate-edge-cases-and-rare-scenarios-for-computer-vision-models/",
+          "publishedOn": "2026-11-09T06:05:55.000Z",
+          "wordCount": 2903,
+          "title": "How to Curate Edge Cases and Rare Scenarios for Computer Vision Models",
+          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
+        },
         {
           "id": "https://imerit.ai/?p=42919",
           "author": "Cadence SEO",
@@ -2373,6 +2434,46 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "author": null,
+          "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "publishedOn": "2026-11-09T19:00:00.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/control-room",
+          "author": null,
+          "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+          "link": "https://openai.com/index/control-room",
+          "publishedOn": "2026-11-09T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/coderabbit-codex-daybreak",
+          "author": null,
+          "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+          "link": "https://openai.com/index/coderabbit-codex-daybreak",
+          "publishedOn": "2026-11-09T08:00:00.000Z",
+          "wordCount": null,
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/kuken",
+          "author": null,
+          "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+          "link": "https://openai.com/index/kuken",
+          "publishedOn": "2026-11-09T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/partnering-with-hacktron",
           "author": null,
@@ -3275,22 +3376,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/95f73e17-9e3c-49ea-8d4c-e0ae87c89257_3182x1790.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-          "author": "Nathan Lambert",
-          "description": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-          "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-          "publishedOn": "2026-10-09T21:33:47.000Z",
-          "wordCount": null,
-          "title": "I expect rapid progress but not towards general superintelligence",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png"
         }
       ]
     },
@@ -3299,6 +3384,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "wPrpnfaNL5JP9i6KT",
+          "author": "Buck",
+          "description": "(Thanks to @Goutham Nalagatla for discussion and for sitting with me and talking about it while I wrote it.)\nMETR recently released a report estimating that Anthropic is getting an overall 1.7x acceleration in AI capability progress as a result of AI accelerating their work. As many have noted (see e.g. Ajeya’s post), this 1.7x acceleration implies that research is being sped up by much more than 1.7x; Ajeya speculates 10x (which is similar to the ~12x uplift estimated by Anthropic staff).  That is, this result implies that researchers are producing about 10 times as many quality-adjusted results as they would without AI progress, or as they were a year or two ago.\nAnthropic researchers estimated that Mythos 5 caused 5x uplift, and we have access to Opus 5.5, which is somewhat better. (I d…",
+          "link": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift",
+          "publishedOn": "2026-11-09T18:02:01.000Z",
+          "wordCount": 24117,
+          "title": "Where is all the AI safety research uplift?",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "8tL9f5HZxsTvn2LHp",
           "author": "Zach Stein-Perlman",
