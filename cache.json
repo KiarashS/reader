@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/",
+          "author": "Utkarsh Mangal",
+          "description": "Three small open models, 150 MMLU questions each, five pushback styles: “That’s wrong” did more damage, and naming a wrong option was close to fatal.\nThe post “Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/",
+          "publishedOn": "2026-11-11T16:30:00.000Z",
+          "wordCount": null,
+          "title": "“Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+          "author": "Gursimar Singh",
+          "description": "A palace-hotel wedding week shows where assistants, copilots, agents, and orchestration fit, and why Gartner expects 40%+ of agentic AI projects to be cancelled.\nThe post AI Assistant vs. Copilot vs. Agent, and When to Use Each appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+          "publishedOn": "2026-11-11T15:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/",
+          "author": "Irfan Alghani Khalid",
+          "description": "A Sate Padang vision test and a Malaysia capital question show why the free, private model needs grounding and validation before it leaves prototyping.\nThe post How to Use Apple's fm CLI to Run On-Device LLMs From Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/",
+          "publishedOn": "2026-11-11T13:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Use Apple's fm CLI to Run On-Device LLMs From Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/",
+          "author": "Lambert Leong",
+          "description": "Trained on six PathMNIST tissues with a small KEEP adapter, it handled added labels without retraining, though a linear classifier hit 88% on familiar ones.\nThe post A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/",
+          "publishedOn": "2026-11-11T12:00:00.000Z",
+          "wordCount": null,
+          "title": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/",
           "author": "Ankur Tomar",
           "description": "Jev needs no training and at most three examples per intent; the open rebuild needs labels. Both still fall into the none-of-the-above trap.\nThe post Scikit-Learn Matched or Beat Jev's Calibration on BANKING77 appeared first on Towards Data Science.",
@@ -1030,26 +1070,6 @@
           "wordCount": null,
           "title": "How to Leverage NLP for Product Data Science",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/",
-          "author": "Mario Noioso",
-          "description": "Re-reading my own IBM patent on real-time concert feedback as what it actually was: an agentic loop with multimodal perception, memory-grounded inference, and a human in the loop. What it got right, and what a decade of hindsight teaches agent builders today.\nThe post We Specified an AI Agent in 2016. We Called It Analytics. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/",
-          "publishedOn": "2026-10-12T12:30:00.000Z",
-          "wordCount": null,
-          "title": "We Specified an AI Agent in 2016. We Called It Analytics.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/",
-          "author": "Abdullahi Dattijo",
-          "description": "Three vision AI models ignored the pretty image, yet GPT-4o invented answers and Claude kept answering B.\nThe post I Built a Trap for AI Image Judges. They Walked Into a Different One. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/",
-          "publishedOn": "2026-10-12T11:00:00.000Z",
-          "wordCount": null,
-          "title": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
-          "imageUrl": null
         }
       ]
     },
@@ -1207,16 +1227,6 @@
           "wordCount": 8496,
           "title": "Building a RAG Pipeline with LLM Embeddings and Scikit-learn",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25006",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn what the major AI agent benchmarks measure, how they differ from traditional model benchmarks, and how to use them...",
-          "link": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/",
-          "publishedOn": "2026-10-12T11:00:00.000Z",
-          "wordCount": 8315,
-          "title": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-ai-agent-benchmarks-swe-bench-gaia-webarena-feature.png"
         }
       ]
     },
@@ -1255,6 +1265,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/qvac/botpsy",
+          "author": null,
+          "description": "A Blog post by QVAC on Hugging Face",
+          "link": "https://huggingface.co/blog/qvac/botpsy",
+          "publishedOn": "2026-11-11T05:01:16.000Z",
+          "wordCount": 4005,
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/token-pooling",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/token-pooling",
+          "publishedOn": "2026-11-11T00:00:00.000Z",
+          "wordCount": 3147,
+          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "imageUrl": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png"
+        },
         {
           "id": "https://huggingface.co/blog/hub-gcp-marketplace",
           "author": null,
@@ -1812,16 +1842,6 @@
           "wordCount": 5406,
           "title": "Proof-based general-purpose computing with Magnetar",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/Magnetar-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1185936",
-          "author": "Ke Yang, Chenglong Wang, Michel Galley, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao",
-          "description": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.\nThe post Simulating student learning for better AI tutoring appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-          "publishedOn": "2026-10-12T16:00:00.000Z",
-          "wordCount": 5272,
-          "title": "Simulating student learning for better AI tutoring",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -2050,17 +2070,6 @@
           "title": "Week Ending 10.18.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6accadfc0fb19d0bc2798735",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m-ydkx9-xfl2g",
-          "publishedOn": "2026-10-12T09:53:51.000Z",
-          "wordCount": null,
-          "title": "Week Ending 10.11.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2092,6 +2101,16 @@
       "feedUrl": "https://learnopencv.com/feed/",
       "siteUrl": "https://learnopencv.com",
       "articles": [
+        {
+          "id": "https://learnopencv.com/?p=80473",
+          "author": "Oliver Hale",
+          "description": "Turn OpenCV 5 object detection into working applications: count traffic by lane and direction, monitor a parking lot from a drifting drone, and raise safety-zone alerts with dwell times and event logs, all on a CPU with the new OpenCV 5 DNN engine.\nOpenCV 5 Object Detection Use Cases: Traffic Counting, Parking Monitoring and Safety Zones first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/opencv-5-object-detection-use-cases/",
+          "publishedOn": "2026-11-11T16:16:03.000Z",
+          "wordCount": 11615,
+          "title": "OpenCV 5 Object Detection Use Cases: Traffic Counting, Parking Monitoring and Safety Zones",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/11/opencv5_use_cases_featured_thumbnail.jpg"
+        },
         {
           "id": "https://learnopencv.com/?p=80420",
           "author": "Oliver Hale",
@@ -2226,6 +2245,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258724",
+          "author": "Harsh Mishra",
+          "description": "Picture a Monday. Your AI coding agent fixes a payment bug and learns three things the hard way. On Tuesday, a new session starts for a similar bug. The agent has no idea about Monday. It reads an old runbook and makes the same mistake again. A bigger context window does not fix this. The […]\nThe post Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/ai-agent-team-memory-tencentdb/",
+          "publishedOn": "2026-11-11T12:24:34.000Z",
+          "wordCount": null,
+          "title": "Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258694",
           "author": "Mayank Chaturvedi",
@@ -2445,17 +2475,6 @@
           "title": "OpenAI Decisions API: What it is and how to use it?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258140",
-          "author": "Soumil Jain",
-          "description": "Imagine four people booking a ride to the same destination. If each person takes a separate taxi, four vehicles make the same trip. But if they travel together in a bus, everyone reaches the destination in a single trip. The bus carries more people at once and makes better use of the resources. Batching in […]\nThe post LLM Batching Explained: Static vs Dynamic vs Continuous Batching appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/llm-batching/",
-          "publishedOn": "2026-10-12T06:19:14.000Z",
-          "wordCount": null,
-          "title": "LLM Batching Explained: Static vs Dynamic vs Continuous Batching",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2501,6 +2520,36 @@
       "siteUrl": "https://openai.com/news",
       "articles": [
         {
+          "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "author": null,
+          "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "publishedOn": "2026-11-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "author": null,
+          "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+          "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "publishedOn": "2026-11-11T08:00:00.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/jiostar-vijay-seshadri",
+          "author": null,
+          "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+          "link": "https://openai.com/index/jiostar-vijay-seshadri",
+          "publishedOn": "2026-11-11T00:00:00.000Z",
+          "wordCount": null,
+          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
           "author": null,
           "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
@@ -2531,6 +2580,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://openai.com/index/singapore-airlines-travel-work",
+          "author": null,
+          "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+          "link": "https://openai.com/index/singapore-airlines-travel-work",
+          "publishedOn": "2026-11-10T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+          "imageUrl": null
+        },
+        {
           "id": "https://openai.com/index/ai-effect-on-freelance-work",
           "author": null,
           "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
@@ -2538,6 +2597,16 @@
           "publishedOn": "2026-11-10T07:00:00.000Z",
           "wordCount": null,
           "title": "Work at the Frontier: AI’s effect on freelance work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/cogent-security",
+          "author": null,
+          "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+          "link": "https://openai.com/index/cogent-security",
+          "publishedOn": "2026-11-10T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Cogent and OpenAI build cyber defense factories for enterprises",
           "imageUrl": null
         },
         {
@@ -3491,6 +3560,16 @@
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
         {
+          "id": "NFkj9J2BBLSjNuH5G",
+          "author": "owencb",
+          "description": "I used to think of \"automating alignment\" as a natural category. But when I tried to think through the strategic implications, I realised that it depends a lot on the type of work. I'm now thinking of it in three buckets:\n\nEmpirical alignment research: design and execution of alignment-relevant experiments (for a given notion of what we’re aiming for)\nConceptual alignment research: theoretical or judgement-driven work to improve our understanding of what we’re aiming for and how to achieve it (including how to measure it)\nDirect alignment work: making particular AI systems more aligned (including via inputs such as training data)\n\nIn the rest of this post I'll walk through my current takes on these in terms what’s needed for automation, how good or bad they look, what our priorities might …",
+          "link": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated",
+          "publishedOn": "2026-11-11T09:49:37.000Z",
+          "wordCount": 24682,
+          "title": "How I'm thinking about different types of automated alignment",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
           "id": "XNLhpWgzhF8GYZ4Er",
           "author": "annawang",
           "description": "This post reflects my own takes, and not that of my employer's. \nThis is a simple idea: before a new model can be deployed internally, you must first test it for a minimum, fixed period.\nYou can adjust various axes of this proposal:\n\nDuration of the wait: in calendar time, or until you fulfill some condition.\nWhat it blocks: external deployment, internal deployment, or the training of future checkpoints.\nWhen the fixed period starts: from the first checkpoint, the final checkpoint, or any checkpoint that is “sufficiently similar / representative” to the one that is ultimately deployed.\n\nOne concrete target that I like is: “No checkpoint may be used internally for purposes beyond safety testing, until at least X calendar days after its hash is filed with an auditor.”\nThis is one specific im…",
@@ -3719,26 +3798,6 @@
           "wordCount": 62535,
           "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/c9woewdY9ddsPqf3J/epzcbfh2ssdbzn6k376d"
-        },
-        {
-          "id": "sSHbioPoHWtm4zuti",
-          "author": "TurnTrout",
-          "description": "By Alex Turner, Amber Scorah, and Karl Koch. Op-ed written for Fortune.\nGiving independent evaluators “employee-like access” is “a great idea”, OpenAI CEO Sam Altman said on September 12th. Two weeks later, OpenAI president Greg Brockman signed the White House Accord on Super Intelligence which outlined the administration’s answer to growing fears about AI: the companies would police themselves. One of the accord’s four commitments, which President Trump called “morally binding,” was for companies to partner with an independent external auditor or evaluator.\nTwo days later, OpenAI fired three safety researchers, including Tomek Korbak, who had served as a point of contact for one of the independent evaluators investigating the Hugging Face incident. OpenAI promised to share information wit…",
-          "link": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising",
-          "publishedOn": "2026-10-12T16:51:50.000Z",
-          "wordCount": 20853,
-          "title": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "ZWSstGSwmaxTjQ8W7",
-          "author": "orthonormal",
-          "description": "Let's say we coordinate to pace the frontier, but we don't coordinate on an outright pause. What should the standard of pacing be?\nMy proposal for a minimum requirement: a lab cannot train the next generation of models (in terms of capabilities) until they have adequately[1] resolved all significant alignment issues in the present generation of models.\nYou don't launch a jet that goes at Mach 3 before you've figured out why your Mach 2 jet keeps crashing[2]. With any other kind of dangerous technology, we wouldn't accept \"shrug and move on\".\nThis proposal may appeal to many prosaic-alignment optimists and pessimists, because they usually differ on how easy it would be to fix current alignment issues with current techniques. \n\nProsaic-alignment optimists might expect that a moderate coordin…",
-          "link": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train",
-          "publishedOn": "2026-10-11T21:55:26.000Z",
-          "wordCount": 22912,
-          "title": "Minimum required pacing: finish aligning it before you train the next one",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
         }
       ]
     }
