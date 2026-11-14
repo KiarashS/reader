@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/",
+          "author": "Ankur Tomar",
+          "description": "On 200 ToolRet questions and up to 3,794 tools, BM25 ran about 40x faster than BGE-large on just a CPU, and full tool docs made it the best setup tested.\nThe post Keyword Search Tied an 8B Embedding Model at Picking Agent Tools appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/",
+          "publishedOn": "2026-11-13T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Keyword Search Tied an 8B Embedding Model at Picking Agent Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/",
+          "author": "Thomas Reid",
+          "description": "Practical code for classifying fabric against reference photos, scoring product sharpness, cropping shipping labels, and spotting subtle car damage.\nThe post How Jev Makes Decisions About Images, With 4 Python Examples appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/",
+          "publishedOn": "2026-11-13T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How Jev Makes Decisions About Images, With 4 Python Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
+          "author": "Fiona Victoria",
+          "description": "A PhD student in ML and ecology on why faster code, experiments, and drafts don't fix data with a backstory, and three predictions for how labs will change.\nThe post What AI Agents Speed Up in PhD Research, and What They Can't appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
+          "publishedOn": "2026-11-13T13:30:00.000Z",
+          "wordCount": null,
+          "title": "What AI Agents Speed Up in PhD Research, and What They Can't",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/",
+          "author": "Shuai Guo",
+          "description": "Gemma 4 E2B drafts the replies, Bespoke Labs' Nimble 9B picks accept, revise, or human review, and only flagged questions get a focused retry.\nThe post How to Check Local LLM Output with Ollama, Gemma 4, and Nimble appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/",
+          "publishedOn": "2026-11-13T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
           "author": "Abdullahi Dattijo",
           "description": "A reproducible test of BM25, embeddings, and parent documents shows why author-written evals overrate search, and why answer position in context matters.\nThe post RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M appeared first on Towards Data Science.",
@@ -1030,56 +1070,6 @@
           "wordCount": null,
           "title": "I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value.",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
-          "author": "Himanshu Sharma",
-          "description": "It only helps when your models make different mistakes.\nThe post Does Stacking Beat Your Best Model? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
-          "publishedOn": "2026-10-14T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Does Stacking Beat Your Best Model?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/",
-          "author": "Nikhil Dasari",
-          "description": "Understanding how words become related in a learned vector space\nThe post How Do Word Embeddings Capture Relationships Between Words? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/",
-          "publishedOn": "2026-10-14T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How Do Word Embeddings Capture Relationships Between Words?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
-          "author": "Ioannis Christofilogiannis",
-          "description": "Hospitals, banks, and edge devices can agree on which features matter by sharing votes instead of rows, runnable in NVIDIA FLARE and Flower\nThe post Voting on Features: Federated Feature Selection Without Sharing Data appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
-          "publishedOn": "2026-10-14T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Voting on Features: Federated Feature Selection Without Sharing Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
-          "author": "Erika Gomes-Gonçalves",
-          "description": "A technical reflection on why data scientists need software engineering principles when AI agents write code.\nThe post A Scaffold at the Gate: Building AI Applications That Can Evolve appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
-          "publishedOn": "2026-10-14T11:00:00.000Z",
-          "wordCount": null,
-          "title": "A Scaffold at the Gate: Building AI Applications That Can Evolve",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
-          "author": "Gursimar Singh",
-          "description": "Agents got good. The hard part now is everything around them.\nThe post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
-          "publishedOn": "2026-10-13T18:28:09.000Z",
-          "wordCount": null,
-          "title": "Your Agent Doesn't Need More Freedom",
-          "imageUrl": null
         }
       ]
     },
@@ -1217,16 +1207,6 @@
           "wordCount": 8479,
           "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chunking-strategy-selection-cover-1024x576.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25382",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn how to build a custom LLM evaluation harness in Python from scratch, structured around four modular components that give...",
-          "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
-          "publishedOn": "2026-10-14T11:00:00.000Z",
-          "wordCount": 8192,
-          "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-custom-llm-evaluation-harness-python-scratch-feature.png"
         }
       ]
     },
@@ -1265,6 +1245,36 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "author": null,
+          "description": "A Blog post by NVIDIA on Hugging Face",
+          "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "publishedOn": "2026-11-13T18:00:39.000Z",
+          "wordCount": 2366,
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
+        },
+        {
+          "id": "https://huggingface.co/blog/allenai/xybench",
+          "author": null,
+          "description": "A Blog post by Ai2 on Hugging Face",
+          "link": "https://huggingface.co/blog/allenai/xybench",
+          "publishedOn": "2026-11-13T17:02:35.000Z",
+          "wordCount": 1663,
+          "title": "XYBench: Helping with the problem behind the question",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "author": null,
+          "description": "A Blog post by ggml-org on Hugging Face",
+          "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "publishedOn": "2026-11-13T14:05:22.000Z",
+          "wordCount": 1174,
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png"
+        },
         {
           "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
           "author": null,
@@ -1734,26 +1744,6 @@
           "wordCount": 3819,
           "title": "Welcome FLUX.3 Image Klein in Diffusers",
           "imageUrl": "https://huggingface.co/blog/assets/flux3/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "publishedOn": "2026-10-14T16:12:42.000Z",
-          "wordCount": 1159,
-          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Y8t8GnfI2lUa40iX4_sxA.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-          "author": null,
-          "description": "A Blog post by Liquid AI on Hugging Face",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-          "publishedOn": "2026-10-13T17:05:48.000Z",
-          "wordCount": 2044,
-          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png"
         }
       ]
     },
@@ -1979,6 +1969,24 @@
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
         {
+          "id": "8ce43bbe-df71-11f1-843f-33ccad1cb5f6",
+          "author": null,
+          "description": "NASA astronaut Nichole Stilwell and Acting Human Resources Director Tamsin Abotteen discuss the astronaut application process and what it takes to join NASA’s next class of explorers. Episode 445.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/apply-to-be-a-moonwalker/",
+          "publishedOn": "2026-11-13T14:50:00.000Z",
+          "wordCount": null,
+          "title": "Apply to be a Moonwalker",
+          "itunes": {
+            "duration": "2488"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1369565567.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "0c3cbec0-d9ed-11f1-aa44-6f7280e097f8",
           "author": null,
           "description": "NASA’s Houston We Have a Podcast kicks off a new series in collaboration with White Sands Test Facility, introducing series producer and host Kathryn Martinez and exploring the facility’s unique capabilities. Episode 444",
@@ -2113,18 +2121,7 @@
       "title": "Machine Learns",
       "feedUrl": "https://erogol.com/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://erogol.com/2026/10/14/fish-audio-drama-3-a-35b-moe-tts-whose-codebook-decoder-attends-over-all-past-frames",
-          "author": null,
-          "description": "Drama 3 architecture. Shapes and parameter counts from config.json and the safetensors headers; flow from arXiv 2610.18010.\nA hybrid Gated DeltaNet + MoE backbone, a 13-layer codebook-MTP audio decoder, and RL with one learned preference reward. Open weights, about 3B active in the backbone.\nFish Audio released Drama 3 on 13 October 2026 with weights, a technical report (arXiv 2610.18010) and launch-day serving in SGLang-Omni. It is a 35.9B-parameter speech model initialized from Qwen3.5-35B-A3B, with about 3B active per token in the backbone. Fish Audio calls it the largest open-weight speech generation model by total parameters. The new part is the audio decoder. Each acoustic codebook gets its own full-width layer that attends causally over the whole sequence, reference audio included. …",
-          "link": "https://erogol.com/2026/10/14/fish-audio-drama-3-a-35b-moe-tts-whose-codebook-decoder-attends-over-all-past-frames",
-          "publishedOn": "2026-10-13T22:00:00.000Z",
-          "wordCount": 2408,
-          "title": "Fish Audio Drama 3: a 35B MoE TTS whose codebook decoder attends over all past frames",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "LearnOpenCV",
@@ -2272,16 +2269,6 @@
           "wordCount": 3433,
           "title": "What Is Data Curation for AI? A Complete Guide to Building High-Quality Multimodal Training Data",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=42419",
-          "author": "Sujana Urs",
-          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Can You Trust Synthetic Data? Validating Multimodal Synthetic Datasets for Reliable Models appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/validating-multimodal-synthetic-datasets-for-reliable-models/",
-          "publishedOn": "2026-10-14T06:16:10.000Z",
-          "wordCount": 2764,
-          "title": "Can You Trust Synthetic Data? Validating Multimodal Synthetic Datasets for Reliable Models",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
         }
       ]
     },
@@ -2290,6 +2277,28 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258851",
+          "author": "Soumil Jain",
+          "description": "Most agents demo look great. You type a request, the agent calls a few tools, and a clean answer comes back. Then real users show up with a real data, and things break in ways you never tested. The agent picks the wrong tool, loops on a failling API, leak data it should not see, […]\nThe post How to Evaluate AI Agents For Enterprise appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/how-to-evaluate-ai-agents-for-enterprise/",
+          "publishedOn": "2026-11-13T13:42:09.000Z",
+          "wordCount": null,
+          "title": "How to Evaluate AI Agents For Enterprise",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258888",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Google has introduced Gemini 4 Hydrogen, its latest AI model designed for faster execution, coding, and agentic workflows. Released on November 12, 2026, the model is rolling out across Google Search, the Gemini app, and developer tools. Alongside it, Google introduced Antigravity Orchestrator, which can switch between Hydrogen and a more powerful reasoning model within […]\nThe post Gemini 4 Hydrogen: Hands-On Review appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/gemini-4-hydrogen-review/",
+          "publishedOn": "2026-11-13T13:17:14.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Hydrogen: Hands-On Review",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258724",
           "author": "Harsh Mishra",
@@ -2498,17 +2507,6 @@
           "title": "How to Use Jev AI: A Hands-On Guide to TypeSafe’s System One Model",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258322",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Google’s Gemini 4 Argon promises stronger capabilities across creative, analytical, and document-heavy tasks. But how well does it perform in practice? From generating videos and building websites to analyzing data and reconciling conflicting documents, the model offers plenty to explore. In our hands-on tests, Argon delivered useful results but also introduced an unsupported claim in […]\nThe post Gemini 4 Argon Hands-On Review: Capabilities and Performance appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/",
-          "publishedOn": "2026-10-14T04:12:50.000Z",
-          "wordCount": null,
-          "title": "Gemini 4 Argon Hands-On Review: Capabilities and Performance",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2553,6 +2551,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-wallet",
+          "author": null,
+          "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "publishedOn": "2026-11-13T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing ChatGPT Wallet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/shield",
+          "author": null,
+          "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "publishedOn": "2026-11-13T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/business/customer-stories/amplitude",
           "author": null,
@@ -3462,56 +3480,6 @@
           "wordCount": null,
           "title": "Sullivan & Cromwell brings legal expertise into agreement review",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/amp-beyond-coding",
-          "author": null,
-          "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-          "link": "https://openai.com/index/amp-beyond-coding",
-          "publishedOn": "2026-10-14T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/sentinelone",
-          "author": null,
-          "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-          "link": "https://openai.com/index/sentinelone",
-          "publishedOn": "2026-10-14T12:00:00.000Z",
-          "wordCount": null,
-          "title": "SentinelOne cuts malware analysis from weeks to hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/third-moment-research",
-          "author": null,
-          "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-          "link": "https://openai.com/index/third-moment-research",
-          "publishedOn": "2026-10-14T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/block-ai-powered-security",
-          "author": null,
-          "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-          "link": "https://openai.com/index/block-ai-powered-security",
-          "publishedOn": "2026-10-14T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How Block is building AI-powered security with OpenAI technology",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "author": null,
-          "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-          "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "publishedOn": "2026-10-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The EU’s next chapter in AI is agentic",
-          "imageUrl": null
         }
       ]
     },
@@ -3852,16 +3820,6 @@
           "wordCount": 21178,
           "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "c9woewdY9ddsPqf3J",
-          "author": "peterkirgis",
-          "description": "Executive Summary\n\nHuman societies exhibit broad shifts in values and norms over time, often driven by moral disagreements.\nOne way of understanding moral progress is the resolution of these disagreements through a process of reflection by rational agents.\nFrontier AI companies use documents such as constitutions, model specs, and system prompts to guide the moral orientation of AI systems.\nIn this experiment, we simulate value reflection in LLMs by asking them to edit these documents. We provide the model with the document, ask it to make a substantive edit, then provide the edited version back again to the model for further edits, presented as the original.\nAcross 20 successive rounds, we find that Claude models assign themselves with increasingly more moral agency. That is, they add sec…",
-          "link": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
-          "publishedOn": "2026-10-13T22:19:04.000Z",
-          "wordCount": 62535,
-          "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/c9woewdY9ddsPqf3J/epzcbfh2ssdbzn6k376d"
         }
       ]
     }
