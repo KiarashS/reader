@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/",
+          "author": "Partha Sarkar",
+          "description": "How autonomous agents turn static knowledge graphs into living Context Graphs that remember decisions, user intent, and operational history\nThe post A Practitioner's Guide to 6 Agentic GraphRAG Patterns appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/",
+          "publishedOn": "2026-11-15T15:00:00.000Z",
+          "wordCount": null,
+          "title": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
+          "author": "Adrian Panasiewicz",
+          "description": "Local and global variants, Fisher estimation, epsilon-ball sampling, and log-space stability, with PennyLane code and a time-series experiment.\nThe post Computing Effective Dimension for Quantum ML Models in PyTorch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
+          "publishedOn": "2026-11-15T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/",
           "author": "Ananya Bhattacharyya",
           "description": "A step-by-step guide to transition matrices, the Chapman–Kolmogorov equation, and stationary distributions, built around a three-state writing example.\nThe post How to Build a Markov Chain in Python With NumPy appeared first on Towards Data Science.",
@@ -1010,46 +1030,6 @@
           "wordCount": null,
           "title": "When EEG Models See the Same People in Training and Testing",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/",
-          "author": "Emmimal P Alexander",
-          "description": "I rated my confidence 4 out of 5, then couldn’t find a planted bug in 8 minutes. Here is the tool, the run, and its limits.\nThe post Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/",
-          "publishedOn": "2026-10-16T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/",
-          "author": "Benjamin Nweke",
-          "description": "The tool found the right passage but missed the mismatch, and the audit shows where rule-based checks break down.\nThe post I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/",
-          "publishedOn": "2026-10-16T14:00:00.000Z",
-          "wordCount": null,
-          "title": "I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/deploying-data-science-tools-part-1/",
-          "author": "Jarom Hulet",
-          "description": "Getting your data science code running anywhere\nThe post Deploying Data Science Tools: Part 1 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/deploying-data-science-tools-part-1/",
-          "publishedOn": "2026-10-16T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Deploying Data Science Tools: Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-reran-my-python-314-jit-benchmarks-on-python-315/",
-          "author": "Thomas Reid",
-          "description": "The same three workloads show a much stronger JIT, but it still doesn't help every program\nThe post I Reran My Python 3.14 JIT Benchmarks on Python 3.15 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-reran-my-python-314-jit-benchmarks-on-python-315/",
-          "publishedOn": "2026-10-16T11:00:00.000Z",
-          "wordCount": null,
-          "title": "I Reran My Python 3.14 JIT Benchmarks on Python 3.15",
-          "imageUrl": null
         }
       ]
     },
@@ -1167,16 +1147,6 @@
           "wordCount": 8333,
           "title": "Descriptors and Controlled Attributes in Python",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-descriptors-and-controlled-attributes-feeature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25580",
-          "author": "Nahla Davies",
-          "description": "Laziness is not a religion.",
-          "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
-          "publishedOn": "2026-10-16T11:00:00.000Z",
-          "wordCount": 9796,
-          "title": "Iterators and Generators for Memory-Efficient Processing",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-iterators-and-generators-for-memory-efficient-processing-feature.png"
         }
       ]
     },
@@ -1654,36 +1624,6 @@
           "wordCount": 1920,
           "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
           "imageUrl": "https://huggingface.co/blog/assets/hf-torchneuron/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "publishedOn": "2026-10-16T01:44:47.000Z",
-          "wordCount": 3166,
-          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/reflection-beam",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/reflection-beam",
-          "publishedOn": "2026-10-16T00:00:00.000Z",
-          "wordCount": 4786,
-          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-          "imageUrl": "https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "author": null,
-          "description": "A Blog post by IBM Granite on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "publishedOn": "2026-10-15T20:34:01.000Z",
-          "wordCount": 1505,
-          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png"
         }
       ]
     },
@@ -1969,24 +1909,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "04ba5ab8-c8db-11f1-896a-63bcf4cc8ae7",
-          "author": null,
-          "description": "Artemis II astronauts Victor Glover and Jeremy Hansen reflect on memorable mission moments, new perspectives, and what comes next after their historic journey around the Moon. Episode 441.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/reflections-after-artemis-ii",
-          "publishedOn": "2026-10-16T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Reflections After Artemis II with Victor and Jeremy",
-          "itunes": {
-            "duration": "3617"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6740428946.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2067,16 +1989,6 @@
           "wordCount": 11615,
           "title": "OpenCV 5 Object Detection Use Cases: Traffic Counting, Parking Monitoring and Safety Zones",
           "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/11/opencv5_use_cases_featured_thumbnail.jpg"
-        },
-        {
-          "id": "https://learnopencv.com/?p=80420",
-          "author": "Oliver Hale",
-          "description": "A hands-on tour of YOLO26 depth estimation: metric depth in meters from one image, with runnable code for distance, zones, blur, 3D, video and fine-tuning.\nYOLO26 Depth Estimation: Metric Monocular Depth and What You Can Build With It first appeared on LearnOpenCV.",
-          "link": "https://learnopencv.com/yolo26-depth-estimation-metric-monocular-depth-and-what-you-can-build-with-it/",
-          "publishedOn": "2026-10-16T02:32:53.000Z",
-          "wordCount": null,
-          "title": "YOLO26 Depth Estimation: Metric Monocular Depth and What You Can Build With It",
-          "imageUrl": null
         }
       ]
     },
@@ -2197,6 +2109,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258844",
+          "author": "Aayush Tyagi",
+          "description": "If you spent any time on GitHub Trending in October, you will have noticed that models were barely the story at all. People starred the layers wrapped around them. These include agent runtimes, skills, gateways, inference engines, and auditing attempts. In fact, one repository added more than 415,000 stars in four weeks. Furthermore, we tracked […]\nThe post Top 10 GitHub Repositories Trending in October 2026 appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/top-github-repositories-october-2026/",
+          "publishedOn": "2026-11-15T15:03:20.000Z",
+          "wordCount": null,
+          "title": "Top 10 GitHub Repositories Trending in October 2026",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258851",
           "author": "Soumil Jain",
@@ -2405,17 +2328,6 @@
           "title": "Reverse Engineer Anything (REA): Can AI Really Crack Closed Code?",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258244",
-          "author": "Harsh Mishra",
-          "description": "The majority of hallucination checks begin following the initial writing of an answer by the LLM. We then hold someone up to a second standard of judgment, or we hand over dangerous cases to a person. That works but that is looking at the solution only as one-off.   What if the LLM generates five different […]\nThe post JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/rag-hallucination-filter-using-jev/",
-          "publishedOn": "2026-10-16T05:58:08.000Z",
-          "wordCount": null,
-          "title": "JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2460,6 +2372,26 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "author": null,
+          "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "publishedOn": "2026-11-15T22:00:01.000Z",
+          "wordCount": null,
+          "title": "A step toward defining the Standard Model on a lattice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/our-new-blog-for-science",
+          "author": null,
+          "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "publishedOn": "2026-11-15T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Our new blog for science",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-chatgpt-wallet",
           "author": null,
@@ -3319,56 +3251,6 @@
           "wordCount": null,
           "title": "How Itaú is building generative AI for its entire customer base",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/localiza-generative-ai",
-          "author": null,
-          "description": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-          "link": "https://openai.com/index/localiza-generative-ai",
-          "publishedOn": "2026-10-16T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How Localiza reorganized work around generative AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/grupo-boticario",
-          "author": null,
-          "description": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
-          "link": "https://openai.com/index/grupo-boticario",
-          "publishedOn": "2026-10-16T00:00:00.000Z",
-          "wordCount": null,
-          "title": "How Grupo Boticário uses AI to strengthen human connections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/benefit-street-partners",
-          "author": null,
-          "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-          "link": "https://openai.com/index/benefit-street-partners",
-          "publishedOn": "2026-10-16T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Benefit Street Partners answers questions faster with Codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "author": null,
-          "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "publishedOn": "2026-10-16T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "author": null,
-          "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "publishedOn": "2026-10-15T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Bringing GPT-Rosalind to academic research labs",
-          "imageUrl": null
         }
       ]
     },
@@ -3705,16 +3587,6 @@
           "wordCount": 116470,
           "title": "Deconfusing Corrigibility",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "Rct9zd4Nd7H8Xzxz8",
-          "author": "Zhiyang Xun",
-          "description": "Linkpost to arXiv: https://arxiv.org/abs/2610.02557\nSummary: One promising approach to scalable oversight is AI debate, which seeks to leverage a debate between two powerful AIs to break complex questions down into simpler claims that can be easily judged directly. Theoretical work on debate aims to design protocols (i.e., rules of the debate game) that provide rigorous guarantees on correctness, and the current best protocol works for all problems that have sufficiently stable decompositions into subproblems. We design a new protocol, FBS Debate, for this same class of problems that improves on the prior work: correctness holds in a worst-case rather than an average-case sense, and for a stronger equilibrium concept. We also prove that no protocol for this class of problems can outperform…",
-          "link": "https://www.alignmentforum.org/posts/Rct9zd4Nd7H8Xzxz8/a-simpler-and-better-debate-protocol-for-scalable-oversight",
-          "publishedOn": "2026-10-16T02:48:27.000Z",
-          "wordCount": 27314,
-          "title": "A Simpler and Better Debate Protocol for Scalable Oversight",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/vio4hgrk09kqd0sts2ae"
         }
       ]
     }
