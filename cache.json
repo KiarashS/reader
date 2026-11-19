@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
+          "author": "Stephanie Kirmer",
+          "description": "Managing Security When You’re Deploying AI, Part 1: Compromised credentials, salaries inferred from budgets, and doctored documents show why agents need permission checks before the model ever sees the data.\nThe post How AI Agents Become a Tool for Attackers, and How to Stop It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
+          "publishedOn": "2026-11-18T16:30:00.000Z",
+          "wordCount": null,
+          "title": "How AI Agents Become a Tool for Attackers, and How to Stop It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/",
+          "author": "Tomoharu Hayakawa",
+          "description": "Starting from Air Canada's chatbot case, a tour of Logic-LM, Agent-C, and Amazon's checks shows the solver is sound but the English-to-logic step is not.\nThe post Neurosymbolic Agents Explained, With a Z3 Example in Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/",
+          "publishedOn": "2026-11-18T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Neurosymbolic Agents Explained, With a Z3 Example in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/",
+          "author": "Ivan Gorban",
+          "description": "On 1 million simulated customers, calibrated Qini scored a Linear DR learner 0.0856 against 0.0826 for the true-CATE ranking that should have won.\nThe post When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/",
+          "publishedOn": "2026-11-18T13:30:00.000Z",
+          "wordCount": null,
+          "title": "When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-estimate-dose-response-curves-when-doubleml-falls-short/",
+          "author": "Ryan OSullivan",
+          "description": "Simulations test DoubleML against Kennedy's doubly robust estimator, with partial pooling across 200 stores and a DiD fix for hidden confounders.\nThe post How to Estimate Dose-Response Curves When DoubleML Falls Short appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-estimate-dose-response-curves-when-doubleml-falls-short/",
+          "publishedOn": "2026-11-18T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Estimate Dose-Response Curves When DoubleML Falls Short",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
           "author": "Eivind Kjosbakken",
           "description": "Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling.\nThe post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on Towards Data Science.",
@@ -1030,46 +1070,6 @@
           "wordCount": null,
           "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
-          "author": "Benjamin Nweke",
-          "description": "A million-token output window changes what you can hand a model in one go, and the benchmarks and the bill show who it actually suits.\nThe post Welcome to Google Gemini 4 Argon appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
-          "publishedOn": "2026-10-19T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Welcome to Google Gemini 4 Argon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
-          "author": "Devashish Thakar",
-          "description": "ML model adoption doesn't stop with acceptance of accuracy; it starts there.\nThe post Can Conformal Prediction Take You from Accurate to Reliable Machine Learning? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
-          "publishedOn": "2026-10-19T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
-          "author": "Renish Joshi",
-          "description": "Testing sensor reduction, feature ranking, and generalization to unseen\nparticipants\nThe post How Many EEG Channels Do You Actually Need? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
-          "publishedOn": "2026-10-19T12:30:00.000Z",
-          "wordCount": null,
-          "title": "How Many EEG Channels Do You Actually Need?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/ai-harms-and-their-technical-causes/",
-          "author": "Stephanie Kirmer",
-          "description": "How technical choices can lead to safety failures, and what to do differently\nThe post AI Harms and Their Technical Causes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-harms-and-their-technical-causes/",
-          "publishedOn": "2026-10-19T11:00:00.000Z",
-          "wordCount": null,
-          "title": "AI Harms and Their Technical Causes",
-          "imageUrl": null
         }
       ]
     },
@@ -1177,16 +1177,6 @@
           "wordCount": 9302,
           "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/MLM-Shittu-pgvector-vs.-Dedicated-Vector-Databases-A-Production-Benchmark-scaled.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25387",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn what Python descriptors are and how to use them to build three types of controlled attributes: validated, computed, and...",
-          "link": "https://machinelearningmastery.com/descriptors-and-controlled-attributes/",
-          "publishedOn": "2026-10-19T11:00:15.000Z",
-          "wordCount": 8333,
-          "title": "Descriptors and Controlled Attributes in Python",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-descriptors-and-controlled-attributes-feeature.png"
         }
       ]
     },
@@ -1225,6 +1215,56 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "author": null,
+          "description": "A Blog post by RadixArk on Hugging Face",
+          "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "publishedOn": "2026-11-18T19:54:56.000Z",
+          "wordCount": 1555,
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "publishedOn": "2026-11-18T18:53:43.000Z",
+          "wordCount": null,
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "imageUrl": null
+        },
+        {
+          "id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "publishedOn": "2026-11-18T15:00:23.000Z",
+          "wordCount": null,
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://huggingface.co/blog/moe-expert-streaming",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/moe-expert-streaming",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": null,
+          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://huggingface.co/blog/rumble-2-flash",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/rumble-2-flash",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "imageUrl": null
+        },
         {
           "id": "https://huggingface.co/blog/openrouter",
           "author": null,
@@ -1664,16 +1704,6 @@
           "wordCount": 2567,
           "title": "MPS in PyTorch 2.15",
           "imageUrl": "https://huggingface.co/blog/assets/mps-pytorch-2-15/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/hf-torchneuron",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/hf-torchneuron",
-          "publishedOn": "2026-10-19T00:00:00.000Z",
-          "wordCount": 1920,
-          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-          "imageUrl": "https://huggingface.co/blog/assets/hf-torchneuron/thumbnail.png"
         }
       ]
     },
@@ -2030,17 +2060,6 @@
           "title": "Week Ending 10.25.2026",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6ad5fa709a15c943a5a5c2f5",
-          "author": "Craig Smith",
-          "description": "Newly published papers and discussions around them.",
-          "link": "https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m-ydkx9-xfl2g-mca6f",
-          "publishedOn": "2026-10-19T11:10:07.000Z",
-          "wordCount": null,
-          "title": "Week Ending 10.18.2026",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2192,16 +2211,6 @@
           "wordCount": 2493,
           "title": "How Small Data Curation Errors Cascade into Silent Model Failures",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=42635",
-          "author": "Cadence SEO",
-          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post Why High-Stakes Multimodal AI Needs Expert-in-the-Loop Data Curation appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/why-high-stakes-multimodal-ai-needs-expert-in-the-loop-data-curation/",
-          "publishedOn": "2026-10-19T08:00:29.000Z",
-          "wordCount": 2492,
-          "title": "Why High-Stakes Multimodal AI Needs Expert-in-the-Loop Data Curation",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
         }
       ]
     },
@@ -2210,6 +2219,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=258966",
+          "author": "Sree Vamsi",
+          "description": "Claude has become one of the most widely used AI tools, and stock market investors are no exception. Many already use it to research companies, read financial results and follow market news. Now, Claude can go a step further by connecting directly to your trading account. Brokers like Zerodha, Groww, Upstox, Dhan and FYERS offer […]\nThe post How to Use Claude for Stock Research, Portfolio Reviews and Trades appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/connect-demat-account-claude-stocks/",
+          "publishedOn": "2026-11-18T12:39:46.000Z",
+          "wordCount": null,
+          "title": "How to Use Claude for Stock Research, Portfolio Reviews and Trades",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258908",
           "author": "Riya Bansal",
@@ -2418,17 +2438,6 @@
           "title": "10 Free Open Source Alternatives to Paid Software",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258285",
-          "author": "Janvi Kumari",
-          "description": "An AI coding agent can write a function in seconds. But a working feature takes more than generated code. The agent needs to understand the project, find the right files, use tools safely, and check whether its changes work.  A model on its own does none of that. It sees only the text it is […]\nThe post A Practical Guide to Harness Engineering: Building the System Around the Model  appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/",
-          "publishedOn": "2026-10-19T06:18:20.000Z",
-          "wordCount": null,
-          "title": "A Practical Guide to Harness Engineering: Building the System Around the Model",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2473,6 +2482,76 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/the-silent-consensus",
+          "author": null,
+          "description": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+          "link": "https://openai.com/index/the-silent-consensus",
+          "publishedOn": "2026-11-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The Silent Consensus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "author": null,
+          "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "publishedOn": "2026-11-18T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Research acceleration: The jagged frontier",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/sumitomo-life",
+          "author": null,
+          "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "publishedOn": "2026-11-18T08:00:00.000Z",
+          "wordCount": null,
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/inside-the-codex-sandbox",
+          "author": null,
+          "description": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+          "link": "https://openai.com/index/inside-the-codex-sandbox",
+          "publishedOn": "2026-11-18T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Inside the Codex sandbox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/managing-frontier-ai-risk",
+          "author": null,
+          "description": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+          "link": "https://openai.com/index/managing-frontier-ai-risk",
+          "publishedOn": "2026-11-18T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Managing frontier AI risk: From training to deployment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "author": null,
+          "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "author": null,
+          "description": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+          "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Advancing chip design with OpenAI models",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "author": null,
@@ -3502,16 +3581,6 @@
           "wordCount": null,
           "title": "OpenAI acquires Orchestra Bio",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/low-resource-programming-languages",
-          "author": null,
-          "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-          "link": "https://openai.com/index/low-resource-programming-languages",
-          "publishedOn": "2026-10-19T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Advancing coding in low‑resource programming languages",
-          "imageUrl": null
         }
       ]
     },
@@ -3623,6 +3692,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "nvrFYAwciyyj9T5ir",
+          "author": "Cole Wyeth",
+          "description": "Linkpost for https://arxiv.org/html/2611.14454v1\nOur PIBBSS fellow Damini Kusum wrote an excellent paper on prediction with reflective oracle Solomonoff Induction (rOSI). \nReflective oracles are best known for their game-theoretic applications, where they are often dismissed because \"why would all players choose the same reflective oracle?\"\nIt turns out that reflective oracles can also be used to construct a version of Solomonoff induction (called rOSI) with very nice sequence prediction properties - roughly speaking, it can learn to extract computable structure from (partly) uncomputable sequences. In fact, its properties are quite reminiscent of logical induction, but this paper is much shorter and more accessible. In this context, there is only one \"player\" to choose an oracle, which is just a fixed-point (though you can sort of consider the set of hypotheses entertained by that player as subplayers who share the oracle).  \nI think this paper is the clearest exposition of a very neat but previously obscure idea in agent foundations: self-reflection can overcome unrealizability. \n\nDiscuss",
+          "link": "https://www.alignmentforum.org/posts/nvrFYAwciyyj9T5ir/solomonoff-induction-with-reflective-oracles",
+          "publishedOn": "2026-11-19T04:36:27.000Z",
+          "wordCount": 17013,
+          "title": "Solomonoff induction with reflective oracles",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "NFkj9J2BBLSjNuH5G",
           "author": "owencb",

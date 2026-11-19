@@ -2,10 +2,197 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-18T05:45:22.701Z</updated>
+    <updated>2026-11-19T05:47:01.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solomonoff induction with reflective oracles]]></title>
+        <id>nvrFYAwciyyj9T5ir</id>
+        <link href="https://www.alignmentforum.org/posts/nvrFYAwciyyj9T5ir/solomonoff-induction-with-reflective-oracles"/>
+        <updated>2026-11-19T04:36:27.000Z</updated>
+        <summary type="html"><![CDATA[Linkpost for https://arxiv.org/html/2611.14454v1
+Our PIBBSS fellow Damini Kusum wrote an excellent paper on prediction with reflective oracle Solomonoff Induction (rOSI). 
+Reflective oracles are best known for their game-theoretic applications, where they are often dismissed because "why would all players choose the same reflective oracle?"
+It turns out that reflective oracles can also be used to construct a version of Solomonoff induction (called rOSI) with very nice sequence prediction properties - roughly speaking, it can learn to extract computable structure from (partly) uncomputable sequences. In fact, its properties are quite reminiscent of logical induction, but this paper is much shorter and more accessible. In this context, there is only one "player" to choose an oracle, which is just a fixed-point (though you can sort of consider the set of hypotheses entertained by that player as subplayers who share the oracle).  
+I think this paper is the clearest exposition of a very neat but previously obscure idea in agent foundations: self-reflection can overcome unrealizability. 
+
+Discuss]]></summary>
+        <author>
+            <name>Cole Wyeth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency]]></title>
+        <id>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</id>
+        <link href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"/>
+        <updated>2026-11-18T19:54:56.000Z</updated>
+        <summary type="html"><![CDATA[A Blog post by RadixArk on Hugging Face]]></summary>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why your fine-tuning job takes longer than the FLOPs say]]></title>
+        <id>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</id>
+        <link href="https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"/>
+        <updated>2026-11-18T18:53:43.000Z</updated>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Become a Tool for Attackers, and How to Stop It]]></title>
+        <id>https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/</id>
+        <link href="https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/"/>
+        <updated>2026-11-18T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Managing Security When You’re Deploying AI, Part 1: Compromised credentials, salaries inferred from budgets, and doctored documents show why agents need permission checks before the model ever sees the data.
+The post How AI Agents Become a Tool for Attackers, and How to Stop It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time-Series Models in the Streamhouse: A New Frontier and Use Cases]]></title>
+        <id>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</id>
+        <link href="https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"/>
+        <updated>2026-11-18T15:00:23.000Z</updated>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neurosymbolic Agents Explained, With a Z3 Example in Python]]></title>
+        <id>https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/</id>
+        <link href="https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/"/>
+        <updated>2026-11-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting from Air Canada's chatbot case, a tour of Logic-LM, Agent-C, and Amazon's checks shows the solver is sound but the English-to-logic step is not.
+The post Neurosymbolic Agents Explained, With a Z3 Example in Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Tomoharu Hayakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores]]></title>
+        <id>https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/</id>
+        <link href="https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/"/>
+        <updated>2026-11-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On 1 million simulated customers, calibrated Qini scored a Linear DR learner 0.0856 against 0.0826 for the true-CATE ranking that should have won.
+The post When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ivan Gorban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Claude for Stock Research, Portfolio Reviews and Trades]]></title>
+        <id>https://www.analyticsvidhya.com/?p=258966</id>
+        <link href="https://www.analyticsvidhya.com/blog/2026/11/connect-demat-account-claude-stocks/"/>
+        <updated>2026-11-18T12:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Claude has become one of the most widely used AI tools, and stock market investors are no exception. Many already use it to research companies, read financial results and follow market news. Now, Claude can go a step further by connecting directly to your trading account. Brokers like Zerodha, Groww, Upstox, Dhan and FYERS offer […]
+The post How to Use Claude for Stock Research, Portfolio Reviews and Trades appeared first on Analytics Vidhya.]]></summary>
+        <author>
+            <name>Sree Vamsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Estimate Dose-Response Curves When DoubleML Falls Short]]></title>
+        <id>https://towardsdatascience.com/how-to-estimate-dose-response-curves-when-doubleml-falls-short/</id>
+        <link href="https://towardsdatascience.com/how-to-estimate-dose-response-curves-when-doubleml-falls-short/"/>
+        <updated>2026-11-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Simulations test DoubleML against Kennedy's doubly robust estimator, with partial pooling across 200 stores and a DiD fix for hidden confounders.
+The post How to Estimate Dose-Response Curves When DoubleML Falls Short appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ryan OSullivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Silent Consensus]]></title>
+        <id>https://openai.com/index/the-silent-consensus</id>
+        <link href="https://openai.com/index/the-silent-consensus"/>
+        <updated>2026-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research acceleration: The jagged frontier]]></title>
+        <id>https://openai.com/index/research-acceleration-jagged-frontier</id>
+        <link href="https://openai.com/index/research-acceleration-jagged-frontier"/>
+        <updated>2026-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise]]></title>
+        <id>https://openai.com/business/customer-stories/sumitomo-life</id>
+        <link href="https://openai.com/business/customer-stories/sumitomo-life"/>
+        <updated>2026-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Codex sandbox]]></title>
+        <id>https://openai.com/index/inside-the-codex-sandbox</id>
+        <link href="https://openai.com/index/inside-the-codex-sandbox"/>
+        <updated>2026-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing frontier AI risk: From training to deployment]]></title>
+        <id>https://openai.com/index/managing-frontier-ai-risk</id>
+        <link href="https://openai.com/index/managing-frontier-ai-risk"/>
+        <updated>2026-11-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers]]></title>
+        <id>https://huggingface.co/blog/moe-expert-streaming</id>
+        <link href="https://huggingface.co/blog/moe-expert-streaming"/>
+        <updated>2026-11-18T00:00:00.000Z</updated>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumble-2-Flash: an open 0.5B speech model for 40+ languages]]></title>
+        <id>https://huggingface.co/blog/rumble-2-flash</id>
+        <link href="https://huggingface.co/blog/rumble-2-flash"/>
+        <updated>2026-11-18T00:00:00.000Z</updated>
+        <author>
+            <name>Hugging Face - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT]]></title>
+        <id>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</id>
+        <link href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"/>
+        <updated>2026-11-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancing chip design with OpenAI models]]></title>
+        <id>https://openai.com/index/advancing-chip-design-with-our-models</id>
+        <link href="https://openai.com/index/advancing-chip-design-with-our-models"/>
+        <updated>2026-11-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.]]></summary>
+        <author>
+            <name>OpenAI News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing GPT-6.2 Astra and Sol]]></title>
         <id>https://openai.com/index/introducing-gpt-6-2-astra-sol</id>
@@ -3595,113 +3782,6 @@ The post What's in the Box? Distinguishing Acceptable Traces from Unacceptable O
         <summary type="html"><![CDATA[OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.]]></summary>
         <author>
             <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Google Gemini 4 Argon]]></title>
-        <id>https://towardsdatascience.com/welcome-to-google-gemini-4-argon/</id>
-        <link href="https://towardsdatascience.com/welcome-to-google-gemini-4-argon/"/>
-        <updated>2026-10-19T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A million-token output window changes what you can hand a model in one go, and the benchmarks and the bill show who it actually suits.
-The post Welcome to Google Gemini 4 Argon appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?]]></title>
-        <id>https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/</id>
-        <link href="https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/"/>
-        <updated>2026-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ML model adoption doesn't stop with acceptance of accuracy; it starts there.
-The post Can Conformal Prediction Take You from Accurate to Reliable Machine Learning? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Devashish Thakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many EEG Channels Do You Actually Need?]]></title>
-        <id>https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/</id>
-        <link href="https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/"/>
-        <updated>2026-10-19T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing sensor reduction, feature ranking, and generalization to unseen
-participants
-The post How Many EEG Channels Do You Actually Need? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Renish Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing coding in low‑resource programming languages]]></title>
-        <id>https://openai.com/index/low-resource-programming-languages</id>
-        <link href="https://openai.com/index/low-resource-programming-languages"/>
-        <updated>2026-10-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week Ending 10.18.2026]]></title>
-        <id>5b75ac0285ede1b470f58ae2:5b7f22cd1ae6cf162dc609cf:6ad5fa709a15c943a5a5c2f5</id>
-        <link href="https://www.eye-on.ai/ai-articles/yx7a7c4fhj25kbd-htf9x-r35fb-42rlh-99nw9-z7tw8-kwg2d-ay935-fn9zt-w2ls7-fyptc-hd5js-2bh8y-l9l6n-hyb5z-set77-a5esw-2fgja-mdkab-4fzr8-fmnnp-wbppp-yw5hc-a45na-pk4fa-fsa8h-6d4kn-lkh3m-ydkx9-xfl2g-mca6f"/>
-        <updated>2026-10-19T11:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Newly published papers and discussions around them.]]></summary>
-        <author>
-            <name>Craig Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Descriptors and Controlled Attributes in Python]]></title>
-        <id>https://machinelearningmastery.com/?p=25387</id>
-        <link href="https://machinelearningmastery.com/descriptors-and-controlled-attributes/"/>
-        <updated>2026-10-19T11:00:15.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn what Python descriptors are and how to use them to build three types of controlled attributes: validated, computed, and...]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Harms and Their Technical Causes]]></title>
-        <id>https://towardsdatascience.com/ai-harms-and-their-technical-causes/</id>
-        <link href="https://towardsdatascience.com/ai-harms-and-their-technical-causes/"/>
-        <updated>2026-10-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How technical choices can lead to safety failures, and what to do differently
-The post AI Harms and Their Technical Causes appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Stephanie Kirmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why High-Stakes Multimodal AI Needs Expert-in-the-Loop Data Curation]]></title>
-        <id>https://imerit.ai/?p=42635</id>
-        <link href="https://imerit.ai/resources/blog/why-high-stakes-multimodal-ai-needs-expert-in-the-loop-data-curation/"/>
-        <updated>2026-10-19T08:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.
-The post Why High-Stakes Multimodal AI Needs Expert-in-the-Loop Data Curation appeared first on iMerit.]]></summary>
-        <author>
-            <name>Cadence SEO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide to Harness Engineering: Building the System Around the Model]]></title>
-        <id>https://www.analyticsvidhya.com/?p=258285</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/"/>
-        <updated>2026-10-19T06:18:20.000Z</updated>
-        <summary type="html"><![CDATA[An AI coding agent can write a function in seconds. But a working feature takes more than generated code. The agent needs to understand the project, find the right files, use tools safely, and check whether its changes work.  A model on its own does none of that. It sees only the text it is […]
-The post A Practical Guide to Harness Engineering: Building the System Around the Model  appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Janvi Kumari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TorchNeuron: running HF models on AWS Trainium is easier than ever]]></title>
-        <id>https://huggingface.co/blog/hf-torchneuron</id>
-        <link href="https://huggingface.co/blog/hf-torchneuron"/>
-        <updated>2026-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
         </author>
     </entry>
 </feed>
