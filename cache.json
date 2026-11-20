@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/",
+          "author": "Maxell Agustin Aguiran",
+          "description": "Exact uniform math and 100 synthetic Python runs show when to target 95% coverage and when asymmetric squared-error costs call for the expectile.\nThe post The 0.95 Expectile Is Not the 95th Percentile appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/",
+          "publishedOn": "2026-11-19T16:30:00.000Z",
+          "wordCount": null,
+          "title": "The 0.95 Expectile Is Not the 95th Percentile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/",
+          "author": "Eivind Kjosbakken",
+          "description": "Two setups: flip Claude Code's cloud environment on for the quick path, or rent a server for full control.\nThe post How to Run Claude Code and Other Coding Agents in the Cloud 24/7 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/",
+          "publishedOn": "2026-11-19T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-oversee-ai-agents-at-scale-with-a-three-tier-architecture/",
+          "author": "Barr Moses",
+          "description": "Separate runtime oversight from human review: an autonomous supervisor handles reversible fixes, while humans approve high-impact changes.\nThe post How to Oversee AI Agents at Scale With a Three-Tier Architecture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-oversee-ai-agents-at-scale-with-a-three-tier-architecture/",
+          "publishedOn": "2026-11-19T13:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/analytics-engineerings-missing-layer-is-business-communication/",
+          "author": "Sravani Alle",
+          "description": "Why grains, joins, filters, and tests need business translations, and how a four-step framework keeps stakeholders from misreading metric changes.\nThe post Analytics Engineering's Missing Layer Is Business Communication appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/analytics-engineerings-missing-layer-is-business-communication/",
+          "publishedOn": "2026-11-19T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Analytics Engineering's Missing Layer Is Business Communication",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
           "author": "Stephanie Kirmer",
           "description": "Managing Security When You’re Deploying AI, Part 1: Compromised credentials, salaries inferred from budgets, and doctored documents show why agents need permission checks before the model ever sees the data.\nThe post How AI Agents Become a Tool for Attackers, and How to Stop It appeared first on Towards Data Science.",
@@ -1030,46 +1070,6 @@
           "wordCount": null,
           "title": "I Built a Pipeline to Track the Job Market I'm Trying to Break Into.",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
-          "author": "Florian Trautweiler",
-          "description": "Training models on procedurally generated datasets for card detection and segmentation\nThe post Synthetic-to-Real Transfer with Frozen DINOv3 Features appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
-          "publishedOn": "2026-10-20T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Synthetic-to-Real Transfer with Frozen DINOv3 Features",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
-          "author": "Gal Arav",
-          "description": "Towards Spec-Driven Test Automation, Part 4\nThe post Skill or MCP Server? Ask What Stops the LLM From Disobeying appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
-          "publishedOn": "2026-10-20T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Skill or MCP Server? Ask What Stops the LLM From Disobeying",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=681571",
-          "author": "Nhu Hoang",
-          "description": "I tested LLM routing to understand why switching models mid-session can erase the savings promised by cheaper inference\nThe post The Hidden Cost of LLM Routing: Why Switching Models Costs More appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/",
-          "publishedOn": "2026-10-20T12:30:00.000Z",
-          "wordCount": null,
-          "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
-          "author": "Doster Esh",
-          "description": "Turn scattered requirements into deployable agents\nThe post What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
-          "publishedOn": "2026-10-20T11:00:00.000Z",
-          "wordCount": null,
-          "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
-          "imageUrl": null
         }
       ]
     },
@@ -1167,16 +1167,6 @@
           "wordCount": 8352,
           "title": "How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-multi-modal-rag-pipeline-images-documents-python-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25330",
-          "author": "Shittu Olumide",
-          "description": "Run this on a typical laptop and both systems will report latencies in the low single-digit to tens of milliseconds range, with the exact numbers depending heavily on your CPU, available RAM, and whatever else is running on your machine at the time.",
-          "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
-          "publishedOn": "2026-10-20T11:00:00.000Z",
-          "wordCount": 9302,
-          "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/MLM-Shittu-pgvector-vs.-Dedicated-Vector-Databases-A-Production-Benchmark-scaled.png"
         }
       ]
     },
@@ -1184,7 +1174,23 @@
       "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
       "feedUrl": "https://blog.ml.cmu.edu/feed/",
       "siteUrl": "https://blog.ml.cmu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.ml.cmu.edu/?p=22745",
+          "author": "Aran Nayebi",
+          "description": "Part II: Provable Safety In Part I, I talked about what agents must contain as they become increasingly capable. Here, I talk about having provable guarantees on their safety, in spite of these capabilities. This is in large part a contrast from what AI safety used to be like, where more capability ensured more safety: e.g. if a self-driving car can’t reliably detect objects, it’s obviously unsafe. Instead, what we are talking about is: how do we ensure capable systems remain open to human correction, even when it’s otherwise suboptimal for completing the task?  Suppose an agent is editing a document when a notification announces that its computer will shut down. It knows this will prevent it from finishing, and it knows how to cancel the shutdown. If the priority is completing the document, the next step seems obvious. We would welcome this resourcefulness if the obstacle were a broken application. We would be less pleased if it were our request for the agent to stop. An agent that bypasses an obstacle may also bypass a stop request. In fact, the same predictive knowledge that helps an agent finish a task can help it work around an intervention. In these […]",
+          "link": "https://blog.ml.cmu.edu/2026/11/19/towards-a-science-of-capable-autonomous-agents-provable-safety-part-ii/",
+          "publishedOn": "2026-11-19T15:13:59.000Z",
+          "wordCount": 2974,
+          "title": "Towards a Science of Capable Autonomous Agents & Provable Safety — Part II",
+          "enclosure": {
+            "url": "https://blog.ml.cmu.edu/wp-content/uploads/2026/11/image-5.png",
+            "length": "397833",
+            "type": "image/png"
+          },
+          "imageUrl": "https://blog.ml.cmu.edu/wp-content/uploads/2026/11/image-5.png"
+        }
+      ]
     },
     {
       "title": "Google AI Blog",
@@ -1654,56 +1660,6 @@
           "wordCount": 1750,
           "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67a4f15057fb66b9db6dac82/45XSEtdQHqTdspRe3wkYs.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/fairstress",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/fairstress",
-          "publishedOn": "2026-10-20T16:09:19.000Z",
-          "wordCount": 2674,
-          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7zYjyTWswjO2erWsO5HNf.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-          "publishedOn": "2026-10-20T15:19:48.000Z",
-          "wordCount": 2766,
-          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg"
-        },
-        {
-          "id": "https://huggingface.co/blog/hf-torchtpu",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/hf-torchtpu",
-          "publishedOn": "2026-10-20T00:00:00.000Z",
-          "wordCount": 1560,
-          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-          "imageUrl": "https://huggingface.co/blog/assets/hf-torchtpu/thumbnail.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-          "publishedOn": "2026-10-20T00:00:00.000Z",
-          "wordCount": 1263,
-          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-          "imageUrl": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/mps-pytorch-2-15",
-          "author": null,
-          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-          "publishedOn": "2026-10-20T00:00:00.000Z",
-          "wordCount": 2567,
-          "title": "MPS in PyTorch 2.15",
-          "imageUrl": "https://huggingface.co/blog/assets/mps-pytorch-2-15/thumbnail.png"
         }
       ]
     },
@@ -1822,16 +1778,6 @@
           "wordCount": 5057,
           "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1185073",
-          "author": "Weishung Liu, Chris White",
-          "description": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more.\nThe post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
-          "publishedOn": "2026-10-20T16:00:00.000Z",
-          "wordCount": 10038,
-          "title": "Called to serve: Tech, research, and positive impact",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/WeishungChris-MSRPod_TW_LI_FB_1920x1080-1.jpg"
         }
       ]
     },
@@ -1908,16 +1854,6 @@
           "wordCount": 4828,
           "title": "What Is Model Distillation? A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
-        },
-        {
-          "id": "6ad7987561e15ba931f3a014",
-          "author": "Samyukta Hegde",
-          "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
-          "link": "https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/",
-          "publishedOn": "2026-10-20T16:36:05.000Z",
-          "wordCount": 3534,
-          "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0220c2ae-5938-458c-9a87-b97a66c7945e.png"
         }
       ]
     },
@@ -2081,6 +2017,16 @@
       "siteUrl": "https://learnopencv.com",
       "articles": [
         {
+          "id": "https://learnopencv.com/?p=80541",
+          "author": "Satya Mallick",
+          "description": "Learn robust image alignment with ALIKED, LightGlue, and MAGSAC++ in OpenCV. Align documents, locate objects from one reference, and check failures.\nRobust Image Alignment with ALIKED, LightGlue, and MAGSAC++ first appeared on LearnOpenCV.",
+          "link": "https://learnopencv.com/robust-image-alignment/",
+          "publishedOn": "2026-11-20T02:21:23.000Z",
+          "wordCount": 8522,
+          "title": "Robust Image Alignment with ALIKED, LightGlue, and MAGSAC++",
+          "imageUrl": "https://learnopencv.com/wp-content/uploads/2026/11/robust-image-alignment-thumbnail.webp"
+        },
+        {
           "id": "https://learnopencv.com/?p=80473",
           "author": "Oliver Hale",
           "description": "Turn OpenCV 5 object detection into working applications: count traffic by lane and direction, monitor a parking lot from a drifting drone, and raise safety-zone alerts with dwell times and event logs, all on a CPU with the new OpenCV 5 DNN engine.\nOpenCV 5 Object Detection Use Cases: Traffic Counting, Parking Monitoring and Safety Zones first appeared on LearnOpenCV.",
@@ -2219,6 +2165,17 @@
       "feedUrl": "https://www.analyticsvidhya.com/feed/",
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
+        {
+          "id": "https://www.analyticsvidhya.com/?p=259017",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "Can an AI model write working code and still miscount a simple beep? Google’s Gemini 4 Neon targets demanding work, from coding to finding answers across files, but our tests revealed an interesting gap between handling complexity and getting the basics right. We tested Neon on four tasks in the Gemini app at Medium thinking. […]\nThe post Gemini 4 Neon Review: Benchmarks, Pricing, and Performance appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/gemini-4-neon-review/",
+          "publishedOn": "2026-11-19T11:38:43.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Neon Review: Benchmarks, Pricing, and Performance",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://www.analyticsvidhya.com/?p=258966",
           "author": "Sree Vamsi",
@@ -2482,6 +2439,56 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "author": null,
+          "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "publishedOn": "2026-11-19T08:00:00.000Z",
+          "wordCount": null,
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/learn/deploying-daybreak-red",
+          "author": null,
+          "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "link": "https://openai.com/business/learn/deploying-daybreak-red",
+          "publishedOn": "2026-11-19T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Deploying Daybreak Red",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/learn/pr-scans-demo",
+          "author": null,
+          "description": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "link": "https://openai.com/business/learn/pr-scans-demo",
+          "publishedOn": "2026-11-19T00:00:00.000Z",
+          "wordCount": null,
+          "title": "See PR scans in action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "author": null,
+          "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "publishedOn": "2026-11-19T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Explore the Codex Security Plugin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "author": null,
+          "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "publishedOn": "2026-11-19T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Get started with Daybreak Blue",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/the-silent-consensus",
           "author": null,
@@ -3551,36 +3558,6 @@
           "wordCount": null,
           "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/ted-taylor-restaurant",
-          "author": null,
-          "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-          "link": "https://openai.com/index/ted-taylor-restaurant",
-          "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/terminal-x",
-          "author": null,
-          "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-          "link": "https://openai.com/index/terminal-x",
-          "publishedOn": "2026-10-20T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "author": null,
-          "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "publishedOn": "2026-10-20T00:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI acquires Orchestra Bio",
-          "imageUrl": null
         }
       ]
     },
@@ -3668,22 +3645,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-          "author": "Florian Brand",
-          "description": "Western open models strike back",
-          "link": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-          "publishedOn": "2026-10-20T17:04:21.000Z",
-          "wordCount": null,
-          "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!ptGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd500e8ff-94e8-4cf5-b99d-5d9aac7f0a8a_1024x768.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ptGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd500e8ff-94e8-4cf5-b99d-5d9aac7f0a8a_1024x768.png"
         }
       ]
     },
