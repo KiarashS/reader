@@ -12,6 +12,46 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/",
+          "author": "Nahid Ahmadvand",
+          "description": "A 48-hour Capital Bikeshare experiment pits XGBoost, Ridge, SARIMA, and Prophet against simple baselines, with care for missing hours and leakage.\nThe post LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/",
+          "publishedOn": "2026-11-20T16:30:00.000Z",
+          "wordCount": null,
+          "title": "LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/",
+          "author": "Mariya Mansurova",
+          "description": "With a 0.9 confidence cutoff, Cloudflare's System One model handles the easy cases and routes the rest to a bigger, slower LLM like Luna.\nThe post Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/",
+          "publishedOn": "2026-11-20T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
+          "author": "JUNIOR JUMBONG",
+          "description": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini.\nThe post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
+          "publishedOn": "2026-11-20T13:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/",
+          "author": "Thomas Reid",
+          "description": "AI Agents for Beginners, Part three: strict Pydantic arguments, a tool allowlist, read-only SQLite, a step cap, and confirmed writes, all verified by five pytest tests in 0.68s.\nThe post Five Guardrails That Limit the Damage an AI Agent Can Do appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/",
+          "publishedOn": "2026-11-20T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Five Guardrails That Limit the Damage an AI Agent Can Do",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/",
           "author": "Maxell Agustin Aguiran",
           "description": "Exact uniform math and 100 synthetic Python runs show when to target 95% coverage and when asymmetric squared-error costs call for the expectile.\nThe post The 0.95 Expectile Is Not the 95th Percentile appeared first on Towards Data Science.",
@@ -1030,46 +1070,6 @@
           "wordCount": null,
           "title": "Could On-Policy Self-Distillation Revolutionize Post-Training?",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
-          "author": "Shuai Guo",
-          "description": "A hands-on guide to building browser automation by combining decision models with LLMs.\nThe post Decision Models in Action: Build a Hybrid LLM Workflow appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
-          "publishedOn": "2026-10-21T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Decision Models in Action: Build a Hybrid LLM Workflow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
-          "author": "Anand Rawat",
-          "description": "What I learned about queues, failure recovery, and reproducibility while building asynchronous workloads on AWS\nThe post How to Turn Long-Running Python Simulations Into a Self-Service Platform appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
-          "publishedOn": "2026-10-21T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Turn Long-Running Python Simulations Into a Self-Service Platform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
-          "author": "Lars Benedikt Kaesberg",
-          "description": "Grid puzzles that people solve almost perfectly show where language and vision models still break\nThe post Spatial Reasoning in AI Models, Taken Apart appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
-          "publishedOn": "2026-10-21T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Spatial Reasoning in AI Models, Taken Apart",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/",
-          "author": "Ibrahim Salami",
-          "description": "Building an incremental pipeline with dbt snapshots, and the API that quietly lied to me along the way.\nThe post I Built a Pipeline to Track the Job Market I'm Trying to Break Into. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/",
-          "publishedOn": "2026-10-21T11:00:00.000Z",
-          "wordCount": null,
-          "title": "I Built a Pipeline to Track the Job Market I'm Trying to Break Into.",
-          "imageUrl": null
         }
       ]
     },
@@ -1157,16 +1157,6 @@
           "wordCount": 8433,
           "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-speculative-decoding-3x-faster-inference-llm-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25407",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn how to build a multi-modal RAG pipeline in Python that retrieves and reasons over both text and images extracted...",
-          "link": "https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/",
-          "publishedOn": "2026-10-21T11:00:00.000Z",
-          "wordCount": 8352,
-          "title": "How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-multi-modal-rag-pipeline-images-documents-python-feature.png"
         }
       ]
     },
@@ -1221,6 +1211,26 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/inkling2mini",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/inkling2mini",
+          "publishedOn": "2026-11-20T00:00:00.000Z",
+          "wordCount": 3646,
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "imageUrl": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png"
+        },
+        {
+          "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "author": null,
+          "description": "",
+          "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "publishedOn": "2026-11-20T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "imageUrl": null
+        },
         {
           "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
           "author": null,
@@ -1630,36 +1640,6 @@
           "wordCount": 2801,
           "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-          "author": null,
-          "description": "A Blog post by Amazon on Hugging Face",
-          "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-          "publishedOn": "2026-10-21T16:04:43.000Z",
-          "wordCount": 2169,
-          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "author": null,
-          "description": "A Blog post by IBM Granite on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-          "publishedOn": "2026-10-21T14:58:18.000Z",
-          "wordCount": 1699,
-          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/M_JJyIOBOWVzHXdy7CVVG.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "publishedOn": "2026-10-20T18:17:47.000Z",
-          "wordCount": 1750,
-          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/67a4f15057fb66b9db6dac82/45XSEtdQHqTdspRe3wkYs.png"
         }
       ]
     },
@@ -1768,16 +1748,6 @@
           "wordCount": 4968,
           "title": "Flint-interactive: A language for creating interactive data visualizations",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FlintInteractive-TWLIFB-1200x627-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1190191",
-          "author": "Xinzhi Zhang",
-          "description": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-dimensional […]\nThe post Solving a 31-year-old grand challenge in mathematics – the KLS conjecture appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-          "publishedOn": "2026-10-21T16:00:00.000Z",
-          "wordCount": 5057,
-          "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1874,6 +1844,24 @@
       "feedUrl": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
       "siteUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/",
       "articles": [
+        {
+          "id": "a2b4c2f6-e4ee-11f1-82d3-2bc24145e498",
+          "author": null,
+          "description": "NASA photographers James Blair and Josh Valcarcel share their experience capturing the historic return, splashdown, and recovery of the Artemis II crew. Episode 446.",
+          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/capturing-artemis-return/",
+          "publishedOn": "2026-11-20T14:42:00.000Z",
+          "wordCount": null,
+          "title": "Capturing Artemis Return",
+          "itunes": {
+            "duration": "3586"
+          },
+          "enclosure": {
+            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5999466310.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "8ce43bbe-df71-11f1-843f-33ccad1cb5f6",
           "author": null,
@@ -2166,6 +2154,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=259034",
+          "author": "Vasu Deo Sankrityayan",
+          "description": "OpenAI’s GPT-6.2 release gives users two options: Sol for everyday coding and writing, and Astra for demanding professional projects. Both promise improvements in how they handle work, but what separates them and which capabilities matter beyond the launch announcement? In this article, we explore both models’ features, access and pricing, then put Astra & Sol […]\nThe post GPT-6.2 Astra and Sol: A Hands-On Performance Review appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/",
+          "publishedOn": "2026-11-20T12:44:52.000Z",
+          "wordCount": null,
+          "title": "GPT-6.2 Astra and Sol: A Hands-On Performance Review",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=259017",
           "author": "Vasu Deo Sankrityayan",
           "description": "Can an AI model write working code and still miscount a simple beep? Google’s Gemini 4 Neon targets demanding work, from coding to finding answers across files, but our tests revealed an interesting gap between handling complexity and getting the basics right. We tested Neon on four tasks in the Gemini app at Medium thinking. […]\nThe post Gemini 4 Neon Review: Benchmarks, Pricing, and Performance appeared first on Analytics Vidhya.",
@@ -2384,17 +2383,6 @@
           "title": "Build AI Employees in Python That Work While You Sleep",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258350",
-          "author": "Vasu Deo Sankrityayan",
-          "description": "Tired of juggling multiple software subscriptions for editing images, managing projects, signing documents, and more? Open-source alternatives offer a refreshing way to get things done without piling up recurring bills. Many provide powerful features, greater flexibility, and more control over your tools. In this article, we explore ten open-source alternatives to popular paid software, starting […]\nThe post 10 Free Open Source Alternatives to Paid Software appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/open-source-alternatives-paid-software/",
-          "publishedOn": "2026-10-21T13:29:37.000Z",
-          "wordCount": null,
-          "title": "10 Free Open Source Alternatives to Paid Software",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2439,6 +2427,36 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/combatting-adversarial-distillation",
+          "author": null,
+          "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "link": "https://openai.com/index/combatting-adversarial-distillation",
+          "publishedOn": "2026-11-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Combatting adversarial distillation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/hebbia",
+          "author": null,
+          "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "link": "https://openai.com/business/customer-stories/hebbia",
+          "publishedOn": "2026-11-20T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/introducing-medchembench",
+          "author": null,
+          "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "link": "https://openai.com/index/introducing-medchembench",
+          "publishedOn": "2026-11-20T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "author": null,
@@ -3478,86 +3496,6 @@
           "wordCount": null,
           "title": "Broad access through consistent standards",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/att-legal",
-          "author": null,
-          "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-          "link": "https://openai.com/index/att-legal",
-          "publishedOn": "2026-10-21T17:00:00.000Z",
-          "wordCount": null,
-          "title": "How AT&T is rethinking in-house legal work with OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "author": null,
-          "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-          "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "publishedOn": "2026-10-21T13:00:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-models-google-cloud",
-          "author": null,
-          "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-          "link": "https://openai.com/index/openai-models-google-cloud",
-          "publishedOn": "2026-10-21T12:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI models are coming to Google Cloud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "author": null,
-          "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "publishedOn": "2026-10-21T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/building-chatgpt-ad-stack",
-          "author": null,
-          "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-          "link": "https://openai.com/index/building-chatgpt-ad-stack",
-          "publishedOn": "2026-10-21T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "author": null,
-          "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-          "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "publishedOn": "2026-10-21T04:50:00.000Z",
-          "wordCount": null,
-          "title": "Using thousands of AI agents to uncover new leads in biological data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/cloudflare-cyber",
-          "author": null,
-          "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-          "link": "https://openai.com/index/cloudflare-cyber",
-          "publishedOn": "2026-10-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/empowering-cyber-defenders",
-          "author": null,
-          "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-          "link": "https://openai.com/index/empowering-cyber-defenders",
-          "publishedOn": "2026-10-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-          "imageUrl": null
         }
       ]
     },
@@ -3662,6 +3600,16 @@
           "wordCount": 17013,
           "title": "Solomonoff induction with reflective oracles",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
+        {
+          "id": "uxsDuWWHNTpKrsF6P",
+          "author": "Alek Westover",
+          "description": "Some researchers worry that looping (as in looped transformers) is a particularly scary way to make AI models more capable, because looped models will be harder to monitor than standard transformers of similar capability. We test this worry on NVIDIA’s Dory 4B, a publicly available looped transformer, and find evidence that it is justified.\nResult 1. Looping boosts no-CoT reasoning much more than it boosts general capabilities.\nDory can run with a configurable number of loops. It was trained to use up to 4 loops, and adding loops up to 8 at inference time still improves performance. Without looping, Dory’s no-CoT capabilities (measured by NCRI, the No-CoT Reasoning Index) match what a trend fitted to open-source models predicts from how well it predicts text (measured in bits-per-byte). It…",
+          "link": "https://www.alignmentforum.org/posts/uxsDuWWHNTpKrsF6P/looping-a-transformer-increases-no-cot-capabilities-more",
+          "publishedOn": "2026-11-12T20:16:32.000Z",
+          "wordCount": 21375,
+          "title": "Looping a transformer increases no-CoT capabilities more than general capabilities",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/uxsDuWWHNTpKrsF6P/ygjud4ntsvmqx7loonbo"
         },
         {
           "id": "NFkj9J2BBLSjNuH5G",
