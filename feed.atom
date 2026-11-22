@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader/index.html</id>
     <title>My RSS Reader::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-21T05:30:24.298Z</updated>
+    <updated>2026-11-22T04:52:18.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Supply Chain Analytics in 2027 with Claude Code]]></title>
+        <id>https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/</id>
+        <link href="https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"/>
+        <updated>2026-11-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together.
+The post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Censored vs. Truncated Regression in Python, Explained]]></title>
+        <id>https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/</id>
+        <link href="https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/"/>
+        <updated>2026-11-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A simulated salary survey shows OLS shrinking a $5k-per-year effect to $3.2k, then recovers it with Tobit and truncated likelihoods built from scratch.
+The post Censored vs. Truncated Regression in Python, Explained appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ananya Bhattacharyya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals]]></title>
         <id>https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/</id>
@@ -3502,187 +3524,6 @@ The post Your Six AI Models Are Really Two: The Math of Correlated Mistakes appe
         <summary type="html"><![CDATA[Fast, focused, low-cost decisions for any application.]]></summary>
         <author>
             <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OlmoEarth v1.3: State-of-the-art embeddings for the whole planet]]></title>
-        <id>https://huggingface.co/blog/allenai/olmoearth-v1-3</id>
-        <link href="https://huggingface.co/blog/allenai/olmoearth-v1-3"/>
-        <updated>2026-10-22T16:11:31.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Ai2 on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flint-interactive: A language for creating interactive data visualizations]]></title>
-        <id>https://www.microsoft.com/en-us/research/?p=1190353</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.
-The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research.]]></summary>
-        <author>
-            <name>Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions]]></title>
-        <id>https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/</id>
-        <link href="https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/"/>
-        <updated>2026-10-22T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I let an AI agent search again whenever it chose. It found some papers plain search had missed, lost some plain search had found, and gained too little to trust.
-The post Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Abdullahi Dattijo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitorability evaluations and policy proposals]]></title>
-        <id>zAczYuHQS6jdG5DTg</id>
-        <link href="https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals"/>
-        <updated>2026-10-22T14:01:40.000Z</updated>
-        <summary type="html"><![CDATA[There has been a lot of discussion recently of policy proposals around monitorability, such as Redwood's proposal and my counter-proposal. I'd like to say a bit more generally about how I'm thinking about monitorability. Note that nothing here is an official Anthropic position; these are just my personal thoughts.
-First, a categorization. I currently think about four different types of monitorability:
-Control Monitorability: the extent to which Control and monitoring techniques would likely catch catastrophic sabotage actions, like escaping a sandbox or setting up a rogue internal deployment. We can measure this via reference to sabotage evaluations like LinuxArena or any evaluation that measures the model’s capability to take dangerous actions like escaping a sandbox while looking to a mo…]]></summary>
-        <author>
-            <name>evhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raman Spectra Preprocessing and Non-Negative Least Squares Modelling in Python: Monitoring Zeolite Crystallization]]></title>
-        <id>https://towardsdatascience.com/raman-spectra-preprocessing-and-non-negative-least-squares-modelling-in-python-monitoring-zeolite-crystallization/</id>
-        <link href="https://towardsdatascience.com/raman-spectra-preprocessing-and-non-negative-least-squares-modelling-in-python-monitoring-zeolite-crystallization/"/>
-        <updated>2026-10-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A short, reproducible tutorial on spectral unmixing using real in situ interzeolite conversion data
-The post Raman Spectra Preprocessing and Non-Negative Least Squares Modelling in Python: Monitoring Zeolite Crystallization appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nicolas Coca Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI Employees in Python That Work While You Sleep]]></title>
-        <id>https://www.analyticsvidhya.com/?p=258400</id>
-        <link href="https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/"/>
-        <updated>2026-10-22T13:38:55.000Z</updated>
-        <summary type="html"><![CDATA[It’s Friday, 8 a.m. Your weekly tech newsletter is drafted, fact-checked and waiting for one click of approval. You didn’t write it. You were asleep. Three AI employees did. A researcher found the week’s best links. A writer turned them into a draft. An editor caught the writer inventing a statistic, fixed it, and then […]
-The post Build AI Employees in Python That Work While You Sleep appeared first on Analytics Vidhya.]]></summary>
-        <author>
-            <name>Riya Bansal.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Same Answer, Different Reason: What a Reasoning Model Says When It Follows a Planted Hint]]></title>
-        <id>https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/</id>
-        <link href="https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/"/>
-        <updated>2026-10-22T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I put wrong answers in front of 200 exam questions and read what a small model’s reasoning said when it fell for them.
-The post Same Answer, Different Reason: What a Reasoning Model Says When It Follows a Planted Hint appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Utkarsh Mangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could On-Policy Self-Distillation Revolutionize Post-Training?]]></title>
-        <id>https://towardsdatascience.com/?p=676227</id>
-        <link href="https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/"/>
-        <updated>2026-10-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teaching foundation models new skills without breaking them is hard. A new reinforcement learning-based approach might have the power to change that.
-The post Could On-Policy Self-Distillation Revolutionize Post-Training? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jonathan Yahav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Small Data Curation Errors Cascade into Silent Model Failures]]></title>
-        <id>https://imerit.ai/?p=42644</id>
-        <link href="https://imerit.ai/resources/blog/how-small-data-curation-errors-cascade-into-silent-model-failures/"/>
-        <updated>2026-10-22T08:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.
-The post How Small Data Curation Errors Cascade into Silent Model Failures appeared first on iMerit.]]></summary>
-        <author>
-            <name>Cadence SEO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensemble forecasting with IBM Granite time-series models]]></title>
-        <id>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</id>
-        <link href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"/>
-        <updated>2026-10-22T07:51:31.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by IBM Research on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What FDE means at OpenAI]]></title>
-        <id>https://openai.com/index/forward-deployed-engineering-means</id>
-        <link href="https://openai.com/index/forward-deployed-engineering-means"/>
-        <updated>2026-10-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What forward deployed engineering means at OpenAI]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber brings ChatGPT Work to all employees with OpenAI]]></title>
-        <id>https://openai.com/index/uber-chatgpt-work-rollout</id>
-        <link href="https://openai.com/index/uber-chatgpt-work-rollout"/>
-        <updated>2026-10-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broad access through consistent standards]]></title>
-        <id>https://openai.com/index/broad-access-through-consistent-standards</id>
-        <link href="https://openai.com/index/broad-access-through-consistent-standards"/>
-        <updated>2026-10-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.]]></summary>
-        <author>
-            <name>OpenAI News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
-        <id>6ad9087ef5ddaeeade835143</id>
-        <link href="https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/"/>
-        <updated>2026-10-21T18:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre]]></summary>
-        <author>
-            <name>Mene-Ejegi Ogbemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required]]></title>
-        <id>https://huggingface.co/blog/nvidia/kumo-relational</id>
-        <link href="https://huggingface.co/blog/nvidia/kumo-relational"/>
-        <updated>2026-10-21T18:26:30.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by NVIDIA on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural nets are exceptionally vulnerable to goal self-hack]]></title>
-        <id>eCR373J3NZwFbacnd</id>
-        <link href="https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack"/>
-        <updated>2026-10-21T17:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven't been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not just the stock price. So it won't destroy the company - or the world - to build a giant stock-ticker with a swiftly increasing number on it.
-This rich definition is contained in a sophisticated LLM, able to analyse the current situation and answer any question about the objective. The LLM is an integral part of the AI's system and motivation, not something it can simply set aside or hack directly.
-Unfortunately, as discussed, there are going to be zones in the space of possible situations where t…]]></summary>
-        <author>
-            <name>Stuart_Armstrong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications]]></title>
-        <id>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</id>
-        <link href="https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"/>
-        <updated>2026-10-21T17:35:36.000Z</updated>
-        <summary type="html"><![CDATA[A Blog post by Dharma-AI on Hugging Face]]></summary>
-        <author>
-            <name>Hugging Face - Blog</name>
         </author>
     </entry>
 </feed>

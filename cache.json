@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
+          "author": "Samir Saci",
+          "description": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together.\nThe post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
+          "publishedOn": "2026-11-21T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/",
+          "author": "Ananya Bhattacharyya",
+          "description": "A simulated salary survey shows OLS shrinking a $5k-per-year effect to $3.2k, then recovers it with Tobit and truncated likelihoods built from scratch.\nThe post Censored vs. Truncated Regression in Python, Explained appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/",
+          "publishedOn": "2026-11-21T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Censored vs. Truncated Regression in Python, Explained",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/",
           "author": "Nahid Ahmadvand",
           "description": "A 48-hour Capital Bikeshare experiment pits XGBoost, Ridge, SARIMA, and Prophet against simple baselines, with care for missing hours and leakage.\nThe post LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals appeared first on Towards Data Science.",
@@ -1030,46 +1050,6 @@
           "wordCount": null,
           "title": "Your Six AI Models Are Really Two: The Math of Correlated Mistakes",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/",
-          "author": "Abdullahi Dattijo",
-          "description": "I let an AI agent search again whenever it chose. It found some papers plain search had missed, lost some plain search had found, and gained too little to trust.\nThe post Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/",
-          "publishedOn": "2026-10-22T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/raman-spectra-preprocessing-and-non-negative-least-squares-modelling-in-python-monitoring-zeolite-crystallization/",
-          "author": "Nicolas Coca Lopez",
-          "description": "A short, reproducible tutorial on spectral unmixing using real in situ interzeolite conversion data\nThe post Raman Spectra Preprocessing and Non-Negative Least Squares Modelling in Python: Monitoring Zeolite Crystallization appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/raman-spectra-preprocessing-and-non-negative-least-squares-modelling-in-python-monitoring-zeolite-crystallization/",
-          "publishedOn": "2026-10-22T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Raman Spectra Preprocessing and Non-Negative Least Squares Modelling in Python: Monitoring Zeolite Crystallization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/",
-          "author": "Utkarsh Mangal",
-          "description": "I put wrong answers in front of 200 exam questions and read what a small model’s reasoning said when it fell for them.\nThe post Same Answer, Different Reason: What a Reasoning Model Says When It Follows a Planted Hint appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/",
-          "publishedOn": "2026-10-22T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Same Answer, Different Reason: What a Reasoning Model Says When It Follows a Planted Hint",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=676227",
-          "author": "Jonathan Yahav",
-          "description": "Teaching foundation models new skills without breaking them is hard. A new reinforcement learning-based approach might have the power to change that.\nThe post Could On-Policy Self-Distillation Revolutionize Post-Training? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/",
-          "publishedOn": "2026-10-22T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Could On-Policy Self-Distillation Revolutionize Post-Training?",
-          "imageUrl": null
         }
       ]
     },
@@ -1600,46 +1580,6 @@
           "wordCount": 4413,
           "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "publishedOn": "2026-10-22T16:11:31.000Z",
-          "wordCount": 1671,
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/VEmSzlLjei8J3cUVNe7G6.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "author": null,
-          "description": "A Blog post by IBM Research on Hugging Face",
-          "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "publishedOn": "2026-10-22T07:51:31.000Z",
-          "wordCount": 2445,
-          "title": "Ensemble forecasting with IBM Granite time-series models",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "publishedOn": "2026-10-21T18:26:30.000Z",
-          "wordCount": 2554,
-          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-          "author": null,
-          "description": "A Blog post by Dharma-AI on Hugging Face",
-          "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-          "publishedOn": "2026-10-21T17:35:36.000Z",
-          "wordCount": 2801,
-          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png"
         }
       ]
     },
@@ -1738,16 +1678,6 @@
           "wordCount": 4828,
           "title": "Microsoft Research Focus – Edition #97",
           "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/research/?p=1190353",
-          "author": "Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
-          "description": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.\nThe post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research.",
-          "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-          "publishedOn": "2026-10-22T16:00:00.000Z",
-          "wordCount": 4968,
-          "title": "Flint-interactive: A language for creating interactive data visualizations",
-          "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FlintInteractive-TWLIFB-1200x627-1.jpg"
         }
       ]
     },
@@ -1814,18 +1744,7 @@
       "title": "Machine Learning - freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/tag/machine-learning/rss",
       "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "6ad9087ef5ddaeeade835143",
-          "author": "Mene-Ejegi Ogbemi",
-          "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
-          "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
-          "publishedOn": "2026-10-21T18:46:22.000Z",
-          "wordCount": 4828,
-          "title": "What Is Model Distillation? A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Deep Learning - freeCodeCamp.org",
@@ -2135,16 +2054,6 @@
           "wordCount": 2475,
           "title": "How to Curate Audit-Ready Training Data for Regulated Multimodal AI",
           "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
-        },
-        {
-          "id": "https://imerit.ai/?p=42644",
-          "author": "Cadence SEO",
-          "description": "Learn how scenario mining helps AV teams detect edge cases, prioritize long-tail events, and improve model coverage.\nThe post How Small Data Curation Errors Cascade into Silent Model Failures appeared first on iMerit.",
-          "link": "https://imerit.ai/resources/blog/how-small-data-curation-errors-cascade-into-silent-model-failures/",
-          "publishedOn": "2026-10-22T08:00:37.000Z",
-          "wordCount": 2493,
-          "title": "How Small Data Curation Errors Cascade into Silent Model Failures",
-          "imageUrl": "https://imerit.ai/wp-content/uploads/2026/09/Feature-IMG-Feature-IMG-Why-the-Rarest-AV-Scenarios-Are-Also-the-Most-Expensive-to-Miss.png"
         }
       ]
     },
@@ -2370,17 +2279,6 @@
           "publishedOn": "2026-10-23T16:53:41.000Z",
           "wordCount": null,
           "title": "LLM Inference Explained: How Models Generate Responses Faster",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258400",
-          "author": "Riya Bansal.",
-          "description": "It’s Friday, 8 a.m. Your weekly tech newsletter is drafted, fact-checked and waiting for one click of approval. You didn’t write it. You were asleep. Three AI employees did. A researcher found the week’s best links. A writer turned them into a draft. An editor caught the writer inventing a statistic, fixed it, and then […]\nThe post Build AI Employees in Python That Work While You Sleep appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/",
-          "publishedOn": "2026-10-22T13:38:55.000Z",
-          "wordCount": null,
-          "title": "Build AI Employees in Python That Work While You Sleep",
           "itunes": {},
           "imageUrl": null
         }
@@ -3466,36 +3364,6 @@
           "wordCount": null,
           "title": "Build more responsive apps with the Decisions API",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/forward-deployed-engineering-means",
-          "author": null,
-          "description": "What forward deployed engineering means at OpenAI",
-          "link": "https://openai.com/index/forward-deployed-engineering-means",
-          "publishedOn": "2026-10-22T06:00:00.000Z",
-          "wordCount": null,
-          "title": "What FDE means at OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "author": null,
-          "description": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-          "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "publishedOn": "2026-10-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/broad-access-through-consistent-standards",
-          "author": null,
-          "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-          "link": "https://openai.com/index/broad-access-through-consistent-standards",
-          "publishedOn": "2026-10-21T21:00:00.000Z",
-          "wordCount": null,
-          "title": "Broad access through consistent standards",
-          "imageUrl": null
         }
       ]
     },
@@ -3780,26 +3648,6 @@
           "wordCount": 31121,
           "title": "Setting the Scene (Public v1; October 25)",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/dmYP7DS3ERyXGAYe6/tihfdyagffugnjjtkhpt"
-        },
-        {
-          "id": "zAczYuHQS6jdG5DTg",
-          "author": "evhub",
-          "description": "There has been a lot of discussion recently of policy proposals around monitorability, such as Redwood's proposal and my counter-proposal. I'd like to say a bit more generally about how I'm thinking about monitorability. Note that nothing here is an official Anthropic position; these are just my personal thoughts.\nFirst, a categorization. I currently think about four different types of monitorability:\nControl Monitorability: the extent to which Control and monitoring techniques would likely catch catastrophic sabotage actions, like escaping a sandbox or setting up a rogue internal deployment. We can measure this via reference to sabotage evaluations like LinuxArena or any evaluation that measures the model’s capability to take dangerous actions like escaping a sandbox while looking to a mo…",
-          "link": "https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals",
-          "publishedOn": "2026-10-22T14:01:40.000Z",
-          "wordCount": 27402,
-          "title": "Monitorability evaluations and policy proposals",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
-        },
-        {
-          "id": "eCR373J3NZwFbacnd",
-          "author": "Stuart_Armstrong",
-          "description": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven't been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not just the stock price. So it won't destroy the company - or the world - to build a giant stock-ticker with a swiftly increasing number on it.\nThis rich definition is contained in a sophisticated LLM, able to analyse the current situation and answer any question about the objective. The LLM is an integral part of the AI's system and motivation, not something it can simply set aside or hack directly.\nUnfortunately, as discussed, there are going to be zones in the space of possible situations where t…",
-          "link": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
-          "publishedOn": "2026-10-21T17:53:01.000Z",
-          "wordCount": 21802,
-          "title": "Neural nets are exceptionally vulnerable to goal self-hack",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/eCR373J3NZwFbacnd/dcvbxwsxzwgk5auzzyh3"
         }
       ]
     }
