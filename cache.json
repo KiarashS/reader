@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=677379",
+          "author": "Slava Efimov",
+          "description": "How random sampling of 4 matched pairs, an error threshold, and inlier counts turn noisy SIFT matches into an accurate homography matrix.\nThe post RANSAC, Explained: Consensus Fitting for Image Feature Matching appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/",
+          "publishedOn": "2026-11-22T15:00:00.000Z",
+          "wordCount": null,
+          "title": "RANSAC, Explained: Consensus Fitting for Image Feature Matching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/",
+          "author": "Destin Gong",
+          "description": "Treat AI agents as junior teammates and move up the abstraction ladder, owning problem framing, model evaluation, and business partnership.\nThe post How AI Changes the Four Types of Analytics for Data Scientists appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/",
+          "publishedOn": "2026-11-22T13:00:00.000Z",
+          "wordCount": null,
+          "title": "How AI Changes the Four Types of Analytics for Data Scientists",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
           "author": "Samir Saci",
           "description": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together.\nThe post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science.",
@@ -1010,46 +1030,6 @@
           "wordCount": null,
           "title": "Python 3.15 Has a New Profiler",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/",
-          "author": "Aamir Hussain Chughtai, PhD",
-          "description": "Robust Estimation Series: Building Accurate Curves with Polynomials and Splines With Spurious Data\nThe post Don’t Let Messy Data Bend Your Curves appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/",
-          "publishedOn": "2026-10-23T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Don’t Let Messy Data Bend Your Curves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/",
-          "author": "Mansi Bramta",
-          "description": "The mathematics, intuition, interpretation, and practical use of higher-order moments.\nThe post Skewness and Kurtosis: From Moments to Machine Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/",
-          "publishedOn": "2026-10-23T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Skewness and Kurtosis: From Moments to Machine Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/",
-          "author": "Adrian Panasiewicz",
-          "description": "What does effective dimension reveal about redundancy, generalization, and trainability that parameter count, loss, and accuracy do not?\nThe post Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/",
-          "publishedOn": "2026-10-23T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/",
-          "author": "Utkarsh Mangal",
-          "description": "Ask several models the same question, take a vote, and you get fewer independent opinions than you paid for. One formula says how many, and I checked it on six open models and 1,500 exam questions.\nThe post Your Six AI Models Are Really Two: The Math of Correlated Mistakes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/",
-          "publishedOn": "2026-10-23T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Your Six AI Models Are Really Two: The Math of Correlated Mistakes",
-          "imageUrl": null
         }
       ]
     },
@@ -1058,6 +1038,106 @@
       "feedUrl": "https://machinelearningmastery.com/blog/feed/",
       "siteUrl": "https://machinelearningmastery.com/blog/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=25933",
+          "author": "Nahla Davies",
+          "description": "Three events that look alike need separate names.",
+          "link": "https://machinelearningmastery.com/7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one/",
+          "publishedOn": "2026-11-20T11:00:00.000Z",
+          "wordCount": 10401,
+          "title": "7 Ways AI Agents Fail in Production (and How to Catch Each One)",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm-7-ways-ai-agents-fail-in-production-and-how-to-catch-each-one-illustration-1200x600-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25755",
+          "author": "Adrian Tam",
+          "description": "Overview This post is divided into three parts; they are: • Pruning and Sparsity • Structured Pruning • Knowledge Distillation Pruning and Sparsity Pruning sets selected model parameters to zero or removes larger structures.",
+          "link": "https://machinelearningmastery.com/model-compression-beyond-quantization/",
+          "publishedOn": "2026-11-19T14:06:50.000Z",
+          "wordCount": 8745,
+          "title": "Model Compression Beyond Quantization",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/kutan-ural-MZPwImQUDM0-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25209",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how information entropy and cross-entropy loss connect classical information theory to the way large language models are trained to...",
+          "link": "https://machinelearningmastery.com/visualizing-information-entropy-in-language-models/",
+          "publishedOn": "2026-11-19T11:00:00.000Z",
+          "wordCount": 8626,
+          "title": "Visualizing Information Entropy in Language Models",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm_visualizing_entropy_language_models_feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25336",
+          "author": "Shittu Olumide",
+          "description": "Prerequisites You'll need Python 3.",
+          "link": "https://machinelearningmastery.com/graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases/",
+          "publishedOn": "2026-11-18T11:00:00.000Z",
+          "wordCount": 10486,
+          "title": "Graph-RAG for Enterprise Documents: Building a Knowledge Graph from PDFs, Wikis, and Databases",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm-graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases-illustration-feature.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25754",
+          "author": "Adrian Tam",
+          "description": "Overview This post is divided into three parts; they are: • Why Activations Are Hard to Quantize • W8A8 Inference and SmoothQuant • Floating-Point Quantization Why Activations Are Hard to Quantize <a href=\"https://machinelearningmastery.",
+          "link": "https://machinelearningmastery.com/activation-kv-cache-and-floating-point-quantization/",
+          "publishedOn": "2026-11-17T19:06:49.000Z",
+          "wordCount": 9274,
+          "title": "Activation and Floating-Point Quantization",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/bruno-martins-DrhYt-kAe9s-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25370",
+          "author": "Vinod Chugani",
+          "description": "In this article, you will learn how gradient boosting, random forest, neural networks, and tabular foundation models compare on accuracy, speed, and data requirements in...",
+          "link": "https://machinelearningmastery.com/gradient-boosting-vs-random-forest-vs-neural-networks-a-2026-performance-benchmark/",
+          "publishedOn": "2026-11-17T11:00:00.000Z",
+          "wordCount": 8634,
+          "title": "Gradient Boosting vs. Random Forest vs. Neural Networks: A 2026 Performance Benchmark",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm_gradient-boosting_random_forest_neural_networks_feature_2026_benchmark.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25132",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In this article, you will learn how to serve a Scikit-LLM zero-shot text classification pipeline, powered by a local Ollama model, as a REST API...",
+          "link": "https://machinelearningmastery.com/serving-scikit-llm-pipelines-as-rest-apis-with-fastapi/",
+          "publishedOn": "2026-11-16T11:00:00.000Z",
+          "wordCount": 8424,
+          "title": "Serving Scikit-LLM Pipelines as REST APIs with FastAPI",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm-serving-scikit-llm-pipelines-as-rest-apis-with-fastapi-feature.webp"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25753",
+          "author": "Adrian Tam",
+          "description": "Overview This post is divided into five parts; they are: • Asymmetric Affine Quantization • Post-Training Quantization with PyTorch • GPTQ and AWQ • Quantizing a Model to GGUF • Evaluating Weight-Only Quantization Note: The code examples in this post use TorchAO and require a CUDA-enabled PyTorch installation.",
+          "link": "https://machinelearningmastery.com/weight-only-quantization/",
+          "publishedOn": "2026-11-14T16:04:34.000Z",
+          "wordCount": 10615,
+          "title": "Weight-Only Quantization",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/connor-wang-r89Sdde8W3o-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25673",
+          "author": "Bala Priya C",
+          "description": "In this article, you will learn how to evaluate LLM applications systematically, from choosing scorers and designing reliable LLM judges to evaluating RAG systems and...",
+          "link": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/",
+          "publishedOn": "2026-11-13T11:00:00.000Z",
+          "wordCount": 9715,
+          "title": "The Complete Guide to LLM Evaluation",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/MLM-bala-The-Complete-Guide-to-LLM-Evaluation.png"
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=25752",
+          "author": "Adrian Tam",
+          "description": "Overview This post is divided into four parts; they are: • Operator Fusion • FlashAttention-Style Kernels • Paged Attention Kernels • Fusion and CUDA Graphs with torch.",
+          "link": "https://machinelearningmastery.com/fast-attention-kernels-and-operator-fusion/",
+          "publishedOn": "2026-11-12T17:01:10.000Z",
+          "wordCount": 9493,
+          "title": "Fast Attention Kernels and Operator Fusion",
+          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/chris-boland-1_TNeW5SOhk-unsplash-scaled.jpg"
+        },
         {
           "id": "https://machinelearningmastery.com/?p=25706",
           "author": "Kanwal Mehreen",
@@ -1127,16 +1207,6 @@
           "wordCount": 8427,
           "title": "Robust Serialization with JSON and Custom Types",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-robust-serialization-with-json-and-custom-types-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25359",
-          "author": "Vinod Chugani",
-          "description": "In this article, you will learn how speculative decoding works, why it produces real speed gains at the hardware level, and what modern implementations look...",
-          "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
-          "publishedOn": "2026-10-23T11:00:00.000Z",
-          "wordCount": 8433,
-          "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-speculative-decoding-3x-faster-inference-llm-feature.png"
         }
       ]
     },
@@ -1550,36 +1620,6 @@
           "wordCount": 2085,
           "title": "Can we trust LLMs to judge whether a research idea is novel?",
           "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/allenai/litpivot",
-          "author": null,
-          "description": "A Blog post by Ai2 on Hugging Face",
-          "link": "https://huggingface.co/blog/allenai/litpivot",
-          "publishedOn": "2026-10-23T16:15:50.000Z",
-          "wordCount": 1629,
-          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "author": null,
-          "description": "",
-          "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "publishedOn": "2026-10-23T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "author": null,
-          "description": "A Blog post by Microsoft on Hugging Face",
-          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "publishedOn": "2026-10-22T22:24:34.000Z",
-          "wordCount": 4413,
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
         }
       ]
     },
@@ -1834,24 +1874,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "bb225066-cee5-11f1-b9ee-0ffb3fd42659",
-          "author": null,
-          "description": "The CHAPEA 2 crew shares final reflections from inside their simulated Mars mission, and principal investigator Grace Douglas discusses the study as its conclusion approaches. Episode 442.",
-          "link": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/chapea-2-audio-log-4/",
-          "publishedOn": "2026-10-23T13:28:00.000Z",
-          "wordCount": null,
-          "title": "CHAPEA 2: Audio Log 4",
-          "itunes": {
-            "duration": "2294"
-          },
-          "enclosure": {
-            "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4713197246.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2063,6 +2085,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=259003",
+          "author": "Riya Bansal",
+          "description": "“The dog hunted the fox.” “The fox hunted the dog.” They are the same words, but the meanings are totally different. You can note the difference at once, but a transformer can’t. This is the problem which positional embeddings solve. They inform a language model about the position of each token in the sentence. Without […]\nThe post Positional Embeddings Explained: How LLMs Understand Word Order appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/positional-embeddings-explained-llm-word-order/",
+          "publishedOn": "2026-11-22T05:46:07.000Z",
+          "wordCount": null,
+          "title": "Positional Embeddings Explained: How LLMs Understand Word Order",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=259034",
           "author": "Vasu Deo Sankrityayan",
           "description": "OpenAI’s GPT-6.2 release gives users two options: Sol for everyday coding and writing, and Astra for demanding professional projects. Both promise improvements in how they handle work, but what separates them and which capabilities matter beyond the launch announcement? In this article, we explore both models’ features, access and pricing, then put Astra & Sol […]\nThe post GPT-6.2 Astra and Sol: A Hands-On Performance Review appeared first on Analytics Vidhya.",
@@ -2270,17 +2303,6 @@
           "title": "Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "https://www.analyticsvidhya.com/?p=258459",
-          "author": "Janvi Kumari",
-          "description": "You type a question into ChatGPT or Claude. For a split second, nothing happens. Then the answer starts flowing, word by word. That brief pause and the steady stream that follows are two very different jobs happening on a GPU. Understanding them is the key to building AI apps that feel instant, serve thousands of […]\nThe post LLM Inference Explained: How Models Generate Responses Faster appeared first on Analytics Vidhya.",
-          "link": "https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/",
-          "publishedOn": "2026-10-23T16:53:41.000Z",
-          "wordCount": null,
-          "title": "LLM Inference Explained: How Models Generate Responses Faster",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2325,6 +2347,16 @@
       "feedUrl": "https://openai.com/news/rss.xml",
       "siteUrl": "https://openai.com/news",
       "articles": [
+        {
+          "id": "https://openai.com/index/perplexity-and-intelligence",
+          "author": null,
+          "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "publishedOn": "2026-11-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Perplexity and Intelligence",
+          "imageUrl": null
+        },
         {
           "id": "https://openai.com/index/combatting-adversarial-distillation",
           "author": null,
@@ -3313,56 +3345,6 @@
           "publishedOn": "2026-10-26T00:00:00.000Z",
           "wordCount": null,
           "title": "Introducing GPT-6.1 Terra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "author": null,
-          "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "publishedOn": "2026-10-23T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "author": null,
-          "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-          "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "publishedOn": "2026-10-23T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Securing our frontier model training environment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/anima",
-          "author": null,
-          "description": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-          "link": "https://openai.com/index/anima",
-          "publishedOn": "2026-10-23T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "author": null,
-          "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "publishedOn": "2026-10-23T00:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/decisions-api",
-          "author": null,
-          "description": "Fast, focused, low-cost decisions for any application.",
-          "link": "https://openai.com/index/decisions-api",
-          "publishedOn": "2026-10-22T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Build more responsive apps with the Decisions API",
           "imageUrl": null
         }
       ]
