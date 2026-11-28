@@ -12,6 +12,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/",
+          "author": "Ankur Tomar",
+          "description": "Benchmarks with Qwen3 and Llama on llama.cpp show a draft model sped up code, JSON, and tool calls up to 1.7x, while uncached agent loops ran 6% slower.\nThe post Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/",
+          "publishedOn": "2026-11-27T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=671425",
+          "author": "Chien Vu Minh",
+          "description": "For agent builders with many MCP integrations, Code Mode was 120x cheaper and 18x faster on 100-item fan-outs but less reliable on single lookups.\nThe post Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/",
+          "publishedOn": "2026-11-27T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/",
           "author": "Abdullahi Dattijo",
           "description": "Consultants gained 49 points on coding with AI, while apprentices also gained comprehension — which is why assisted work and expertise need separate names.\nThe post ChatGPT Boosted Consultants' Scores, Not Their Knowledge appeared first on Towards Data Science.",
@@ -980,46 +1000,6 @@
           "wordCount": null,
           "title": "What Is Harness Engineering? A Hands-On Introduction",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
-          "author": "Weiwei Hu",
-          "description": "From simplifying workflows to connecting knowledge and rules, coordinating AI agents, and delivering measurable business results.\nThe post How to Make AI Work for End-to-End Business Processes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
-          "publishedOn": "2026-10-28T15:30:00.000Z",
-          "wordCount": null,
-          "title": "How to Make AI Work for End-to-End Business Processes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/",
-          "author": "Daniel Manrique Castano",
-          "description": "Using spatstat raster layers and point process models to ask how neurons, astrocytes and microglia sit relative to each other\nThe post Where a Cell Sits Matters More Than How Many There Are appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/",
-          "publishedOn": "2026-10-28T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Where a Cell Sits Matters More Than How Many There Are",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/building-and-visualising-kolmogorovarnold-networks/",
-          "author": "Sam Everest",
-          "description": "Exploring what happens when neural networks learn functions instead of weights.\nThe post Building and Visualising Kolmogorov–Arnold Networks appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-and-visualising-kolmogorovarnold-networks/",
-          "publishedOn": "2026-10-28T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Building and Visualising Kolmogorov–Arnold Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/",
-          "author": "Spyros Georgopoulos",
-          "description": "Embeddings know that \"broken\" means \"defective\". They may not notice that ZX-4821 is not ZX-4812.\nThe post Your RAG Pipeline Is Missing a 1994 Algorithm appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/",
-          "publishedOn": "2026-10-28T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Your RAG Pipeline Is Missing a 1994 Algorithm",
-          "imageUrl": null
         }
       ]
     },
@@ -1167,16 +1147,6 @@
           "wordCount": 8903,
           "title": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
           "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-7-ways-ai-agent-wasting-tokens-feature.png"
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=25044",
-          "author": "Iván Palomares Carrascosa",
-          "description": "In this article, you will learn how to compare two strategies for adapting a large language model to a specific domain: fine-tuning with LoRA versus...",
-          "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
-          "publishedOn": "2026-10-28T11:00:00.000Z",
-          "wordCount": 8448,
-          "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
-          "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head-feature.png"
         }
       ]
     },
@@ -1231,6 +1201,16 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "siteUrl": "https://huggingface.co/blog",
       "articles": [
+        {
+          "id": "https://huggingface.co/blog/video-trainium3",
+          "author": null,
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "link": "https://huggingface.co/blog/video-trainium3",
+          "publishedOn": "2026-11-27T00:00:00.000Z",
+          "wordCount": 3501,
+          "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "imageUrl": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg"
+        },
         {
           "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
           "author": null,
@@ -1650,16 +1630,6 @@
           "wordCount": 3149,
           "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
           "imageUrl": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png"
-        },
-        {
-          "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "author": null,
-          "description": "A Blog post by NVIDIA on Hugging Face",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "publishedOn": "2026-10-28T14:58:17.000Z",
-          "wordCount": 3309,
-          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/3vFxCEUXz_xJVrTBr4hNr.jpeg"
         }
       ]
     },
@@ -2125,6 +2095,17 @@
       "siteUrl": "https://www.analyticsvidhya.com/",
       "articles": [
         {
+          "id": "https://www.analyticsvidhya.com/?p=259059",
+          "author": "Soumil Jain",
+          "description": "Your agent might work perfectly in a demo, but real users bring unexpected challenges. It picks the wrong tool, ignores retrieved context, or generates unreliable answers. Observability tools show what happened, but rarely explain why or how to fix it, leaving developers scrolling through traces and debugging failures. With every model release introducing new failure […]\nThe post Building Self-Correcting AI Agents with Opik appeared first on Analytics Vidhya.",
+          "link": "https://www.analyticsvidhya.com/blog/2026/11/self-correcting-ai-agents-opik/",
+          "publishedOn": "2026-11-27T12:44:15.000Z",
+          "wordCount": null,
+          "title": "Building Self-Correcting AI Agents with Opik",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.analyticsvidhya.com/?p=259084",
           "author": "Riya Bansal",
           "description": "Ask a chatbot what happens when a glass falls off a table, and it will describe the outcome perfectly. Ask a robot to handle that same glass, and things become considerably more complicated. This gap between describing the world and understanding it lies at the heart of world models. Yann LeCun, former Meta’s AI chief, […]\nThe post World Models: Why Yann LeCun Believes LLMs Are a Dead End appeared first on Analytics Vidhya.",
@@ -2351,7 +2332,18 @@
       "title": "RSIP Vision",
       "feedUrl": "https://www.rsipvision.com/feed/",
       "siteUrl": "https://www.rsipvision.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.rsipvision.com/?p=17697",
+          "author": "David M",
+          "description": "New York, NY | December 11–12, 2026 RSIP Vision will be at NYC MISS 2026 RSIP Vision is heading to New York for the NYC Minimally Invasive Spine Surgery Symposium on December 11. If you’re attending, we’d love to connect and talk about how AI and computer vision are changing spine care, including robotic surgery, […]\nThe post RSIP Vision is attending MISS in New York, NY appeared first on RSIP Vision.",
+          "link": "https://www.rsipvision.com/rsip-vision-is-attending-miss-in-new-york-ny/",
+          "publishedOn": "2026-11-26T15:43:38.000Z",
+          "wordCount": null,
+          "title": "RSIP Vision is attending MISS in New York, NY",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "RSIP Vision Learns Archives - RSIP Vision",
@@ -3325,36 +3317,6 @@
           "wordCount": null,
           "title": "Evernote turns AI-driven discovery into paid subscriptions",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "author": null,
-          "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "publishedOn": "2026-10-28T13:15:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/the-future-of-the-firm",
-          "author": null,
-          "description": "How AI might enter the org chart—beneath, beside, and between us.",
-          "link": "https://openai.com/index/the-future-of-the-firm",
-          "publishedOn": "2026-10-28T10:00:00.000Z",
-          "wordCount": null,
-          "title": "The future of the firm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/index/legora",
-          "author": null,
-          "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "link": "https://openai.com/index/legora",
-          "publishedOn": "2026-10-28T09:30:00.000Z",
-          "wordCount": null,
-          "title": "Legora is building the agentic operating system for legal work",
-          "imageUrl": null
         }
       ]
     },
@@ -3410,22 +3372,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!NQ70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff51bb5d0-4390-4676-af4a-6bc8199412d5_2006x1362.png"
-        },
-        {
-          "id": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-          "author": "Nathan Lambert",
-          "description": "A sort of review of the benchmarking industry and what's missing.",
-          "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-          "publishedOn": "2026-10-28T12:58:39.000Z",
-          "wordCount": null,
-          "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png"
         }
       ]
     },
@@ -3434,6 +3380,16 @@
       "feedUrl": "https://www.alignmentforum.org/feed.xml",
       "siteUrl": "https://www.alignmentforum.org",
       "articles": [
+        {
+          "id": "o9dPGxEbpQrnasgDB",
+          "author": "Linda Linsefors",
+          "description": "I currently believe that in a typical (well trained and under-parametrized) transformer model, there is something like superposition-type compression in the residual stream, but not in the MLP neurons.\nBy \"superposition-type compression\", I mean some way of storing extra features using the fact that you can have \n\nmjx-math {\n  display: inline-block;\n  text-align: left;\n  line-height: 0;\n  text-indent: 0;\n  font-style: normal;\n  font-weight: normal;\n  font-size: 100%;\n  font-size-adjust: none;\n  letter-spacing: normal;\n  border-collapse: collapse;\n  word-wrap: normal;\n  word-spacing: normal;\n  white-space: nowrap;\n  direction: ltr;\n  padding: 1px 0;\n}\n\nmjx-container[jax=\"CHTML\"][display=\"true\"] {\n  display: block;\n  text-align: center;\n  margin: 1em 0;\n}\n\nmjx-container[jax=\"CHTML\"][display=…",
+          "link": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons",
+          "publishedOn": "2026-11-27T12:44:01.000Z",
+          "wordCount": 21026,
+          "title": "I don’t expect superposition in transformer MLP neurons",
+          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg"
+        },
         {
           "id": "e758PJCpwAwyodvEj",
           "author": "elifland",
@@ -3603,16 +3559,6 @@
           "wordCount": 33218,
           "title": "Explaining “AI might obliterate you” to senior policymakers in India",
           "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/v6vwu7yxmwyec1evl1y2"
-        },
-        {
-          "id": "BFyNkWgxucqy6Wcee",
-          "author": "Chris_Leong",
-          "description": "This reading was previously included Day 2 of the BlueDot Governance course. In the newest version of the BlueDot Governance course, this reading is now optional. I was sad to see this reading removed because I think it’s a great provocation. However, since it’s no longer part of the core curriculum content, I’m publishing my notes separately from the rest of my day 2 notes.\n\nA short extract:\nMiles argues that: “At best, we’ll 80/20 it — mitigating 80% of the risks with 20% of the effort that we would have applied in a world with slower AI progress and an earlier start on serious governance… We will probably not be able to totally avoid all very bad but not quite worst-case scenarios (e.g., a very unjust economic transition that causes a lot of suffering and suicides, rampant AI psychosis …",
-          "link": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles",
-          "publishedOn": "2026-10-27T19:11:32.000Z",
-          "wordCount": 24096,
-          "title": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
-          "imageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/BFyNkWgxucqy6Wcee/llnioyqbiwzsqvdcxxpu"
         }
       ]
     }
